@@ -1,0 +1,1455 @@
+{
+ "year": "115",
+ "updated_at": "2026-10-15",
+ "districts": [
+  {
+   "name": "委託行商圈",
+   "city": "基隆市",
+   "aliases": []
+  },
+  {
+   "name": "深澳坑商圈",
+   "city": "基隆市",
+   "aliases": []
+  },
+  {
+   "name": "新濱町形象商圈",
+   "city": "基隆市",
+   "aliases": []
+  },
+  {
+   "name": "正濱和平島商圈",
+   "city": "基隆市",
+   "aliases": []
+  },
+  {
+   "name": "安樂國城商圈",
+   "city": "基隆市",
+   "aliases": []
+  },
+  {
+   "name": "重南書路書店商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "南昌家具街商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "台北市新中華路影音電器街",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "台北市沅陵商店街",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "艋舺服飾商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "南機場商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "萬華街區商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "北門相機街商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "愛國東路婚紗街商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "榮町商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "台大公館商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "大光華商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "迪化街商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "華陰街商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "朝陽服飾材料商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "永樂商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "後站商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "寧夏夜市商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "圓環太平永樂町商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "赤峰街商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "圓山商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "至聖花博商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "台北大橋頭延三商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "大龍峒商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "四平陽光商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "中山北路婚紗商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "中山商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "中山區大正町條通商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "大直商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "晴光商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "條通商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "永康商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "臨江觀光商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "東區商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "龍泉商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "艋舺夜市商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "西門町商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "加蚋商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "華西街夜市商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "民生社區商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "士林捷運站周邊",
+   "city": "台北市",
+   "aliases": [
+    "士林捷運商圈"
+   ]
+  },
+  {
+   "name": "天母商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "士林觀光夜市商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "承德路中古汽車商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "蘭雅商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "新北投溫泉商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "西湖商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "貓空商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "萬芳商圈",
+   "city": "台北市",
+   "aliases": []
+  },
+  {
+   "name": "萬里商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "野柳商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "金山商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "板橋府中商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "亞東商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "汐止義民商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "深坑老街商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "石碇商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "九份老街商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "瑞芳老街商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "平溪魅力商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "菁桐商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "雙溪商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "坪林商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "烏來商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "韓國街商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "中和華新街商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "三峽民權老街商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "三峽民生商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "三峽三角湧商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "鶯歌商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "新莊廟街商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "新莊副都心商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "林口建成商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "蘆洲商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "八里商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "八里渡船頭商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "淡水老街商圈",
+   "city": "新北市",
+   "aliases": []
+  },
+  {
+   "name": "中壢健行商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "中壢車站商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "青埔商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "六和商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "中原商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "中平商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "魅力金三角商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "楊梅四維商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "藝文商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "桃園市莊敬商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "桃園站前商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "博愛商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "中路商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "八塊厝形象商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "大湳形象商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "大溪形象商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "拉拉山商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "角板山商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "枕頭山商圈",
+   "city": "桃園市",
+   "aliases": []
+  },
+  {
+   "name": "新竹市北區形象商圈",
+   "city": "新竹市",
+   "aliases": []
+  },
+  {
+   "name": "新竹市中央形象商圈",
+   "city": "新竹市",
+   "aliases": []
+  },
+  {
+   "name": "竹北光明商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "文興商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "竹北水月商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "湖口形象商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "九芎湖商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "關西魅力商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "芎林客家美食商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "寶山鄉寶山香商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "竹東中央商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "內灣形象商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "尖石溫泉商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "北埔老街商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "峨眉鄉十二寮休閒商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "峨眉藝創商圈",
+   "city": "新竹縣",
+   "aliases": []
+  },
+  {
+   "name": "苗栗縣頭份藝創商圈",
+   "city": "苗栗縣",
+   "aliases": []
+  },
+  {
+   "name": "南庄山城花園品牌商圈",
+   "city": "苗栗縣",
+   "aliases": []
+  },
+  {
+   "name": "桂花巷商圈",
+   "city": "苗栗縣",
+   "aliases": []
+  },
+  {
+   "name": "苗栗縣三義水美街商圈",
+   "city": "苗栗縣",
+   "aliases": []
+  },
+  {
+   "name": "西湖商圈",
+   "city": "苗栗縣",
+   "aliases": []
+  },
+  {
+   "name": "自由路商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "電子街商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "繼光商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "自由路五金電料商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "大隆路商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "美術園道商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "精明一街商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "一中街商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "大坑商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "天津路服飾商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "昌平皮鞋商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "逢甲商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "太平樹孝商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "大里中興商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "豐原廟東復興商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "后里泰安商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "東勢形象商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "谷關商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "新社商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "大雅學府商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "東海藝術街商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "台中港舶來品商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "大甲觀光商圈",
+   "city": "台中市",
+   "aliases": []
+  },
+  {
+   "name": "彰化市大埔商圈",
+   "city": "彰化縣",
+   "aliases": []
+  },
+  {
+   "name": "永樂商圈",
+   "city": "彰化縣",
+   "aliases": []
+  },
+  {
+   "name": "小西商圈",
+   "city": "彰化縣",
+   "aliases": []
+  },
+  {
+   "name": "番花道商圈",
+   "city": "彰化縣",
+   "aliases": []
+  },
+  {
+   "name": "鹿港廟口商圈",
+   "city": "彰化縣",
+   "aliases": []
+  },
+  {
+   "name": "鹿港老街商圈",
+   "city": "彰化縣",
+   "aliases": []
+  },
+  {
+   "name": "打石巷商圈",
+   "city": "彰化縣",
+   "aliases": []
+  },
+  {
+   "name": "田中商圈",
+   "city": "彰化縣",
+   "aliases": []
+  },
+  {
+   "name": "北斗商圈",
+   "city": "彰化縣",
+   "aliases": []
+  },
+  {
+   "name": "田尾商圈",
+   "city": "彰化縣",
+   "aliases": []
+  },
+  {
+   "name": "王功商圈",
+   "city": "彰化縣",
+   "aliases": []
+  },
+  {
+   "name": "二水商圈",
+   "city": "彰化縣",
+   "aliases": []
+  },
+  {
+   "name": "南投市形象商圈",
+   "city": "南投縣",
+   "aliases": []
+  },
+  {
+   "name": "中興新村商圈",
+   "city": "南投縣",
+   "aliases": []
+  },
+  {
+   "name": "在地商圈",
+   "city": "南投縣",
+   "aliases": []
+  },
+  {
+   "name": "草屯商圈",
+   "city": "南投縣",
+   "aliases": []
+  },
+  {
+   "name": "草屯鎮形象商圈",
+   "city": "南投縣",
+   "aliases": []
+  },
+  {
+   "name": "名間鄉松柏嶺商圈",
+   "city": "南投縣",
+   "aliases": []
+  },
+  {
+   "name": "集集商圈",
+   "city": "南投縣",
+   "aliases": []
+  },
+  {
+   "name": "水里坑商圈",
+   "city": "南投縣",
+   "aliases": []
+  },
+  {
+   "name": "水里商圈",
+   "city": "南投縣",
+   "aliases": []
+  },
+  {
+   "name": "車埕商圈",
+   "city": "南投縣",
+   "aliases": []
+  },
+  {
+   "name": "日月潭形象商圈",
+   "city": "南投縣",
+   "aliases": []
+  },
+  {
+   "name": "竹山商圈",
+   "city": "南投縣",
+   "aliases": []
+  },
+  {
+   "name": "大水堀商圈",
+   "city": "南投縣",
+   "aliases": []
+  },
+  {
+   "name": "雲林縣斗南青創商圈",
+   "city": "雲林縣",
+   "aliases": []
+  },
+  {
+   "name": "雲林縣斗南鎮形象商圈",
+   "city": "雲林縣",
+   "aliases": []
+  },
+  {
+   "name": "雲林縣虎尾鎮魅力商圈",
+   "city": "雲林縣",
+   "aliases": []
+  },
+  {
+   "name": "雲林縣土庫好COOL商圈",
+   "city": "雲林縣",
+   "aliases": []
+  },
+  {
+   "name": "雲林縣古坑鄉草嶺形象商圈",
+   "city": "雲林縣",
+   "aliases": []
+  },
+  {
+   "name": "雲林縣古坑鄉華山商圈",
+   "city": "雲林縣",
+   "aliases": []
+  },
+  {
+   "name": "雲林縣西螺鎮延平老街商圈",
+   "city": "雲林縣",
+   "aliases": []
+  },
+  {
+   "name": "雲林縣北港鎮形象商圈",
+   "city": "雲林縣",
+   "aliases": []
+  },
+  {
+   "name": "雲林縣金湖商圈",
+   "city": "雲林縣",
+   "aliases": []
+  },
+  {
+   "name": "諸羅商圈",
+   "city": "嘉義市",
+   "aliases": []
+  },
+  {
+   "name": "嘉義市文化促進商圈",
+   "city": "嘉義市",
+   "aliases": []
+  },
+  {
+   "name": "太平老街商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "竹崎商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "水上商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "鹿草風華商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "縣府太子商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "水牛太保商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "朴子市魅力商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "朴子文化商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "東石商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "新港魅力商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "民雄商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "民雄興福商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "大林鎮商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "義竹商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "布袋商圈",
+   "city": "嘉義縣",
+   "aliases": []
+  },
+  {
+   "name": "孔廟商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "海安商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "國華友愛新商圈",
+   "city": "台南市",
+   "aliases": [
+    "國華友愛商圈"
+   ]
+  },
+  {
+   "name": "新營商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "新化商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "大同商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "五條港商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "赤嵌商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "成大商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "三星商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "灣裡商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "安平商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "鹽埕街區商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "安平五期商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "東寧商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "大東橋商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "大塩行商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "康橋商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "歸仁商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "玉井商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "楠西商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "麻豆商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "佳里商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "學甲商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "北門商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "後壁商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "白河商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "關子嶺商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "東山商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "六甲商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "下營商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "鹽水商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "善化商圈",
+   "city": "台南市",
+   "aliases": []
+  },
+  {
+   "name": "南華商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "新堀江商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "中央公園商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "六合夜市",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "忠孝國民夜市",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "青年家具街",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "興中夜市",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "新鹽埕商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "鹽埕堀江商場",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "鹽埕堀江商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "哈瑪星商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "旗后商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "三多商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "光華夜市",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "長明商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "河堤商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "三鳳中街",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "鳥松家具商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "後驛商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "大連街商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "蓮池潭商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "舊城商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "鳳山三民路商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "鳳山中華街商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "旗山商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "美濃商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "瀰濃社區",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "六龜商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "甲仙商圈",
+   "city": "高雄市",
+   "aliases": []
+  },
+  {
+   "name": "屏東縣勝利商圈",
+   "city": "屏東縣",
+   "aliases": []
+  },
+  {
+   "name": "屏東縣潮州觀光商圈",
+   "city": "屏東縣",
+   "aliases": []
+  },
+  {
+   "name": "屏東縣潮州鎮三角公園商圈",
+   "city": "屏東縣",
+   "aliases": []
+  },
+  {
+   "name": "屏東縣潮州鎮日式文化商圈",
+   "city": "屏東縣",
+   "aliases": []
+  },
+  {
+   "name": "小琉球商圈",
+   "city": "屏東縣",
+   "aliases": []
+  },
+  {
+   "name": "屏東縣恆春鎮墾丁商圈",
+   "city": "屏東縣",
+   "aliases": []
+  },
+  {
+   "name": "神農商圈",
+   "city": "宜蘭縣",
+   "aliases": []
+  },
+  {
+   "name": "雙城產業觀光商圈",
+   "city": "宜蘭縣",
+   "aliases": []
+  },
+  {
+   "name": "冬山老街商圈",
+   "city": "宜蘭縣",
+   "aliases": []
+  },
+  {
+   "name": "南方澳商圈",
+   "city": "宜蘭縣",
+   "aliases": []
+  },
+  {
+   "name": "蘇澳商圈",
+   "city": "宜蘭縣",
+   "aliases": []
+  },
+  {
+   "name": "花蓮市 百年老街商圈",
+   "city": "花蓮縣",
+   "aliases": []
+  },
+  {
+   "name": "花蓮市形象商圈",
+   "city": "花蓮縣",
+   "aliases": []
+  },
+  {
+   "name": "花蓮縣石藝大街商圈",
+   "city": "花蓮縣",
+   "aliases": []
+  },
+  {
+   "name": "花蓮縣北新秀地區商圈",
+   "city": "花蓮縣",
+   "aliases": []
+  },
+  {
+   "name": "花蓮縣鯉魚潭商圈",
+   "city": "花蓮縣",
+   "aliases": []
+  },
+  {
+   "name": "台東市區鐵花商圈",
+   "city": "台東縣",
+   "aliases": []
+  },
+  {
+   "name": "東糖商圈",
+   "city": "台東縣",
+   "aliases": []
+  },
+  {
+   "name": "大台東商圈",
+   "city": "台東縣",
+   "aliases": []
+  },
+  {
+   "name": "鹿野高台商圈",
+   "city": "台東縣",
+   "aliases": []
+  },
+  {
+   "name": "關山永續商圈",
+   "city": "台東縣",
+   "aliases": []
+  },
+  {
+   "name": "太麻里商圈",
+   "city": "台東縣",
+   "aliases": []
+  },
+  {
+   "name": "澎東商圈",
+   "city": "澎湖縣",
+   "aliases": []
+  },
+  {
+   "name": "澎南商圈",
+   "city": "澎湖縣",
+   "aliases": []
+  },
+  {
+   "name": "澎湖商圈",
+   "city": "澎湖縣",
+   "aliases": []
+  },
+  {
+   "name": "金門縣金沙鎮沙全商圈",
+   "city": "金門縣",
+   "aliases": []
+  },
+  {
+   "name": "金門山外市港商圈",
+   "city": "金門縣",
+   "aliases": []
+  },
+  {
+   "name": "金門縣新市商圈",
+   "city": "金門縣",
+   "aliases": []
+  },
+  {
+   "name": "金門縣金寧商圈",
+   "city": "金門縣",
+   "aliases": []
+  },
+  {
+   "name": "金門縣金城鎮後浦商圈",
+   "city": "金門縣",
+   "aliases": []
+  },
+  {
+   "name": "松山商圈",
+   "city": "台北市",
+   "aliases": []
+  }
+ ]
+}
