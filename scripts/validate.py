@@ -67,12 +67,38 @@ def main(path):
                 errors.append(f"{iid}: 網址不是 https：{source.get('url')}")
             if not source.get("outlet"):
                 errors.append(f"{iid}: 缺媒體名稱")
+    discussions = data.get("discussions", [])
+    if not isinstance(discussions, list) or len(discussions) > 200:
+        errors.append("discussions 必須是陣列且不超過 200 筆")
+        discussions = []
+    for post in discussions:
+        pid = post.get("id", "?")
+        if pid in ids:
+            errors.append(f"{pid}: id 重複")
+        ids.add(pid)
+        title = post.get("title", "")
+        if not title or len(title) > 80 or "夜市" in title:
+            errors.append(f"{pid}: 討論標題空白、超過 80 字或含夜市")
+        if len(post.get("summary", "")) > 120:
+            errors.append(f"{pid}: summary 超過 120 字")
+        if not str(post.get("url", "")).startswith("https://www.ptt.cc/bbs/"):
+            errors.append(f"{pid}: 討論網址必須是 PTT 文章")
+        if not post.get("board"):
+            errors.append(f"{pid}: 缺看板名稱")
+        if not isinstance(post.get("push"), int) or not -100 <= post["push"] <= 100:
+            errors.append(f"{pid}: push 須為 -100 到 100 的整數（爆＝100）")
+        try:
+            parse_time(post["published_at"])
+        except Exception:
+            errors.append(f"{pid}: published_at 格式錯誤")
+        if not isinstance(post.get("cities"), list) or not isinstance(post.get("districts"), list):
+            errors.append(f"{pid}: cities / districts 必須是陣列")
     if errors:
         print("驗證失敗：")
         for err in errors:
             print(" -", err)
         return 1
-    print(f"驗證通過：{len(items)} 筆")
+    print(f"驗證通過：新聞 {len(items)} 筆、PTT 討論 {len(discussions)} 筆")
     return 0
 
 

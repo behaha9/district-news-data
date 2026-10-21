@@ -57,6 +57,23 @@ def main(new_path):
         data = json.load(fh)
     with open(new_path, encoding="utf-8") as fh:
         incoming = json.load(fh)
+    # new_items.json may be a plain list of news items, or
+    # {"items": [...], "discussions": [...]} when PTT posts were curated too.
+    new_discussions = []
+    if isinstance(incoming, dict):
+        new_discussions = incoming.get("discussions", [])
+        incoming = incoming.get("items", [])
+
+    posts = {p["url"]: p for p in data.get("discussions", [])}
+    posts_added = posts_updated = 0
+    for post in new_discussions:
+        if post["url"] in posts:
+            existing = posts[post["url"]]
+            existing["push"] = post["push"]  # keep the latest heat
+            posts_updated += 1
+        else:
+            posts[post["url"]] = post
+            posts_added += 1
 
     items = data["items"]
     by_id = {item["id"]: item for item in items}
@@ -86,6 +103,9 @@ def main(new_path):
     dropped = len(items) - len(kept)
     kept.sort(key=lambda i: ts(i["published_at"]), reverse=True)
     data["items"] = kept
+    kept_posts = [p for p in posts.values() if ts(p["published_at"]) >= cutoff]
+    kept_posts.sort(key=lambda p: (p["push"], ts(p["published_at"])), reverse=True)
+    data["discussions"] = kept_posts
     data["generated_at"] = now.replace(microsecond=0).isoformat()
     with open(LATEST, "w", encoding="utf-8") as fh:
         json.dump(data, fh, ensure_ascii=False, indent=1)
@@ -101,11 +121,14 @@ def main(new_path):
         "added": added,
         "merged": merged,
         "items": touched,
+        "discussions_added": posts_added,
+        "discussions_updated": posts_updated,
     })
     with open(archive_path, "w", encoding="utf-8") as fh:
         json.dump(archive, fh, ensure_ascii=False, indent=1)
 
-    print(f"新增 {added}／合併 {merged}／過期移除 {dropped}／目前共 {len(kept)} 則")
+    print(f"新聞：新增 {added}／合併 {merged}／過期移除 {dropped}／目前共 {len(kept)} 則")
+    print(f"PTT：新增 {posts_added}／更新熱度 {posts_updated}／目前共 {len(kept_posts)} 篇")
 
 
 if __name__ == "__main__":
