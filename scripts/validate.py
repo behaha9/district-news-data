@@ -43,6 +43,12 @@ def main(path):
             errors.append(f"{iid}: 標題含夜市（依使用者規則不收）")
         if len(item.get("summary", "")) > 120:
             errors.append(f"{iid}: summary 超過 120 字")
+        note = item.get("admin_note")
+        if note is not None:
+            if not isinstance(note, str) or not note.strip() or len(note) > 80:
+                errors.append(f"{iid}: admin_note 須為 1–80 字的文字")
+            if not any(d.get("priority") for d in item.get("districts", [])):
+                errors.append(f"{iid}: admin_note 只用於重點商圈新聞")
         if item.get("category") not in CATEGORIES:
             errors.append(f"{iid}: category 不在允許清單")
         if item.get("alert") not in ALERTS:

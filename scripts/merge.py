@@ -41,6 +41,8 @@ def merge_into(base, item):
     base["sources"] = merge_sources(base["sources"], item["sources"])
     if item.get("alert") and not base.get("alert"):
         base["alert"] = item["alert"]
+    if item.get("admin_note") and not base.get("admin_note"):
+        base["admin_note"] = item["admin_note"]
     base["cities"] = sorted(set(base.get("cities", [])) | set(item.get("cities", [])))
     names = {d["name"]: d for d in base.get("districts", [])}
     for district in item.get("districts", []):
