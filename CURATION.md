@@ -1,7 +1,8 @@
 # 商圈新聞每日整理：作業程序
 
 本倉庫是「商圈觀測」網站 AI 精選頁（/curated）的資料來源。網站每 15 分鐘讀取 `data/latest.json`。
-本文件是每次整理（排程或手動）都要遵守的唯一程序。
+本文件是每次整理（排程或手動，不論由哪個 AI 執行）都要遵守的唯一程序。
+**同一時間只能有一個執行者**（Claude 或 Codex）負責排程整理，避免互相覆蓋。
 
 ## 對象與目的
 
@@ -21,12 +22,12 @@
 時間範圍：只收**近 7 天**發布的新聞。
 
 1. **網站候選清單**（有發布時間，優先使用）
-   用 WebFetch 讀取 `https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d`，
+   用網頁讀取工具讀取 `https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d`，
    分三次各要一份清單（每行：published_at | title | source | url，不得省略符合者）：
    - 標題含：商圈、老街、商店街
    - 標題含：延期、取消、停辦、改期、順延、暫停
    - 標題含：淹水、積水、停電、受損、停業、暫停營業、招牌，且含商家、店家、攤商、商圈、老街
-2. **網路搜尋**（WebSearch，mode 用 extended；同一輪的查詢一次送出）
+2. **網路搜尋**（用網路搜尋工具；以繁體中文查詢臺灣新聞）
    - 商圈 活動 登場
    - 商圈 店家 生意
    - 商圈 補助 市府 經發局
@@ -34,14 +35,14 @@
    - 老街 商圈 人潮
    - 商圈 停業 歇業 空店
    - 另輪替 2 組「縣市 商圈」（例：台南 商圈、高雄 商圈），每次換不同縣市
-3. 網路搜尋結果沒有發布時間時，用 WebFetch 打開該篇確認日期；**確認不了日期就不收**。
+3. 網路搜尋結果沒有發布時間時，打開該篇原文確認日期；**確認不了日期就不收**。
 4. **重點商圈輪查**（只在完整版執行）
    執行 `python3 scripts/next_districts.py --advance`，會印出 6 組查詢（每組 5 個重點商圈名稱以 OR 連接）並推進輪替位置。
-   用 WebSearch（mode: extended，6 組一次送出）逐組搜尋。搜尋結果中標題或內容明確提到該商圈、且在近 7 天內的新聞，依第二節規則判斷收錄。
+   用網路搜尋工具逐組搜尋。搜尋結果中標題或內容明確提到該商圈、且在近 7 天內的新聞，依第二節規則判斷收錄。
    289 處約 10 個工作日輪完一次。輪替位置存在 `data/rotation.json`，隨 data/ 一起提交。
 
 5. **PTT 討論**（每次執行都做，只需讀一次）
-   用 WebFetch 讀取 `https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates/ptt?window=3d`，
+   用網頁讀取工具讀取 `https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates/ptt?window=3d`，
    要求列出全部（每行：push | published_at | board | title | url）。
    此網址尚未上線（回傳錯誤或 404）時，略過本步驟，回報中註明「PTT 來源尚未上線」。
    PTT 會阻擋直接讀取，**不要**改用其他方式直接抓 ptt.cc。
