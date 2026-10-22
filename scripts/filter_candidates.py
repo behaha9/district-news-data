@@ -3,9 +3,9 @@
 
 Usage: python3 scripts/filter_candidates.py
 
-Reads inputs/status.json, inputs/candidates.json and inputs/candidates-ptt.json.
+Reads inputs/status.json, inputs/candidates.json .
 Prints the fetch time, then three keyword groups of news candidates and the PTT
-list, one line each: published_at | title | source | url  (PTT: push | ... | board).
+list, one line each: published_at | title | source | url .
 Exit code 2 when the files are missing or older than MAX_AGE_HOURS, so the caller
 knows to fall back to reading the website URLs directly.
 """
@@ -63,14 +63,6 @@ def main():
     else:
         print("\n找不到 inputs/candidates.json")
 
-    print()
-    if os.path.exists("inputs/candidates-ptt.json"):
-        posts = load("inputs/candidates-ptt.json")["items"]
-        print(f"## PTT（{len(posts)} 篇）")
-        for p in posts:
-            print(f"{p.get('push_raw', p.get('push',''))} | {p.get('published_at','')} | {p.get('board','')} | {p.get('title','')} | {p.get('url','')}")
-    else:
-        print("找不到 inputs/candidates-ptt.json")
     return 2 if stale else 0
 
 

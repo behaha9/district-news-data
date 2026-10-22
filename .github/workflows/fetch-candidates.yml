@@ -48,13 +48,12 @@ jobs:
             rm -f "$out.tmp" "$out.hdr"; return 1
           }
           fetch "$base/candidates?window=2d" inputs/candidates.json || true
-          fetch "$base/candidates/ptt?window=3d" inputs/candidates-ptt.json || true
           python3 - <<'PY2'
           import json, os
           from datetime import datetime, timezone, timedelta
           now = datetime.now(timezone(timedelta(hours=8))).replace(microsecond=0).isoformat()
           status = {"fetched_at": now, "files": {}}
-          for name in ("candidates.json", "candidates-ptt.json"):
+          for name in ("candidates.json",):
               path = f"inputs/{name}"
               if os.path.exists(path) and os.path.getmtime(path) > datetime.now().timestamp() - 600:
                   status["files"][name] = len(json.load(open(path))["items"])
