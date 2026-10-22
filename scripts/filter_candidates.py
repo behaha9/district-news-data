@@ -38,9 +38,9 @@ def main():
         return 2
     age = datetime.now(TAIPEI) - fetched
     print(f"候選清單抓取時間：{status['fetched_at']}（{age.total_seconds() / 3600:.1f} 小時前）")
-    stale = age > timedelta(hours=MAX_AGE_HOURS)
+    stale = age > timedelta(hours=MAX_AGE_HOURS) or "candidates.json" not in status.get("files", {})
     if stale:
-        print(f"警告：清單超過 {MAX_AGE_HOURS} 小時，請另外嘗試用網站網址讀取最新清單。")
+        print(f"警告：清單超過 {MAX_AGE_HOURS} 小時或本次抓取失敗（見 inputs/fetch-log.txt），請另外嘗試用網站網址讀取最新清單。")
 
     if os.path.exists("inputs/candidates.json"):
         items = load("inputs/candidates.json")["items"]

@@ -30,32 +30,36 @@ jobs:
         run: |
           set -u
           base="https://business-district-monitor.behaha.chatgpt.site/api/public/v1"
+          : > inputs/fetch-log.txt
           fetch() {
             url="$1"; out="$2"
-            for attempt in 1 2 3; do
-              if curl -fsS --max-time 40 "$url" -o "$out.tmp" && python3 -c "import json,sys; d=json.load(open(sys.argv[1])); assert isinstance(d.get('items'), list)" "$out.tmp"; then
-                mv "$out.tmp" "$out"; echo "OK $url"; return 0
+            for attempt in 1 2 3 4; do
+              code=$(curl -sS --max-time 40 -A "district-news-data-fetcher/1.0 (+https://github.com/behaha9/district-news-data)" \
+                -D "$out.hdr" -o "$out.tmp" -w "%{http_code}" "$url" 2>>inputs/fetch-log.txt || echo "000")
+              echo "$(date -u +%H:%M:%S) attempt=$attempt code=$code url=$url bytes=$(wc -c < "$out.tmp" 2>/dev/null || echo 0)" >> inputs/fetch-log.txt
+              if [ "$code" = "200" ] && python3 -c "import json,sys; d=json.load(open(sys.argv[1])); assert isinstance(d.get('items'), list)" "$out.tmp" 2>>inputs/fetch-log.txt; then
+                mv "$out.tmp" "$out"; rm -f "$out.hdr"; return 0
               fi
-              echo "retry $attempt $url"; sleep 20
+              grep -iE "^(server|cf-ray|cf-mitigated|retry-after|content-type):" "$out.hdr" >> inputs/fetch-log.txt 2>/dev/null || true
+              head -c 300 "$out.tmp" >> inputs/fetch-log.txt 2>/dev/null || true; echo >> inputs/fetch-log.txt
+              sleep 20
             done
-            rm -f "$out.tmp"; echo "FAILED $url"; return 1
+            rm -f "$out.tmp" "$out.hdr"; return 1
           }
-          ok=0
-          fetch "$base/candidates?window=2d" inputs/candidates.json && ok=$((ok+1))
-          fetch "$base/candidates/ptt?window=3d" inputs/candidates-ptt.json && ok=$((ok+1))
-          python3 - <<'PY'
+          fetch "$base/candidates?window=2d" inputs/candidates.json || true
+          fetch "$base/candidates/ptt?window=3d" inputs/candidates-ptt.json || true
+          python3 - <<'PY2'
           import json, os
           from datetime import datetime, timezone, timedelta
           now = datetime.now(timezone(timedelta(hours=8))).replace(microsecond=0).isoformat()
           status = {"fetched_at": now, "files": {}}
           for name in ("candidates.json", "candidates-ptt.json"):
               path = f"inputs/{name}"
-              if os.path.exists(path):
+              if os.path.exists(path) and os.path.getmtime(path) > datetime.now().timestamp() - 600:
                   status["files"][name] = len(json.load(open(path))["items"])
           json.dump(status, open("inputs/status.json", "w"), ensure_ascii=False, indent=1)
           print(status)
-          PY
-          test "$ok" -ge 1
+          PY2
 
       - name: 提交
         run: |
