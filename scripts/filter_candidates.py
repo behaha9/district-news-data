@@ -4,7 +4,7 @@
 Usage: python3 scripts/filter_candidates.py
 
 Reads inputs/status.json, inputs/candidates.json .
-Prints the fetch time, then three keyword groups of news candidates and the PTT
+Prints the fetch time, then three keyword groups of news candidates.
 list, one line each: published_at | title | source | url .
 Exit code 2 when the files are missing or older than MAX_AGE_HOURS, so the caller
 knows to fall back to reading the website URLs directly.
