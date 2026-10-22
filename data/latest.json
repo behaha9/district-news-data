@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T12:17:04+08:00",
+ "generated_at": "2026-10-22T16:55:02+08:00",
  "items": [
   {
    "id": "20261022-nanzhuang-concert-postponed",
@@ -133,6 +133,25 @@
     }
    ],
    "admin_note": "水里商圈為115年補助名單，報導指人潮冷清，可留意活動成效與KPI達成情形。"
+  },
+  {
+   "id": "20261021-tainan-shopping-festival",
+   "title": "臺南購物節首波月月抽10月24日登場，串聯商圈祭與國旅加碼",
+   "summary": "臺南市政府宣布購物節首波月月抽10月24日登場，串聯商圈祭、國旅加碼迎接連假商機。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-10-21T08:26:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "臺南市政府",
+     "url": "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849",
+     "published_at": "2026-10-21T08:26:00+08:00"
+    }
+   ]
   },
   {
    "id": "20261021-lanya-festival",
