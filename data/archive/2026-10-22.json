@@ -93,6 +93,213 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-10-22T20:46:47+08:00",
+   "added": 7,
+   "merged": 1,
+   "items": [
+    {
+     "id": "20261021-lukang-wall-collapse",
+     "title": "薔琵逼近彰化沿海強風，鹿港老街古厝磚牆坍塌",
+     "summary": "薔琵颱風逼近，彰化沿海颳10級強陣風，鹿港老街一處古厝磚牆坍塌，報導指現場有災情。",
+     "category": "商圈動向",
+     "alert": "商圈受災",
+     "published_at": "2026-10-21T22:53:00+08:00",
+     "cities": [
+      "彰化縣"
+     ],
+     "districts": [
+      {
+       "name": "鹿港老街商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "鹿港老街商圈為115年補助名單，老街受損可能影響商圈營運與活動執行，可留意後續復原情形。",
+     "sources": [
+      {
+       "outlet": "自由時報電子報",
+       "url": "https://news.ltn.com.tw/news/Changhua/breakingnews/5614750",
+       "published_at": "2026-10-21T22:53:00+08:00"
+      },
+      {
+       "outlet": "三立新聞網",
+       "url": "https://msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%80%BC%E8%BF%91-%E5%BD%B0%E5%8C%96%E6%B2%BF%E6%B5%B7%E7%8B%82%E5%88%AE10%E7%B4%9A%E5%BC%B7%E9%A2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97-%E8%80%81%E7%89%86%E5%9D%8D%E5%A1%8C-%E6%85%98%E6%B3%81%E6%9B%9D%E5%85%89/ar-AA2fMCyP",
+       "published_at": "2026-10-22T06:06:00+08:00"
+      },
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://ettoday.net/news/20261022/3259040.htm",
+       "published_at": "2026-10-22T12:32:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261022-hualien-centenary-points",
+     "title": "花蓮百年老街商圈集點活動登場，消費滿百抽265份扭蛋好禮",
+     "summary": "花蓮市百年老街商圈推出「百年振興超給利」集點活動2.0，消費滿百集點可抽大獎。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-22T01:00:00+08:00",
+     "cities": [
+      "花蓮縣"
+     ],
+     "districts": [
+      {
+       "name": "花蓮市 百年老街商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "花蓮市百年老街商圈為115年補助名單，活動已公開，可作為執行佐證參考。",
+     "sources": [
+      {
+       "outlet": "hsnews",
+       "url": "https://hsnews.com.tw/tourism-and-cuisine/hua-lian-shi-bai-nian-lao-jie-shang-quan-bai-nian-zhen-xing-chao-gei-li-re-nao-deng-chang-ji-dian-chang-bao-qu2-0xiao-fei-man-bai-ji-dian-chou-da-jiang-265fen-niu-dan-hao-li-yao-min-zhong-yi-qi-huo-luo-zai-de-shang-quan.html",
+       "published_at": "2026-10-22T01:00:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261021-yongle-safety",
+     "title": "永樂商圈工安意外頻傳，縣議員點出五大缺失",
+     "summary": "報導指永樂商圈工安意外頻傳引發民怨，縣議員提出五項缺失。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-10-21T09:23:00+08:00",
+     "cities": [],
+     "districts": [
+      {
+       "name": "永樂商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "中廣新聞網",
+       "url": "https://msn.com/zh-tw/news/other/%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96%E9%A0%BB%E5%82%B3%E6%83%B9%E6%B0%91%E6%80%A8-%E7%B8%A3%E8%AD%B0%E5%93%A1%E6%8F%AD5%E5%A4%A7%E7%BC%BA%E5%A4%B1/ar-AA2fJs52",
+       "published_at": "2026-10-21T09:23:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261022-hamasen-street-design",
+     "title": "高雄交通局邀哈瑪星居民共創街廓，兼顧行人安全與商圈發展",
+     "summary": "高雄市交通局邀居民共同規劃哈瑪星街道改造，目標為行人安全與商圈共好。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-10-22T12:35:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "Newtalk新聞",
+       "url": "https://newtalk.tw/plan/view/1195",
+       "published_at": "2026-10-22T12:35:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261022-shenboyang-citizen-blvd",
+     "title": "沈伯洋提活化市民大道橋下空間，規劃音樂、動漫廊道帶動商圈",
+     "summary": "沈伯洋提出活化市民大道橋下空間，規劃音樂與動漫廊道以帶動周邊商圈。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-10-22T19:31:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "自由時報・地方",
+       "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5615313",
+       "published_at": "2026-10-22T19:31:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261022-keelung-arts-postponed",
+     "title": "基隆防薔琵颱風影響，多項藝文活動延期調整",
+     "summary": "為防薔琵颱風影響活動安全，基隆多項藝文活動延期調整。",
+     "category": "活動與街區",
+     "alert": "活動異動",
+     "published_at": "2026-10-22T10:23:00+08:00",
+     "cities": [
+      "基隆市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "中華新聞雲",
+       "url": "https://cdns.com.tw/articles/1478797",
+       "published_at": "2026-10-22T10:23:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261022-hsinchu-county-events",
+     "title": "薔琵颱風來襲，竹縣多項活動延期或取消",
+     "summary": "新竹縣府整備防災應變，報導指多項活動因薔琵颱風延期或取消。",
+     "category": "活動與街區",
+     "alert": "活動異動",
+     "published_at": "2026-10-22T01:00:00+08:00",
+     "cities": [
+      "新竹縣"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "mknews",
+       "url": "https://mknews.com.tw/2026/10/1008027",
+       "published_at": "2026-10-22T01:00:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261021-tianmu-halloween-postponed",
+     "title": "天母萬聖節活動「天母搞什麼鬼18」因颱風延期，改週日遊行、下週一園遊會",
+     "summary": "受薔琵颱風影響，天母商圈年度萬聖節活動延期，遊行改至週日（10/25）、園遊會與討糖改至下週一（10/26）。",
+     "category": "活動與街區",
+     "alert": "活動異動",
+     "published_at": "2026-10-21T12:06:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "天母商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://nownews.com/news/6885475",
+       "published_at": "2026-10-22T12:12:00+08:00"
+      },
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://www.ettoday.net/news/20261021/3258340.htm",
+       "published_at": "2026-10-21T12:06:00+08:00"
+      },
+      {
+       "outlet": "蘋果仁",
+       "url": "https://applealmond.com/posts/329501",
+       "published_at": "2026-10-21T02:18:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://www.nownews.com/news/6884781",
+       "published_at": "2026-10-19T18:04:00+08:00"
+      }
+     ],
+     "admin_note": "天母商圈為115年補助名單，活動延期可能涉及執行期程或計畫變更。"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
