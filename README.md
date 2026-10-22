@@ -4,6 +4,7 @@
 
 - `data/latest.json`：網站讀取的資料（近 14 天，schema_version 1）
 - `data/archive/`：每日整理紀錄
+- `inputs/`：GitHub Actions 於工作日 06:50、11:50、16:30 自動抓取的網站候選清單（含 PTT）
 - `reference/priority-districts-115.json`：115 年 289 處重點商圈名單
 - `CURATION.md`：每日整理的作業程序（收錄與排除規則）
 - `scripts/merge.py`、`scripts/validate.py`：合併與格式驗證

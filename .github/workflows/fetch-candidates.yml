@@ -1,0 +1,68 @@
+name: 抓取網站候選清單
+
+# 在每次 Claude 排程整理之前，先把網站的候選新聞與 PTT 清單存進 inputs/，
+# 讓整理流程直接讀檔案，不必在執行時連網站。
+on:
+  schedule:
+    - cron: "50 22 * * 0-4"   # 臺北 週一至週五 06:50
+    - cron: "50 3 * * 1-5"    # 臺北 週一至週五 11:50
+    - cron: "30 8 * * 1-5"    # 臺北 週一至週五 16:30
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/fetch-candidates.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-candidates
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 抓取候選清單
+        run: |
+          set -u
+          base="https://business-district-monitor.behaha.chatgpt.site/api/public/v1"
+          fetch() {
+            url="$1"; out="$2"
+            for attempt in 1 2 3; do
+              if curl -fsS --max-time 40 "$url" -o "$out.tmp" && python3 -c "import json,sys; d=json.load(open(sys.argv[1])); assert isinstance(d.get('items'), list)" "$out.tmp"; then
+                mv "$out.tmp" "$out"; echo "OK $url"; return 0
+              fi
+              echo "retry $attempt $url"; sleep 20
+            done
+            rm -f "$out.tmp"; echo "FAILED $url"; return 1
+          }
+          ok=0
+          fetch "$base/candidates?window=2d" inputs/candidates.json && ok=$((ok+1))
+          fetch "$base/candidates/ptt?window=3d" inputs/candidates-ptt.json && ok=$((ok+1))
+          python3 - <<'PY'
+          import json, os
+          from datetime import datetime, timezone, timedelta
+          now = datetime.now(timezone(timedelta(hours=8))).replace(microsecond=0).isoformat()
+          status = {"fetched_at": now, "files": {}}
+          for name in ("candidates.json", "candidates-ptt.json"):
+              path = f"inputs/{name}"
+              if os.path.exists(path):
+                  status["files"][name] = len(json.load(open(path))["items"])
+          json.dump(status, open("inputs/status.json", "w"), ensure_ascii=False, indent=1)
+          print(status)
+          PY
+          test "$ok" -ge 1
+
+      - name: 提交
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add inputs/
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -m "inputs: 候選清單更新 $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M')"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0; sleep 10; done
+          exit 1

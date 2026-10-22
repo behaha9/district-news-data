@@ -22,11 +22,10 @@
 時間範圍：只收**近 7 天**發布的新聞。
 
 1. **網站候選清單**（有發布時間，優先使用）
-   用網頁讀取工具讀取 `https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d`，
-   分三次各要一份清單（每行：published_at | title | source | url，不得省略符合者）：
-   - 標題含：商圈、老街、商店街
-   - 標題含：延期、取消、停辦、改期、順延、暫停
-   - 標題含：淹水、積水、停電、受損、停業、暫停營業、招牌，且含商家、店家、攤商、商圈、老街
+   GitHub Actions 會在每次整理前（06:50、11:50、16:30）把網站候選清單存進 `inputs/`。
+   先 `git pull`，再執行 `python3 scripts/filter_candidates.py`：它會依「商圈／老街」「活動異動」「受災影響」三組關鍵字列出候選新聞，並列出 PTT 清單。
+   - 結束碼為 0：直接使用這份清單，**不必**再讀網站網址。
+   - 結束碼為 2（檔案缺漏或超過 6 小時）：改用網頁讀取工具讀取 `https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d`，依上述三組關鍵字各要一份清單（每行：published_at | title | source | url）；讀取失敗依步驟 6 處理。
 2. **網路搜尋**（用網路搜尋工具；以繁體中文查詢臺灣新聞）
    - 商圈 活動 登場
    - 商圈 店家 生意
@@ -41,10 +40,9 @@
    用網路搜尋工具逐組搜尋。搜尋結果中標題或內容明確提到該商圈、且在近 7 天內的新聞，依第二節規則判斷收錄。
    289 處約 10 個工作日輪完一次。輪替位置存在 `data/rotation.json`，隨 data/ 一起提交。
 
-5. **PTT 討論**（每次執行都做，只需讀一次）
-   用網頁讀取工具讀取 `https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates/ptt?window=3d`，
-   要求列出全部（每行：push | published_at | board | title | url）。
-   此網址尚未上線（回傳錯誤或 404）時，略過本步驟，回報中註明「PTT 來源尚未上線」。
+5. **PTT 討論**（每次執行都做）
+   使用步驟 1 `filter_candidates.py` 印出的 PTT 清單。清單過期或缺漏時，才用網頁讀取工具讀取 `https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates/ptt?window=3d`。
+   兩者都取得不到時略過本步驟，回報中註明。
    PTT 會阻擋直接讀取，**不要**改用其他方式直接抓 ptt.cc。
 
 6. **讀取失敗時的處理**：步驟 1 或步驟 5 的網址讀取失敗（含權限逾時），**不要中止整理**，在回報中註明後，繼續用步驟 2～4 的網路搜尋完成本輪。只有「驗證不通過」或「推送失敗」才放棄上傳。
