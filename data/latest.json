@@ -1,7 +1,55 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T08:17:56+08:00",
+ "generated_at": "2026-10-22T12:17:04+08:00",
  "items": [
+  {
+   "id": "20261022-nanzhuang-concert-postponed",
+   "title": "南庄部落健行音樂會因薔琵颱風延期至11月7日",
+   "summary": "受薔琵颱風影響，苗栗南庄部落健行音樂會宣布延期，改至11月7日舉行。",
+   "category": "活動與街區",
+   "alert": "活動異動",
+   "published_at": "2026-10-21T19:23:00+08:00",
+   "cities": [
+    "苗栗縣"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "自由時報電子報",
+     "url": "https://news.ltn.com.tw/news/Miaoli/breakingnews/5614420",
+     "published_at": "2026-10-21T19:23:00+08:00"
+    },
+    {
+     "outlet": "自由時報・生活",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5614420",
+     "published_at": "2026-10-22T08:22:17+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261021-qingjing-torch-postponed",
+   "title": "清境火把節因薔琵颱風延期，改於10月30、31日舉行",
+   "summary": "受薔琵颱風來襲影響，南投2026清境火把節延期至10月30日、31日舉行。",
+   "category": "活動與街區",
+   "alert": "活動異動",
+   "published_at": "2026-10-21T19:03:00+08:00",
+   "cities": [
+    "南投縣"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261021425208",
+     "published_at": "2026-10-21T19:03:00+08:00"
+    },
+    {
+     "outlet": "ETtoday新聞雲",
+     "url": "https://ettoday.net/news/20261021/3258718.htm",
+     "published_at": "2026-10-21T23:58:00+08:00"
+    }
+   ]
+  },
   {
    "id": "20261021-tianmu-halloween-postponed",
    "title": "天母萬聖節活動「天母搞什麼鬼18」因颱風延期，改週日遊行、下週一園遊會",
