@@ -1,7 +1,26 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T21:34:28+08:00",
+ "generated_at": "2026-10-22T21:52:01+08:00",
  "items": [
+  {
+   "id": "20261022-pingtung-wind-festival-1023-cancelled",
+   "title": "屏東風域祭10月23日活動因颱風停辦，24至25日照常舉行",
+   "summary": "屏東縣災害應變中心公告，受薔琵颱風影響，屏東風域祭10月23日活動停止辦理，10月24至25日活動持續辦理。",
+   "category": "活動與街區",
+   "alert": "活動異動",
+   "published_at": "2026-10-22T21:26:00+08:00",
+   "cities": [
+    "屏東縣"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "屏東縣政府",
+     "url": "https://www.pthg.gov.tw/News_Content.aspx?n=BBD5808954E3C29D&s=4F526A82464C27AA",
+     "published_at": "2026-10-22T21:26:00+08:00"
+    }
+   ]
+  },
   {
    "id": "20261022-shenboyang-citizen-blvd",
    "title": "沈伯洋提活化市民大道橋下空間，規劃音樂、動漫廊道帶動商圈",
@@ -18,6 +37,31 @@
      "outlet": "自由時報",
      "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5615313",
      "published_at": "2026-10-22T19:31:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261022-bakuaicuo-matsu-ai",
+   "title": "八塊厝形象商圈辦馬祖文化體驗，結合AI品牌經營課程推動數位轉型",
+   "summary": "桃園市八德區八塊厝形象商圈10月18日舉辦「海風吹進八塊厝」活動，結合馬祖文化分享、手作體驗、特色市集與免費AI品牌經營實作課程。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-22T19:21:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [
+    {
+     "name": "八塊厝形象商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "八塊厝形象商圈為115年補助名單，報導呈現活動辦理情形，可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "Yahoo奇摩新聞",
+     "url": "https://tw.news.yahoo.com/%E9%A6%AC%E7%A5%96%E6%96%87%E5%8C%96%E7%B5%90%E5%90%88ai%E5%93%81%E7%89%8C%E7%B6%93%E7%87%9F-%E5%85%AB%E5%A1%8A%E5%8E%9D%E5%BD%A2%E8%B1%A1%E5%95%86%E5%9C%88%E6%8E%A8%E5%8B%95%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B-112147245.html",
+     "published_at": "2026-10-22T19:21:00+08:00"
     }
    ]
   },
@@ -269,6 +313,30 @@
      "outlet": "中華新聞雲",
      "url": "https://cdns.com.tw/articles/1478797",
      "published_at": "2026-10-22T10:23:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261022-guting-ximen-youth-career",
+   "title": "古亭商圈與西門町合辦「青春職旅祭」，跨商圈串聯青年職涯與創業",
+   "summary": "臺北市古亭商圈發展協會等主辦、西門徒步區街區發展促進會協辦，在西門町舉辦青年論壇，邀講師分享創意職涯與創業實務，串聯青年與地方產業。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-22T09:45:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "古亭商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261022189357",
+     "published_at": "2026-10-22T09:45:00+08:00"
     }
    ]
   },
