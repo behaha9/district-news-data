@@ -22,7 +22,7 @@
 時間範圍：只收**近 7 天**發布的新聞。
 
 1. **網站候選清單**（有發布時間，優先使用）
-   GitHub Actions 會在每次整理前（06:50、11:50、16:30）把網站候選清單存進 `inputs/`。
+   GitHub Actions 於工作日 05:23–16:23 每小時把網站候選清單存進 `inputs/`。
    先 `git pull`，再執行 `python3 scripts/filter_candidates.py`：它會依「商圈／老街」「活動異動」「受災影響」三組關鍵字列出候選新聞，並列出 PTT 清單。
    - 結束碼為 0：直接使用這份清單，**不必**再讀網站網址。
    - 結束碼為 2（檔案缺漏或超過 6 小時）：改用網頁讀取工具讀取 `https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d`，依上述三組關鍵字各要一份清單（每行：published_at | title | source | url）；讀取失敗依步驟 6 處理。
