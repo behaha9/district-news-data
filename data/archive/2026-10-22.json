@@ -308,6 +308,153 @@
    "items": [],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-10-22T21:32:06+08:00",
+   "added": 3,
+   "merged": 2,
+   "items": [
+    {
+     "id": "20261022-typhoon-yehliu-kite-festival",
+     "title": "颱風活動異動：野柳活蟹市集24至26日休市，苗栗風箏節延至11月6至8日",
+     "summary": "自由時報彙整指出，萬里蟹產地福袋特賣會擇期再辦、野柳漁港假日活蟹市集24至26日休市；苗栗風箏節延至11月6至8日，五峰甜柿節取消。",
+     "category": "活動與街區",
+     "alert": "活動異動",
+     "published_at": "2026-10-22T11:21:00+08:00",
+     "cities": [
+      "新北市",
+      "苗栗縣",
+      "新竹縣"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/life/breakingnews/5614505",
+       "published_at": "2026-10-22T11:21:00+08:00"
+      },
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/life/breakingnews/5614013",
+       "published_at": "2026-10-21T19:27:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261022-hualien-events-postponed",
+     "title": "強颱薔琵逼近，花蓮溫泉浴衣嘉年華、鳳林客家嘉年華延至11月7日",
+     "summary": "花蓮縣太平洋溫泉季溫泉浴衣嘉年華與鳳林客家嘉年華由10月24日延至11月7日，另有市集與演唱會順延至25、26日。",
+     "category": "活動與街區",
+     "alert": "活動異動",
+     "published_at": "2026-10-22T12:02:00+08:00",
+     "cities": [
+      "花蓮縣"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/Hualien/breakingnews/5614723",
+       "published_at": "2026-10-22T12:02:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261022-taoyuan-martyrs-shrine-picnic",
+     "title": "桃園市忠烈祠「秋日漫遊‧和風野餐趣」因颱風延至11月1日",
+     "summary": "桃園市民政局因薔琵颱風影響，將原訂10月24日的「秋日漫遊‧和風野餐趣」系列活動延至11月1日舉辦。",
+     "category": "活動與街區",
+     "alert": "活動異動",
+     "published_at": "2026-10-22T15:46:00+08:00",
+     "cities": [
+      "桃園市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/life/breakingnews/5615115",
+       "published_at": "2026-10-22T15:46:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261021-tianmu-halloween-postponed",
+     "title": "天母萬聖節活動「天母搞什麼鬼18」因颱風延期，改週日遊行、下週一園遊會",
+     "summary": "受薔琵颱風影響，天母商圈年度萬聖節活動延期，遊行改至週日（10/25）、園遊會與討糖改至下週一（10/26）。",
+     "category": "活動與街區",
+     "alert": "活動異動",
+     "published_at": "2026-10-22T16:04:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "天母商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/life/breakingnews/5615082",
+       "published_at": "2026-10-22T16:04:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://nownews.com/news/6885475",
+       "published_at": "2026-10-22T12:12:00+08:00"
+      },
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://www.ettoday.net/news/20261021/3258340.htm",
+       "published_at": "2026-10-21T12:06:00+08:00"
+      },
+      {
+       "outlet": "蘋果仁",
+       "url": "https://applealmond.com/posts/329501",
+       "published_at": "2026-10-21T02:18:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://www.nownews.com/news/6884781",
+       "published_at": "2026-10-19T18:04:00+08:00"
+      }
+     ],
+     "admin_note": "天母商圈為115年補助名單，活動延期可能涉及執行期程或計畫變更。"
+    },
+    {
+     "id": "20261021-qingjing-torch-postponed",
+     "title": "清境火把節因薔琵颱風延期，改於10月30、31日舉行",
+     "summary": "受薔琵颱風來襲影響，南投2026清境火把節延期至10月30日、31日舉行。",
+     "category": "活動與街區",
+     "alert": "活動異動",
+     "published_at": "2026-10-22T12:26:00+08:00",
+     "cities": [
+      "南投縣"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7325/9830581",
+       "published_at": "2026-10-22T12:26:00+08:00"
+      },
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://ettoday.net/news/20261021/3258718.htm",
+       "published_at": "2026-10-21T23:58:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261021425208",
+       "published_at": "2026-10-21T19:03:00+08:00"
+      }
+     ]
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
