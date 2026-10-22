@@ -46,12 +46,18 @@ def main():
         items = load("inputs/candidates.json")["items"]
         seen = set()
         for label, pattern in GROUPS:
-            rows = [i for i in items if pattern.search(i.get("title", ""))]
+            rows, group_urls = [], set()
+            for i in items:
+                if pattern.search(i.get("title", "")) and i["url"] not in group_urls:
+                    group_urls.add(i["url"])
+                    rows.append(i)
             print(f"\n## {label}（{len(rows)} 則）")
             for i in rows:
-                mark = "" if i["url"] not in seen else "（同上）"
+                if i["url"] in seen:
+                    print(f"（已列於前組）{i.get('title','')}")
+                    continue
                 seen.add(i["url"])
-                print(f"{i.get('published_at','')} | {i.get('title','')} | {i.get('source','')} | {i['url']}{mark}")
+                print(f"{i.get('published_at','')} | {i.get('title','')} | {i.get('source','')} | {i['url']}")
     else:
         print("\n找不到 inputs/candidates.json")
 
