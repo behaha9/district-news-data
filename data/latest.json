@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T23:40:00+08:00",
+ "generated_at": "2026-10-22T08:17:56+08:00",
  "items": [
   {
    "id": "20261021-tianmu-halloween-postponed",
@@ -38,6 +38,25 @@
    "admin_note": "天母商圈為115年補助名單，活動延期可能涉及執行期程或計畫變更。"
   },
   {
+   "id": "20261021-tainan-district-ip",
+   "title": "中小微企業轉型與商圈市場IP化，台南擬成立輔導小組對接中央",
+   "summary": "台南推動中小微企業轉型及商圈與市場品牌（IP）化，倡議成立在地輔導小組對接中央資源。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-10-21T11:26:58+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "Newtalk新聞",
+     "url": "https://www.msn.com/zh-tw/news/national/%E4%B8%AD%E5%B0%8F%E5%BE%AE%E4%BC%81%E6%A5%AD%E8%BD%89%E5%9E%8B%E8%88%87%E5%95%86%E5%9C%88%E5%B8%82%E5%A0%B4ip%E5%8C%96-%E9%99%B3%E4%BA%AD%E5%A6%83%E4%BF%83%E6%88%90%E7%AB%8B%E5%8F%B0%E5%8D%97%E8%BC%94%E5%B0%8E%E5%B0%8F%E7%B5%84%E5%B0%8D%E6%8E%A5%E4%B8%AD%E5%A4%AE-%E8%BE%B2%E6%A5%AD%E9%83%A8%E6%8C%BA%E9%9D%92%E8%BE%B2%E7%A7%91%E6%8A%80%E5%8C%96/ar-AA2fJErj",
+     "published_at": "2026-10-21T11:26:58+08:00"
+    }
+   ]
+  },
+  {
    "id": "20261021-shuili-quiet",
    "title": "集集支線通車帶旺小鎮觀光，旅客「過站不入」水里商圈仍冷清",
    "summary": "集集支線恢復通車帶動沿線觀光，但旅客多未在水里停留，水里商圈人潮仍未回升。",
@@ -66,25 +85,6 @@
     }
    ],
    "admin_note": "水里商圈為115年補助名單，報導指人潮冷清，可留意活動成效與KPI達成情形。"
-  },
-  {
-   "id": "20261021-tainan-district-ip",
-   "title": "中小微企業轉型與商圈市場IP化，台南擬成立輔導小組對接中央",
-   "summary": "台南推動中小微企業轉型及商圈與市場品牌（IP）化，倡議成立在地輔導小組對接中央資源。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-10-21T11:26:58+08:00",
-   "cities": [
-    "台南市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "Newtalk新聞",
-     "url": "https://www.msn.com/zh-tw/news/national/%E4%B8%AD%E5%B0%8F%E5%BE%AE%E4%BC%81%E6%A5%AD%E8%BD%89%E5%9E%8B%E8%88%87%E5%95%86%E5%9C%88%E5%B8%82%E5%A0%B4ip%E5%8C%96-%E9%99%B3%E4%BA%AD%E5%A6%83%E4%BF%83%E6%88%90%E7%AB%8B%E5%8F%B0%E5%8D%97%E8%BC%94%E5%B0%8E%E5%B0%8F%E7%B5%84%E5%B0%8D%E6%8E%A5%E4%B8%AD%E5%A4%AE-%E8%BE%B2%E6%A5%AD%E9%83%A8%E6%8C%BA%E9%9D%92%E8%BE%B2%E7%A7%91%E6%8A%80%E5%8C%96/ar-AA2fJErj",
-     "published_at": "2026-10-21T11:26:58+08:00"
-    }
-   ]
   },
   {
    "id": "20261021-lanya-festival",
@@ -137,6 +137,25 @@
      "outlet": "風傳媒",
      "url": "https://www.storm.mg/article/11174480",
      "published_at": "2026-10-21T02:15:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261021-taoyuan-oldstreet-quest",
+   "title": "串聯桃園老街古蹟與商圈美食，完成任務抽iPhone",
+   "summary": "桃園推出串聯老街、古蹟與商圈美食的集點任務活動，完成任務可參加抽獎。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-21T01:00:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "中時新聞網",
+     "url": "https://truemii.chinatimes.com/content/20261021002180-265001",
+     "published_at": "2026-10-21T01:00:00+08:00"
     }
    ]
   },
@@ -278,25 +297,6 @@
    ]
   },
   {
-   "id": "20261021-taoyuan-oldstreet-quest",
-   "title": "串聯桃園老街古蹟與商圈美食，完成任務抽iPhone",
-   "summary": "桃園推出串聯老街、古蹟與商圈美食的集點任務活動，完成任務可參加抽獎。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-21T01:00:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "中時新聞網",
-     "url": "https://truemii.chinatimes.com/content/20261021002180-265001",
-     "published_at": "2026-10-21T01:00:00+08:00"
-    }
-   ]
-  },
-  {
    "id": "20261019-bade-it-district-street-event",
    "title": "八德資訊商圈「八德封街全能玩家」登場，跨界整合搶攻體驗經濟",
    "summary": "台北八德資訊商圈舉辦「八德封街全能玩家」封街主題活動，以跨界體驗吸引民眾走進商圈。",
@@ -387,5 +387,6 @@
     }
    ]
   }
- ]
+ ],
+ "discussions": []
 }
