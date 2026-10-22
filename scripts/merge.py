@@ -9,6 +9,10 @@ Rules:
   existing item, is merged into that item (sources de-duplicated by URL, max 10,
   newest first; alert upgraded if the incoming item has one). Title and summary of
   the existing item are kept.
+- Every item is tidied on every run: outlet names normalized (自由時報 variants,
+  "X on MSN", known domains), the same article under another host/section dropped,
+  sources sorted newest first, and published_at set to the newest source's time
+  (the website shows sources[0] as 主要報導 next to published_at).
 - Otherwise the item is appended.
 - Items published more than RETENTION_DAYS ago are dropped from latest.json.
 - generated_at is set to the current Asia/Taipei time.
@@ -17,6 +21,7 @@ Rules:
 Prints a one-line summary: added / merged / dropped / total.
 """
 import json
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 
@@ -29,12 +34,41 @@ def ts(value):
     return datetime.fromisoformat(value.replace("Z", "+00:00"))
 
 
+OUTLET_NAMES = {"mknews": "天天上新聞", "truemii.chinatimes": "中時新聞網"}
+
+
+def outlet_name(name):
+    """Normalize outlet names so one outlet is counted once on the website."""
+    name = name.strip()
+    if name.endswith(" on MSN"):
+        name = name[: -len(" on MSN")].strip()
+    if name.startswith("自由時報"):
+        return "自由時報"
+    return OUTLET_NAMES.get(name, name)
+
+
+def url_key(url):
+    """Same article under different hosts/sections counts once (www., LTN sections)."""
+    m = re.match(r"https://news\.ltn\.com\.tw/news/[^/]+/breakingnews/(\d+)", url)
+    if m:
+        return "ltn:" + m.group(1)
+    return re.sub(r"^https://www\.", "https://", url.split("#")[0].rstrip("/"))
+
+
 def merge_sources(existing, incoming):
-    seen = {s["url"]: s for s in existing}
-    for source in incoming:
-        seen.setdefault(source["url"], source)
+    seen = {}
+    for source in list(existing) + list(incoming):
+        source["outlet"] = outlet_name(source["outlet"])
+        seen.setdefault(url_key(source["url"]), source)
     ordered = sorted(seen.values(), key=lambda s: ts(s["published_at"]), reverse=True)
     return ordered[:10]
+
+
+def tidy(item):
+    """sources newest first; the card shows sources[0] (主要報導) with published_at,
+    so published_at is always the newest source's time."""
+    item["sources"] = merge_sources(item["sources"], [])
+    item["published_at"] = item["sources"][0]["published_at"]
 
 
 def merge_into(base, item):
@@ -48,8 +82,6 @@ def merge_into(base, item):
     for district in item.get("districts", []):
         names.setdefault(district["name"], district)
     base["districts"] = list(names.values())
-    if ts(item["published_at"]) > ts(base["published_at"]):
-        base["published_at"] = item["published_at"]
 
 
 def main(new_path):
@@ -96,6 +128,9 @@ def main(new_path):
             by_id[owner["id"]] = owner
             for s in owner["sources"]:
                 by_url[s["url"]] = owner
+
+    for item in items:
+        tidy(item)
 
     now = datetime.now(TAIPEI)
     cutoff = now - timedelta(days=RETENTION_DAYS)

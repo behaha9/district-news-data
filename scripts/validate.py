@@ -5,6 +5,7 @@ Usage: python3 scripts/validate.py [path]   (default: data/latest.json)
 Exit code 0 = valid, 1 = errors found.
 """
 import json
+import re
 import sys
 from datetime import datetime
 
@@ -21,6 +22,7 @@ def main(path):
     with open(path, encoding="utf-8") as fh:
         data = json.load(fh)
     errors = []
+    warnings = []
     if data.get("schema_version") != 1:
         errors.append("schema_version 必須為 1")
     try:
@@ -67,6 +69,8 @@ def main(path):
                 errors.append(f"{iid}: 網址不是 https：{source.get('url')}")
             if not source.get("outlet"):
                 errors.append(f"{iid}: 缺媒體名稱")
+            elif re.fullmatch(r"[a-z0-9.\-]+", source["outlet"]):
+                warnings.append(f"{iid}: 媒體名稱看起來是網域「{source['outlet']}」，請改用中文媒體名稱")
     discussions = data.get("discussions", [])
     if not isinstance(discussions, list) or len(discussions) > 200:
         errors.append("discussions 必須是陣列且不超過 200 筆")
@@ -93,6 +97,8 @@ def main(path):
             errors.append(f"{pid}: published_at 格式錯誤")
         if not isinstance(post.get("cities"), list) or not isinstance(post.get("districts"), list):
             errors.append(f"{pid}: cities / districts 必須是陣列")
+    for warning in warnings:
+        print("提醒（不影響上傳）：", warning)
     if errors:
         print("驗證失敗：")
         for err in errors:
