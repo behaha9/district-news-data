@@ -1,7 +1,31 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T15:45:12+08:00",
+ "generated_at": "2026-10-23T16:56:15+08:00",
  "items": [
+  {
+   "id": "20261023-kaohsiung-sail-banner",
+   "title": "高雄巨蛋旁帆商圈布纜繩遭強風吹斷，氣象站發布強風特報",
+   "summary": "報導指高雄風力加劇，巨蛋旁帆商圈的布纜繩被吹斷，氣象站已發布強風特報。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-10-23T12:40:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [
+    {
+     "name": "帆商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5616219",
+     "published_at": "2026-10-23T12:40:00+08:00"
+    }
+   ]
+  },
   {
    "id": "20261023-taichung-cmp-banner-fall",
    "title": "薔琵強陣風吹襲台中，勤美商圈旁巨型帆布廣告掉落覆蓋公益路車道",
@@ -57,6 +81,55 @@
      "outlet": "Yahoo奇摩新聞",
      "url": "https://tw.news.yahoo.com/%E8%B5%B0%E8%A8%AA%E6%A1%83%E5%9C%92%E7%89%B9%E7%B4%84%E5%A5%BD%E5%BA%97%E6%8A%BD%E6%A9%9F%E7%A5%A8-%E4%B8%B2%E8%81%AF%E5%9B%9B%E5%A4%A7%E7%94%9F%E6%B4%BB%E5%95%86%E5%9C%88-%E9%9B%86%E7%AB%A0%E7%88%BD%E6%8A%BDapple-watch-%E6%90%B6%E7%99%BE%E5%85%83%E6%B6%88%E8%B2%BB%E5%88%B8-171248454.html",
      "published_at": "2026-10-22T18:12:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261023-boai-banner-removed",
+   "title": "博愛商圈廣告帆布遭強風吹襲鬆脫，高市府違建大隊完成卸除",
+   "summary": "報導指博愛商圈廣告帆布因強風鬆脫，高雄市政府違建大隊已完成卸除。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-10-23T00:00:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [
+    {
+     "name": "博愛商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "今傳媒",
+     "url": "https://focusnews.com.tw/2026/10/727280/",
+     "published_at": "2026-10-23T00:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261023-yongkang-gyutan",
+   "title": "牛舌佑介插旗台北永康商圈，中山店同步規劃年底前開幕",
+   "summary": "乾杯旗下「牛舌佑介」進駐台北永康商圈，另規劃中山店於年底前開幕。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-10-23T00:00:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "永康商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "永康商圈為115年補助名單，新店進駐可能帶動人潮，可留意店家動態。",
+   "sources": [
+    {
+     "outlet": "ETtoday旅遊雲",
+     "url": "https://travel.ettoday.net/article/3259877.htm",
+     "published_at": "2026-10-23T00:00:00+08:00"
     }
    ]
   },
@@ -180,6 +253,11 @@
     {
      "outlet": "華視新聞網",
      "url": "https://news.cts.com.tw/cts/general/202610/202610223092981.html",
+     "published_at": "2026-10-22T00:00:00+08:00"
+    },
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261022702089-431401",
      "published_at": "2026-10-22T00:00:00+08:00"
     },
     {

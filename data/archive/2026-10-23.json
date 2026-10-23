@@ -217,6 +217,178 @@
    "items": [],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-10-23T16:56:15+08:00",
+   "added": 3,
+   "merged": 2,
+   "items": [
+    {
+     "id": "20261023-kaohsiung-sail-banner",
+     "title": "高雄巨蛋旁帆商圈布纜繩遭強風吹斷，氣象站發布強風特報",
+     "summary": "報導指高雄風力加劇，巨蛋旁帆商圈的布纜繩被吹斷，氣象站已發布強風特報。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-10-23T12:40:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [
+      {
+       "name": "帆商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5616219",
+       "published_at": "2026-10-23T12:40:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261023-boai-banner-removed",
+     "title": "博愛商圈廣告帆布遭強風吹襲鬆脫，高市府違建大隊完成卸除",
+     "summary": "報導指博愛商圈廣告帆布因強風鬆脫，高雄市政府違建大隊已完成卸除。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-10-23T00:00:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [
+      {
+       "name": "博愛商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "今傳媒",
+       "url": "https://focusnews.com.tw/2026/10/727280/",
+       "published_at": "2026-10-23T00:00:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261023-yongkang-gyutan",
+     "title": "牛舌佑介插旗台北永康商圈，中山店同步規劃年底前開幕",
+     "summary": "乾杯旗下「牛舌佑介」進駐台北永康商圈，另規劃中山店於年底前開幕。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-10-23T00:00:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "永康商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "永康商圈為115年補助名單，新店進駐可能帶動人潮，可留意店家動態。",
+     "sources": [
+      {
+       "outlet": "ETtoday旅遊雲",
+       "url": "https://travel.ettoday.net/article/3259877.htm",
+       "published_at": "2026-10-23T00:00:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261021-lukang-wall-collapse",
+     "title": "薔琵逼近彰化沿海強風，鹿港老街古厝磚牆坍塌",
+     "summary": "薔琵颱風逼近，彰化沿海颳10級強陣風，鹿港老街一處古厝磚牆坍塌，報導指現場有災情。",
+     "category": "商圈動向",
+     "alert": "商圈受災",
+     "published_at": "2026-10-22T12:32:00+08:00",
+     "cities": [
+      "彰化縣"
+     ],
+     "districts": [
+      {
+       "name": "鹿港老街商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "鹿港老街商圈為115年補助名單，老街受損可能影響商圈營運與活動執行，可留意後續復原情形。",
+     "sources": [
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://ettoday.net/news/20261022/3259040.htm",
+       "published_at": "2026-10-22T12:32:00+08:00"
+      },
+      {
+       "outlet": "三立新聞網",
+       "url": "https://msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%80%BC%E8%BF%91-%E5%BD%B0%E5%8C%96%E6%B2%BF%E6%B5%B7%E7%8B%82%E5%88%AE10%E7%B4%9A%E5%BC%B7%E9%A2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97-%E8%80%81%E7%89%86%E5%9D%8D%E5%A1%8C-%E6%85%98%E6%B3%81%E6%9B%9D%E5%85%89/ar-AA2fMCyP",
+       "published_at": "2026-10-22T06:06:00+08:00"
+      },
+      {
+       "outlet": "華視新聞網",
+       "url": "https://news.cts.com.tw/cts/general/202610/202610223092981.html",
+       "published_at": "2026-10-22T00:00:00+08:00"
+      },
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261022702089-431401",
+       "published_at": "2026-10-22T00:00:00+08:00"
+      },
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/Changhua/breakingnews/5614750",
+       "published_at": "2026-10-21T22:53:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261021-tianmu-halloween-postponed",
+     "title": "天母萬聖節活動「天母搞什麼鬼18」因颱風延期，改週日遊行、下週一園遊會",
+     "summary": "受薔琵颱風影響，天母商圈年度萬聖節活動延期，遊行改至週日（10/25）、園遊會與討糖改至下週一（10/26）。",
+     "category": "活動與街區",
+     "alert": "活動異動",
+     "published_at": "2026-10-22T16:04:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "天母商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/life/breakingnews/5615082",
+       "published_at": "2026-10-22T16:04:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://nownews.com/news/6885475",
+       "published_at": "2026-10-22T12:12:00+08:00"
+      },
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://www.ettoday.net/news/20261021/3258340.htm",
+       "published_at": "2026-10-21T12:06:00+08:00"
+      },
+      {
+       "outlet": "蘋果仁",
+       "url": "https://applealmond.com/posts/329501",
+       "published_at": "2026-10-21T00:00:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://www.nownews.com/news/6884781",
+       "published_at": "2026-10-19T18:04:00+08:00"
+      }
+     ],
+     "admin_note": "天母商圈為115年補助名單，活動延期可能涉及執行期程或計畫變更。"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
