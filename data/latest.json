@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T20:08:59+08:00",
+ "generated_at": "2026-10-24T07:22:56+08:00",
  "items": [
   {
    "id": "20261023-kaohsiung-sail-banner",
@@ -129,6 +129,152 @@
     {
      "outlet": "ETtoday旅遊雲",
      "url": "https://travel.ettoday.net/article/3259877.htm",
+     "published_at": "2026-10-23T00:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261023-houzhan-station",
+   "title": "新車站啟用吸客，後站商圈出現轉機",
+   "summary": "報導指新車站帶來人流，後站商圈迎來轉機。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-10-23T00:00:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "後站商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "中華新聞雲",
+     "url": "https://www.cdns.com.tw/articles/1479279",
+     "published_at": "2026-10-23T00:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261023-kaohsiung-south-districts",
+   "title": "新堀江、三多商圈人潮銳減，消費重心北移、南高雄商圈苦撐",
+   "summary": "報導指新堀江、三多商圈人潮都明顯減少，消費重心北移，南高雄商圈處境艱困。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-10-23T00:00:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [
+    {
+     "name": "新堀江商圈",
+     "priority": true
+    },
+    {
+     "name": "三多商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "新堀江、三多商圈為115年補助名單，報導指人潮銳減，可留意活動成效與KPI達成。",
+   "sources": [
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7327/9834112",
+     "published_at": "2026-10-23T00:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261023-kaohsiung-datong-parking",
+   "title": "高雄舊大統百貨擬蓋停車場，恐讓商圈雪上加霜",
+   "summary": "高雄舊大統百貨基地擬作停車場，報導指恐衝擊商圈，市長陳其邁表示不認同並將與地主溝通。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-10-23T00:00:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7327/9834110",
+     "published_at": "2026-10-23T00:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261023-jiufen-closed",
+   "title": "薔琵颱風影響，九份老街九成店家未營業",
+   "summary": "報導指薔琵颱風來襲，九份老街約九成店家沒有營業，民宿住客也因颱風取消行程。",
+   "category": "商圈動向",
+   "alert": "商圈受災",
+   "published_at": "2026-10-23T00:00:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [
+    {
+     "name": "九份老街商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "九份老街商圈為115年補助名單，颱風致店家停業，可能影響活動執行與人潮成效。",
+   "sources": [
+    {
+     "outlet": "東森新聞",
+     "url": "https://www.msn.com/zh-tw/weather/%E4%B8%80%E8%88%AC/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8-%E6%9C%80%E6%96%B0-%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E4%B9%9D%E6%88%90%E5%BA%97%E5%AE%B6%E6%B2%92%E7%87%9F%E6%A5%AD-%E6%B0%91%E5%AE%BF%E4%BD%8F%E5%AE%A2%E9%81%87%E9%A2%B1%E9%A2%A8%E5%8F%96%E6%B6%88-newsebc/vi-AA2fTfCC",
+     "published_at": "2026-10-23T00:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261023-liuhe-halloween",
+   "title": "六和商圈10月31日辦萬聖奇幻市集，桃園萬聖城檔期受颱風調整",
+   "summary": "桃園萬聖城因颱風調整檔期，演唱會改10月26日；六和商圈訂10月31日舉辦萬聖奇幻市集。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-23T00:00:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [
+    {
+     "name": "六和商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "六和商圈為115年補助名單，活動已公開日期，可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "報新聞",
+     "url": "https://www.contentplatform.info/articles/546800/%E6%A1%83%E5%9C%92%E8%90%AC%E8%81%96%E5%9F%8E%E9%A2%B1%E9%A2%A8%E8%AA%BF%E6%95%B4%E6%AA%94%E6%9C%9F%E3%80%80%E6%BC%94%E5%94%B1%E6%9C%83%E6%94%B910-26%E3%80%80%E5%85%AD%E5%92%8C%E5%95%86%E5%9C%8810-31/",
+     "published_at": "2026-10-23T00:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261023-fengyuan-halloween",
+   "title": "豐原商圈10月31日舉辦討糖嘉年華",
+   "summary": "台中萬聖節活動中，豐原商圈訂10月31日舉辦討糖嘉年華。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-23T00:00:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    {
+     "name": "豐原商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "報新聞",
+     "url": "https://www.contentplatform.info/articles/546796/%E5%8F%B0%E4%B8%AD%E8%90%AC%E8%81%96%E7%AF%80%E6%B4%BB%E5%8B%95%E5%9C%B0%E5%9C%96%E3%80%80%E8%B1%90%E5%8E%9F%E5%95%86%E5%9C%8810-31%E8%A8%8E%E7%B3%96%E5%98%89%E5%B9%B4%E8%8F%AF%E3%80%80%E5%B8%82/",
      "published_at": "2026-10-23T00:00:00+08:00"
     }
    ]
