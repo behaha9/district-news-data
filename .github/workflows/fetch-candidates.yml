@@ -11,7 +11,8 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/fetch-candidates.yml"]
+    # 整理流程推送 requests/fetch.txt 時立即重抓（GitHub 排程常被延遲或跳過）
+    paths: [".github/workflows/fetch-candidates.yml", "requests/fetch.txt"]
 
 permissions:
   contents: write

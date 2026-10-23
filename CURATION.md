@@ -23,7 +23,8 @@
 
 1. **網站候選清單**（有發布時間，優先使用）
    GitHub Actions 於工作日 05:23–16:23 每小時把網站候選清單存進 `inputs/`。
-   先 `git pull`，再執行 `python3 scripts/filter_candidates.py`：它會依「商圈／老街」「活動異動」「受災影響」三組關鍵字列出候選新聞。
+   先執行 `python3 scripts/refresh_candidates.py`（清單超過 2 小時會自動請 GitHub Actions 重抓並等候最多 100 秒；結束碼 1 代表仍是舊清單，照常往下做），
+   再執行 `python3 scripts/filter_candidates.py`：它會依「商圈／老街」「活動異動」「受災影響」三組關鍵字列出候選新聞。
    - 結束碼為 0：直接使用這份清單，**不必**再讀網站網址。
    - 結束碼為 2（檔案缺漏或超過 6 小時）：改用網頁讀取工具讀取 `https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d`，依上述三組關鍵字各要一份清單（每行：published_at | title | source | url）；讀取失敗依步驟 6 處理。
 2. **網路搜尋**（用網路搜尋工具；以繁體中文查詢臺灣新聞）
