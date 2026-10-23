@@ -24,6 +24,18 @@ GROUPS = [
 ]
 
 
+def taipei_time(item):
+    """Time to copy into published_at. Bing times are unreliable (often hours off), so the
+    website marks them date_only; use that date at 00:00, which the site shows as date only."""
+    if item.get("date_only") and item.get("published_date"):
+        return f"{item['published_date']}T00:00:00+08:00（只有日期）"
+    try:
+        value = datetime.fromisoformat(item["published_at"].replace("Z", "+00:00"))
+        return value.astimezone(TAIPEI).isoformat(timespec="minutes")
+    except Exception:
+        return item.get("published_at", "")
+
+
 def load(path):
     with open(path, encoding="utf-8") as fh:
         return json.load(fh)
@@ -60,7 +72,7 @@ def main():
                     print(f"（已列於前組）{i.get('title','')}")
                     continue
                 seen.add(i["url"])
-                print(f"{i.get('published_at','')} | {i.get('title','')} | {i.get('source','')} | {i['url']}")
+                print(f"{taipei_time(i)} | {i.get('title','')} | {i.get('source','')} | {i['url']}")
     else:
         print("\n找不到 inputs/candidates.json")
 
