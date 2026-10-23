@@ -1,7 +1,76 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T07:22:33+08:00",
+ "generated_at": "2026-10-23T10:43:52+08:00",
  "items": [
+  {
+   "id": "20261023-taichung-cmp-banner-fall",
+   "title": "薔琵強陣風吹襲台中，勤美商圈旁巨型帆布廣告掉落覆蓋公益路車道",
+   "summary": "強風扯落勤美誠品綠園道旁公益路一幅大型帆布廣告，勾住電線並覆蓋雙向車道造成交通癱瘓，報導指未砸中人車、無人傷亡。",
+   "category": "商圈動向",
+   "alert": "商圈受災",
+   "published_at": "2026-10-23T10:23:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    {
+     "name": "勤美商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "TVBS新聞網",
+     "url": "https://news.tvbs.com.tw/local/4040075",
+     "published_at": "2026-10-23T10:23:00+08:00"
+    },
+    {
+     "outlet": "民視新聞",
+     "url": "https://msn.com/zh-tw/news/news/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E5%BC%B7%E9%99%A3%E9%A2%A8%E5%90%B9%E5%8F%B0%E4%B8%AD-%E5%8B%A4%E7%BE%8E%E5%95%86%E5%9C%88%E5%A4%A7%E5%B8%86%E5%B8%83%E5%BB%A3%E5%91%8A%E6%8E%89%E8%90%BD-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fSiGU",
+     "published_at": "2026-10-23T00:31:54+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261021-lukang-wall-collapse",
+   "title": "薔琵逼近彰化沿海強風，鹿港老街古厝磚牆坍塌",
+   "summary": "薔琵颱風逼近，彰化沿海颳10級強陣風，鹿港老街一處古厝磚牆坍塌，報導指現場有災情。",
+   "category": "商圈動向",
+   "alert": "商圈受災",
+   "published_at": "2026-10-22T22:20:00+08:00",
+   "cities": [
+    "彰化縣"
+   ],
+   "districts": [
+    {
+     "name": "鹿港老街商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "鹿港老街商圈為115年補助名單，老街受損可能影響商圈營運與活動執行，可留意後續復原情形。",
+   "sources": [
+    {
+     "outlet": "華視新聞網",
+     "url": "https://news.cts.com.tw/cts/general/202610/202610223092981.html",
+     "published_at": "2026-10-22T22:20:00+08:00"
+    },
+    {
+     "outlet": "ETtoday新聞雲",
+     "url": "https://ettoday.net/news/20261022/3259040.htm",
+     "published_at": "2026-10-22T12:32:00+08:00"
+    },
+    {
+     "outlet": "三立新聞網",
+     "url": "https://msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%80%BC%E8%BF%91-%E5%BD%B0%E5%8C%96%E6%B2%BF%E6%B5%B7%E7%8B%82%E5%88%AE10%E7%B4%9A%E5%BC%B7%E9%A2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97-%E8%80%81%E7%89%86%E5%9D%8D%E5%A1%8C-%E6%85%98%E6%B3%81%E6%9B%9D%E5%85%89/ar-AA2fMCyP",
+     "published_at": "2026-10-22T06:06:00+08:00"
+    },
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/Changhua/breakingnews/5614750",
+     "published_at": "2026-10-21T22:53:00+08:00"
+    }
+   ]
+  },
   {
    "id": "20261022-pingtung-wind-festival-1023-cancelled",
    "title": "屏東風域祭10月23日活動因颱風停辦，24至25日照常舉行",
@@ -126,41 +195,6 @@
      "outlet": "自由時報",
      "url": "https://news.ltn.com.tw/news/life/breakingnews/5615115",
      "published_at": "2026-10-22T15:46:00+08:00"
-    }
-   ]
-  },
-  {
-   "id": "20261021-lukang-wall-collapse",
-   "title": "薔琵逼近彰化沿海強風，鹿港老街古厝磚牆坍塌",
-   "summary": "薔琵颱風逼近，彰化沿海颳10級強陣風，鹿港老街一處古厝磚牆坍塌，報導指現場有災情。",
-   "category": "商圈動向",
-   "alert": "商圈受災",
-   "published_at": "2026-10-22T12:32:00+08:00",
-   "cities": [
-    "彰化縣"
-   ],
-   "districts": [
-    {
-     "name": "鹿港老街商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "鹿港老街商圈為115年補助名單，老街受損可能影響商圈營運與活動執行，可留意後續復原情形。",
-   "sources": [
-    {
-     "outlet": "ETtoday新聞雲",
-     "url": "https://ettoday.net/news/20261022/3259040.htm",
-     "published_at": "2026-10-22T12:32:00+08:00"
-    },
-    {
-     "outlet": "三立新聞網",
-     "url": "https://msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%80%BC%E8%BF%91-%E5%BD%B0%E5%8C%96%E6%B2%BF%E6%B5%B7%E7%8B%82%E5%88%AE10%E7%B4%9A%E5%BC%B7%E9%A2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97-%E8%80%81%E7%89%86%E5%9D%8D%E5%A1%8C-%E6%85%98%E6%B3%81%E6%9B%9D%E5%85%89/ar-AA2fMCyP",
-     "published_at": "2026-10-22T06:06:00+08:00"
-    },
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/Changhua/breakingnews/5614750",
-     "published_at": "2026-10-21T22:53:00+08:00"
     }
    ]
   },
