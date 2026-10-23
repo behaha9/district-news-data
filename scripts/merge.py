@@ -34,7 +34,12 @@ def ts(value):
     return datetime.fromisoformat(value.replace("Z", "+00:00"))
 
 
-OUTLET_NAMES = {"mknews": "天天上新聞", "truemii.chinatimes": "中時新聞網"}
+OUTLET_NAMES = {
+    "mknews": "天天上新聞", "truemii.chinatimes": "中時新聞網", "house.chinatimes": "中時新聞網",
+    "hsnews": "花蓮最速報", "life": "LIFE 生活網", "lifenews": "民生電子報", "mypeoplevol": "民眾新聞網",
+    "tw.stock": "Yahoo股市", "bigmedia": "鉅聞天下", "contentplatform": "報新聞", "yesmedia": "是新聞",
+    "mirrordaily": "鏡報", "ccss3172.blogspot": "新華報導", "news.videoland": "緯來新聞",
+}
 
 
 def outlet_name(name):

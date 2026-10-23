@@ -15,6 +15,8 @@ import re
 import sys
 from datetime import datetime, timedelta, timezone
 
+import priority
+
 MAX_AGE_HOURS = 6
 TAIPEI = timezone(timedelta(hours=8))
 GROUPS = [
@@ -59,6 +61,7 @@ def main():
 
     if os.path.exists("inputs/candidates.json"):
         items = load("inputs/candidates.json")["items"]
+        patterns = priority.load()
         seen = set()
         for label, pattern in GROUPS:
             rows, group_urls = [], set()
@@ -72,7 +75,9 @@ def main():
                     print(f"（已列於前組）{i.get('title','')}")
                     continue
                 seen.add(i["url"])
-                print(f"{taipei_time(i)} | {i.get('title','')} | {i.get('source','')} | {i['url']}")
+                hint = priority.hints(i.get("title", ""), patterns)
+                mark = "【★可能是重點商圈：" + "、".join(f"{n}（{c}）" for n, c in hint) + "】" if hint else ""
+                print(f"{taipei_time(i)} | {i.get('title','')}{mark} | {i.get('source','')} | {i['url']}")
     else:
         print("\n找不到 inputs/candidates.json")
 

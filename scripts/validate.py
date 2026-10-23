@@ -7,6 +7,8 @@ Exit code 0 = valid, 1 = errors found.
 import json
 import re
 import sys
+
+import priority
 from datetime import datetime
 
 CATEGORIES = {"活動與街區", "開店與消費", "營運與政策", "商圈動向"}
@@ -30,6 +32,12 @@ def main(path):
     except Exception:
         errors.append("generated_at 格式錯誤")
     items = data.get("items", [])
+    patterns = priority.load()
+    for item in items:
+        tagged = {d.get("name") for d in item.get("districts", [])}
+        for name, city in priority.hints(item.get("title", ""), patterns):
+            if name not in tagged:
+                warnings.append(f"{item.get('id', '?')}: 標題疑似提到重點商圈「{name}」（{city}），districts 未標，請確認")
     if len(items) > MAX_ITEMS:
         errors.append(f"items 超過 {MAX_ITEMS} 筆")
     ids = set()

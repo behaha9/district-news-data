@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T13:20:11+08:00",
+ "generated_at": "2026-10-23T15:45:12+08:00",
  "items": [
   {
    "id": "20261023-taichung-cmp-banner-fall",
@@ -49,7 +49,7 @@
      "published_at": "2026-10-23T02:12:00+08:00"
     },
     {
-     "outlet": "mypeoplevol",
+     "outlet": "民眾新聞網",
      "url": "https://mypeoplevol.com/2026/local/117730/",
      "published_at": "2026-10-23T01:00:00+08:00"
     },
@@ -257,6 +257,10 @@
     {
      "name": "古亭商圈",
      "priority": false
+    },
+    {
+     "name": "西門町商圈",
+     "priority": true
     }
    ],
    "sources": [
@@ -277,7 +281,12 @@
    "cities": [
     "新北市"
    ],
-   "districts": [],
+   "districts": [
+    {
+     "name": "九份老街商圈",
+     "priority": true
+    }
+   ],
    "sources": [
     {
      "outlet": "EBC 東森新聞",
@@ -305,7 +314,7 @@
    "admin_note": "花蓮市百年老街商圈為115年補助名單，活動已公開，可作為執行佐證參考。",
    "sources": [
     {
-     "outlet": "hsnews",
+     "outlet": "花蓮最速報",
      "url": "https://hsnews.com.tw/tourism-and-cuisine/hua-lian-shi-bai-nian-lao-jie-shang-quan-bai-nian-zhen-xing-chao-gei-li-re-nao-deng-chang-ji-dian-chang-bao-qu2-0xiao-fei-man-bai-ji-dian-chou-da-jiang-265fen-niu-dan-hao-li-yao-min-zhong-yi-qi-huo-luo-zai-de-shang-quan.html",
      "published_at": "2026-10-22T01:00:00+08:00"
     }
