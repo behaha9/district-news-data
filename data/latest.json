@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T10:43:52+08:00",
+ "generated_at": "2026-10-23T10:46:29+08:00",
  "items": [
   {
    "id": "20261023-taichung-cmp-banner-fall",
@@ -68,25 +68,6 @@
      "outlet": "自由時報",
      "url": "https://news.ltn.com.tw/news/Changhua/breakingnews/5614750",
      "published_at": "2026-10-21T22:53:00+08:00"
-    }
-   ]
-  },
-  {
-   "id": "20261022-pingtung-wind-festival-1023-cancelled",
-   "title": "屏東風域祭10月23日活動因颱風停辦，24至25日照常舉行",
-   "summary": "屏東縣災害應變中心公告，受薔琵颱風影響，屏東風域祭10月23日活動停止辦理，10月24至25日活動持續辦理。",
-   "category": "活動與街區",
-   "alert": "活動異動",
-   "published_at": "2026-10-22T21:26:00+08:00",
-   "cities": [
-    "屏東縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "屏東縣政府",
-     "url": "https://www.pthg.gov.tw/News_Content.aspx?n=BBD5808954E3C29D&s=4F526A82464C27AA",
-     "published_at": "2026-10-22T21:26:00+08:00"
     }
    ]
   },
@@ -180,126 +161,6 @@
    "admin_note": "天母商圈為115年補助名單，活動延期可能涉及執行期程或計畫變更。"
   },
   {
-   "id": "20261022-taoyuan-martyrs-shrine-picnic",
-   "title": "桃園市忠烈祠「秋日漫遊‧和風野餐趣」因颱風延至11月1日",
-   "summary": "桃園市民政局因薔琵颱風影響，將原訂10月24日的「秋日漫遊‧和風野餐趣」系列活動延至11月1日舉辦。",
-   "category": "活動與街區",
-   "alert": "活動異動",
-   "published_at": "2026-10-22T15:46:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5615115",
-     "published_at": "2026-10-22T15:46:00+08:00"
-    }
-   ]
-  },
-  {
-   "id": "20261021-qingjing-torch-postponed",
-   "title": "清境火把節因薔琵颱風延期，改於10月30、31日舉行",
-   "summary": "受薔琵颱風來襲影響，南投2026清境火把節延期至10月30日、31日舉行。",
-   "category": "活動與街區",
-   "alert": "活動異動",
-   "published_at": "2026-10-22T12:26:00+08:00",
-   "cities": [
-    "南投縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7325/9830581",
-     "published_at": "2026-10-22T12:26:00+08:00"
-    },
-    {
-     "outlet": "ETtoday新聞雲",
-     "url": "https://ettoday.net/news/20261021/3258718.htm",
-     "published_at": "2026-10-21T23:58:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261021425208",
-     "published_at": "2026-10-21T19:03:00+08:00"
-    }
-   ]
-  },
-  {
-   "id": "20261022-hualien-events-postponed",
-   "title": "強颱薔琵逼近，花蓮溫泉浴衣嘉年華、鳳林客家嘉年華延至11月7日",
-   "summary": "花蓮縣太平洋溫泉季溫泉浴衣嘉年華與鳳林客家嘉年華由10月24日延至11月7日，另有市集與演唱會順延至25、26日。",
-   "category": "活動與街區",
-   "alert": "活動異動",
-   "published_at": "2026-10-22T12:02:00+08:00",
-   "cities": [
-    "花蓮縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/Hualien/breakingnews/5614723",
-     "published_at": "2026-10-22T12:02:00+08:00"
-    }
-   ]
-  },
-  {
-   "id": "20261022-gaomingjun-concert-postponed",
-   "title": "高明駿出道38年首場個唱遇颱風，原訂10月23日改至12月5日舉行",
-   "summary": "高明駿因薔琵颱風來襲，宣布原訂10月23日晚間的演唱會延期，改至12月5日舉行。",
-   "category": "活動與街區",
-   "alert": "活動異動",
-   "published_at": "2026-10-22T11:59:00+08:00",
-   "cities": [],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5614639",
-     "published_at": "2026-10-22T11:59:00+08:00"
-    },
-    {
-     "outlet": "NOWnews今日新聞",
-     "url": "https://nownews.com/news/6885516",
-     "published_at": "2026-10-22T11:43:00+08:00"
-    }
-   ]
-  },
-  {
-   "id": "20261022-typhoon-yehliu-kite-festival",
-   "title": "颱風活動異動：野柳活蟹市集24至26日休市，苗栗風箏節延至11月6至8日",
-   "summary": "自由時報彙整指出，萬里蟹產地福袋特賣會擇期再辦、野柳漁港假日活蟹市集24至26日休市；苗栗風箏節延至11月6至8日，五峰甜柿節取消。",
-   "category": "活動與街區",
-   "alert": "活動異動",
-   "published_at": "2026-10-22T11:44:00+08:00",
-   "cities": [
-    "新北市",
-    "新竹縣",
-    "苗栗縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "中央社",
-     "url": "https://www.cna.com.tw/news/ahel/202610225003.aspx",
-     "published_at": "2026-10-22T11:44:00+08:00"
-    },
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5614505",
-     "published_at": "2026-10-22T11:21:00+08:00"
-    },
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5614013",
-     "published_at": "2026-10-21T19:27:00+08:00"
-    }
-   ]
-  },
-  {
    "id": "20261022-hamasen-street-design",
    "title": "高雄交通局邀哈瑪星居民共創街廓，兼顧行人安全與商圈發展",
    "summary": "高雄市交通局邀居民共同規劃哈瑪星街道改造，目標為行人安全與商圈共好。",
@@ -354,25 +215,6 @@
    "admin_note": "永樂商圈（彰化）為115年補助名單，報導指施工工安疑慮，可留意工程對店家與商圈活動的影響。"
   },
   {
-   "id": "20261022-keelung-arts-postponed",
-   "title": "基隆防薔琵颱風影響，多項藝文活動延期調整",
-   "summary": "為防薔琵颱風影響活動安全，基隆多項藝文活動延期調整。",
-   "category": "活動與街區",
-   "alert": "活動異動",
-   "published_at": "2026-10-22T10:23:00+08:00",
-   "cities": [
-    "基隆市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "中華新聞雲",
-     "url": "https://cdns.com.tw/articles/1478797",
-     "published_at": "2026-10-22T10:23:00+08:00"
-    }
-   ]
-  },
-  {
    "id": "20261022-guting-ximen-youth-career",
    "title": "古亭商圈與西門町合辦「青春職旅祭」，跨商圈串聯青年職涯與創業",
    "summary": "臺北市古亭商圈發展協會等主辦、西門徒步區街區發展促進會協辦，在西門町舉辦青年論壇，邀講師分享創意職涯與創業實務，串聯青年與地方產業。",
@@ -418,44 +260,6 @@
      "outlet": "hsnews",
      "url": "https://hsnews.com.tw/tourism-and-cuisine/hua-lian-shi-bai-nian-lao-jie-shang-quan-bai-nian-zhen-xing-chao-gei-li-re-nao-deng-chang-ji-dian-chang-bao-qu2-0xiao-fei-man-bai-ji-dian-chou-da-jiang-265fen-niu-dan-hao-li-yao-min-zhong-yi-qi-huo-luo-zai-de-shang-quan.html",
      "published_at": "2026-10-22T01:00:00+08:00"
-    }
-   ]
-  },
-  {
-   "id": "20261022-hsinchu-county-events",
-   "title": "薔琵颱風來襲，竹縣多項活動延期或取消",
-   "summary": "新竹縣府整備防災應變，報導指多項活動因薔琵颱風延期或取消。",
-   "category": "活動與街區",
-   "alert": "活動異動",
-   "published_at": "2026-10-22T01:00:00+08:00",
-   "cities": [
-    "新竹縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "天天上新聞",
-     "url": "https://mknews.com.tw/2026/10/1008027",
-     "published_at": "2026-10-22T01:00:00+08:00"
-    }
-   ]
-  },
-  {
-   "id": "20261022-nanzhuang-concert-postponed",
-   "title": "南庄部落健行音樂會因薔琵颱風延期至11月7日",
-   "summary": "受薔琵颱風影響，苗栗南庄部落健行音樂會宣布延期，改至11月7日舉行。",
-   "category": "活動與街區",
-   "alert": "活動異動",
-   "published_at": "2026-10-21T19:23:00+08:00",
-   "cities": [
-    "苗栗縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/Miaoli/breakingnews/5614420",
-     "published_at": "2026-10-21T19:23:00+08:00"
     }
    ]
   },

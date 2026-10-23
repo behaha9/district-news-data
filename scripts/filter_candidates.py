@@ -37,7 +37,8 @@ def main():
         print("找不到 inputs/status.json，請改用網站網址讀取候選清單。")
         return 2
     print("【判斷提醒】縣市或商圈判斷不出來「不是」排除理由：縣市留空、priority 設 false 照收。"
-          "議員批評但內容是具體商圈影響（如工程、工安衝擊店家）要收。標題有商圈的每一則都要判斷。\n")
+          "議員批評但內容是具體商圈影響（如工程、工安衝擊店家）要收。標題有商圈的每一則都要判斷。"
+          "「活動異動」組只收商圈、老街、商店街的活動；縣市節慶、一般市集、演唱會、頒獎典禮、運動會、企業與選舉活動延期都不收。\n")
     age = datetime.now(TAIPEI) - fetched
     print(f"候選清單抓取時間：{status['fetched_at']}（{age.total_seconds() / 3600:.1f} 小時前）")
     stale = age > timedelta(hours=MAX_AGE_HOURS) or "candidates.json" not in status.get("files", {})
