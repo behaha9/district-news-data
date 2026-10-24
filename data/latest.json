@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-24T13:16:49+08:00",
+ "generated_at": "2026-10-24T13:46:25+08:00",
  "items": [
   {
    "id": "20261024-lukang-holiday-business-drop",
@@ -24,6 +24,40 @@
      "outlet": "ETtoday新聞雲",
      "url": "https://www.ettoday.net/news/20261024/3260171.htm",
      "published_at": "2026-10-24T12:43:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261023-kaohsiung-south-districts",
+   "title": "新堀江、三多商圈人潮銳減，消費重心北移、南高雄商圈苦撐",
+   "summary": "報導指新堀江、三多商圈人潮都明顯減少，消費重心北移，南高雄商圈處境艱困。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-10-24T06:06:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [
+    {
+     "name": "新堀江商圈",
+     "priority": true
+    },
+    {
+     "name": "三多商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "新堀江、三多商圈為115年補助名單，報導指人潮銳減，可留意活動成效與KPI達成。",
+   "sources": [
+    {
+     "outlet": "Yahoo奇摩新聞",
+     "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%A0%80%E6%B1%9F-%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E4%BA%BA%E6%BD%AE%E9%83%BD%E9%8A%B3%E6%B8%9B-%E6%B6%88%E8%B2%BB%E9%87%8D%E5%BF%83%E5%8C%97%E7%A7%BB-%E5%8D%97%E9%AB%98%E9%9B%84%E5%95%86%E5%9C%88%E8%8B%A6%E6%92%90-220638610.html",
+     "published_at": "2026-10-24T06:06:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7327/9834112",
+     "published_at": "2026-10-23T00:00:00+08:00"
     }
    ]
   },
@@ -152,6 +186,11 @@
      "outlet": "風傳媒",
      "url": "https://www.storm.mg/article/11175460",
      "published_at": "2026-10-23T20:17:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261023816049",
+     "published_at": "2026-10-23T15:15:00+08:00"
     },
     {
      "outlet": "今傳媒",
@@ -287,35 +326,6 @@
     {
      "outlet": "中華新聞雲",
      "url": "https://www.cdns.com.tw/articles/1479279",
-     "published_at": "2026-10-23T00:00:00+08:00"
-    }
-   ]
-  },
-  {
-   "id": "20261023-kaohsiung-south-districts",
-   "title": "新堀江、三多商圈人潮銳減，消費重心北移、南高雄商圈苦撐",
-   "summary": "報導指新堀江、三多商圈人潮都明顯減少，消費重心北移，南高雄商圈處境艱困。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-10-23T00:00:00+08:00",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    {
-     "name": "新堀江商圈",
-     "priority": true
-    },
-    {
-     "name": "三多商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "新堀江、三多商圈為115年補助名單，報導指人潮銳減，可留意活動成效與KPI達成。",
-   "sources": [
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7327/9834112",
      "published_at": "2026-10-23T00:00:00+08:00"
     }
    ]
@@ -756,6 +766,36 @@
    "admin_note": "蘭雅商圈為115年補助名單，10/26活動適逢颱風前後，可留意是否如期辦理。"
   },
   {
+   "id": "20261020-skm-tianmu-stays",
+   "title": "新光三越天母店續留受關注，朝商圈共榮方向前進",
+   "summary": "新光三越天母店後續營運受到關注，報導指出將朝與周邊商圈共榮的方向發展。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-10-21T04:10:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "天母商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "中時新聞網",
+     "url": "https://www.chinatimes.com/newspapers/20261021000312-260210",
+     "published_at": "2026-10-21T04:10:00+08:00"
+    },
+    {
+     "outlet": "中央社",
+     "url": "https://www.cna.com.tw/news/afe/202610200184.aspx",
+     "published_at": "2026-10-20T16:36:00+08:00"
+    }
+   ],
+   "admin_note": "天母商圈為115年補助名單，主力百貨動向可能影響商圈人潮與活動成效。"
+  },
+  {
    "id": "20261021-taichung-shopping-festival",
    "title": "振興台中商圈，中市經發局購物節「到店抽」暖身6天突破5.6億元",
    "summary": "台中市經發局購物節推出「到店抽」活動，暖身6天即突破5.6億元，帶動商圈消費。",
@@ -776,6 +816,11 @@
      "outlet": "風傳媒",
      "url": "https://www.storm.mg/article/11174480",
      "published_at": "2026-10-21T02:15:00+08:00"
+    },
+    {
+     "outlet": "青年日報",
+     "url": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=648294",
+     "published_at": "2026-10-20T00:00:00+08:00"
     }
    ]
   },
@@ -794,6 +839,60 @@
     {
      "outlet": "中時新聞網",
      "url": "https://truemii.chinatimes.com/content/20261021002180-265001",
+     "published_at": "2026-10-21T00:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261021-guiren-shopping-festival",
+   "title": "歸仁購物節10月31日登場，微醺夜結合健走行銷在地",
+   "summary": "台南歸仁購物節訂10月31日舉辦，以微醺夜結合健走活動行銷在地商家。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-21T00:00:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [
+    {
+     "name": "歸仁商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "歸仁商圈為115年補助名單，購物節訂10月31日辦理，可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "中華新聞雲",
+     "url": "https://www.cdns.com.tw/articles/1478303",
+     "published_at": "2026-10-21T00:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261021-shuili-railway-fest",
+   "title": "水里嬉遊季以車埕鐵道為主題，10月24日、31日登場",
+   "summary": "南投水里嬉遊季以漫遊車埕、玩轉鐵道為主題，訂於10月24日與31日舉辦。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-21T00:00:00+08:00",
+   "cities": [
+    "南投縣"
+   ],
+   "districts": [
+    {
+     "name": "水里商圈",
+     "priority": true
+    },
+    {
+     "name": "車埕商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "報導提及水里、車埕商圈（115年補助名單），可留意此活動是否屬補助計畫並注意颱風後辦理情形。",
+   "sources": [
+    {
+     "outlet": "TDN台灣生活新聞",
+     "url": "https://news.st-media.com.tw/news/63702",
      "published_at": "2026-10-21T00:00:00+08:00"
     }
    ]
@@ -836,31 +935,6 @@
      "published_at": "2026-10-20T06:47:53+08:00"
     }
    ]
-  },
-  {
-   "id": "20261020-skm-tianmu-stays",
-   "title": "新光三越天母店續留受關注，朝商圈共榮方向前進",
-   "summary": "新光三越天母店後續營運受到關注，報導指出將朝與周邊商圈共榮的方向發展。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-10-20T16:36:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "天母商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "中央社",
-     "url": "https://www.cna.com.tw/news/afe/202610200184.aspx",
-     "published_at": "2026-10-20T16:36:00+08:00"
-    }
-   ],
-   "admin_note": "天母商圈為115年補助名單，主力百貨動向可能影響商圈人潮與活動成效。"
   },
   {
    "id": "20261020-lukang-walk",
@@ -970,6 +1044,31 @@
    ]
   },
   {
+   "id": "20261019-tiaotong-transform",
+   "title": "條通商圈理事長：商圈需要轉型而非阻隔，盼各界少點口水",
+   "summary": "沈伯洋提以樹木或車架阻隔條通引發爭議，條通商圈產業發展促進會理事長許中獻表示應讓外界看見條通文化與店家特色。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-10-19T15:46:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "條通商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "條通商圈為115年補助名單，商圈改造議題受選舉關注，可留意後續規劃對商圈的影響。",
+   "sources": [
+    {
+     "outlet": "中天新聞網",
+     "url": "https://ctinews.com/news/items/8knJqByvxo",
+     "published_at": "2026-10-19T15:46:00+08:00"
+    }
+   ]
+  },
+  {
    "id": "20261019-jinghua-city-district",
    "title": "京華城商圈蕭條，參選人沈伯洋提三項解方",
    "summary": "台北京華城周邊商圈人潮低迷，台北市長參選人沈伯洋提出三項振興構想。",
@@ -1023,6 +1122,81 @@
      "outlet": "Yahoo奇摩新聞",
      "url": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%8B%9B%E5%8B%9F%E7%AF%80%E8%83%BD%E5%8F%8B%E5%96%84%E5%BA%97%E5%AE%B6-%E6%89%93%E9%80%A0%E7%B6%A0%E7%94%9F%E6%B4%BB%E6%B6%88%E8%B2%BB%E5%9C%B0%E5%9C%96-%E9%82%80%E6%82%A8%E5%85%B1%E7%AF%89%E6%B0%B8%E7%BA%8C%E5%95%86%E5%9C%88-095931711.html",
      "published_at": "2026-10-19T10:59:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261019-checheng-festival",
+   "title": "車埕洄埕祭現切鮪魚秀、敬老同歡，帶動老街買氣",
+   "summary": "南投車埕洄埕祭以現切鮪魚秀與敬老活動吸引人潮，報導指帶動老街買氣。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-19T00:00:00+08:00",
+   "cities": [
+    "南投縣"
+   ],
+   "districts": [
+    {
+     "name": "車埕商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "車埕商圈為115年補助名單，報導指活動帶動老街買氣，可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "TDN台灣生活新聞",
+     "url": "https://news.st-media.com.tw/news/63637",
+     "published_at": "2026-10-19T00:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261018-jiali-shopping-carnival",
+   "title": "佳里購物嘉年華10月17、18日登場，結合識詐與交通安全宣導",
+   "summary": "2026佳里購物嘉年華於10月17、18日舉辦，警方到場結合識詐與交通安全宣導。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-18T08:00:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [
+    {
+     "name": "佳里商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "佳里商圈為115年補助名單，購物嘉年華已於10月17、18日辦理，可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261018452867",
+     "published_at": "2026-10-18T08:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261017-rongding-carnival",
+   "title": "榮町商圈和洋嘉年華登場，和洋穿搭走秀、文創市集與親子手作",
+   "summary": "2026榮町商圈和洋嘉年華10月16日在臺灣省城隍廟前廣場及周邊街區舉辦，有穿搭走秀、文創市集與親子手作。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-17T14:39:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "榮町商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "榮町商圈為115年補助名單，和洋嘉年華已於10月16日辦理，可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261017471198",
+     "published_at": "2026-10-17T14:39:00+08:00"
     }
    ]
   }
