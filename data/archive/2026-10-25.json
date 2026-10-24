@@ -1,0 +1,98 @@
+{
+ "date": "2026-10-25",
+ "runs": [
+  {
+   "at": "2026-10-25T07:18:27+08:00",
+   "added": 2,
+   "merged": 1,
+   "items": [
+    {
+     "id": "20261024-haian-halloween",
+     "title": "台南海安商圈萬聖節封街踩街，中式靈堂「幽靈殿堂」吸引挑戰膽識",
+     "summary": "海安商圈萬聖節變裝踩街今年封街舉辦，並在現場架設中式靈堂，網友評價兩極。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-24T22:10:00+08:00",
+     "cities": [
+      "台南市"
+     ],
+     "districts": [
+      {
+       "name": "海安商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "海安商圈為115年補助名單，萬聖節活動已如期封街舉辦，可作為執行佐證參考。",
+     "sources": [
+      {
+       "outlet": "Yahoo奇摩新聞",
+       "url": "https://tw.news.yahoo.com/%E6%A3%BA%E6%9D%90-%E7%89%9B%E9%A0%AD%E9%A6%AC%E9%9D%A2%E4%BB%8A%E6%99%9A%E4%B8%8A%E9%99%A3-%E5%8F%B0%E5%8D%97%E5%95%86%E5%9C%88%E8%90%AC%E8%81%96%E7%AF%80%E4%B8%AD%E5%BC%8F%E9%9D%88%E5%A0%82-%E6%8C%91%E6%88%B0%E8%86%BD%E8%AD%98%E8%A9%95%E5%83%B9%E5%85%A9%E6%A5%B5-141023753.html",
+       "published_at": "2026-10-24T22:10:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7326/9835309",
+       "published_at": "2026-10-24T19:03:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261024-chaozhou-book-market",
+     "title": "屏東潮州老街辦「潮海書田」書市集，20家書店齊聚、一週募款20萬",
+     "summary": "獨立書店在屏東潮州老街舉辦書市集，邀集南臺灣20家書店參與，一週募得約20萬元捐助學生。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-24T18:55:00+08:00",
+     "cities": [
+      "屏東縣"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "中時新聞網",
+       "url": "https://www.chinatimes.com/realtimenews/20261024002810-260421",
+       "published_at": "2026-10-24T18:55:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261024-lukang-holiday-business-drop",
+     "title": "連假遇薔琵颱風，鹿港老街生意掉三成，強風吹歪看板店家急修招牌",
+     "summary": "光復節連假遇薔琵颱風，彰化連續停班課，鹿港老街店家表示生意約掉三成，強風吹歪看板，業者忙著固定招牌。",
+     "category": "商圈動向",
+     "alert": "商圈受災",
+     "published_at": "2026-10-24T12:43:00+08:00",
+     "cities": [
+      "彰化縣"
+     ],
+     "districts": [
+      {
+       "name": "鹿港老街商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "鹿港老街商圈為115年補助名單，連假受颱風影響生意下滑約三成，可留意後續活動與人潮成效。",
+     "sources": [
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://www.ettoday.net/news/20261024/3260171.htm",
+       "published_at": "2026-10-24T12:43:00+08:00"
+      },
+      {
+       "outlet": "民視新聞",
+       "url": "https://www.msn.com/zh-tw/news/other/%E9%80%A3%E5%81%87%E5%85%A9%E6%A8%A3%E6%83%85-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E5%86%B7%E6%B8%85-%E5%8F%B0%E4%B8%AD%E6%BC%A2%E7%A5%9E%E7%99%BE%E8%B2%A8%E4%BA%BA%E6%BD%AE%E7%88%86%E6%BB%BF-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fX9R7",
+       "published_at": "2026-10-24T00:00:00+08:00"
+      },
+      {
+       "outlet": "TVBS新聞網",
+       "url": "https://www.msn.com/zh-tw/news/other/%E7%BA%8C%E6%94%BE%E9%A2%B1%E9%A2%A8%E5%81%87-%E5%8F%B0%E4%B8%AD%E4%BA%BA%E9%96%8B%E9%80%9B%E7%99%BE%E8%B2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E4%BA%BA%E6%BD%AE%E5%B0%913%E6%88%90/ar-AA2fY8ZE",
+       "published_at": "2026-10-24T00:00:00+08:00"
+      }
+     ]
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
+  }
+ ]
+}
