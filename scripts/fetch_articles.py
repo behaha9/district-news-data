@@ -29,7 +29,7 @@ import priority  # noqa: E402
 TAIPEI = timezone(timedelta(hours=8))
 OUT = "inputs/articles.json"
 KEEP_DAYS = 3
-MAX_NEW = 80
+MAX_NEW = 200
 WORKERS = 8
 BUDGET_SECONDS = 90
 TIMEOUT = 12

@@ -48,6 +48,8 @@ def taipei_time(item, article=None):
 
 def article_line(art, hint):
     """One line of prefetched facts: site, publisher summary, cities and districts in the body."""
+    if not (art.get("description") or art.get("cities") or art.get("published_at")):
+        return "↳ 原文是動態網頁，抓不到內容，請依標題判斷（必要時再打開原文）"
     cities = "、".join(f"{c}{n}" for c, n in (art.get("cities") or {}).items()) or "（未提到縣市）"
     parts = [f"↳ 原文：{art.get('site_name') or '站名不明'}"]
     if art.get("description"):
