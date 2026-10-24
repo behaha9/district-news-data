@@ -1,7 +1,61 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-24T10:19:26+08:00",
+ "generated_at": "2026-10-24T12:22:35+08:00",
  "items": [
+  {
+   "id": "20261024-tamsui-old-street-damage",
+   "title": "薔琵颱風衝擊淡水老街，河口水位高漲、英專路招牌砸落",
+   "summary": "報導指薔琵颱風使淡水河口水位高漲，淡水老街一帶滿目狼藉，英專路有招牌砸落、帆布碎片四散。",
+   "category": "商圈動向",
+   "alert": "商圈受災",
+   "published_at": "2026-10-24T00:00:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [
+    {
+     "name": "淡水老街商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "淡水老街商圈為115年補助名單，颱風造成街區受損，可能影響活動執行與營運，可留意後續復原情形。",
+   "sources": [
+    {
+     "outlet": "東森新聞",
+     "url": "https://www.msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E7%99%BC%E5%A8%81%E6%B7%A1%E6%B0%B4%E6%B2%B3%E5%8F%A3%E6%B0%B4%E4%BD%8D%E9%AB%98%E6%BC%B2%E6%B7%A1%E6%B0%B4%E8%80%81%E8%A1%97%E6%BB%BF%E7%9B%AE%E7%8B%BC%E8%97%89-%E8%8B%B1%E5%B0%88%E8%B7%AF%E6%8B%9B%E7%89%8C%E7%A0%B8%E8%90%BD-%E6%9D%B1%E6%A3%AE%E6%B0%A3%E8%B1%A1%E8%AE%9A/vi-AA2fX9dg",
+     "published_at": "2026-10-24T00:00:00+08:00"
+    },
+    {
+     "outlet": "東森新聞",
+     "url": "https://www.msn.com/zh-tw/lifestyle/other/%E6%9C%80%E6%96%B0-%E8%96%94%E7%90%B5%E8%82%86%E8%99%90%E6%B7%A1%E6%B0%B4%E8%80%81%E8%A1%97-%E5%B8%86%E5%B8%83%E7%A2%8E%E7%89%87%E5%9B%9B%E6%95%A3-newsebc/vi-AA2fWOQY",
+     "published_at": "2026-10-24T00:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261024-taoyuan-map-walk",
+   "title": "桃園推出雙城走讀地圖，串聯老街、古蹟與商場",
+   "summary": "報導指一張地圖串聯桃園雙城的老街、古蹟與商場，提供城市漫遊的新體驗。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-24T00:00:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "中時新聞網",
+     "url": "https://truemii.chinatimes.com/content/20261024001029-265001",
+     "published_at": "2026-10-24T00:00:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261024303429",
+     "published_at": "2026-10-24T00:00:00+08:00"
+    }
+   ]
+  },
   {
    "id": "20261023-kaohsiung-sail-banner",
    "title": "高雄左營巨蛋商圈旁大帆布遭強風吹斷纜繩，氣象站發布強風特報",
