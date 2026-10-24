@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-24T07:22:56+08:00",
+ "generated_at": "2026-10-24T10:19:26+08:00",
  "items": [
   {
    "id": "20261023-kaohsiung-sail-banner",
@@ -135,18 +135,18 @@
   },
   {
    "id": "20261023-houzhan-station",
-   "title": "新車站啟用吸客，後站商圈出現轉機",
-   "summary": "報導指新車站帶來人流，後站商圈迎來轉機。",
+   "title": "台南鐵路地下化新車站啟用，過去的「後站」大學路商圈迎轉機",
+   "summary": "台南鐵路地下化第一階段通車，新車站出入口改變旅客動線，過去被視為後站的大學路商圈與東區餐飲、旅宿業者可望迎來消費人潮。",
    "category": "商圈動向",
    "alert": null,
    "published_at": "2026-10-23T00:00:00+08:00",
    "cities": [
-    "台北市"
+    "台南市"
    ],
    "districts": [
     {
-     "name": "後站商圈",
-     "priority": true
+     "name": "大學路商圈",
+     "priority": false
     }
    ],
    "sources": [
