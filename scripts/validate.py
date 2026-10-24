@@ -8,7 +8,8 @@ import json
 import re
 import sys
 
-import priority
+sys.dont_write_bytecode = True  # 不在 scripts/ 產生 __pycache__
+import priority  # noqa: E402
 from datetime import datetime
 
 CATEGORIES = {"活動與街區", "開店與消費", "營運與政策", "商圈動向"}

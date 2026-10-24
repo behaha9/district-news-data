@@ -15,7 +15,8 @@ import re
 import sys
 from datetime import datetime, timedelta, timezone
 
-import priority
+sys.dont_write_bytecode = True  # 不在 scripts/ 產生 __pycache__
+import priority  # noqa: E402
 
 MAX_AGE_HOURS = 6
 TAIPEI = timezone(timedelta(hours=8))
