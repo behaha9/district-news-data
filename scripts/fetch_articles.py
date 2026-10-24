@@ -29,7 +29,7 @@ import priority  # noqa: E402
 TAIPEI = timezone(timedelta(hours=8))
 OUT = "inputs/articles.json"
 KEEP_DAYS = 3
-MAX_NEW = 200
+MAX_NEW = 250
 WORKERS = 8
 BUDGET_SECONDS = 90
 TIMEOUT = 12
@@ -224,10 +224,16 @@ def main():
     cache = {u: e for u, e in cache.items()
              if datetime.fromisoformat(e.get("checked_at", "2000-01-01T00:00+08:00")) >= cutoff}
 
+    try:
+        with open("inputs/district_news.json", encoding="utf-8") as fh:
+            district_items = json.load(fh).get("items", [])
+    except Exception:
+        district_items = []
     wanted = []
-    for item in items:
+    for item in district_items + items:
         url = item.get("url", "")
-        if not url.startswith("https://") or url in wanted or not SELECT.search(item.get("title", "")):
+        relevant = item.get("district") or SELECT.search(item.get("title", ""))
+        if not url.startswith("https://") or url in wanted or not relevant:
             continue
         old = cache.get(url)
         retry = old and old.get("status") != 200 and \

@@ -113,6 +113,23 @@ def main():
                     print("    " + article_line(art, hint))
                 elif art:
                     print(f"    ↳ 原文讀取失敗（{art.get('status')}），請依標題判斷或另開原文")
+        # 第 4 組：GitHub 每天用 Bing 新聞逐一查 115 年重點商圈（取代網路搜尋輪查）
+        try:
+            district_items = load("inputs/district_news.json").get("items", [])
+        except Exception:
+            district_items = []
+        rows = [d for d in district_items if d["url"] not in seen]
+        print(f"\n## 重點商圈新聞（每日逐一查詢，{len(rows)} 則，未列於前三組）")
+        for d in rows:
+            seen.add(d["url"])
+            art = articles.get(d["url"])
+            ok = art and art.get("status") == 200
+            label = f"【重點商圈：{d['district']}（{d['city']}）】"
+            print(f"{taipei_time(d, art if ok else None)} | {d['title']}{label} | {d.get('source','')} | {d['url']}")
+            if ok:
+                print("    " + article_line(art, [(d["district"], d["city"])]))
+            elif art:
+                print(f"    ↳ 原文讀取失敗（{art.get('status')}），請依標題判斷或另開原文")
     else:
         print("\n找不到 inputs/candidates.json")
 

@@ -9,6 +9,11 @@ on:
     - cron: "23 21-23 * * *"  # 臺北 每天 05:23、06:23、07:23
     - cron: "23 0-8 * * *"    # 臺北 每天 08:23–16:23
   workflow_dispatch:
+    inputs:
+      slice:
+        description: "本次查詢幾處重點商圈（預設 40）"
+        required: false
+        default: "40"
   push:
     branches: [main]
     # 整理流程推送 requests/fetch.txt 時立即重抓（GitHub 排程常被延遲或跳過）
@@ -24,7 +29,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
@@ -49,6 +54,8 @@ jobs:
             rm -f "$out.tmp" "$out.hdr"; return 1
           }
           fetch "$base/candidates?window=2d" inputs/candidates.json || true
+          # 重點商圈每日查詢：每次輪流查 40 處（Bing 新聞，精確名稱），結果存 inputs/district_news.json
+          DISTRICT_SLICE="${{ github.event.inputs.slice || '40' }}" timeout 280 python3 scripts/fetch_district_news.py 2>>inputs/fetch-log.txt | tee -a inputs/fetch-log.txt || true
           # 原文預抓：只存發布時間、站名、官方摘要與內文提到的縣市／重點商圈次數，不存內文
           timeout 150 python3 scripts/fetch_articles.py 2>>inputs/fetch-log.txt | tee -a inputs/fetch-log.txt || true
           python3 - <<'PY2'
@@ -56,7 +63,7 @@ jobs:
           from datetime import datetime, timezone, timedelta
           now = datetime.now(timezone(timedelta(hours=8))).replace(microsecond=0).isoformat()
           status = {"fetched_at": now, "files": {}}
-          for name in ("candidates.json", "articles.json"):
+          for name in ("candidates.json", "district_news.json", "articles.json"):
               path = f"inputs/{name}"
               if os.path.exists(path) and os.path.getmtime(path) > datetime.now().timestamp() - 600:
                   data = json.load(open(path))
