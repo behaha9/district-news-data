@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T16:49:53+08:00",
+ "fetched_at": "2026-10-24T17:38:47+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-24T13:13+08:00",
@@ -3930,6 +3930,122 @@
    },
    "districts": [],
    "body_chars": 585
+  },
+  "https://www.msn.com/zh-tw/news/other/%E5%A5%BD%E6%9C%83jump-%E6%A9%9F%E8%BB%8A%E9%81%AD%E6%92%9E%E9%A3%9B%E9%81%8E%E4%BE%86-%E8%B7%AF%E4%BA%BA-%E8%B7%B3%E9%81%8E-%E9%80%83%E4%B8%80%E5%8A%AB-newsebc/vi-AA2esASE": {
+   "checked_at": "2026-10-24T17:38+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1
+  },
+  "https://news.tvbs.com.tw/life/4040643": {
+   "checked_at": "2026-10-24T17:38+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T16:51+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "薔琵颱風對中部地區的影響逐漸減弱，台中各大百貨購物中心於24日幾乎全面恢復營業，其中漢神洲際百貨適逢週年慶，開門時刻便湧現大批人潮，新光三越、大遠百門口也有不少民眾提早等候，不過鹿港老街的遊客人數則尚未回溫，當地店家表示人潮較以往連假減少約3成。",
+   "cities": {
+    "台中市": 11,
+    "彰化縣": 7,
+    "南投縣": 3,
+    "台北市": 2,
+    "苗栗縣": 1
+   },
+   "districts": [
+    "鹿港老街商圈（彰化縣）"
+   ],
+   "body_chars": 2633
+  },
+  "https://life.tw/article/%E8%AC%9D%E5%9C%8B%E6%A8%91%E8%A6%96%E5%AF%9F%E5%9F%BA%E9%9A%86%E6%98%93%E6%B7%B9%E6%B0%B4%E5%8D%80-%E9%97%9C%E5%88%87%E5%BA%97%E5%AE%B6%E9%98%B2%E6%B0%B4%E9%96%98%E9%96%80%E6%95%B4%E5%82%99-3191037": {
+   "checked_at": "2026-10-24T17:38+08:00",
+   "status": 200,
+   "published_at": "2026-10-23T16:16+08:00",
+   "site_name": "LIFE 生活網",
+   "description": "基隆市長謝國樑視察易淹水區，關切店家防颱整備與防水閘門裝設進度。",
+   "cities": {
+    "基隆市": 10
+   },
+   "districts": [],
+   "body_chars": 1448
+  },
+  "https://news.ltn.com.tw/news/society/breakingnews/5617524": {
+   "checked_at": "2026-10-24T17:38+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:15+08:00",
+   "site_name": "自由時報電子報",
+   "description": "新北市瑞芳區市區等多處路段，昨晚受薔琵颱風影響停電，直到今天（24日）上午仍未恢復供電。王姓男子竟趁瑞芳區「九上天神農大帝宮」停電時，夥同黃姓少年，摸黑欲偷走4面、市價新台幣6萬8000元的神明金牌，被王姓宮主撞見後報警。警方獲報趕抵，將王男、黃少帶回偵訊後，依涉犯竊盜罪究辦。新北市瑞芳分局瑞濱派出所，今天上午11時許",
+   "cities": {
+    "新北市": 6,
+    "基隆市": 2,
+    "彰化縣": 1
+   },
+   "districts": [],
+   "body_chars": 905
+  },
+  "https://star.setn.com/news/1927606": {
+   "checked_at": "2026-10-24T17:38+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:02+08:00",
+   "site_name": "三立娛樂星聞",
+   "description": "第61屆金鐘獎因颱風攪局宣布延期，資深藝人洪都拉斯首度角逐迷你劇集視帝難掩情緒，深夜感性曬出7年前首次個人入圍的珍藏名牌照，直呼好事多磨。他以樂觀正向心態看待典禮延至10月底舉辦，並發文祈求眾人平安，展現暖心風範，期待10月26日順利登場。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 870
+  },
+  "https://www.cna.com.tw/news/ahel/202610240132.aspx": {
+   "checked_at": "2026-10-24T17:38+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T16:21+08:00",
+   "site_name": "中央社 CNA",
+   "description": "交通部觀光署東北角及宜蘭海岸國家風景區管理處今天表示，龜山島受颱風薔琵嚴重侵襲，島上設施受損，明天起暫停開放遊客登島，恢復開放日期視修復進度後再公告。",
+   "cities": {
+    "宜蘭縣": 3
+   },
+   "districts": [],
+   "body_chars": 457
+  },
+  "https://www.ctwant.com/article/503267/": {
+   "checked_at": "2026-10-24T17:38+08:00",
+   "status": 200,
+   "published_at": "2026-10-22T12:00+08:00",
+   "site_name": "CTWANT",
+   "description": "一座城市最珍貴的風景，不一定是最新穎的摩天大樓，有時反而藏在那些歷經歲月洗禮的老房子裡。重慶的特殊之處，在於新與舊往往沒有明確的界線，轉過一道彎，可能看見百年前的洋行建築；沿著石階往上走，又會遇見改裝...",
+   "cities": {},
+   "districts": [
+    "花蓮市 百年老街商圈（花蓮縣）"
+   ],
+   "body_chars": 1726
+  },
+  "https://www.ettoday.net/news/20261024/3260258.htm": {
+   "checked_at": "2026-10-24T17:38+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T15:58+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "薔琵颱風帶來強勁風勢，據台電雲林區處統計，截至今(24日)下午2時，雲林縣已累計逾3萬4000戶停電，尚有1800餘戶停電中，主要集中在四湖、口湖、水林及台西等地區，目前台電已全力投入搶修，力拚今日全數復電完畢。",
+   "cities": {
+    "雲林縣": 13,
+    "高雄市": 2,
+    "花蓮縣": 1
+   },
+   "districts": [],
+   "body_chars": 1169
+  },
+  "https://www.nownews.com/news/6886276": {
+   "checked_at": "2026-10-24T17:38+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:19+08:00",
+   "site_name": "NOWnews今日新聞",
+   "description": "受到薔琵颱風影響，第61屆金鐘獎連兩日延期，戲劇類頒獎典禮昨（23）日緊急宣布改至26日舉行，憑著《監所男子囚生記》入圍「戲劇節目男主角獎」的大馬男星陳澤耀，原訂...",
+   "cities": {
+    "台北市": 2,
+    "高雄市": 1,
+    "苗栗縣": 1
+   },
+   "districts": [],
+   "body_chars": 813
   }
  }
 }
