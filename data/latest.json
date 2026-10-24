@@ -1,7 +1,37 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-24T13:46:25+08:00",
+ "generated_at": "2026-10-24T16:50:41+08:00",
  "items": [
+  {
+   "id": "20261023-yongkang-gyutan",
+   "title": "牛舌佑介插旗台北永康商圈，中山店同步規劃年底前開幕",
+   "summary": "乾杯旗下「牛舌佑介」進駐台北永康商圈，另規劃中山店於年底前開幕。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-10-24T14:25:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "永康商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "永康商圈為115年補助名單，新店進駐可能帶動人潮，可留意店家動態。",
+   "sources": [
+    {
+     "outlet": "旅遊頻道 udn",
+     "url": "https://travel.udn.com/travel/story/7205/9833992",
+     "published_at": "2026-10-24T14:25:00+08:00"
+    },
+    {
+     "outlet": "ETtoday旅遊雲",
+     "url": "https://travel.ettoday.net/article/3259877.htm",
+     "published_at": "2026-10-23T00:00:00+08:00"
+    }
+   ]
+  },
   {
    "id": "20261024-lukang-holiday-business-drop",
    "title": "連假遇薔琵颱風，鹿港老街生意掉三成，強風吹歪看板店家急修招牌",
@@ -24,6 +54,11 @@
      "outlet": "ETtoday新聞雲",
      "url": "https://www.ettoday.net/news/20261024/3260171.htm",
      "published_at": "2026-10-24T12:43:00+08:00"
+    },
+    {
+     "outlet": "民視新聞",
+     "url": "https://www.msn.com/zh-tw/news/other/%E9%80%A3%E5%81%87%E5%85%A9%E6%A8%A3%E6%83%85-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E5%86%B7%E6%B8%85-%E5%8F%B0%E4%B8%AD%E6%BC%A2%E7%A5%9E%E7%99%BE%E8%B2%A8%E4%BA%BA%E6%BD%AE%E7%88%86%E6%BB%BF-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fX9R7",
+     "published_at": "2026-10-24T00:00:00+08:00"
     }
    ]
   },
@@ -282,31 +317,6 @@
    ]
   },
   {
-   "id": "20261023-yongkang-gyutan",
-   "title": "牛舌佑介插旗台北永康商圈，中山店同步規劃年底前開幕",
-   "summary": "乾杯旗下「牛舌佑介」進駐台北永康商圈，另規劃中山店於年底前開幕。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-10-23T00:00:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "永康商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "永康商圈為115年補助名單，新店進駐可能帶動人潮，可留意店家動態。",
-   "sources": [
-    {
-     "outlet": "ETtoday旅遊雲",
-     "url": "https://travel.ettoday.net/article/3259877.htm",
-     "published_at": "2026-10-23T00:00:00+08:00"
-    }
-   ]
-  },
-  {
    "id": "20261023-houzhan-station",
    "title": "台南鐵路地下化新車站啟用，過去的「後站」大學路商圈迎轉機",
    "summary": "台南鐵路地下化第一階段通車，新車站出入口改變旅客動線，過去被視為後站的大學路商圈與東區餐飲、旅宿業者可望迎來消費人潮。",
@@ -419,6 +429,30 @@
     {
      "outlet": "報新聞",
      "url": "https://www.contentplatform.info/articles/546796/%E5%8F%B0%E4%B8%AD%E8%90%AC%E8%81%96%E7%AF%80%E6%B4%BB%E5%8B%95%E5%9C%B0%E5%9C%96%E3%80%80%E8%B1%90%E5%8E%9F%E5%95%86%E5%9C%8810-31%E8%A8%8E%E7%B3%96%E5%98%89%E5%B9%B4%E8%8F%AF%E3%80%80%E5%B8%82/",
+     "published_at": "2026-10-23T00:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261023-xinyi-wind-damage",
+   "title": "薔琵強風襲信義商圈，百貨公司外部裝置遭連根拔起",
+   "summary": "鏡新聞報導，薔琵颱風使信義商圈晚間風勢強勁，百貨公司的裝置遭強風連根拔起。",
+   "category": "商圈動向",
+   "alert": "商圈受災",
+   "published_at": "2026-10-23T00:00:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "信義商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "鏡新聞",
+     "url": "https://www.msn.com/zh-tw/news/other/%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E6%99%9A%E9%96%93%E9%A2%A8%E5%8B%A2%E5%BC%B7%E5%8B%81-%E7%99%BE%E8%B2%A8%E5%85%AC%E5%8F%B8%E8%A3%9D%E7%BD%AE%E9%81%AD%E9%80%A3%E6%A0%B9%E6%8B%94%E8%B5%B7-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2fW4ia",
      "published_at": "2026-10-23T00:00:00+08:00"
     }
    ]
