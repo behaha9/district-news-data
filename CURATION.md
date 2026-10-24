@@ -23,8 +23,13 @@
 
 1. **網站候選清單**（有發布時間，優先使用）
    GitHub Actions 每天 05:23–16:23 每小時把網站候選清單存進 `inputs/`（GitHub 排程常延遲，整理前會再即時請求重抓）。
-   先執行 `python3 scripts/refresh_candidates.py`（清單超過 2 小時會自動請 GitHub Actions 重抓並等候最多 100 秒；結束碼 1 代表仍是舊清單，照常往下做），
+   先執行 `python3 scripts/refresh_candidates.py`（清單超過 2 小時會自動請 GitHub Actions 重抓並等候最多 150 秒；結束碼 1 代表仍是舊清單，照常往下做），
    再執行 `python3 scripts/filter_candidates.py`：它會依「商圈／老街」「活動異動」「受災影響」三組關鍵字列出候選新聞。
+   - GitHub Actions 會順便打開這些新聞的原文，候選行下方的「↳ 原文」列出：站名、媒體官方摘要、內文提到的縣市與次數、內文提到的重點商圈。**有這一行時不必再打開原文**：
+     - 時間標「（原文時間）」的直接照抄，這是媒體自己的發布時間。
+     - 縣市以「內文縣市」最常出現的為準；出現「⚠ 名單縣市與內文縣市不同」時，不要標 priority。
+     - 摘要可參考媒體官方摘要，但要用自己的話寫一句，不得照抄。
+     - 顯示「原文讀取失敗」的，照舊依標題判斷，必要時再打開原文。
    - 結束碼為 0：直接使用這份清單，**不必**再讀網站網址。
    - 結束碼為 2（檔案缺漏或超過 6 小時）：改用網頁讀取工具讀取 `https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d`，依上述三組關鍵字各要一份清單（每行：published_at | title | source | url）；讀取失敗依步驟 6 處理。
 2. **網路搜尋**（用網路搜尋工具；以繁體中文查詢臺灣新聞）

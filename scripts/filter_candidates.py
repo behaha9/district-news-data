@@ -27,9 +27,16 @@ GROUPS = [
 ]
 
 
-def taipei_time(item):
-    """Time to copy into published_at. Bing times are unreliable (often hours off), so the
-    website marks them date_only; use that date at 00:00, which the site shows as date only."""
+def taipei_time(item, article=None):
+    """Time to copy into published_at. The publisher's own time (prefetched article) wins.
+    Bing times are unreliable (often hours off), so the website marks them date_only; then use
+    that date at 00:00, which the site shows as date only."""
+    if article and article.get("published_at"):
+        try:
+            value = datetime.fromisoformat(article["published_at"]).astimezone(TAIPEI)
+            return value.isoformat(timespec="seconds") + "（原文時間）"
+        except Exception:
+            pass
     if item.get("date_only") and item.get("published_date"):
         return f"{item['published_date']}T00:00:00+08:00（只有日期）"
     try:
@@ -37,6 +44,21 @@ def taipei_time(item):
         return value.astimezone(TAIPEI).isoformat(timespec="minutes")
     except Exception:
         return item.get("published_at", "")
+
+
+def article_line(art, hint):
+    """One line of prefetched facts: site, publisher summary, cities and districts in the body."""
+    cities = "、".join(f"{c}{n}" for c, n in (art.get("cities") or {}).items()) or "（未提到縣市）"
+    parts = [f"↳ 原文：{art.get('site_name') or '站名不明'}"]
+    if art.get("description"):
+        parts.append(f"摘要：{art['description'][:90]}")
+    parts.append(f"內文縣市：{cities}")
+    if art.get("districts"):
+        parts.append("內文重點商圈：" + "、".join(art["districts"]))
+    top = next(iter(art.get("cities") or {}), None)
+    if hint and top and all(c != top for _, c in hint):
+        parts.append(f"⚠ 名單縣市（{'、'.join(c for _, c in hint)}）與內文最常出現的縣市（{top}）不同，請勿直接標★")
+    return "｜".join(parts)
 
 
 def load(path):
@@ -63,6 +85,10 @@ def main():
     if os.path.exists("inputs/candidates.json"):
         items = load("inputs/candidates.json")["items"]
         patterns = priority.load()
+        try:
+            articles = load("inputs/articles.json").get("articles", {})
+        except Exception:
+            articles = {}
         seen = set()
         for label, pattern in GROUPS:
             rows, group_urls = [], set()
@@ -78,7 +104,13 @@ def main():
                 seen.add(i["url"])
                 hint = priority.hints(i.get("title", ""), patterns)
                 mark = "【★可能是重點商圈：" + "、".join(f"{n}（{c}）" for n, c in hint) + "】" if hint else ""
-                print(f"{taipei_time(i)} | {i.get('title','')}{mark} | {i.get('source','')} | {i['url']}")
+                art = articles.get(i["url"])
+                ok = art and art.get("status") == 200
+                print(f"{taipei_time(i, art if ok else None)} | {i.get('title','')}{mark} | {i.get('source','')} | {i['url']}")
+                if ok:
+                    print("    " + article_line(art, hint))
+                elif art:
+                    print(f"    ↳ 原文讀取失敗（{art.get('status')}），請依標題判斷或另開原文")
     else:
         print("\n找不到 inputs/candidates.json")
 

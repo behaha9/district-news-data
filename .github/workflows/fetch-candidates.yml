@@ -49,15 +49,18 @@ jobs:
             rm -f "$out.tmp" "$out.hdr"; return 1
           }
           fetch "$base/candidates?window=2d" inputs/candidates.json || true
+          # 原文預抓：只存發布時間、站名、官方摘要與內文提到的縣市／重點商圈次數，不存內文
+          timeout 150 python3 scripts/fetch_articles.py 2>>inputs/fetch-log.txt | tee -a inputs/fetch-log.txt || true
           python3 - <<'PY2'
           import json, os
           from datetime import datetime, timezone, timedelta
           now = datetime.now(timezone(timedelta(hours=8))).replace(microsecond=0).isoformat()
           status = {"fetched_at": now, "files": {}}
-          for name in ("candidates.json",):
+          for name in ("candidates.json", "articles.json"):
               path = f"inputs/{name}"
               if os.path.exists(path) and os.path.getmtime(path) > datetime.now().timestamp() - 600:
-                  status["files"][name] = len(json.load(open(path))["items"])
+                  data = json.load(open(path))
+                  status["files"][name] = len(data["items"] if "items" in data else data.get("articles", {}))
           json.dump(status, open("inputs/status.json", "w"), ensure_ascii=False, indent=1)
           print(status)
           PY2

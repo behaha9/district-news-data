@@ -18,7 +18,7 @@ from datetime import datetime, timedelta, timezone
 
 TAIPEI = timezone(timedelta(hours=8))
 FRESH_HOURS = 2
-WAIT_SECONDS = 100
+WAIT_SECONDS = 150
 POLL_SECONDS = 10
 
 
