@@ -35,6 +35,11 @@ def git(*args):
 
 
 def main():
+    # 排程環境預先 clone 的倉庫可能停在 detached HEAD，先切回 main
+    if git("symbolic-ref", "-q", "HEAD").returncode != 0:
+        git("fetch", "-q", "origin", "main")
+        git("checkout", "-q", "-B", "main", "origin/main")
+        print("倉庫原為 detached HEAD，已切回 main。")
     git("pull", "-q", "--rebase", "origin", "main")
     before = fetched_at()
     now = datetime.now(TAIPEI)
