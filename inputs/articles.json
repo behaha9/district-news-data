@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T13:14:38+08:00",
+ "fetched_at": "2026-10-24T13:43:53+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-24T13:13+08:00",
@@ -2274,6 +2274,265 @@
    },
    "districts": [],
    "body_chars": 638
+  },
+  "https://sunmedia.tw/news/technology/creammmt首度進駐台北！-108中山門市正式開幕，期間限定「五種檸檬塔」同步登場-1792412274029": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": "error",
+   "error": "'ascii' codec can't encode characters in position 29-35: ordinal not in range(128)"
+  },
+  "https://n.yam.com/Article/20261021552143": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T06:08+08:00",
+   "site_name": "蕃新聞",
+   "description": "CNEWS匯流新聞網記者徐德芬／彰化報導彰化市永樂商圈已沒落多年，為振興商圈，彰化市公所今年7月啟動",
+   "cities": {
+    "彰化縣": 9,
+    "台中市": 1
+   },
+   "districts": [
+    "永樂商圈（台北市）",
+    "永樂商圈（彰化縣）"
+   ],
+   "body_chars": 1402
+  },
+  "https://money.udn.com/money/story/5635/9824781": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-19T20:25+08:00",
+   "site_name": "經濟日報",
+   "description": "以花型檸檬塔打響名號的台灣甜點品牌 creammm.t 首度從台中北上展店，台北中山門市日前於台北市大同區正式開幕，鄰近捷運雙連站及中山商圈。品牌創立十餘年，以手作司康起家，憑藉造型獨特的花型檸檬塔累積人氣，此次進軍台北，特別推出期間限定「五種檸檬塔禮盒」，選用五種不同品種的檸檬，呈現各具特色的酸香層次，為甜點市場增添",
+   "cities": {
+    "台北市": 14,
+    "台中市": 2
+   },
+   "districts": [
+    "中山商圈（台北市）"
+   ],
+   "body_chars": 1417
+  },
+  "https://health.udn.com/health/story/5999/9828425": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T12:54+08:00",
+   "site_name": "元氣網-解決你的健康大小事｜元氣網",
+   "description": "面對氣候變遷，夏季都市高溫讓行人走在路上也吃不消，台北市政府今年推動戶外遮陽傘，能否改善戶外熱環境，受到各界關注。雲林科技大學公布",
+   "cities": {
+    "台北市": 13,
+    "雲林縣": 7
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 2467
+  },
+  "https://news.nextapple.com/tag/%E6%9B%B9%E7%A5%90%E5%AF%A7/9abcda5e5c90c653d75cb5e26ee0f22f": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T14:06+08:00",
+   "site_name": "壹蘋新聞網",
+   "description": "《壹蘋新聞網》收錄與曹祐寧相關的新聞、專題與深度內容。掌握曹祐寧的最新動態、人物故事、影音報導與網路熱門討論，一次看懂完整話題，立即掌握最新動態！",
+   "cities": {
+    "台北市": 9,
+    "花蓮縣": 2,
+    "高雄市": 1
+   },
+   "districts": [
+    "大直商圈（台北市）"
+   ],
+   "body_chars": 2081
+  },
+  "https://news.ebc.net.tw/news/society/576272": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-18T16:45+08:00",
+   "site_name": "東森新聞",
+   "description": "台北市大安區東區商圈17日晚間發生街頭衝突，46歲朱姓男子疑似因過馬路問題，朝34歲陳姓男子丟擲飲料瓶，雙方隨後爆發肢體衝突，還一路從斑馬線打到人行道。",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 581
+  },
+  "https://tw.news.yahoo.com/%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96%E9%A0%BB%E5%82%B3%E6%83%B9%E6%B0%91%E6%80%A8-%E7%B8%A3%E8%AD%B0%E5%93%A1%E6%8F%AD5%E5%A4%A7%E7%BC%BA%E5%A4%B1-082339976.html": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T16:23+08:00",
+   "site_name": "Yahoo News",
+   "description": "彰化市公所正執行「永樂商圈」道路改善工程，民眾跌落水溝、瓦斯外洩、大停電等工安意外頻傳。縣議員温芝樺受理陳情實地勘查後，揭露：工程兩面開挖、臨時通道安全堪慮、缺乏型鋼護欄、鋼筋未設防護套及管線工程沒整",
+   "cities": {
+    "台北市": 8,
+    "彰化縣": 5,
+    "台中市": 4,
+    "台東縣": 3,
+    "花蓮縣": 2
+   },
+   "districts": [
+    "永樂商圈（台北市）",
+    "永樂商圈（彰化縣）"
+   ],
+   "body_chars": 3851
+  },
+  "https://www.setn.com/news/1924137": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-18T01:43+08:00",
+   "site_name": "三立新聞網",
+   "description": "民進黨台北市長參選人沈伯洋談條通商圈時建議，可用樹木、車架阻隔，給民眾安全感。市長蔣萬安今天說，應了解實際狀況，因條通路不寬，若加上阻隔或車架可能造成民眾不便。",
+   "cities": {
+    "台北市": 2,
+    "新北市": 2,
+    "高雄市": 2,
+    "桃園市": 1
+   },
+   "districts": [
+    "條通商圈（台北市）"
+   ],
+   "body_chars": 1360
+  },
+  "https://www.mnews.tw/story/20261018sot1231001": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-18T12:31+08:00",
+   "site_name": "鏡新聞",
+   "description": "這個脾氣是吃了炸藥嗎？北市東區商圈10/17發生離譜的糾紛，一名阿伯和一對情侶對到眼後，覺得自己被挑釁，於是拿起手中的飲料杯砸人，雙方也因此直接在大馬路上大打出手，讓目擊的民眾嚇到趕快報警。",
+   "cities": {},
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 967
+  },
+  "https://tw.news.yahoo.com/%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E7%88%86%E5%85%A8%E6%AD%A6%E8%A1%8C-%E9%98%BF%E4%BC%AF%E6%BF%80%E9%AC%A5%E6%83%85%E4%BE%B6%E6%AA%94%E9%81%AD%E5%A3%93%E5%88%B6-%E9%8F%A1%E6%96%B0%E8%81%9E-102322018.html": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-18T18:23+08:00",
+   "site_name": "Yahoo News",
+   "description": "這個脾氣是吃了炸藥嗎？北市東區商圈10/17發生離譜的糾紛，一名阿伯和一對情侶對到眼後，覺得自己被挑釁，於是拿起手中的飲料杯砸人，雙方也因此直接在大馬路上大打出手，讓目擊的民眾嚇到趕快報警。",
+   "cities": {
+    "台北市": 10,
+    "台中市": 2,
+    "新北市": 1
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 3287
+  },
+  "https://travel.ettoday.net/article/3256745.htm": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-22T10:00+08:00",
+   "site_name": "ETtoday旅遊雲",
+   "description": "台北市中山區晴光商圈附近，有間從2021年起，連續六年獲得「台灣米其林指南」推薦的法式餐廳「CEO1950總裁藝文空間」，是我今年吃過評分最高的捷運中山國小站約會餐廳與聚餐餐廳。",
+   "cities": {
+    "台北市": 10,
+    "台中市": 1,
+    "高雄市": 1,
+    "基隆市": 1,
+    "苗栗縣": 1
+   },
+   "districts": [
+    "晴光商圈（台北市）",
+    "永康商圈（台北市）"
+   ],
+   "body_chars": 2557
+  },
+  "https://www.msn.com/zh-tw/news/other/%E9%87%91%E9%90%9861-%E5%BC%B7%E9%A2%B1%E8%96%94%E7%90%B5%E6%94%AA%E5%B1%80-%E6%B4%AA%E9%83%BD%E6%8B%89%E6%96%AF%E6%9B%9D-7%E5%B9%B4%E5%89%8D%E7%8F%8D%E8%B2%B4%E7%95%AB%E9%9D%A2-%E5%BB%B6%E6%9C%9F%E6%83%85%E7%B7%92%E6%9B%B4%E5%A4%9A%E4%BA%86/ar-AA2fXBdq": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1
+  },
+  "https://news.tvbs.com.tw/entertainment/music/4040624": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T13:06+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "來台開唱超過 17 次、被台灣歌迷親切封為「灶咖天團」的西洋情歌傳奇樂團「空中補給合唱團」（Air Supply），原定今（24）日下午 2 點於高雄流行音樂中心（高流）隆重開唱。沒想到受到薔琵颱風襲台影響，海外演出重要器材的運輸航班全數遭取消無法如期抵達，主辦單位與團員經謹慎評估後，不得不忍痛宣布今日演出緊急延期！",
+   "cities": {
+    "台北市": 11,
+    "高雄市": 11,
+    "苗栗縣": 3,
+    "台中市": 2,
+    "花蓮縣": 1
+   },
+   "districts": [],
+   "body_chars": 3270
+  },
+  "https://ctinews.com/news/items/8knJqByvxo": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-19T15:46+08:00",
+   "site_name": "中天新聞網",
+   "description": "民進黨立委、台北市長參選人沈伯洋日前在林森公園「市長，你給我聽好了」肥皂箱活動，有民眾問及如何發揚條通文化且撇除負面印象，沈伯洋當時回應可用樹木或車架進行實體阻隔，行人經過就會有安全感，言論一出引發爭議。對此，台北市條通商圈產業發展促進會理事長許中獻指出，應該讓更多人看見條通的文化、店家特色及日常生活。",
+   "cities": {
+    "台北市": 8
+   },
+   "districts": [
+    "條通商圈（台北市）"
+   ],
+   "body_chars": 1344
+  },
+  "https://n.yam.com/Article/20261017471198": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-17T14:39+08:00",
+   "site_name": "蕃新聞",
+   "description": "報新聞/編輯部「2026榮町商圈和洋嘉年華」於10月16日在臺灣省城隍廟前廣場及周邊活動街區熱鬧登場",
+   "cities": {
+    "台北市": 5,
+    "花蓮縣": 3
+   },
+   "districts": [
+    "榮町商圈（台北市）"
+   ],
+   "body_chars": 1451
+  },
+  "https://www.cna.com.tw/news/aloc/202610240075.aspx": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T12:43+08:00",
+   "site_name": "中央社 CNA",
+   "description": "颱風薔琵過境，台電統計，截至今天中午12時，台南市逾3萬戶人家一度停電，目前尚有881戶停電，全力搶修中，希望今晚全數恢復供電。",
+   "cities": {
+    "台南市": 7
+   },
+   "districts": [],
+   "body_chars": 598
+  },
+  "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=648340": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "青年日報",
+   "description": "記者黃朝琴／臺北報導　2026臺北白晝之夜31日下午2時將於花博圓山園區登場，向外擴散串聯圓山自然景觀公園、晴光商圈與大同大學，持續進行至11月1日凌晨2時；以「NIGHT KA SHI」為主題，汲取「那卡西」表演精神，透過流動、即興、開放方式，推出超過30 件作品與50場演出，邀民眾晃遊漫步，與藝術不期而遇，探索夜間",
+   "cities": {
+    "台北市": 6
+   },
+   "districts": [
+    "晴光商圈（台北市）"
+   ],
+   "body_chars": 532
+  },
+  "https://ctinews.com/news/items/KwnKLbK1WY": {
+   "checked_at": "2026-10-24T13:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-17T17:39+08:00",
+   "site_name": "中天新聞網",
+   "description": "民進黨台北市長參選人沈伯洋談條通商圈時建議，可用樹木、車架阻隔，給民眾安全感。市長蔣萬安今天說，應了解實際狀況，因條通路不寬，若加上阻隔或車架可能造成民眾不便。",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [
+    "條通商圈（台北市）"
+   ],
+   "body_chars": 846
   }
  }
 }
