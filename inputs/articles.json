@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T22:51:51+08:00",
+ "fetched_at": "2026-10-26T07:17:01+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-25T22:48+08:00",
@@ -1911,7 +1911,7 @@
    "image": "https://ni.yam.com/20261023/IMG_0387-scaled-60193548824958ac.webp"
   },
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-10-25T22:48+08:00",
+   "checked_at": "2026-10-26T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -2450,7 +2450,7 @@
    "image": "https://www.klcg.gov.tw/wSite/public/Attachment/01603/f1783495666019.jpg"
   },
   "https://sunmedia.tw/news/technology/creammmt首度進駐台北！-108中山門市正式開幕，期間限定「五種檸檬塔」同步登場-1792412274029": {
-   "checked_at": "2026-10-25T22:51+08:00",
+   "checked_at": "2026-10-26T07:17+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 29-35: ordinal not in range(128)"
   },
@@ -2924,12 +2924,26 @@
    "image": "https://news.pchome.com.tw/newsdata/travel/thehubnews/20261021/79257816474758306009_original.jpg"
   },
   "https://n.yam.com/Article/20261021423424": {
-   "checked_at": "2026-10-25T22:48+08:00",
-   "status": 429,
-   "error": "HTTP Error 429: Too Many Requests"
+   "checked_at": "2026-10-26T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T03:25+08:00",
+   "site_name": "蕃新聞",
+   "description": "百貨週年慶搭上萬聖節消費潮，各項慶祝活動熱鬧滾滾。新光三越天母店於10月22日啟動週慶活動，",
+   "cities": {
+    "台北市": 4,
+    "台中市": 2,
+    "高雄市": 2,
+    "桃園市": 1,
+    "台南市": 1
+   },
+   "districts": [
+    "天母商圈（台北市）"
+   ],
+   "body_chars": 2165,
+   "image": "https://ni.yam.com/20261021/Cardu_6ad77bce6a8e6-c362f899a0238b6b.webp"
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-10-25T22:51+08:00",
+   "checked_at": "2026-10-26T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4368,7 +4382,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/13ed3132240a8243b05bffc172c359d0effaf70c5b935125a2174b2c45cd01d2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fudn.com%2Fe789291bd170240e6df7df4d12d57a4b.jpg"
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-10-25T22:51+08:00",
+   "checked_at": "2026-10-26T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4778,7 +4792,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/29fcdba81b48bcf8b593bfe9744c17364d99a116bef494eb243d5e0bd5b7236a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Febc.net.tw%2Fd0bd19878ced45a124941b44d19be72e.jpg"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-10-25T22:48+08:00",
+   "checked_at": "2026-10-26T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4966,7 +4980,7 @@
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618023_1_1.jpg"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-10-25T22:48+08:00",
+   "checked_at": "2026-10-26T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5237,7 +5251,7 @@
    "image": "https://media.nownews.com/nn_media/thumbnail/2025/10/1761820714952-bd0876a206d743e3967b54bfe72a1d03-1200x801.webp?unShow=false"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
-   "checked_at": "2026-10-25T22:48+08:00",
+   "checked_at": "2026-10-26T07:17+08:00",
    "status": "error",
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
@@ -5276,7 +5290,7 @@
    "image": "https://hsnews.com.tw/images/2026/10/22/img_1179_large.jpeg"
   },
   "https://news.cts.com.tw/cts/general/202610/202610203091965.html": {
-   "checked_at": "2026-10-25T22:48+08:00",
+   "checked_at": "2026-10-26T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5506,7 +5520,7 @@
    "image": "https://images.ctee.com.tw/newsphoto/2026-10-19/1024/20261019701641.jpg"
   },
   "https://www.juksy.com/article/153568": {
-   "checked_at": "2026-10-25T22:48+08:00",
+   "checked_at": "2026-10-26T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5638,9 +5652,109 @@
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618108_1_1.jpg"
   },
   "https://nownews.com/news/6885475": {
-   "checked_at": "2026-10-25T22:48+08:00",
+   "checked_at": "2026-10-26T07:17+08:00",
    "status": "error",
    "error": "<urlopen error timed out>"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E7%8D%A8%E5%AE%B6-%E9%82%84%E5%9C%A8-%E8%A3%9D%E7%86%9F-%E6%A9%AB%E8%A1%8C%E9%9B%99%E5%8C%97-%E5%80%9F%E9%8C%A2%E5%93%A5-%E8%BD%89%E6%88%B0%E6%A1%83%E5%9C%92%E9%82%84%E6%BC%B2%E5%83%B9-newsebc/vi-AA2fztID": {
+   "checked_at": "2026-10-26T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null
+  },
+  "https://macrocosm.tw/%e5%8d%97%e6%8a%95%e3%80%8c%e5%a4%8f%e5%8d%88%e5%86%b0%e6%9e%9c%e4%ba%8b%e3%80%8d10%e6%9c%8824%e6%97%a5%e7%86%b1%e9%ac%a7%e7%99%bb%e5%a0%b4%ef%bc%81%e8%a6%aa%e5%ad%90%e5%98%89%e5%b9%b4%e8%8f%af/": {
+   "checked_at": "2026-10-26T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {
+    "南投縣": 27
+   },
+   "districts": [
+    "南投市形象商圈（南投縣）",
+    "中興新村商圈（南投縣）"
+   ],
+   "body_chars": 1381,
+   "image": null
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5617680": {
+   "checked_at": "2026-10-26T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T20:35+08:00",
+   "site_name": "自由時報電子報",
+   "description": "受薔琵颱風帶來強勁風勢影響，一度造成台中市近2.9萬戶停電，台電台中區處指出，今日經動員323人全力搶修，連梨山地區道路狹小車輛無法前進，台電人員靈機一動借用當地民眾機車，順利挺進線路故障點修復，至晚間8點民生用電停電戶全數檢修復電。薔琵颱風帶來強風，台中兩天來有2萬8794戶停電，主要停電區域集中在太平、外埔、神岡、",
+   "cities": {
+    "台中市": 13
+   },
+   "districts": [],
+   "body_chars": 795,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617680_1_1.jpg"
+  },
+  "https://www.ettoday.net/news/20261025/3260817.htm": {
+   "checked_at": "2026-10-26T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T23:28+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "台電桃園區處25日指出，薔琵颱風已遠離台灣，然23、 24日襲台2天，造成桃園各地停電災情不斷，累積曾停電戶數達5萬4千多戶；該處全面動員投入大量人力機具在風雨中積極搶修，目前尚餘114戶持續搶修中，復電率達99.8%，力拼今晚全部恢復供電，讓民眾回歸正常生活。",
+   "cities": {
+    "桃園市": 10,
+    "高雄市": 2,
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 921,
+   "image": "https://cdn2.ettoday.net/images/8983/e8983853.jpg"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5618433": {
+   "checked_at": "2026-10-26T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T22:48+08:00",
+   "site_name": "自由時報電子報",
+   "description": "屏東縣潮州鎮公所舉辦的「大潮祭」已經行之有年，跨國交流始終不斷，今年邀請印度帕魯爾大學表演系女子團的學生前來表演，異國舞蹈昨今兩天在三山國王廟前直接開演，吸引大批民眾駐足觀賞。「大潮祭」昨天開始建基老街封街，還跨界與在地獨立書店小沐屋書坊策畫「屏本市─潮海書田」主題市集區合辦，建基路加上日式歷史建築文化園區合計多達百攤",
+   "cities": {
+    "屏東縣": 4,
+    "桃園市": 1
+   },
+   "districts": [],
+   "body_chars": 1039,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618433_5_1.jpg"
+  },
+  "https://tw.news.yahoo.com/%E9%81%87%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E6%94%AA%E5%B1%80-air-supply%E6%BC%94%E5%94%B1%E6%9C%83%E5%BB%B6%E6%9C%9F-%E6%88%90%E5%93%A1%E7%99%BC%E8%81%B2-%E6%98%8E%E5%B9%B4%E8%BF%94%E5%8F%B0%E5%8A%A0%E5%A0%B4-121122859.html": {
+   "checked_at": "2026-10-26T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T20:11+08:00",
+   "site_name": "Yahoo News",
+   "description": "西洋情歌傳奇樂團空中補給合唱團（Air Supply）原定24日於高雄流行音樂中心舉辦演唱會，卻因薔琵颱風來襲導致海外重要器材無法及時運抵，主辦單位全球音樂經紀與成員經謹慎評估後，不得不忍痛宣布演出緊急延期。",
+   "cities": {
+    "台北市": 4,
+    "高雄市": 4,
+    "新北市": 1,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 2847,
+   "image": "https://s.yimg.com/lo/mysterio/api/51ab80dafb0a337ad3a27363ce5d25b1bc0e0e20c04c00ca05f4f2bba2f3af34/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgotv_ctitv_com_tw_678%2F34267e658bb35b9f73c5b3d386af8f1d.png"
+  },
+  "https://news.ltn.com.tw/news/life/paper/1775995": {
+   "checked_at": "2026-10-26T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T05:30+08:00",
+   "site_name": "自由時報電子報",
+   "description": "薔琵颱風挾帶強勁風雨，對新北市造成災情，市長侯友宜昨到災害應變中心關心各地復電進度。據統計，風災期間累計通報八〇五件災情已全數結案，截至昨天上午仍有四〇八五戶停電，經台電全員投入搶修，昨晚全部恢復供電。侯友宜說，薔琵颱風帶來風力和雨勢強勁，北海岸區域連吹二天強風，導致多處電纜電線掉落或遭倒塌樹木壓毀，新北市累計近五萬戶",
+   "cities": {
+    "新北市": 7,
+    "基隆市": 2,
+    "桃園市": 1
+   },
+   "districts": [],
+   "body_chars": 752,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/26/121.jpg"
   }
  }
 }
