@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T12:17:24+08:00",
+ "fetched_at": "2026-10-25T12:58:40+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-24T13:13+08:00",
@@ -3734,7 +3734,7 @@
    "body_chars": 1025
   },
   "https://www.cdns.com.tw/articles/1479536": {
-   "checked_at": "2026-10-24T16:49+08:00",
+   "checked_at": "2026-10-25T12:58+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4627,6 +4627,35 @@
     "在地商圈（南投縣）"
    ],
    "body_chars": 1407
+  },
+  "https://news.ltn.com.tw/news/Taichung/breakingnews/5618023": {
+   "checked_at": "2026-10-25T12:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T12:50+08:00",
+   "site_name": "自由時報電子報",
+   "description": "國民黨立委廖偉翔母親、台中市議員黃馨慧，23日競選議員連任看板在西屯區倒塌毀車，黃馨慧接到記者電話冷回「你覺得呢」，隨即掛電話回應「嘟~嘟~嘟~」，民眾大罵「很傲慢！」廖偉翔今天（25日）替母親緩頰，稱正全力與7部受損車主達成和解，洽談賠償事宜。受薔琵颱風影響，黃馨慧競選議員連任與台中市長參選人江啟臣同框看板，在台中國",
+   "cities": {
+    "台中市": 10
+   },
+   "districts": [],
+   "body_chars": 682
+  },
+  "https://www.cdns.com.tw/articles/1479710": {
+   "checked_at": "2026-10-25T12:58+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.ctwant.com/article/503702/": {
+   "checked_at": "2026-10-25T12:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T10:51+08:00",
+   "site_name": "CTWANT",
+   "description": "受到薔琵颱風連日影響，第61屆金鐘獎日程迎來罕見變動，不僅節目類典禮延至25日，戲劇類頒獎典禮也在今晚緊急宣布改至26日舉行。這場突如其來的風雨，考驗著所有入圍影人的行程調配，而以《監所男子囚生記》角...",
+   "cities": {
+    "桃園市": 1
+   },
+   "districts": [],
+   "body_chars": 893
   }
  }
 }
