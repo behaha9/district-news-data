@@ -51,8 +51,8 @@ TIME_KEYS = ("article:published_time", "og:article:published_time", "pubdate", "
              "parsely-pub-date", "date", "dc.date", "article:published", "publish-date")
 IMAGE_KEYS = ("og:image:secure_url", "og:image", "og:image:url", "twitter:image",
               "twitter:image:src", "image", "thumbnailurl")
-BAD_IMAGE = re.compile(r"logo|placeholder|no[-_]?image|noimg|default|favicon|blank|spacer|1x1|\.svg(\?|$)",
-                       re.I)
+BAD_IMAGE = re.compile(r"logo|placeholder|no[-_]?image|noimg|default|favicon|blank|spacer|1x1|\.svg(\?|$)"
+                       r"|(share|og[-_]?image|fb[-_]?image)\.(jpe?g|png|webp|gif)$", re.I)
 CITY_NAMES = ["台北", "新北", "桃園", "台中", "台南", "高雄", "基隆", "苗栗", "彰化", "南投", "雲林",
               "屏東", "宜蘭", "花蓮", "台東", "澎湖", "金門", "連江", "馬祖"]
 CITY_FULL = {"台北": "台北市", "新北": "新北市", "桃園": "桃園市", "台中": "台中市", "台南": "台南市",
@@ -326,10 +326,10 @@ def write_thumbs(cache, now):
     except Exception:
         images = {}
     for url, entry in cache.items():
-        if entry.get("image"):
+        if entry.get("image") and not BAD_IMAGE.search(urlsplit(entry["image"]).path):
             seen = images.get(url, {}).get("seen") or today
             images[url] = {"src": entry["image"], "seen": seen}
-        elif "image" in entry:
+        elif "image" in entry:  # checked: no usable image (or only the site's default picture)
             images.pop(url, None)
     oldest = (now - timedelta(days=THUMB_DAYS)).strftime("%Y-%m-%d")
     images = {u: v for u, v in images.items() if v.get("seen", "") >= oldest}
