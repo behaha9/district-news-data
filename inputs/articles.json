@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T07:25:33+08:00",
+ "fetched_at": "2026-10-25T09:48:41+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-24T13:13+08:00",
@@ -4382,6 +4382,21 @@
     "在地商圈（南投縣）"
    ],
    "body_chars": 1641
+  },
+  "https://n.yam.com/Article/20261025273854": {
+   "checked_at": "2026-10-25T09:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T01:11+08:00",
+   "site_name": "蕃新聞",
+   "description": "（媒角抵加／林忠勳報導）台南海安路萬聖節把中式靈堂搬上封街現場，設置2副棺材與牛頭馬面主題布置，成為",
+   "cities": {
+    "台南市": 8,
+    "新北市": 1
+   },
+   "districts": [
+    "海安商圈（台南市）"
+   ],
+   "body_chars": 2281
   }
  }
 }
