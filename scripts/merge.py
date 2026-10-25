@@ -13,6 +13,9 @@ Rules:
   "X on MSN", known domains), the same article under another host/section dropped,
   sources sorted newest first, and published_at set to the newest source's time
   (the website shows sources[0] as 主要報導 next to published_at).
+- image: filled automatically from inputs/thumbs.json (the publisher's share-preview
+  image found by fetch_articles.py in GitHub Actions), newest source first. An item
+  keeps its earlier image when thumbs.json no longer lists it. Never set it by hand.
 - Otherwise the item is appended.
 - Items published more than RETENTION_DAYS ago are dropped from latest.json.
 - generated_at is set to the current Asia/Taipei time.
@@ -28,6 +31,8 @@ from datetime import datetime, timedelta, timezone
 TAIPEI = timezone(timedelta(hours=8))
 RETENTION_DAYS = 14
 LATEST = "data/latest.json"
+THUMBS_PATH = "inputs/thumbs.json"
+THUMBS = {}
 
 
 def ts(value):
@@ -74,6 +79,11 @@ def tidy(item):
     so published_at is always the newest source's time."""
     item["sources"] = merge_sources(item["sources"], [])
     item["published_at"] = item["sources"][0]["published_at"]
+    for source in item["sources"]:
+        found = THUMBS.get(source["url"], {}).get("src")
+        if found:
+            item["image"] = found
+            break
 
 
 def merge_into(base, item):
@@ -90,6 +100,11 @@ def merge_into(base, item):
 
 
 def main(new_path):
+    try:
+        with open(THUMBS_PATH, encoding="utf-8") as fh:
+            THUMBS.update(json.load(fh).get("images", {}))
+    except Exception:
+        pass
     with open(LATEST, encoding="utf-8") as fh:
         data = json.load(fh)
     with open(new_path, encoding="utf-8") as fh:

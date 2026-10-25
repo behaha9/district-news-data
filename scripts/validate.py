@@ -70,6 +70,10 @@ def main(path):
             errors.append(f"{iid}: published_at 格式錯誤")
         if not isinstance(item.get("cities"), list) or not isinstance(item.get("districts"), list):
             errors.append(f"{iid}: cities / districts 必須是陣列")
+        image = item.get("image")
+        if image is not None and not (isinstance(image, str) and image.startswith("https://")
+                                      and len(image) <= 500 and not re.search(r"\s", image)):
+            errors.append(f"{iid}: image 須為 500 字以內的 https 網址（由 merge.py 自動填入，請勿手改）")
         sources = item.get("sources", [])
         if not 1 <= len(sources) <= 10:
             errors.append(f"{iid}: sources 須 1–10 筆")

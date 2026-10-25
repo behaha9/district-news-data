@@ -7,11 +7,16 @@ For candidates whose titles match the curation keyword groups, open the original
 article once and keep only what the curator needs to judge it:
 - the publisher's own published time (more reliable than Bing's),
 - the site name and the publisher's short description (og:description),
-- which counties/cities and which 115年重點商圈 the article body mentions, as counts.
+- which counties/cities and which 115年重點商圈 the article body mentions, as counts,
+- the address of the publisher's own share-preview image (og:image), for news thumbnails.
 Article text itself is NOT stored (the repository is public); only derived counts.
+Images are NOT downloaded or copied; only the publisher's own image address is kept,
+so the website can show it as a link preview next to the headline.
 
 Writes inputs/articles.json: {"fetched_at": ..., "articles": {url: {...}}}.
 Entries are cached for 3 days so each article is fetched once.
+Also writes inputs/thumbs.json: {"updated_at": ..., "images": {article_url: {"src": image_url,
+"seen": "YYYY-MM-DD"}}}, kept for 8 days, for the website's news thumbnails.
 """
 import json
 import os
@@ -20,6 +25,7 @@ import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
+from urllib.parse import urljoin, urlsplit
 from urllib.request import Request, urlopen
 
 sys.dont_write_bytecode = True
@@ -28,7 +34,11 @@ import priority  # noqa: E402
 
 TAIPEI = timezone(timedelta(hours=8))
 OUT = "inputs/articles.json"
+THUMBS = "inputs/thumbs.json"
+LATEST = "data/latest.json"
 KEEP_DAYS = 3
+THUMB_DAYS = 8
+SITE_DEFAULT_REPEAT = 3  # the same image on 3+ articles of one site = the site's default picture
 MAX_NEW = 250
 WORKERS = 8
 BUDGET_SECONDS = 90
@@ -39,6 +49,10 @@ UA = ("Mozilla/5.0 (compatible; district-news-data-fetcher/1.0; "
 SELECT = re.compile(r"商圈|老街|商店街|延期|取消|停辦|改期|順延|暫停|淹水|積水|停電|受損|停業|招牌|倒塌|掉落")
 TIME_KEYS = ("article:published_time", "og:article:published_time", "pubdate", "publishdate",
              "parsely-pub-date", "date", "dc.date", "article:published", "publish-date")
+IMAGE_KEYS = ("og:image:secure_url", "og:image", "og:image:url", "twitter:image",
+              "twitter:image:src", "image", "thumbnailurl")
+BAD_IMAGE = re.compile(r"logo|placeholder|no[-_]?image|noimg|default|favicon|blank|spacer|1x1|\.svg(\?|$)",
+                       re.I)
 CITY_NAMES = ["台北", "新北", "桃園", "台中", "台南", "高雄", "基隆", "苗栗", "彰化", "南投", "雲林",
               "屏東", "宜蘭", "花蓮", "台東", "澎湖", "金門", "連江", "馬祖"]
 CITY_FULL = {"台北": "台北市", "新北": "新北市", "桃園": "桃園市", "台中": "台中市", "台南": "台南市",
@@ -138,6 +152,39 @@ def ld_values(blob, key):
     return found
 
 
+def clean_image(value, page_url):
+    if isinstance(value, dict):
+        value = value.get("url") or value.get("contentUrl") or ""
+    if isinstance(value, list):
+        value = value[0] if value else ""
+    if not isinstance(value, str):
+        return None
+    value = value.strip()
+    if not value or value.startswith("data:"):
+        return None
+    value = urljoin(page_url, value)
+    if value.startswith("http://"):
+        value = "https://" + value[7:]  # pages are https; the website falls back to an icon if this fails
+    if not value.startswith("https://") or len(value) > 500 or re.search(r"[\s\x00-\x1f\"'<>]", value):
+        return None
+    if BAD_IMAGE.search(urlsplit(value).path):
+        return None
+    return value
+
+
+def pick_image(page, page_url):
+    for key in IMAGE_KEYS:
+        found = clean_image(page.meta.get(key), page_url)
+        if found:
+            return found
+    for blob in page.ld:
+        for value in ld_values(blob, "image") + ld_values(blob, "thumbnailUrl"):
+            found = clean_image(value, page_url)
+            if found:
+                return found
+    return None
+
+
 def count_cities(text):
     text = text.replace("臺", "台")
     counts = {}
@@ -203,6 +250,7 @@ def fetch(url, patterns):
         "cities": count_cities(text),
         "districts": [f"{n}（{c}）" for n, c in priority.hints(text, patterns)][:6],
         "body_chars": len(body),
+        "image": pick_image(page, url),
     })
     return url, entry
 
@@ -229,8 +277,14 @@ def main():
             district_items = json.load(fh).get("items", [])
     except Exception:
         district_items = []
+    try:
+        with open(LATEST, encoding="utf-8") as fh:
+            curated = [{"url": s["url"], "district": True}
+                       for it in json.load(fh).get("items", []) for s in it.get("sources", [])]
+    except Exception:
+        curated = []
     wanted = []
-    for item in district_items + items:
+    for item in curated + district_items + items:
         url = item.get("url", "")
         relevant = item.get("district") or SELECT.search(item.get("title", ""))
         if not url.startswith("https://") or url in wanted or not relevant:
@@ -240,7 +294,9 @@ def main():
             datetime.fromisoformat(old["checked_at"]) < now - timedelta(hours=6)
         if not old or retry:
             wanted.append(url)
-    wanted = wanted[:MAX_NEW]
+    # articles fetched before thumbnails existed: fetch again once to learn their image
+    backfill = [u for u, e in cache.items() if e.get("status") == 200 and "image" not in e]
+    wanted = (wanted + [u for u in backfill if u not in wanted])[:MAX_NEW]
     patterns = priority.load()
     done = 0
     pool = ThreadPoolExecutor(WORKERS)
@@ -257,8 +313,36 @@ def main():
     with open(OUT, "w", encoding="utf-8") as fh:
         json.dump({"fetched_at": now.isoformat(timespec="seconds"), "articles": cache},
                   fh, ensure_ascii=False, indent=1)
-    print(f"原文預抓：新抓 {done}／{len(wanted)}，成功 {ok}；快取共 {len(cache)} 篇")
+    shown = write_thumbs(cache, now)
+    print(f"原文預抓：新抓 {done}／{len(wanted)}，成功 {ok}；快取共 {len(cache)} 篇；縮圖 {shown} 張")
     return 0
+
+
+def write_thumbs(cache, now):
+    today = now.strftime("%Y-%m-%d")
+    try:
+        with open(THUMBS, encoding="utf-8") as fh:
+            images = json.load(fh).get("images", {})
+    except Exception:
+        images = {}
+    for url, entry in cache.items():
+        if entry.get("image"):
+            seen = images.get(url, {}).get("seen") or today
+            images[url] = {"src": entry["image"], "seen": seen}
+        elif "image" in entry:
+            images.pop(url, None)
+    oldest = (now - timedelta(days=THUMB_DAYS)).strftime("%Y-%m-%d")
+    images = {u: v for u, v in images.items() if v.get("seen", "") >= oldest}
+    repeats = {}
+    for url, value in images.items():
+        key = (urlsplit(url).hostname, value["src"])
+        repeats[key] = repeats.get(key, 0) + 1
+    images = {u: v for u, v in images.items()
+              if repeats[(urlsplit(u).hostname, v["src"])] < SITE_DEFAULT_REPEAT}
+    with open(THUMBS, "w", encoding="utf-8") as fh:
+        json.dump({"updated_at": now.isoformat(timespec="seconds"), "images": images},
+                  fh, ensure_ascii=False, separators=(",", ":"))
+    return len(images)
 
 
 if __name__ == "__main__":

@@ -56,18 +56,18 @@ jobs:
           fetch "$base/candidates?window=2d" inputs/candidates.json || true
           # 重點商圈每日查詢：每次輪流查 100 處（Bing 新聞，精確名稱），結果存 inputs/district_news.json
           DISTRICT_SLICE="${{ github.event.inputs.slice || '100' }}" timeout 280 python3 scripts/fetch_district_news.py 2>>inputs/fetch-log.txt | tee -a inputs/fetch-log.txt || true
-          # 原文預抓：只存發布時間、站名、官方摘要與內文提到的縣市／重點商圈次數，不存內文
+          # 原文預抓：只存發布時間、站名、官方摘要、內文提到的縣市／重點商圈次數與分享預覽圖網址，不存內文、不下載圖片
           timeout 150 python3 scripts/fetch_articles.py 2>>inputs/fetch-log.txt | tee -a inputs/fetch-log.txt || true
           python3 - <<'PY2'
           import json, os
           from datetime import datetime, timezone, timedelta
           now = datetime.now(timezone(timedelta(hours=8))).replace(microsecond=0).isoformat()
           status = {"fetched_at": now, "files": {}}
-          for name in ("candidates.json", "district_news.json", "articles.json"):
+          for name in ("candidates.json", "district_news.json", "articles.json", "thumbs.json"):
               path = f"inputs/{name}"
               if os.path.exists(path) and os.path.getmtime(path) > datetime.now().timestamp() - 600:
                   data = json.load(open(path))
-                  status["files"][name] = len(data["items"] if "items" in data else data.get("articles", {}))
+                  status["files"][name] = len(data["items"] if "items" in data else data.get("articles", data.get("images", {})))
           json.dump(status, open("inputs/status.json", "w"), ensure_ascii=False, indent=1)
           print(status)
           PY2
