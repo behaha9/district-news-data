@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T16:50:23+08:00",
+ "fetched_at": "2026-10-25T17:57:03+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-24T13:13+08:00",
@@ -4224,7 +4224,7 @@
    "body_chars": 917
   },
   "https://news.cts.com.tw/cna/local/202610/202610233093191.html": {
-   "checked_at": "2026-10-25T07:17+08:00",
+   "checked_at": "2026-10-25T17:57+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4726,6 +4726,18 @@
    },
    "districts": [],
    "body_chars": 882
+  },
+  "https://www.cna.com.tw/news/aloc/202610250118.aspx": {
+   "checked_at": "2026-10-25T17:57+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T16:34+08:00",
+   "site_name": "中央社 CNA",
+   "description": "桃園市政府農業局今天表示，颱風薔琵造成桃園農作物受災面積約175公頃，損失初估約新台幣400萬元，竹圍漁港北岸堤防也出現下沉及潰堤，市府已啟動搶災並研議農損救助。",
+   "cities": {
+    "桃園市": 10
+   },
+   "districts": [],
+   "body_chars": 798
   }
  }
 }
