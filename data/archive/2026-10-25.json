@@ -93,6 +93,537 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-10-25T12:18:12+08:00",
+   "added": 1,
+   "merged": 15,
+   "items": [
+    {
+     "id": "20261023-kaohsiung-sail-banner",
+     "title": "高雄左營巨蛋商圈旁大帆布遭強風吹斷纜繩，氣象站發布強風特報",
+     "summary": "強風吹斷左營區巨蛋商圈旁一塊大帆布的部分纜繩，帆布在空中飄動驚嚇路人，報導未提到店家受損或人員受傷。",
+     "category": "商圈動向",
+     "alert": "商圈受災",
+     "published_at": "2026-10-23T12:40:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [
+      {
+       "name": "巨蛋商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5616219",
+       "published_at": "2026-10-23T12:40:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261023-taichung-cmp-banner-fall",
+     "title": "薔琵強陣風吹襲台中，勤美商圈旁巨型帆布廣告掉落覆蓋公益路車道",
+     "summary": "強風扯落勤美誠品綠園道旁公益路一幅大型帆布廣告，勾住電線並覆蓋雙向車道造成交通癱瘓，報導指未砸中人車、無人傷亡。",
+     "category": "商圈動向",
+     "alert": "商圈受災",
+     "published_at": "2026-10-23T10:23:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "勤美商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "TVBS新聞網",
+       "url": "https://news.tvbs.com.tw/local/4040075",
+       "published_at": "2026-10-23T10:23:00+08:00"
+      },
+      {
+       "outlet": "民視新聞",
+       "url": "https://msn.com/zh-tw/news/news/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E5%BC%B7%E9%99%A3%E9%A2%A8%E5%90%B9%E5%8F%B0%E4%B8%AD-%E5%8B%A4%E7%BE%8E%E5%95%86%E5%9C%88%E5%A4%A7%E5%B8%86%E5%B8%83%E5%BB%A3%E5%91%8A%E6%8E%89%E8%90%BD-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fSiGU",
+       "published_at": "2026-10-23T00:31:54+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261023-taoyuan-four-districts-stamp",
+     "title": "桃園特約好店串聯四大生活商圈，集章可抽機票、Apple Watch與百元消費券",
+     "summary": "桃園推出走訪特約好店集章活動，串聯四大生活商圈，完成集章可抽機票、Apple Watch並搶百元消費券。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-23T02:12:00+08:00",
+     "cities": [
+      "桃園市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261023149316",
+       "published_at": "2026-10-23T02:12:00+08:00"
+      },
+      {
+       "outlet": "SCOOP",
+       "url": "https://www.scooptw.com/taiwanpost/543560/%e8%b5%b0%e8%a8%aa%e6%a1%83%e5%9c%92%e7%89%b9%e7%b4%84%e5%a5%bd%e5%ba%97%e6%8a%bd%e6%a9%9f%e7%a5%a8%ef%bc%81%e4%b8%b2%e8%81%af%e5%9b%9b%e5%a4%a7%e7%94%9f%e6%b4%bb%e5%95%86%e5%9c%88-%e9%9b%86%e7%ab%a0/",
+       "published_at": "2026-10-23T01:12:00+08:00"
+      },
+      {
+       "outlet": "民眾新聞網",
+       "url": "https://mypeoplevol.com/2026/local/117730/",
+       "published_at": "2026-10-23T01:00:00+08:00"
+      },
+      {
+       "outlet": "Yahoo奇摩新聞",
+       "url": "https://tw.news.yahoo.com/%E8%B5%B0%E8%A8%AA%E6%A1%83%E5%9C%92%E7%89%B9%E7%B4%84%E5%A5%BD%E5%BA%97%E6%8A%BD%E6%A9%9F%E7%A5%A8-%E4%B8%B2%E8%81%AF%E5%9B%9B%E5%A4%A7%E7%94%9F%E6%B4%BB%E5%95%86%E5%9C%88-%E9%9B%86%E7%AB%A0%E7%88%BD%E6%8A%BDapple-watch-%E6%90%B6%E7%99%BE%E5%85%83%E6%B6%88%E8%B2%BB%E5%88%B8-171248454.html",
+       "published_at": "2026-10-22T18:12:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261023-fengyuan-halloween",
+     "title": "豐原商圈10月31日舉辦討糖嘉年華",
+     "summary": "台中萬聖節活動中，豐原商圈訂10月31日舉辦討糖嘉年華。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-23T15:12:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "豐原商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261023291312",
+       "published_at": "2026-10-23T15:12:00+08:00"
+      },
+      {
+       "outlet": "報新聞",
+       "url": "https://www.contentplatform.info/articles/546796/%E5%8F%B0%E4%B8%AD%E8%90%AC%E8%81%96%E7%AF%80%E6%B4%BB%E5%8B%95%E5%9C%B0%E5%9C%96%E3%80%80%E8%B1%90%E5%8E%9F%E5%95%86%E5%9C%8810-31%E8%A8%8E%E7%B3%96%E5%98%89%E5%B9%B4%E8%8F%AF%E3%80%80%E5%B8%82/",
+       "published_at": "2026-10-23T00:00:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261024-haian-halloween",
+     "title": "台南海安商圈萬聖節封街踩街，中式靈堂「幽靈殿堂」吸引挑戰膽識",
+     "summary": "海安商圈萬聖節變裝踩街今年封街舉辦，並在現場架設中式靈堂，網友評價兩極。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-25T01:11:00+08:00",
+     "cities": [
+      "台南市"
+     ],
+     "districts": [
+      {
+       "name": "海安商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "海安商圈為115年補助名單，萬聖節活動已如期封街舉辦，可作為執行佐證參考。",
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261025273854",
+       "published_at": "2026-10-25T01:11:00+08:00"
+      },
+      {
+       "outlet": "Yahoo奇摩新聞",
+       "url": "https://tw.news.yahoo.com/%E6%A3%BA%E6%9D%90-%E7%89%9B%E9%A0%AD%E9%A6%AC%E9%9D%A2%E4%BB%8A%E6%99%9A%E4%B8%8A%E9%99%A3-%E5%8F%B0%E5%8D%97%E5%95%86%E5%9C%88%E8%90%AC%E8%81%96%E7%AF%80%E4%B8%AD%E5%BC%8F%E9%9D%88%E5%A0%82-%E6%8C%91%E6%88%B0%E8%86%BD%E8%AD%98%E8%A9%95%E5%83%B9%E5%85%A9%E6%A5%B5-141023753.html",
+       "published_at": "2026-10-24T22:10:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7326/9835309",
+       "published_at": "2026-10-24T19:03:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261023-houzhan-station",
+     "title": "台南鐵路地下化新車站啟用，過去的「後站」大學路商圈迎轉機",
+     "summary": "台南鐵路地下化第一階段通車，新車站出入口改變旅客動線，過去被視為後站的大學路商圈與東區餐飲、旅宿業者可望迎來消費人潮。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-10-23T18:55:00+08:00",
+     "cities": [
+      "台南市"
+     ],
+     "districts": [
+      {
+       "name": "大學路商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "Yahoo奇摩新聞",
+       "url": "https://tw.news.yahoo.com/%E6%96%B0%E8%BB%8A%E7%AB%99%E5%90%B8%E5%AE%A2-%E5%BE%8C%E7%AB%99%E5%95%86%E5%9C%88%E8%BF%8E%E8%BD%89%E6%A9%9F-105521557.html",
+       "published_at": "2026-10-23T18:55:00+08:00"
+      },
+      {
+       "outlet": "中華新聞雲",
+       "url": "https://www.cdns.com.tw/articles/1479279",
+       "published_at": "2026-10-23T00:00:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261023-boai-banner-removed",
+     "title": "博愛商圈廣告帆布遭強風吹襲鬆脫，高市府違建大隊完成卸除",
+     "summary": "報導指博愛商圈廣告帆布因強風鬆脫，高雄市政府違建大隊已完成卸除。",
+     "category": "商圈動向",
+     "alert": "商圈受災",
+     "published_at": "2026-10-24T08:10:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [
+      {
+       "name": "博愛商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "天天上新聞",
+       "url": "https://mknews.com.tw/2026/10/1008494/",
+       "published_at": "2026-10-24T08:10:00+08:00"
+      },
+      {
+       "outlet": "風傳媒",
+       "url": "https://www.storm.mg/article/11175460",
+       "published_at": "2026-10-23T20:17:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261023816049",
+       "published_at": "2026-10-23T15:15:00+08:00"
+      },
+      {
+       "outlet": "今傳媒",
+       "url": "https://focusnews.com.tw/2026/10/727280/",
+       "published_at": "2026-10-23T00:00:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261022-bakuaicuo-matsu-ai",
+     "title": "八塊厝形象商圈辦馬祖文化體驗，結合AI品牌經營課程推動數位轉型",
+     "summary": "桃園市八德區八塊厝形象商圈10月18日舉辦「海風吹進八塊厝」活動，結合馬祖文化分享、手作體驗、特色市集與免費AI品牌經營實作課程。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-22T19:46:00+08:00",
+     "cities": [
+      "桃園市"
+     ],
+     "districts": [
+      {
+       "name": "八塊厝形象商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "八塊厝形象商圈為115年補助名單，報導呈現活動辦理情形，可作為執行佐證參考。",
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261022145940",
+       "published_at": "2026-10-22T19:46:00+08:00"
+      },
+      {
+       "outlet": "Yahoo奇摩新聞",
+       "url": "https://tw.news.yahoo.com/%E9%A6%AC%E7%A5%96%E6%96%87%E5%8C%96%E7%B5%90%E5%90%88ai%E5%93%81%E7%89%8C%E7%B6%93%E7%87%9F-%E5%85%AB%E5%A1%8A%E5%8E%9D%E5%BD%A2%E8%B1%A1%E5%95%86%E5%9C%88%E6%8E%A8%E5%8B%95%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B-112147245.html",
+       "published_at": "2026-10-22T19:21:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261021-shuili-quiet",
+     "title": "集集支線通車帶旺小鎮觀光，旅客「過站不入」水里商圈仍冷清",
+     "summary": "集集支線恢復通車帶動沿線觀光，但旅客多未在水里停留，水里商圈人潮仍未回升。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-10-21T16:42:00+08:00",
+     "cities": [
+      "南投縣"
+     ],
+     "districts": [
+      {
+       "name": "水里商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "Yahoo奇摩新聞",
+       "url": "https://tw.news.yahoo.com/%E9%9B%86%E9%9B%86%E6%94%AF%E7%B7%9A%E9%80%9A%E8%BB%8A%E5%B8%B6%E6%97%BA%E5%B0%8F%E9%8E%AE%E8%A7%80%E5%85%89-%E6%97%85%E5%AE%A2-%E9%81%8E%E7%AB%99%E4%B8%8D%E5%85%A5-%E6%B0%B4%E9%87%8C%E5%95%86%E5%9C%88%E4%BB%8D%E5%86%B7%E6%B8%85-084219827.html",
+       "published_at": "2026-10-21T16:42:00+08:00"
+      },
+      {
+       "outlet": "中時新聞網",
+       "url": "https://www.chinatimes.com/realtimenews/20261021003652-260405",
+       "published_at": "2026-10-21T09:37:00+08:00"
+      },
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261021701782-431401",
+       "published_at": "2026-10-21T03:37:00+08:00"
+      }
+     ],
+     "admin_note": "水里商圈為115年補助名單，報導指人潮冷清，可留意活動成效與KPI達成情形。"
+    },
+    {
+     "id": "20261021-yongle-safety",
+     "title": "永樂商圈工安意外頻傳，縣議員點出五大缺失",
+     "summary": "彰化市永樂商圈施工期間工安意外頻傳引發民怨，縣議員提出五項缺失，另有報導指鋼筋裸露危及安全。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-10-22T11:31:00+08:00",
+     "cities": [
+      "彰化縣"
+     ],
+     "districts": [
+      {
+       "name": "永樂商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261021487705",
+       "published_at": "2026-10-22T11:31:00+08:00"
+      },
+      {
+       "outlet": "Yahoo奇摩新聞",
+       "url": "https://tw.news.yahoo.com/%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96%E9%A0%BB%E5%82%B3%E6%83%B9%E6%B0%91%E6%80%A8-%E7%B8%A3%E8%AD%B0%E5%93%A1%E6%8F%AD5%E5%A4%A7%E7%BC%BA%E5%A4%B1-082339976.html",
+       "published_at": "2026-10-21T16:23:00+08:00"
+      },
+      {
+       "outlet": "中廣新聞網",
+       "url": "https://msn.com/zh-tw/news/other/%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96%E9%A0%BB%E5%82%B3%E6%83%B9%E6%B0%91%E6%80%A8-%E7%B8%A3%E8%AD%B0%E5%93%A1%E6%8F%AD5%E5%A4%A7%E7%BC%BA%E5%A4%B1/ar-AA2fJs52",
+       "published_at": "2026-10-21T09:23:00+08:00"
+      }
+     ],
+     "admin_note": "永樂商圈（彰化）為115年補助名單，報導指施工工安疑慮，可留意工程對店家與商圈活動的影響。"
+    },
+    {
+     "id": "20261021-tianmu-halloween-postponed",
+     "title": "天母萬聖節活動「天母搞什麼鬼18」因颱風延期，改週日遊行、下週一園遊會",
+     "summary": "受薔琵颱風影響，天母商圈年度萬聖節活動延期，遊行改至週日（10/25）、園遊會與討糖改至下週一（10/26）。",
+     "category": "活動與街區",
+     "alert": "活動異動",
+     "published_at": "2026-10-24T05:55:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "天母商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://www.nownews.com/news/6886016",
+       "published_at": "2026-10-24T05:55:00+08:00"
+      },
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/life/breakingnews/5615082",
+       "published_at": "2026-10-22T16:04:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://nownews.com/news/6885475",
+       "published_at": "2026-10-22T12:12:00+08:00"
+      },
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://www.ettoday.net/news/20261021/3258340.htm",
+       "published_at": "2026-10-21T12:06:00+08:00"
+      },
+      {
+       "outlet": "鏡週刊",
+       "url": "https://www.mirrormedia.mg/story/20261020hea03",
+       "published_at": "2026-10-21T10:30:00+08:00"
+      },
+      {
+       "outlet": "蘋果仁",
+       "url": "https://applealmond.com/posts/329501",
+       "published_at": "2026-10-21T00:00:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://www.nownews.com/news/6884781",
+       "published_at": "2026-10-19T18:04:00+08:00"
+      }
+     ],
+     "admin_note": "天母商圈為115年補助名單，活動延期可能涉及執行期程或計畫變更。"
+    },
+    {
+     "id": "20261021-lanya-festival",
+     "title": "蘭雅商圈萬神節藝閣燈車祭10月26日登場",
+     "summary": "台北蘭雅商圈舉辦萬神節活動，藝閣燈車祭訂於10月26日登場，串聯商圈店家推廣節慶氛圍。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-21T18:22:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "蘭雅商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "SCOOP",
+       "url": "https://www.scooptw.com/local_news/542842/%e8%98%ad%e9%9b%85%e4%b8%80%e5%91%bc%e7%99%be%e6%87%89%ef%bc%81%e6%84%9f%e5%8f%97%e8%98%ad%e9%9b%85%e5%95%86%e5%9c%88%e7%af%80%e6%85%b6%e9%ad%85%e5%8a%9b-%e8%90%ac%e7%a5%9e%e7%af%80%e8%97%9d/",
+       "published_at": "2026-10-21T18:22:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261021588278",
+       "published_at": "2026-10-21T05:22:00+08:00"
+      },
+      {
+       "outlet": "新頭條新聞",
+       "url": "https://thehubnews.net/archives/677138",
+       "published_at": "2026-10-21T05:22:00+08:00"
+      }
+     ],
+     "admin_note": "蘭雅商圈為115年補助名單，10/26活動適逢颱風前後，可留意是否如期辦理。"
+    },
+    {
+     "id": "20261022-hualien-centenary-points",
+     "title": "花蓮百年老街商圈集點活動登場，消費滿百抽265份扭蛋好禮",
+     "summary": "花蓮市百年老街商圈推出「百年振興超給利」集點活動2.0，消費滿百集點可抽大獎。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-22T01:00:00+08:00",
+     "cities": [
+      "花蓮縣"
+     ],
+     "districts": [
+      {
+       "name": "花蓮市 百年老街商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "花蓮市百年老街商圈為115年補助名單，活動已公開，可作為執行佐證參考。",
+     "sources": [
+      {
+       "outlet": "花蓮最速報",
+       "url": "https://hsnews.com.tw/tourism-and-cuisine/hua-lian-shi-bai-nian-lao-jie-shang-quan-bai-nian-zhen-xing-chao-gei-li-re-nao-deng-chang-ji-dian-chang-bao-qu2-0xiao-fei-man-bai-ji-dian-chou-da-jiang-265fen-niu-dan-hao-li-yao-min-zhong-yi-qi-huo-luo-zai-de-shang-quan.html",
+       "published_at": "2026-10-22T01:00:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261020-lukang-walk",
+     "title": "鹿港廟口商圈推「尋鹿趣」探索老城魅力，10月30日走讀開放報名",
+     "summary": "鹿港廟口商圈推出「尋鹿趣」走讀活動，帶領民眾探索老城街區，10月30日場次開放報名。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-20T15:55:00+08:00",
+     "cities": [
+      "彰化縣"
+     ],
+     "districts": [
+      {
+       "name": "鹿港廟口商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "新頭條新聞",
+       "url": "https://thehubnews.net/archives/676734",
+       "published_at": "2026-10-20T15:55:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261020659908",
+       "published_at": "2026-10-20T14:55:00+08:00"
+      }
+     ],
+     "admin_note": "鹿港廟口商圈為115年補助名單，走讀活動已公開報名，可作為執行情形參考。"
+    },
+    {
+     "id": "20261021-taichung-shopping-festival",
+     "title": "振興台中商圈，中市經發局購物節「到店抽」暖身6天突破5.6億元",
+     "summary": "台中市經發局購物節推出「到店抽」活動，暖身6天即突破5.6億元，帶動商圈消費。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-10-21T03:52:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "CTWANT",
+       "url": "https://www.ctwant.com/article/503272",
+       "published_at": "2026-10-21T03:52:00+08:00"
+      },
+      {
+       "outlet": "風傳媒",
+       "url": "https://www.storm.mg/article/11174480",
+       "published_at": "2026-10-21T02:15:00+08:00"
+      },
+      {
+       "outlet": "青年日報",
+       "url": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=648294",
+       "published_at": "2026-10-20T00:00:00+08:00"
+      },
+      {
+       "outlet": "中華新聞雲",
+       "url": "https://www.cdns.com.tw/articles/1477834",
+       "published_at": "2026-10-20T00:00:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261025-xinzhuang-oldstreet",
+     "title": "林秉宥談新莊老街活化，盼行政園區更新補足停車配套",
+     "summary": "參選人林秉宥受訪談新莊老街活化，認為行政園區更新應一併補足停車配套。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-10-25T12:00:00+08:00",
+     "cities": [
+      "新北市"
+     ],
+     "districts": [
+      {
+       "name": "新莊老街",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261025986410",
+       "published_at": "2026-10-25T12:00:00+08:00"
+      }
+     ]
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
