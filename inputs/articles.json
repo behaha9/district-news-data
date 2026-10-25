@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T12:58:40+08:00",
+ "fetched_at": "2026-10-25T16:50:23+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-24T13:13+08:00",
@@ -2276,7 +2276,7 @@
    "body_chars": 638
   },
   "https://sunmedia.tw/news/technology/creammmt首度進駐台北！-108中山門市正式開幕，期間限定「五種檸檬塔」同步登場-1792412274029": {
-   "checked_at": "2026-10-25T07:17+08:00",
+   "checked_at": "2026-10-25T16:50+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 29-35: ordinal not in range(128)"
   },
@@ -2738,7 +2738,7 @@
    "body_chars": 2166
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-10-25T07:17+08:00",
+   "checked_at": "2026-10-25T16:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -2899,12 +2899,12 @@
    "body_chars": 1046
   },
   "https://news.cts.com.tw/cts/general/202610/202610183091096.html": {
-   "checked_at": "2026-10-25T07:17+08:00",
+   "checked_at": "2026-10-25T16:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.msn.com/zh-tw/news/other/å¥½æœƒjump-æ©Ÿè»Šé­æ’žé£›éŽä¾†-è·¯äºº-è·³éŽ-é€ƒä¸€åŠ«-newsebc/vi-AA2esASE": {
-   "checked_at": "2026-10-25T07:17+08:00",
+   "checked_at": "2026-10-25T16:50+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 22-27: ordinal not in range(128)"
   },
@@ -4078,7 +4078,7 @@
    "body_chars": 3919
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-10-25T07:17+08:00",
+   "checked_at": "2026-10-25T16:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4656,6 +4656,76 @@
    },
    "districts": [],
    "body_chars": 893
+  },
+  "https://stars.udn.com/star/story/10091/9836334": {
+   "checked_at": "2026-10-25T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T16:34+08:00",
+   "site_name": "噓！星聞",
+   "description": "第61屆金鐘獎節目類頒獎典禮因為颱風而延期至10月25日晚間舉行，「飢餓遊戲」今年入圍了「實境節目獎」與「實境節目主持人獎」，7位主持群原本要全體出席，但林莎因為撞到已排定的出國工作，所以只能無奈缺席，但會與大家一起加油。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 435
+  },
+  "https://www.msn.com/zh-tw/news/other/%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E7%88%86%E5%85%A8%E6%AD%A6%E8%A1%8C-%E9%98%BF%E4%BC%AF%E6%BF%80%E9%AC%A5%E6%83%85%E4%BE%B6%E6%AA%94%E9%81%AD%E5%A3%93%E5%88%B6-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2et071": {
+   "checked_at": "2026-10-25T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1
+  },
+  "https://www.msn.com/zh-tw/news/other/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E6%88%B06%E4%BA%BA%E7%AB%B6%E9%80%90-%E6%94%AF%E6%8C%81%E8%AA%B0-%E8%A1%97%E9%A0%AD%E6%B0%91%E8%AA%BF%E7%B5%90%E6%9E%9C%E4%BB%96%E5%96%8A-%E5%A4%AA%E9%9B%A2%E8%AD%9C/ar-AA2fZ3pf": {
+   "checked_at": "2026-10-25T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1
+  },
+  "https://www.ettoday.net/news/20261025/3260573.htm": {
+   "checked_at": "2026-10-25T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T15:08+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "強颱薔琵暴風圈逐漸遠離花東地區，雖然未為花蓮縣玉里鎮帶來豐沛雨量，未造成重大災情，但受6至8級強陣風影響，鎮內多處出現樹枝折斷、枝葉散落及街道環境凌亂等情形。為儘速恢復市容整潔，玉里鎮公所環殯所同仁24日取消休假、全員出動，投入颱風過後環境清理工作。",
+   "cities": {
+    "花蓮縣": 5,
+    "台北市": 3,
+    "高雄市": 2
+   },
+   "districts": [],
+   "body_chars": 1096
+  },
+  "https://ctinews.com/news/items/9pWzXbAJxv": {
+   "checked_at": "2026-10-25T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T05:02+08:00",
+   "site_name": "中天新聞網",
+   "description": "薔琵颱風侵襲期間，苗栗縣政府宣布停班停課，卻決定維持縣府主辦的「2026山釀青春演唱會」如期舉行，引發外界對民眾安全的疑慮。演唱會首場於10月23日在苗栗巨蛋體育館登場，吸引大批觀眾參與，縣長鍾東錦並登台獻唱。不過面對外界質疑，鍾東錦回應，因歌星檔期已經敲定，如果延期會造成很大困擾，所以仍照常演出。",
+   "cities": {
+    "苗栗縣": 15,
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 1168
+  },
+  "https://www.cna.com.tw/news/aipl/202610250075.aspx": {
+   "checked_at": "2026-10-25T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T13:42+08:00",
+   "site_name": "中央社 CNA",
+   "description": "薔琵颱風遠離，台中市長盧秀燕今天表示，薔琵造成台中市約3萬戶停電，目前已全部復電，倒塌的路樹約1300棵也已移除正常通行，清潔隊員今天加班，市容景觀將全面恢復。",
+   "cities": {
+    "台中市": 7,
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 882
   }
  }
 }
