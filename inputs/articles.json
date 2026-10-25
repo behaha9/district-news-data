@@ -1,24 +1,25 @@
 {
- "fetched_at": "2026-10-25T17:57:03+08:00",
+ "fetched_at": "2026-10-25T22:48:23+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:46+08:00",
    "site_name": "自由時報電子報",
-   "description": "薔琵颱風強風驟雨，基隆各區最多有1萬5千多戶停電，經台電搶修仍有千餘戶停電，有些用戶1天都沒電。議長童子瑋今天前往協和路附近了解電力搶修進度，台電表示，目前已動員147名人員搶修，並由外縣市調派工人支援基隆，除了有道路、有路樹影響以外，希望今天能全數復電。童子瑋表示，昨天颱風帶來強風豪雨，造成基隆多處樹木倒塌、道路受阻",
+   "description": "薔琵颱風強風驟雨，基隆各區最多有1萬5千多戶停電，經台電搶修仍有千餘戶停電，有些用戶1天都沒電。議長童子瑋今天前往協和路附近了解電力搶修進度，台電表示，目前已動員147名人員搶修，並由外縣市調派工人支援基隆，除了有道路、有路樹影響以外，希望今天能全數復電。",
    "cities": {
-    "基隆市": 14,
+    "基隆市": 13,
     "台南市": 2,
     "台中市": 1,
     "高雄市": 1,
     "屏東縣": 1
    },
    "districts": [],
-   "body_chars": 1060
+   "body_chars": 1060,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617267_1_1.jpg"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5617229": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:20+08:00",
    "site_name": "自由時報電子報",
@@ -28,10 +29,11 @@
     "宜蘭縣": 1
    },
    "districts": [],
-   "body_chars": 736
+   "body_chars": 736,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617229_1_1.jpg"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5617205": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:23+08:00",
    "site_name": "自由時報電子報",
@@ -41,10 +43,11 @@
     "南投縣": 1
    },
    "districts": [],
-   "body_chars": 964
+   "body_chars": 964,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617205_1.jpg"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5617270": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:49+08:00",
    "site_name": "自由時報電子報",
@@ -55,10 +58,11 @@
     "彰化縣": 1
    },
    "districts": [],
-   "body_chars": 704
+   "body_chars": 704,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617270_1_1.jpg"
   },
   "https://ec.ltn.com.tw/article/breakingnews/5617244": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:51+08:00",
    "site_name": "自由時報電子報",
@@ -71,10 +75,11 @@
     "宜蘭縣": 3
    },
    "districts": [],
-   "body_chars": 705
+   "body_chars": 705,
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/10/24/5617244_1.jpg"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5617226": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:06+08:00",
    "site_name": "自由時報電子報",
@@ -87,10 +92,11 @@
     "基隆市": 2
    },
    "districts": [],
-   "body_chars": 912
+   "body_chars": 912,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617226_1_1.jpg"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5617168": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T11:17+08:00",
    "site_name": "自由時報電子報",
@@ -100,10 +106,11 @@
     "桃園市": 1
    },
    "districts": [],
-   "body_chars": 745
+   "body_chars": 745,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617168_1_1.jpg"
   },
   "https://www.ettoday.net/news/20261024/3260156.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:15+08:00",
    "site_name": "ETtoday新聞雲",
@@ -113,10 +120,11 @@
     "高雄市": 2
    },
    "districts": [],
-   "body_chars": 1048
+   "body_chars": 1048,
+   "image": "https://cdn2.ettoday.net/images/8979/e8979611.jpg"
   },
   "https://www.ettoday.net/news/20261024/3260158.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:34+08:00",
    "site_name": "ETtoday新聞雲",
@@ -127,10 +135,11 @@
     "基隆市": 2
    },
    "districts": [],
-   "body_chars": 1063
+   "body_chars": 1063,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980663.jpg"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5617210": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T11:57+08:00",
    "site_name": "自由時報電子報",
@@ -139,10 +148,11 @@
     "基隆市": 1
    },
    "districts": [],
-   "body_chars": 1077
+   "body_chars": 1077,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617210_1_1.jpg"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5617182": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T11:37+08:00",
    "site_name": "自由時報電子報",
@@ -151,22 +161,25 @@
     "基隆市": 1
    },
    "districts": [],
-   "body_chars": 665
+   "body_chars": 665,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/phpn5WyPH.jpg"
   },
   "https://www.cna.com.tw/news/ahel/202610240051.aspx": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T11:11+08:00",
    "site_name": "中央社 CNA",
    "description": "颱風薔琵過境，位於陽明山上的中國文化大學，傳出宿舍天花板被吹翻、輕鋼架受損的災情。校方今天表示，目前留宿學生都平安，學校已籌備完善物資並發放，請家長放心。",
    "cities": {
-    "台北市": 1
+    "台北市": 1,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 649
+   "body_chars": 667,
+   "image": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5617135": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T11:13+08:00",
    "site_name": "自由時報電子報",
@@ -176,10 +189,11 @@
     "桃園市": 1
    },
    "districts": [],
-   "body_chars": 791
+   "body_chars": 791,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617135_1_1.jpg"
   },
   "https://www.ettoday.net/news/20261024/3260132.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T11:16+08:00",
    "site_name": "ETtoday新聞雲",
@@ -190,10 +204,11 @@
     "彰化縣": 1
    },
    "districts": [],
-   "body_chars": 1061
+   "body_chars": 1061,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980603.jpg"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5617130": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T10:55+08:00",
    "site_name": "自由時報電子報",
@@ -203,24 +218,25 @@
     "嘉義": 1
    },
    "districts": [],
-   "body_chars": 629
+   "body_chars": 629,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617130_1_1.jpg"
   },
   "https://www.ettoday.net/news/20261024/3260118.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T11:15+08:00",
    "site_name": "ETtoday新聞雲",
    "description": "強颱薔琵挾帶強勁風勢侵襲彰化縣，造成嚴重災情，有19196萬戶停電、130棵路樹倒塌，有5名騎士時疑因路樹倒塌或線路掉落絆倒而摔傷。沿海地區一度颳起12級強風，不僅民代勘災團隊被大風狂襲到無法前進，還有民眾拍下鳥頂著強風多次展翅、反被風勢狂推前進的畫面，在網路引發熱議。",
    "cities": {
     "彰化縣": 7,
-    "高雄市": 2,
-    "宜蘭縣": 2
+    "高雄市": 2
    },
    "districts": [],
-   "body_chars": 1060
+   "body_chars": 948,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980584.png"
   },
   "https://www.ettoday.net/news/20261024/3260130.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T11:07+08:00",
    "site_name": "ETtoday新聞雲",
@@ -228,15 +244,15 @@
    "cities": {
     "宜蘭縣": 14,
     "高雄市": 3,
-    "台北市": 1,
     "南投縣": 1,
     "花蓮縣": 1
    },
    "districts": [],
-   "body_chars": 1086
+   "body_chars": 993,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980596.jpg"
   },
   "https://www.ettoday.net/news/20261024/3260123.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T11:04+08:00",
    "site_name": "ETtoday新聞雲",
@@ -244,35 +260,39 @@
    "cities": {
     "基隆市": 16,
     "高雄市": 2,
-    "新北市": 1
+    "彰化縣": 1
    },
    "districts": [],
-   "body_chars": 1333
+   "body_chars": 1348,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980581.jpg"
   },
   "https://www.msn.com/zh-tw/news/other/%E9%80%A3%E5%81%87%E9%81%87%E8%96%94%E7%90%B5%E6%94%AA%E5%B1%80%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E7%94%9F%E6%84%8F%E6%85%98%E6%8E%893%E6%88%90-%E5%BA%97%E5%AE%B6%E6%80%A5%E4%BF%AE%E6%8B%9B%E7%89%8C/ar-AA2fXDwZ": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": null,
    "cities": {},
    "districts": [],
-   "body_chars": 1
+   "body_chars": 1,
+   "image": null
   },
   "https://www.cna.com.tw/news/ahel/202610240042.aspx": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T10:38+08:00",
    "site_name": "中央社 CNA",
    "description": "光復節連假受薔琵颱風影響，桃園國際機場今天出入境人次預估從15萬降至11萬；昨天航班共有563架次取消、全日起降共230個航班，今天截至目前已取消261架次班機。",
    "cities": {
-    "桃園市": 5
+    "桃園市": 5,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 778
+   "body_chars": 796,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261024/1200x800_wmky_233423115993_202608070182000000.jpg"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5617043": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T10:07+08:00",
    "site_name": "自由時報電子報",
@@ -287,22 +307,25 @@
    "districts": [
     "南方澳商圈（宜蘭縣）"
    ],
-   "body_chars": 1041
+   "body_chars": 1041,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617043_3_1.jpg"
   },
   "https://www.cna.com.tw/news/ahel/202610240026.aspx": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T09:05+08:00",
    "site_name": "中央社 CNA",
    "description": "光復節連假首日，高公局預估，上午受颱風影響，國道交通需求下降且部分路段路況不佳，取消原規劃今天實施的國1平鎮系統、埔鹽系統南入匝道及國5石碇、坪林南入匝道封閉措施。",
    "cities": {
-    "台北市": 1
+    "台北市": 1,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 809
+   "body_chars": 827,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261024/1200x800_wmky_1314936250_202610090060000000.jpg"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5617129": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T11:09+08:00",
    "site_name": "自由時報電子報",
@@ -312,10 +335,11 @@
     "台東縣": 1
    },
    "districts": [],
-   "body_chars": 689
+   "body_chars": 689,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617129_1_1.jpg"
   },
   "https://ec.ltn.com.tw/article/breakingnews/5617107": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T10:21+08:00",
    "site_name": "自由時報電子報",
@@ -328,10 +352,11 @@
     "嘉義": 4
    },
    "districts": [],
-   "body_chars": 734
+   "body_chars": 734,
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/10/24/5617107_1.jpg"
   },
   "https://www.ettoday.net/news/20261024/3260098.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T10:11+08:00",
    "site_name": "ETtoday新聞雲",
@@ -341,10 +366,11 @@
     "高雄市": 2
    },
    "districts": [],
-   "body_chars": 1152
+   "body_chars": 1112,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980537.jpg"
   },
   "https://news.ltn.com.tw/news/life/paper/1775717": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T05:30+08:00",
    "site_name": "自由時報電子報",
@@ -355,10 +381,11 @@
     "花蓮縣": 1
    },
    "districts": [],
-   "body_chars": 766
+   "body_chars": 766,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/68.jpg"
   },
   "https://www.ettoday.net/news/20261024/3260053.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T07:55+08:00",
    "site_name": "ETtoday新聞雲",
@@ -368,30 +395,33 @@
     "高雄市": 2
    },
    "districts": [],
-   "body_chars": 1443
+   "body_chars": 1443,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980465.jpg"
   },
   "https://www.msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E7%99%BC%E5%A8%81%E6%B7%A1%E6%B0%B4%E6%B2%B3%E5%8F%A3%E6%B0%B4%E4%BD%8D%E9%AB%98%E6%BC%B2%E6%B7%A1%E6%B0%B4%E8%80%81%E8%A1%97%E6%BB%BF%E7%9B%AE%E7%8B%BC%E8%97%89-%E8%8B%B1%E5%B0%88%E8%B7%AF%E6%8B%9B%E7%89%8C%E7%A0%B8%E8%90%BD-%E6%9D%B1%E6%A3%AE%E6%B0%A3%E8%B1%A1%E8%AE%9A/vi-AA2fX9dg": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": null,
    "cities": {},
    "districts": [],
-   "body_chars": 1
+   "body_chars": 1,
+   "image": null
   },
   "https://www.msn.com/zh-tw/lifestyle/other/%E6%9C%80%E6%96%B0-%E8%96%94%E7%90%B5%E8%82%86%E8%99%90%E6%B7%A1%E6%B0%B4%E8%80%81%E8%A1%97-%E5%B8%86%E5%B8%83%E7%A2%8E%E7%89%87%E5%9B%9B%E6%95%A3-newsebc/vi-AA2fWOQY": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": null,
    "cities": {},
    "districts": [],
-   "body_chars": 1
+   "body_chars": 1,
+   "image": null
   },
   "https://news.ltn.com.tw/news/ChiayiCounty/paper/1775768": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T05:30+08:00",
    "site_name": "自由時報電子報",
@@ -402,10 +432,11 @@
     "宜蘭縣": 1
    },
    "districts": [],
-   "body_chars": 708
+   "body_chars": 708,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/129.jpg"
   },
   "https://news.ltn.com.tw/news/Yilan/paper/1775717": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T05:30+08:00",
    "site_name": "自由時報電子報",
@@ -416,10 +447,11 @@
     "花蓮縣": 1
    },
    "districts": [],
-   "body_chars": 766
+   "body_chars": 766,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/68.jpg"
   },
   "https://news.ltn.com.tw/news/life/paper/1775771": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T05:30+08:00",
    "site_name": "自由時報電子報",
@@ -430,10 +462,11 @@
     "宜蘭縣": 1
    },
    "districts": [],
-   "body_chars": 677
+   "body_chars": 677,
+   "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
   },
   "https://news.ltn.com.tw/news/life/paper/1775767": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T05:30+08:00",
    "site_name": "自由時報電子報",
@@ -444,62 +477,67 @@
     "宜蘭縣": 1
    },
    "districts": [],
-   "body_chars": 851
+   "body_chars": 851,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/128.jpg"
   },
   "https://n.yam.com/Article/20261024303429": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T09:00+08:00",
    "site_name": "蕃新聞",
    "description": "整合旅宿、城市導覽與商圈資源，推出「一起出發！桃園雙城的日常」城市走讀活動。　圖：桃園市觀光發展基金",
    "cities": {
     "桃園市": 32,
-    "宜蘭縣": 2
+    "雲林縣": 1
    },
    "districts": [],
-   "body_chars": 1533
+   "body_chars": 1558,
+   "image": "https://ni.yam.com/20261024/20261022020232619-aa09f65a81caafce.webp"
   },
   "https://udn.com/news/story/7327/9834110": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T00:00+08:00",
    "site_name": "聯合新聞網",
    "description": "高雄新堀江商圈在連續假日猶如空城，店員近日發文拜託「救救業績」，商圈店家無奈透露，租金降一半仍有逾三成店鋪閒置，近日舊大統百貨原址又傳出擬蓋停車場，沒落情況恐怕雪上加霜。市長陳其邁不認同蓋停車場，正設法找地主溝通。",
    "cities": {
-    "高雄市": 17,
-    "台北市": 1,
-    "台中市": 1,
-    "苗栗縣": 1,
-    "屏東縣": 1
+    "高雄市": 13,
+    "屏東縣": 2,
+    "澎湖縣": 2,
+    "金門縣": 2,
+    "台北市": 1
    },
    "districts": [
     "新堀江商圈（高雄市）",
-    "三多商圈（高雄市）"
+    "小琉球商圈（屏東縣）"
    ],
-   "body_chars": 1846
+   "body_chars": 1758,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35449597.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600"
   },
   "https://udn.com/news/story/7327/9834112": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T00:00+08:00",
    "site_name": "聯合新聞網",
    "description": "近年高雄消費重心北移及大型複合式商場興起，除新堀江商圈沒落外，同樣有捷運紅線經過的三多商圈也有沒落難題，商圈內具代表性的百貨公司業績明顯下滑，逛街人潮銳減，明顯比以前沒落。",
    "cities": {
-    "高雄市": 18,
+    "高雄市": 14,
     "台北市": 2,
-    "台南市": 1,
-    "苗栗縣": 1,
-    "屏東縣": 1
+    "屏東縣": 2,
+    "澎湖縣": 2,
+    "新北市": 1
    },
    "districts": [
     "新堀江商圈（高雄市）",
     "中央公園商圈（高雄市）",
-    "三多商圈（高雄市）"
+    "三多商圈（高雄市）",
+    "小琉球商圈（屏東縣）"
    ],
-   "body_chars": 1644
+   "body_chars": 1556,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35449673.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
   },
   "https://news.ltn.com.tw/news/life/paper/1775744": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T05:30+08:00",
    "site_name": "自由時報電子報",
@@ -510,10 +548,11 @@
     "宜蘭縣": 1
    },
    "districts": [],
-   "body_chars": 756
+   "body_chars": 756,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/96.jpg"
   },
   "https://www.chinatimes.com/realtimenews/20261024001626-260404": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:19+08:00",
    "site_name": "中時新聞網",
@@ -523,20 +562,22 @@
     "台北市": 1
    },
    "districts": [],
-   "body_chars": 846
+   "body_chars": 846,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-24/656/20261024001627.jpg"
   },
   "https://stars.udn.com/star/story/10091/9834887": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:39+08:00",
    "site_name": "噓！星聞",
    "description": "受薔琵颱風連日影響，第61屆金鐘獎日程接連變動，節目類頒獎典禮延至25日，戲劇類典禮則緊急改至26日舉行。以「監所男子囚生記」入圍「戲劇節目男主角獎」的大馬男星陳澤耀，原訂25日搭機前往泰國拍攝新電影，得知典禮延期後，連夜與劇組協調行程，所幸獲得劇組及同劇演員體諒，順利改簽機票留台，親自出席金鐘盛會。",
    "cities": {},
    "districts": [],
-   "body_chars": 635
+   "body_chars": 635,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450668.jpg&M=1&s=Y&x=0&y=429&sw=1107&sh=738&sl=W&fw=800&exp=3600"
   },
   "https://truemii.chinatimes.com/content/20261024001029-265001": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T11:44+08:00",
    "site_name": "瘋台灣 - 觸mii",
@@ -545,10 +586,11 @@
     "桃園市": 26
    },
    "districts": [],
-   "body_chars": 1196
+   "body_chars": 1196,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-24/1024/20261024001030.jpg"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616840": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T21:52+08:00",
    "site_name": "自由時報電子報",
@@ -558,20 +600,22 @@
     "台中市": 1
    },
    "districts": [],
-   "body_chars": 571
+   "body_chars": 571,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616840_1_1.jpg"
   },
   "https://stars.udn.com/star/story/10091/9834668": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T10:40+08:00",
    "site_name": "噓！星聞",
    "description": "第61屆金鐘獎因薔琵颱風襲台二度宣布延期，節目類改至25日舉行，戲劇類則罕見延至週一（26日）登場。以《大仙尪仔》入圍迷你劇集男主角獎的洪都拉斯發文坦言「情緒更多了」，並曬出7年前首次入圍時的專屬座位照，感性祈禱全台平安。",
    "cities": {},
    "districts": [],
-   "body_chars": 533
+   "body_chars": 533,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450321.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=800&exp=3600"
   },
   "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=648580": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": "青年日報",
@@ -580,10 +624,11 @@
     "台北市": 8
    },
    "districts": [],
-   "body_chars": 500
+   "body_chars": 500,
+   "image": "https://www.ydn.com.tw/tw/images/ydn_share.jpg"
   },
   "https://ec.ltn.com.tw/article/breakingnews/5616838": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T21:45+08:00",
    "site_name": "自由時報電子報",
@@ -592,10 +637,11 @@
     "台北市": 2
    },
    "districts": [],
-   "body_chars": 627
+   "body_chars": 627,
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/10/23/5616838_1.jpg"
   },
   "https://www.ctwant.com/article/503573/": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:25+08:00",
    "site_name": "CTWANT",
@@ -604,10 +650,11 @@
     "台北市": 3
    },
    "districts": [],
-   "body_chars": 539
+   "body_chars": 539,
+   "image": "https://static.ctwant.com/images/cover/73/503573/lg-d5dd378cdd4bad91a6e7c3401d886e38.jpg"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616824": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T21:28+08:00",
    "site_name": "自由時報電子報",
@@ -616,10 +663,11 @@
     "台北市": 6
    },
    "districts": [],
-   "body_chars": 843
+   "body_chars": 843,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616824_1_1.jpg"
   },
   "https://www.ettoday.net/news/20261023/3259986.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T21:56+08:00",
    "site_name": "ETtoday新聞雲",
@@ -631,10 +679,11 @@
     "高雄市": 2
    },
    "districts": [],
-   "body_chars": 1068
+   "body_chars": 1068,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980364.jpg"
   },
   "https://www.ettoday.net/news/20261024/3260171.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:43+08:00",
    "site_name": "ETtoday新聞雲",
@@ -642,15 +691,16 @@
    "cities": {
     "彰化縣": 3,
     "高雄市": 2,
-    "南投縣": 2
+    "台北市": 1
    },
    "districts": [
     "鹿港老街商圈（彰化縣）"
    ],
-   "body_chars": 1022
+   "body_chars": 1053,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980706.png"
   },
   "https://www.mirrordaily.news/story/93506": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T11:34+08:00",
    "site_name": "鏡報",
@@ -659,10 +709,11 @@
     "高雄市": 2
    },
    "districts": [],
-   "body_chars": 326
+   "body_chars": 316,
+   "image": "https://statics-prod.mirrordaily.news/images/bc33ab1b-a647-46b1-b98a-e415fa549a10.jpg"
   },
   "https://news.tvbs.com.tw/entertainment/variety/4040419": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:15+08:00",
    "site_name": "TVBS新聞網",
@@ -671,10 +722,11 @@
     "台北市": 8
    },
    "districts": [],
-   "body_chars": 877
+   "body_chars": 877,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a168ae-3b52-70bd-8bb9-2e9af5e94002.jpg?t=16x9&c=0,0,8000,4500&w=1200&h=675"
   },
   "https://star.ettoday.net/news/3260164": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:23+08:00",
    "site_name": "ETtoday星光雲",
@@ -684,10 +736,11 @@
     "台北市": 1
    },
    "districts": [],
-   "body_chars": 1289
+   "body_chars": 1295,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980680.jpg"
   },
   "https://stars.udn.com/star/story/10091/9833887": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:10+08:00",
    "site_name": "噓！星聞",
@@ -696,10 +749,11 @@
     "台北市": 3
    },
    "districts": [],
-   "body_chars": 405
+   "body_chars": 405,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35449363.jpg&M=1&s=Y&x=0&y=0&sw=1038&sh=692&sl=W&fw=800&exp=3600"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616823": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T21:18+08:00",
    "site_name": "自由時報電子報",
@@ -710,10 +764,11 @@
     "新北市": 4
    },
    "districts": [],
-   "body_chars": 575
+   "body_chars": 575,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616823_1_1.jpg"
   },
   "https://ent.ltn.com.tw/news/breakingnews/5616760": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:17+08:00",
    "site_name": "自由時報電子報",
@@ -723,22 +778,25 @@
     "高雄市": 1
    },
    "districts": [],
-   "body_chars": 1124
+   "body_chars": 1124,
+   "image": "https://img.ltn.com.tw/Upload/ent/page/800/2026/10/23/phpnqLlkl.jpg"
   },
   "https://www.cna.com.tw/news/aloc/202610230250.aspx": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:49+08:00",
    "site_name": "中央社 CNA",
    "description": "中度颱風薔琵襲台，苗栗地區累計至晚間7時曾造成3000戶停電，主要集中沿海及三灣、南庄、公館等地區，台電表示，目前復電率達97%，將持續搶修恢復供電。",
    "cities": {
-    "苗栗縣": 10
+    "苗栗縣": 10,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 747
+   "body_chars": 765,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/768x1024_wmkn_0_C20261023000142.jpg"
   },
   "https://www.storm.mg/article/11175460": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:17+08:00",
    "site_name": null,
@@ -749,10 +807,11 @@
    "districts": [
     "博愛商圈（桃園市）"
    ],
-   "body_chars": 1644
+   "body_chars": 1644,
+   "image": "https://images.storm.mg/cloud/69b5f4e70d84b5521248f74a42422f94a9e88e6c.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2238597%2F1EZMNwy8cCRIE5sHQsPqz3mpUuQRrOg2dRFBF9DG.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
   },
   "https://ec.ltn.com.tw/article/breakingnews/5616794": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:43+08:00",
    "site_name": "自由時報電子報",
@@ -765,10 +824,11 @@
     "台南市": 1
    },
    "districts": [],
-   "body_chars": 871
+   "body_chars": 871,
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/10/23/5616794_1.jpg"
   },
   "https://star.ettoday.net/news/3259940": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:10+08:00",
    "site_name": "ETtoday星光雲",
@@ -778,10 +838,11 @@
     "高雄市": 2
    },
    "districts": [],
-   "body_chars": 1035
+   "body_chars": 1041,
+   "image": "https://cdn2.ettoday.net/images/8979/e8979319.jpg"
   },
   "https://news.pts.org.tw/article/832739": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:35+08:00",
    "site_name": "公視新聞網 PNN",
@@ -791,39 +852,43 @@
     "彰化縣": 1
    },
    "districts": [],
-   "body_chars": 592
+   "body_chars": 592,
+   "image": "https://news-data.pts.org.tw/media/299519/conversions/AsAuUepX5AlOq7ZhKffmLNQiLtExzg6N1htV93GS-og_jpg.jpg"
   },
   "https://news.ipcf.org.tw/213759": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T19:54+08:00",
    "site_name": "TITV News 原視新聞網",
    "description": "薔琵颱風來勢洶洶，雖然氣象署預估颱風眼不會登陸台灣，但已為台灣造成一片混亂，因為原本10/24起，就是台灣光復節的三天連假，許多活動也訂在這三天要來舉辦，但為了民眾的安全著想，就讓不少活動延後舉辦，像是南投仁愛鄉原本要在10/24、25兩天舉辦的清境火把節，因薔琵颱風來襲臨時喊卡並延期，讓不少民眾退訂原先已訂好的住宿及",
    "cities": {
     "南投縣": 4,
-    "花蓮縣": 2,
-    "桃園市": 1,
-    "宜蘭縣": 1
+    "台東縣": 1,
+    "新竹市": 1
    },
    "districts": [],
-   "body_chars": 1081
+   "body_chars": 1077,
+   "image": "https://titv-images.tellustek.com/2026/10/清境火把節遇颱風延期-業者無奈認退訂潮.jpg"
   },
   "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E8%B7%AF%E9%82%8A%E5%81%9C%E8%BB%8A%E6%A0%BC-%E9%80%A3%E5%81%87%E6%9A%AB%E5%81%9C%E6%94%B6%E8%B2%BB-123400611.html": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:34+08:00",
    "site_name": "Yahoo News",
    "description": "記者蔡琇惠∕新北報導 新北市交通局表示，今年光復節三天連續假期，新北市路邊汽、機車平…",
    "cities": {
-    "新北市": 10,
-    "高雄市": 3,
-    "台北市": 2
+    "新北市": 11,
+    "台北市": 8,
+    "新竹市": 8,
+    "台中市": 2,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 3002
+   "body_chars": 2900,
+   "image": "https://s.yimg.com/lo/mysterio/api/885e748769b1e7d0d2e04103bc42bed85787521dd6c617027a71d7529ca36140/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fcdns.com.tw%2F298fac263222769b0d523fc0cdb8a548.jpg"
   },
   "https://www.ettoday.net/news/20261023/3259945.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:38+08:00",
    "site_name": "ETtoday新聞雲",
@@ -835,10 +900,11 @@
     "彰化縣": 1
    },
    "districts": [],
-   "body_chars": 1276
+   "body_chars": 1276,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980300.jpg"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616777": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:28+08:00",
    "site_name": "自由時報電子報",
@@ -848,10 +914,11 @@
     "彰化縣": 1
    },
    "districts": [],
-   "body_chars": 612
+   "body_chars": 612,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616777_1_1.jpg"
   },
   "https://www.ettoday.net/news/20261023/3259964.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:38+08:00",
    "site_name": "ETtoday新聞雲",
@@ -863,10 +930,11 @@
     "高雄市": 2
    },
    "districts": [],
-   "body_chars": 1024
+   "body_chars": 1024,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980338.png"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616755": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:33+08:00",
    "site_name": "自由時報電子報",
@@ -877,49 +945,58 @@
     "花蓮縣": 1
    },
    "districts": [],
-   "body_chars": 788
+   "body_chars": 788,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616755_1_1.jpg"
   },
   "https://tw.news.yahoo.com/%E6%96%B0%E8%BB%8A%E7%AB%99%E5%90%B8%E5%AE%A2-%E5%BE%8C%E7%AB%99%E5%95%86%E5%9C%88%E8%BF%8E%E8%BD%89%E6%A9%9F-105521557.html": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T18:55+08:00",
    "site_name": "Yahoo News",
    "description": "記者林怡孜∕台南報導 台南鐵路地下化第一階段十七日正式通車，嶄新的下沉式車站出入口成…",
    "cities": {
-    "台南市": 9,
-    "台北市": 6
+    "台南市": 11,
+    "新竹市": 8,
+    "台北市": 5,
+    "台中市": 3,
+    "新北市": 1
    },
    "districts": [
     "後站商圈（台北市）"
    ],
-   "body_chars": 3430
+   "body_chars": 3493,
+   "image": "https://s.yimg.com/lo/mysterio/api/cae07e9a4d56c48c785d0fa99d5f8c9b4a7404593a8584097ae45760ece61d89/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fcdns.com.tw%2F7e31941d3562cd06e5516937fff0fc10.jpg"
   },
   "https://www.cna.com.tw/news/aloc/202610230229.aspx": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:03+08:00",
    "site_name": "中央社 CNA",
    "description": "受颱風薔琵影響，新竹市截至今天下午6時，市府共接獲60件災情通報，以路樹傾倒27件最多；香山區台電纜線掉落，一度造成約1300戶停電，下午已恢復供電。",
    "cities": {
-    "新竹市": 13
+    "新竹市": 13,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 639
+   "body_chars": 657,
+   "image": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
   },
   "https://www.cna.com.tw/news/aloc/202610230218.aspx": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T19:01+08:00",
    "site_name": "中央社 CNA",
    "description": "薔琵颱風來襲，雲林縣颳起強風導致電線掉落停電，全縣曾有約1萬2000戶停電，此外，有9人因強風跌倒或被異物砸傷送醫，經送醫後均無大礙，其中1人因骨折需住院治療。",
    "cities": {
-    "雲林縣": 13
+    "雲林縣": 13,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 802
+   "body_chars": 820,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1024x768_wmky_0_C20261023000134.jpg"
   },
   "https://sports.ltn.com.tw/news/paper/1775713": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T04:01+08:00",
    "site_name": "自由時報電子報",
@@ -929,10 +1006,11 @@
     "台北市": 1
    },
    "districts": [],
-   "body_chars": 628
+   "body_chars": 628,
+   "image": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/10/24/64.jpg"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616676": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T18:51+08:00",
    "site_name": "自由時報電子報",
@@ -945,22 +1023,25 @@
     "南投縣": 1
    },
    "districts": [],
-   "body_chars": 789
+   "body_chars": 789,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616676_2_1.jpg"
   },
   "https://www.cna.com.tw/news/ahel/202610230212.aspx": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T18:47+08:00",
    "site_name": "中央社 CNA",
    "description": "交通部高速公路局今天表示，受到颱風薔琵影響，預估明天光復節連假首日的交通需求下降，取消原規劃實施國1平鎮系統等匝道封閉措施，但暫停收費措施仍維持。",
    "cities": {
-    "台北市": 1
+    "台北市": 1,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 678
+   "body_chars": 696,
+   "image": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616658": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T18:31+08:00",
    "site_name": "自由時報電子報",
@@ -970,10 +1051,11 @@
     "嘉義": 1
    },
    "districts": [],
-   "body_chars": 756
+   "body_chars": 756,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616658_1_1.jpg"
   },
   "https://www.cna.com.tw/news/ahel/202610230195.aspx": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T17:52+08:00",
    "site_name": "中央社 CNA",
@@ -982,14 +1064,15 @@
     "嘉義": 4,
     "台北市": 3,
     "彰化縣": 3,
-    "新竹縣": 2,
-    "新北市": 1
+    "台南市": 2,
+    "新竹縣": 2
    },
    "districts": [],
-   "body_chars": 558
+   "body_chars": 576,
+   "image": null
   },
   "https://www.ettoday.net/news/20261023/3259646.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T18:26+08:00",
    "site_name": "ETtoday新聞雲",
@@ -1005,10 +1088,11 @@
     "小琉球商圈（屏東縣）",
     "太麻里商圈（台東縣）"
    ],
-   "body_chars": 3893
+   "body_chars": 3893,
+   "image": "https://cdn2.ettoday.net/images/8965/e8965497.jpg"
   },
   "https://www.cna.com.tw/news/ahel/202610230202.aspx": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T18:15+08:00",
    "site_name": "中央社 CNA",
@@ -1016,13 +1100,15 @@
    "cities": {
     "桃園市": 7,
     "台北市": 1,
-    "新北市": 1
+    "新北市": 1,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 862
+   "body_chars": 880,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1151x768_wmky_0_C20261023000131.jpg"
   },
   "https://www.ettoday.net/news/20261023/3259921.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T17:59+08:00",
    "site_name": "ETtoday新聞雲",
@@ -1032,10 +1118,11 @@
     "台北市": 1
    },
    "districts": [],
-   "body_chars": 1070
+   "body_chars": 1070,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980266.jpg"
   },
   "https://art.ltn.com.tw/article/breakingnews/5616548": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T16:49+08:00",
    "site_name": "自由時報電子報",
@@ -1044,10 +1131,11 @@
     "台北市": 5
    },
    "districts": [],
-   "body_chars": 737
+   "body_chars": 737,
+   "image": "https://img.ltn.com.tw/Upload/art/page/800/2026/10/23/5616548_1.jpg"
   },
   "https://www.ettoday.net/news/20261023/3259858.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T18:00+08:00",
    "site_name": "ETtoday新聞雲",
@@ -1056,10 +1144,11 @@
     "高雄市": 3
    },
    "districts": [],
-   "body_chars": 1149
+   "body_chars": 1149,
+   "image": "https://cdn2.ettoday.net/images/6584/e6584831.jpg"
   },
   "https://www.ettoday.net/news/20261023/3259916.htm": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T17:51+08:00",
    "site_name": "ETtoday新聞雲",
@@ -1071,10 +1160,11 @@
     "新北市": 1
    },
    "districts": [],
-   "body_chars": 1126
+   "body_chars": 1126,
+   "image": "https://cdn2.ettoday.net/images/8979/e8979735.jpg"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616660": {
-   "checked_at": "2026-10-24T13:13+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T18:26+08:00",
    "site_name": "自由時報電子報",
@@ -1084,20 +1174,22 @@
     "新北市": 1
    },
    "districts": [],
-   "body_chars": 935
+   "body_chars": 935,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616660_1_1.jpg"
   },
   "https://www.msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E6%94%AA%E5%B1%80-%E7%81%B6%E5%92%96%E5%A4%A9%E5%9C%98air-supply%E9%AB%98%E6%B5%81%E9%96%8B%E5%94%B1%E5%96%8A%E5%8D%A1%E5%BB%B6%E6%9C%9F-%E5%98%86%E4%BA%BA%E5%88%B0%E4%BA%86-%E5%99%A8%E6%9D%90%E9%A3%9B%E4%B8%8D%E4%BE%86/ar-AA2fX9Fa": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": null,
    "cities": {},
    "districts": [],
-   "body_chars": 1
+   "body_chars": 1,
+   "image": null
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616519": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T16:28+08:00",
    "site_name": "自由時報電子報",
@@ -1106,10 +1198,11 @@
     "桃園市": 1
    },
    "districts": [],
-   "body_chars": 782
+   "body_chars": 782,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616519_1_1.jpg"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616514": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T16:23+08:00",
    "site_name": "自由時報電子報",
@@ -1118,10 +1211,11 @@
     "桃園市": 11
    },
    "districts": [],
-   "body_chars": 632
+   "body_chars": 632,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616514_1_1.jpg"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5616520": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T16:34+08:00",
    "site_name": "自由時報電子報",
@@ -1130,26 +1224,28 @@
     "新竹縣": 24
    },
    "districts": [],
-   "body_chars": 1138
+   "body_chars": 1138,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616520_3_1.jpg"
   },
   "https://news.ltn.com.tw/news/Keelung/breakingnews/5617267": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:46+08:00",
    "site_name": "自由時報電子報",
-   "description": "薔琵颱風強風驟雨，基隆各區最多有1萬5千多戶停電，經台電搶修仍有千餘戶停電，有些用戶1天都沒電。議長童子瑋今天前往協和路附近了解電力搶修進度，台電表示，目前已動員147名人員搶修，並由外縣市調派工人支援基隆，除了有道路、有路樹影響以外，希望今天能全數復電。童子瑋表示，昨天颱風帶來強風豪雨，造成基隆多處樹木倒塌、道路受阻",
+   "description": "薔琵颱風強風驟雨，基隆各區最多有1萬5千多戶停電，經台電搶修仍有千餘戶停電，有些用戶1天都沒電。議長童子瑋今天前往協和路附近了解電力搶修進度，台電表示，目前已動員147名人員搶修，並由外縣市調派工人支援基隆，除了有道路、有路樹影響以外，希望今天能全數復電。",
    "cities": {
-    "基隆市": 15,
+    "基隆市": 14,
     "台南市": 2,
     "台中市": 1,
     "高雄市": 1,
     "屏東縣": 1
    },
    "districts": [],
-   "body_chars": 1060
+   "body_chars": 1060,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617267_1_1.jpg"
   },
   "https://news.ltn.com.tw/news/Taichung/breakingnews/5617270": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:49+08:00",
    "site_name": "自由時報電子報",
@@ -1160,10 +1256,11 @@
     "彰化縣": 1
    },
    "districts": [],
-   "body_chars": 704
+   "body_chars": 704,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617270_1_1.jpg"
   },
   "https://life.tw/article/%E5%BC%B7%E9%A2%A8%E6%8E%83%E9%9B%BB%E7%B7%9A%E6%96%B7-%E5%8F%B0%E4%B8%AD%E6%B5%B7%E7%B7%9A%E5%9C%B0%E5%8D%80%E7%B4%9B%E5%82%B3%E5%81%9C%E9%9B%BB%E7%81%BD%E6%83%85-3190975": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T15:15+08:00",
    "site_name": "LIFE 生活網",
@@ -1172,10 +1269,11 @@
     "台中市": 11
    },
    "districts": [],
-   "body_chars": 770
+   "body_chars": 770,
+   "image": "https://bccnews.com.tw/wp-content/uploads/2026/10/ksc_261023_1400.jpg"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616480": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T15:53+08:00",
    "site_name": "自由時報電子報",
@@ -1184,10 +1282,11 @@
     "台中市": 5
    },
    "districts": [],
-   "body_chars": 627
+   "body_chars": 627,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616480_1_1.jpg"
   },
   "https://www.ettoday.net/news/20261023/3259869.htm": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T16:23+08:00",
    "site_name": "ETtoday新聞雲",
@@ -1200,28 +1299,29 @@
     "嘉義縣": 2
    },
    "districts": [],
-   "body_chars": 778
+   "body_chars": 778,
+   "image": "https://cdn2.ettoday.net/images/8979/e8979923.jpg"
   },
   "https://travel.ettoday.net/article/3259877.htm": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T16:42+08:00",
    "site_name": "ETtoday旅遊雲",
    "description": "「牛舌佑介」是乾杯集團去年底推出的炭火牛舌定食專賣店，主打最低500元有找的親民價格，近期該品牌插旗永康商圈，與中山店同樣規劃在今年底前開幕。",
    "cities": {
-    "台北市": 7,
+    "台北市": 6,
     "新竹": 4,
-    "高雄市": 2,
-    "台中市": 1,
-    "基隆市": 1
+    "桃園市": 1,
+    "台南市": 1
    },
    "districts": [
     "永康商圈（台北市）"
    ],
-   "body_chars": 1184
+   "body_chars": 1185,
+   "image": "https://cdn2.ettoday.net/images/8542/e8542612.jpg"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5616404": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T15:07+08:00",
    "site_name": "自由時報電子報",
@@ -1230,10 +1330,11 @@
     "彰化縣": 16
    },
    "districts": [],
-   "body_chars": 811
+   "body_chars": 811,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616404_1_1.jpg"
   },
   "https://www.ettoday.net/news/20261023/3259849.htm": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T16:04+08:00",
    "site_name": "ETtoday新聞雲",
@@ -1244,10 +1345,11 @@
     "台中市": 1
    },
    "districts": [],
-   "body_chars": 994
+   "body_chars": 994,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980142.jpg"
   },
   "https://www.nownews.com/news/6886016": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T05:55+08:00",
    "site_name": "NOWnews今日新聞",
@@ -1255,16 +1357,15 @@
    "cities": {
     "桃園市": 4,
     "台北市": 1,
-    "苗栗縣": 1,
-    "宜蘭縣": 1
+    "高雄市": 1,
+    "苗栗縣": 1
    },
-   "districts": [
-    "南方澳商圈（宜蘭縣）"
-   ],
-   "body_chars": 677
+   "districts": [],
+   "body_chars": 824,
+   "image": "https://media.nownews.com/nn_media/thumbnail/2026/10/1792753489984-9f5f9833c8fc4b25b0f1217f6882f719-800x531.webp?unShow=false"
   },
   "https://www.ettoday.net/news/20261023/3259860.htm": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T16:09+08:00",
    "site_name": "ETtoday新聞雲",
@@ -1274,22 +1375,25 @@
     "高雄市": 2
    },
    "districts": [],
-   "body_chars": 930
+   "body_chars": 930,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980163.jpg"
   },
   "https://www.cna.com.tw/news/aloc/202610230135.aspx": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T15:08+08:00",
    "site_name": "中央社 CNA",
    "description": "颱風薔琵來襲，基隆市長謝國樑今天前往市區西定路及南榮路等過去曾發生積淹水區域，關心當地店家防颱整備情形，並呼籲市民及早做好防颱防護。",
    "cities": {
-    "基隆市": 3
+    "基隆市": 3,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 699
+   "body_chars": 717,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/980x768_wmkn_0_C20261023000102.jpg"
   },
   "https://www.ettoday.net/news/20261023/3259832.htm": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T15:27+08:00",
    "site_name": "ETtoday新聞雲",
@@ -1301,10 +1405,11 @@
     "宜蘭縣": 1
    },
    "districts": [],
-   "body_chars": 1000
+   "body_chars": 1000,
+   "image": "https://cdn2.ettoday.net/images/2730/e2730336.jpg"
   },
   "https://news.ltn.com.tw/news/Hualien/breakingnews/5616221": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T12:42+08:00",
    "site_name": "自由時報電子報",
@@ -1317,10 +1422,11 @@
    "districts": [
     "花蓮市形象商圈（花蓮縣）"
    ],
-   "body_chars": 1127
+   "body_chars": 1127,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616221_1_1.jpg"
   },
   "https://news.ltn.com.tw/news/Changhua/breakingnews/5616261": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T13:06+08:00",
    "site_name": "自由時報電子報",
@@ -1330,10 +1436,11 @@
     "高雄市": 1
    },
    "districts": [],
-   "body_chars": 587
+   "body_chars": 587,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616261_1_1.jpg"
   },
   "https://news.ltn.com.tw/news/Taichung/breakingnews/5616255": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T12:55+08:00",
    "site_name": "自由時報電子報",
@@ -1343,10 +1450,11 @@
     "新北市": 1
    },
    "districts": [],
-   "body_chars": 718
+   "body_chars": 718,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616255_1_1.jpg"
   },
   "https://ec.ltn.com.tw/article/breakingnews/5616343": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T14:20+08:00",
    "site_name": "自由時報電子報",
@@ -1359,10 +1467,11 @@
     "花蓮縣": 2
    },
    "districts": [],
-   "body_chars": 804
+   "body_chars": 804,
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/10/23/5616343_1.jpg"
   },
   "https://ec.ltn.com.tw/article/breakingnews/5616347": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T14:22+08:00",
    "site_name": "自由時報電子報",
@@ -1371,10 +1480,11 @@
     "桃園市": 10
    },
    "districts": [],
-   "body_chars": 569
+   "body_chars": 569,
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/10/23/5616347_1.jpg"
   },
   "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5616219": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T12:40+08:00",
    "site_name": "自由時報電子報",
@@ -1385,10 +1495,11 @@
     "台東縣": 1
    },
    "districts": [],
-   "body_chars": 765
+   "body_chars": 765,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616219_1_1.jpg"
   },
   "https://www.ettoday.net/news/20261023/3259780.htm": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T13:30+08:00",
    "site_name": "ETtoday新聞雲",
@@ -1400,38 +1511,42 @@
    "districts": [
     "大林鎮商圈（嘉義縣）"
    ],
-   "body_chars": 1389
+   "body_chars": 1389,
+   "image": "https://cdn2.ettoday.net/images/8979/e8979980.jpg"
   },
   "https://www.cna.com.tw/news/aloc/202610230091.aspx": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T12:24+08:00",
    "site_name": "中央社 CNA",
    "description": "颱風薔琵逼近，造成嘉義沿海地區2000多戶停電，台電公司嘉義區營業今天上午成立緊急應變小組，調派搶修人力與各類重型機具，馳至沿海地區修復中。",
    "cities": {
-    "嘉義縣": 12
+    "嘉義縣": 12,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 703
+   "body_chars": 721,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1024x768_wmkn_0_C20261023000050.jpg"
   },
   "https://www.cna.com.tw/news/aloc/202610230103.aspx": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T13:05+08:00",
    "site_name": "中央社 CNA",
    "description": "颱風薔琵來襲，南彰化沿海鄉鎮發生樹倒等災情，公所接獲通報後派員清除；二林鎮二溪路有民宅遮雨棚今天凌晨掉落，波及2輛汽車，幸無人受傷。",
    "cities": {
     "彰化縣": 6,
+    "台南市": 2,
     "嘉義縣": 2,
     "新北市": 1,
-    "台中市": 1,
-    "台南市": 1
+    "台中市": 1
    },
    "districts": [],
-   "body_chars": 704
+   "body_chars": 722,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1024x768_wmkn_0_C20261023000070.jpg"
   },
   "https://www.ettoday.net/news/20261023/3259795.htm": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T14:12+08:00",
    "site_name": "ETtoday新聞雲",
@@ -1442,10 +1557,11 @@
     "台中市": 1
    },
    "districts": [],
-   "body_chars": 1106
+   "body_chars": 1106,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980031.jpg"
   },
   "https://www.ettoday.net/news/20261023/3259602.htm": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T11:23+08:00",
    "site_name": "ETtoday新聞雲",
@@ -1458,10 +1574,11 @@
     "桃園市": 1
    },
    "districts": [],
-   "body_chars": 1228
+   "body_chars": 1228,
+   "image": "https://cdn2.ettoday.net/images/8447/e8447783.jpg"
   },
   "https://www.cna.com.tw/news/ahel/202610230079.aspx": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T11:54+08:00",
    "site_name": "中央社 CNA",
@@ -1469,13 +1586,15 @@
    "cities": {
     "桃園市": 7,
     "台北市": 1,
-    "新北市": 1
+    "新北市": 1,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 680
+   "body_chars": 698,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1152x768_wmky_0_C20261023000044.jpg"
   },
   "https://news.tvbs.com.tw/local/4040075": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T10:23+08:00",
    "site_name": "TVBS新聞網",
@@ -1487,10 +1606,11 @@
     "台北市": 2
    },
    "districts": [],
-   "body_chars": 2643
+   "body_chars": 2643,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1667b-982c-7261-992c-91ed4f3418bf.png?t=16x9&wp=l,t&c=295,228,1575,948&w=1200&h=675"
   },
   "https://estate.ltn.com.tw/article/29118": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T19:18+08:00",
    "site_name": "自由時報電子報",
@@ -1499,10 +1619,11 @@
     "台中市": 8
    },
    "districts": [],
-   "body_chars": 1294
+   "body_chars": 1294,
+   "image": "https://img.ltn.com.tw/Upload/house/page/2026/10/22/261022-29118-1-FIc1d.jpg"
   },
   "https://www.ettoday.net/news/20261023/3259685.htm": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T11:17+08:00",
    "site_name": "ETtoday新聞雲",
@@ -1513,42 +1634,47 @@
     "台東縣": 1
    },
    "districts": [],
-   "body_chars": 1009
+   "body_chars": 1009,
+   "image": "https://cdn2.ettoday.net/images/8979/e8979820.jpg"
   },
   "https://www.sohu.com/a/1091500074_161795": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T09:36+08:00",
    "site_name": "搜狐网",
    "description": "进一步来看，店铺命名“蹭景区商圈式”的做法，其边际效应其实已经显著降低：一是真实的市场会训练消费者，上当这事可一可二，很难再三；二是越靠近中心地段价格越高，同等档次店铺，价格大抵与距离负相关，距离越近，价格越…",
    "cities": {},
    "districts": [],
-   "body_chars": 1258
+   "body_chars": 1258,
+   "image": "https://q8.itc.cn/q_70/images03/20261023/4ef0b5bc15724164a871d02d15975670.jpeg"
   },
   "https://www.cna.com.tw/news/aloc/202610230049.aspx": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T10:44+08:00",
    "site_name": "中央社 CNA",
    "description": "颱風薔琵來襲，雲林縣沿海陣風強勁，麥寮、台西等鄉鎮多處通報電線掉落，根據台電雲林區營業處統計有2975戶停電，目前仍在搶修中。",
    "cities": {
-    "雲林縣": 14
+    "雲林縣": 14,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 769
+   "body_chars": 787,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1024x768_wmkn_0_C20261023000024.jpg"
   },
   "https://gogoal.com.tw/archives/84446": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T15:30+08:00",
    "site_name": "GoGoal 勁球網",
    "description": "考量颱風可能帶來的強風、降雨，以及對球隊往返交通、場地狀況與賽事執行的影響，中華民國足球協會經綜合評估後，決定本週木蘭聯賽所有賽事全數延期舉行，補賽日期將另行公告。",
    "cities": {},
    "districts": [],
-   "body_chars": 600
+   "body_chars": 600,
+   "image": "https://gogoal.com.tw/wp-content/uploads/2026/09/1788281131.1054.jpeg"
   },
   "https://www.cna.com.tw/news/ahel/202610230051.aspx": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T10:48+08:00",
    "site_name": "中央社 CNA",
@@ -1558,76 +1684,80 @@
     "連江縣": 3,
     "金門縣": 2,
     "台北市": 1,
-    "高雄市": 1
+    "台南市": 1
    },
    "districts": [
     "小琉球商圈（屏東縣）"
    ],
-   "body_chars": 626
+   "body_chars": 644,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1200x656_wmky_383763244616_202608030025000000.jpg"
   },
   "https://www.msn.com/zh-tw/news/other/%E6%9D%B1%E4%BA%AC%E6%97%85%E7%A8%8B%E6%9C%80%E5%BE%8C%E4%B8%80%E5%A4%A9%E5%BF%85%E8%A8%AA%E4%BD%90%E5%8E%9F%E8%88%87%E6%88%90%E7%94%B0%E5%B1%B1%E8%80%81%E8%A1%97%E5%AF%BA%E5%BB%9F/vi-AA24w2x3": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": null,
    "cities": {},
    "districts": [],
-   "body_chars": 1
+   "body_chars": 1,
+   "image": null
   },
   "https://www.msn.com/zh-hk/news/other/%E6%9D%B1%E4%BA%AC%E6%97%85%E7%A8%8B%E6%9C%80%E5%BE%8C%E4%B8%80%E5%A4%A9%E5%BF%85%E8%A8%AA%E4%BD%90%E5%8E%9F%E8%88%87%E6%88%90%E7%94%B0%E5%B1%B1%E8%80%81%E8%A1%97%E5%AF%BA%E5%BB%9F/vi-AA24wyBd": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": null,
    "cities": {},
    "districts": [],
-   "body_chars": 1
+   "body_chars": 1,
+   "image": null
   },
   "https://www.nownews.com/news/6885807": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T07:57+08:00",
    "site_name": "NOWnews今日新聞",
    "description": "受到薔琵颱風影響，今（23）日全台除了金門以外，全數停班停課，原定在今晚舉行的金鐘獎節目類頒獎典禮也延期至25日舉行，這是金鐘獎舉辦以來，首度因颱風延期。而金鐘...",
    "cities": {
-    "台北市": 1,
-    "宜蘭縣": 1,
     "金門縣": 1
    },
-   "districts": [
-    "南方澳商圈（宜蘭縣）"
-   ],
-   "body_chars": 820
+   "districts": [],
+   "body_chars": 832,
+   "image": "https://media.nownews.com/nn_media/thumbnail/2026/10/1792713275102-284d8eb5593d4c47b7725741ec526110-1200x688.webp?unShow=false"
   },
   "https://www.cna.com.tw/news/ahel/202610230037.aspx": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T09:55+08:00",
    "site_name": "中央社 CNA",
    "description": "薔琵颱風來襲，多家百貨今天調整營業時間，包括台北101、新光三越、遠東SOGO、微風及宏匯廣場均宣布暫停營業一天，其中新光三越全台16家分店，以及台北車站、SKM Park Outlets高雄草衙均停止營業。至於量販超市的好市多、萬家福今天正常營業。",
    "cities": {
     "台北市": 8,
-    "高雄市": 3
+    "高雄市": 3,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 844
+   "body_chars": 862,
+   "image": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20261023/1998x1049_199352188844.jpg"
   },
   "https://www.cna.com.tw/news/aloc/202610230030.aspx": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T09:24+08:00",
    "site_name": "中央社 CNA",
    "description": "颱風薔琵來襲，台中海線風勢增強。網路流傳一張照片，大甲區的麥當勞招牌掉落，大甲警分局澄清，此為AI生成圖片。另傳出后里加油站的電動機車換電站爆炸，經瞭解為停電。",
    "cities": {
-    "台中市": 4
+    "台中市": 4,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 528
+   "body_chars": 546,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1024x768_wmkn_0_C20261023003001.jpg"
   },
   "https://sunmedia.tw/news/collaborative/1i4pc1MpcXmZHD8KvBPi05uC9hZiCbYotnU4fsG6wR03x47yoHgYgNLi": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T14:10+08:00",
    "site_name": "商傳媒",
@@ -1636,30 +1766,33 @@
     "台北市": 5
    },
    "districts": [],
-   "body_chars": 893
+   "body_chars": 893,
+   "image": "https://17news.net/wp-content/uploads/2026/10/ea4cca5f78ce776.webp"
   },
   "https://www.msn.com/zh-tw/news/news/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E5%BC%B7%E9%99%A3%E9%A2%A8%E5%90%B9%E5%8F%B0%E4%B8%AD-%E5%8B%A4%E7%BE%8E%E5%95%86%E5%9C%88%E5%A4%A7%E5%B8%86%E5%B8%83%E5%BB%A3%E5%91%8A%E6%8E%89%E8%90%BD-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fSiGU": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": null,
    "cities": {},
    "districts": [],
-   "body_chars": 1
+   "body_chars": 1,
+   "image": null
   },
   "https://www.msn.com/zh-tw/news/other/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E5%BC%B7%E9%99%A3%E9%A2%A8%E5%90%B9%E5%8F%B0%E4%B8%AD-%E5%8B%A4%E7%BE%8E%E5%95%86%E5%9C%88%E5%A4%A7%E5%B8%86%E5%B8%83%E5%BB%A3%E5%91%8A%E6%8E%89%E8%90%BD-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fS0z1": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": null,
    "cities": {},
    "districts": [],
-   "body_chars": 1
+   "body_chars": 1,
+   "image": null
   },
   "https://mknews.com.tw/2026/10/1008246/": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T11:04+08:00",
    "site_name": "天天上新聞",
@@ -1668,10 +1801,11 @@
     "高雄市": 3
    },
    "districts": [],
-   "body_chars": 177
+   "body_chars": 177,
+   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg"
   },
   "https://www.chinatimes.com/realtimenews/20261023001826-260404": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T12:16+08:00",
    "site_name": "中時新聞網",
@@ -1680,23 +1814,25 @@
     "台北市": 4
    },
    "districts": [],
-   "body_chars": 1345
+   "body_chars": 1345,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-23/656/20261023001827.png"
   },
   "https://www.matsu-news.gov.tw/news/article/245527": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": "受薔琵颱風影響，連江縣對外海空交通全面停航，導致原訂來馬演出的團隊及相關演出設備無法如期抵達。為確保演出順利進行，並兼顧演職人員及觀眾安全，原訂於10月24日（週六）下午2點30分，在梅石藝文中心演出的台北曲藝團《打開笑門福自來》，將延期至2026年11月15日（週日）晚間7點30分舉行，敬請民眾留意演出時間異動。",
    "cities": {
-    "連江縣": 9,
-    "台北市": 6
+    "連江縣": 8,
+    "台北市": 5
    },
    "districts": [],
-   "body_chars": 864
+   "body_chars": 779,
+   "image": "https://www.matsu-news.gov.tw/uploads/news/thumb/20261022234435_70.JPG"
   },
   "https://www.bnext.com.tw/article/92779/chun-shui-tang-phoenix-arizona-tsmc-2027": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T14:19+08:00",
    "site_name": "數位時代 BusinessNext",
@@ -1705,35 +1841,38 @@
     "台北市": 4
    },
    "districts": [],
-   "body_chars": 854
+   "body_chars": 3811,
+   "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2026-10/cfxp-1792736197.jpg?w=900&output=webp"
   },
   "https://n.yam.com/Article/20261023299824": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T08:00+08:00",
    "site_name": "蕃新聞",
    "description": "記者李宥漮/新竹縣報導因應薔琵颱風可能帶來強風豪雨，新竹縣政府22日全面啟動防颱整備，針對易淹水路段",
    "cities": {
-    "新竹縣": 10
+    "新竹縣": 10,
+    "台北市": 1
    },
    "districts": [],
-   "body_chars": 245
+   "body_chars": 237,
+   "image": "https://ni.yam.com/20261023/202610231247080-4ae73d28e2b56744.webp"
   },
   "https://n.yam.com/Article/20261023238031": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T13:00+08:00",
    "site_name": "蕃新聞",
    "description": "雲門《十三聲》艋舺戶外公演延期至10/25演出照片取自臺北市政府 【聚傳媒特約記者陳欣如報導】原定於",
    "cities": {
-    "台北市": 4,
-    "新竹縣": 2
+    "台北市": 4
    },
    "districts": [],
-   "body_chars": 575
+   "body_chars": 566,
+   "image": "https://ni.yam.com/20261023/20261023120917271-706decc0ae159e0d.webp"
   },
   "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=013b4ed46323e6c043ac0aa4df63cfe5": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T10:02+08:00",
    "site_name": null,
@@ -1742,10 +1881,11 @@
     "新北市": 3
    },
    "districts": [],
-   "body_chars": 164
+   "body_chars": 164,
+   "image": "https://www.ntpc.gov.tw/uploaddowndoc?file=news/202610221002201.jpg&filedisplay=687411_0.jpg&flag=pic"
   },
   "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=fb94eedde1e0c548e2465939a21e412c": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T22:42+08:00",
    "site_name": null,
@@ -1754,10 +1894,11 @@
     "新北市": 3
    },
    "districts": [],
-   "body_chars": 123
+   "body_chars": 123,
+   "image": null
   },
   "https://n.yam.com/Article/20261023280605": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T16:16+08:00",
    "site_name": "蕃新聞",
@@ -1766,15 +1907,16 @@
     "基隆市": 7
    },
    "districts": [],
-   "body_chars": 1118
+   "body_chars": 1118,
+   "image": "https://ni.yam.com/20261023/IMG_0387-scaled-60193548824958ac.webp"
   },
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://n.yam.com/Article/20261023270625": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T21:45+08:00",
    "site_name": "蕃新聞",
@@ -1785,10 +1927,11 @@
     "雲林縣": 1
    },
    "districts": [],
-   "body_chars": 1736
+   "body_chars": 1728,
+   "image": "https://ni.yam.com/20261023/2026-10-23-temple-typhoon-event-changes-hero-v1-87397455ae70c4f8.webp"
   },
   "https://focusnews.com.tw/2026/10/727280/": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": "今傳媒 JNEWS",
@@ -1797,10 +1940,11 @@
    "districts": [
     "博愛商圈（桃園市）"
    ],
-   "body_chars": 272
+   "body_chars": 272,
+   "image": "https://focusnews.com.tw/wp-content/uploads/2024/05/512-512_1.jpg"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5615719": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T22:06+08:00",
    "site_name": "自由時報電子報",
@@ -1810,10 +1954,11 @@
     "台中市": 2
    },
    "districts": [],
-   "body_chars": 965
+   "body_chars": 965,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/22/5615719_1_1.jpg"
   },
   "https://www.ctwant.com/article/503449/": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T20:30+08:00",
    "site_name": "CTWANT",
@@ -1822,25 +1967,28 @@
     "台北市": 6
    },
    "districts": [],
-   "body_chars": 825
+   "body_chars": 825,
+   "image": "https://static.ctwant.com/images/cover/49/503449/lg-f919028965b70ff9c3b478830c9883ed.jpg"
   },
   "https://www.taiwannews.com.tw/zh/news/6464106": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": "7名候選人均親自出席　張國威抽中1號、陳玉珍5號　停班縣市改27日抽籤 | Oct. 23, 2026 12:12",
    "cities": {
     "金門縣": 9,
-    "新北市": 1,
-    "宜蘭縣": 1,
-    "花蓮縣": 1
+    "新北市": 2,
+    "桃園市": 1,
+    "台中市": 1,
+    "宜蘭縣": 1
    },
    "districts": [],
-   "body_chars": 1453
+   "body_chars": 1401,
+   "image": "https://image.taiwannews.com.tw/2026%2F10%2F23%2F0dab4511f7a84d2ba33f4dea6046e5a5.jpg"
   },
   "https://www.cna.com.tw/news/ahel/202610220426.aspx": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T22:05+08:00",
    "site_name": "中央社 CNA",
@@ -1848,13 +1996,15 @@
    "cities": {
     "桃園市": 8,
     "台北市": 3,
-    "新北市": 3
+    "新北市": 3,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 643
+   "body_chars": 661,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261022/1152x768_wmkn_0_C20261022000247.jpg"
   },
   "https://ent.ltn.com.tw/news/breakingnews/5615593": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T20:28+08:00",
    "site_name": "自由時報電子報",
@@ -1863,10 +2013,11 @@
     "台北市": 5
    },
    "districts": [],
-   "body_chars": 520
+   "body_chars": 520,
+   "image": "https://img.ltn.com.tw/Upload/ent/page/800/2026/10/22/5615593_1.jpg"
   },
   "https://life.tw/article/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E4%BE%86%E8%A5%B2-%E7%AB%B9%E7%B8%A3%E5%BA%9C%E5%85%A8%E9%9D%A2%E6%95%B4%E5%82%99%E9%98%B2%E7%81%BD%E6%87%89%E8%AE%8A-%E5%A4%9A%E9%A0%85%E6%B4%BB%E5%8B%95%E5%BB%B6%E6%9C%9F%E6%88%96%E5%8F%96%E6%B6%88-3190141": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T18:34+08:00",
    "site_name": "LIFE 生活網",
@@ -1875,10 +2026,11 @@
     "新竹縣": 48
    },
    "districts": [],
-   "body_chars": 2840
+   "body_chars": 2840,
+   "image": "https://twpowernews.com/Uploadfile/202610/994886ad9e6ffa57d5.jpg"
   },
   "https://news.pts.org.tw/article/832565": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T19:58+08:00",
    "site_name": "公視新聞網 PNN",
@@ -1891,10 +2043,11 @@
    "districts": [
     "鹿港老街商圈（彰化縣）"
    ],
-   "body_chars": 672
+   "body_chars": 672,
+   "image": "https://news-data.pts.org.tw/media/299382/conversions/6pb2LDVvOpe8ODomWjdp0l2w84lEXz27GIp4xZrP-og_jpg.jpg"
   },
   "https://www.cna.com.tw/news/ahel/202610220416.aspx": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T21:37+08:00",
    "site_name": "中央社 CNA",
@@ -1902,46 +2055,44 @@
    "cities": {
     "桃園市": 8,
     "台北市": 1,
-    "新北市": 1
+    "新北市": 1,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 742
+   "body_chars": 760,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261022/1250x768_wmkn_0_C20261022000246.jpg"
   },
   "https://tw.news.yahoo.com/%E9%87%91%E9%90%9861%E7%AF%80%E7%9B%AE%E9%A1%9E%E7%A2%BA%E5%AE%9A%E5%BB%B6%E6%9C%9F%E8%87%B325%E6%97%A5%EF%BC%81%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%94%AA%E5%B1%80-%E5%89%B5%E5%8F%B2%E4%B8%8A%E9%A0%AD%E4%B8%80%E9%81%AD-120126561.html": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T20:01+08:00",
    "site_name": "Yahoo News",
    "description": "第61屆金鐘獎節目類頒獎典禮原訂於10月23日登場，然而因強颱薔琵影響，台北市長蔣萬安於晚間8點宣布停班停課，節目類典禮確定延期至10月25日舉行，也成為金鐘史上第一次延期舉辦。至於戲劇類頒獎典禮，如常於10月24日舉辦。",
    "cities": {
-    "台北市": 12,
-    "高雄市": 3,
-    "苗栗縣": 2,
-    "嘉義市": 2,
-    "新北市": 1
+    "台北市": 8
    },
    "districts": [],
-   "body_chars": 3174
+   "body_chars": 2822,
+   "image": "https://s.yimg.com/lo/mysterio/api/bc3ecd1e8f55f8e30cd6a97420807427ead0f84390ba5a5a83db87428b6a1978/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F61_2145.jpg"
   },
   "https://www.ftnn.com.tw/news/589468": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T16:47+08:00",
    "site_name": "FTNN 新聞網",
    "description": "實習記者何宜蓁／綜合報導薔琵颱風雖然尚未正式登陸，但其外圍環流已讓台東沿岸捲起巨浪，導致周邊設施相繼傳出災情。座落於太麻里溪出海口附近的空軍香蘭靶場，今（22）日凌晨因地勢較低遭大浪倒灌，致使跑道前端部分區域出現積水現象。軍方對此說明，為因應颱風威脅，原本的演訓任務已提前調整為防災任務，人員與相關設...",
    "cities": {
     "台東縣": 4,
-    "台北市": 1,
-    "台中市": 1,
-    "高雄市": 1
+    "台北市": 1
    },
    "districts": [
     "太麻里商圈（台東縣）"
    ],
-   "body_chars": 1483
+   "body_chars": 1657,
+   "image": "https://i01.ftnn.com.tw/a/26/294/2629416402458636190028.png"
   },
   "https://www.hsnews.com.tw/tourism-and-cuisine/xian-fu-ti-xu-zhui-xing-xin-yuan-2026hua-lian-han-liu-yuan-sheng-yan-chang-hui-quan-li-xie-diao-ka-si-yan-qi-xiang-jian-2.html": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T22:50+08:00",
    "site_name": "花蓮最速報",
@@ -1952,10 +2103,11 @@
    "districts": [
     "花蓮市形象商圈（花蓮縣）"
    ],
-   "body_chars": 860
+   "body_chars": 860,
+   "image": "https://www.hsnews.com.tw/images/2026/10/22/img_2971_large.jpeg"
   },
   "https://www.ettoday.net/news/20261022/3259430.htm": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T19:18+08:00",
    "site_name": "ETtoday新聞雲",
@@ -1965,10 +2117,11 @@
     "高雄市": 2
    },
    "districts": [],
-   "body_chars": 994
+   "body_chars": 994,
+   "image": "https://cdn2.ettoday.net/images/6517/e6517884.jpg"
   },
   "https://news.videoland.com.tw/article/13d38057-450f-49ae-a089-9f0e97f16069.html": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T16:35+08:00",
    "site_name": "緯來新聞網",
@@ -1979,10 +2132,11 @@
    "districts": [
     "深坑老街商圈（新北市）"
    ],
-   "body_chars": 1419
+   "body_chars": 1419,
+   "image": "https://news.videoland.com.tw/newsphoto/enews_202610225993_1D32D4.webp"
   },
   "https://money.udn.com/money/story/122328/9830921": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T13:15+08:00",
    "site_name": "經濟日報",
@@ -1991,53 +2145,57 @@
     "新竹縣": 15
    },
    "districts": [],
-   "body_chars": 1332
+   "body_chars": 1334,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/22/35444915.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
   },
   "https://udn.com/news/story/7325/9831214": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T14:40+08:00",
    "site_name": "聯合新聞網",
    "description": "受強烈颱風「薔琵」外圍環流與東北季風雙重影響，彰化沿海出現10級強陣風，鹿港老街一處古厝磚牆疑遭強風吹襲倒塌，紅磚掉落，所幸未造成人員受傷。明天原訂舉行年底地方公職人員選舉候選人號次抽籤，彰化縣選委會說，若縣府宣布停班停課，抽籤將延期，統一於27日補辦。",
    "cities": {
-    "彰化縣": 14,
-    "台中市": 3,
-    "台北市": 1,
-    "苗栗縣": 1,
-    "南投縣": 1
+    "彰化縣": 11,
+    "台中市": 6,
+    "南投縣": 1,
+    "新竹縣": 1
    },
    "districts": [
     "鹿港老街商圈（彰化縣）"
    ],
-   "body_chars": 1414
+   "body_chars": 1465,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/22/35445327.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600"
   },
   "https://www.upmedia.mg/tw/lifestyle/policy/272092": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T14:10+08:00",
    "site_name": "上報",
    "description": "雲林縣沿海地區地勢低窪，口湖鄉居民長年飽受積淹水困擾，立法委員張嘉郡、丁學忠前年向經濟部成功爭取3.9億元治水經費，推動「口湖鄉新港大排二抽水站...",
    "cities": {
     "雲林縣": 5,
-    "新北市": 2
+    "新北市": 2,
+    "台中市": 1
    },
    "districts": [],
-   "body_chars": 698
+   "body_chars": 679,
+   "image": "https://cdn.upmedia.mg/upfile/img/2026/1022/202610221440388101.webp"
   },
   "https://www.msn.com/zh-tw/money/topstories/%E5%95%86%E5%9C%88%E7%81%AB%E7%88%86-%E5%8F%B0%E4%B8%AD-%E5%A4%A9%E5%83%B9%E5%9C%B0%E7%8E%8B-%E9%A0%BB%E5%87%BA%E7%8F%BE-%E5%8D%80%E6%AE%B5%E6%9B%9D%E5%85%89/ar-AA2fNIoG": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": null,
    "cities": {},
    "districts": [],
-   "body_chars": 1
+   "body_chars": 1,
+   "image": null
   },
   "https://www.taisounds.com/news/content/71/295518": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
-   "published_at": null,
+   "published_at": "2026-10-22T10:34+08:00",
    "site_name": "太報 TaiSounds",
    "description": "台北市長蔣萬安近日拋出遷移松山機場打造「AI園區」政策，並多次在專訪中談到園區面積達300公頃。民進黨台北市議員何孟樺昨（21日）在議會質詢蔣萬安時提問，目前松機僅213公頃，與蔣宣稱的300公頃落差甚大，她實際依市府納入周邊區域的圖面試算，也還少40公頃，才發現若要劃出300公頃恐將延伸到部分民生社區、濱江街汽車商圈",
    "cities": {
@@ -2046,49 +2204,52 @@
    "districts": [
     "民生社區商圈（台北市）"
    ],
-   "body_chars": 220
+   "body_chars": 216,
+   "image": "https://cdn.taisounds.com/newsimages/img/2026/1022/44790ae5b76a45e4808f04048d05ba16.jpg"
   },
   "https://www.msn.com/zh-tw/news/other/%E6%9C%80%E6%96%B0-%E9%A2%B1%E9%A2%A8%E5%88%A5%E6%B7%B9%E6%B0%B4-%E5%9F%BA%E9%9A%86%E8%A5%BF%E5%AE%9A%E8%B7%AF%E5%BA%97%E5%AE%B6-%E6%8F%90%E6%97%A9%E6%89%93%E7%83%8A-newsebc/vi-AA2fO8QM": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": null,
    "cities": {},
    "districts": [],
-   "body_chars": 1
+   "body_chars": 1,
+   "image": null
   },
   "https://www.msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%80%BC%E8%BF%91-%E5%BD%B0%E5%8C%96%E6%B2%BF%E6%B5%B7%E7%8B%82%E5%88%AE10%E7%B4%9A%E5%BC%B7%E9%A2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97-%E8%80%81%E7%89%86%E5%9D%8D%E5%A1%8C-%E6%85%98%E6%B3%81%E6%9B%9D%E5%85%89/ar-AA2fMCyP": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": null,
    "cities": {},
    "districts": [],
-   "body_chars": 1
+   "body_chars": 1,
+   "image": null
   },
   "https://tw.news.yahoo.com/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E6%94%AA%E5%B1%80-%E9%9F%93%E6%B5%81%E5%8E%9F%E8%81%B2-%E6%BC%94%E5%94%B1%E6%9C%83%E5%AE%A3%E5%B8%83%E5%BB%B6%E6%9C%9F-%E5%8D%A1%E5%8F%B8%E6%BC%94%E5%87%BA%E9%A0%86%E5%BA%8F%E6%9B%9D-122100984.html": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T20:21+08:00",
    "site_name": "Yahoo News",
    "description": "薔琵颱風攪局！「韓流原聲」演唱會宣布延期 卡司演出順序曝",
    "cities": {
-    "台北市": 8,
+    "新竹市": 8,
+    "台北市": 7,
     "花蓮縣": 6,
-    "高雄市": 3,
-    "台南市": 2,
-    "台東縣": 1
+    "台南市": 3,
+    "台中市": 2
    },
    "districts": [
-    "深坑老街商圈（新北市）",
     "花蓮市形象商圈（花蓮縣）"
    ],
-   "body_chars": 3190
+   "body_chars": 3085,
+   "image": "https://s.yimg.com/lo/mysterio/api/61661399a53e1cebf2331734be2452e117d9d1a0b67c595ba812661935be4768/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Febc_star_440%2F755a3952b1ca05911053e56991f4f553.jpg"
   },
   "https://www.ettoday.net/news/20261022/3259425.htm": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T21:12+08:00",
    "site_name": "ETtoday新聞雲",
@@ -2099,10 +2260,11 @@
     "高雄市": 2
    },
    "districts": [],
-   "body_chars": 1548
+   "body_chars": 1548,
+   "image": "https://cdn2.ettoday.net/images/8979/e8979365.jpg"
   },
   "https://news.ltn.com.tw/news/Changhua/breakingnews/5614750": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T11:52+08:00",
    "site_name": "自由時報電子報",
@@ -2114,10 +2276,11 @@
    "districts": [
     "鹿港老街商圈（彰化縣）"
    ],
-   "body_chars": 677
+   "body_chars": 677,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/22/5614750_1_1.jpg"
   },
   "https://newtalk.tw/plan/view/1195": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T11:35+08:00",
    "site_name": "Newtalk新聞",
@@ -2128,10 +2291,11 @@
    "districts": [
     "哈瑪星商圈（高雄市）"
    ],
-   "body_chars": 609
+   "body_chars": 609,
+   "image": "https://images.newtalk.tw/resize_action2/1200/album/project/2/6ad984ce35c6c.jpg"
   },
   "https://money.udn.com/money/story/11799/9831619": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T17:15+08:00",
    "site_name": "經濟日報",
@@ -2140,10 +2304,11 @@
     "新竹": 14
    },
    "districts": [],
-   "body_chars": 1663
+   "body_chars": 1665,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/22/35446026.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=806&sl=W&fw=1050&exp=3600"
   },
   "https://www.ctee.com.tw/news/20261022702089-431401": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T17:15+08:00",
    "site_name": "中時即時",
@@ -2154,10 +2319,11 @@
    "districts": [
     "鹿港老街商圈（彰化縣）"
    ],
-   "body_chars": 539
+   "body_chars": 539,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-10-22/1024/20261022702090.jpg"
   },
   "https://www.hsnews.com.tw/tourism-and-cuisine/hua-lian-shi-bai-nian-lao-jie-shang-quan-bai-nian-zhen-xing-chao-gei-li-re-nao-deng-chang-ji-dian-chang-bao-qu2-0xiao-fei-man-bai-ji-dian-chou-da-jiang-265fen-niu-dan-hao-li-yao-min-zhong-yi-qi-huo-luo-zai-de-shang-quan.html": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T11:02+08:00",
    "site_name": "花蓮最速報",
@@ -2171,30 +2337,32 @@
     "花蓮市 百年老街商圈（花蓮縣）",
     "花蓮市形象商圈（花蓮縣）"
    ],
-   "body_chars": 1160
+   "body_chars": 1160,
+   "image": "https://hsnews.com.tw/images/2026/10/22/img_1179_large.jpeg"
   },
   "https://n.yam.com/Article/20261022497176": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T09:20+08:00",
    "site_name": "蕃新聞",
    "description": "九合一選舉將於11/28投票。示意圖：截自freepik九合一選舉預計明(23)日進行候選人號次抽籤",
    "cities": {
     "桃園市": 8,
-    "花蓮縣": 3
+    "新北市": 1
    },
    "districts": [],
-   "body_chars": 639
+   "body_chars": 640,
+   "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2026/08/804343.jpg?fit=1000%2C667&ssl=1"
   },
   "https://n.yam.com/Article/20261022126783": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T17:58+08:00",
    "site_name": "蕃新聞",
    "description": "（媒角抵加／林承志綜合報導）薔琵颱風影響台灣10月下旬活動，成功嶺營區開放改至10月31日，清境火把",
    "cities": {
     "台北市": 10,
-    "宜蘭縣": 8,
+    "宜蘭縣": 6,
     "台南市": 5,
     "基隆市": 5,
     "苗栗縣": 5
@@ -2203,10 +2371,11 @@
     "天母商圈（台北市）",
     "中央公園商圈（高雄市）"
    ],
-   "body_chars": 3681
+   "body_chars": 3697,
+   "image": "https://ni.yam.com/20261022/mjd-champi-event-cancellations-20261022-cb66f8b2-featured-c43be1250524c815-5fe0ffe1afa224e0.webp"
   },
   "https://mknews.com.tw/2026/10/1008027/": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T18:45+08:00",
    "site_name": "天天上新聞",
@@ -2215,10 +2384,11 @@
     "新竹縣": 38
    },
    "districts": [],
-   "body_chars": 2185
+   "body_chars": 2185,
+   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg"
   },
   "https://www.ettoday.net/news/20261022/3259040.htm": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T11:32+08:00",
    "site_name": "ETtoday新聞雲",
@@ -2233,10 +2403,11 @@
    "districts": [
     "鹿港老街商圈（彰化縣）"
    ],
-   "body_chars": 737
+   "body_chars": 737,
+   "image": "https://cdn2.ettoday.net/images/8978/e8978433.jpg"
   },
   "https://www.mirrormedia.mg/external/setn_1926638": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T13:06+08:00",
    "site_name": "鏡週刊 Mirror Media",
@@ -2249,10 +2420,11 @@
    "districts": [
     "鹿港老街商圈（彰化縣）"
    ],
-   "body_chars": 959
+   "body_chars": 959,
+   "image": "https://attach.setn.com/newsimages/2026/10/22/5758360-PH.jpg"
   },
   "https://www.contentplatform.info/articles/545316/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E4%BE%86%E8%A5%B2%E6%96%B0%E7%AB%B9%E7%B8%A3%E5%BA%9C%E5%85%A8%E9%9D%A2%E6%95%B4%E5%82%99%E3%80%80%E5%A4%9A%E9%A0%85%E6%B4%BB%E5%8B%95%E5%BB%B6%E6%9C%9F%E6%88%96/": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T06:33+08:00",
    "site_name": null,
@@ -2261,19 +2433,21 @@
     "新竹縣": 23
    },
    "districts": [],
-   "body_chars": 2113
+   "body_chars": 2113,
+   "image": null
   },
   "https://www.klcg.gov.tw/tw/klcg1/3168-323830.html": {
-   "checked_at": "2026-10-24T13:14+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T18:02+08:00",
    "site_name": null,
    "description": "市政新聞",
    "cities": {
-    "基隆市": 5
+    "基隆市": 1
    },
    "districts": [],
-   "body_chars": 638
+   "body_chars": 112,
+   "image": "https://www.klcg.gov.tw/wSite/public/Attachment/01603/f1783495666019.jpg"
   },
   "https://sunmedia.tw/news/technology/creammmt首度進駐台北！-108中山門市正式開幕，期間限定「五種檸檬塔」同步登場-1792412274029": {
    "checked_at": "2026-10-25T16:50+08:00",
@@ -2281,23 +2455,23 @@
    "error": "'ascii' codec can't encode characters in position 29-35: ordinal not in range(128)"
   },
   "https://n.yam.com/Article/20261021552143": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-21T06:08+08:00",
    "site_name": "蕃新聞",
    "description": "CNEWS匯流新聞網記者徐德芬／彰化報導彰化市永樂商圈已沒落多年，為振興商圈，彰化市公所今年7月啟動",
    "cities": {
-    "彰化縣": 9,
-    "台中市": 1
+    "彰化縣": 9
    },
    "districts": [
     "永樂商圈（台北市）",
     "永樂商圈（彰化縣）"
    ],
-   "body_chars": 1402
+   "body_chars": 1393,
+   "image": "https://ni.yam.com/20261021/2026-10-21_13-03-28_232674-2e85714d6a08ee78.webp"
   },
   "https://money.udn.com/money/story/5635/9824781": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-19T20:25+08:00",
    "site_name": "經濟日報",
@@ -2309,10 +2483,11 @@
    "districts": [
     "中山商圈（台北市）"
    ],
-   "body_chars": 1417
+   "body_chars": 1419,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35435847.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=859&sl=W&fw=1050&exp=3600"
   },
   "https://health.udn.com/health/story/5999/9828425": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-21T12:54+08:00",
    "site_name": "元氣網-解決你的健康大小事｜元氣網",
@@ -2324,26 +2499,26 @@
    "districts": [
     "西門町商圈（台北市）"
    ],
-   "body_chars": 2467
+   "body_chars": 2401,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=/photo/t3/2026/10/21/35441216.jpg&M=1&x=1&y=74&sw=1279&sh=852&s=Y&w=1200&h=800&exp=3600"
   },
   "https://news.nextapple.com/tag/%E6%9B%B9%E7%A5%90%E5%AF%A7/9abcda5e5c90c653d75cb5e26ee0f22f": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-21T14:06+08:00",
    "site_name": "壹蘋新聞網",
    "description": "《壹蘋新聞網》收錄與曹祐寧相關的新聞、專題與深度內容。掌握曹祐寧的最新動態、人物故事、影音報導與網路熱門討論，一次看懂完整話題，立即掌握最新動態！",
    "cities": {
-    "台北市": 9,
-    "花蓮縣": 2,
-    "高雄市": 1
+    "台北市": 13
    },
    "districts": [
     "大直商圈（台北市）"
    ],
-   "body_chars": 2081
+   "body_chars": 2243,
+   "image": "https://static.nextapple.tw/web/layout/img/index.jpg"
   },
   "https://news.ebc.net.tw/news/society/576272": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-18T16:45+08:00",
    "site_name": "東森新聞",
@@ -2354,46 +2529,47 @@
    "districts": [
     "東區商圈（台北市）"
    ],
-   "body_chars": 581
+   "body_chars": 581,
+   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/18/1792314673_98701.jpg"
   },
   "https://tw.news.yahoo.com/%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96%E9%A0%BB%E5%82%B3%E6%83%B9%E6%B0%91%E6%80%A8-%E7%B8%A3%E8%AD%B0%E5%93%A1%E6%8F%AD5%E5%A4%A7%E7%BC%BA%E5%A4%B1-082339976.html": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-21T16:23+08:00",
    "site_name": "Yahoo News",
    "description": "彰化市公所正執行「永樂商圈」道路改善工程，民眾跌落水溝、瓦斯外洩、大停電等工安意外頻傳。縣議員温芝樺受理陳情實地勘查後，揭露：工程兩面開挖、臨時通道安全堪慮、缺乏型鋼護欄、鋼筋未設防護套及管線工程沒整",
    "cities": {
-    "台北市": 8,
+    "台北市": 14,
+    "新竹市": 8,
     "彰化縣": 5,
     "台中市": 4,
-    "台東縣": 3,
-    "花蓮縣": 2
+    "花蓮縣": 3
    },
    "districts": [
     "永樂商圈（台北市）",
     "永樂商圈（彰化縣）"
    ],
-   "body_chars": 3851
+   "body_chars": 3711,
+   "image": "https://s.yimg.com/lo/mysterio/api/af19518caceb5e5ee1b224ca2fe3753fd9b8d19ead0ce7a587be437dabd3554b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fbcc.com.tw%2F25119af9e1e57f603c145e3865591d3f.jpg"
   },
   "https://www.setn.com/news/1924137": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-18T01:43+08:00",
    "site_name": "三立新聞網",
    "description": "民進黨台北市長參選人沈伯洋談條通商圈時建議，可用樹木、車架阻隔，給民眾安全感。市長蔣萬安今天說，應了解實際狀況，因條通路不寬，若加上阻隔或車架可能造成民眾不便。",
    "cities": {
     "台北市": 2,
-    "新北市": 2,
-    "高雄市": 2,
     "桃園市": 1
    },
    "districts": [
     "條通商圈（台北市）"
    ],
-   "body_chars": 1360
+   "body_chars": 1358,
+   "image": "https://attach.setn.com/newsimages/2026/10/17/5752405-PH.jpg"
   },
   "https://www.mnews.tw/story/20261018sot1231001": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-18T12:31+08:00",
    "site_name": "鏡新聞",
@@ -2402,55 +2578,58 @@
    "districts": [
     "東區商圈（台北市）"
    ],
-   "body_chars": 967
+   "body_chars": 967,
+   "image": "https://statics.mnews.tw/images/d9e5bf73-9b95-46d7-8591-29597d25d00b-w1600.jpg"
   },
   "https://tw.news.yahoo.com/%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E7%88%86%E5%85%A8%E6%AD%A6%E8%A1%8C-%E9%98%BF%E4%BC%AF%E6%BF%80%E9%AC%A5%E6%83%85%E4%BE%B6%E6%AA%94%E9%81%AD%E5%A3%93%E5%88%B6-%E9%8F%A1%E6%96%B0%E8%81%9E-102322018.html": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-18T18:23+08:00",
    "site_name": "Yahoo News",
    "description": "這個脾氣是吃了炸藥嗎？北市東區商圈10/17發生離譜的糾紛，一名阿伯和一對情侶對到眼後，覺得自己被挑釁，於是拿起手中的飲料杯砸人，雙方也因此直接在大馬路上大打出手，讓目擊的民眾嚇到趕快報警。",
    "cities": {
-    "台北市": 10,
+    "台北市": 11,
     "台中市": 2,
-    "新北市": 1
+    "高雄市": 2,
+    "新竹": 1
    },
    "districts": [
     "東區商圈（台北市）"
    ],
-   "body_chars": 3287
+   "body_chars": 2943,
+   "image": "https://s.yimg.com/lo/mysterio/api/651395c95bd319e5a651092211ba50d8e991f045bce79c5742e12651f7861f41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmnews_tw_258%2F2cb0834221cb616c81efe5350ce5a2bb"
   },
   "https://travel.ettoday.net/article/3256745.htm": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T10:00+08:00",
    "site_name": "ETtoday旅遊雲",
    "description": "台北市中山區晴光商圈附近，有間從2021年起，連續六年獲得「台灣米其林指南」推薦的法式餐廳「CEO1950總裁藝文空間」，是我今年吃過評分最高的捷運中山國小站約會餐廳與聚餐餐廳。",
    "cities": {
-    "台北市": 10,
-    "台中市": 1,
-    "高雄市": 1,
-    "基隆市": 1,
+    "台北市": 9,
+    "桃園市": 1,
+    "台南市": 1,
     "苗栗縣": 1
    },
    "districts": [
-    "晴光商圈（台北市）",
-    "永康商圈（台北市）"
+    "晴光商圈（台北市）"
    ],
-   "body_chars": 2557
+   "body_chars": 2557,
+   "image": "https://cdn2.ettoday.net/images/8973/e8973075.jpg"
   },
   "https://www.msn.com/zh-tw/news/other/%E9%87%91%E9%90%9861-%E5%BC%B7%E9%A2%B1%E8%96%94%E7%90%B5%E6%94%AA%E5%B1%80-%E6%B4%AA%E9%83%BD%E6%8B%89%E6%96%AF%E6%9B%9D-7%E5%B9%B4%E5%89%8D%E7%8F%8D%E8%B2%B4%E7%95%AB%E9%9D%A2-%E5%BB%B6%E6%9C%9F%E6%83%85%E7%B7%92%E6%9B%B4%E5%A4%9A%E4%BA%86/ar-AA2fXBdq": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
    "description": null,
    "cities": {},
    "districts": [],
-   "body_chars": 1
+   "body_chars": 1,
+   "image": null
   },
   "https://news.tvbs.com.tw/entertainment/music/4040624": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T13:06+08:00",
    "site_name": "TVBS新聞網",
@@ -2463,10 +2642,11 @@
     "花蓮縣": 1
    },
    "districts": [],
-   "body_chars": 3270
+   "body_chars": 3268,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a16c4b-5056-70cb-bc6a-64890df0a0d5.jpg?t=16x9&c=0,21,800,471&w=1200&h=675"
   },
   "https://ctinews.com/news/items/8knJqByvxo": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-19T15:46+08:00",
    "site_name": "中天新聞網",
@@ -2477,37 +2657,40 @@
    "districts": [
     "條通商圈（台北市）"
    ],
-   "body_chars": 1344
+   "body_chars": 1344,
+   "image": null
   },
   "https://n.yam.com/Article/20261017471198": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-17T14:39+08:00",
    "site_name": "蕃新聞",
    "description": "報新聞/編輯部「2026榮町商圈和洋嘉年華」於10月16日在臺灣省城隍廟前廣場及周邊活動街區熱鬧登場",
    "cities": {
     "台北市": 5,
-    "花蓮縣": 3
+    "新北市": 1
    },
    "districts": [
     "榮町商圈（台北市）"
    ],
-   "body_chars": 1451
+   "body_chars": 1452,
+   "image": "https://ni.yam.com/20261017/taipei-cover-261017053235434-16c580b262c46494.webp"
   },
   "https://www.cna.com.tw/news/aloc/202610240075.aspx": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:43+08:00",
    "site_name": "中央社 CNA",
    "description": "颱風薔琵過境，台電統計，截至今天中午12時，台南市逾3萬戶人家一度停電，目前尚有881戶停電，全力搶修中，希望今晚全數恢復供電。",
    "cities": {
-    "台南市": 7
+    "台南市": 8
    },
    "districts": [],
-   "body_chars": 598
+   "body_chars": 612,
+   "image": "https://imgcdn.cna.com.tw/www/webphotos/WebCover/800/20261024/1019x764_496324164809.jpg"
   },
   "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=648340": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": "青年日報",
@@ -2518,10 +2701,11 @@
    "districts": [
     "晴光商圈（台北市）"
    ],
-   "body_chars": 532
+   "body_chars": 532,
+   "image": "https://www.ydn.com.tw/api/ugc_imagehandler.ashx?NFID=1062072"
   },
   "https://ctinews.com/news/items/KwnKLbK1WY": {
-   "checked_at": "2026-10-24T13:43+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-17T17:39+08:00",
    "site_name": "中天新聞網",
@@ -2532,10 +2716,11 @@
    "districts": [
     "條通商圈（台北市）"
    ],
-   "body_chars": 846
+   "body_chars": 846,
+   "image": null
   },
   "https://www.chinatimes.com/realtimenews/20261022005029-260407": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T23:08+08:00",
    "site_name": "中時新聞網",
@@ -2546,90 +2731,100 @@
    "districts": [
     "三多商圈（高雄市）"
    ],
-   "body_chars": 1058
+   "body_chars": 1058,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-22/656/20261022005030.jpg"
   },
   "https://n.yam.com/Article/20261021588278": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-21T18:22+08:00",
    "site_name": "蕃新聞",
    "description": "記者張辰卿/台北報導繽紛燈車走進街區，蘭雅商圈熱鬧迎萬神節！由台北市蘭雅商圈市場發展協會主辦、臺北市",
    "cities": {
     "台北市": 8,
-    "台中市": 1
+    "新北市": 1
    },
    "districts": [
     "蘭雅商圈（台北市）"
    ],
-   "body_chars": 1062
+   "body_chars": 1063,
+   "image": "https://ni.yam.com/20261021/rAlXPSIGIysSUJg8pgZs-ea71784c2cd49831.webp"
   },
   "https://n.yam.com/Article/20261023816049": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T15:15+08:00",
    "site_name": "蕃新聞",
    "description": "【今傳媒/記者李祖東報導】位於博愛商圈一處廣告帆布，因不堪強風吹襲鬆脫於空中飄逸，工務局即時派員巡查",
-   "cities": {},
+   "cities": {
+    "雲林縣": 1
+   },
    "districts": [
     "博愛商圈（桃園市）"
    ],
-   "body_chars": 332
+   "body_chars": 333,
+   "image": "https://ni.yam.com/20261023/1792739318594-dc8d8b71d715d801.webp"
   },
   "https://n.yam.com/Article/20261022145940": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T19:46+08:00",
    "site_name": "蕃新聞",
    "description": "【互傳媒／記者 蘇彩娥／桃園 報導】為推廣在地文化、活絡地方商機，桃園市八德區八塊厝形象商圈10月1",
    "cities": {
     "連江縣": 8,
-    "桃園市": 4,
-    "台中市": 1
+    "桃園市": 4
    },
    "districts": [
     "八塊厝形象商圈（桃園市）"
    ],
-   "body_chars": 1421
+   "body_chars": 1418,
+   "image": "https://ni.yam.com/20261022/2e8b708d5cfdd7026121c19db6c81aae-19392e1f0c77f60c.webp"
   },
   "https://tw.news.yahoo.com/%E6%96%B0%E5%A0%80%E6%B1%9F-%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E4%BA%BA%E6%BD%AE%E9%83%BD%E9%8A%B3%E6%B8%9B-%E6%B6%88%E8%B2%BB%E9%87%8D%E5%BF%83%E5%8C%97%E7%A7%BB-%E5%8D%97%E9%AB%98%E9%9B%84%E5%95%86%E5%9C%88%E8%8B%A6%E6%92%90-220638610.html": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T06:06+08:00",
    "site_name": "Yahoo News",
    "description": "近年高雄消費重心北移及大型複合式商場興起，除新堀江商圈沒落外，同樣有捷運紅線經過的三多商圈也有沒落難題，商圈內具代表性的百貨公司業績明顯下滑，逛街人潮銳減，明顯比以前沒落。",
    "cities": {
     "高雄市": 10,
-    "台北市": 6
+    "台北市": 8,
+    "新竹市": 8,
+    "台南市": 3,
+    "新北市": 1
    },
    "districts": [
     "新堀江商圈（高雄市）",
     "中央公園商圈（高雄市）",
     "三多商圈（高雄市）"
    ],
-   "body_chars": 3672
+   "body_chars": 3107,
+   "image": "https://s.yimg.com/lo/mysterio/api/f37e72ba6ad0d8d0bcfe319abef6bcafb675b86f3956bc6c69569519bf6a9634/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fudn.com%2Fbe60501b9c3331826a097388d62481f6.jpg"
   },
   "https://news.nextapple.com/life/20261022/E3838BA38868EA4690342B349BDA2C5C": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-22T13:14+08:00",
    "site_name": "壹蘋新聞網",
    "description": "台中市今年第二波物調券將於本月30日登場，經發局為推動特色市集行銷，將於31日上午在谷關溫泉舉辦「物調券x烤大豬」活動，邀請民眾走進谷關領物調券吃美食、逛市集、抽好禮，感受山城獨特魅力。",
    "cities": {
+    "台北市": 10,
     "台中市": 9,
-    "新竹": 8,
-    "花蓮縣": 6,
-    "台北市": 4,
-    "桃園市": 4
+    "新竹市": 5,
+    "桃園市": 4,
+    "花蓮縣": 4
    },
    "districts": [
     "新竹市北區形象商圈（新竹市）",
     "自由路商圈（台中市）",
     "小琉球商圈（屏東縣）"
    ],
-   "body_chars": 3107
+   "body_chars": 3252,
+   "image": "https://static-cdn.nextapple.tw/prod/2026-10/E3838BA38868EA4690342B349BDA2C5C/dd44d314f914b8ef63ace833e70e88b1_1280.jpeg"
   },
   "https://truemii.chinatimes.com/content/20261023000013-265001": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-23T05:30+08:00",
    "site_name": "瘋台灣 - 觸mii",
@@ -2644,10 +2839,11 @@
     "天母商圈（台北市）",
     "海安商圈（台南市）"
    ],
-   "body_chars": 1855
+   "body_chars": 1855,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-22/1024/20261022003836.jpg"
   },
   "https://www.chinatimes.com/newspapers/20261021000312-260210": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-21T04:10+08:00",
    "site_name": "中時新聞網",
@@ -2656,10 +2852,11 @@
    "districts": [
     "天母商圈（台北市）"
    ],
-   "body_chars": 807
+   "body_chars": 807,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-21/CLIPPING/656/A15A00_T_03_02.jpg"
   },
   "https://mknews.com.tw/2026/10/1008494/": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-24T08:10+08:00",
    "site_name": "天天上新聞",
@@ -2670,25 +2867,30 @@
    "districts": [
     "博愛商圈（桃園市）"
    ],
-   "body_chars": 236
+   "body_chars": 236,
+   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg"
   },
   "https://tw.news.yahoo.com/%E9%9B%86%E9%9B%86%E6%94%AF%E7%B7%9A%E9%80%9A%E8%BB%8A%E5%B8%B6%E6%97%BA%E5%B0%8F%E9%8E%AE%E8%A7%80%E5%85%89-%E6%97%85%E5%AE%A2-%E9%81%8E%E7%AB%99%E4%B8%8D%E5%85%A5-%E6%B0%B4%E9%87%8C%E5%95%86%E5%9C%88%E4%BB%8D%E5%86%B7%E6%B8%85-084219827.html": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-21T16:42+08:00",
    "site_name": "Yahoo News",
    "description": "台鐵集集支線今年6月底全線恢復通車後，帶動集集站及終點車埕站的人潮，但位於兩者之間的水里站，卻未能受惠。滿心期待火車復駛帶回商機的水里市區居民，眼看旅客直奔車埕，市區商機仍未見起色，有說不出的委屈。地方商圈創生協會也積極尋求突破，將進駐車站、串聯在地業者引入人流。",
    "cities": {
-    "台北市": 9,
-    "台南市": 1
+    "台北市": 12,
+    "新竹市": 8,
+    "台中市": 2,
+    "台南市": 2,
+    "新北市": 1
    },
    "districts": [
     "水里商圈（南投縣）"
    ],
-   "body_chars": 3643
+   "body_chars": 3610,
+   "image": "https://s.yimg.com/lo/mysterio/api/24a92495ab38eb4456c5563e299fe7acaec014dad656fd32a199ea12450c05bf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fchinatimes.com.tw%2Fcc30e24ab64cb85800cb386c4714df32.jpg"
   },
   "https://www.storm.mg/article/11174480": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-21T15:15+08:00",
    "site_name": null,
@@ -2699,10 +2901,11 @@
    "districts": [
     "自由路商圈（台中市）"
    ],
-   "body_chars": 1232
+   "body_chars": 1232,
+   "image": "https://images.storm.mg/cloud/b53bb7857e4d92c5883fa22fcb5459a60325514b.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2237220%2FzNSbuZKHRJrdVFIs7KQKulSBCLDqupojaCIoEurb.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
   },
   "https://news.pchome.com.tw/travel/thehubnews/20261021/index-79257816474758306009.html": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-21T18:22+08:00",
    "site_name": "PChome Online 新聞",
@@ -2717,25 +2920,13 @@
    "districts": [
     "蘭雅商圈（台北市）"
    ],
-   "body_chars": 1222
+   "body_chars": 1222,
+   "image": "https://news.pchome.com.tw/newsdata/travel/thehubnews/20261021/79257816474758306009_original.jpg"
   },
   "https://n.yam.com/Article/20261021423424": {
-   "checked_at": "2026-10-24T13:44+08:00",
-   "status": 200,
-   "published_at": "2026-10-21T03:25+08:00",
-   "site_name": "蕃新聞",
-   "description": "百貨週年慶搭上萬聖節消費潮，各項慶祝活動熱鬧滾滾。新光三越天母店於10月22日啟動週慶活動，",
-   "cities": {
-    "台北市": 5,
-    "台中市": 2,
-    "高雄市": 2,
-    "桃園市": 1,
-    "台南市": 1
-   },
-   "districts": [
-    "天母商圈（台北市）"
-   ],
-   "body_chars": 2166
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 429,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   "https://www.cdns.com.tw/articles/1478303": {
    "checked_at": "2026-10-25T16:50+08:00",
@@ -2743,7 +2934,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.ctwant.com/article/503272/": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-21T16:53+08:00",
    "site_name": "CTWANT",
@@ -2754,10 +2945,11 @@
    "districts": [
     "自由路商圈（台中市）"
    ],
-   "body_chars": 1196
+   "body_chars": 1196,
+   "image": "https://static.ctwant.com/images/cover/72/503272/lg-19b8b5d0c2b28fab7b1609aedccfb405.jpg"
   },
   "https://www.thehubnews.net/archives/676734": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-20T14:55+08:00",
    "site_name": "新頭條-TheHubNews",
@@ -2768,10 +2960,11 @@
    "districts": [
     "鹿港廟口商圈（彰化縣）"
    ],
-   "body_chars": 1166
+   "body_chars": 1166,
+   "image": "https://www.thehubnews.net/wp-content/uploads/2026/10/3317b80dd91c6b5e61982ee63e34e60a.jpg"
   },
   "https://www.ettoday.net/news/20261021/3258340.htm": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-21T11:05+08:00",
    "site_name": "ETtoday新聞雲",
@@ -2783,12 +2976,13 @@
    "districts": [
     "天母商圈（台北市）"
    ],
-   "body_chars": 1464
+   "body_chars": 1464,
+   "image": "https://cdn2.ettoday.net/images/8976/e8976819.jpg"
   },
   "https://news.ebc.net.tw/search/tags/%E5%AE%9A%E9%A3%9F/": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
-   "published_at": "2026-10-24T13:13+08:00",
+   "published_at": "2026-10-25T22:01+08:00",
    "site_name": "東森新聞",
    "description": "「肥」來了！名店「肥前屋」回歸 鰻魚飯調漲50-100元、就住「定食8」對面！ 住戶苦：整扇窗被炸到消失、板橋府中商圈「定食8」氣爆 整層炸爛！6人砸傷。Tags：肥前屋、鰻魚飯、試營運、漲價、定食、氣爆、玻璃、爭鮮、定食8、板橋、新北、府中",
    "cities": {
@@ -2797,10 +2991,11 @@
    "districts": [
     "板橋府中商圈（新北市）"
    ],
-   "body_chars": 132
+   "body_chars": 132,
+   "image": "https://news.ebc.net.tw/img/ebc_news.jpg"
   },
   "https://news.pchome.com.tw/living/thehubnews/20261020/index-79247934231287306009.html": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-20T14:55+08:00",
    "site_name": "PChome Online 新聞",
@@ -2811,10 +3006,11 @@
    "districts": [
     "鹿港廟口商圈（彰化縣）"
    ],
-   "body_chars": 1383
+   "body_chars": 1383,
+   "image": "https://news.pchome.com.tw/newsdata/living/thehubnews/20261020/79247934231287306009_original.jpg"
   },
   "https://news.ebc.net.tw/news/society/576551": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": "2026-10-19T18:50+08:00",
    "site_name": "東森新聞",
@@ -2827,10 +3023,11 @@
    "districts": [
     "中原商圈（桃園市）"
    ],
-   "body_chars": 415
+   "body_chars": 415,
+   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/19/1792436888_20910.jpg"
   },
   "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6336970001": {
-   "checked_at": "2026-10-24T13:44+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -2841,7 +3038,8 @@
    "districts": [
     "天母商圈（台北市）"
    ],
-   "body_chars": 845
+   "body_chars": 845,
+   "image": "https://ww2.money-link.com.tw/images/news/4/9.jpg"
   },
   "https://www.mirrormedia.mg/story/20261020hea03": {
    "checked_at": "2026-10-24T13:44+08:00",
@@ -4465,7 +4663,7 @@
    "body_chars": 3694
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-10-25T10:08+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4641,7 +4839,7 @@
    "body_chars": 682
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-10-25T12:58+08:00",
+   "checked_at": "2026-10-25T22:48+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4738,6 +4936,574 @@
    },
    "districts": [],
    "body_chars": 798
+  },
+  "https://applealmond.com/posts/329501": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T09:18+08:00",
+   "site_name": "蘋果仁 - 果仁 iPhone/iOS/好物推薦科技媒體",
+   "description": "2026 天母萬聖節延期 10/26！4500 個南瓜桶、250 家免費討糖、塔麻歌子親子攻略 - 蘋果仁 - 果仁 iPhone/iOS/好物推薦科技媒體",
+   "cities": {
+    "台北市": 6
+   },
+   "districts": [
+    "天母商圈（台北市）"
+   ],
+   "body_chars": 2485,
+   "image": "https://applealmond.com/wp-content/uploads/2026/10/1792545060-0e289d81f9a52b25f54d1c8c16d9346a.jpg"
+  },
+  "https://msn.com/zh-tw/news/news/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E5%BC%B7%E9%99%A3%E9%A2%A8%E5%90%B9%E5%8F%B0%E4%B8%AD-%E5%8B%A4%E7%BE%8E%E5%95%86%E5%9C%88%E5%A4%A7%E5%B8%86%E5%B8%83%E5%BB%A3%E5%91%8A%E6%8E%89%E8%90%BD-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fSiGU": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null
+  },
+  "https://msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%80%BC%E8%BF%91-%E5%BD%B0%E5%8C%96%E6%B2%BF%E6%B5%B7%E7%8B%82%E5%88%AE10%E7%B4%9A%E5%BC%B7%E9%A2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97-%E8%80%81%E7%89%86%E5%9D%8D%E5%A1%8C-%E6%85%98%E6%B3%81%E6%9B%9D%E5%85%89/ar-AA2fMCyP": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null
+  },
+  "https://msn.com/zh-tw/news/other/%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96%E9%A0%BB%E5%82%B3%E6%83%B9%E6%B0%91%E6%80%A8-%E7%B8%A3%E8%AD%B0%E5%93%A1%E6%8F%AD5%E5%A4%A7%E7%BC%BA%E5%A4%B1/ar-AA2fJs52": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null
+  },
+  "https://news.ltn.com.tw/news/Taipei/breakingnews/5615313": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-22T19:31+08:00",
+   "site_name": "自由時報電子報",
+   "description": "民進黨台北市長候選人沈伯洋今（22）日出席由台北未來都會再生協會主辦的「主旨：看見縫隙：讓台北變好的無限可能 公共空間的再定義——從基礎設施、綠意到常民地景」座談，與多位建築專家、學者交流都市設計構想。沈伯洋表示，城市美感是提升市民認同感與驕傲感的重要因素，未來規劃活化市民大道高架下方空間，打造音樂等主題廊道，串聯街區",
+   "cities": {
+    "台北市": 19,
+    "新北市": 1,
+    "桃園市": 1,
+    "台南市": 1,
+    "基隆市": 1
+   },
+   "districts": [],
+   "body_chars": 1394,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/22/phpYsEK9y.jpg"
+  },
+  "https://n.yam.com/Article/20261021487705": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-22T11:31+08:00",
+   "site_name": "蕃新聞",
+   "description": "【創新聞 記者張溎壕／彰化報導】彰化市永樂街道路改善工程引發工安疑慮，縣議員溫芝樺、市民代表黃稜茹接",
+   "cities": {
+    "彰化縣": 6
+   },
+   "districts": [],
+   "body_chars": 991,
+   "image": "https://ni.yam.com/20261022/SQ10217-5--a29cd055293e19ce.webp"
+  },
+  "https://msn.com/zh-tw/weather/%E4%B8%80%E8%88%AC/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E5%A4%96%E5%9C%8D%E7%92%B0%E6%B5%81%E9%A2%A8%E5%8B%A2%E5%BC%B7-%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E5%BA%97%E5%AE%B6%E7%85%A7%E7%87%9F%E6%A5%AD-newsebc/vi-AA2fMurr": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5615082": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-22T16:04+08:00",
+   "site_name": "自由時報電子報",
+   "description": "因應強颱薔琵來襲，原訂於本週末舉辦的「2026天母搞什麼鬼18」確定延期。主辦單位天母商圈公告，活動調整至下週舉行。調整後時程，暖場「百鬼夜行討糖」改為10月25日（日）晚間19:00出發，路線維持從新光三越台北天母店，經忠誠路二段至大葉高島屋。壓軸主活動園遊會則順延至10月26日（一）13:00至20:00，地點在天",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [
+    "天母商圈（台北市）"
+   ],
+   "body_chars": 563,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/22/php4mdVCT.jpg"
+  },
+  "https://n.yam.com/Article/20261022189357": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-22T09:45+08:00",
+   "site_name": "蕃新聞",
+   "description": "&nbsp;由臺北市古亭商圈發展協會、中華天下父母心關懷促進會共同主辦，西門徒步區街區發展促進會協辦",
+   "cities": {
+    "台北市": 6
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1477,
+   "image": "https://ni.yam.com/20261022/png-8de5e2324956f6cc.webp"
+  },
+  "https://www.chinatimes.com/realtimenews/20261021003652-260405": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T16:37+08:00",
+   "site_name": "中時新聞網",
+   "description": "台鐵集集支線今年6月底全線恢復通車後，帶動集集站及終點車埕站的人潮，但位於兩者之間的水里站，卻未能受惠。滿心期待火車復駛帶回商機的水里市區居民，眼看旅客直奔車埕，市區商機仍未見起色，有說不出的委屈。地",
+   "cities": {
+    "台北市": 1,
+    "台南市": 1
+   },
+   "districts": [
+    "水里商圈（南投縣）"
+   ],
+   "body_chars": 760,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-21/656/20261021003653.jpg"
+  },
+  "https://www.msn.com/zh-tw/news/national/%E4%B8%AD%E5%B0%8F%E5%BE%AE%E4%BC%81%E6%A5%AD%E8%BD%89%E5%9E%8B%E8%88%87%E5%95%86%E5%9C%88%E5%B8%82%E5%A0%B4ip%E5%8C%96-%E9%99%B3%E4%BA%AD%E5%A6%83%E4%BF%83%E6%88%90%E7%AB%8B%E5%8F%B0%E5%8D%97%E8%BC%94%E5%B0%8E%E5%B0%8F%E7%B5%84%E5%B0%8D%E6%8E%A5%E4%B8%AD%E5%A4%AE-%E8%BE%B2%E6%A5%AD%E9%83%A8%E6%8C%BA%E9%9D%92%E8%BE%B2%E7%A7%91%E6%8A%80%E5%8C%96/ar-AA2fJErj": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null
+  },
+  "https://www.nownews.com/news/6884781": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-19T17:02+08:00",
+   "site_name": "NOWnews今日新聞",
+   "description": "2026天母搞什麼鬼延期了！原訂這周五、周六登場的台北天母年度萬聖節活動，因應薔瑟颱風影響，主辦單位今（19）日宣布調整活動時間，將延期至10月25日、26日，也就是這...",
+   "cities": {
+    "台北市": 2,
+    "宜蘭縣": 2,
+    "桃園市": 1,
+    "基隆市": 1
+   },
+   "districts": [],
+   "body_chars": 823,
+   "image": "https://media.nownews.com/nn_media/thumbnail/2025/10/1761820714952-bd0876a206d743e3967b54bfe72a1d03-1200x801.webp?unShow=false"
+  },
+  "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": "error",
+   "error": "<urlopen error [Errno -5] No address associated with hostname>"
+  },
+  "https://www.ctee.com.tw/news/20261021701782-431401": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T16:37+08:00",
+   "site_name": "中時即時",
+   "description": "台鐵集集支線今年6月底全線恢復通車後，帶動集集站及終點車埕站的人潮，但位於兩者之間的水里站，卻未能受惠。滿心期待火車復駛帶回商機的水里市區居民，眼看旅客直奔車埕，市區商機仍未見起色，有說不出的委屈。地方商圈創生協會也積極尋求突破，將進駐車站、串聯在地業者引入人流。 歷經數年隧道坍方及停駛修復，台鐵集...",
+   "cities": {
+    "台北市": 1,
+    "台南市": 1
+   },
+   "districts": [
+    "水里商圈（南投縣）"
+   ],
+   "body_chars": 735,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-10-21/1024/20261021701783.jpg"
+  },
+  "https://hsnews.com.tw/tourism-and-cuisine/hua-lian-shi-bai-nian-lao-jie-shang-quan-bai-nian-zhen-xing-chao-gei-li-re-nao-deng-chang-ji-dian-chang-bao-qu2-0xiao-fei-man-bai-ji-dian-chou-da-jiang-265fen-niu-dan-hao-li-yao-min-zhong-yi-qi-huo-luo-zai-de-shang-quan.html": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-22T11:02+08:00",
+   "site_name": "花蓮最速報",
+   "description": "...",
+   "cities": {
+    "花蓮縣": 9
+   },
+   "districts": [
+    "民生社區商圈（台北市）",
+    "在地商圈（南投縣）",
+    "花蓮市 百年老街商圈（花蓮縣）",
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 1160,
+   "image": "https://hsnews.com.tw/images/2026/10/22/img_1179_large.jpeg"
+  },
+  "https://news.cts.com.tw/cts/general/202610/202610203091965.html": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://ettoday.net/news/20261022/3259040.htm": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-22T11:32+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "薔琵颱風持續逼近台灣，彰化沿海刮10級強風，鹿港老街於22日半夜驚傳老牆坍塌，紅色磁磚掉落在地一片狼藉。網友將照片拍上網，表示「10級強風讓老牆坍塌，所幸沒有傷及任何人」，呼籲大家加強防颱措施。",
+   "cities": {
+    "彰化縣": 6,
+    "高雄市": 2,
+    "宜蘭縣": 1,
+    "花蓮縣": 1,
+    "台東縣": 1
+   },
+   "districts": [
+    "鹿港老街商圈（彰化縣）"
+   ],
+   "body_chars": 737,
+   "image": "https://cdn2.ettoday.net/images/8978/e8978433.jpg"
+  },
+  "https://truemii.chinatimes.com/content/20261021002180-265001": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T13:44+08:00",
+   "site_name": "瘋台灣 - 觸mii",
+   "description": "桃園老城、中壢舊城藏有豐富歷史文化與巷弄美食，桃園市觀光發展基金會推出「一起出發！桃園雙城的日常」城市走讀活動，結合桃園市觀旅局規畫的「桃園舊城區散步地圖」，規劃4條散步路線、104場城市導覽，並串聯超過",
+   "cities": {
+    "桃園市": 22
+   },
+   "districts": [],
+   "body_chars": 883,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-21/1024/20261021002181.jpg"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E5%98%89%E7%BE%A9%E5%B8%82%E6%96%87%E5%8C%96%E8%B7%AF%E5%95%86%E5%9C%88%E5%B7%A5%E7%A8%8B-%E6%8C%96%E7%A0%B4%E7%AE%A1-%E5%A4%A7%E7%A9%8D%E6%B0%B4-%E5%95%86%E5%AE%B6%E5%8F%AB%E8%8B%A6-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fDmiS": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null
+  },
+  "https://www.cna.com.tw/news/afe/202610200184.aspx": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-20T15:15+08:00",
+   "site_name": "中央社 CNA",
+   "description": "新光三越天母店租約將於明年第1季到期，續留動向受關注。新光三越主管表示，與房東已合作20多年，雙方有默契，希望朝「商圈共榮」方向前進；另外，輝達進駐北士科，目前外溢效益尚不明顯，不過未來可望帶來新客群，天母店將新增餐飲、體驗內容因應。",
+   "cities": {
+    "台北市": 1,
+    "台南市": 1
+   },
+   "districts": [
+    "天母商圈（台北市）"
+   ],
+   "body_chars": 791,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261020/1024x768_wmky_0_C20261020000136.jpg"
+  },
+  "https://www.penghu.gov.tw/ch/home.jsp?id=10088&act=view&dataserno=11510220013": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {
+    "澎湖縣": 2
+   },
+   "districts": [],
+   "body_chars": 379,
+   "image": null
+  },
+  "https://news.tvbs.com.tw/life/4038524": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-20T11:49+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "嘉義文化路商圈國華街正進行雨水下水道箱涵改善工程，原定兩個月完工卻因地下管線遷移與天候因素延宕至今已達四個月，導致周邊店家生意大受影響，近日又傳出自來水管破裂噴水事件，現場工人澄清並非挖破管線，而是老舊管線因施工震動而破裂，預計11月可恢復路面通行。",
+   "cities": {
+    "嘉義縣": 7,
+    "花蓮縣": 4,
+    "南投縣": 3,
+    "台北市": 2
+   },
+   "districts": [
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 2780,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a15738-5728-73fe-80ab-b2fdf5443bbc.jpg?t=16x9&wp=r,t&c=0,0,1920,1080&w=1200&h=675"
+  },
+  "https://thehubnews.net/archives/676734": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-20T14:55+08:00",
+   "site_name": "新頭條-TheHubNews",
+   "description": "記者楊青琪/彰化報導 走進鹿港巷弄，尋找老城裡的精彩故事！彰化縣鹿港廟口商圈促進發展協會持續推動特色文化觀光，以「尋鹿趣」為主題，逐步打造具有在地特色的文化走讀品牌。繼8月舉辦走讀活動後，「尋鹿趣－鹿港觀光走讀」將於10月30日（星期五）再...",
+   "cities": {
+    "彰化縣": 7
+   },
+   "districts": [
+    "鹿港廟口商圈（彰化縣）"
+   ],
+   "body_chars": 1166,
+   "image": "https://www.thehubnews.net/wp-content/uploads/2026/10/3317b80dd91c6b5e61982ee63e34e60a.jpg"
+  },
+  "https://www.ctwant.com/article/503272": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T16:53+08:00",
+   "site_name": "CTWANT",
+   "description": "2026台中購物節暖身活動買氣熱絡，短短6天消費登錄金額突破5.6億元、發票登錄逾112萬張！市府經濟發展局今年推出「到店抽」新措施，透過走訪在地店家、現場抽獎及特色商品推廣，帶動商圈人潮與消費商機。...",
+   "cities": {
+    "台中市": 14
+   },
+   "districts": [
+    "自由路商圈（台中市）"
+   ],
+   "body_chars": 1196,
+   "image": "https://static.ctwant.com/images/cover/72/503272/lg-19b8b5d0c2b28fab7b1609aedccfb405.jpg"
+  },
+  "https://money.udn.com/money/story/5637/9824391": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-20T10:00+08:00",
+   "site_name": "經濟日報",
+   "description": "10月17、18日，八德資訊商圈於八德路一段封街舉辦「2026八德封街－全能玩家」，集結電競賽事、軍武體驗、復古遊戲、復古老車、品牌互動與特色市集，打造一場橫跨不同世代、不同玩家文化的街頭盛會。兩天活動不只看比賽，更能親自下場體驗、完成挑戰拿好禮，從科技、遊戲一路玩到生活娛樂，也為接下來一連串八德商圈主題活動揭開序幕。",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [],
+   "body_chars": 1662,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35435365.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=1050&exp=3600"
+  },
+  "https://ctinews.com/news/items/Z3WgYJQKxK": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-20T16:12+08:00",
+   "site_name": "中天新聞網",
+   "description": "嘉義市文化路商圈國華街的雨水下水道箱涵工程延宕四個月，施工期間又發生地基老舊自來水管因震動破裂事件，引發業者對工程品質的疑慮。工務處與現場工人澄清，管線破裂是水管老化所致，並非人為挖破，已通報自來水公司但因對方無法及時處理，改由工人協助排水，也連帶影響工程進度。工務處預計十一月可恢復路面通行，業者期盼如期完工。",
+   "cities": {
+    "嘉義市": 8
+   },
+   "districts": [],
+   "body_chars": 653,
+   "image": null
+  },
+  "https://www.businesstoday.com.tw/article/category/183027/post/202610190040": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-20T10:00+08:00",
+   "site_name": "今周刊",
+   "description": "為打造安全舒適的行人環境，桃園市政府積極推動人本交通政策，其中「中壢區復興路人本環境改善計畫」及「博愛路X康樂路-歷史文化通學步道計畫」已順利完工。桃園市長張善政表示，市府特別重視人本交通及行人環境，復興路原有道路寬度及交通流量具備調整條件，此次透過縮減車道、擴大人行空間，讓行人能放慢腳步、停留感受街區，同時也為後續街",
+   "cities": {
+    "桃園市": 13,
+    "台北市": 1
+   },
+   "districts": [
+    "中壢車站商圈（桃園市）",
+    "中平商圈（桃園市）"
+   ],
+   "body_chars": 1188,
+   "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/194074/1200900_20261019171123.jpg_600x450.jpg"
+  },
+  "https://thehubnews.net/archives/677138": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T18:22+08:00",
+   "site_name": "新頭條-TheHubNews",
+   "description": "記者張辰卿/台北報導 繽紛燈車走進街區，蘭雅商圈熱鬧迎萬神節！由台北市蘭雅商圈市場發展協會主辦、臺北市商業處指導的「2026蘭雅一呼百應－萬神節藝閣燈車祭」，將於10月26日（一）登場。活動結合藝閣燈車巡遊與店家消費集點，邀請民眾相揪看燈車...",
+   "cities": {
+    "台北市": 8
+   },
+   "districts": [
+    "蘭雅商圈（台北市）"
+   ],
+   "body_chars": 933,
+   "image": "https://www.thehubnews.net/wp-content/uploads/2026/10/rAlXPSIGIysSUJg8pgZs.jpg"
+  },
+  "https://www.ettoday.net/news/20261020/3257751.htm": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-20T11:43+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "台北市長蔣萬安推動「無菸城市」，透過劃設特定商圈與熱點禁菸區，並搭配設置負壓式吸菸區，減少二手菸與三手菸對市民的危害。國民黨新北市長參選人李四川昨與淡江大學互動時，學生談及二手菸害問題；李回應，未來會針對人潮密集地區推動無菸害商圈，並研議設置負壓吸菸室，降低二手菸的危害，像是淡水老街及淡江大學周邊商圈，就可以當作優先推",
+   "cities": {
+    "新北市": 8,
+    "台北市": 6,
+    "台東縣": 4,
+    "高雄市": 2
+   },
+   "districts": [
+    "淡水老街商圈（新北市）"
+   ],
+   "body_chars": 2148,
+   "image": "https://cdn2.ettoday.net/images/8975/e8975564.jpg"
+  },
+  "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5611712": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-19T23:02+08:00",
+   "site_name": "自由時報電子報",
+   "description": "國民黨新北市長候選人李四川今（19日）晚出席淡江大學青年政策論壇，擘劃「南有巨蛋城，北有科學城」願景，主張將淡海新市鎮二、三期打造為淡海科學城，並規劃「淡北快線」串聯「北士科—淡海」AI科技走廊。面對學生提問，李四川允諾將加速淡海輕軌二期、建立尖峰彈性調度，並研議商圈設置負壓吸菸室。李四川說淡海新市鎮二、三期將打造為「",
+   "cities": {
+    "台北市": 5,
+    "新北市": 5
+   },
+   "districts": [
+    "淡水老街商圈（新北市）"
+   ],
+   "body_chars": 841,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/19/5611712_4_1.jpg"
+  },
+  "https://www.ctee.com.tw/news/20261019701639-431207": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-19T17:44+08:00",
+   "site_name": "工商時報",
+   "description": "台北市八德資訊商圈於10月17日、18日連續兩天盛大舉辦「八德封街－全能玩家」活動，以「跨界娛樂」為主軸，將八德路一段進行封街，集結電競賽事、軍武互動體驗、懷舊復古老車展示、品牌互動以及特色市集，吸引跨世代玩家與家庭客群朝聖，為後續登場的「八德3C哈樂DAY」週週主題檔期拉開序幕。 主辦單位台北市八...",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 1277,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-10-19/1024/20261019701641.jpg"
+  },
+  "https://www.juksy.com/article/153568": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5618430": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T22:11+08:00",
+   "site_name": "自由時報電子報",
+   "description": "苗栗市風箏節活動受薔琵颱風影響延期，不過客家風味宴照常於今（25）日下午5點上菜，席開147桌，吸引近1500位民眾參與。苗栗縣長鍾東錦也出席，與鄉親及各界貴賓共享客家美食，現場氣氛熱絡，洋溢濃厚客庄人情味。宴席以十二道融合傳統手藝與在地風味的客家佳餚款待賓客，包括桔香迎賓嫩土雞、客庄灶腳白菜滷、梅香醬燒封爌肉、傳香經",
+   "cities": {
+    "苗栗縣": 11,
+    "屏東縣": 1,
+    "金門縣": 1
+   },
+   "districts": [],
+   "body_chars": 778,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618430_1_1.jpg"
+  },
+  "https://tw.news.yahoo.com/%E5%85%AB%E5%BE%B7%E5%B0%81%E8%A1%97%E5%85%A8%E8%83%BD%E7%8E%A9%E5%AE%B6-%E5%87%BA%E6%93%8A-%E7%82%BA%E5%95%86%E5%9C%88%E4%B8%BB%E9%A1%8C%E6%B4%BB%E5%8B%95%E6%8F%AD%E9%96%8B%E5%BA%8F%E5%B9%95-100150555.html": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-19T18:01+08:00",
+   "site_name": "Yahoo News",
+   "description": "【記者 郭夢迪／台北 報導】10月17、18日，八德資訊商圈於八德路一段封街舉辦「2026八德封街－全能玩家」",
+   "cities": {
+    "台北市": 14,
+    "新竹市": 8,
+    "新北市": 1,
+    "台南市": 1,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 3857,
+   "image": "https://s.yimg.com/lo/mysterio/api/9edc14b88e55498cfe490db53e7ee145e2b73eec1f64d2468421f97c5e3308f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnewstaiwandigi_com_938%2F67d894943fe6912cb28ce52efb5b4422"
+  },
+  "https://news.cts.com.tw/cna/local/202610/202610243093554.html": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://n.yam.com/Article/20261025118921": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T18:46+08:00",
+   "site_name": "蕃新聞",
+   "description": "報新聞/編輯部備受全台樂迷期待的「花蓮韓流原聲演唱會」，雖受到颱風攪局影響被迫延期，於10月25日（",
+   "cities": {
+    "花蓮縣": 15,
+    "新北市": 1
+   },
+   "districts": [
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 1376,
+   "image": "https://ni.yam.com/20261025/hualien-cover-261025061439703-1fe827f902004d1f.webp"
+  },
+  "https://www.ctee.com.tw/news/20261019701098-431401": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-19T12:47+08:00",
+   "site_name": "中時即時",
+   "description": "光復節3天連假將於24日展開，桃園市大溪老街、石門水庫及復興區拉拉山等熱門景點預料湧入觀光車潮。大溪警分局提前公布交通疏導措施，24日至26日將針對大溪老街周邊道路實施部分路口禁轉、單行道及行人徒步區管制，並視車流狀況機動調整武嶺橋周邊交通動線，提醒遊客留意管制時段及替代道路。 大溪警方表示，光復節...",
+   "cities": {
+    "桃園市": 4,
+    "台北市": 1,
+    "新北市": 1,
+    "新竹": 1
+   },
+   "districts": [
+    "拉拉山商圈（桃園市）",
+    "角板山商圈（桃園市）"
+   ],
+   "body_chars": 862,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-10-19/1024/20261019701099.jpg"
+  },
+  "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%8B%9B%E5%8B%9F%E7%AF%80%E8%83%BD%E5%8F%8B%E5%96%84%E5%BA%97%E5%AE%B6-%E6%89%93%E9%80%A0%E7%B6%A0%E7%94%9F%E6%B4%BB%E6%B6%88%E8%B2%BB%E5%9C%B0%E5%9C%96-%E9%82%80%E6%82%A8%E5%85%B1%E7%AF%89%E6%B0%B8%E7%BA%8C%E5%95%86%E5%9C%88-095931711.html": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-19T17:59+08:00",
+   "site_name": "Yahoo News",
+   "description": "花蓮縣政府為讓節能永續從理念走進日常、從單一店家擴展至整座城市，持續推動「花蓮好日綠生活」運動，積極招募在地業者加入節能友善店家行列，透過節能認證、「花蓮好日綠生活地圖」及「綠生活公約」，串聯不同產業與消費場域，打造兼具節能實踐、店家特色及綠色消費意識的在地商家網絡。縣政府期盼讓每個願意實踐節能的店家，都有機會展現自身",
+   "cities": {
+    "花蓮縣": 18,
+    "新竹市": 8,
+    "台北市": 7,
+    "台中市": 2,
+    "台南市": 2
+   },
+   "districts": [],
+   "body_chars": 3470,
+   "image": "https://s.yimg.com/lo/mysterio/api/a450111a6210d59970f361e8d382fb6b790149e45ff1d395e99715ff74990331/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Ftssdnews.com.tw%2F63a3221d3ac267083359b3800dc65e5c.jpg"
+  },
+  "https://msn.com/zh-tw/news/news/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E5%BC%B7%E9%99%A3%E9%A2%A8%E5%90%B9%E5%8F%B0%E4%B8%AD-%E5%8B%A4%E7%BE%8E%E5%95%86%E5%9C%88%E5%A4%A7%E5%B8%86%E5%B8%83%E5%BB%A3%E5%91%8A%E6%8E%89%E8%90%BD-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fS0z1": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null
+  },
+  "https://www.nownews.com/news/6884710": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-19T13:41+08:00",
+   "site_name": "NOWnews今日新聞",
+   "description": "京華城因2019年熄燈後，原計畫改建頂級商辦卻因容積率弊案停工，導致現今京華城商圈蕭條死寂，台北市長參選人沈伯洋今（19）日接受媒體專訪時表示，一個官司要進行多就...",
+   "cities": {
+    "台北市": 3,
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 816,
+   "image": "https://media.nownews.com/nn_media/thumbnail/2026/10/1792317314005-0c29519148ba46c1b7cd5c8a1d1156be-1200x901.webp?unShow=false"
+  },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5618108": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T14:55+08:00",
+   "site_name": "自由時報電子報",
+   "description": "民進黨新北市長候選人蘇巧慧今參加她與市議員候選人陳韋任的新店競選總部成立大會，蘇巧慧說，「洋流慧聚」即代表對新時代、新觀念的期待，陳韋任就是追求希望、企圖心強的新世代，學習力強、服務親切，一路跟隨父親、新北市議員陳永福，處處可見他的努力，她會推動「智慧彈性公車」，讓新店市民安居樂業，也透過「鑽石山城」計畫，串聯新店各地",
+   "cities": {
+    "新北市": 12
+   },
+   "districts": [],
+   "body_chars": 1206,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618108_1_1.jpg"
+  },
+  "https://nownews.com/news/6885475": {
+   "checked_at": "2026-10-25T22:48+08:00",
+   "status": "error",
+   "error": "<urlopen error timed out>"
   }
  }
 }
