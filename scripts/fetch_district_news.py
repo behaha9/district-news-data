@@ -30,7 +30,7 @@ import priority  # noqa: E402
 TAIPEI = timezone(timedelta(hours=8))
 OUT = "inputs/district_news.json"
 REF = os.path.join(os.path.dirname(__file__), "..", "reference", "priority-districts-115.json")
-SLICE = int(os.environ.get("DISTRICT_SLICE") or 40)
+SLICE = int(os.environ.get("DISTRICT_SLICE") or 100)
 WORKERS = 4
 TIMEOUT = 15
 KEEP_DAYS = 7
