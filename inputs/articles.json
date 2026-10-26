@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T11:21:14+08:00",
+ "fetched_at": "2026-10-26T13:02:09+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-25T22:48+08:00",
@@ -6052,6 +6052,66 @@
    "districts": [],
    "body_chars": 1195,
    "image": "https://cdn.ttv.com.tw/manasystem/FileData/News/25088e8f-ec56-4163-b2bb-61712ea965aa.jpg"
+  },
+  "https://sunmedia.tw/news/collaborative/37PnoorVSa5f1LfRamI1dz8T5RdLr89LmvJUoCXGBJxMqz44iYTF0WMOUc40pjbKjjFeCYZbduXfT1KObx7N": {
+   "checked_at": "2026-10-26T13:02+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T10:51+08:00",
+   "site_name": "商傳媒",
+   "description": "逛街到一半妹妹商圈走失  大安警積極協尋助團圓",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 492,
+   "image": "https://img.pressunion.net/wp-content/uploads/2026/10/MEITU_20261026_104903579-300x200.jpg"
+  },
+  "https://www.setn.com/news/185312": {
+   "checked_at": "2026-10-26T13:02+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "三立新聞網",
+   "description": "這次梅姬颱風帶來大雨，水利署將新北市的新店和烏來，列為一級警戒，其中在烏來地區災情非常嚴重，因為新店溪水暴漲，造成攬勝橋旁防洪水溢堤淹沒了烏來老街。",
+   "cities": {
+    "新北市": 2,
+    "屏東縣": 1
+   },
+   "districts": [],
+   "body_chars": 1100,
+   "image": "https://attach.setn.com/newsimages/2016/09/27/659794-PH.jpg"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/MLBgBJj": {
+   "checked_at": "2026-10-26T13:02+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 續放颱風假！台中人開逛百貨　鹿港老街人潮少3成",
+   "cities": {
+    "台中市": 3
+   },
+   "districts": [
+    "鹿港老街商圈（彰化縣）"
+   ],
+   "body_chars": 117,
+   "image": "https://today-obs.line-scdn.net/0hn5Ty98gyMRppAC2hFptOTVFWPWtaZisTSzN7fBwHaytCLHJIAjJieRxUajZNMSNNSWIre0tTbi0WMyVPUg/w1200"
+  },
+  "https://www.storm.mg/lifestyle/11174049": {
+   "checked_at": "2026-10-26T13:02+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T10:30+08:00",
+   "site_name": null,
+   "description": "台北市大眾運輸發達、景點多元，無論平日或假日總是吸引大批國內外遊客造訪。根據《交通部觀光署觀光統計資料庫》最新公布的2026年1至8月統計資料，台北市熱門觀光據點人潮持續湧現，前三名分別由「台北101及信義商圈」、「心中山線形公園及赤峰街商圈」以及「西門町商圈」奪下，冠軍更已累計逼近3000萬人次造訪，展現驚人的觀光吸",
+   "cities": {
+    "台北市": 30,
+    "新北市": 2
+   },
+   "districts": [
+    "赤峰街商圈（台北市）",
+    "西門町商圈（台北市）",
+    "淡水老街商圈（新北市）"
+   ],
+   "body_chars": 2796,
+   "image": "https://images.storm.mg/cloud/b46f2e8910962b7cdcfbc8abd47340dc5d81ad04.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2236270%2FyH9nCKw9hwONTdq3ac2jYFxSaHMkpcEYH0Vy9DuO.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
   }
  }
 }
