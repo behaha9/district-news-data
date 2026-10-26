@@ -21,6 +21,21 @@ def parse_time(value):
     return datetime.fromisoformat(value.replace("Z", "+00:00"))
 
 
+def is_video(url, outlet=""):
+    """Same rule as the website (lib/news-presentation.ts isVideoNews): items whose sources are
+    all video pages are hidden on the AI 精選 page."""
+    from urllib.parse import urlsplit
+    try:
+        parts = urlsplit(url)
+    except ValueError:
+        return False
+    host = (parts.hostname or "").lower()
+    return bool(re.search(r"dailymotion|影音頻道", outlet or "", re.I)
+                or re.search(r"(^|\.)(dailymotion\.com|youtube\.com|youtu\.be|vimeo\.com)$", host)
+                or host.startswith("video.")
+                or re.search(r"/vi-", parts.path, re.I))
+
+
 def main(path):
     with open(path, encoding="utf-8") as fh:
         data = json.load(fh)
@@ -75,6 +90,8 @@ def main(path):
                                       and len(image) <= 500 and not re.search(r"\s", image)):
             errors.append(f"{iid}: image 須為 500 字以內的 https 網址（由 merge.py 自動填入，請勿手改）")
         sources = item.get("sources", [])
+        if sources and all(is_video(src.get("url", ""), src.get("outlet", "")) for src in sources):
+            warnings.append(f"{iid}: 來源全是影音頁（MSN 網址含 /vi-、YouTube 等），網站不會顯示這則；請改找文字報導當來源")
         if not 1 <= len(sources) <= 10:
             errors.append(f"{iid}: sources 須 1–10 筆")
         for source in sources:
