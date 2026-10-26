@@ -1,7 +1,135 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T16:51:44+08:00",
+ "generated_at": "2026-10-27T07:18:02+08:00",
  "items": [
+  {
+   "id": "20261027-wanli-banquet",
+   "title": "萬里千歲宴試辦，結合礦坑文化與古早味辦桌推廣商圈",
+   "summary": "萬里試辦千歲宴，由全國觀光暨商圈相關團體推動，結合礦坑文化、低碳旅遊與長者關懷。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-27T03:27:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [
+    {
+     "name": "萬里商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "萬里商圈為115年補助名單，試辦活動可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "民生電子報",
+     "url": "https://lifenews.com.tw/604469",
+     "published_at": "2026-10-27T03:27:00+08:00"
+    }
+   ],
+   "image": "https://lifenews.com.tw/wp-content/uploads/2026/10/2034832_0.jpg"
+  },
+  {
+   "id": "20261026-dali-zhongxing-shopping",
+   "title": "台中購物節首抽前進大里中興商圈，登錄金額開跑2天破5.5億",
+   "summary": "台中購物節開跑兩天消費登錄破5.5億元，首場抽獎活動選在大里中興商圈舉行。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-26T19:14:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    {
+     "name": "大里中興商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "大里中興商圈為115年補助名單，抽獎活動在商圈舉行，可留意人潮與活動成效。",
+   "sources": [
+    {
+     "outlet": "臺中市政府全球資訊網",
+     "url": "https://www.taichung.gov.tw/3400033/post",
+     "published_at": "2026-10-26T19:14:00+08:00"
+    }
+   ],
+   "image": "https://www.taichung.gov.tw/media/1482765/2026臺中購物節-屯區gogo購-活動圓滿成功.jpg"
+  },
+  {
+   "id": "20261026-zuozhen-bamboo-pavilion",
+   "title": "台南左鎮老街竹構造涼亭完工，展示全竹家具與植物印染工藝",
+   "summary": "左鎮老街新增竹構造涼亭，可供辦活動與體驗課程，內部展示竹製家具、花器及染作工藝。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-26T18:51:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5619352",
+     "published_at": "2026-10-26T18:51:00+08:00"
+    },
+    {
+     "outlet": "Yahoo奇摩新聞",
+     "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%B7%A6%E9%8E%AE%E8%80%81%E8%A1%97%E7%AB%B9%E6%A7%8B%E9%80%A0%E6%B6%BC%E4%BA%AD%E5%AE%8C%E5%B7%A5-%E5%AE%B6%E5%85%B7-%E8%8A%B1%E5%99%A8%E5%85%A8%E7%AB%B9%E5%B7%A5%E8%97%9D%E8%B5%B0%E5%85%A5%E7%94%9F%E6%B4%BB-105128056.html",
+     "published_at": "2026-10-26T18:51:00+08:00"
+    }
+   ],
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/26/5619352_1_1.jpg"
+  },
+  {
+   "id": "20261026-dajia-craft-tour",
+   "title": "大甲觀光商圈辦職人探索活動，加深大甲文化連結",
+   "summary": "大甲商圈舉辦職人探索活動，希望加深民眾與大甲在地文化的連結。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-26T18:12:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    {
+     "name": "大甲觀光商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "大甲觀光商圈為115年補助名單，活動已辦理，可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "台灣生活新聞",
+     "url": "https://news.st-media.com.tw/news/63794",
+     "published_at": "2026-10-26T18:12:00+08:00"
+    }
+   ],
+   "image": "https://news.st-media.com.tw/UserFiles/resource/n_f2dbf774a7bb548198c42e204aa60fcf/file/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2+2026-10-26+174531.jpg"
+  },
+  {
+   "id": "20261026-haian-halloween-trash",
+   "title": "台南海安商圈萬聖變裝派對垃圾成堆引民怨，主辦單位致歉",
+   "summary": "海安商圈萬聖變裝派對後街區出現大量垃圾，遭民眾抱怨，主辦單位出面致歉。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-26T16:40:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [
+    {
+     "name": "海安商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "海安商圈為115年補助名單，活動後環境維護引發民怨，可能涉及活動執行品質，可留意後續改善。",
+   "sources": [
+    {
+     "outlet": "華視新聞網",
+     "url": "https://news.cts.com.tw/cts/local/202610/202610263094022.html",
+     "published_at": "2026-10-26T16:40:00+08:00"
+    }
+   ]
+  },
   {
    "id": "20261026-guohua-restroom",
    "title": "連假遊客破百萬，台南國華街商圈批公廁不足、控訴文化局管理",
