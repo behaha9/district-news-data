@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T19:18:32+08:00",
+ "fetched_at": "2026-10-27T07:17:10+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-25T22:48+08:00",
@@ -1911,7 +1911,7 @@
    "image": "https://ni.yam.com/20261023/IMG_0387-scaled-60193548824958ac.webp"
   },
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-10-26T16:50+08:00",
+   "checked_at": "2026-10-27T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -2943,7 +2943,7 @@
    "image": "https://ni.yam.com/20261021/Cardu_6ad77bce6a8e6-c362f899a0238b6b.webp"
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-10-26T16:50+08:00",
+   "checked_at": "2026-10-27T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4382,7 +4382,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/13ed3132240a8243b05bffc172c359d0effaf70c5b935125a2174b2c45cd01d2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fudn.com%2Fe789291bd170240e6df7df4d12d57a4b.jpg"
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-10-26T16:50+08:00",
+   "checked_at": "2026-10-27T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4792,7 +4792,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/29fcdba81b48bcf8b593bfe9744c17364d99a116bef494eb243d5e0bd5b7236a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Febc.net.tw%2Fd0bd19878ced45a124941b44d19be72e.jpg"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-10-26T16:50+08:00",
+   "checked_at": "2026-10-27T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4980,7 +4980,7 @@
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618023_1_1.jpg"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-10-26T16:50+08:00",
+   "checked_at": "2026-10-27T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5251,7 +5251,7 @@
    "image": "https://media.nownews.com/nn_media/thumbnail/2025/10/1761820714952-bd0876a206d743e3967b54bfe72a1d03-1200x801.webp?unShow=false"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
-   "checked_at": "2026-10-26T16:50+08:00",
+   "checked_at": "2026-10-27T07:17+08:00",
    "status": "error",
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
@@ -5290,7 +5290,7 @@
    "image": "https://hsnews.com.tw/images/2026/10/22/img_1179_large.jpeg"
   },
   "https://news.cts.com.tw/cts/general/202610/202610203091965.html": {
-   "checked_at": "2026-10-26T16:50+08:00",
+   "checked_at": "2026-10-27T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5520,7 +5520,7 @@
    "image": "https://images.ctee.com.tw/newsphoto/2026-10-19/1024/20261019701641.jpg"
   },
   "https://www.juksy.com/article/153568": {
-   "checked_at": "2026-10-26T16:50+08:00",
+   "checked_at": "2026-10-27T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5652,7 +5652,7 @@
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618108_1_1.jpg"
   },
   "https://nownews.com/news/6885475": {
-   "checked_at": "2026-10-26T16:50+08:00",
+   "checked_at": "2026-10-27T07:17+08:00",
    "status": "error",
    "error": "<urlopen error timed out>"
   },
@@ -6274,7 +6274,7 @@
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35455412.jpg&M=1&s=Y&x=1&y=231&sw=474&sh=316&exp=3600"
   },
   "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
-   "checked_at": "2026-10-26T19:18+08:00",
+   "checked_at": "2026-10-27T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6391,6 +6391,251 @@
    ],
    "body_chars": 1641,
    "image": "https://www.taichung.gov.tw/media/1482765/2026臺中購物節-屯區gogo購-活動圓滿成功.jpg"
+  },
+  "https://www.msn.com/zh-tw/autos/%E4%B8%80%E8%88%AC/%E5%A5%BD%E8%B2%B4%E7%9A%84%E8%BB%8A%E7%A6%8D-70%E6%AD%B2%E5%A4%A9%E6%AF%8D%E9%98%BF%E5%8C%97-%E7%84%A1%E7%85%A7%E9%96%8B%E4%BF%9D%E6%99%82%E6%8D%B7-%E8%A1%9D%E6%92%9E%E5%90%8D%E8%BB%8A-%E6%B0%A3%E5%9B%8A%E7%88%86%E9%96%8B%E5%BD%88%E8%B7%AF%E4%B8%AD-%E7%9B%B4%E6%93%8A%E7%8F%BE%E5%A0%B4/vi-AA2g5sQ0": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null
+  },
+  "https://lifenews.com.tw/604469": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T03:27+08:00",
+   "site_name": "民生電子報",
+   "description": "【記者 江育銓/採訪報導】 為推動萬里地方文化傳承、低碳旅遊、長者關懷與商圈發展，由TTBA臺灣全國觀光暨商圈 […]",
+   "cities": {
+    "新北市": 7
+   },
+   "districts": [
+    "萬里商圈（新北市）",
+    "野柳商圈（新北市）"
+   ],
+   "body_chars": 1821,
+   "image": "https://lifenews.com.tw/wp-content/uploads/2026/10/2034832_0.jpg"
+  },
+  "https://live.setn.com/Live/3892/24350?p=23": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-08-10T16:00+08:00",
+   "site_name": "三立新聞網",
+   "description": "民進黨台北市長參選人沈伯洋10日舉行永康商圈交流座談會。《三立新聞網》現場直播。",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [
+    "永康商圈（台北市）"
+   ],
+   "body_chars": 101,
+   "image": "https://attach.setn.com/images/livechannel_600x315_2.jpg"
+  },
+  "https://money.udn.com/money/story/5621/9838435": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T02:05+08:00",
+   "site_name": "經濟日報",
+   "description": "台北指標商辦市場轉強。國泰辦公室租金指數最新調查顯示，今年第3季台北市A級辦公室租金持穩，空置率降至7.73%，季減1.13個百分點。其中，忠孝襄陽商辦空置率大減9.68個百分點、租金逆勢上揚，為商辦強勢指標。",
+   "cities": {
+    "台北市": 7
+   },
+   "districts": [],
+   "body_chars": 1518,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/29/2/33237547.jpg&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=1050&exp=3600"
+  },
+  "https://www.bastillepost.com/hongkong/article/16957329-%E5%B7%B4%E5%A3%AB%E7%9A%84%E5%B0%88%E8%A8%AA%EF%BD%9C80%E5%BE%8C%E5%B7%A5%E7%A8%8B%E5%B8%AB%E3%80%8C%E8%BD%89%E6%88%B0%E3%80%8D%E5%95%86%E5%8B%99%E3%80%80%E6%B8%AF%E9%90%B5%E3%80%8C%E4%BA%8C%E6%AC%A1": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T07:00+08:00",
+   "site_name": "Bastillepost 巴士的報",
+   "description": "走進如今的鄭州地鐵站，映入眼簾的是一番全新氣象。過去那些被忽視的閒置角落，如今已進駐早餐店、咖啡館與便利店。這股變革浪潮的背後，正是港鐵公司（MTR）將數十年成熟的車站商務經驗成功「出口」的成果。港鐵",
+   "cities": {},
+   "districts": [],
+   "body_chars": 2461,
+   "image": "https://image.bastillepost.com/640x/wp-content/uploads/hongkong/2026/10/704x369-21.png"
+  },
+  "https://www.ftvnews.com.tw/news/detail/2026A26L03M1": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T20:20+08:00",
+   "site_name": "民視新聞網",
+   "description": "生活中心／綜合報導台北市信義區百貨商圈旁的負壓吸菸室，昨天（25）晚間突然濃煙密布，消防人員獲報緊急到場處理，不過這已經不是第一次，短短5個月內，6處指定吸菸區就發生11起冒煙、悶燒事件，加上最新這一起，就有12起火警通報！讓議員痛批，市府根本是規劃不周、倉促上路！",
+   "cities": {
+    "台北市": 2,
+    "新北市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 820,
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/066eb957-969e-4130-b094-7e934ba835bf.jpg"
+  },
+  "https://www.ftvnews.com.tw/news/detail/2026A26L05M1": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T20:18+08:00",
+   "site_name": "民視新聞網",
+   "description": "生活中心／綜合報導台北市長蔣萬安力推的負壓吸菸室，又出包！信義區一處負壓吸菸室，昨天（25）晚間冒出大量濃煙，消防人員緊急到場處理，沒想到這回出問題的，竟還是市府新設計的熄菸桶。不過短短5個月，全市已經累計12起冒煙、悶燒等事件，議員更痛批，無菸城市政策18次會議，蔣萬安一次都沒出席。",
+   "cities": {
+    "台北市": 9,
+    "新北市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1379,
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/403ed37b-a447-499f-b3b4-68813d68ff0d.jpg"
+  },
+  "https://tw.news.yahoo.com/%E6%B8%B8%E6%B7%91%E8%B2%9E%E6%8E%A8%E9%9D%92%E5%B9%B4-%E5%A9%A6%E5%A5%B3%E5%8F%8A%E5%95%86%E5%9C%88%E7%99%BC%E5%B1%95%E6%94%BF%E7%AD%96-%E8%8A%B1%E8%93%AE%E5%B8%82%E6%8E%83%E8%A1%97%E7%8D%B2%E8%B4%88-%E7%95%B6%E9%81%B8%E5%92%96%E5%95%A1-112000649.html": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T19:20+08:00",
+   "site_name": "Yahoo News",
+   "description": "國民黨花蓮縣長參選人游淑貞今天率隊走訪花蓮市，從仁里橋沿中正路深入主農、主安及德安生活圈，沿途向商家及市民拜票，獲咖啡店老闆送上特調「當選咖啡」祝福。游淑貞表示，花蓮市",
+   "cities": {
+    "花蓮縣": 18,
+    "台北市": 13,
+    "新竹市": 8,
+    "桃園市": 4,
+    "基隆市": 3
+   },
+   "districts": [
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 4000,
+   "image": "https://s.yimg.com/lo/mysterio/api/4707106dcd4e472f6bed61636c877973a91af1b3bd7b491e2e9cb9ad7b35cc2b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fupmedia.mg.tw%2Ffefe91db7e24ea6080eeb82bcaaebde7.jpg"
+  },
+  "https://japan.webike.net/moto_news/zh-hant/a-new-landmark-in-taichungs-yizhong-shopping-district-visiting-the-skuny-flagship-store-introducing-the-entire-lineup/": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.guandian.hk/article/20261026/10042304.html": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T23:58+08:00",
+   "site_name": "觀點網",
+   "description": "10月25日，鄭州披露緊鄰亳都·新象的塔灣老街規劃藍圖，項目官宣明年五一開街，品質餐飲業態佔比48%。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 999,
+   "image": null
+  },
+  "https://udn.com/news/story/7241/9838435?from=udn-catebreaknews_ch2": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T02:05+08:00",
+   "site_name": "聯合新聞網",
+   "description": "台北指標商辦市場轉強。國泰辦公室租金指數最新調查顯示，今年第3季台北市A級辦公室租金持穩，空置率降至7.73%，季減1.13個百分點。其中，忠孝襄陽商辦空置率大減9.68個百分點、租金逆勢上揚，為商辦強勢指標。",
+   "cities": {
+    "台北市": 8,
+    "基隆市": 2,
+    "金門縣": 2,
+    "苗栗縣": 1,
+    "台東縣": 1
+   },
+   "districts": [],
+   "body_chars": 1909,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/29/2/33237547.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
+  },
+  "https://www.setn.com/news/1922205": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-14T18:30+08:00",
+   "site_name": "三立新聞網",
+   "description": "台北市三大零售商圈2026年第三季空置率持穩，忠孝商圈降至8.29%，西門商圈為4.64%，中山南京商圈微升至4.73%。遠東Garden City進駐為東區注入人潮，但專家指出，商圈租金復甦仍受經營成本與消費環境牽制。未來大型商場能否將活動人流轉化為日常消費，並克服電商與缺工挑戰，將是維持商圈與租金長期穩定的關鍵。",
+   "cities": {
+    "台北市": 5,
+    "新北市": 5,
+    "高雄市": 2,
+    "新竹": 2,
+    "桃園市": 1
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 1392,
+   "image": "https://attach.setn.com/newsimages/2025/06/01/5133943-PH.jpg"
+  },
+  "https://ccss3172.blogspot.com/2026/10/blog-post_847.html": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T18:40+08:00",
+   "site_name": "Blogger",
+   "description": null,
+   "cities": {
+    "台中市": 3
+   },
+   "districts": [],
+   "body_chars": 678,
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqQNDrm-bgiIhODIzHrACmOIQztUnD36vjYl0EbcmKPEqMa9_kQgKwFxG3GE5WCqah0GCIOb7qcLaNzjWUQJhkbrenElu9UE1HFTISN9OAc_JOs3tX-jJrY8SDQ9B9HCind-mhK7whTa3ivlLUgT1ymBJlxsWjwnkgzWa6fNxxZS2UChO26uuoPhP8fdAi/w1200-h630-p-k-no-nu/%E6%B0%B4%E5%9C%B3%E6%97%81%E7%AD%89%E5%BE%85%E8%91%97%E9%9F%B3%E6%A8%82%E6%9C%83%E9%96%8B%E6%BC%94.jpg"
+  },
+  "https://www.upmedia.mg/tw/lifestyle/policy/272385": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T19:20+08:00",
+   "site_name": "上報",
+   "description": "國民黨花蓮縣長參選人游淑貞今天率隊走訪花蓮市，從仁里橋沿中正路深入主農、主安及德安生活圈，沿途向商家及市民拜票，獲咖啡店老闆送上特調「當選咖啡」...",
+   "cities": {
+    "花蓮縣": 8,
+    "新北市": 2,
+    "台中市": 1
+   },
+   "districts": [
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 684,
+   "image": "https://cdn.upmedia.mg/upfile/img/2026/1026/202610261824489084.webp"
+  },
+  "https://news.ltn.com.tw/news/life/paper/1776047": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T05:30+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台灣養殖漁業發達，多刺的虱目魚須經專業手工處理去刺上架販售，但水產加工從業人員許多都六旬以上，青年一輩興趣缺缺，無刺虱目魚可能在十年後消失在餐桌。40歲員工就算是年輕人",
+   "cities": {
+    "嘉義縣": 2
+   },
+   "districts": [],
+   "body_chars": 1115,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/27/29.jpg"
+  },
+  "https://www.ettoday.net/news/20261026/3261188.htm": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T20:50+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "彰化縣「鹿港最美民代」鎮民代表張愉婕25日舉辦競選總部成立大會，施放的彩帶卻隨風飄到電線上造成短路，導致慶安街一帶71戶停電，下午4時後才恢復供電，居民不滿發文指控她事後沒有致歉關心。對此，張愉婕出面澄清，當時還在台上就聽到爆炸聲響，發現是彩帶飄到電線桿上，知道停電之後「我就停止所有的動作，致電給台電。」",
+   "cities": {
+    "彰化縣": 4,
+    "高雄市": 2,
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 1421,
+   "image": "https://cdn2.ettoday.net/images/8985/e8985739.png"
+  },
+  "https://www.cmoney.tw/forum/article/186753253": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T18:27+08:00",
+   "site_name": "CMoney 股市爆料同學會",
+   "description": "台中市一輛白色轎車今天中午駛入東海商圈俗稱「炒飯街」內，因該處街道狹小，白車駛因擦撞他人機車，還卡在其間動彈不得。後來遇到警員盤查，駕駛棄車逃逸，等警員和民眾聯",
+   "cities": {
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 278,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35455412.jpg&M=1&s=Y&x=0&y=0&sw=475&sh=547&sl=W&fw=800&exp=3600&w=800"
+  },
+  "https://news.pchome.com.tw/public/taipei/20261026/index-79300436041406126016.html": {
+   "checked_at": "2026-10-27T07:17+08:00",
+   "status": 502,
+   "error": "HTTP Error 502: Bad Gateway"
   }
  }
 }
