@@ -52,7 +52,14 @@ TIMEOUT = 15
 BUDGET_SECONDS = 110
 UA = ("Mozilla/5.0 (compatible; district-news-data-fetcher/1.0; "
       "+https://github.com/behaha9/district-news-data)")
-TITLE_KEEP = re.compile(r"商圈|老街|商店街|延期|取消|停辦|改期|順延|淹水|積水|停電|受損|停業|招牌")
+# keep a title only when it is about a 商圈 itself, a street/market activity that changed,
+# or damage to shops — the same idea as the curation keyword groups
+TITLE_KEEP = re.compile(
+    r"商圈|老街|商店街"
+    r"|(延期|取消|停辦|改期|順延).*(活動|節|祭|市集|嘉年華|踩街|燈會|園遊會)"
+    r"|(活動|節|祭|市集|嘉年華|踩街|燈會|園遊會).*(延期|取消|停辦|改期|順延)"
+    r"|(淹水|積水|停電|受損|停業|暫停營業|招牌).*(商家|店家|攤商|攤販|市場)"
+    r"|(商家|店家|攤商|攤販|市場).*(淹水|積水|停電|受損|停業|暫停營業|招牌)")
 TITLE_DROP = re.compile(r"夜市")
 
 
