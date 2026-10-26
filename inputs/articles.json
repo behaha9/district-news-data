@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:02:09+08:00",
+ "fetched_at": "2026-10-26T16:50:55+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-25T22:48+08:00",
@@ -1911,7 +1911,7 @@
    "image": "https://ni.yam.com/20261023/IMG_0387-scaled-60193548824958ac.webp"
   },
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-10-26T07:17+08:00",
+   "checked_at": "2026-10-26T16:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -2450,7 +2450,7 @@
    "image": "https://www.klcg.gov.tw/wSite/public/Attachment/01603/f1783495666019.jpg"
   },
   "https://sunmedia.tw/news/technology/creammmt首度進駐台北！-108中山門市正式開幕，期間限定「五種檸檬塔」同步登場-1792412274029": {
-   "checked_at": "2026-10-26T07:17+08:00",
+   "checked_at": "2026-10-26T16:50+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 29-35: ordinal not in range(128)"
   },
@@ -2943,7 +2943,7 @@
    "image": "https://ni.yam.com/20261021/Cardu_6ad77bce6a8e6-c362f899a0238b6b.webp"
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-10-26T07:17+08:00",
+   "checked_at": "2026-10-26T16:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4382,7 +4382,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/13ed3132240a8243b05bffc172c359d0effaf70c5b935125a2174b2c45cd01d2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fudn.com%2Fe789291bd170240e6df7df4d12d57a4b.jpg"
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-10-26T07:17+08:00",
+   "checked_at": "2026-10-26T16:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4792,7 +4792,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/29fcdba81b48bcf8b593bfe9744c17364d99a116bef494eb243d5e0bd5b7236a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Febc.net.tw%2Fd0bd19878ced45a124941b44d19be72e.jpg"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-10-26T07:17+08:00",
+   "checked_at": "2026-10-26T16:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4980,7 +4980,7 @@
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618023_1_1.jpg"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-10-26T07:17+08:00",
+   "checked_at": "2026-10-26T16:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5251,7 +5251,7 @@
    "image": "https://media.nownews.com/nn_media/thumbnail/2025/10/1761820714952-bd0876a206d743e3967b54bfe72a1d03-1200x801.webp?unShow=false"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
-   "checked_at": "2026-10-26T07:17+08:00",
+   "checked_at": "2026-10-26T16:50+08:00",
    "status": "error",
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
@@ -5290,7 +5290,7 @@
    "image": "https://hsnews.com.tw/images/2026/10/22/img_1179_large.jpeg"
   },
   "https://news.cts.com.tw/cts/general/202610/202610203091965.html": {
-   "checked_at": "2026-10-26T07:17+08:00",
+   "checked_at": "2026-10-26T16:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5520,7 +5520,7 @@
    "image": "https://images.ctee.com.tw/newsphoto/2026-10-19/1024/20261019701641.jpg"
   },
   "https://www.juksy.com/article/153568": {
-   "checked_at": "2026-10-26T07:17+08:00",
+   "checked_at": "2026-10-26T16:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5652,7 +5652,7 @@
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618108_1_1.jpg"
   },
   "https://nownews.com/news/6885475": {
-   "checked_at": "2026-10-26T07:17+08:00",
+   "checked_at": "2026-10-26T16:50+08:00",
    "status": "error",
    "error": "<urlopen error timed out>"
   },
@@ -6112,6 +6112,149 @@
    ],
    "body_chars": 2796,
    "image": "https://images.storm.mg/cloud/b46f2e8910962b7cdcfbc8abd47340dc5d81ad04.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2236270%2FyH9nCKw9hwONTdq3ac2jYFxSaHMkpcEYH0Vy9DuO.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
+  },
+  "https://www.chinatimes.com/realtimenews/20261026001942-260405": {
+   "checked_at": "2026-10-26T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T14:30+08:00",
+   "site_name": "中時新聞網",
+   "description": "颱風假加上光復節連假4天，台南市累積破百萬遊客，以傳統老街與商圈景點最吸引人潮，屢奪人潮冠軍的國華友愛新商圈，因連假期間周遭廁所不敷使用，引起遊客怨聲連連，商圈26日控訴文化局管理的公廁在委外經營後始終",
+   "cities": {
+    "台南市": 10
+   },
+   "districts": [
+    "國華友愛新商圈（台南市）",
+    "關子嶺商圈（台南市）"
+   ],
+   "body_chars": 756,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-26/656/20261026001943.jpg"
+  },
+  "https://more-news.tw/747678/": {
+   "checked_at": "2026-10-26T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-20T16:54+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "2026台中購物節暖身活動買氣熱絡，短短6天消費登錄金額突破5.6億元、發票登錄逾112萬張！市府經濟發展局今 […]",
+   "cities": {
+    "台中市": 11,
+    "嘉義市": 2
+   },
+   "districts": [
+    "自由路商圈（台中市）"
+   ],
+   "body_chars": 1127,
+   "image": "https://more-news.tw/more-news-media/2026/10/1-287.jpg"
+  },
+  "https://udn.com/news/amp/story/7241/9837680": {
+   "checked_at": "2026-10-26T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T14:19+08:00",
+   "site_name": "聯合新聞網",
+   "description": "台北市頂級商辦租金撐得住，空置率也開始下降。據國泰辦公室租金指數最新調查顯示，2026年第3季台北市A級辦公室租金開價每坪3,564元，季減0.34%，整體租金行情維持穩定，空置率則降至7.73%，較上季下降1.13個百分點。其中，忠孝襄陽路段表現最為突出，租金開價季增1.52%，空置率更一口氣下降9.68個百分點，降",
+   "cities": {
+    "台北市": 10
+   },
+   "districts": [],
+   "body_chars": 1217,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35454826.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=800&exp=3600"
+  },
+  "https://news.ltn.com.tw/news/society/breakingnews/5619052": {
+   "checked_at": "2026-10-26T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T13:56+08:00",
+   "site_name": "自由時報電子報",
+   "description": "劉姓女子日前帶著10歲胞妹前往台北市大安區永康商圈逛街，怎料一不留神女童就失去蹤影，劉女先自行在附近尋找但未果，著急邊哭泣邊通報大安警分局派員協尋，警方隨即展開地毯式搜尋，並同步調閱監視影像比對，所幸在1小時左右發現女童蹤跡，協助姊妹重逢。大安警分局今表示，18歲劉女上週與10歲妹妹一同至永康商圈逛街，不料稍微不留神，",
+   "cities": {
+    "台北市": 5
+   },
+   "districts": [
+    "永康商圈（台北市）"
+   ],
+   "body_chars": 776,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/26/5619052_1_1.jpg"
+  },
+  "https://money.udn.com/money/story/5621/9837680": {
+   "checked_at": "2026-10-26T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T14:19+08:00",
+   "site_name": "經濟日報",
+   "description": "台北市頂級商辦租金撐得住，空置率也開始下降。據國泰辦公室租金指數最新調查顯示，2026年第3季台北市A級辦公室租金開價每坪3,564元，季減0.34%，整體租金行情維持穩定，空置率則降至7.73%，較上季下降1.13個百分點。其中，忠孝襄陽路段表現最為突出，租金開價季增1.52%，空置率更一口氣下降9.68個百分點，降",
+   "cities": {
+    "台北市": 10
+   },
+   "districts": [],
+   "body_chars": 1675,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35454826.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
+  },
+  "https://udn.com/news/story/7241/9837680": {
+   "checked_at": "2026-10-26T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T14:19+08:00",
+   "site_name": "聯合新聞網",
+   "description": "台北市頂級商辦租金撐得住，空置率也開始下降。據國泰辦公室租金指數最新調查顯示，2026年第3季台北市A級辦公室租金開價每坪3,564元，季減0.34%，整體租金行情維持穩定，空置率則降至7.73%，較上季下降1.13個百分點。其中，忠孝襄陽路段表現最為突出，租金開價季增1.52%，空置率更一口氣下降9.68個百分點，降",
+   "cities": {
+    "台北市": 14
+   },
+   "districts": [],
+   "body_chars": 2358,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35454826.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600"
+  },
+  "https://news.ltn.com.tw/news/society/breakingnews/5619018": {
+   "checked_at": "2026-10-26T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T13:32+08:00",
+   "site_name": "自由時報電子報",
+   "description": "新北市中和區景平路1棟大樓昨晚發生火警，消防局獲報出動大批警消趕赴救援，抵達後，發現大樓7樓竄出陣陣濃煙，消防人員隨即佈水線進入灌救，同時疏散大樓住戶，而火勢於10分鐘左右撲滅，經查看後為熱水器掉落砸到洗衣機，導致起火燃燒，所幸沒有造成傷亡，詳細起火原因仍有待釐清。新北市消防局昨天晚間9時9分獲報，中和區景平路111巷",
+   "cities": {
+    "新北市": 5
+   },
+   "districts": [],
+   "body_chars": 712,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/26/5619018_1_1.jpg"
+  },
+  "https://news.pts.org.tw/article/832951": {
+   "checked_at": "2026-10-26T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T13:28+08:00",
+   "site_name": "公視新聞網 PNN",
+   "description": "薔琵颱風挾帶風雨，農業部統計，到昨（25）日為止，全台農損累計超過1.9億元，其中以雲林縣的1.2億元最慘，縣內受影響的農作約2000多公頃，損失品項超過30項，以蒜頭最多。除了請各公所速報，雲林縣政府也期盼中央能從速從寬辦理救助。",
+   "cities": {
+    "雲林縣": 13
+   },
+   "districts": [],
+   "body_chars": 569,
+   "image": "https://news-data.pts.org.tw/media/299659/conversions/bR9CSvcuqrCKs2R3V9A6kJr4wVYHPwPEHEfdWcyn-og_jpg.jpg"
+  },
+  "https://www.ctee.com.tw/news/20261026700481-431401": {
+   "checked_at": "2026-10-26T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T14:30+08:00",
+   "site_name": "中時即時",
+   "description": "颱風假加上光復節連假4天，台南市累積破百萬遊客，以傳統老街與商圈景點最吸引人潮，屢奪人潮冠軍的國華友愛新商圈，因連假期間周遭廁所不敷使用，引起遊客怨聲連連，商圈26日控訴文化局管理的公廁在委外經營後始終未開放，台南市文化局強調已告知委外業者需提供使用。 台南市光復節連假活動滿檔，包括海安路萬聖節、漁...",
+   "cities": {
+    "台南市": 12
+   },
+   "districts": [
+    "國華友愛新商圈（台南市）",
+    "關子嶺商圈（台南市）"
+   ],
+   "body_chars": 731,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-10-26/1024/20261026700482.jpg"
+  },
+  "https://www.ettoday.net/news/20261026/3261098.htm": {
+   "checked_at": "2026-10-26T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T16:14+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "國民黨台東縣長參選人吳秀華的胞兄吳俊立涉台東知本農路拓寬圖利案，21日法院裁定以500萬元交保，檢方不服提起抗告，花蓮高分院認為檢方抗告有理由，撤銷原裁定，發回台東地院重審。今(26日)上午10點原預計召開羈押庭，不過因吳俊立目前在高雄住院治療，無法出庭應訊，導致羈押庭暫緩進行。",
+   "cities": {
+    "台東縣": 15,
+    "高雄市": 5,
+    "花蓮縣": 3
+   },
+   "districts": [],
+   "body_chars": 1137,
+   "image": "https://cdn2.ettoday.net/images/8976/e8976622.png"
   }
  }
 }

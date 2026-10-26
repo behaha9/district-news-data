@@ -1,17 +1,47 @@
 {
- "fetched_at": "2026-10-26T13:02:02+08:00",
+ "fetched_at": "2026-10-26T16:50:48+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 131,
-  "kept": 12,
-  "resolved": 12,
-  "items": 12,
+  "raw": 126,
+  "kept": 11,
+  "resolved": 11,
+  "items": 11,
   "resolve_this_run": {
-   "online": 2
+   "online": 4
   }
  },
  "items": [
+  {
+   "title": "連假破百萬人擠爆台南！國華街4間公廁鎖1間 商圈怒槓文化局",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SaFlHQ2UtUll5dFpZSk5YMElVVnB5a1N4Q0pwV3JySU1lSlFEbHpfeTNLNXpKdnEzYVNXd0xRQV90ZENFZFBuVlBjeE95X29EUW1sZGF0M202RUlmcTNkRnloVC0xWE9LZ2pKYVJR?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-10-26T14:30+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/realtimenews/20261026001942-260405",
+   "resolved": true
+  },
+  {
+   "title": "北市 A 辦空置率下降！信義區每坪租金破4千元 這商圈去化最猛",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JS1BfaHh2aDl2Z0hGNGZESVgwZVRDMWJhYnl4NVhHcHNERENodmxVenU1bVpQV3cxQnI3bU9oajhiYmFaa1lXSVMxSDBmQTlWVmhSNGNR0gFWQVVfeXFMT0lLUF9oeHZoOXZnSEY0ZkRJWDBlVEMxYmFieXg1WEdwc0REQ2h2bFV6dTVtWlBXdzFCcjdtT2hqOGJiYVprWVdJUzFIMGZBOVZWaFI0Y1E?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
+   "published_at": "2026-10-26T14:19+08:00",
+   "query": "商圈",
+   "url": "https://udn.com/news/amp/story/7241/9837680",
+   "resolved": true
+  },
+  {
+   "title": "逛台北永康商圈10歲女童突失蹤 胞姊急哭報案1小時找到她",
+   "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CSEtZOEVscVVVSXNLLWt0bTExNUJRMUVYMVJJaU1Td1JaNFVxU3Qya0tiUWhFVG53blZNRmpBY184R084bmxpcHcwcHVUa09kdDRfYnhvb3h6OW12Y2d4amdkdHVhMzdL0gFuQVVfeXFMT0gySWVOMU45SU5FTmY1dWUxRkRrelVaSlVSRzZfQVhHQ1FlU3VSbVlxMmtwZWtKcnByMzZPVTFoY1BZMVlGcTFkbzFOaUhfVS1ZbHFESmNsWWlfeVJ3Tml6VzdVb3RMUEp4TnVKUFE?oc=5",
+   "source": "自由時報",
+   "source_site": "https://news.ltn.com.tw",
+   "published_at": "2026-10-26T13:56+08:00",
+   "query": "商圈",
+   "url": "https://news.ltn.com.tw/news/society/breakingnews/5619052",
+   "resolved": true
+  },
   {
    "title": "逛街到一半妹妹商圈走失 大安警積極協尋助團圓",
    "google_url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNM3hQbFpYOXVTVkU2d0hsZkY2TXBnb3JXTUtXUUcxb0k5eENaZjY3TGlmMVVzdDhYamlqaUJtR1lPUVZIT25UbWlLWlZIRy1vckJYLURWbnliT1J4ME5VczBIZlE0eDlaU09ELWsyck5ETUxnYlowQmVueVh5SHJsbmRpSEFieDFuM3hfYUtyZWMtcHdodTEwWU1WQ2FuU2N3MXdva29xQUJXam1XeFBObFZhUDdrcWNkMUtkSGQ2OGxpMTJOMm9GelBEa05xUndfVFo2TE1QakJuQnNKWERJVHUyNGFHSmZhdjNmczk0UmsyN2tmeDFraWE3eWpLRHRteUNYamlaNU93X05mZnFhdlpkVHpjVVVkeEhsM0ZJTEd0OWo1dllFY2xDeHhGbF9jRFJEblZsT2lyWjBqTkViTGpJdmxndw?oc=5",
@@ -48,28 +78,18 @@
    "source": "蕃新聞",
    "source_site": "https://n.yam.com",
    "published_at": "2026-10-25T12:00+08:00",
-   "query": "商圈",
+   "query": "老街",
    "url": "https://n.yam.com/Article/20261025986410",
    "resolved": true
   },
   {
-   "title": "烏來好慘！台九甲線道路斷溪水溢堤老街淹| 生活",
-   "google_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5JYmxKVGxtU0N2Wm5MNHVVTXY5RWJ3UFR6dGVUWXdTdXN5TFFxVVJ0Q1dXeWhwdnFQaldBcWJ3TkdBaFNfR3Zv?oc=5",
-   "source": "三立新聞",
-   "source_site": "https://www.setn.com",
-   "published_at": "2026-10-25T03:13+08:00",
-   "query": "老街",
-   "url": "https://www.setn.com/news/185312",
-   "resolved": true
-  },
-  {
    "title": "棺材、牛頭馬面今晚上陣！台南商圈萬聖節中式靈堂 挑戰膽識評價兩極",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OMFhWT29JT2tPZzEtUXJxTW45dGluTTdtM0xUUWRpS3JKUWRvRlFQT3NYNUk5YjM4QmxLLS1POUlENjFLV0dudXU1bThUYmY00gFWQVVfeXFMTTBXRkxielQtYTNkZ0QtQUdNUEtnUkNncVFXU2syNmhyeHROWlpUQVZYQ0V3cGlhcUxpalBrYlFLaTlmVmw2NFVBUUZVVUZYVkRFajR5Z1E?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
-   "published_at": "2026-10-24T19:03+08:00",
+   "google_url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQeE8waEhMVWdpSXJ0c2diQVVMTzF2TjF4a0RYV213ZlliNmk2VEpmZ2FBUzF4aVJ2VTgtR3U1akg4T0dRaVpTUW0wZkRuQUwxNlhMV1lLb2ZwTjVkZXVZWlV6ZTBDLXNYMDZZQzRSUWRPZDFfa2xlV3Y1ZlI3WWxqNFpXNUJvd29ZbmE2WFN0S0x2eHVsc1ZhbXVjeVBWZ09tQ2pfdnBzSHRNRFIxUGxtNklRbG9QWXA2NGFuWU42ZEtOOXJibWpGTkJHQkdWaC14YV9IWEFGdlZHZFpZUmNBVUt5bG5WS3NkU2dwS3Y1TFZNVHR5TXFRODUwaEhDRWZjdWNVNTVKa3ZacVU1OWtIaDM5MmdnYThRN2llRDNhS1YxM05vaGI3aTJ2dDdSSFZveUFlMjlKNjRpSF96dF9aNjBJalpWM2ZmX2VLS2JYbGNFQkg5WDBwV2lWcGZQWkQxX0pwTFFhazltMGdLMkhpSUlWclEzZGhqSWpfOHBIdHVCcWRwSTFySG0ySkE5ODlMQ0xaQkl4cnVRUHZMUEhpZVI0WnRBNU5CV0dOQXFFeUJjMzA?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-10-24T22:10+08:00",
    "query": "商圈",
-   "url": "https://udn.com/news/story/7326/9835309",
+   "url": "https://tw.news.yahoo.com/%E6%A3%BA%E6%9D%90-%E7%89%9B%E9%A0%AD%E9%A6%AC%E9%9D%A2%E4%BB%8A%E6%99%9A%E4%B8%8A%E9%99%A3-%E5%8F%B0%E5%8D%97%E5%95%86%E5%9C%88%E8%90%AC%E8%81%96%E7%AF%80%E4%B8%AD%E5%BC%8F%E9%9D%88%E5%A0%82-%E6%8C%91%E6%88%B0%E8%86%BD%E8%AD%98%E8%A9%95%E5%83%B9%E5%85%A9%E6%A5%B5-141023753.html",
    "resolved": true
   },
   {
@@ -100,36 +120,6 @@
    "published_at": "2026-10-24T16:51+08:00",
    "query": "老街",
    "url": "https://news.tvbs.com.tw/life/4040643",
-   "resolved": true
-  },
-  {
-   "title": "薔琵亂連假！ 鹿港老街人潮稀落 業者估遊客少3成",
-   "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qS29laWROeXQ3Z0h3d0JtTmFRbVJ3TU5kU0dyLUxLT3VkZV9jT1dsNE9kcUFtOWhPOGxDcGpYTjlpbHFPcEdyN2h4SHVkck10bVZmc2FrX0FrMHhFTkhQSTluekNNSmRwWW13NVlWa2dSVTEwNWRvS29YUQ?oc=5",
-   "source": "壹電視",
-   "source_site": "https://www.nexttv.com.tw",
-   "published_at": "2026-10-24T15:19+08:00",
-   "query": "老街",
-   "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-24/2505391.html",
-   "resolved": true
-  },
-  {
-   "title": "「牛舌佑介」進駐台北永康商圈！中山新店同步規劃，仙台牛舌定食再添新選擇",
-   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yU2p4WmhDWDN6OEU1WjN6N3ZuSjkzV2hmcF9yaFU1N3ZXWnp3OFlPQUJ3R19uUTdqMXB6ZGNDM0xWVGZfdldBYkJ2Zkxpbl9LeWhqdk5JMDRmVjM3?oc=5",
-   "source": "UDN",
-   "source_site": "https://travel.udn.com",
-   "published_at": "2026-10-24T14:25+08:00",
-   "query": "商圈",
-   "url": "https://travel.udn.com/travel/story/7205/9833992",
-   "resolved": true
-  },
-  {
-   "title": "屋崙金城銀行華埠新分行開幕 市長祝賀盼商圈繁榮",
-   "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wVjRncmVMMjBOc3JSYUROLUs5QmE1b3o2Rl94emViNWtUWnIyNWJqZHBISTlqMnVDM0ttempZQnZhSmI0V0FHSWt2SlZLNXJEZ3hDek9tNi1TLXVJWFNTSTdhY2JSbknSAWdBVV95cUxNcFY0Z3JlTDIwTnNyUmFETi1LOUJhNW96NkZfeHplYjVrVFpyMjViamRwSEk5ajJ1QzNLbXpqWUJ2YUpiNFdBR0lrdkpWSzVyRGd4Q3pPbTYtUy11SVhTU0k3YWNiUm5J?oc=5",
-   "source": "世界新聞網",
-   "source_site": "https://www.worldjournal.com",
-   "published_at": "2026-10-24T14:08+08:00",
-   "query": "商圈",
-   "url": "https://www.worldjournal.com/wj/amp/story/121368/9834960",
    "resolved": true
   }
  ]
