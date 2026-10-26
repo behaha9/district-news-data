@@ -4,7 +4,8 @@
 Usage: python3 scripts/filter_candidates.py
 
 Reads inputs/status.json, inputs/candidates.json .
-Prints the fetch time, then three keyword groups of news candidates.
+Prints the fetch time, then three keyword groups of news candidates, the priority-district
+search results (group 4) and Google News items not already listed (group 5).
 list, one line each: published_at | title | source | url .
 Exit code 2 when the files are missing or older than MAX_AGE_HOURS, so the caller
 knows to fall back to reading the website URLs directly.
@@ -61,6 +62,14 @@ def article_line(art, hint):
     if hint and top and all(c != top for _, c in hint):
         parts.append(f"⚠ 名單縣市（{'、'.join(c for _, c in hint)}）與內文最常出現的縣市（{top}）不同，請勿直接標★")
     return "｜".join(parts)
+
+
+def url_key(url):
+    return re.sub(r"^https?://(www\.)?", "", (url or "").split("#")[0].rstrip("/"))
+
+
+def norm_title(title):
+    return re.sub(r"[\s\W_]+", "", title or "")[:40]
 
 
 def load(path):
@@ -128,6 +137,30 @@ def main():
             print(f"{taipei_time(d, art if ok else None)} | {d['title']}{label} | {d.get('source','')} | {d['url']}")
             if ok:
                 print("    " + article_line(art, [(d["district"], d["city"])]))
+            elif art:
+                print(f"    ↳ 原文讀取失敗（{art.get('status')}），請依標題判斷或另開原文")
+        # 第 5 組：Google 新聞補充（Bing 收錄落後時的第二來源，已去除前四組出現過的新聞）
+        try:
+            google_items = load("inputs/google_news.json").get("items", [])
+        except Exception:
+            google_items = []
+        seen_keys = {url_key(u) for u in seen}
+        seen_titles = {norm_title(i.get("title", "")) for i in items + district_items}
+        rows = [g for g in google_items
+                if url_key(g["url"]) not in seen_keys and norm_title(g["title"]) not in seen_titles]
+        print(f"\n## Google 新聞補充（{len(rows)} 則，未列於前四組）")
+        for g in rows:
+            hint = priority.hints(g["title"], patterns)
+            mark = "【★可能是重點商圈：" + "、".join(f"{n}（{c}）" for n, c in hint) + "】" if hint else ""
+            if not g.get("resolved"):
+                print(f"{taipei_time(g)} | {g['title']}{mark} | {g.get('source','')} | （Google 轉址，未還原原媒體網址）")
+                print("    ↳ 不可直接用 Google 連結收錄；要收錄請用網頁搜尋標題，找到原媒體網址再填 url")
+                continue
+            art = articles.get(g["url"])
+            ok = art and art.get("status") == 200
+            print(f"{taipei_time(g, art if ok else None)} | {g['title']}{mark} | {g.get('source','')} | {g['url']}")
+            if ok:
+                print("    " + article_line(art, hint))
             elif art:
                 print(f"    ↳ 原文讀取失敗（{art.get('status')}），請依標題判斷或另開原文")
     else:

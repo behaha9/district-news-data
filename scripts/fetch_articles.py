@@ -283,8 +283,14 @@ def main():
                        for it in json.load(fh).get("items", []) for s in it.get("sources", [])]
     except Exception:
         curated = []
+    try:
+        with open("inputs/google_news.json", encoding="utf-8") as fh:
+            google = [{"url": g["url"], "district": True}
+                      for g in json.load(fh).get("items", []) if g.get("resolved")]
+    except Exception:
+        google = []
     wanted = []
-    for item in curated + district_items + items:
+    for item in curated + district_items + google + items:
         url = item.get("url", "")
         relevant = item.get("district") or SELECT.search(item.get("title", ""))
         if not url.startswith("https://") or url in wanted or not relevant:
