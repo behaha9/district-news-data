@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T16:50:55+08:00",
+ "fetched_at": "2026-10-26T19:18:32+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-25T22:48+08:00",
@@ -6255,6 +6255,142 @@
    "districts": [],
    "body_chars": 1137,
    "image": "https://cdn2.ettoday.net/images/8976/e8976622.png"
+  },
+  "https://udn.com/news/story/7320/9837957": {
+   "checked_at": "2026-10-26T19:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T18:20+08:00",
+   "site_name": "聯合新聞網",
+   "description": "台中市一輛白色轎車今天中午駛入東海商圈俗稱「炒飯街」內，因該處街道狹小，白車駛因擦撞他人機車，還卡在其間動彈不得。後來遇到警員盤查，駕駛棄車逃逸，等警員和民眾聯手將他攔獲壓制，才查出他是持觀光簽證來台並逾期居留的越南籍人士，已依法告發交通違規並送交移民署處置。",
+   "cities": {
+    "台中市": 4,
+    "高雄市": 3,
+    "屏東縣": 3,
+    "台北市": 1,
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 1399,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35455412.jpg&M=1&s=Y&x=1&y=231&sw=474&sh=316&exp=3600"
+  },
+  "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
+   "checked_at": "2026-10-26T19:18+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://n.yam.com/Article/20261026555428": {
+   "checked_at": "2026-10-26T19:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T18:21+08:00",
+   "site_name": "蕃新聞",
+   "description": "快訊摘要【找回影院】布施曾有13間電影院，目標重現電影院【明春放映】2027年春天在布施商店街辦放映",
+   "cities": {
+    "台中市": 2
+   },
+   "districts": [],
+   "body_chars": 815,
+   "image": "https://ni.yam.com/20261026/jp-prt-26458-44-1-261026065247441-f1872972d3ea533a.webp"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E9%A7%95%E8%BB%8A%E9%80%B2%E6%9D%B1%E6%B5%B7%E5%95%86%E5%9C%88%E6%93%A6%E6%92%9E%E6%A9%9F%E8%BB%8A-%E8%AD%A6%E6%9F%A5%E8%B6%8A%E7%B1%8D%E7%94%B7-%E9%80%BE%E6%9C%9F%E5%B1%85%E7%95%99-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2g56nE": {
+   "checked_at": "2026-10-26T19:18+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null
+  },
+  "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%B7%A6%E9%8E%AE%E8%80%81%E8%A1%97%E7%AB%B9%E6%A7%8B%E9%80%A0%E6%B6%BC%E4%BA%AD%E5%AE%8C%E5%B7%A5-%E5%AE%B6%E5%85%B7-%E8%8A%B1%E5%99%A8%E5%85%A8%E7%AB%B9%E5%B7%A5%E8%97%9D%E8%B5%B0%E5%85%A5%E7%94%9F%E6%B4%BB-105128056.html": {
+   "checked_at": "2026-10-26T19:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T18:51+08:00",
+   "site_name": "Yahoo News",
+   "description": "歷經約1個月打造，台南左鎮老街新增一座竹構造涼亭，除了可作為舉辦活動、體驗課程的空間，內部也展示竹製的家具、花器、淺山地區植物的印染工藝等，將竹帶回日常生活中，展現全竹工藝，後續也將推出竹工藝相關的體驗課程。該棟竹構造涼亭由左鎮竹苑學員合力打造，約有20人陸續參與，也是左鎮竹資源循環示範與環境教育推",
+   "cities": {
+    "台北市": 11,
+    "新竹市": 9,
+    "台南市": 6,
+    "桃園市": 2,
+    "台中市": 2
+   },
+   "districts": [],
+   "body_chars": 3127,
+   "image": "https://s.yimg.com/lo/mysterio/api/dcfc39206ae2d051022321bceb6d9feb80036ba2d136420f94751ba4b5cf9b74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2F4483b210806c0d8a9735d3775dde2202.jpg"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5619352": {
+   "checked_at": "2026-10-26T19:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T18:51+08:00",
+   "site_name": "自由時報電子報",
+   "description": "歷經約1個月打造，台南左鎮老街新增一座竹構造涼亭，除了可作為舉辦活動、體驗課程的空間，內部也展示竹製的家具、花器、淺山地區植物的印染工藝等，將竹帶回日常生活中，展現全竹工藝，後續也將推出竹工藝相關的體驗課程。該棟竹構造涼亭由左鎮竹苑學員合力打造，約有20人陸續參與，也是左鎮竹資源循環示範與環境教育推廣計畫的成果展示，獲",
+   "cities": {
+    "台南市": 5,
+    "彰化縣": 1
+   },
+   "districts": [],
+   "body_chars": 709,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/26/5619352_1_1.jpg"
+  },
+  "https://www.mnews.tw/story/20261026sot1718001": {
+   "checked_at": "2026-10-26T19:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T17:18+08:00",
+   "site_name": "鏡新聞",
+   "description": "台中警方今天(26日)中午，在東海商圈執行巡邏勤務，發現一名男子駕駛自小客車，撞到路邊機車，員警到場了解，這名男子竟然趁機落跑，員警立刻將人壓制在地，追查發現，他因為持觀光簽證逾期居留，才會心虛落跑。",
+   "cities": {
+    "台中市": 2
+   },
+   "districts": [],
+   "body_chars": 291,
+   "image": "https://statics.mnews.tw/images/3f3ed325-fe90-400e-a206-e218f6514889-w1600.jpg"
+  },
+  "https://www.cna.com.tw/news/aloc/202610260137.aspx": {
+   "checked_at": "2026-10-26T19:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T15:15+08:00",
+   "site_name": "中央社 CNA",
+   "description": "颱風薔琵造成全台農業災損已超過新台幣2.2億元，其中縣市受損以雲林縣損失1億3707萬元最多，農業部長陳駿季今天前往雲林勘災，實地了解作物受損情形，並聽取農友心聲。",
+   "cities": {
+    "雲林縣": 11,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 940,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261026/1129x768_wmkn_0_C20261026000091.jpg"
+  },
+  "https://news.st-media.com.tw/news/63794": {
+   "checked_at": "2026-10-26T19:18+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {
+    "台中市": 1
+   },
+   "districts": [
+    "大甲觀光商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 344,
+   "image": "https://news.st-media.com.tw/UserFiles/resource/n_f2dbf774a7bb548198c42e204aa60fcf/file/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2+2026-10-26+174531.jpg"
+  },
+  "https://www.taichung.gov.tw/3400033/post": {
+   "checked_at": "2026-10-26T19:18+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "臺中市政府全球資訊網",
+   "description": "台中購物節開跑2天登錄破5.5億元！首抽前進大里中興商圈　送出全球不限航點機票及iPhone 17",
+   "cities": {
+    "台中市": 20
+   },
+   "districts": [
+    "大里中興商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1641,
+   "image": "https://www.taichung.gov.tw/media/1482765/2026臺中購物節-屯區gogo購-活動圓滿成功.jpg"
   }
  }
 }
