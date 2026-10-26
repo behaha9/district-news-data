@@ -1,7 +1,32 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T12:17:35+08:00",
+ "generated_at": "2026-10-26T16:51:44+08:00",
  "items": [
+  {
+   "id": "20261026-guohua-restroom",
+   "title": "連假遊客破百萬，台南國華街商圈批公廁不足、控訴文化局管理",
+   "summary": "報導指連假期間國華友愛新商圈周邊4間公廁僅開1間，商圈26日對文化局表達不滿。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-10-26T14:30:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "中時新聞網",
+     "url": "https://www.chinatimes.com/realtimenews/20261026001942-260405",
+     "published_at": "2026-10-26T14:30:00+08:00"
+    },
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261026700481-431401",
+     "published_at": "2026-10-26T14:30:00+08:00"
+    }
+   ],
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-26/656/20261026001943.jpg"
+  },
   {
    "id": "20261025-chaozhou-dachaoji",
    "title": "潮州「大潮祭」結合藝文推動老街再生，印度大學女子團異國舞蹈登場",
@@ -46,6 +71,26 @@
     }
    ],
    "image": "https://ni.yam.com/20261025/2026-10-07-old-street-revitalization-hero-538d869fe491603e.webp"
+  },
+  {
+   "id": "20261025-wulai-oldstreet-flood",
+   "title": "烏來老街遭溪水溢堤淹沒，台9甲線道路中斷",
+   "summary": "報導指新店溪水位暴漲、防洪水溢堤，烏來老街被淹，災情嚴重。",
+   "category": "活動與街區",
+   "alert": "商圈受災",
+   "published_at": "2026-10-25T03:13:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "三立新聞網",
+     "url": "https://www.setn.com/news/185312",
+     "published_at": "2026-10-25T03:13:00+08:00"
+    }
+   ],
+   "image": "https://attach.setn.com/newsimages/2016/09/27/659794-PH.jpg"
   },
   {
    "id": "20261024-haian-halloween",
@@ -372,6 +417,36 @@
    "image": "https://images.chinatimes.com/newsphoto/2026-10-24/1024/20261024001030.jpg"
   },
   {
+   "id": "20261023-jiufen-closed",
+   "title": "薔琵颱風影響，九份老街九成店家未營業",
+   "summary": "報導指薔琵颱風來襲，九份老街約九成店家沒有營業，民宿住客也因颱風取消行程。",
+   "category": "商圈動向",
+   "alert": "商圈受災",
+   "published_at": "2026-10-24T00:00:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [
+    {
+     "name": "九份老街商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "九份老街商圈為115年補助名單，颱風致店家停業，可能影響活動執行與人潮成效。",
+   "sources": [
+    {
+     "outlet": "東森新聞",
+     "url": "https://www.msn.com/zh-tw/news/other/%E6%9C%80%E6%96%B0-%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E6%97%81-%E6%B0%91%E5%AE%85%E5%B1%8B%E9%A0%82%E6%95%B4%E7%89%87%E8%A2%AB%E6%8E%80%E9%A3%9B-%E7%A0%B8%E8%90%BD%E5%9C%A8%E5%9C%B0-newsebc/vi-AA2fY8e0",
+     "published_at": "2026-10-24T00:00:00+08:00"
+    },
+    {
+     "outlet": "東森新聞",
+     "url": "https://www.msn.com/zh-tw/weather/%E4%B8%80%E8%88%AC/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8-%E6%9C%80%E6%96%B0-%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E4%B9%9D%E6%88%90%E5%BA%97%E5%AE%B6%E6%B2%92%E7%87%9F%E6%A5%AD-%E6%B0%91%E5%AE%BF%E4%BD%8F%E5%AE%A2%E9%81%87%E9%A2%B1%E9%A2%A8%E5%8F%96%E6%B6%88-newsebc/vi-AA2fTfCC",
+     "published_at": "2026-10-23T00:00:00+08:00"
+    }
+   ]
+  },
+  {
    "id": "20261023-houzhan-station",
    "title": "台南鐵路地下化新車站啟用，過去的「後站」大學路商圈迎轉機",
    "summary": "台南鐵路地下化第一階段通車，新車站出入口改變旅客動線，過去被視為後站的大學路商圈與東區餐飲、旅宿業者可望迎來消費人潮。",
@@ -540,31 +615,6 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35449597.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600"
-  },
-  {
-   "id": "20261023-jiufen-closed",
-   "title": "薔琵颱風影響，九份老街九成店家未營業",
-   "summary": "報導指薔琵颱風來襲，九份老街約九成店家沒有營業，民宿住客也因颱風取消行程。",
-   "category": "商圈動向",
-   "alert": "商圈受災",
-   "published_at": "2026-10-23T00:00:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [
-    {
-     "name": "九份老街商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "九份老街商圈為115年補助名單，颱風致店家停業，可能影響活動執行與人潮成效。",
-   "sources": [
-    {
-     "outlet": "東森新聞",
-     "url": "https://www.msn.com/zh-tw/weather/%E4%B8%80%E8%88%AC/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8-%E6%9C%80%E6%96%B0-%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E4%B9%9D%E6%88%90%E5%BA%97%E5%AE%B6%E6%B2%92%E7%87%9F%E6%A5%AD-%E6%B0%91%E5%AE%BF%E4%BD%8F%E5%AE%A2%E9%81%87%E9%A2%B1%E9%A2%A8%E5%8F%96%E6%B6%88-newsebc/vi-AA2fTfCC",
-     "published_at": "2026-10-23T00:00:00+08:00"
-    }
-   ]
   },
   {
    "id": "20261023-liuhe-halloween",
