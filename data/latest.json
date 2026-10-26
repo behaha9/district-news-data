@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T07:17:50+08:00",
+ "generated_at": "2026-10-26T12:17:35+08:00",
  "items": [
   {
    "id": "20261025-chaozhou-dachaoji",
@@ -79,6 +79,11 @@
      "outlet": "聯合新聞網",
      "url": "https://udn.com/news/story/7326/9835309",
      "published_at": "2026-10-24T19:03:00+08:00"
+    },
+    {
+     "outlet": "中華新聞雲",
+     "url": "https://www.cdns.com.tw/articles/1479710",
+     "published_at": "2026-10-24T00:00:00+08:00"
     }
    ],
    "image": "https://ni.yam.com/20261025/haian-halloween-coffins-20261025-hero-v1-2294fbf5347ebf52.webp"
@@ -102,6 +107,52 @@
     }
    ],
    "image": "https://images.chinatimes.com/newsphoto/2026-10-24/656/20261024002811.jpg"
+  },
+  {
+   "id": "20261024-lukang-holiday-business-drop",
+   "title": "連假遇薔琵颱風，鹿港老街生意掉三成，強風吹歪看板店家急修招牌",
+   "summary": "光復節連假遇薔琵颱風，彰化連續停班課，鹿港老街店家表示生意約掉三成，強風吹歪看板，業者忙著固定招牌。",
+   "category": "商圈動向",
+   "alert": "商圈受災",
+   "published_at": "2026-10-24T17:37:00+08:00",
+   "cities": [
+    "彰化縣"
+   ],
+   "districts": [
+    {
+     "name": "鹿港老街商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "鹿港老街商圈為115年補助名單，連假受颱風影響生意下滑約三成，可留意後續活動與人潮成效。",
+   "sources": [
+    {
+     "outlet": "壹電視",
+     "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-24/2505391.html",
+     "published_at": "2026-10-24T17:37:00+08:00"
+    },
+    {
+     "outlet": "TVBS新聞網",
+     "url": "https://news.tvbs.com.tw/life/4040643",
+     "published_at": "2026-10-24T16:51:00+08:00"
+    },
+    {
+     "outlet": "ETtoday新聞雲",
+     "url": "https://www.ettoday.net/news/20261024/3260171.htm",
+     "published_at": "2026-10-24T12:43:00+08:00"
+    },
+    {
+     "outlet": "民視新聞",
+     "url": "https://www.msn.com/zh-tw/news/other/%E9%80%A3%E5%81%87%E5%85%A9%E6%A8%A3%E6%83%85-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E5%86%B7%E6%B8%85-%E5%8F%B0%E4%B8%AD%E6%BC%A2%E7%A5%9E%E7%99%BE%E8%B2%A8%E4%BA%BA%E6%BD%AE%E7%88%86%E6%BB%BF-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fX9R7",
+     "published_at": "2026-10-24T00:00:00+08:00"
+    },
+    {
+     "outlet": "TVBS新聞網",
+     "url": "https://www.msn.com/zh-tw/news/other/%E7%BA%8C%E6%94%BE%E9%A2%B1%E9%A2%A8%E5%81%87-%E5%8F%B0%E4%B8%AD%E4%BA%BA%E9%96%8B%E9%80%9B%E7%99%BE%E8%B2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E4%BA%BA%E6%BD%AE%E5%B0%913%E6%88%90/ar-AA2fY8ZE",
+     "published_at": "2026-10-24T00:00:00+08:00"
+    }
+   ],
+   "image": "https://image.nexttv.com.tw/material/news/img/2026/10/b71c287bbeccbd1dc64b0138c150d8a5.jpg"
   },
   {
    "id": "20261023-yongkang-gyutan",
@@ -133,42 +184,6 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35449473.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
-  },
-  {
-   "id": "20261024-lukang-holiday-business-drop",
-   "title": "連假遇薔琵颱風，鹿港老街生意掉三成，強風吹歪看板店家急修招牌",
-   "summary": "光復節連假遇薔琵颱風，彰化連續停班課，鹿港老街店家表示生意約掉三成，強風吹歪看板，業者忙著固定招牌。",
-   "category": "商圈動向",
-   "alert": "商圈受災",
-   "published_at": "2026-10-24T12:43:00+08:00",
-   "cities": [
-    "彰化縣"
-   ],
-   "districts": [
-    {
-     "name": "鹿港老街商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "鹿港老街商圈為115年補助名單，連假受颱風影響生意下滑約三成，可留意後續活動與人潮成效。",
-   "sources": [
-    {
-     "outlet": "ETtoday新聞雲",
-     "url": "https://www.ettoday.net/news/20261024/3260171.htm",
-     "published_at": "2026-10-24T12:43:00+08:00"
-    },
-    {
-     "outlet": "民視新聞",
-     "url": "https://www.msn.com/zh-tw/news/other/%E9%80%A3%E5%81%87%E5%85%A9%E6%A8%A3%E6%83%85-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E5%86%B7%E6%B8%85-%E5%8F%B0%E4%B8%AD%E6%BC%A2%E7%A5%9E%E7%99%BE%E8%B2%A8%E4%BA%BA%E6%BD%AE%E7%88%86%E6%BB%BF-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fX9R7",
-     "published_at": "2026-10-24T00:00:00+08:00"
-    },
-    {
-     "outlet": "TVBS新聞網",
-     "url": "https://www.msn.com/zh-tw/news/other/%E7%BA%8C%E6%94%BE%E9%A2%B1%E9%A2%A8%E5%81%87-%E5%8F%B0%E4%B8%AD%E4%BA%BA%E9%96%8B%E9%80%9B%E7%99%BE%E8%B2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E4%BA%BA%E6%BD%AE%E5%B0%913%E6%88%90/ar-AA2fY8ZE",
-     "published_at": "2026-10-24T00:00:00+08:00"
-    }
-   ],
-   "image": "https://cdn2.ettoday.net/images/8980/e8980706.png"
   },
   {
    "id": "20261023-boai-banner-removed",
@@ -758,6 +773,11 @@
      "outlet": "中廣新聞網",
      "url": "https://msn.com/zh-tw/news/other/%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96%E9%A0%BB%E5%82%B3%E6%83%B9%E6%B0%91%E6%80%A8-%E7%B8%A3%E8%AD%B0%E5%93%A1%E6%8F%AD5%E5%A4%A7%E7%BC%BA%E5%A4%B1/ar-AA2fJs52",
      "published_at": "2026-10-21T09:23:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261021552143",
+     "published_at": "2026-10-21T06:08:00+08:00"
     }
    ],
    "admin_note": "永樂商圈（彰化）為115年補助名單，報導指施工工安疑慮，可留意工程對店家與商圈活動的影響。",
@@ -1032,6 +1052,11 @@
     {
      "outlet": "中華新聞雲",
      "url": "https://www.cdns.com.tw/articles/1477834",
+     "published_at": "2026-10-20T00:00:00+08:00"
+    },
+    {
+     "outlet": "大成報",
+     "url": "https://greatnews.com.tw/news_pagein.php?iType=1010&n_id=315978",
      "published_at": "2026-10-20T00:00:00+08:00"
     }
    ],
