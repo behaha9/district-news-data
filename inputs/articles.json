@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T09:26:50+08:00",
+ "fetched_at": "2026-10-26T11:19:34+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-25T22:48+08:00",
@@ -5755,6 +5755,303 @@
    "districts": [],
    "body_chars": 752,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/26/121.jpg"
+  },
+  "https://www.blocktempo.com/typhoon-ai-fake-photo-mcdonalds-dajia-police-six-forwarders-lawsuit/": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T12:38+08:00",
+   "site_name": "動區動趨-最具影響力的區塊鏈新聞媒體",
+   "description": "颱風夜瘋傳的「大甲麥當勞招牌倒塌」圖片是 AI 假圖，台中警方通知 6 人到案，多數是轉傳者。善意轉傳可能依社維法裁罰，明知是假還刻意散播就涉災防法刑責。",
+   "cities": {
+    "台中市": 6
+   },
+   "districts": [],
+   "body_chars": 1532,
+   "image": "https://image.blocktempo.com/2026/10/cover_20261025_040008.webp"
+  },
+  "https://n.yam.com/Article/20261025210217": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T16:06+08:00",
+   "site_name": "蕃新聞",
+   "description": "【記者邵祥輝/新北報導】強颱薔琵來襲北部，截至昨（24）日17時止，北南區處轄區累計曾停電戶數達5,",
+   "cities": {
+    "新北市": 2,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 626,
+   "image": "https://ni.yam.com/20261025/S__134562033_0-fe3a1fd047272bf2.webp"
+  },
+  "https://udn.com/vote2026/story/124652/9835439": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T00:18+08:00",
+   "site_name": "2026九合一選舉",
+   "description": "薔琵颱風強風驟雨，基隆最大陣風十四級，昨最多有一萬五千多戶停電，市長謝國樑視察招牌掉落、停電及道路設施受損等災情，指示市府相關單位與台電加速處理，周一前復原。民進黨市長參選人童子瑋到協和街附近了解電力搶修進度，台電總經理郭天合表示，除了道路不通及路樹影響以外，都會盡快完成復電。",
+   "cities": {
+    "基隆市": 7,
+    "台北市": 1,
+    "新北市": 1,
+    "台南市": 1,
+    "高雄市": 1
+   },
+   "districts": [
+    "深澳坑商圈（基隆市）"
+   ],
+   "body_chars": 611,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=/t3/2026/10/24/35451402.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853"
+  },
+  "https://life.tw/article/%E5%BD%B1%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E7%81%BD%E5%BE%8C%E5%81%9C%E9%9B%BB%E6%90%B6%E4%BF%AE%E4%B8%8D%E5%81%9C%E6%AD%87-%E5%8F%B0%E9%9B%BB%E5%BD%B0%E5%8C%96%E5%8D%80%E8%99%95%E5%87%BA%E5%8B%95505%E4%BA%BA%E5%8A%9B%E6%8B%9A%E4%BB%8A-3192177": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T21:35+08:00",
+   "site_name": "LIFE 生活網",
+   "description": "薔琵颱風造成台電彰化區處累積20,307戶停電。",
+   "cities": {
+    "彰化縣": 16
+   },
+   "districts": [],
+   "body_chars": 1074,
+   "image": "https://hoomedia.com.tw/wp-content/uploads/2026/10/9418dc7dc0272f1b61c72da274e0b155.jpg"
+  },
+  "https://news.ltn.com.tw/amp/news/life/breakingnews/5617940": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T11:00+08:00",
+   "site_name": "自由時報電子報",
+   "description": "中度颱風「薔琵」為嘉義沿海帶來12級最大陣風，山區則降下豪雨，造成嘉義山區及沿海電力設備損壞，累積逾1.8萬戶停電。台電嘉義區營業處立即啟動緊急應變機制，除全面動員自有工班與大型機具搶修斷線事故外，亦成立「機動搶修班」處理零星災情與「災情查報班」深入現場巡查，並調度承攬商同步修剪樹竹與修復斷線。經全體搶修人員冒著風雨奮",
+   "cities": {
+    "嘉義": 19,
+    "新北市": 2,
+    "台北市": 1,
+    "高雄市": 1,
+    "屏東縣": 1
+   },
+   "districts": [],
+   "body_chars": 1043,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5617940_1_1.jpg"
+  },
+  "https://autos.yahoo.com.tw/news/%E6%96%B0%E8%BB%8A287%E8%90%AC%E6%97%A5%E5%9C%93-%E7%B4%84%E6%96%B0%E5%8F%B0%E5%B9%A3596-202%E5%85%83-subaru-%E5%85%A8%E6%96%B0impreza-025810424.html": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T10:58+08:00",
+   "site_name": "車訊網",
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 2161,
+   "image": "https://s.yimg.com/lo/mysterio/api/C316E13AA786D1E8BFA20F6C4FC6B5FBE07AE8841C4A8D925E55CC66EE9FABAC/subgraphmysterio/resizefit_w2400_h1350;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftwautos.carnews.com%2F09bd5fcdeafc35ec578c0917d7221f41.jpg"
+  },
+  "https://today.line.me/tw/v3/article/gzpPZY8": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T14:55+08:00",
+   "site_name": "LINE TODAY",
+   "description": "〔記者黃政嘉／新北報導〕民進黨新北市長候選人蘇巧慧今參加她與市議員候選人陳韋任的新店競選總部成立大會，蘇巧慧說，「洋流慧聚」即代表對新時代、...",
+   "cities": {
+    "新北市": 10
+   },
+   "districts": [],
+   "body_chars": 966,
+   "image": "https://today-obs.line-scdn.net/0ho5EUXMycMBp4LCygl65PTUB6PGtLSioTWk18Lwh-bSkBAHEYE0hjeVx5ZjYGGiIbWEN-LA4oby8BHX8eEQ/w1200"
+  },
+  "https://tw.news.yahoo.com/%E9%80%9B%E8%A1%97%E5%88%B0-%E5%8D%8A%E5%A6%B9%E5%A6%B9%E5%95%86%E5%9C%88%E8%B5%B0%E5%A4%B1-%E5%A4%A7%E5%AE%89%E8%AD%A6%E7%A9%8D%E6%A5%B5%E5%8D%94%E5%B0%8B%E5%8A%A9%E5%9C%98%E5%9C%93-025119738.html": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T10:51+08:00",
+   "site_name": "Yahoo News",
+   "description": "圖說：臺北市大安分局和平東路派出所警員周品澄、費品涵。 【民眾網編輯方笙楠臺北報導】臺北市大安分局和平東路派出 […]",
+   "cities": {
+    "台北市": 14,
+    "屏東縣": 3,
+    "新北市": 1,
+    "高雄市": 1,
+    "新竹": 1
+   },
+   "districts": [],
+   "body_chars": 3050,
+   "image": "https://s.yimg.com/lo/mysterio/api/fa1dfb49292ece582aa19ff3bf7780c9bb97dbe52e173ee4a4b7313d28b08143/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmypeople.tw%2F29154dcc92331a6f37c93f9ef5878645.jpg"
+  },
+  "https://life.tw/article/%E5%8F%B0%E5%8D%97%E5%81%9C%E9%9B%BB%E6%90%B6%E4%BF%AE%E9%80%B2%E5%85%A5%E6%9C%80%E5%BE%8C%E9%9A%8E%E6%AE%B5-%E5%8F%B0%E9%9B%BB%E6%B0%91%E7%94%9F%E7%94%A8%E9%9B%BB%E5%8A%9B%E6%8B%9A%E4%BB%8A%E6%99%9A%E6%81%A2%E5%BE%A9-3191994": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T18:06+08:00",
+   "site_name": "LIFE 生活網",
+   "description": "薔薔颱風造成台南部分電力設施受損，一度有1萬8千餘戶停電。",
+   "cities": {
+    "台南市": 12
+   },
+   "districts": [],
+   "body_chars": 916,
+   "image": "https://focus.586.com.tw/wp-content/uploads/2026/10/S__152076329_0.jpg"
+  },
+  "https://sunmedia.tw/news/technology/1792795729-%E7%8D%A8%E7%AB%8B%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E5%95%86%E6%87%BCAI%E8%A4%87%E8%A3%BD%E9%A2%A8%E9%9A%AA%20%E5%8F%96%E6%B6%88%E5%85%AC%E9%96%8B%E8%A9%A6%E7%8E%A9%E7%89%88": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T15:36+08:00",
+   "site_name": "商傳媒",
+   "description": "獨立遊戲開發商 Alliance Arts 旗下遊戲 Drunken Goddess Reflux 原定舉辦的公開試玩會，因擔憂 AI 工具快速複製遊戲內容，恐損害原創性與開發者權益，已決定取消，改為邀請制閉門體驗，凸顯人工智慧對創意產業的衝擊。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 701,
+   "image": "https://image.sunmedia.tw/banners/bfcfa16c-d1f4-45ed-88bc-0ed602165bd5.jpeg"
+  },
+  "https://udn.com/news/story/7326/9835174": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T16:39+08:00",
+   "site_name": "聯合新聞網",
+   "description": "薔琵颱風造成雲林縣大小災情，消防局統計昨晚到今天上午進入災損高峰，報案件數增加265件，兩天累計達705件，其中以電力等民生設施居多，累計停電戶數逾3萬4000戶，經台電雲林區處出動搶修到今天下午停電戶數已只剩1800戶，集中在四湖、口湖、水林及台西等海線地區，台電仍將持續搶修力拚今晚能全數恢復供電，請停電戶耐心等待。",
+   "cities": {
+    "雲林縣": 18,
+    "台南市": 7,
+    "嘉義縣": 3,
+    "苗栗縣": 2,
+    "桃園市": 1
+   },
+   "districts": [
+    "海安商圈（台南市）"
+   ],
+   "body_chars": 1953,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451095.jpg&M=1&s=Y&x=0&y=57&sw=1279&sh=853&exp=3600"
+  },
+  "https://www.tristarnews.com.tw/news_ii.html?ID=38793": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "薔琵襲嘉義釀1.8萬戶停電 台電已全數復電-(記者黃音文／嘉義報導)中度颱風「薔琵」帶來的強風與豪雨，造成嘉義山區及沿海電力設備損壞，累積逾1.8萬戶停電。台電嘉義區營業處立即啟動緊急應變機制，除全面動員自有工班與大型機具搶修斷線事故外，亦成立「機動搶修班」處理零星災情與「災情查報班」深入現場巡查，並調度承攬商同步修剪",
+   "cities": {
+    "嘉義": 7
+   },
+   "districts": [],
+   "body_chars": 276,
+   "image": "https://www.tristarnews.com.tw/upload/newsData/20261024212356TJLg.jpg"
+  },
+  "https://www.worldjournal.com/wj/amp/story/121368/9834960": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "世界新聞網",
+   "description": "深耕屋崙華埠43年的加州金城銀行（Metropolitan Bank），23日在八街360號舉行新分行開幕剪綵儀式，屋崙市長芭芭拉李（Barbara Lee）、第二選區市議員王夏琳（Charlene Wang）及地方官員到場祝賀。這家1983年由華人創辦的社區銀行，此次遷至原址對街，持續投資華埠。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1013,
+   "image": "https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450769.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=800&exp=3600"
+  },
+  "https://mypeoplevol.com/2026/life/117866/": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:06+08:00",
+   "site_name": "民眾新聞網",
+   "description": "《圖說》台電北北區處於瑞光路搶修情況。〈北北區處提供〉 【記者葉柏成／新北報導】中颱薔琵來襲，強風豪雨造成台北 […]",
+   "cities": {
+    "新北市": 3,
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 852,
+   "image": "https://img.pressunion.net/wp-content/uploads/2026/10/%E5%8C%97%E5%8C%97%E7%91%9E%E5%85%89%E8%B7%AF%E4%B8%80.jpg"
+  },
+  "https://n.yam.com/Article/20261024741304": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T13:46+08:00",
+   "site_name": "蕃新聞",
+   "description": "經過昨日深夜薔琵肆虐，台電桃園區處今日一早即已盤點災情，並全面動員自有人力與承攬商人力280餘人及搶",
+   "cities": {
+    "桃園市": 12
+   },
+   "districts": [],
+   "body_chars": 912,
+   "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2026/10/S__166920289.webp?fit=1200%2C901&ssl=1"
+  },
+  "https://news.tvbs.com.tw/videos/DoiLAN-3N9I": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "TVBS新聞網",
+   "description": "續放颱風假!台中人開逛百貨 鹿港老街人少3成｜TVBS新聞 @TVBSNEWS01",
+   "cities": {
+    "台中市": 3,
+    "台北市": 2
+   },
+   "districts": [
+    "鹿港老街商圈（彰化縣）"
+   ],
+   "body_chars": 267,
+   "image": null
+  },
+  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-24/2505391.html": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:37+08:00",
+   "site_name": "壹電視",
+   "description": "彰化鹿港小吃業者原本期盼三天連假，遊客逛老街，再衝業績高峰，但颱風帶來強烈風雨，預估來客數，比起去年連假，人潮恐怕減少三成。",
+   "cities": {
+    "彰化縣": 2
+   },
+   "districts": [
+    "鹿港老街商圈（彰化縣）"
+   ],
+   "body_chars": 332,
+   "image": "https://image.nexttv.com.tw/material/news/img/2026/10/b71c287bbeccbd1dc64b0138c150d8a5.jpg"
+  },
+  "https://more-news.tw/750973/": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T14:57+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "【記者曾安平／桃園報導】薔琵颱風強勁風勢襲擊北部，桃園沿海地區最大陣風達10級，造成多處停電。台電桃園區處統計 […]",
+   "cities": {
+    "桃園市": 11,
+    "嘉義市": 2
+   },
+   "districts": [],
+   "body_chars": 586,
+   "image": "https://more-news.tw/more-news-media/2026/10/1151024-411.jpg"
+  },
+  "https://media.posu.tw/uninews_view.php?new_sn=147269": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "新媒體經紀人",
+   "cities": {
+    "台南市": 12
+   },
+   "districts": [],
+   "body_chars": 573,
+   "image": null
+  },
+  "https://www.229119.com.tw/uninews_view.php?new_sn=147336&lang=TS": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "民安救護車事業有限公司，緊急救護、急診轉院、出院、門診回診、安寧返家、各大型活動救護車服務支援，行駛全省各地並代聘特別護士。",
+   "cities": {
+    "台南市": 6
+   },
+   "districts": [
+    "海安商圈（台南市）"
+   ],
+   "body_chars": 779,
+   "image": null
+  },
+  "https://news.ttv.com.tw/news/11510240001700W": {
+   "checked_at": "2026-10-26T11:19+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T15:00+08:00",
+   "site_name": "台視新聞網",
+   "description": "強震造成道路中斷、醫院湧入大量傷患，甚至停電、供水受阻，原有醫療空間無法使用時，民眾該如何獲得醫療協助？衛生福利部次長林靜儀於「2026韌性國家醫療整備國際研討會」中表示，面對極端氣候、地緣政治威脅及大規模災害，醫療體系除了提供日常醫療服務，更須確保危機發生時，仍能維持急診、緊急.....",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [],
+   "body_chars": 1195,
+   "image": "https://cdn.ttv.com.tw/manasystem/FileData/News/25088e8f-ec56-4163-b2bb-61712ea965aa.jpg"
   }
  }
 }
