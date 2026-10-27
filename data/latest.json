@@ -1,7 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T12:17:54+08:00",
+ "generated_at": "2026-10-27T16:52:47+08:00",
  "items": [
+  {
+   "id": "20261027-dongqu-skm-anniv",
+   "title": "豪宅經濟助攻台北東區商圈，新光三越鑽石塔週年慶拚16億業績",
+   "summary": "報導指東區商圈受惠高資產客群消費，新光三越擴增鑽石塔精品與家電陣容，週年慶目標全年16億業績。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-10-27T15:11:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "東區商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "東區商圈為115年補助名單，百貨週年慶帶動人潮，可留意商圈整體買氣與活動成效。",
+   "sources": [
+    {
+     "outlet": "CMoney投資網誌",
+     "url": "https://cmnews.com.tw/article/forumnews-94ce1063-d1d5-11f1-895e-31890c5c87d8",
+     "published_at": "2026-10-27T15:11:00+08:00"
+    }
+   ],
+   "image": "https://image.cmoney.tw/attachment/blog/1793030400/93cbb159-2f90-44ee-9612-70bffad29c83.jpg"
+  },
+  {
+   "id": "20261027-tainan-holiday-districts",
+   "title": "光復連假台南累計吸引逾121萬人次，市區商圈吸客逾71萬",
+   "summary": "台南市觀旅局統計連假各景點人潮，市區商圈、古蹟園區及購物商場最受歡迎，累計逾71萬人次，老街街區也吸引不少遊客。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-10-27T12:19:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7326/9839466",
+     "published_at": "2026-10-27T12:19:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35457868.jpg&M=1&s=Y&x=0&y=1&sw=1279&sh=853&exp=3600"
+  },
   {
    "id": "20261027-gongyi-visitors",
    "title": "觀光署統計：公益路商圈今年1至8月吸引逾2309萬人次，居台中景點之冠",
@@ -629,31 +675,6 @@
    ]
   },
   {
-   "id": "20261023-jiufen-closed",
-   "title": "薔琵颱風影響，九份老街九成店家未營業",
-   "summary": "報導指薔琵颱風來襲，九份老街約九成店家沒有營業，民宿住客也因颱風取消行程。",
-   "category": "商圈動向",
-   "alert": "商圈受災",
-   "published_at": "2026-10-23T00:00:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [
-    {
-     "name": "九份老街商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "九份老街商圈為115年補助名單，颱風致店家停業，可能影響活動執行與人潮成效。",
-   "sources": [
-    {
-     "outlet": "東森新聞",
-     "url": "https://www.msn.com/zh-tw/weather/%E4%B8%80%E8%88%AC/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8-%E6%9C%80%E6%96%B0-%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E4%B9%9D%E6%88%90%E5%BA%97%E5%AE%B6%E6%B2%92%E7%87%9F%E6%A5%AD-%E6%B0%91%E5%AE%BF%E4%BD%8F%E5%AE%A2%E9%81%87%E9%A2%B1%E9%A2%A8%E5%8F%96%E6%B6%88-newsebc/vi-AA2fTfCC",
-     "published_at": "2026-10-23T00:00:00+08:00"
-    }
-   ]
-  },
-  {
    "id": "20261023-houzhan-station",
    "title": "台南鐵路地下化新車站啟用，過去的「後站」大學路商圈迎轉機",
    "summary": "台南鐵路地下化第一階段通車，新車站出入口改變旅客動線，過去被視為後站的大學路商圈與東區餐飲、旅宿業者可望迎來消費人潮。",
@@ -802,6 +823,31 @@
     }
    ],
    "image": "https://ni.yam.com/20261023/05--AI--98df3c1e164a8982.webp"
+  },
+  {
+   "id": "20261023-jiufen-closed",
+   "title": "薔琵颱風影響，九份老街九成店家未營業",
+   "summary": "報導指薔琵颱風來襲，九份老街約九成店家沒有營業，民宿住客也因颱風取消行程。",
+   "category": "商圈動向",
+   "alert": "商圈受災",
+   "published_at": "2026-10-23T00:00:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [
+    {
+     "name": "九份老街商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "九份老街商圈為115年補助名單，颱風致店家停業，可能影響活動執行與人潮成效。",
+   "sources": [
+    {
+     "outlet": "東森新聞",
+     "url": "https://www.msn.com/zh-tw/weather/%E4%B8%80%E8%88%AC/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8-%E6%9C%80%E6%96%B0-%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E4%B9%9D%E6%88%90%E5%BA%97%E5%AE%B6%E6%B2%92%E7%87%9F%E6%A5%AD-%E6%B0%91%E5%AE%BF%E4%BD%8F%E5%AE%A2%E9%81%87%E9%A2%B1%E9%A2%A8%E5%8F%96%E6%B6%88-newsebc/vi-AA2fTfCC",
+     "published_at": "2026-10-23T00:00:00+08:00"
+    }
+   ]
   },
   {
    "id": "20261023-kaohsiung-datong-parking",
