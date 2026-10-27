@@ -1,0 +1,202 @@
+{
+ "date": "2026-10-28",
+ "runs": [
+  {
+   "at": "2026-10-28T07:18:46+08:00",
+   "added": 5,
+   "merged": 1,
+   "items": [
+    {
+     "id": "20261021-tianmu-halloween-postponed",
+     "title": "天母萬聖節活動「天母搞什麼鬼18」因颱風延期，改週日遊行、下週一園遊會",
+     "summary": "受薔琵颱風影響，天母商圈年度萬聖節活動延期，遊行改至週日（10/25）、園遊會與討糖改至下週一（10/26）。",
+     "category": "活動與街區",
+     "alert": "活動異動",
+     "published_at": "2026-10-27T20:04:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "天母商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261027916839",
+       "published_at": "2026-10-27T20:04:00+08:00"
+      },
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/752223/",
+       "published_at": "2026-10-26T23:19:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://www.nownews.com/news/6886016",
+       "published_at": "2026-10-24T05:55:00+08:00"
+      },
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/life/breakingnews/5615082",
+       "published_at": "2026-10-22T16:04:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://nownews.com/news/6885475",
+       "published_at": "2026-10-22T12:12:00+08:00"
+      },
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://www.ettoday.net/news/20261021/3258340.htm",
+       "published_at": "2026-10-21T12:06:00+08:00"
+      },
+      {
+       "outlet": "鏡週刊",
+       "url": "https://www.mirrormedia.mg/story/20261020hea03",
+       "published_at": "2026-10-21T10:30:00+08:00"
+      },
+      {
+       "outlet": "蘋果仁",
+       "url": "https://applealmond.com/posts/329501",
+       "published_at": "2026-10-21T00:00:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://www.nownews.com/news/6884781",
+       "published_at": "2026-10-19T18:04:00+08:00"
+      }
+     ],
+     "admin_note": "天母商圈為115年補助名單，活動延期可能涉及執行期程或計畫變更。",
+     "image": "https://ni.yam.com/20261027/taipei-cover-261027070910421-f7117e623fc719de.webp"
+    },
+    {
+     "id": "20261027-banqiao-fuzhong-ghost",
+     "title": "新北「府中搞什麼鬼」10/31至11/1板橋府中商圈登場，公布交管與替代路線",
+     "summary": "新北萬聖節「府中搞什麼鬼」於板橋府中廣場、重慶路徒步區等地舉辦兩天，並公布交通管制措施。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-27T14:36:00+08:00",
+     "cities": [
+      "新北市"
+     ],
+     "districts": [
+      {
+       "name": "板橋府中商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "板橋府中商圈為115年補助名單，活動辦理與交管資訊可作為執行佐證參考。",
+     "sources": [
+      {
+       "outlet": "知新聞",
+       "url": "https://www.knews.com.tw/news/A1C6ACFFE99CF850ABB28DDDA5CBA34E",
+       "published_at": "2026-10-27T14:36:00+08:00"
+      }
+     ],
+     "image": "https://static.kmedia.com.tw/prd/2026/1027/A1C6ACFFE99CF850ABB28DDDA5CBA34E/8ed8d37169790d08716669fe6b838ddc.jpg"
+    },
+    {
+     "id": "20261027-houzhan-jiangong",
+     "title": "台北車站後站老街區轉型，建功里籌劃社區活動重塑街區活力",
+     "summary": "報導指台北車站後站老街區面臨轉型挑戰，里長參選人提出以社區活動凝聚街區的構想。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-10-27T15:05:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "後站商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "樂聯網",
+       "url": "https://leho.com.tw/archives/413329",
+       "published_at": "2026-10-27T15:05:00+08:00"
+      }
+     ],
+     "image": "https://image.sunmedia.tw/banners/064579de-ddc1-454e-9aa6-245c6d408dec.jpeg"
+    },
+    {
+     "id": "20261028-daxi-craft-week",
+     "title": "2026大溪工藝周10/31起兩周登場，以兩大主題邀民眾遊老街",
+     "summary": "大溪工藝周自10月31日起為期兩周，分兩大主題辦理活動，大溪木藝生態博物館也以老街建築推出主題商品。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-28T04:10:00+08:00",
+     "cities": [
+      "桃園市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "中時新聞網",
+       "url": "https://www.chinatimes.com/newspapers/20261028000596-260107",
+       "published_at": "2026-10-28T04:10:00+08:00"
+      }
+     ],
+     "image": "https://images.chinatimes.com/newsphoto/2026-10-28/656/B20A00_P_04_02.jpg"
+    },
+    {
+     "id": "20261028-chifeng-urs",
+     "title": "沈伯洋針對赤峰商圈房租上漲提「URS 2.0」構想，市民憂特色店家出走",
+     "summary": "台北市長候選人沈伯洋建議市府以長租或購入具歷史紋理的空間，因應赤峰商圈房租上漲與特色店家出走。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-10-28T04:08:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "赤峰街商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "赤峰街商圈為115年補助名單，報導提及房租與店家流失，可留意商圈營運變化。",
+     "sources": [
+      {
+       "outlet": "三立新聞網",
+       "url": "https://www.setn.com/news/1929436",
+       "published_at": "2026-10-28T04:08:00+08:00"
+      }
+     ],
+     "image": "https://attach.setn.com/newsimages/2026/10/27/5765051-PH.jpg"
+    },
+    {
+     "id": "20261027-sanxia-yingge-taiwanpay",
+     "title": "三峽鶯歌商圈使用台灣Pay享20%回饋，優惠至2027年5月底",
+     "summary": "指定商圈店家使用台灣Pay掃碼支付可享回饋，活動期間為2026年10月19日至2027年5月31日。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-10-27T16:51:00+08:00",
+     "cities": [
+      "新北市"
+     ],
+     "districts": [
+      {
+       "name": "鶯歌商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "卡優新聞網",
+       "url": "https://www.cardu.com.tw/mpay/detail.php?66186",
+       "published_at": "2026-10-27T16:51:00+08:00"
+      }
+     ],
+     "image": "https://imgcloud.cardu.com.tw/201910/20261025/Cardu_6adda32b23f41.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
+  }
+ ]
+}
