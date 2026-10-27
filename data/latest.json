@@ -1,7 +1,82 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T11:30:07+08:00",
+ "generated_at": "2026-10-27T12:17:54+08:00",
  "items": [
+  {
+   "id": "20261027-gongyi-visitors",
+   "title": "觀光署統計：公益路商圈今年1至8月吸引逾2309萬人次，居台中景點之冠",
+   "summary": "報導引述交通部觀光署統計，台中公益路商圈1至8月人次超過2309萬，名列台中最強景點。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-10-27T11:03:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    {
+     "name": "公益路商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "中時新聞網",
+     "url": "https://www.chinatimes.com/realtimenews/20261027001835-260405",
+     "published_at": "2026-10-27T11:03:00+08:00"
+    }
+   ],
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-27/656/20261027001840.jpg"
+  },
+  {
+   "id": "20261024-taoyuan-map-walk",
+   "title": "桃園推出雙城走讀地圖，串聯老街、古蹟與商場",
+   "summary": "報導指一張地圖串聯桃園雙城的老街、古蹟與商場，提供城市漫遊的新體驗。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-27T08:00:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "UDN",
+     "url": "https://travel.udn.com/travel/story/7206/9834487",
+     "published_at": "2026-10-27T08:00:00+08:00"
+    },
+    {
+     "outlet": "中時新聞網",
+     "url": "https://truemii.chinatimes.com/content/20261024001029-265001",
+     "published_at": "2026-10-24T00:00:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261024303429",
+     "published_at": "2026-10-24T00:00:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450012.jpg&M=1&s=Y&x=0&y=0&sw=720&sh=480&exp=3600"
+  },
+  {
+   "id": "20261027-pinglin-old-street",
+   "title": "新北坪林老街因網友分享茶製點心在社群爆紅",
+   "summary": "報導指坪林老街近期因網友分享茶冰淇淋、茶麻糬等體驗，在社群平台引發討論。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-27T08:00:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E6%98%9F-%E9%9A%B1%E8%97%8F%E8%80%81%E8%A1%97-%E6%84%8F%E5%A4%96%E7%88%86%E7%B4%85-%E7%B6%B2%E6%8E%A8%E5%A5%BD%E5%90%83%E5%8F%88%E5%A5%BD%E9%80%9B-%E9%A2%A8%E6%99%AF%E8%AA%98%E4%BA%BA-000000045.html",
+     "published_at": "2026-10-27T08:00:00+08:00"
+    }
+   ],
+   "image": "https://s.yimg.com/lo/mysterio/api/821e7f42bce5d0d32ab0b68f03800ab12641ba4d53388c3a544efdd3e2f7750d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fno%2Fsupertaste_tvbs_com_tw_971%2F7fb58e694bfdb3b579c5ec26f4b76bc8"
+  },
   {
    "id": "20261027-wanli-banquet",
    "title": "萬里千歲宴試辦，結合礦坑文化與古早味辦桌推廣商圈",
@@ -27,6 +102,117 @@
     }
    ],
    "image": "https://lifenews.com.tw/wp-content/uploads/2026/10/2034832_0.jpg"
+  },
+  {
+   "id": "20261021-tianmu-halloween-postponed",
+   "title": "天母萬聖節活動「天母搞什麼鬼18」因颱風延期，改週日遊行、下週一園遊會",
+   "summary": "受薔琵颱風影響，天母商圈年度萬聖節活動延期，遊行改至週日（10/25）、園遊會與討糖改至下週一（10/26）。",
+   "category": "活動與街區",
+   "alert": "活動異動",
+   "published_at": "2026-10-26T23:19:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "天母商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/752223/",
+     "published_at": "2026-10-26T23:19:00+08:00"
+    },
+    {
+     "outlet": "NOWnews今日新聞",
+     "url": "https://www.nownews.com/news/6886016",
+     "published_at": "2026-10-24T05:55:00+08:00"
+    },
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5615082",
+     "published_at": "2026-10-22T16:04:00+08:00"
+    },
+    {
+     "outlet": "NOWnews今日新聞",
+     "url": "https://nownews.com/news/6885475",
+     "published_at": "2026-10-22T12:12:00+08:00"
+    },
+    {
+     "outlet": "ETtoday新聞雲",
+     "url": "https://www.ettoday.net/news/20261021/3258340.htm",
+     "published_at": "2026-10-21T12:06:00+08:00"
+    },
+    {
+     "outlet": "鏡週刊",
+     "url": "https://www.mirrormedia.mg/story/20261020hea03",
+     "published_at": "2026-10-21T10:30:00+08:00"
+    },
+    {
+     "outlet": "蘋果仁",
+     "url": "https://applealmond.com/posts/329501",
+     "published_at": "2026-10-21T00:00:00+08:00"
+    },
+    {
+     "outlet": "NOWnews今日新聞",
+     "url": "https://www.nownews.com/news/6884781",
+     "published_at": "2026-10-19T18:04:00+08:00"
+    }
+   ],
+   "admin_note": "天母商圈為115年補助名單，活動延期可能涉及執行期程或計畫變更。",
+   "image": "https://more-news.tw/more-news-media/2026/10/IMG_1076-scaled.jpeg"
+  },
+  {
+   "id": "20261026-xinyi-smoking-room-smoke",
+   "title": "信義商圈負壓吸菸室冒出濃煙，北市5個月內傳多起冒煙通報",
+   "summary": "報導指信義區百貨商圈旁負壓吸菸室25日晚間冒出濃煙，消防到場處理，近5個月指定吸菸區已有多起冒煙、悶燒通報。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-10-26T20:20:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "信義商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "民視新聞網",
+     "url": "https://www.ftvnews.com.tw/news/detail/2026A26L03M1",
+     "published_at": "2026-10-26T20:20:00+08:00"
+    },
+    {
+     "outlet": "民視新聞網",
+     "url": "https://www.ftvnews.com.tw/news/detail/2026A26L05M1",
+     "published_at": "2026-10-26T20:18:00+08:00"
+    }
+   ],
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/066eb957-969e-4130-b094-7e934ba835bf.jpg"
+  },
+  {
+   "id": "20261026-youshuzhen-hualien-district",
+   "title": "花蓮縣長參選人游淑貞提青年、婦女及商圈發展政策，走訪花蓮市商家",
+   "summary": "國民黨花蓮縣長參選人游淑貞走訪花蓮市，提出包含商圈發展在內的政策主張。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-10-26T19:20:00+08:00",
+   "cities": [
+    "花蓮縣"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E6%B8%B8%E6%B7%91%E8%B2%9E%E6%8E%A8%E9%9D%92%E5%B9%B4-%E5%A9%A6%E5%A5%B3%E5%8F%8A%E5%95%86%E5%9C%88%E7%99%BC%E5%B1%95%E6%94%BF%E7%AD%96-%E8%8A%B1%E8%93%AE%E5%B8%82%E6%8E%83%E8%A1%97%E7%8D%B2%E8%B4%88-%E7%95%B6%E9%81%B8%E5%92%96%E5%95%A1-112000649.html",
+     "published_at": "2026-10-26T19:20:00+08:00"
+    }
+   ],
+   "image": "https://s.yimg.com/lo/mysterio/api/4707106dcd4e472f6bed61636c877973a91af1b3bd7b491e2e9cb9ad7b35cc2b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fupmedia.mg.tw%2Ffefe91db7e24ea6080eeb82bcaaebde7.jpg"
   },
   {
    "id": "20261026-dali-zhongxing-shopping",
@@ -413,62 +599,6 @@
    "image": "https://s.yimg.com/lo/mysterio/api/f37e72ba6ad0d8d0bcfe319abef6bcafb675b86f3956bc6c69569519bf6a9634/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fudn.com%2Fbe60501b9c3331826a097388d62481f6.jpg"
   },
   {
-   "id": "20261021-tianmu-halloween-postponed",
-   "title": "天母萬聖節活動「天母搞什麼鬼18」因颱風延期，改週日遊行、下週一園遊會",
-   "summary": "受薔琵颱風影響，天母商圈年度萬聖節活動延期，遊行改至週日（10/25）、園遊會與討糖改至下週一（10/26）。",
-   "category": "活動與街區",
-   "alert": "活動異動",
-   "published_at": "2026-10-24T05:55:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "天母商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "NOWnews今日新聞",
-     "url": "https://www.nownews.com/news/6886016",
-     "published_at": "2026-10-24T05:55:00+08:00"
-    },
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5615082",
-     "published_at": "2026-10-22T16:04:00+08:00"
-    },
-    {
-     "outlet": "NOWnews今日新聞",
-     "url": "https://nownews.com/news/6885475",
-     "published_at": "2026-10-22T12:12:00+08:00"
-    },
-    {
-     "outlet": "ETtoday新聞雲",
-     "url": "https://www.ettoday.net/news/20261021/3258340.htm",
-     "published_at": "2026-10-21T12:06:00+08:00"
-    },
-    {
-     "outlet": "鏡週刊",
-     "url": "https://www.mirrormedia.mg/story/20261020hea03",
-     "published_at": "2026-10-21T10:30:00+08:00"
-    },
-    {
-     "outlet": "蘋果仁",
-     "url": "https://applealmond.com/posts/329501",
-     "published_at": "2026-10-21T00:00:00+08:00"
-    },
-    {
-     "outlet": "NOWnews今日新聞",
-     "url": "https://www.nownews.com/news/6884781",
-     "published_at": "2026-10-19T18:04:00+08:00"
-    }
-   ],
-   "admin_note": "天母商圈為115年補助名單，活動延期可能涉及執行期程或計畫變更。",
-   "image": "https://media.nownews.com/nn_media/thumbnail/2026/10/1792753489984-9f5f9833c8fc4b25b0f1217f6882f719-800x531.webp?unShow=false"
-  },
-  {
    "id": "20261024-tamsui-old-street-damage",
    "title": "薔琵颱風衝擊淡水老街，河口水位高漲、英專路招牌砸落",
    "summary": "報導指薔琵颱風使淡水河口水位高漲，淡水老街一帶滿目狼藉，英專路有招牌砸落、帆布碎片四散。",
@@ -497,31 +627,6 @@
      "published_at": "2026-10-24T00:00:00+08:00"
     }
    ]
-  },
-  {
-   "id": "20261024-taoyuan-map-walk",
-   "title": "桃園推出雙城走讀地圖，串聯老街、古蹟與商場",
-   "summary": "報導指一張地圖串聯桃園雙城的老街、古蹟與商場，提供城市漫遊的新體驗。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-24T00:00:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "中時新聞網",
-     "url": "https://truemii.chinatimes.com/content/20261024001029-265001",
-     "published_at": "2026-10-24T00:00:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261024303429",
-     "published_at": "2026-10-24T00:00:00+08:00"
-    }
-   ],
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-24/1024/20261024001030.jpg"
   },
   {
    "id": "20261023-jiufen-closed",
