@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-10-27T08:36:35+08:00",
+ "fetched_at": "2026-10-27T09:39:01+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 136,
-  "kept": 29,
-  "resolved": 29,
-  "items": 29,
+  "raw": 138,
+  "kept": 30,
+  "resolved": 30,
+  "items": 30,
   "resolve_this_run": {
-   "online": 5
+   "online": 1
   }
  },
  "items": [
@@ -17,7 +17,7 @@
    "google_url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQb2JiVENpY1pMWUlrS3pNckpMcUdQbUdYWm9MTzJ6OVRPTmY2TDFGTWtabFUtc29LUi1ISzlWSGp5bm5uRWlLN0FpcEpRUVZqMk50dE11OFlrUmc5eGRaajdlRzVGN0huMVBSX2IwakZaLWxQSUhXN3gyYVVpamoyZThSbEJ1YXowNHNBN28tcHBJZW9FOWgyVHQyb0dJSVduRnJtVFZDU1FESDdQSEFVTllhbDZIQk1sWG0xLUZVY3cxQlc1SWFiYlRUZFJWaG5Sck9BNGR0el81NFFUTk8zMTV6TVBUbmRhc1lHdkVUZ1JMUVoweUNwZjY5NmcwWHNjWW9iMnF2TUgxYjVYRVNBSzJtVFhFV0RoNHdKUl9FWnFVRG95Mm5ER1pNQmRMM0FBNXFUdjlNLTdjblJTV3NsWEFjVjlodk1w?oc=5",
    "source": "Yahoo新聞",
    "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-10-27T08:02+08:00",
+   "published_at": "2026-10-27T08:04+08:00",
    "query": "老街",
    "url": "https://tw.news.yahoo.com/%E6%98%9F-%E9%9A%B1%E8%97%8F%E8%80%81%E8%A1%97-%E6%84%8F%E5%A4%96%E7%88%86%E7%B4%85-%E7%B6%B2%E6%8E%A8%E5%A5%BD%E5%90%83%E5%8F%88%E5%A5%BD%E9%80%9B-%E9%A2%A8%E6%99%AF%E8%AA%98%E4%BA%BA-000000045.html",
    "resolved": true
@@ -43,6 +43,16 @@
    "resolved": true
   },
   {
+   "title": "提升商圈與市場環境 每年加碼25.5億",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50VWRKZEVHd0RnNEZlSC1sbl84U1NUdjZIVEhmRld5MXFQeDlGS2ExOWpIWjdOdzJpekRPcjNlNGdaOXlhRkVIYjh3ckU0TWVoaGtqdU1Fc3g?oc=5",
+   "source": "自由時報",
+   "source_site": "https://stock.ltn.com.tw",
+   "published_at": "2026-10-27T02:32+08:00",
+   "query": "商圈",
+   "url": "https://stock.ltn.com.tw/article/1jurxjrxgvl5",
+   "resolved": true
+  },
+  {
    "title": "北市商辦租賃市場轉強 忠孝襄陽商圈表現最突出",
    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MVF9DQTlJVmpEUy1vMHFlQkpDY0RHVWlIaXFTMmI1U0pNVm9KSEJhU1VGZV9hNnByNWVobUpYTmpGSWppbk1DSlFmWC1INVpjMmZnMjFMZjFyUdIBX0FVX3lxTE5YQ0lXaElvejluVmVNVENyajRHM2dlOENHeHpBT09rbmZ4bEpjeEhraF9WSHhaY0pCYTZJSDIwdkhLZXg3ZXUtMXktcHBuM25zRkRiSUtKZ2FqZzZUZ29z?oc=5",
    "source": "經濟日報",
@@ -60,16 +70,6 @@
    "published_at": "2026-10-27T02:05+08:00",
    "query": "商圈",
    "url": "https://udn.com/news/story/7241/9838435?from=udn-catebreaknews_ch2",
-   "resolved": true
-  },
-  {
-   "title": "振興北市商圈經濟!沈伯洋永康商圈座談會",
-   "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TVl9VZ0hhdURfWjV6bXk5ZU5mRFVNYjRMQ1h1cklSd3lhMHpDckFHVWh3Z09COGZUT2VRdXpsdnIwa2VLMm9MRlplUmF6eEtfWDNpcQ?oc=5",
-   "source": "三立新聞",
-   "source_site": "https://live.setn.com",
-   "published_at": "2026-10-27T01:32+08:00",
-   "query": "商圈",
-   "url": "https://live.setn.com/Live/3892/24350?p=23",
    "resolved": true
   },
   {
@@ -263,23 +263,23 @@
    "resolved": true
   },
   {
+   "title": "烏來好慘！台九甲線道路斷溪水溢堤老街淹| 生活",
+   "google_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5JYmxKVGxtU0N2Wm5MNHVVTXY5RWJ3UFR6dGVUWXdTdXN5TFFxVVJ0Q1dXeWhwdnFQaldBcWJ3TkdBaFNfR3Zv?oc=5",
+   "source": "三立新聞",
+   "source_site": "https://www.setn.com",
+   "published_at": "2026-10-26T08:35+08:00",
+   "query": "老街",
+   "url": "https://www.setn.com/news/185312",
+   "resolved": true
+  },
+  {
    "title": "逢甲商圈「墾丁化」？停車一次300元　在地人也看不下去",
    "google_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5nb3BFTTFWM2lKWTdRS1Z5cl9tdFpLUm5EeXZuVkVzNXgwWnQ5VHlGaFJCWWk3X1Z5ckRVX1o2TWFYRGUwWHlZ0gFLQVVfeXFMTko1OVc2VDRhd0Y2RVJ6R0NvWmotNGtfRDlVc3VwTUNVdUl4TnZMNUVLT2VtNHF6NDBnd0J2LXdJZWNpTlB4bWVzLVlF?oc=5",
    "source": "三立新聞",
    "source_site": "https://www.setn.com",
-   "published_at": "2026-10-26T08:18+08:00",
+   "published_at": "2026-10-26T05:20+08:00",
    "query": "商圈",
    "url": "https://www.setn.com/news/445261",
-   "resolved": true
-  },
-  {
-   "title": "議員候選人林建南巧扮海綿寶寶 萌翻海安商圈萬聖節",
-   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zX25jN3dxUG9YcGZBcGpoNDFrQ0ljb2RwM3EzcU1qRTJVQXhQMFFtM3Y0X0dud2xzSEVRb0IzejhHZ1N1TEtZQjZIUmE3cHRZMC1VdWxsYW5yaEs3Q2kwMmtxYUUzYVFnMjdVMHhB?oc=5",
-   "source": "視傳媒",
-   "source_site": "https://www.nvns.net",
-   "published_at": "2026-10-26T05:46+08:00",
-   "query": "商圈",
-   "url": "https://www.nvns.net/news_view.php?new_sn=147336&new_csn=1467",
    "resolved": true
   },
   {
@@ -290,6 +290,16 @@
    "published_at": "2026-10-25T22:48+08:00",
    "query": "老街",
    "url": "https://news.ltn.com.tw/news/life/breakingnews/5618433",
+   "resolved": true
+  },
+  {
+   "title": "議員候選人林建南巧扮海綿寶寶 萌翻海安商圈萬聖節",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zX25jN3dxUG9YcGZBcGpoNDFrQ0ljb2RwM3EzcU1qRTJVQXhQMFFtM3Y0X0dud2xzSEVRb0IzejhHZ1N1TEtZQjZIUmE3cHRZMC1VdWxsYW5yaEs3Q2kwMmtxYUUzYVFnMjdVMHhB?oc=5",
+   "source": "視傳媒",
+   "source_site": "https://www.nvns.net",
+   "published_at": "2026-10-25T17:54+08:00",
+   "query": "商圈",
+   "url": "https://www.nvns.net/news_view.php?new_sn=147336&new_csn=1467",
    "resolved": true
   },
   {
