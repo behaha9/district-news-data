@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T11:29:13+08:00",
+ "fetched_at": "2026-10-27T13:18:47+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -2271,7 +2271,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-10-27T07:17+08:00",
+   "checked_at": "2026-10-27T13:18+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3464,7 +3464,7 @@
    "error": "HTTP Error 429: Too Many Requests"
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-10-27T07:17+08:00",
+   "checked_at": "2026-10-27T13:18+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5123,7 +5123,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-10-27T07:17+08:00",
+   "checked_at": "2026-10-27T13:18+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5610,7 +5610,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-10-27T07:17+08:00",
+   "checked_at": "2026-10-27T13:18+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5820,7 +5820,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-10-27T07:17+08:00",
+   "checked_at": "2026-10-27T13:18+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6126,7 +6126,7 @@
    "date_hint_from": "原文時間"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
-   "checked_at": "2026-10-27T07:17+08:00",
+   "checked_at": "2026-10-27T13:18+08:00",
    "status": "error",
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
@@ -6171,7 +6171,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/general/202610/202610203091965.html": {
-   "checked_at": "2026-10-27T07:17+08:00",
+   "checked_at": "2026-10-27T13:18+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6435,7 +6435,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.juksy.com/article/153568": {
-   "checked_at": "2026-10-27T07:17+08:00",
+   "checked_at": "2026-10-27T13:18+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6576,7 +6576,7 @@
    "date_hint_from": "原文時間"
   },
   "https://nownews.com/news/6885475": {
-   "checked_at": "2026-10-27T07:17+08:00",
+   "checked_at": "2026-10-27T13:18+08:00",
    "status": "error",
    "error": "<urlopen error timed out>"
   },
@@ -7304,7 +7304,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
-   "checked_at": "2026-10-27T07:17+08:00",
+   "checked_at": "2026-10-27T13:18+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7711,7 +7711,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/public/taipei/20261026/index-79300436041406126016.html": {
-   "checked_at": "2026-10-27T07:17+08:00",
+   "checked_at": "2026-10-27T13:18+08:00",
    "status": 502,
    "error": "HTTP Error 502: Bad Gateway"
   },
@@ -8016,6 +8016,108 @@
    ],
    "body_chars": 2198,
    "image": "https://cdn-futurecity.cw.com.tw/article/202610/article-6ad6d04e634cf.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/national/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E6%88%B06%E4%BA%BA%E7%AB%B6%E9%80%90-%E6%94%AF%E6%8C%81%E8%AA%B0%E8%A1%97%E9%A0%AD%E6%B0%91%E8%AA%BF%E7%B5%90%E6%9E%9C%E4%BB%96%E5%96%8A-%E5%A4%AA%E9%9B%A2%E8%AD%9C/ar-AA2fZ3pf": {
+   "checked_at": "2026-10-27T13:18+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://udn.com/news/story/7326/9839466": {
+   "checked_at": "2026-10-27T13:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T12:19+08:00",
+   "site_name": "聯合新聞網",
+   "description": "光復節3天連假雖已收假，不過連假也確實帶動國旅熱潮，台南市觀旅局統計，各景點累計吸引逾121萬人次到訪，其中市區商圈、古蹟園區及購物商場最受歡迎，累計逾71萬人次；老街街區也吸引逾12萬人次，山海景點、文教場館及秋季主題活動則攬客逾38萬人次，展現台南觀光多元魅力。",
+   "cities": {
+    "台南市": 23,
+    "嘉義市": 6,
+    "台中市": 1
+   },
+   "districts": [
+    "海安商圈（台南市）",
+    "關子嶺商圈（台南市）"
+   ],
+   "body_chars": 1828,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35457868.jpg&M=1&s=Y&x=0&y=1&sw=1279&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261027207662": {
+   "checked_at": "2026-10-27T13:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T10:24+08:00",
+   "site_name": "蕃新聞",
+   "description": "(中央社訊息服務20261027 10:49:23)因應薔琵颱風來襲，新竹市政府持續關注",
+   "cities": {
+    "新竹市": 24
+   },
+   "districts": [],
+   "body_chars": 1554,
+   "image": "https://ni.yam.com/20261022/IMG_0916-7fc11364aec4a63f.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://leho.com.tw/archives/412946": {
+   "checked_at": "2026-10-27T13:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T03:27+08:00",
+   "site_name": "樂聯網",
+   "description": "LifeNews｜江育銓 【記者 江育銓/採訪報導】 為推動萬里地方文化傳承、低碳旅遊、長者關懷與商圈發展，由 […]",
+   "cities": {
+    "新北市": 7
+   },
+   "districts": [
+    "萬里商圈（新北市）",
+    "野柳商圈（新北市）"
+   ],
+   "body_chars": 2013,
+   "image": "https://lifenews.com.tw/wp-content/uploads/2026/10/2034832_0.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/pepzR8a": {
+   "checked_at": "2026-10-27T13:18+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 🇭🇰 頭城老街竟然有港式快餐！有冷氣的餐廳真的很可以～",
+   "cities": {},
+   "districts": [],
+   "body_chars": 121,
+   "image": "https://today-obs.line-scdn.net/0hVPBgT6hzCX9_HhXGpC92KEdIBQ5MeBN2XX1ATl8ZBUsGMkkhQi9aHFsdX1Nbek4qX39DHVsYXhoGLRktFg/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://travel.ettoday.net/article/3261490.htm": {
+   "checked_at": "2026-10-27T13:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T11:49+08:00",
+   "site_name": "ETtoday旅遊雲",
+   "description": "薔琵颱風挾帶強風豪雨，造成東北角多處步道受損，其中草嶺古道災情嚴重，不僅大里段出現大規模土石崩塌、路樹倒伏，連埡口涼亭屋頂也被吹掀。東北角管理處宣布，草嶺古道全線暫停開放，原訂10月31日起登場的「2..",
+   "cities": {
+    "台北市": 2,
+    "宜蘭縣": 1,
+    "嘉義": 1
+   },
+   "districts": [],
+   "body_chars": 1005,
+   "image": "https://cdn2.ettoday.net/images/8406/e8406687.jpg",
    "image_checked": true,
    "date_hint": "2026-10-27",
    "date_hint_from": "原文時間"

@@ -1,21 +1,35 @@
 {
- "fetched_at": "2026-10-27T11:29:07+08:00",
+ "fetched_at": "2026-10-27T13:18:39+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 119,
-  "kept": 29,
-  "resolved": 29,
-  "items": 27,
-  "resolve_this_run": {},
+  "raw": 96,
+  "kept": 33,
+  "resolved": 33,
+  "items": 29,
+  "resolve_this_run": {
+   "online": 2
+  },
   "dropped_old": [
+   "振興北市商圈經濟!沈伯洋永康商圈座談會（原文日期 2026-08-10）",
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
+   "烏來好慘！台九甲線道路斷溪水溢堤老街淹| 生活（原文日期 2016-09-27）",
    "逢甲商圈「墾丁化」？停車一次300元　在地人也看不下去（原文日期 2018-10-21）"
   ]
  },
  "items": [
   {
-   "title": "打敗一中商圈！台中最強景點吸2309萬人 從早玩到晚",
+   "title": "光復連假台南景點夯、累計吸引逾121萬人潮 市區商圈吸客逾71萬人次",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IRlBLODB2dUpWalFSeTk0dWdNRVVkMXlNRTN0aVUwOXRJUGhiaUFVT3hoajRyUmRzTF92ZXBldVN5TDNOODBfNmRheHM5Nkxp0gFWQVVfeXFMT0FYVVpKY2hzQVFYSkFsc0g0Q3d0dUlRZGYyZkJrenBoeVdtMi1OaWJRSTU1X2QwZ05vazl3cXNKZFVaWkNEV2VINm95Q0ZoYk9vZFg4RHc?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
+   "published_at": "2026-10-27T12:19+08:00",
+   "query": "商圈",
+   "url": "https://udn.com/news/story/7326/9839466",
+   "resolved": true
+  },
+  {
+   "title": "打敗一中商圈！台中最強景點吸2309萬人從早玩到晚- 生活",
    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OLS11NDF1TDFmQzVINXhkZTF1T0hiXzk0NWZ6YmlQVFN0amhJTDFqbXFKZE9xcExoM1FXbVNZY1FPNTQ3b0JOd2RLLTlnV1JWT0FzcG51YWlkazh3a0FQT014dldickZSQ3d2NTRn?oc=5",
    "source": "中時新聞網",
    "source_site": "https://www.chinatimes.com",
@@ -62,6 +76,16 @@
    "published_at": "2026-10-27T07:00+08:00",
    "query": "商店街",
    "url": "https://www.bastillepost.com/hongkong/article/16957329-%E5%B7%B4%E5%A3%AB%E7%9A%84%E5%B0%88%E8%A8%AA%EF%BD%9C80%E5%BE%8C%E5%B7%A5%E7%A8%8B%E5%B8%AB%E3%80%8C%E8%BD%89%E6%88%B0%E3%80%8D%E5%95%86%E5%8B%99%E3%80%80%E6%B8%AF%E9%90%B5%E3%80%8C%E4%BA%8C%E6%AC%A1",
+   "resolved": true
+  },
+  {
+   "title": "提升商圈與市場環境 每年加碼25.5億",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50VWRKZEVHd0RnNEZlSC1sbl84U1NUdjZIVEhmRld5MXFQeDlGS2ExOWpIWjdOdzJpekRPcjNlNGdaOXlhRkVIYjh3ckU0TWVoaGtqdU1Fc3g?oc=5",
+   "source": "自由時報",
+   "source_site": "https://stock.ltn.com.tw",
+   "published_at": "2026-10-27T02:32+08:00",
+   "query": "商圈",
+   "url": "https://stock.ltn.com.tw/article/1jurxjrxgvl5",
    "resolved": true
   },
   {
@@ -136,12 +160,12 @@
   },
   {
    "title": "台南左鎮老街竹構造涼亭完工 家具、花器全竹工藝走入生活",
-   "google_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQWU1hM0lxRWZMUzhhOUZfZTJsdXl6TmRYRFlzTC03M0w5M2lKLW5pS21ZWTFOVmYwcUdXbUFCbWVRLWxWcEsxYVN5LWN4dnltRU1iVE5CZnJVd3FWc2Q2eXcybThEaVB0dHNncWxQZ1N5YWpvNjVic24tYTRIVFUzRzB5WURySUlaZmliQk9QdjlKTzIyQWw5QWJmWWxoVXNhZ2RWNkthR2NUYzZRSk1MQ2lVNk00VlQyMXRHU3hXRFhYLUxhazhqQk9kYTM5X3N5d1Q1V21FVnltbE5haDhoal9mZDJ5dTd2RVhScVZRYllmVldPbEZtQ1dnMWlia2lINTM5eUVHMnN2dmtlem9McUZ2ektjQmd4RjUwSWljWlV3a19MdHJvT1Vvb2pTakM2VVBfaENUVDZMUUROZi1qVnUxRF8xTHh2N3Z4UGg5NndURnl3UUptYWhNN2IxcGRXVHJwRm1PVzE5Zm4zNWh4b1NUbGNPSWVQbktVOGEzR0FCZw?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
+   "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHejFVSkt5MVJzWEMzUFgyaW01WWR0SHhQRjlUZXVZRlJaYVlWZTRWUGY1eGZBOVNJNEE3bGRKalBlRGlOSlAtU2R5Y05YZUUtNFd5aUJxQXJ3U3ZkLTJ2ZW82elRveWMyZkHSAWpBVV95cUxQR3oxVUpLeTFSc1hDM1BYMmltNVlkdEh4UEY5VGV1WUZSWmFZVmU0VlBmNXhmQTlTSTRBN2xkSmpQZURpTkpQLVNkeWNOWGVFLTRXeWlCcUFyd1N2ZC0ydmVvNnpUb3ljMmZB?oc=5",
+   "source": "自由時報",
+   "source_site": "https://news.ltn.com.tw",
    "published_at": "2026-10-26T18:51+08:00",
    "query": "老街",
-   "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%B7%A6%E9%8E%AE%E8%80%81%E8%A1%97%E7%AB%B9%E6%A7%8B%E9%80%A0%E6%B6%BC%E4%BA%AD%E5%AE%8C%E5%B7%A5-%E5%AE%B6%E5%85%B7-%E8%8A%B1%E5%99%A8%E5%85%A8%E7%AB%B9%E5%B7%A5%E8%97%9D%E8%B5%B0%E5%85%A5%E7%94%9F%E6%B4%BB-105128056.html",
+   "url": "https://news.ltn.com.tw/amp/news/life/breakingnews/5619352",
    "resolved": true
   },
   {
@@ -235,6 +259,16 @@
    "resolved": true
   },
   {
+   "title": "討論牆 | 🇭🇰 頭城老街竟然有港式快餐！有冷氣的餐廳真的很可以",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aUlR3RnZPZk1zYUNGODZzSHpDY3E3OHBpZUVPRFkzVFhZUWJJVFB6cjRDR0hQUFA2ZGtneUhwUVZSdHVLc0RGYnkwT1p1WVZXVDVVUTgxSUo4NlYyXzV2YVZtTFE?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-10-26T14:10+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/pepzR8a",
+   "resolved": true
+  },
+  {
    "title": "逛台北永康商圈10歲女童突失蹤 胞姊急哭報案1小時找到她",
    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CSEtZOEVscVVVSXNLLWt0bTExNUJRMUVYMVJJaU1Td1JaNFVxU3Qya0tiUWhFVG53blZNRmpBY184R084bmxpcHcwcHVUa09kdDRfYnhvb3h6OW12Y2d4amdkdHVhMzdL0gFuQVVfeXFMT0gySWVOMU45SU5FTmY1dWUxRkRrelVaSlVSRzZfQVhHQ1FlU3VSbVlxMmtwZWtKcnByMzZPVTFoY1BZMVlGcTFkbzFOaUhfVS1ZbHFESmNsWWlfeVJ3Tml6VzdVb3RMUEp4TnVKUFE?oc=5",
    "source": "自由時報",
@@ -272,16 +306,6 @@
    "published_at": "2026-10-25T17:54+08:00",
    "query": "商圈",
    "url": "https://www.nvns.net/news_view.php?new_sn=147336&new_csn=1467",
-   "resolved": true
-  },
-  {
-   "title": "林秉宥談新莊老街活化 盼行政園區更新補足停車配套",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjbDBsVV9uaUlFeW9kendMVEFjTWRvbDV4VVRtME40SmVNSENyUm1nVW5kZThHX3otNU9md2pRR3pnbFdSUmNNS1d5UG5CNFdfRGc?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-10-25T12:00+08:00",
-   "query": "老街",
-   "url": "https://n.yam.com/Article/20261025986410",
    "resolved": true
   }
  ]
