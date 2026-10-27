@@ -53,6 +53,9 @@ def article_line(art, hint):
         return "↳ 原文是動態網頁，抓不到內容，請依標題判斷（必要時再打開原文）"
     cities = "、".join(f"{c}{n}" for c, n in (art.get("cities") or {}).items()) or "（未提到縣市）"
     parts = [f"↳ 原文：{art.get('site_name') or '站名不明'}"]
+    hint = art.get("date_hint")
+    if hint and hint < (datetime.now(TAIPEI) - timedelta(days=7)).strftime("%Y-%m-%d"):
+        parts.insert(0, f"⚠ 原文日期是 {hint}（依{art.get('date_hint_from')}），疑似舊聞被重新列出，不可收錄")
     if art.get("description"):
         parts.append(f"摘要：{art['description'][:90]}")
     parts.append(f"內文縣市：{cities}")

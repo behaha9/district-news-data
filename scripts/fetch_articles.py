@@ -38,6 +38,7 @@ THUMBS = "inputs/thumbs.json"
 LATEST = "data/latest.json"
 KEEP_DAYS = 3
 THUMB_DAYS = 8
+OLD_DAYS = 7  # an article dated more than a week before the run is treated as old news
 SITE_DEFAULT_REPEAT = 3  # the same image on 3+ articles of one site = the site's default picture
 MAX_NEW = 250
 WORKERS = 8
@@ -203,6 +204,22 @@ def count_cities(text):
     return dict(sorted(counts.items(), key=lambda kv: -kv[1])[:5])
 
 
+DATE_IN_PATH = re.compile(r"(?<!\d)(20\d{2})[/_-]?(0[1-9]|1[0-2])[/_-]?(0[1-9]|[12]\d|3[01])(?!\d)")
+
+
+def date_hint(published, image, url):
+    """Best guess of the article's date: the publisher's time, else a date in the image path
+    (e.g. /newsimages/2016/09/27/), else a date in the article URL. Catches old articles that
+    news search engines re-list with today's date."""
+    if published:
+        return published[:10], "原文時間"
+    for value, label in ((image, "圖片路徑"), (url, "網址")):
+        match = DATE_IN_PATH.search(urlsplit(value or "").path)
+        if match:
+            return "-".join(match.groups()), label
+    return None, None
+
+
 def fetch(url, patterns):
     entry = {"checked_at": datetime.now(TAIPEI).isoformat(timespec="minutes")}
     try:
@@ -252,6 +269,7 @@ def fetch(url, patterns):
         "body_chars": len(body),
         "image": pick_image(page, url),
     })
+    entry["date_hint"], entry["date_hint_from"] = date_hint(published, entry["image"], url)
     return url, entry
 
 
@@ -301,7 +319,7 @@ def main():
         if not old or retry:
             wanted.append(url)
     # articles fetched before thumbnails existed: fetch again once to learn their image
-    backfill = [u for u, e in cache.items() if e.get("status") == 200 and "image" not in e]
+    backfill = [u for u, e in cache.items() if e.get("status") == 200 and ("image" not in e or "date_hint" not in e)]
     wanted = (wanted + [u for u in backfill if u not in wanted])[:MAX_NEW]
     patterns = priority.load()
     done = 0
@@ -320,8 +338,40 @@ def main():
         json.dump({"fetched_at": now.isoformat(timespec="seconds"), "articles": cache},
                   fh, ensure_ascii=False, indent=1)
     shown = write_thumbs(cache, now)
+    drop_old_google(cache, now)
     print(f"原文預抓：新抓 {done}／{len(wanted)}，成功 {ok}；快取共 {len(cache)} 篇；縮圖 {shown} 張")
     return 0
+
+
+def drop_old_google(cache, now):
+    """Google News sometimes re-lists old articles with a fresh date. Remove items whose own
+    article date (publisher time, image path or URL date) is more than OLD_DAYS before the run."""
+    path = "inputs/google_news.json"
+    try:
+        with open(path, encoding="utf-8") as fh:
+            data = json.load(fh)
+    except Exception:
+        return
+    oldest = (now - timedelta(days=OLD_DAYS)).strftime("%Y-%m-%d")
+    # an image path date alone is weaker evidence (an old file photo can be reused), so it only
+    # drops an item when it is very old; the curator still sees a warning for anything > 7 days
+    oldest_by_image = (now - timedelta(days=180)).strftime("%Y-%m-%d")
+    keep, dropped = [], []
+    for item in data.get("items", []):
+        art = cache.get(item.get("url")) or {}
+        hint = art.get("date_hint")
+        limit = oldest_by_image if art.get("date_hint_from") == "圖片路徑" else oldest
+        if hint and hint < limit:
+            dropped.append(f"{item.get('title', '')[:40]}（原文日期 {hint}）")
+        else:
+            keep.append(item)
+    if dropped:
+        data["items"] = keep
+        data.setdefault("stats", {})["dropped_old"] = dropped
+        data["stats"]["items"] = len(keep)
+        with open(path, "w", encoding="utf-8") as fh:
+            json.dump(data, fh, ensure_ascii=False, indent=1)
+        print("Google 新聞移除舊聞：", "；".join(dropped))
 
 
 def write_thumbs(cache, now):
