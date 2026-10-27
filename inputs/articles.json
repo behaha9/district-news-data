@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T11:27:57+08:00",
+ "fetched_at": "2026-10-27T11:29:13+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -4386,7 +4386,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5617481": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T16:35+08:00",
    "site_name": "自由時報電子報",
@@ -4398,11 +4398,12 @@
    "districts": [],
    "body_chars": 680,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617481_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5617344": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T14:23+08:00",
    "site_name": "自由時報電子報",
@@ -4414,11 +4415,12 @@
    "districts": [],
    "body_chars": 668,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617344_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5617457": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T16:12+08:00",
    "site_name": "自由時報電子報",
@@ -4430,11 +4432,12 @@
    "districts": [],
    "body_chars": 654,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617457_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5617430": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T15:32+08:00",
    "site_name": "自由時報電子報",
@@ -4446,11 +4449,12 @@
    "districts": [],
    "body_chars": 1005,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617430_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://news.pts.org.tw/article/832801": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T13:09+08:00",
    "site_name": "公視新聞網 PNN",
@@ -4461,11 +4465,12 @@
    "districts": [],
    "body_chars": 688,
    "image": "https://news-data.pts.org.tw/media/299571/conversions/cUKlL2PlHZACrgvRhPqPNJlkZUrqpvQSgxm71Dpa-og_jpg.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5617294": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T13:32+08:00",
    "site_name": "自由時報電子報",
@@ -4478,11 +4483,12 @@
    "districts": [],
    "body_chars": 1501,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617294_2_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.ettoday.net/news/20261024/3260221.htm": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T14:55+08:00",
    "site_name": "ETtoday新聞雲",
@@ -4495,11 +4501,12 @@
    "districts": [],
    "body_chars": 1233,
    "image": "https://cdn2.ettoday.net/images/8980/e8980893.png",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.ettoday.net/news/20261024/3260238.htm": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T15:30+08:00",
    "site_name": "ETtoday新聞雲",
@@ -4516,6 +4523,7 @@
    ],
    "body_chars": 1445,
    "image": "https://cdn2.ettoday.net/images/8980/e8980939.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
@@ -4525,7 +4533,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.msn.com/zh-tw/news/other/%E6%9C%80%E6%96%B0-%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E6%97%81-%E6%B0%91%E5%AE%85%E5%B1%8B%E9%A0%82%E6%95%B4%E7%89%87%E8%A2%AB%E6%8E%80%E9%A3%9B-%E7%A0%B8%E8%90%BD%E5%9C%A8%E5%9C%B0-newsebc/vi-AA2fY8e0": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -4534,11 +4542,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.ettoday.net/news/20261024/3260212.htm": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T14:02+08:00",
    "site_name": "ETtoday新聞雲",
@@ -4551,11 +4560,12 @@
    "districts": [],
    "body_chars": 883,
    "image": "https://cdn2.ettoday.net/images/8980/e8980874.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.cna.com.tw/news/aloc/202610240087.aspx": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T13:30+08:00",
    "site_name": "中央社 CNA",
@@ -4567,11 +4577,12 @@
    "districts": [],
    "body_chars": 910,
    "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261024/1023x768_wmkn_0_C20261024000041.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.singtao.ca/7664414/2026-10-24/news-%E9%87%91%E9%90%9861%E4%B8%A8%E9%87%91%E9%90%98%E7%8D%8E%E5%8F%97%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E5%90%B9%E8%A5%B2%E5%8F%B0%E7%81%A3%E7%B7%8A%E6%80%A5%E5%BB%B6%E6%9C%9F++%E7%AF%80%E7%9B%AE%E3%80%81%E6%88%B2%E5%8A%87%E6%9C%80%E6%96%B0%E9%A0%92%E7%8D%8E%E6%97%A5%E7%A8%8B%E5%85%A8%E9%9D%A2%E5%A4%A7%E5%9F%B7%E4%BD%8D/": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T16:00+08:00",
    "site_name": "Sing Tao Canada 星島加拿大",
@@ -4582,11 +4593,12 @@
    "districts": [],
    "body_chars": 832,
    "image": "https://media.singtao.ca/wp-content/uploads/master_sandbox/2026/10/KF_66.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.cna.com.tw/news/ahel/202610240091.aspx": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T13:50+08:00",
    "site_name": "中央社 CNA",
@@ -4601,11 +4613,12 @@
    "districts": [],
    "body_chars": 657,
    "image": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.msn.com/zh-tw/news/other/%E9%80%A3%E5%81%87%E5%85%A9%E6%A8%A3%E6%83%85-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E5%86%B7%E6%B8%85-%E5%8F%B0%E4%B8%AD%E6%BC%A2%E7%A5%9E%E7%99%BE%E8%B2%A8%E4%BA%BA%E6%BD%AE%E7%88%86%E6%BB%BF-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fX9R7": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -4614,11 +4627,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=648637": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": "青年日報",
@@ -4629,6 +4643,7 @@
    "districts": [],
    "body_chars": 715,
    "image": "https://www.ydn.com.tw/api/ugc_imagehandler.ashx?NFID=1062536",
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
@@ -4638,7 +4653,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E7%99%BC%E5%A8%81%E6%B7%A1%E6%B0%B4%E6%B2%B3%E5%8F%A3%E6%B0%B4%E4%BD%8D%E9%AB%98%E6%BC%B2%E6%B7%A1%E6%B0%B4%E8%80%81%E8%A1%97%E6%BB%BF%E7%9B%AE%E7%8B%BC%E8%97%89-%E8%8B%B1%E5%B0%88%E8%B7%AF%E6%8B%9B%E7%89%8C%E7%A0%B8%E8%90%BD-%E6%9D%B1%E6%A3%AE%E6%B0%A3%E8%B1%A1%E8%AE%9A/vi-AA2fXvC0": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -4647,11 +4662,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.ettoday.net/news/20261024/3260204.htm": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T13:45+08:00",
    "site_name": "ETtoday新聞雲",
@@ -4664,6 +4680,7 @@
    "districts": [],
    "body_chars": 1025,
    "image": "https://cdn2.ettoday.net/images/8980/e8980828.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
@@ -4673,24 +4690,26 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://n.yam.com/Article/20261024210556": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T16:34+08:00",
    "site_name": "蕃新聞",
    "description": "▲桃園遠百週年慶開跑，桃園站前壓軸登場。(圖／桃園遠百提供)【焦點時報/記者羅蔚舟報導】桃園遠百週年",
    "cities": {
-    "桃園市": 13
+    "桃園市": 13,
+    "台北市": 1
    },
    "districts": [
     "桃園站前商圈（桃園市）"
    ],
-   "body_chars": 541,
+   "body_chars": 542,
    "image": "https://ni.yam.com/20261024/jpg-b68fe924cce4de84.webp",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.ettoday.net/news/20261024/3260077.htm": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T12:20+08:00",
    "site_name": "ETtoday新聞雲",
@@ -4705,11 +4724,12 @@
    "districts": [],
    "body_chars": 1580,
    "image": "https://cdn2.ettoday.net/images/7874/e7874092.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://udn.com/news/story/7327/9834658": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T10:20+08:00",
    "site_name": "聯合新聞網",
@@ -4724,13 +4744,14 @@
    "districts": [
     "南方澳商圈（宜蘭縣）"
    ],
-   "body_chars": 1885,
+   "body_chars": 1888,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450282.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://star.ettoday.net/news/3260047": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T07:42+08:00",
    "site_name": "ETtoday星光雲",
@@ -4741,11 +4762,12 @@
    "districts": [],
    "body_chars": 1163,
    "image": "https://cdn2.ettoday.net/images/8980/e8980450.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.mnews.tw/external/mirrordaily93506": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T11:34+08:00",
    "site_name": "鏡新聞",
@@ -4756,11 +4778,12 @@
    "districts": [],
    "body_chars": 703,
    "image": "https://statics-prod.mirrordaily.news/images/bc33ab1b-a647-46b1-b98a-e415fa549a10-w1600.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://ent.ltn.com.tw/news/paper/1775689": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T05:30+08:00",
    "site_name": "自由時報電子報",
@@ -4772,11 +4795,12 @@
    "districts": [],
    "body_chars": 1018,
    "image": "https://img.ltn.com.tw/Upload/ent/page/800/2026/10/24/34.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://travel.udn.com/travel/story/7160/9835046": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T14:50+08:00",
    "site_name": "旅遊",
@@ -4789,13 +4813,14 @@
     "高雄市": 1
    },
    "districts": [],
-   "body_chars": 1939,
+   "body_chars": 1942,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450932.jpg&M=1&x=&y=&sw=&sh=&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.msn.com/zh-tw/news/other/%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E6%99%9A%E9%96%93%E9%A2%A8%E5%8B%A2%E5%BC%B7%E5%8B%81-%E7%99%BE%E8%B2%A8%E5%85%AC%E5%8F%B8%E8%A3%9D%E7%BD%AE%E9%81%AD%E9%80%A3%E6%A0%B9%E6%8B%94%E8%B5%B7-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2fW4ia": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -4804,11 +4829,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.mnews.tw/external/mirrordaily93537": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T13:38+08:00",
    "site_name": "鏡新聞",
@@ -4819,11 +4845,12 @@
    "districts": [],
    "body_chars": 678,
    "image": "https://statics-prod.mirrordaily.news/images/a2f16e06-0c81-43fc-8ae0-b2e546b8fa3d-w1600.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616567": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-23T17:10+08:00",
    "site_name": "自由時報電子報",
@@ -4834,11 +4861,12 @@
    "districts": [],
    "body_chars": 569,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616567_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-23",
    "date_hint_from": "原文時間"
   },
   "https://www.storm.mg/article/11175461": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-23T20:19+08:00",
    "site_name": null,
@@ -4851,11 +4879,12 @@
    ],
    "body_chars": 1312,
    "image": "https://images.storm.mg/cloud/fbcb9a8f43ff3a290b32681c06f772b2985d7ab8.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2238598%2FbdKW3Y1atM15tQYNLIeC1QFwjVkXt8PXAXkTViEW.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
    "date_hint": "2026-10-23",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616425": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-23T15:29+08:00",
    "site_name": "自由時報電子報",
@@ -4866,11 +4895,12 @@
    "districts": [],
    "body_chars": 1004,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616425_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-23",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616413": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-23T15:12+08:00",
    "site_name": "自由時報電子報",
@@ -4881,11 +4911,12 @@
    "districts": [],
    "body_chars": 869,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616413_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-23",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5616465": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-23T17:06+08:00",
    "site_name": "自由時報電子報",
@@ -4896,11 +4927,12 @@
    "districts": [],
    "body_chars": 520,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/phptE1uGq.png",
+   "image_checked": true,
    "date_hint": "2026-10-23",
    "date_hint_from": "原文時間"
   },
   "https://www.msn.com/zh-tw/news/other/%E5%A5%BD%E6%9C%83jump-%E6%A9%9F%E8%BB%8A%E9%81%AD%E6%92%9E%E9%A3%9B%E9%81%8E%E4%BE%86-%E8%B7%AF%E4%BA%BA-%E8%B7%B3%E9%81%8E-%E9%80%83%E4%B8%80%E5%8A%AB-newsebc/vi-AA2esASE": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -4909,11 +4941,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://news.tvbs.com.tw/life/4040643": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T16:51+08:00",
    "site_name": "TVBS新聞網",
@@ -4929,12 +4962,13 @@
     "鹿港老街商圈（彰化縣）"
    ],
    "body_chars": 2633,
-   "image": null,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a16d0a-8826-7063-a947-b8c98a9f9883.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,0,1920,1080",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://life.tw/article/%E8%AC%9D%E5%9C%8B%E6%A8%91%E8%A6%96%E5%AF%9F%E5%9F%BA%E9%9A%86%E6%98%93%E6%B7%B9%E6%B0%B4%E5%8D%80-%E9%97%9C%E5%88%87%E5%BA%97%E5%AE%B6%E9%98%B2%E6%B0%B4%E9%96%98%E9%96%80%E6%95%B4%E5%82%99-3191037": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-23T16:16+08:00",
    "site_name": "LIFE 生活網",
@@ -4945,11 +4979,12 @@
    "districts": [],
    "body_chars": 1448,
    "image": "https://more-news.tw/more-news-media/2026/10/IMG_0387-scaled.jpeg",
+   "image_checked": true,
    "date_hint": "2026-10-23",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5617524": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T17:15+08:00",
    "site_name": "自由時報電子報",
@@ -4962,11 +4997,12 @@
    "districts": [],
    "body_chars": 906,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617524_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://star.setn.com/news/1927606": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T17:02+08:00",
    "site_name": "三立娛樂星聞",
@@ -4975,11 +5011,12 @@
    "districts": [],
    "body_chars": 870,
    "image": "https://attach.setn.com/newsimages/2026/10/24/5760455-PH.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.cna.com.tw/news/ahel/202610240132.aspx": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T16:21+08:00",
    "site_name": "中央社 CNA",
@@ -4991,11 +5028,12 @@
    "districts": [],
    "body_chars": 470,
    "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261024/1024x768_wmkn_0_C20261024000066.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.ctwant.com/article/503267/": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-22T12:00+08:00",
    "site_name": "CTWANT",
@@ -5006,11 +5044,12 @@
    ],
    "body_chars": 1726,
    "image": "https://static.ctwant.com/images/cover/67/503267/lg-e769d21470a9dc1c60cb82da043fe286.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-22",
    "date_hint_from": "原文時間"
   },
   "https://www.ettoday.net/news/20261024/3260258.htm": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T15:58+08:00",
    "site_name": "ETtoday新聞雲",
@@ -5023,11 +5062,12 @@
    "districts": [],
    "body_chars": 1169,
    "image": "https://cdn2.ettoday.net/images/8980/e8980974.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.nownews.com/news/6886276": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T17:19+08:00",
    "site_name": "NOWnews今日新聞",
@@ -5038,13 +5078,14 @@
     "苗栗縣": 1
    },
    "districts": [],
-   "body_chars": 805,
+   "body_chars": 798,
    "image": "https://media.nownews.com/nn_media/thumbnail/2026/10/1792833333411-7c7c8a5b128d42c8b6133ddb407a0931-1200x800.webp?unShow=false",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/Nantou/paper/1775854": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T05:30+08:00",
    "site_name": "自由時報電子報",
@@ -5055,27 +5096,29 @@
    "districts": [],
    "body_chars": 700,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/84.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://tw.news.yahoo.com/%E6%A3%BA%E6%9D%90-%E7%89%9B%E9%A0%AD%E9%A6%AC%E9%9D%A2%E4%BB%8A%E6%99%9A%E4%B8%8A%E9%99%A3-%E5%8F%B0%E5%8D%97%E5%95%86%E5%9C%88%E8%90%AC%E8%81%96%E7%AF%80%E4%B8%AD%E5%BC%8F%E9%9D%88%E5%A0%82-%E6%8C%91%E6%88%B0%E8%86%BD%E8%AD%98%E8%A9%95%E5%83%B9%E5%85%A9%E6%A5%B5-141023753.html": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T22:10+08:00",
    "site_name": "Yahoo News",
    "description": "近年來萬聖節活動被戲稱為「全台創意設計大賽」，其中，台南海安商圈的萬聖節變裝踩街更成為南部知名朝聖活動，今年商圈團隊不僅直接封街舉辦，更把中式靈堂「幽靈殿堂」架設在現場，挑戰玩家膽識，活動今、明兩天登場，今下午已吸引大批遊客湧入，主辦單位預估兩天人潮將破萬人次。",
    "cities": {
-    "台北市": 16,
-    "台南市": 6,
+    "台北市": 13,
+    "台南市": 7,
     "台中市": 3,
     "基隆市": 3,
-    "新北市": 1
+    "新北市": 2
    },
    "districts": [
     "海安商圈（台南市）"
    ],
-   "body_chars": 3317,
+   "body_chars": 3688,
    "image": "https://s.yimg.com/lo/mysterio/api/13ed3132240a8243b05bffc172c359d0effaf70c5b935125a2174b2c45cd01d2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fudn.com%2Fe789291bd170240e6df7df4d12d57a4b.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
@@ -5085,7 +5128,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.ltn.com.tw/news/life/paper/1775854": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T05:30+08:00",
    "site_name": "自由時報電子報",
@@ -5096,11 +5139,12 @@
    "districts": [],
    "body_chars": 700,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/84.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://udn.com/news/story/7326/9835309": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T19:03+08:00",
    "site_name": "聯合新聞網",
@@ -5114,13 +5158,14 @@
     "海安商圈（台南市）",
     "關子嶺商圈（台南市）"
    ],
-   "body_chars": 1722,
+   "body_chars": 1725,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451248.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.cna.com.tw/news/aloc/202610240202.aspx": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T21:24+08:00",
    "site_name": "中央社 CNA",
@@ -5132,11 +5177,12 @@
    "districts": [],
    "body_chars": 642,
    "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261024/768x1024_wmkn_0_C20261024000121.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.ettoday.net/news/20261024/3260352.htm": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T23:40+08:00",
    "site_name": "ETtoday新聞雲",
@@ -5149,11 +5195,12 @@
    "districts": [],
    "body_chars": 1156,
    "image": "https://cdn2.ettoday.net/images/8981/e8981199.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://news.pts.org.tw/article/832810": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T19:13+08:00",
    "site_name": "公視新聞網 PNN",
@@ -5166,11 +5213,12 @@
    "districts": [],
    "body_chars": 671,
    "image": "https://news-data.pts.org.tw/media/299585/conversions/K4EPBAyTqf3KntRuvQrf8UB0lFjS6XnWE9piEPit-og_jpg.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://news.pts.org.tw/article/832813": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T19:06+08:00",
    "site_name": "公視新聞網 PNN",
@@ -5186,11 +5234,12 @@
    ],
    "body_chars": 854,
    "image": "https://news-data.pts.org.tw/media/299582/conversions/uN8lzWnjAs7Xjxo21LR3WUnjQagiNUPWH3NCDieu-og_jpg.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.ettoday.net/news/20261024/3260335.htm": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T20:25+08:00",
    "site_name": "ETtoday新聞雲",
@@ -5203,28 +5252,29 @@
    "districts": [],
    "body_chars": 1086,
    "image": "https://cdn2.ettoday.net/images/8981/e8981166.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://udn.com/news/story/7324/9834628": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T10:04+08:00",
    "site_name": "聯合新聞網",
    "description": "薔琵颱風來襲，風雨造成桃園各地零星災情，2026桃園藝術巡演原訂25日邀請宋坤傳藝在龍潭演出「酬神」擊樂劇碼確定延期，演出日期另行公告；另外，今年閩南傳統藝術巡演邀請明華園天字團25日在壽山巖觀音寺演出「八仙傳奇」，26日邀請蘭陽戲劇團在顯安巖祖師廟演出「錯配姻緣」，將如期舉行。",
    "cities": {
     "桃園市": 14,
-    "苗栗縣": 3,
-    "新竹": 1
+    "苗栗縣": 2
    },
    "districts": [],
-   "body_chars": 1639,
+   "body_chars": 1626,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450234.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.civilmedia.tw/archives/141745": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T23:25+08:00",
    "site_name": "公民行動影音紀錄資料庫",
@@ -5237,11 +5287,12 @@
    "districts": [],
    "body_chars": 1053,
    "image": "https://www.civilmedia.tw/wp-content/uploads/2024/09/civilmedia.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://news.tvbs.com.tw/entertainment/drama/4040760": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T17:58+08:00",
    "site_name": "TVBS新聞網",
@@ -5252,6 +5303,7 @@
    "districts": [],
    "body_chars": 917,
    "image": "https://news-images.tvbs.com.tw/api/v1/image/01a16d57-e79c-7385-b33f-8355a0df4c5e.jpeg?t=16x9&c=773,316,4523,2425&w=1200&h=675",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
@@ -5261,7 +5313,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.msn.com/zh-tw/news/other/%E7%BA%8C%E6%94%BE%E9%A2%B1%E9%A2%A8%E5%81%87-%E5%8F%B0%E4%B8%AD%E4%BA%BA%E9%96%8B%E9%80%9B%E7%99%BE%E8%B2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E4%BA%BA%E6%BD%AE%E5%B0%913%E6%88%90/ar-AA2fY8ZE": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -5270,11 +5322,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.ettoday.net/news/20261024/3260322.htm": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T19:03+08:00",
    "site_name": "ETtoday新聞雲",
@@ -5289,11 +5342,12 @@
    "districts": [],
    "body_chars": 933,
    "image": "https://cdn2.ettoday.net/images/8981/e8981100.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.cna.com.tw/news/aloc/202610240169.aspx": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T18:06+08:00",
    "site_name": "中央社 CNA",
@@ -5305,11 +5359,12 @@
    "districts": [],
    "body_chars": 856,
    "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261024/1125x768_wmkn_0_C20261024000104.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.chinatimes.com/realtimenews/20261024002810-260421": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T18:55+08:00",
    "site_name": "中時新聞網",
@@ -5324,11 +5379,12 @@
    "districts": [],
    "body_chars": 1106,
    "image": "https://images.chinatimes.com/newsphoto/2026-10-24/656/20261024002811.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.ettoday.net/news/20261024/3260270.htm": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T16:49+08:00",
    "site_name": "ETtoday新聞雲",
@@ -5344,11 +5400,12 @@
    ],
    "body_chars": 1242,
    "image": "https://cdn2.ettoday.net/images/8980/e8980991.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.nownews.com/news/6886282": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T17:47+08:00",
    "site_name": "NOWnews今日新聞",
@@ -5360,13 +5417,14 @@
     "台東縣": 1
    },
    "districts": [],
-   "body_chars": 823,
+   "body_chars": 816,
    "image": "https://media.nownews.com/nn_media/thumbnail/2026/10/1792834922307-56d9b20f5a714adc985b3ae12ec986bd-1200x675.webp?unShow=false",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.mirrordaily.news/story/92488": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T06:50+08:00",
    "site_name": "鏡報",
@@ -5375,11 +5433,12 @@
    "districts": [],
    "body_chars": 318,
    "image": "https://statics-prod.mirrordaily.news/images/131ae672-e147-4fca-8875-92a8928d049b.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261024916012": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T15:18+08:00",
    "site_name": "蕃新聞",
@@ -5391,48 +5450,51 @@
     "豐原廟東復興商圈（台中市）",
     "在地商圈（南投縣）"
    ],
-   "body_chars": 1200,
+   "body_chars": 1184,
    "image": "https://ni.yam.com/20261024/36132-optimized-70de678d86b8ec2f.webp",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261020659908": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-20T14:55+08:00",
    "site_name": "蕃新聞",
    "description": "記者楊青琪/彰化報導走進鹿港巷弄，尋找老城裡的精彩故事！彰化縣鹿港廟口商圈促進發展協會持續推動特色文",
    "cities": {
-    "彰化縣": 7
+    "彰化縣": 7,
+    "台北市": 1
    },
    "districts": [
     "鹿港廟口商圈（彰化縣）"
    ],
-   "body_chars": 1296,
+   "body_chars": 1290,
    "image": "https://ni.yam.com/20261020/3317b80dd91c6b5e61982ee63e34e60a-ee0b6cdac9a4bd37.webp",
+   "image_checked": true,
    "date_hint": "2026-10-20",
    "date_hint_from": "原文時間"
   },
   "https://tw.news.yahoo.com/%E9%87%91%E9%90%98%E7%8D%8E%E5%BB%B6%E6%9C%9F%E2%8B%AF%E6%BA%96%E5%BD%B1%E5%B8%9D%E9%99%B3%E6%BE%A4%E8%80%80%E6%94%B9%E6%A9%9F%E7%A5%A8-%E5%A6%BB%E5%A5%B3%E4%BE%86%E5%8F%B0%E7%9B%B8%E6%8C%BA%E9%A2%B1%E9%A2%A8%E5%A4%A9%E4%BA%AB%E5%A4%A9%E5%80%AB-112227045.html": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T19:22+08:00",
    "site_name": "Yahoo News",
    "description": "因颱風「薔琵」影響，第61屆金鐘獎節目類和戲劇類皆延期舉辦，大馬男星陳澤耀以《監所男子囚生記》角逐戲劇節目男主角獎，他為此和新片劇組協調，改機票離台，只為參與這年度盛會。他的妻女也特別搭機來台，期望見證他摘下影帝。",
    "cities": {
-    "台北市": 8,
-    "台中市": 1,
+    "台北市": 5,
     "台南市": 1,
-    "高雄市": 1
+    "台東縣": 1
    },
    "districts": [],
-   "body_chars": 2687,
+   "body_chars": 2878,
    "image": "https://s.yimg.com/lo/mysterio/api/afba759538aa432961a4eca5630e1e07ae5f39375c9fcd5cec37bc30bf58a7b1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fupload_1416.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.cna.com.tw/postwrite/chi/447561": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-20T03:28+08:00",
    "site_name": null,
@@ -5445,11 +5507,12 @@
    ],
    "body_chars": 1641,
    "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261020/00447559.202610201242199264M.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-20",
    "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261025273854": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T01:11+08:00",
    "site_name": "蕃新聞",
@@ -5460,13 +5523,14 @@
    "districts": [
     "海安商圈（台南市）"
    ],
-   "body_chars": 2272,
+   "body_chars": 2260,
    "image": "https://ni.yam.com/20261025/haian-halloween-coffins-20261025-hero-v1-2294fbf5347ebf52.webp",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261019456611": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-19T20:39+08:00",
    "site_name": "蕃新聞",
@@ -5478,13 +5542,14 @@
    "districts": [
     "中山商圈（台北市）"
    ],
-   "body_chars": 962,
+   "body_chars": 955,
    "image": "https://ni.yam.com/20261019/992151fb-c5d0-4dc0-9eaf-c30ea6ce0dbd-6b255f3ae804969e.webp",
+   "image_checked": true,
    "date_hint": "2026-10-19",
    "date_hint_from": "原文時間"
   },
   "https://news.ebc.net.tw/news/living/577365": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T10:00+08:00",
    "site_name": "東森新聞",
@@ -5497,11 +5562,12 @@
    ],
    "body_chars": 1289,
    "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792877728_30137.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://udn.com/news/story/7328/9835301": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T18:46+08:00",
    "site_name": "聯合新聞網",
@@ -5514,28 +5580,32 @@
     "台北市": 1
    },
    "districts": [],
-   "body_chars": 1599,
+   "body_chars": 1602,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451231.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://tw.news.yahoo.com/%E7%84%A1%E6%95%85%E6%9C%9D%E8%B7%AF%E4%BA%BA%E4%B8%9F%E9%A3%B2%E6%96%99%E7%93%B6-2%E7%94%B7%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E6%8E%A8%E6%93%A0%E4%BA%92%E6%AF%86-084500971.html": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-18T16:45+08:00",
    "site_name": "Yahoo News",
    "description": "無故朝路人丟飲料瓶！2男東區商圈推擠互毆",
    "cities": {
-    "台北市": 7,
-    "台南市": 1,
-    "屏東縣": 1
+    "台北市": 6,
+    "桃園市": 2,
+    "台中市": 2,
+    "台南市": 2,
+    "高雄市": 2
    },
    "districts": [
     "東區商圈（台北市）",
     "西門町商圈（台北市）"
    ],
-   "body_chars": 3462,
+   "body_chars": 3689,
    "image": "https://s.yimg.com/lo/mysterio/api/29fcdba81b48bcf8b593bfe9744c17364d99a116bef494eb243d5e0bd5b7236a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Febc.net.tw%2Fd0bd19878ced45a124941b44d19be72e.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-18",
    "date_hint_from": "原文時間"
   },
@@ -5545,7 +5615,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.scooptw.com/local_news/542842/%e8%98%ad%e9%9b%85%e4%b8%80%e5%91%bc%e7%99%be%e6%87%89%ef%bc%81%e6%84%9f%e5%8f%97%e8%98%ad%e9%9b%85%e5%95%86%e5%9c%88%e7%af%80%e6%85%b6%e9%ad%85%e5%8a%9b-%e8%90%ac%e7%a5%9e%e7%af%80%e8%97%9d/": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-21T18:22+08:00",
    "site_name": "獨家報導",
@@ -5558,48 +5628,52 @@
    ],
    "body_chars": 957,
    "image": "https://secure.gravatar.com/avatar/38056bed663bb3a10c5b52ab451e7f9f025b33708bae1d3c2dca2367f3d0868a?s=96&d=retro&r=g",
+   "image_checked": true,
    "date_hint": "2026-10-21",
    "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261025986410": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T12:00+08:00",
    "site_name": "蕃新聞",
    "description": "圖片來源：林秉宥臉書（媒角抵加／林忠勳報導）新莊老街如何活化，林秉宥日前接受媒角抵加專訪時表示，早期",
    "cities": {
-    "新北市": 1
+    "新北市": 1,
+    "雲林縣": 1
    },
    "districts": [],
-   "body_chars": 1356,
+   "body_chars": 1365,
    "image": "https://ni.yam.com/20261025/2026-10-07-old-street-revitalization-hero-538d869fe491603e.webp",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://tw.news.yahoo.com/%E8%B5%B0%E8%A8%AA%E6%A1%83%E5%9C%92%E7%89%B9%E7%B4%84%E5%A5%BD%E5%BA%97%E6%8A%BD%E6%A9%9F%E7%A5%A8-%E4%B8%B2%E8%81%AF%E5%9B%9B%E5%A4%A7%E7%94%9F%E6%B4%BB%E5%95%86%E5%9C%88-%E9%9B%86%E7%AB%A0%E7%88%BD%E6%8A%BDapple-watch-%E6%90%B6%E7%99%BE%E5%85%83%E6%B6%88%E8%B2%BB%E5%88%B8-171248454.html": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-23T01:12+08:00",
    "site_name": "Yahoo News",
    "description": "【記者林廷亮／桃園報導】 桃園市政府持續推動桃園市民卡APP成為連結公共服務與在地生活的數位入口。為讓市民卡特 […]",
    "cities": {
-    "桃園市": 16,
-    "台北市": 13,
-    "基隆市": 3,
-    "台中市": 2,
-    "嘉義市": 2
+    "桃園市": 18,
+    "台北市": 11,
+    "新竹縣": 6,
+    "高雄市": 4,
+    "台中市": 3
    },
    "districts": [
     "桃園站前商圈（桃園市）",
     "在地商圈（南投縣）"
    ],
-   "body_chars": 3283,
+   "body_chars": 3531,
    "image": "https://s.yimg.com/lo/mysterio/api/43b5aa5a995d36616be1c4b74d3daa9a81a1a6098d73ce9a5f237bcd94127068/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmypeople.tw%2F13f54f4c8ac4f020c37080d3e99399a9.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-23",
    "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261023149316": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-23T01:12+08:00",
    "site_name": "蕃新聞",
@@ -5611,13 +5685,14 @@
     "桃園站前商圈（桃園市）",
     "在地商圈（南投縣）"
    ],
-   "body_chars": 1124,
+   "body_chars": 1108,
    "image": "https://ni.yam.com/20261023/05--AI--98df3c1e164a8982.webp",
+   "image_checked": true,
    "date_hint": "2026-10-23",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5618012": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T12:05+08:00",
    "site_name": "自由時報電子報",
@@ -5629,11 +5704,12 @@
    "districts": [],
    "body_chars": 491,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618012_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261023977797": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-23T10:33+08:00",
    "site_name": "蕃新聞",
@@ -5642,13 +5718,14 @@
     "高雄市": 2
    },
    "districts": [],
-   "body_chars": 265,
+   "body_chars": 262,
    "image": "https://ni.yam.com/20261023/1792722707839-907872a3530f369f.webp",
+   "image_checked": true,
    "date_hint": "2026-10-23",
    "date_hint_from": "原文時間"
   },
   "https://mypeoplevol.com/2026/local/117730/": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-23T01:12+08:00",
    "site_name": "民眾新聞網",
@@ -5662,11 +5739,12 @@
    ],
    "body_chars": 1299,
    "image": "https://img.pressunion.net/wp-content/uploads/2026/10/%E5%9C%96%E7%89%87-1.png",
+   "image_checked": true,
    "date_hint": "2026-10-23",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5617940": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T11:00+08:00",
    "site_name": "自由時報電子報",
@@ -5678,11 +5756,12 @@
    "districts": [],
    "body_chars": 851,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5617940_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5617893": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T10:19+08:00",
    "site_name": "自由時報電子報",
@@ -5694,11 +5773,12 @@
    "districts": [],
    "body_chars": 785,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5617893_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://www.ettoday.net/news/20261025/3260421.htm": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T10:40+08:00",
    "site_name": "ETtoday新聞雲",
@@ -5714,6 +5794,7 @@
    ],
    "body_chars": 2233,
    "image": "https://cdn2.ettoday.net/images/8981/e8981356.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
@@ -5723,7 +5804,7 @@
    "error": "The read operation timed out"
   },
   "https://news.ltn.com.tw/news/Taichung/breakingnews/5618023": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T12:50+08:00",
    "site_name": "自由時報電子報",
@@ -5734,6 +5815,7 @@
    "districts": [],
    "body_chars": 705,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618023_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
@@ -5743,7 +5825,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.ctwant.com/article/503702/": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T10:51+08:00",
    "site_name": "CTWANT",
@@ -5754,11 +5836,12 @@
    "districts": [],
    "body_chars": 893,
    "image": "https://static.ctwant.com/images/cover/2/503702/lg-543d3c7c158c6a941acda07637d456c5.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://stars.udn.com/star/story/10091/9836334": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T16:34+08:00",
    "site_name": "噓！星聞",
@@ -5767,11 +5850,12 @@
    "districts": [],
    "body_chars": 435,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35452886.jpg&M=1&s=Y&x=0&y=418&sw=1280&sh=853&sl=W&fw=800&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://www.msn.com/zh-tw/news/other/%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E7%88%86%E5%85%A8%E6%AD%A6%E8%A1%8C-%E9%98%BF%E4%BC%AF%E6%BF%80%E9%AC%A5%E6%83%85%E4%BE%B6%E6%AA%94%E9%81%AD%E5%A3%93%E5%88%B6-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2et071": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -5780,11 +5864,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.msn.com/zh-tw/news/other/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E6%88%B06%E4%BA%BA%E7%AB%B6%E9%80%90-%E6%94%AF%E6%8C%81%E8%AA%B0-%E8%A1%97%E9%A0%AD%E6%B0%91%E8%AA%BF%E7%B5%90%E6%9E%9C%E4%BB%96%E5%96%8A-%E5%A4%AA%E9%9B%A2%E8%AD%9C/ar-AA2fZ3pf": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -5793,11 +5878,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.ettoday.net/news/20261025/3260573.htm": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T15:08+08:00",
    "site_name": "ETtoday新聞雲",
@@ -5810,11 +5896,12 @@
    "districts": [],
    "body_chars": 1096,
    "image": "https://cdn2.ettoday.net/images/8982/e8982585.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://ctinews.com/news/items/9pWzXbAJxv": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T05:02+08:00",
    "site_name": "中天新聞網",
@@ -5826,11 +5913,12 @@
    "districts": [],
    "body_chars": 1168,
    "image": null,
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.cna.com.tw/news/aipl/202610250075.aspx": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T13:42+08:00",
    "site_name": "中央社 CNA",
@@ -5843,11 +5931,12 @@
    "districts": [],
    "body_chars": 884,
    "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261025/1365x768_wmky_0_C20261025000067.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://www.cna.com.tw/news/aloc/202610250118.aspx": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T16:34+08:00",
    "site_name": "中央社 CNA",
@@ -5859,11 +5948,12 @@
    "districts": [],
    "body_chars": 800,
    "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261025/1152x768_wmkn_0_C20261025000106.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://applealmond.com/posts/329501": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-21T09:18+08:00",
    "site_name": "蘋果仁 - 果仁 iPhone/iOS/好物推薦科技媒體",
@@ -5876,11 +5966,12 @@
    ],
    "body_chars": 2485,
    "image": "https://applealmond.com/wp-content/uploads/2026/10/1792545060-0e289d81f9a52b25f54d1c8c16d9346a.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-21",
    "date_hint_from": "原文時間"
   },
   "https://msn.com/zh-tw/news/news/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E5%BC%B7%E9%99%A3%E9%A2%A8%E5%90%B9%E5%8F%B0%E4%B8%AD-%E5%8B%A4%E7%BE%8E%E5%95%86%E5%9C%88%E5%A4%A7%E5%B8%86%E5%B8%83%E5%BB%A3%E5%91%8A%E6%8E%89%E8%90%BD-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fSiGU": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -5889,11 +5980,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%80%BC%E8%BF%91-%E5%BD%B0%E5%8C%96%E6%B2%BF%E6%B5%B7%E7%8B%82%E5%88%AE10%E7%B4%9A%E5%BC%B7%E9%A2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97-%E8%80%81%E7%89%86%E5%9D%8D%E5%A1%8C-%E6%85%98%E6%B3%81%E6%9B%9D%E5%85%89/ar-AA2fMCyP": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -5902,11 +5994,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://msn.com/zh-tw/news/other/%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96%E9%A0%BB%E5%82%B3%E6%83%B9%E6%B0%91%E6%80%A8-%E7%B8%A3%E8%AD%B0%E5%93%A1%E6%8F%AD5%E5%A4%A7%E7%BC%BA%E5%A4%B1/ar-AA2fJs52": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -5915,11 +6008,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://news.ltn.com.tw/news/Taipei/breakingnews/5615313": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-22T19:31+08:00",
    "site_name": "自由時報電子報",
@@ -5933,6 +6027,7 @@
    "districts": [],
    "body_chars": 1343,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/22/phpYsEK9y.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-22",
    "date_hint_from": "原文時間"
   },
@@ -5942,7 +6037,7 @@
    "error": "HTTP Error 429: Too Many Requests"
   },
   "https://msn.com/zh-tw/weather/%E4%B8%80%E8%88%AC/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E5%A4%96%E5%9C%8D%E7%92%B0%E6%B5%81%E9%A2%A8%E5%8B%A2%E5%BC%B7-%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E5%BA%97%E5%AE%B6%E7%85%A7%E7%87%9F%E6%A5%AD-newsebc/vi-AA2fMurr": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -5951,11 +6046,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5615082": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-22T16:04+08:00",
    "site_name": "自由時報電子報",
@@ -5968,6 +6064,7 @@
    ],
    "body_chars": 563,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/22/php4mdVCT.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-22",
    "date_hint_from": "原文時間"
   },
@@ -5977,7 +6074,7 @@
    "error": "HTTP Error 429: Too Many Requests"
   },
   "https://www.chinatimes.com/realtimenews/20261021003652-260405": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-21T16:37+08:00",
    "site_name": "中時新聞網",
@@ -5991,11 +6088,12 @@
    ],
    "body_chars": 760,
    "image": "https://images.chinatimes.com/newsphoto/2026-10-21/656/20261021003653.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-21",
    "date_hint_from": "原文時間"
   },
   "https://www.msn.com/zh-tw/news/national/%E4%B8%AD%E5%B0%8F%E5%BE%AE%E4%BC%81%E6%A5%AD%E8%BD%89%E5%9E%8B%E8%88%87%E5%95%86%E5%9C%88%E5%B8%82%E5%A0%B4ip%E5%8C%96-%E9%99%B3%E4%BA%AD%E5%A6%83%E4%BF%83%E6%88%90%E7%AB%8B%E5%8F%B0%E5%8D%97%E8%BC%94%E5%B0%8E%E5%B0%8F%E7%B5%84%E5%B0%8D%E6%8E%A5%E4%B8%AD%E5%A4%AE-%E8%BE%B2%E6%A5%AD%E9%83%A8%E6%8C%BA%E9%9D%92%E8%BE%B2%E7%A7%91%E6%8A%80%E5%8C%96/ar-AA2fJErj": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -6004,11 +6102,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.nownews.com/news/6884781": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-19T17:02+08:00",
    "site_name": "NOWnews今日新聞",
@@ -6020,8 +6119,9 @@
     "基隆市": 1
    },
    "districts": [],
-   "body_chars": 811,
+   "body_chars": 804,
    "image": "https://media.nownews.com/nn_media/thumbnail/2025/10/1761820714952-bd0876a206d743e3967b54bfe72a1d03-1200x801.webp?unShow=false",
+   "image_checked": true,
    "date_hint": "2026-10-19",
    "date_hint_from": "原文時間"
   },
@@ -6031,7 +6131,7 @@
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
   "https://www.ctee.com.tw/news/20261021701782-431401": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-21T16:37+08:00",
    "site_name": "中時即時",
@@ -6045,11 +6145,12 @@
    ],
    "body_chars": 735,
    "image": "https://images.ctee.com.tw/newsphoto/2026-10-21/1024/20261021701783.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-21",
    "date_hint_from": "原文時間"
   },
   "https://hsnews.com.tw/tourism-and-cuisine/hua-lian-shi-bai-nian-lao-jie-shang-quan-bai-nian-zhen-xing-chao-gei-li-re-nao-deng-chang-ji-dian-chang-bao-qu2-0xiao-fei-man-bai-ji-dian-chou-da-jiang-265fen-niu-dan-hao-li-yao-min-zhong-yi-qi-huo-luo-zai-de-shang-quan.html": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-22T11:02+08:00",
    "site_name": "花蓮最速報",
@@ -6065,6 +6166,7 @@
    ],
    "body_chars": 1160,
    "image": "https://www.hsnews.com.tw/images/2026/10/22/img_1179_large.jpeg",
+   "image_checked": true,
    "date_hint": "2026-10-22",
    "date_hint_from": "原文時間"
   },
@@ -6074,7 +6176,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://ettoday.net/news/20261022/3259040.htm": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-22T11:32+08:00",
    "site_name": "ETtoday新聞雲",
@@ -6091,11 +6193,12 @@
    ],
    "body_chars": 737,
    "image": "https://cdn2.ettoday.net/images/8978/e8978433.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-22",
    "date_hint_from": "原文時間"
   },
   "https://truemii.chinatimes.com/content/20261021002180-265001": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-21T13:44+08:00",
    "site_name": "瘋台灣 - 觸mii",
@@ -6106,11 +6209,12 @@
    "districts": [],
    "body_chars": 883,
    "image": "https://images.chinatimes.com/newsphoto/2026-10-21/1024/20261021002181.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-21",
    "date_hint_from": "原文時間"
   },
   "https://www.msn.com/zh-tw/news/other/%E5%98%89%E7%BE%A9%E5%B8%82%E6%96%87%E5%8C%96%E8%B7%AF%E5%95%86%E5%9C%88%E5%B7%A5%E7%A8%8B-%E6%8C%96%E7%A0%B4%E7%AE%A1-%E5%A4%A7%E7%A9%8D%E6%B0%B4-%E5%95%86%E5%AE%B6%E5%8F%AB%E8%8B%A6-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fDmiS": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -6119,11 +6223,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.cna.com.tw/news/afe/202610200184.aspx": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-20T15:15+08:00",
    "site_name": "中央社 CNA",
@@ -6137,6 +6242,7 @@
    ],
    "body_chars": 790,
    "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261020/1024x768_wmky_0_C20261020000136.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-20",
    "date_hint_from": "原文時間"
   },
@@ -6146,7 +6252,7 @@
    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
   },
   "https://news.tvbs.com.tw/life/4038524": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-20T11:49+08:00",
    "site_name": "TVBS新聞網",
@@ -6162,11 +6268,12 @@
    ],
    "body_chars": 2780,
    "image": "https://news-images.tvbs.com.tw/api/v1/image/01a15738-5728-73fe-80ab-b2fdf5443bbc.jpg?t=16x9&wp=r,t&c=0,0,1920,1080&w=1200&h=675",
+   "image_checked": true,
    "date_hint": "2026-10-20",
    "date_hint_from": "原文時間"
   },
   "https://thehubnews.net/archives/676734": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-20T14:55+08:00",
    "site_name": "新頭條-TheHubNews",
@@ -6179,11 +6286,12 @@
    ],
    "body_chars": 1166,
    "image": "https://www.thehubnews.net/wp-content/uploads/2026/10/3317b80dd91c6b5e61982ee63e34e60a.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-20",
    "date_hint_from": "原文時間"
   },
   "https://www.ctwant.com/article/503272": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-21T16:53+08:00",
    "site_name": "CTWANT",
@@ -6196,11 +6304,12 @@
    ],
    "body_chars": 1196,
    "image": "https://static.ctwant.com/images/cover/72/503272/lg-19b8b5d0c2b28fab7b1609aedccfb405.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-21",
    "date_hint_from": "原文時間"
   },
   "https://money.udn.com/money/story/5637/9824391": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-20T10:00+08:00",
    "site_name": "經濟日報",
@@ -6211,11 +6320,12 @@
    "districts": [],
    "body_chars": 1738,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35435365.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-20",
    "date_hint_from": "原文時間"
   },
   "https://ctinews.com/news/items/Z3WgYJQKxK": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-20T16:12+08:00",
    "site_name": "中天新聞網",
@@ -6226,11 +6336,12 @@
    "districts": [],
    "body_chars": 653,
    "image": null,
+   "image_checked": true,
    "date_hint": "2026-10-20",
    "date_hint_from": "原文時間"
   },
   "https://www.businesstoday.com.tw/article/category/183027/post/202610190040": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-20T10:00+08:00",
    "site_name": "今周刊",
@@ -6245,11 +6356,12 @@
    ],
    "body_chars": 1188,
    "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/194074/1200900_20261019171123.jpg_600x450.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-20",
    "date_hint_from": "原文時間"
   },
   "https://thehubnews.net/archives/677138": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-21T18:22+08:00",
    "site_name": "新頭條-TheHubNews",
@@ -6262,11 +6374,12 @@
    ],
    "body_chars": 933,
    "image": "https://www.thehubnews.net/wp-content/uploads/2026/10/rAlXPSIGIysSUJg8pgZs.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-21",
    "date_hint_from": "原文時間"
   },
   "https://www.ettoday.net/news/20261020/3257751.htm": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-20T11:43+08:00",
    "site_name": "ETtoday新聞雲",
@@ -6282,11 +6395,12 @@
    ],
    "body_chars": 2148,
    "image": "https://cdn2.ettoday.net/images/8975/e8975564.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-20",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5611712": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-19T23:02+08:00",
    "site_name": "自由時報電子報",
@@ -6300,11 +6414,12 @@
    ],
    "body_chars": 841,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/19/5611712_4_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-19",
    "date_hint_from": "原文時間"
   },
   "https://www.ctee.com.tw/news/20261019701639-431207": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-19T17:44+08:00",
    "site_name": "工商時報",
@@ -6315,6 +6430,7 @@
    "districts": [],
    "body_chars": 1277,
    "image": "https://images.ctee.com.tw/newsphoto/2026-10-19/1024/20261019701641.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-19",
    "date_hint_from": "原文時間"
   },
@@ -6324,7 +6440,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5618430": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T22:11+08:00",
    "site_name": "自由時報電子報",
@@ -6336,25 +6452,27 @@
    "districts": [],
    "body_chars": 778,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618430_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://tw.news.yahoo.com/%E5%85%AB%E5%BE%B7%E5%B0%81%E8%A1%97%E5%85%A8%E8%83%BD%E7%8E%A9%E5%AE%B6-%E5%87%BA%E6%93%8A-%E7%82%BA%E5%95%86%E5%9C%88%E4%B8%BB%E9%A1%8C%E6%B4%BB%E5%8B%95%E6%8F%AD%E9%96%8B%E5%BA%8F%E5%B9%95-100150555.html": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-19T18:01+08:00",
    "site_name": "Yahoo News",
    "description": "【記者 郭夢迪／台北 報導】10月17、18日，八德資訊商圈於八德路一段封街舉辦「2026八德封街－全能玩家」",
    "cities": {
-    "台北市": 13,
-    "基隆市": 3,
-    "台中市": 2,
-    "台南市": 1,
-    "高雄市": 1
+    "台北市": 11,
+    "新竹縣": 7,
+    "桃園市": 4,
+    "台中市": 3,
+    "基隆市": 3
    },
    "districts": [],
-   "body_chars": 3789,
+   "body_chars": 4000,
    "image": "https://s.yimg.com/lo/mysterio/api/9edc14b88e55498cfe490db53e7ee145e2b73eec1f64d2468421f97c5e3308f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnewstaiwandigi_com_938%2F67d894943fe6912cb28ce52efb5b4422",
+   "image_checked": true,
    "date_hint": "2026-10-19",
    "date_hint_from": "原文時間"
   },
@@ -6369,7 +6487,7 @@
    "error": "HTTP Error 429: Too Many Requests"
   },
   "https://www.ctee.com.tw/news/20261019701098-431401": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-19T12:47+08:00",
    "site_name": "中時即時",
@@ -6386,30 +6504,32 @@
    ],
    "body_chars": 862,
    "image": "https://images.ctee.com.tw/newsphoto/2026-10-19/1024/20261019701099.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-19",
    "date_hint_from": "原文時間"
   },
   "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%8B%9B%E5%8B%9F%E7%AF%80%E8%83%BD%E5%8F%8B%E5%96%84%E5%BA%97%E5%AE%B6-%E6%89%93%E9%80%A0%E7%B6%A0%E7%94%9F%E6%B4%BB%E6%B6%88%E8%B2%BB%E5%9C%B0%E5%9C%96-%E9%82%80%E6%82%A8%E5%85%B1%E7%AF%89%E6%B0%B8%E7%BA%8C%E5%95%86%E5%9C%88-095931711.html": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-19T17:59+08:00",
    "site_name": "Yahoo News",
    "description": "花蓮縣政府為讓節能永續從理念走進日常、從單一店家擴展至整座城市，持續推動「花蓮好日綠生活」運動，積極招募在地業者加入節能友善店家行列，透過節能認證、「花蓮好日綠生活地圖」及「綠生活公約」，串聯不同產業與消費場域，打造兼具節能實踐、店家特色及綠色消費意識的在地商家網絡。縣政府期盼讓每個願意實踐節能的店家，都有機會展現自身",
    "cities": {
     "花蓮縣": 17,
-    "台北市": 6,
-    "桃園市": 2,
-    "台中市": 1,
-    "台南市": 1
+    "新竹縣": 6,
+    "台北市": 4,
+    "桃園市": 4,
+    "台南市": 3
    },
    "districts": [],
-   "body_chars": 3547,
+   "body_chars": 4000,
    "image": "https://s.yimg.com/lo/mysterio/api/a450111a6210d59970f361e8d382fb6b790149e45ff1d395e99715ff74990331/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Ftssdnews.com.tw%2F63a3221d3ac267083359b3800dc65e5c.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-19",
    "date_hint_from": "原文時間"
   },
   "https://msn.com/zh-tw/news/news/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E5%BC%B7%E9%99%A3%E9%A2%A8%E5%90%B9%E5%8F%B0%E4%B8%AD-%E5%8B%A4%E7%BE%8E%E5%95%86%E5%9C%88%E5%A4%A7%E5%B8%86%E5%B8%83%E5%BB%A3%E5%91%8A%E6%8E%89%E8%90%BD-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fS0z1": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -6418,11 +6538,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.nownews.com/news/6884710": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-19T13:41+08:00",
    "site_name": "NOWnews今日新聞",
@@ -6432,13 +6553,14 @@
     "新北市": 1
    },
    "districts": [],
-   "body_chars": 804,
+   "body_chars": 797,
    "image": "https://media.nownews.com/nn_media/thumbnail/2026/10/1792317314005-0c29519148ba46c1b7cd5c8a1d1156be-1200x901.webp?unShow=false",
+   "image_checked": true,
    "date_hint": "2026-10-19",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/politics/breakingnews/5618108": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T14:55+08:00",
    "site_name": "自由時報電子報",
@@ -6449,6 +6571,7 @@
    "districts": [],
    "body_chars": 1206,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618108_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
@@ -6458,7 +6581,7 @@
    "error": "<urlopen error timed out>"
   },
   "https://www.msn.com/zh-tw/news/other/%E7%8D%A8%E5%AE%B6-%E9%82%84%E5%9C%A8-%E8%A3%9D%E7%86%9F-%E6%A9%AB%E8%A1%8C%E9%9B%99%E5%8C%97-%E5%80%9F%E9%8C%A2%E5%93%A5-%E8%BD%89%E6%88%B0%E6%A1%83%E5%9C%92%E9%82%84%E6%BC%B2%E5%83%B9-newsebc/vi-AA2fztID": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -6467,11 +6590,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://macrocosm.tw/%e5%8d%97%e6%8a%95%e3%80%8c%e5%a4%8f%e5%8d%88%e5%86%b0%e6%9e%9c%e4%ba%8b%e3%80%8d10%e6%9c%8824%e6%97%a5%e7%86%b1%e9%ac%a7%e7%99%bb%e5%a0%b4%ef%bc%81%e8%a6%aa%e5%ad%90%e5%98%89%e5%b9%b4%e8%8f%af/": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -6485,11 +6609,12 @@
    ],
    "body_chars": 1381,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5617680": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T20:35+08:00",
    "site_name": "自由時報電子報",
@@ -6500,11 +6625,12 @@
    "districts": [],
    "body_chars": 795,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617680_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.ettoday.net/news/20261025/3260817.htm": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T23:28+08:00",
    "site_name": "ETtoday新聞雲",
@@ -6517,11 +6643,12 @@
    "districts": [],
    "body_chars": 921,
    "image": "https://cdn2.ettoday.net/images/8983/e8983853.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5618433": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T22:48+08:00",
    "site_name": "自由時報電子報",
@@ -6533,30 +6660,32 @@
    "districts": [],
    "body_chars": 1039,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618433_5_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://tw.news.yahoo.com/%E9%81%87%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E6%94%AA%E5%B1%80-air-supply%E6%BC%94%E5%94%B1%E6%9C%83%E5%BB%B6%E6%9C%9F-%E6%88%90%E5%93%A1%E7%99%BC%E8%81%B2-%E6%98%8E%E5%B9%B4%E8%BF%94%E5%8F%B0%E5%8A%A0%E5%A0%B4-121122859.html": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T20:11+08:00",
    "site_name": "Yahoo News",
    "description": "西洋情歌傳奇樂團空中補給合唱團（Air Supply）原定24日於高雄流行音樂中心舉辦演唱會，卻因薔琵颱風來襲導致海外重要器材無法及時運抵，主辦單位全球音樂經紀與成員經謹慎評估後，不得不忍痛宣布演出緊急延期。",
    "cities": {
     "台北市": 8,
+    "新竹縣": 7,
     "高雄市": 5,
     "基隆市": 3,
-    "台中市": 1,
-    "台南市": 1
+    "桃園市": 2
    },
    "districts": [],
-   "body_chars": 3571,
+   "body_chars": 3872,
    "image": "https://s.yimg.com/lo/mysterio/api/51ab80dafb0a337ad3a27363ce5d25b1bc0e0e20c04c00ca05f4f2bba2f3af34/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgotv_ctitv_com_tw_678%2F34267e658bb35b9f73c5b3d386af8f1d.png",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/life/paper/1775995": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T05:30+08:00",
    "site_name": "自由時報電子報",
@@ -6569,11 +6698,12 @@
    "districts": [],
    "body_chars": 752,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/26/121.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://www.blocktempo.com/typhoon-ai-fake-photo-mcdonalds-dajia-police-six-forwarders-lawsuit/": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T12:38+08:00",
    "site_name": "動區動趨-最具影響力的區塊鏈新聞媒體",
@@ -6584,6 +6714,7 @@
    "districts": [],
    "body_chars": 1532,
    "image": "https://image.blocktempo.com/2026/10/cover_20261025_040008.webp",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
@@ -6593,14 +6724,14 @@
    "error": "HTTP Error 429: Too Many Requests"
   },
   "https://udn.com/vote2026/story/124652/9835439": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T00:18+08:00",
    "site_name": "2026九合一選舉",
    "description": "薔琵颱風強風驟雨，基隆最大陣風十四級，昨最多有一萬五千多戶停電，市長謝國樑視察招牌掉落、停電及道路設施受損等災情，指示市府相關單位與台電加速處理，周一前復原。民進黨市長參選人童子瑋到協和街附近了解電力搶修進度，台電總經理郭天合表示，除了道路不通及路樹影響以外，都會盡快完成復電。",
    "cities": {
     "基隆市": 7,
-    "台北市": 3,
+    "台北市": 1,
     "台南市": 1,
     "高雄市": 1,
     "屏東縣": 1
@@ -6608,13 +6739,14 @@
    "districts": [
     "深澳坑商圈（基隆市）"
    ],
-   "body_chars": 613,
+   "body_chars": 575,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=/t3/2026/10/24/35451402.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://life.tw/article/%E5%BD%B1%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E7%81%BD%E5%BE%8C%E5%81%9C%E9%9B%BB%E6%90%B6%E4%BF%AE%E4%B8%8D%E5%81%9C%E6%AD%87-%E5%8F%B0%E9%9B%BB%E5%BD%B0%E5%8C%96%E5%8D%80%E8%99%95%E5%87%BA%E5%8B%95505%E4%BA%BA%E5%8A%9B%E6%8B%9A%E4%BB%8A-3192177": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T21:35+08:00",
    "site_name": "LIFE 生活網",
@@ -6625,29 +6757,32 @@
    "districts": [],
    "body_chars": 1074,
    "image": "https://hoomedia.com.tw/wp-content/uploads/2026/10/9418dc7dc0272f1b61c72da274e0b155.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/amp/news/life/breakingnews/5617940": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T11:00+08:00",
    "site_name": "自由時報電子報",
    "description": "中度颱風「薔琵」為嘉義沿海帶來12級最大陣風，山區則降下豪雨，造成嘉義山區及沿海電力設備損壞，累積逾1.8萬戶停電。台電嘉義區營業處立即啟動緊急應變機制，除全面動員自有工班與大型機具搶修斷線事故外，亦成立「機動搶修班」處理零星災情與「災情查報班」深入現場巡查，並調度承攬商同步修剪樹竹與修復斷線。經全體搶修人員冒著風雨奮",
    "cities": {
-    "嘉義": 19,
+    "嘉義": 20,
     "新北市": 2,
-    "新竹縣": 2,
-    "宜蘭縣": 1
+    "高雄市": 1,
+    "宜蘭縣": 1,
+    "台東縣": 1
    },
    "districts": [],
-   "body_chars": 1092,
+   "body_chars": 1080,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5617940_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://autos.yahoo.com.tw/news/%E6%96%B0%E8%BB%8A287%E8%90%AC%E6%97%A5%E5%9C%93-%E7%B4%84%E6%96%B0%E5%8F%B0%E5%B9%A3596-202%E5%85%83-subaru-%E5%85%A8%E6%96%B0impreza-025810424.html": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T10:58+08:00",
    "site_name": "車訊網",
@@ -6656,11 +6791,12 @@
    "districts": [],
    "body_chars": 2161,
    "image": "https://s.yimg.com/lo/mysterio/api/C316E13AA786D1E8BFA20F6C4FC6B5FBE07AE8841C4A8D925E55CC66EE9FABAC/subgraphmysterio/resizefit_w2400_h1350;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftwautos.carnews.com%2F09bd5fcdeafc35ec578c0917d7221f41.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://today.line.me/tw/v3/article/gzpPZY8": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-25T14:55+08:00",
    "site_name": "LINE TODAY",
@@ -6671,30 +6807,32 @@
    "districts": [],
    "body_chars": 966,
    "image": "https://today-obs.line-scdn.net/0ho5EUXMycMBp4LCygl65PTUB6PGtLSioTWk18Lwh-bSkBAHEYE0hjeVx5ZjYGGiIbWEN-LA4oby8BHX8eEQ/w1200",
+   "image_checked": true,
    "date_hint": "2026-10-25",
    "date_hint_from": "原文時間"
   },
   "https://tw.news.yahoo.com/%E9%80%9B%E8%A1%97%E5%88%B0-%E5%8D%8A%E5%A6%B9%E5%A6%B9%E5%95%86%E5%9C%88%E8%B5%B0%E5%A4%B1-%E5%A4%A7%E5%AE%89%E8%AD%A6%E7%A9%8D%E6%A5%B5%E5%8D%94%E5%B0%8B%E5%8A%A9%E5%9C%98%E5%9C%93-025119738.html": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T10:51+08:00",
    "site_name": "Yahoo News",
    "description": "圖說：臺北市大安分局和平東路派出所警員周品澄、費品涵。 【民眾網編輯方笙楠臺北報導】臺北市大安分局和平東路派出 […]",
    "cities": {
     "台北市": 10,
+    "桃園市": 4,
     "基隆市": 3,
-    "桃園市": 2,
-    "台中市": 1,
-    "台南市": 1
+    "台南市": 2,
+    "新北市": 1
    },
    "districts": [],
-   "body_chars": 3534,
+   "body_chars": 3799,
    "image": "https://s.yimg.com/lo/mysterio/api/fa1dfb49292ece582aa19ff3bf7780c9bb97dbe52e173ee4a4b7313d28b08143/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmypeople.tw%2F29154dcc92331a6f37c93f9ef5878645.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://life.tw/article/%E5%8F%B0%E5%8D%97%E5%81%9C%E9%9B%BB%E6%90%B6%E4%BF%AE%E9%80%B2%E5%85%A5%E6%9C%80%E5%BE%8C%E9%9A%8E%E6%AE%B5-%E5%8F%B0%E9%9B%BB%E6%B0%91%E7%94%9F%E7%94%A8%E9%9B%BB%E5%8A%9B%E6%8B%9A%E4%BB%8A%E6%99%9A%E6%81%A2%E5%BE%A9-3191994": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T18:06+08:00",
    "site_name": "LIFE 生活網",
@@ -6705,11 +6843,12 @@
    "districts": [],
    "body_chars": 916,
    "image": "https://focus.586.com.tw/wp-content/uploads/2026/10/S__152076329_0.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://sunmedia.tw/news/technology/1792795729-%E7%8D%A8%E7%AB%8B%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E5%95%86%E6%87%BCAI%E8%A4%87%E8%A3%BD%E9%A2%A8%E9%9A%AA%20%E5%8F%96%E6%B6%88%E5%85%AC%E9%96%8B%E8%A9%A6%E7%8E%A9%E7%89%88": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T15:36+08:00",
    "site_name": "商傳媒",
@@ -6718,11 +6857,12 @@
    "districts": [],
    "body_chars": 701,
    "image": "https://image.sunmedia.tw/banners/bfcfa16c-d1f4-45ed-88bc-0ed602165bd5.jpeg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://udn.com/news/story/7326/9835174": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T16:39+08:00",
    "site_name": "聯合新聞網",
@@ -6735,13 +6875,14 @@
     "桃園市": 1
    },
    "districts": [],
-   "body_chars": 2026,
+   "body_chars": 2029,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451095.jpg&M=1&s=Y&x=0&y=57&sw=1279&sh=853&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://www.tristarnews.com.tw/news_ii.html?ID=38793": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -6752,11 +6893,12 @@
    "districts": [],
    "body_chars": 276,
    "image": "https://www.tristarnews.com.tw/upload/newsData/20261024212356TJLg.jpg",
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.worldjournal.com/wj/amp/story/121368/9834960": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": "世界新聞網",
@@ -6765,11 +6907,12 @@
    "districts": [],
    "body_chars": 1013,
    "image": "https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450769.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=800&exp=3600",
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://mypeoplevol.com/2026/life/117866/": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T17:06+08:00",
    "site_name": "民眾新聞網",
@@ -6781,6 +6924,7 @@
    "districts": [],
    "body_chars": 852,
    "image": "https://img.pressunion.net/wp-content/uploads/2026/10/%E5%8C%97%E5%8C%97%E7%91%9E%E5%85%89%E8%B7%AF%E4%B8%80.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
@@ -6790,7 +6934,7 @@
    "error": "HTTP Error 429: Too Many Requests"
   },
   "https://news.tvbs.com.tw/videos/DoiLAN-3N9I": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": "TVBS新聞網",
@@ -6804,11 +6948,12 @@
    ],
    "body_chars": 267,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-24/2505391.html": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T17:37+08:00",
    "site_name": "壹電視",
@@ -6821,11 +6966,12 @@
    ],
    "body_chars": 332,
    "image": "https://image.nexttv.com.tw/material/news/img/2026/10/b71c287bbeccbd1dc64b0138c150d8a5.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://more-news.tw/750973/": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T14:57+08:00",
    "site_name": "墨新聞 MORE News",
@@ -6837,11 +6983,12 @@
    "districts": [],
    "body_chars": 586,
    "image": "https://more-news.tw/more-news-media/2026/10/1151024-411.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://media.posu.tw/uninews_view.php?new_sn=147269": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -6851,12 +6998,13 @@
    },
    "districts": [],
    "body_chars": 573,
-   "image": null,
+   "image": "https://uploads.posu.tw/1/1/202210311323318897.png",
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.229119.com.tw/uninews_view.php?new_sn=147336&lang=TS": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -6868,12 +7016,13 @@
     "海安商圈（台南市）"
    ],
    "body_chars": 779,
-   "image": null,
+   "image": "https://uploads.posu.tw/73/738/1792921842_0.jpg",
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://news.ttv.com.tw/news/11510240001700W": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-24T15:00+08:00",
    "site_name": "台視新聞網",
@@ -6882,13 +7031,14 @@
     "台北市": 3
    },
    "districts": [],
-   "body_chars": 1195,
+   "body_chars": 1190,
    "image": "https://cdn.ttv.com.tw/manasystem/FileData/News/25088e8f-ec56-4163-b2bb-61712ea965aa.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   },
   "https://sunmedia.tw/news/collaborative/37PnoorVSa5f1LfRamI1dz8T5RdLr89LmvJUoCXGBJxMqz44iYTF0WMOUc40pjbKjjFeCYZbduXfT1KObx7N": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T10:51+08:00",
    "site_name": "商傳媒",
@@ -6899,11 +7049,12 @@
    "districts": [],
    "body_chars": 492,
    "image": "https://img.pressunion.net/wp-content/uploads/2026/10/MEITU_20261026_104903579-300x200.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://www.setn.com/news/185312": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": "三立新聞網",
@@ -6911,16 +7062,18 @@
    "cities": {
     "新北市": 2,
     "高雄市": 2,
-    "桃園市": 1
+    "雲林縣": 2,
+    "台南市": 1
    },
    "districts": [],
-   "body_chars": 1056,
+   "body_chars": 1072,
    "image": "https://attach.setn.com/newsimages/2016/09/27/659794-PH.jpg",
+   "image_checked": true,
    "date_hint": "2016-09-27",
    "date_hint_from": "圖片路徑"
   },
   "https://today.line.me/tw/v3/posts/list/article/MLBgBJj": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": "LINE TODAY",
@@ -6933,11 +7086,12 @@
    ],
    "body_chars": 117,
    "image": "https://today-obs.line-scdn.net/0hn5Ty98gyMRppAC2hFptOTVFWPWtaZisTSzN7fBwHaytCLHJIAjJieRxUajZNMSNNSWIre0tTbi0WMyVPUg/w1200",
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.storm.mg/lifestyle/11174049": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T10:30+08:00",
    "site_name": null,
@@ -6953,11 +7107,12 @@
    ],
    "body_chars": 2796,
    "image": "https://images.storm.mg/cloud/b46f2e8910962b7cdcfbc8abd47340dc5d81ad04.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2236270%2FyH9nCKw9hwONTdq3ac2jYFxSaHMkpcEYH0Vy9DuO.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://www.chinatimes.com/realtimenews/20261026001942-260405": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T14:30+08:00",
    "site_name": "中時新聞網",
@@ -6971,11 +7126,12 @@
    ],
    "body_chars": 756,
    "image": "https://images.chinatimes.com/newsphoto/2026-10-26/656/20261026001943.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://more-news.tw/747678/": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-20T16:54+08:00",
    "site_name": "墨新聞 MORE News",
@@ -6989,11 +7145,12 @@
    ],
    "body_chars": 1127,
    "image": "https://more-news.tw/more-news-media/2026/10/1-287.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-20",
    "date_hint_from": "原文時間"
   },
   "https://udn.com/news/amp/story/7241/9837680": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T14:19+08:00",
    "site_name": "聯合新聞網",
@@ -7004,11 +7161,12 @@
    "districts": [],
    "body_chars": 1217,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35454826.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=800&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5619052": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T13:56+08:00",
    "site_name": "自由時報電子報",
@@ -7021,11 +7179,12 @@
    ],
    "body_chars": 776,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/26/5619052_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://money.udn.com/money/story/5621/9837680": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T14:19+08:00",
    "site_name": "經濟日報",
@@ -7036,30 +7195,28 @@
    "districts": [],
    "body_chars": 1673,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35454826.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://udn.com/news/story/7241/9837680": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T14:19+08:00",
    "site_name": "聯合新聞網",
    "description": "台北市頂級商辦租金撐得住，空置率也開始下降。據國泰辦公室租金指數最新調查顯示，2026年第3季台北市A級辦公室租金開價每坪3,564元，季減0.34%，整體租金行情維持穩定，空置率則降至7.73%，較上季下降1.13個百分點。其中，忠孝襄陽路段表現最為突出，租金開價季增1.52%，空置率更一口氣下降9.68個百分點，降",
    "cities": {
-    "台北市": 11,
-    "基隆市": 1,
-    "苗栗縣": 1,
-    "台東縣": 1,
-    "金門縣": 1
+    "台北市": 12
    },
    "districts": [],
-   "body_chars": 2305,
+   "body_chars": 2693,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35454826.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5619018": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T13:32+08:00",
    "site_name": "自由時報電子報",
@@ -7070,11 +7227,12 @@
    "districts": [],
    "body_chars": 712,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/26/5619018_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://news.pts.org.tw/article/832951": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T13:28+08:00",
    "site_name": "公視新聞網 PNN",
@@ -7085,11 +7243,12 @@
    "districts": [],
    "body_chars": 569,
    "image": "https://news-data.pts.org.tw/media/299659/conversions/bR9CSvcuqrCKs2R3V9A6kJr4wVYHPwPEHEfdWcyn-og_jpg.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://www.ctee.com.tw/news/20261026700481-431401": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T14:30+08:00",
    "site_name": "中時即時",
@@ -7103,11 +7262,12 @@
    ],
    "body_chars": 731,
    "image": "https://images.ctee.com.tw/newsphoto/2026-10-26/1024/20261026700482.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://www.ettoday.net/news/20261026/3261098.htm": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T16:14+08:00",
    "site_name": "ETtoday新聞雲",
@@ -7120,11 +7280,12 @@
    "districts": [],
    "body_chars": 1137,
    "image": "https://cdn2.ettoday.net/images/8976/e8976622.png",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://udn.com/news/story/7320/9837957": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T18:20+08:00",
    "site_name": "聯合新聞網",
@@ -7136,8 +7297,9 @@
     "屏東縣": 1
    },
    "districts": [],
-   "body_chars": 1437,
+   "body_chars": 1440,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35455412.jpg&M=1&s=Y&x=1&y=231&sw=474&sh=316&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
@@ -7152,7 +7314,7 @@
    "error": "HTTP Error 429: Too Many Requests"
   },
   "https://www.msn.com/zh-tw/news/other/%E9%A7%95%E8%BB%8A%E9%80%B2%E6%9D%B1%E6%B5%B7%E5%95%86%E5%9C%88%E6%93%A6%E6%92%9E%E6%A9%9F%E8%BB%8A-%E8%AD%A6%E6%9F%A5%E8%B6%8A%E7%B1%8D%E7%94%B7-%E9%80%BE%E6%9C%9F%E5%B1%85%E7%95%99-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2g56nE": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -7161,30 +7323,32 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%B7%A6%E9%8E%AE%E8%80%81%E8%A1%97%E7%AB%B9%E6%A7%8B%E9%80%A0%E6%B6%BC%E4%BA%AD%E5%AE%8C%E5%B7%A5-%E5%AE%B6%E5%85%B7-%E8%8A%B1%E5%99%A8%E5%85%A8%E7%AB%B9%E5%B7%A5%E8%97%9D%E8%B5%B0%E5%85%A5%E7%94%9F%E6%B4%BB-105128056.html": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T18:51+08:00",
    "site_name": "Yahoo News",
    "description": "歷經約1個月打造，台南左鎮老街新增一座竹構造涼亭，除了可作為舉辦活動、體驗課程的空間，內部也展示竹製的家具、花器、淺山地區植物的印染工藝等，將竹帶回日常生活中，展現全竹工藝，後續也將推出竹工藝相關的體驗課程。該棟竹構造涼亭由左鎮竹苑學員合力打造，約有20人陸續參與，也是左鎮竹資源循環示範與環境教育推",
    "cities": {
-    "台北市": 6,
-    "台南市": 6,
-    "基隆市": 3,
-    "桃園市": 2,
-    "台中市": 2
+    "台北市": 8,
+    "台南市": 7,
+    "新竹縣": 6,
+    "桃園市": 4,
+    "台中市": 3
    },
    "districts": [],
-   "body_chars": 3252,
+   "body_chars": 3603,
    "image": "https://s.yimg.com/lo/mysterio/api/dcfc39206ae2d051022321bceb6d9feb80036ba2d136420f94751ba4b5cf9b74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2F4483b210806c0d8a9735d3775dde2202.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5619352": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T18:51+08:00",
    "site_name": "自由時報電子報",
@@ -7196,11 +7360,12 @@
    "districts": [],
    "body_chars": 709,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/26/5619352_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://www.mnews.tw/story/20261026sot1718001": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T17:18+08:00",
    "site_name": "鏡新聞",
@@ -7211,11 +7376,12 @@
    "districts": [],
    "body_chars": 291,
    "image": "https://statics.mnews.tw/images/3f3ed325-fe90-400e-a206-e218f6514889-w1600.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://www.cna.com.tw/news/aloc/202610260137.aspx": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T15:15+08:00",
    "site_name": "中央社 CNA",
@@ -7227,11 +7393,12 @@
    "districts": [],
    "body_chars": 934,
    "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261026/1129x768_wmkn_0_C20261026000091.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://news.st-media.com.tw/news/63794": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -7244,12 +7411,13 @@
     "在地商圈（南投縣）"
    ],
    "body_chars": 344,
-   "image": "https://news.st-media.com.tw/UserFiles/resource/n_f2dbf774a7bb548198c42e204aa60fcf/file/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2+2026-10-26+174531.jpg",
-   "date_hint": "2026-10-26",
-   "date_hint_from": "圖片路徑"
+   "image": "https://news.st-media.com.tw/UserFiles/resource/n_f2dbf774a7bb548198c42e204aa60fcf/file/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-10-26%20174531.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   },
   "https://www.taichung.gov.tw/3400033/post": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": "臺中市政府全球資訊網",
@@ -7262,12 +7430,13 @@
     "在地商圈（南投縣）"
    ],
    "body_chars": 1641,
-   "image": "https://www.taichung.gov.tw/media/1482765/2026臺中購物節-屯區gogo購-活動圓滿成功.jpg",
+   "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://www.msn.com/zh-tw/autos/%E4%B8%80%E8%88%AC/%E5%A5%BD%E8%B2%B4%E7%9A%84%E8%BB%8A%E7%A6%8D-70%E6%AD%B2%E5%A4%A9%E6%AF%8D%E9%98%BF%E5%8C%97-%E7%84%A1%E7%85%A7%E9%96%8B%E4%BF%9D%E6%99%82%E6%8D%B7-%E8%A1%9D%E6%92%9E%E5%90%8D%E8%BB%8A-%E6%B0%A3%E5%9B%8A%E7%88%86%E9%96%8B%E5%BD%88%E8%B7%AF%E4%B8%AD-%E7%9B%B4%E6%93%8A%E7%8F%BE%E5%A0%B4/vi-AA2g5sQ0": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -7276,11 +7445,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://lifenews.com.tw/604469": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-27T03:27+08:00",
    "site_name": "民生電子報",
@@ -7294,11 +7464,12 @@
    ],
    "body_chars": 1821,
    "image": "https://lifenews.com.tw/wp-content/uploads/2026/10/2034832_0.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-27",
    "date_hint_from": "原文時間"
   },
   "https://live.setn.com/Live/3892/24350?p=23": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-08-10T16:00+08:00",
    "site_name": "三立新聞網",
@@ -7311,11 +7482,12 @@
    ],
    "body_chars": 101,
    "image": "https://attach.setn.com/images/livechannel_600x315_2.jpg",
+   "image_checked": true,
    "date_hint": "2026-08-10",
    "date_hint_from": "原文時間"
   },
   "https://money.udn.com/money/story/5621/9838435": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-27T02:05+08:00",
    "site_name": "經濟日報",
@@ -7326,11 +7498,12 @@
    "districts": [],
    "body_chars": 1518,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/29/2/33237547.jpg&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-27",
    "date_hint_from": "原文時間"
   },
   "https://www.bastillepost.com/hongkong/article/16957329-%E5%B7%B4%E5%A3%AB%E7%9A%84%E5%B0%88%E8%A8%AA%EF%BD%9C80%E5%BE%8C%E5%B7%A5%E7%A8%8B%E5%B8%AB%E3%80%8C%E8%BD%89%E6%88%B0%E3%80%8D%E5%95%86%E5%8B%99%E3%80%80%E6%B8%AF%E9%90%B5%E3%80%8C%E4%BA%8C%E6%AC%A1": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-27T07:00+08:00",
    "site_name": "Bastillepost 巴士的報",
@@ -7339,11 +7512,12 @@
    "districts": [],
    "body_chars": 2461,
    "image": "https://image.bastillepost.com/640x/wp-content/uploads/hongkong/2026/10/704x369-21.png",
+   "image_checked": true,
    "date_hint": "2026-10-27",
    "date_hint_from": "原文時間"
   },
   "https://www.ftvnews.com.tw/news/detail/2026A26L03M1": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T20:20+08:00",
    "site_name": "民視新聞網",
@@ -7357,11 +7531,12 @@
    ],
    "body_chars": 820,
    "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/066eb957-969e-4130-b094-7e934ba835bf.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://www.ftvnews.com.tw/news/detail/2026A26L05M1": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T20:18+08:00",
    "site_name": "民視新聞網",
@@ -7375,27 +7550,29 @@
    ],
    "body_chars": 1379,
    "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/403ed37b-a447-499f-b3b4-68813d68ff0d.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://tw.news.yahoo.com/%E6%B8%B8%E6%B7%91%E8%B2%9E%E6%8E%A8%E9%9D%92%E5%B9%B4-%E5%A9%A6%E5%A5%B3%E5%8F%8A%E5%95%86%E5%9C%88%E7%99%BC%E5%B1%95%E6%94%BF%E7%AD%96-%E8%8A%B1%E8%93%AE%E5%B8%82%E6%8E%83%E8%A1%97%E7%8D%B2%E8%B4%88-%E7%95%B6%E9%81%B8%E5%92%96%E5%95%A1-112000649.html": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T19:20+08:00",
    "site_name": "Yahoo News",
    "description": "國民黨花蓮縣長參選人游淑貞今天率隊走訪花蓮市，從仁里橋沿中正路深入主農、主安及德安生活圈，沿途向商家及市民拜票，獲咖啡店老闆送上特調「當選咖啡」祝福。游淑貞表示，花蓮市",
    "cities": {
+    "台北市": 20,
     "花蓮縣": 18,
-    "台北市": 17,
-    "新竹市": 8,
-    "桃園市": 6,
-    "台中市": 3
+    "新竹縣": 13,
+    "桃園市": 8,
+    "高雄市": 4
    },
    "districts": [
     "花蓮市形象商圈（花蓮縣）"
    ],
-   "body_chars": 3798,
+   "body_chars": 4000,
    "image": "https://s.yimg.com/lo/mysterio/api/4707106dcd4e472f6bed61636c877973a91af1b3bd7b491e2e9cb9ad7b35cc2b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fupmedia.mg.tw%2Ffefe91db7e24ea6080eeb82bcaaebde7.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
@@ -7405,7 +7582,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.guandian.hk/article/20261026/10042304.html": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T23:58+08:00",
    "site_name": "觀點網",
@@ -7413,31 +7590,31 @@
    "cities": {},
    "districts": [],
    "body_chars": 999,
-   "image": null,
+   "image": "https://www.guandian.cn/uploadfile9/2026/0831/20260831032237506.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://udn.com/news/story/7241/9838435?from=udn-catebreaknews_ch2": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-27T02:05+08:00",
    "site_name": "聯合新聞網",
    "description": "台北指標商辦市場轉強。國泰辦公室租金指數最新調查顯示，今年第3季台北市A級辦公室租金持穩，空置率降至7.73%，季減1.13個百分點。其中，忠孝襄陽商辦空置率大減9.68個百分點、租金逆勢上揚，為商辦強勢指標。",
    "cities": {
-    "台北市": 8,
-    "基隆市": 2,
-    "金門縣": 2,
-    "苗栗縣": 1,
-    "台東縣": 1
+    "台北市": 9,
+    "基隆市": 1,
+    "金門縣": 1
    },
    "districts": [],
-   "body_chars": 2092,
+   "body_chars": 2480,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/29/2/33237547.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-27",
    "date_hint_from": "原文時間"
   },
   "https://www.setn.com/news/1922205": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-14T18:30+08:00",
    "site_name": "三立新聞網",
@@ -7452,28 +7629,19 @@
    "districts": [
     "東區商圈（台北市）"
    ],
-   "body_chars": 1398,
+   "body_chars": 1394,
    "image": "https://attach.setn.com/newsimages/2025/06/01/5133943-PH.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-14",
    "date_hint_from": "原文時間"
   },
   "https://ccss3172.blogspot.com/2026/10/blog-post_847.html": {
-   "checked_at": "2026-10-27T09:41+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T18:40+08:00",
-   "site_name": "Blogger",
-   "description": null,
-   "cities": {
-    "台中市": 3
-   },
-   "districts": [],
-   "body_chars": 678,
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqQNDrm-bgiIhODIzHrACmOIQztUnD36vjYl0EbcmKPEqMa9_kQgKwFxG3GE5WCqah0GCIOb7qcLaNzjWUQJhkbrenElu9UE1HFTISN9OAc_JOs3tX-jJrY8SDQ9B9HCind-mhK7whTa3ivlLUgT1ymBJlxsWjwnkgzWa6fNxxZS2UChO26uuoPhP8fdAi/w1200-h630-p-k-no-nu/%E6%B0%B4%E5%9C%B3%E6%97%81%E7%AD%89%E5%BE%85%E8%91%97%E9%9F%B3%E6%A8%82%E6%9C%83%E9%96%8B%E6%BC%94.jpg",
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
+   "checked_at": "2026-10-27T11:29+08:00",
+   "status": 429,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   "https://www.upmedia.mg/tw/lifestyle/policy/272385": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T19:20+08:00",
    "site_name": "上報",
@@ -7488,11 +7656,12 @@
    ],
    "body_chars": 684,
    "image": "https://cdn.upmedia.mg/upfile/img/2026/1026/202610261824489084.webp",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/life/paper/1776047": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-27T05:30+08:00",
    "site_name": "自由時報電子報",
@@ -7503,11 +7672,12 @@
    "districts": [],
    "body_chars": 1115,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/27/29.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-27",
    "date_hint_from": "原文時間"
   },
   "https://www.ettoday.net/news/20261026/3261188.htm": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T20:50+08:00",
    "site_name": "ETtoday新聞雲",
@@ -7520,21 +7690,23 @@
    "districts": [],
    "body_chars": 1421,
    "image": "https://cdn2.ettoday.net/images/8985/e8985739.png",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://www.cmoney.tw/forum/article/186753253": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T18:27+08:00",
    "site_name": "CMoney 股市爆料同學會",
    "description": "台中市一輛白色轎車今天中午駛入東海商圈俗稱「炒飯街」內，因該處街道狹小，白車駛因擦撞他人機車，還卡在其間動彈不得。後來遇到警員盤查，駕駛棄車逃逸，等警員和民眾聯",
    "cities": {
-    "台中市": 1
+    "台中市": 2
    },
    "districts": [],
-   "body_chars": 202,
+   "body_chars": 279,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35455412.jpg&M=1&s=Y&x=0&y=0&sw=475&sh=547&sl=W&fw=800&exp=3600&w=800",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
@@ -7544,40 +7716,45 @@
    "error": "HTTP Error 502: Bad Gateway"
   },
   "https://travel.udn.com/travel/story/7206/9834487": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-27T08:00+08:00",
    "site_name": "旅遊",
    "description": "【旅奇傳媒/編輯部報導】從歷史建築、傳統市場到異國美食與特色老店，「桃園老城」與「中壢舊城」藏著許多值得探索的城市故事。為讓來桃園住宿的旅客不只住一晚，更能深入認識城市的人文風景。「桃園市觀光發展基金會」以旅宿遊客為主要推廣對象，整合旅宿、城市導覽與商圈資源，推出「一起出發！桃園雙城的日常」城市走讀活動。並結合桃園市政",
    "cities": {
-    "桃園市": 56
+    "桃園市": 56,
+    "台南市": 1,
+    "高雄市": 1
    },
    "districts": [],
-   "body_chars": 2103,
+   "body_chars": 2229,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450012.jpg&M=1&s=Y&x=0&y=0&sw=720&sh=480&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-27",
    "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261026452069": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T21:23+08:00",
    "site_name": "蕃新聞",
    "description": "墨新聞｜記者馬源培／台中報導2026台中購物節開跑第3天，前2天消費登錄金額已突破5億5,581萬元",
    "cities": {
-    "台中市": 14
+    "台中市": 14,
+    "台北市": 1
    },
    "districts": [
     "大里中興商圈（台中市）",
     "在地商圈（南投縣）"
    ],
-   "body_chars": 1446,
+   "body_chars": 1450,
    "image": "https://ni.yam.com/20261026/1-340-d68623e67d08403d.webp",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261026376384": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T22:49+08:00",
    "site_name": "蕃新聞",
@@ -7586,41 +7763,43 @@
     "台中市": 6
    },
    "districts": [],
-   "body_chars": 244,
+   "body_chars": 239,
    "image": "https://ni.yam.com/20261026/202610262249126JyZ-bbbbfcbb8421272a.webp",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://house.udn.com/house/story/123590/9837680?form=udn_ch2_common3_cate": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T14:19+08:00",
    "site_name": "udn房地產",
    "description": "台北市頂級商辦租金撐得住，空置率也開始下降。據國泰辦公室租金指數最新調查顯示，2026年第3季台北市A級辦公室租金開價每坪3,564元，季減0.34%，整體租金行情維持穩定，空置率則降至7.73%，較上季下降1.13個百分點。其中，忠孝襄陽路段表現最為突出，租金開價季增1.52%，空置率更一口氣下降9.68個百分點，降",
    "cities": {
     "台北市": 12,
-    "台南市": 4,
+    "台南市": 3,
     "台中市": 2,
     "新北市": 1
    },
    "districts": [],
-   "body_chars": 2069,
+   "body_chars": 2040,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35454826.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&sl=W&fw=800&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://tw.news.yahoo.com/%E6%98%9F-%E9%9A%B1%E8%97%8F%E8%80%81%E8%A1%97-%E6%84%8F%E5%A4%96%E7%88%86%E7%B4%85-%E7%B6%B2%E6%8E%A8%E5%A5%BD%E5%90%83%E5%8F%88%E5%A5%BD%E9%80%9B-%E9%A2%A8%E6%99%AF%E8%AA%98%E4%BA%BA-000000045.html": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-27T08:00+08:00",
    "site_name": "Yahoo News",
    "description": "台灣老街各具特色，除了知名的九份、淡水，位於新北市的坪林老街近期在社群平台上引發熱議。一名網友分享當地茶製美食體驗，大讚茶冰淇淋、茶麻糬等點心風味絕佳，貼文吸引上萬人按讚。不少曾造訪的遊客紛紛留言「完",
    "cities": {
-    "新北市": 8,
-    "台北市": 7,
-    "宜蘭縣": 4,
-    "桃園市": 2,
-    "台南市": 1
+    "新北市": 9,
+    "台北市": 6,
+    "新竹縣": 6,
+    "桃園市": 4,
+    "宜蘭縣": 4
    },
    "districts": [
     "北埔老街商圈（新竹縣）",
@@ -7629,11 +7808,12 @@
    ],
    "body_chars": 4000,
    "image": "https://s.yimg.com/lo/mysterio/api/821e7f42bce5d0d32ab0b68f03800ab12641ba4d53388c3a544efdd3e2f7750d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fno%2Fsupertaste_tvbs_com_tw_971%2F7fb58e694bfdb3b579c5ec26f4b76bc8",
+   "image_checked": true,
    "date_hint": "2026-10-27",
    "date_hint_from": "原文時間"
   },
   "https://www.setn.com/news/445261": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": "三立新聞網",
@@ -7641,37 +7821,38 @@
    "cities": {
     "台中市": 2,
     "高雄市": 2,
-    "桃園市": 1
+    "雲林縣": 2,
+    "台南市": 1
    },
    "districts": [
     "逢甲商圈（台中市）"
    ],
-   "body_chars": 1164,
+   "body_chars": 1180,
    "image": "https://attach.setn.com/newsimages/2018/10/21/1601076-PH.jpg",
+   "image_checked": true,
    "date_hint": "2018-10-21",
    "date_hint_from": "圖片路徑"
   },
   "https://udn.com/news/story/7241/9838435": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-27T02:05+08:00",
    "site_name": "聯合新聞網",
    "description": "台北指標商辦市場轉強。國泰辦公室租金指數最新調查顯示，今年第3季台北市A級辦公室租金持穩，空置率降至7.73%，季減1.13個百分點。其中，忠孝襄陽商辦空置率大減9.68個百分點、租金逆勢上揚，為商辦強勢指標。",
    "cities": {
-    "台北市": 8,
-    "基隆市": 2,
-    "金門縣": 2,
-    "苗栗縣": 1,
-    "台東縣": 1
+    "台北市": 9,
+    "基隆市": 1,
+    "金門縣": 1
    },
    "districts": [],
-   "body_chars": 2092,
+   "body_chars": 2480,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/29/2/33237547.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
    "date_hint": "2026-10-27",
    "date_hint_from": "原文時間"
   },
   "https://www.nvns.net/news_view.php?new_sn=147336&new_csn=1467": {
-   "checked_at": "2026-10-27T09:41+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -7684,6 +7865,7 @@
    ],
    "body_chars": 747,
    "image": "https://uploads.posu.tw/73/738/b2026102517533370.jpg",
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
@@ -7698,7 +7880,7 @@
    "error": "The read operation timed out"
   },
   "https://www.msn.com/zh-tw/news/other/%E5%A4%A9%E6%AF%8D%E5%95%86%E5%9C%88-7%E6%97%AC%E7%BF%81-%E7%84%A1%E7%85%A7-%E9%96%8B%E5%8D%83%E8%90%AC%E4%BF%9D%E6%99%82%E6%8D%B7%E9%80%A3%E6%92%9E2%E8%BB%8A-shorts/vi-AA2g8cBA": {
-   "checked_at": "2026-10-27T09:39+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -7707,11 +7889,12 @@
    "districts": [],
    "body_chars": 1,
    "image": null,
+   "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
   },
   "https://more-news.tw/752223/": {
-   "checked_at": "2026-10-27T09:39+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T23:19+08:00",
    "site_name": "墨新聞 MORE News",
@@ -7726,11 +7909,12 @@
    ],
    "body_chars": 1446,
    "image": "https://more-news.tw/more-news-media/2026/10/IMG_1076-scaled.jpeg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
   "https://stock.ltn.com.tw/article/1jurxjrxgvl5": {
-   "checked_at": "2026-10-27T09:39+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": null,
    "site_name": null,
@@ -7739,11 +7923,12 @@
    "districts": [],
    "body_chars": 133,
    "image": "https://img.ltn.com.tw/Upload/business/page/400S/2026/08/07/36.jpg",
+   "image_checked": true,
    "date_hint": "2026-08-07",
    "date_hint_from": "圖片路徑"
   },
   "https://news.ltn.com.tw/amp/news/life/breakingnews/5619352": {
-   "checked_at": "2026-10-27T09:40+08:00",
+   "checked_at": "2026-10-27T11:29+08:00",
    "status": 200,
    "published_at": "2026-10-26T18:51+08:00",
    "site_name": "自由時報電子報",
@@ -7751,11 +7936,14 @@
    "cities": {
     "台南市": 6,
     "高雄市": 3,
-    "新北市": 1
+    "新北市": 1,
+    "台東縣": 1,
+    "嘉義": 1
    },
    "districts": [],
-   "body_chars": 893,
+   "body_chars": 907,
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/26/5619352_1_1.jpg",
+   "image_checked": true,
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
@@ -7811,6 +7999,25 @@
    "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/26145250/jp-prt-26458-44-1-261026065247441.jpeg",
    "image_checked": true,
    "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://futurecity.cw.com.tw/article/4178": {
+   "checked_at": "2026-10-27T11:29+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T00:00+08:00",
+   "site_name": "未來城市＠天下",
+   "description": "臺中市政府近年積極推動「都市縫合」，從打通道路斷點、將舊鐵道轉化為綠空廊道，到開放社宅與周邊鄰里串聯。透過不同尺度的空間重整，打破孤立碎塊，為市民串起可步行、停留且連續的公共生活網絡。",
+   "cities": {
+    "台中市": 16
+   },
+   "districts": [
+    "中央公園商圈（高雄市）",
+    "舊城商圈（高雄市）"
+   ],
+   "body_chars": 2198,
+   "image": "https://cdn-futurecity.cw.com.tw/article/202610/article-6ad6d04e634cf.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
    "date_hint_from": "原文時間"
   }
  }
