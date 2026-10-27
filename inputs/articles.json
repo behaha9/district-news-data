@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T16:51:26+08:00",
+ "fetched_at": "2026-10-27T18:43:30+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -3584,9 +3584,22 @@
    "date_hint_from": "原文時間"
   },
   "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6336970001": {
-   "checked_at": "2026-10-27T11:28+08:00",
-   "status": "error",
-   "error": "The read operation timed out"
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "MONEY-LINK 富聯網首創「看懂財經、解讀資訊」，幫助投資人看懂、讀懂、聽懂全球股市/債市/匯市財經訊息，係台灣最大財經軟體資訊商精誠資訊旗下唯一開放式資訊平台。",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [
+    "天母商圈（台北市）"
+   ],
+   "body_chars": 845,
+   "image": "https://ww2.money-link.com.tw/images/news/4/9.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   },
   "https://www.mirrormedia.mg/story/20261020hea03": {
    "checked_at": "2026-10-27T11:28+08:00",
@@ -7395,9 +7408,18 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://n.yam.com/Article/20261026555428": {
-   "checked_at": "2026-10-27T09:41+08:00",
-   "status": 429,
-   "error": "HTTP Error 429: Too Many Requests"
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T18:21+08:00",
+   "site_name": "蕃新聞",
+   "description": "快訊摘要【找回影院】布施曾有13間電影院，目標重現電影院【明春放映】2027年春天在布施商店街辦放映",
+   "cities": {},
+   "districts": [],
+   "body_chars": 805,
+   "image": "https://ni.yam.com/20261026/jp-prt-26458-44-1-261026065247441-f1872972d3ea533a.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
   },
   "https://www.msn.com/zh-tw/news/other/%E9%A7%95%E8%BB%8A%E9%80%B2%E6%9D%B1%E6%B5%B7%E5%95%86%E5%9C%88%E6%93%A6%E6%92%9E%E6%A9%9F%E8%BB%8A-%E8%AD%A6%E6%9F%A5%E8%B6%8A%E7%B1%8D%E7%94%B7-%E9%80%BE%E6%9C%9F%E5%B1%85%E7%95%99-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2g56nE": {
    "checked_at": "2026-10-27T11:29+08:00",
@@ -7663,7 +7685,7 @@
    "date_hint_from": "原文時間"
   },
   "https://japan.webike.net/moto_news/zh-hant/a-new-landmark-in-taichungs-yizhong-shopping-district-visiting-the-skuny-flagship-store-introducing-the-entire-lineup/": {
-   "checked_at": "2026-10-27T07:17+08:00",
+   "checked_at": "2026-10-27T18:43+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7722,9 +7744,20 @@
    "date_hint_from": "原文時間"
   },
   "https://ccss3172.blogspot.com/2026/10/blog-post_847.html": {
-   "checked_at": "2026-10-27T11:29+08:00",
-   "status": 429,
-   "error": "HTTP Error 429: Too Many Requests"
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T18:40+08:00",
+   "site_name": "Blogger",
+   "description": null,
+   "cities": {
+    "台中市": 3
+   },
+   "districts": [],
+   "body_chars": 678,
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqQNDrm-bgiIhODIzHrACmOIQztUnD36vjYl0EbcmKPEqMa9_kQgKwFxG3GE5WCqah0GCIOb7qcLaNzjWUQJhkbrenElu9UE1HFTISN9OAc_JOs3tX-jJrY8SDQ9B9HCind-mhK7whTa3ivlLUgT1ymBJlxsWjwnkgzWa6fNxxZS2UChO26uuoPhP8fdAi/w1200-h630-p-k-no-nu/%E6%B0%B4%E5%9C%B3%E6%97%81%E7%AD%89%E5%BE%85%E8%91%97%E9%9F%B3%E6%A8%82%E6%9C%83%E9%96%8B%E6%BC%94.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
   },
   "https://www.upmedia.mg/tw/lifestyle/policy/272385": {
    "checked_at": "2026-10-27T11:29+08:00",
@@ -8034,7 +8067,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.housefun.com.tw/news/article/amp/132529490402.html": {
-   "checked_at": "2026-10-27T11:27+08:00",
+   "checked_at": "2026-10-27T18:43+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -8437,6 +8470,271 @@
    "checked_at": "2026-10-27T16:51+08:00",
    "status": "error",
    "error": "The read operation timed out"
+  },
+  "https://collabo-cafe.com/zh-hant/events/collabo/booska-honobono-shotengai-popup-lumine-est-shinjuku-2026/": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T14:30+08:00",
+   "site_name": "Collabo Cafe",
+   "description": "《快獸布斯卡》的快閃店「溫馨商店街」確定將於2026年10月28日至11月10日在Lumine Est新宿舉辦！包括以毛絨材質重現肚子的托特包等「肚子・背部系列」、以劇中海中內褲圖案為靈感的系列，以及布斯卡與查梅貢並肩而立的「SIDE by SIDE」設計T恤等，眾多新作周邊商品將陸續登場！",
+   "cities": {},
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://collabo-cafe.com/wp-content/uploads/booska-honobono-shotengai-popup-eyecatch.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.881903.com/traffic/info/2656699": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T16:39+08:00",
+   "site_name": "商業電台 881903",
+   "description": "交通意外︰亞皆老街去大角咀(16:39清理)【馬路的事交通消息】較早前，亞皆老街去大角咀，近窩打老道的交通意外已經清理，一帶",
+   "cities": {},
+   "districts": [],
+   "body_chars": 63,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://enn.tw/798983/": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T17:10+08:00",
+   "site_name": "ENN台灣電報",
+   "description": "▲台中西屯石磨腸粉以米浸泡約5小時後研磨成米漿，再搭配鮮蛋、鮮肉、牛肉與鮮蝦等餡料蒸製（圖/業者提供）商傳媒｜記者林展鴻／台中報導台中廣式美食講究米漿與火候，石磨腸粉呈現柔軟帶Q口感鮮蝦蒸熟後帶出海味，搭配柔軟帶Q的腸粉皮與香鹹醬汁，可以感受到米漿、餡料與調味之間不同的口感變化。《鄭記石磨腸粉》在製作腸粉時，會",
+   "cities": {
+    "台中市": 5,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 1043,
+   "image": "https://image.sunmedia.tw/banners/81134b1f-a606-43f3-8681-4a6c64b14cca.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.881903.com/news/traffic/2656695": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T16:09+08:00",
+   "site_name": "商業電台 881903",
+   "description": "交通意外︰亞皆老街去大角咀(16:09最新)【馬路的事交通消息】亞皆老街去大角咀，近窩打老道有交通意外，一帶車多。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 58,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3-1%E4%BD%8E%E8%AA%BF%E8%80%81%E8%A1%97-%E6%84%8F%E5%A4%96%E8%A2%AB%E7%BF%BB-%E5%85%A7%E8%A1%8C%E4%BA%BA-%E7%A7%98%E5%AF%86%E5%9F%BA%E5%9C%B0%E8%A6%81%E8%A2%AB%E5%A1%9E%E6%BB%BF%E4%BA%BA-084923910.html": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T16:49+08:00",
+   "site_name": "Yahoo News",
+   "description": "生活中心／張祐嘉報導台灣老街各具特色，除了知名的九份、淡水，近期位於新北市的坪林老街近期在社群平台上引發熱議。一名網友分享當地茶製美食體驗，大讚茶冰淇淋、茶麻糬等點心風味絕佳，貼文吸引上萬人按讚。不少曾造訪的遊客紛紛留言「完蛋了，秘密基地被發現了」，讓這處清幽小鎮意外成為話題焦點。",
+   "cities": {
+    "台北市": 10,
+    "新北市": 6,
+    "基隆市": 3,
+    "台南市": 2,
+    "宜蘭縣": 2
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://s.yimg.com/lo/mysterio/api/7b9c2d6b16d42777e83ebadd8d488aba1699a1fea2247104907a853892fd08a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fftvn.com.tw%2Fb4510094db0e95e4d1ec81137616d1fd.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.cts.com.tw/cts/life/202610/202610273094460.html": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://sunmedia.tw/news/Industry-information/%E8%97%8F%E8%BA%AB%E6%9D%B1%E6%B5%B7%E5%95%86%E5%9C%88%E7%9A%84%E5%B9%B3%E5%83%B9%E6%B8%AF%E5%BC%8F%E7%BE%8E%E9%A3%9F---%E7%8F%BE%E8%92%B8%E7%9F%B3%E7%A3%A8%E8%85%B8%E7%B2%89%E3%80%81%E6%B2%B3%E7%B2%89%E8%88%87%E7%94%9F%E6%BB%BE%E7%B2%A5%E6%90%AD%E5%87%BA%E8%A5%BF%E5%B1%AF%E4%B8%AD%E5%BC%8F%E5%B0%8F%E5%90%83%E6%96%B0%E9%A2%A8%E8%B2%8C-1793090556122": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T16:54+08:00",
+   "site_name": "商傳媒",
+   "description": "藏身東海商圈的平價港式美食   現蒸石磨腸粉、河粉與生滾粥搭出西屯中式小吃新風貌",
+   "cities": {
+    "台中市": 1,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 875,
+   "image": "https://image.sunmedia.tw/banners/81134b1f-a606-43f3-8681-4a6c64b14cca.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://house.udn.com/house/amp/story/123590/9839921": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T15:07+08:00",
+   "site_name": "udn房地產",
+   "description": "三峽都更第一案！久年機構旗下建設事業久年置地27日舉辦新案「久年橒画」公開活動，該案自8月潛銷以來已售近五成，不僅銷售表現良好，價格更是跳脫區域的3到4字頭行情，據實價登錄，每坪最高成交單價達60.02萬元，創三峽老街商圈區域新高。",
+   "cities": {
+    "台北市": 4,
+    "高雄市": 3
+   },
+   "districts": [],
+   "body_chars": 1029,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35458656.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://finance.sina.com.cn/tjhz/2026-10-27/doc-iniwrqsv8860629.shtml": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T10:13+08:00",
+   "site_name": null,
+   "description": "拿着周大福旧金去探店！实探广州天河商圈回收门店，看正规机构如何复称验金，避开品牌“折旧费”套路",
+   "cities": {},
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://n.sinaimg.cn/spider20261027/525/w720h605/20261027/712a-ca25d7e2511c921344bffda21bee6a57.png",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cardu.com.tw/mpay/detail.php?66186": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T16:51+08:00",
+   "site_name": "三峽鶯歌商圈用台灣Pay　消費享20%回饋｜卡優新聞網",
+   "description": "2026/10/19 - 2027/05/31至三峽鶯歌商圈內受理「台灣Pay」交易之指定攤商店家， 使用「台灣Pay」QR Code掃碼進行支付 (限金融卡/帳戶) ，單筆消費不限金額可享20%回饋。",
+   "cities": {
+    "台北市": 2,
+    "彰化縣": 1
+   },
+   "districts": [
+    "鶯歌商圈（新北市）"
+   ],
+   "body_chars": 1249,
+   "image": "https://imgcloud.cardu.com.tw/201910/20261025/Cardu_6adda32b23f41.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261027300697": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T18:27+08:00",
+   "site_name": "蕃新聞",
+   "description": "產業中心/分析報導 第61屆金鐘獎由文化部影視及流行音樂產業局主辦，原訂於2026年10月23日(",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 1537,
+   "image": "https://ni.yam.com/20261027/20261027182558_blog_content_image1793072579405430491-925aa8753f8eb68b.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261027419018": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T17:32+08:00",
+   "site_name": "蕃新聞",
+   "description": "（媒角抵加／林忠勳報導）薔琵颱風強風造成草嶺古道受損，東北角及宜蘭海岸國家風景區管理處宣布，原訂10",
+   "cities": {
+    "宜蘭縣": 4,
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 2708,
+   "image": "https://ni.yam.com/20261027/2026-10-27-caoling-ai-hero-8331c796e4f40013.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/amp/story/7266/9839466": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T12:19+08:00",
+   "site_name": "聯合新聞網",
+   "description": "光復節3天連假雖已收假，不過連假也確實帶動國旅熱潮，台南市觀旅局統計，各景點累計吸引逾121萬人次到訪，其中市區商圈、古蹟園區及購物商場最受歡迎，累計逾71萬人次；老街街區也吸引逾12萬人次，山海景點、文教場館及秋季主題活動則攬客逾38萬人次，展現台南觀光多元魅力。",
+   "cities": {
+    "台南市": 11
+   },
+   "districts": [
+    "海安商圈（台南市）",
+    "關子嶺商圈（台南市）"
+   ],
+   "body_chars": 637,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35457868.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://house.udn.com/house/story/123590/9837680?from=udn-indexnewnews_ch1025": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T14:19+08:00",
+   "site_name": "udn房地產",
+   "description": "台北市頂級商辦租金撐得住，空置率也開始下降。據國泰辦公室租金指數最新調查顯示，2026年第3季台北市A級辦公室租金開價每坪3,564元，季減0.34%，整體租金行情維持穩定，空置率則降至7.73%，較上季下降1.13個百分點。其中，忠孝襄陽路段表現最為突出，租金開價季增1.52%，空置率更一口氣下降9.68個百分點，降",
+   "cities": {
+    "台北市": 10,
+    "台南市": 4,
+    "新北市": 3,
+    "台中市": 2,
+    "新竹": 1
+   },
+   "districts": [
+    "民生社區商圈（台北市）"
+   ],
+   "body_chars": 2039,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35454826.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.kstku.org.tw/life_view.php?new_sn=17415&lang=TS": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "高雄市淡江大學校友會",
+   "cities": {
+    "台南市": 16,
+    "高雄市": 1
+   },
+   "districts": [
+    "赤嵌商圈（台南市）",
+    "成大商圈（台南市）",
+    "東寧商圈（台南市）"
+   ],
+   "body_chars": 1234,
+   "image": "https://uploads.posu.tw/73/738/1792559646_0.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.contentplatform.info/articles/550141/%E9%A2%B1%E9%A2%A8%E5%BB%B6%E6%9C%9F%E4%B8%8D%E6%B8%9B%E7%86%B1%E6%83%85%E3%80%80%E5%9F%BA%E9%9A%86%E7%94%B0%E5%BE%91%E5%8D%80%E5%9F%9F%E5%B0%8D%E6%8A%97%E8%B3%BD%E5%8D%97%E6%A6%AE%E5%9C%8B%E4%B8%AD/": {
+   "checked_at": "2026-10-27T18:43+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T14:26+08:00",
+   "site_name": null,
+   "description": null,
+   "cities": {
+    "基隆市": 8,
+    "台北市": 1,
+    "新北市": 1,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 728,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/27142313/S__608477190_0.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
   }
  }
 }
