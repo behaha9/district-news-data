@@ -33,6 +33,7 @@ RETENTION_DAYS = 14
 LATEST = "data/latest.json"
 THUMBS_PATH = "inputs/thumbs.json"
 THUMBS = {}
+ARTICLES = {}
 
 
 def ts(value):
@@ -84,6 +85,11 @@ def tidy(item):
         if found:
             item["image"] = found
             break
+    else:
+        checked = [ARTICLES.get(source["url"], {}) for source in item["sources"]]
+        if item.get("image") and any(a.get("image_checked") for a in checked) \
+                and not any(a.get("image") for a in checked):
+            item.pop("image")  # re-checked: the old address does not load any more
 
 
 def merge_into(base, item):
@@ -103,6 +109,11 @@ def main(new_path):
     try:
         with open(THUMBS_PATH, encoding="utf-8") as fh:
             THUMBS.update(json.load(fh).get("images", {}))
+    except Exception:
+        pass
+    try:
+        with open("inputs/articles.json", encoding="utf-8") as fh:
+            ARTICLES.update(json.load(fh).get("articles", {}))
     except Exception:
         pass
     with open(LATEST, encoding="utf-8") as fh:

@@ -66,6 +66,7 @@ class Page(HTMLParser):
     def __init__(self):
         super().__init__(convert_charrefs=True)
         self.meta, self.ld, self.times, self.paras, self.title = {}, [], [], [], ""
+        self.imgs = []
         self._skip = 0
         self._in_ld = False
         self._in_p = 0
@@ -86,6 +87,9 @@ class Page(HTMLParser):
             self._skip += 1
         elif tag == "time" and a.get("datetime"):
             self.times.append(a["datetime"])
+        elif tag == "img" and len(self.imgs) < 40:
+            src = a.get("data-src") or a.get("data-original") or a.get("data-lazy-src") or a.get("src") or ""
+            self.imgs.append((src, a.get("width", ""), a.get("height", ""), a.get("class", "") + " " + a.get("alt", "")))
         elif tag in ("p", "h1", "h2"):
             self._in_p += 1
         elif tag == "title":
@@ -173,16 +177,69 @@ def clean_image(value, page_url):
     return value
 
 
-def pick_image(page, page_url):
+BODY_IMG_OK = re.compile(r"upload|photo|image|img|news|attach|media|files|pic", re.I)
+BODY_IMG_BAD = re.compile(r"logo|icon|avatar|(^|[/_.-])ads?([/_.-]|$)|banner|sprite|button|qrcode|share|placeholder|loading|blank|"
+                          r"emoji|1x1|pixel|\.gif(\?|$)|\.svg(\?|$)", re.I)
+
+
+def image_candidates(page, page_url):
+    """Publisher share image first (og:image, twitter, JSON-LD); then, only when the page has
+    none, the first photo-like image in the article body."""
+    found = []
     for key in IMAGE_KEYS:
-        found = clean_image(page.meta.get(key), page_url)
-        if found:
-            return found
+        found.append(clean_image(page.meta.get(key), page_url))
     for blob in page.ld:
         for value in ld_values(blob, "image") + ld_values(blob, "thumbnailUrl"):
-            found = clean_image(value, page_url)
-            if found:
-                return found
+            found.append(clean_image(value, page_url))
+    if not any(found):
+        for src, width, height, hint in page.imgs:
+            url = clean_image(src, page_url)
+            if not url or BODY_IMG_BAD.search(url) or BODY_IMG_BAD.search(hint) or not BODY_IMG_OK.search(url):
+                continue
+            try:
+                if (width and int(width) < 300) or (height and int(height) < 160):
+                    continue
+            except ValueError:
+                pass
+            found.append(url)
+            if len(found) >= 3:
+                break
+    seen, out = set(), []
+    for url in found:
+        if url and url not in seen:
+            seen.add(url)
+            out.append(url)
+    return out[:4]
+
+
+def image_works(url):
+    """The browser loads thumbnails straight from the publisher (no referrer), so check the
+    same way: the address must answer 200 with an image. Some og:image values write spaces
+    in the file name as '+', which fails; then also try %20."""
+    tries = [url]
+    path = urlsplit(url).path
+    if "+" in path:
+        tries.append(url.replace(path, path.replace("+", "%20"), 1))
+    for candidate in tries:
+        try:
+            req = Request(candidate, headers={"User-Agent": UA, "Range": "bytes=0-2047"})
+            with urlopen(req, timeout=8) as resp:
+                kind = (resp.headers.get("Content-Type") or "").lower()
+                head = resp.read(16)
+            if resp.status in (200, 206) and (kind.startswith("image/") or head[:4] in
+                                              (b"\xff\xd8\xff\xe0", b"\xff\xd8\xff\xe1", b"\x89PNG", b"RIFF", b"GIF8")
+                                              or head[:3] == b"\xff\xd8\xff"):
+                return candidate
+        except Exception:
+            continue
+    return None
+
+
+def pick_image(page, page_url):
+    for url in image_candidates(page, page_url):
+        working = image_works(url)
+        if working:
+            return working
     return None
 
 
@@ -268,6 +325,7 @@ def fetch(url, patterns):
         "districts": [f"{n}（{c}）" for n, c in priority.hints(text, patterns)][:6],
         "body_chars": len(body),
         "image": pick_image(page, url),
+        "image_checked": True,
     })
     entry["date_hint"], entry["date_hint_from"] = date_hint(published, entry["image"], url)
     return url, entry
@@ -319,7 +377,7 @@ def main():
         if not old or retry:
             wanted.append(url)
     # articles fetched before thumbnails existed: fetch again once to learn their image
-    backfill = [u for u, e in cache.items() if e.get("status") == 200 and ("image" not in e or "date_hint" not in e)]
+    backfill = [u for u, e in cache.items() if e.get("status") == 200 and ("image_checked" not in e or "date_hint" not in e)]
     wanted = (wanted + [u for u in backfill if u not in wanted])[:MAX_NEW]
     patterns = priority.load()
     done = 0
