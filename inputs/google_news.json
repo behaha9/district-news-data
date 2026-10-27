@@ -1,16 +1,17 @@
 {
- "fetched_at": "2026-10-27T18:43:23+08:00",
+ "fetched_at": "2026-10-28T07:17:09+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 115,
-  "kept": 44,
-  "resolved": 44,
-  "items": 41,
+  "raw": 123,
+  "kept": 47,
+  "resolved": 47,
+  "items": 43,
   "resolve_this_run": {
-   "online": 10
+   "online": 11
   },
   "dropped_old": [
+   "高雄三多商圈沒落　店家爆出走潮！他精闢分析主因（原文日期 2018-07-08）",
    "振興北市商圈經濟!沈伯洋永康商圈座談會（原文日期 2026-08-10）",
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
    "烏來好慘！台九甲線道路斷溪水溢堤老街淹| 生活（原文日期 2016-09-27）"
@@ -18,13 +19,63 @@
  },
  "items": [
   {
-   "title": "藏身東海商圈的平價港式美食 現蒸石磨腸粉、河粉與生滾粥搭出西屯中式小吃新風貌",
-   "google_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE84Q2pxRnpDZDdvTllzUDhCY1pzWHUxY0VRYTJYZ0p3ZElaUTVmTHZoY1JEdkhHYkQzRXc?oc=5",
-   "source": "ENN台灣電報",
-   "source_site": "https://enn.tw",
-   "published_at": "2026-10-27T17:14+08:00",
+   "title": "大溪工藝周 2主題邀你暢遊老街",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzUjFLQUo5M00weDFwYTdYOHVrTzR3Rl9lWHFvZTd6NDZEb1N3anJmbDIxS3V2SFpHcEhOMGFUVlZveDFKMEEwWVFfcndyMmNqcEw3SEIxQk9YbUZfSFFKQktnZkdreTRLQWNr?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-10-28T04:10+08:00",
+   "query": "老街",
+   "url": "https://www.chinatimes.com/newspapers/20261028000596-260107",
+   "resolved": true
+  },
+  {
+   "title": "竹北自強南路一帶「突停電」！逾10店家受影響",
+   "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZdkd1dzJiZlpYb1B1VEFyeEt0ekpJaVB1cmtpelBlNXhMQ1RkTk1neFBCTVpNLU1qWXdQNkt2b2pkejJKV1hlejM1TTBOSGp0SWkwdg?oc=5",
+   "source": "東森新聞",
+   "source_site": "https://news.ebc.net.tw",
+   "published_at": "2026-10-27T21:53+08:00",
+   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
+   "url": "https://news.ebc.net.tw/news/living/577772",
+   "resolved": true
+  },
+  {
+   "title": "市民憂赤峰商圈「無菸城市變無人城市」！沈伯洋提「URS 2.0」構想",
+   "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94bmoyejZSWE5FTzlFMjkzbURYSXc2UlRXNGVvN010R0Y2ZXBQY3V6cGdoN3hRS1hxWGxnUzE0Z3V0LWhEc3pUatIBTEFVX3lxTFBCTzdlNVlWRmc2STl4bUxieUM0WHpnclhoSkwtZXBTbk45eDlLay1SQ3dpdFYwcEJxS3ZodUtmSDk0VFNOVHpGazJDcjI?oc=5",
+   "source": "三立新聞",
+   "source_site": "https://www.setn.com",
+   "published_at": "2026-10-27T20:08+08:00",
    "query": "商圈",
-   "url": "https://enn.tw/798983/",
+   "url": "https://www.setn.com/news/1929436",
+   "resolved": true
+  },
+  {
+   "title": "交通意外︰亞皆老街去大角咀(19:30最新)",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxQTF6Rk1wVnF0cVRtRGVGcVJWSzg5YW9EcDVvNmZvSG9QckdFUjhUN0RFY2V3cERsSWJ2elhvVnVVTk1rbzc4QTRJdDVDY3dydWtzazB30gFbQVVfeXFMUDdWZkJLVXJEVnhQVFVDOTlndk5wOTZVTFd0TGpVS3JBbjVkdDdYLTlTd2w0YTdPRVVZeUFtT3RvcndzQnJocHlRdXZmbU45MWFjbFVCV1FRdE9odw?oc=5",
+   "source": "商業電台",
+   "source_site": "https://www.881903.com",
+   "published_at": "2026-10-27T19:30+08:00",
+   "query": "老街",
+   "url": "https://www.881903.com/news/traffic/2656738",
+   "resolved": true
+  },
+  {
+   "title": "《換乘戀愛4》郭敏京現身中山商圈！韓國人氣內衣品牌 Verish 台北快閃店獨家優惠一次看",
+   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oMk1CQXlGaHRqTHdEOHh5YlNJVlFBZWdsWXBkZkRQODcybm9XVjlyRmZINUtJOTJCZi1Ic09LM3pRc215SWx0YkE4MTVxX0VROEFFY1hvUkR2U0Y5U0E?oc=5",
+   "source": "Marie Claire 美麗佳人",
+   "source_site": "https://www.marieclaire.com.tw",
+   "published_at": "2026-10-27T18:31+08:00",
+   "query": "商圈",
+   "url": "https://www.marieclaire.com.tw/fashion/news/96754",
+   "resolved": true
+  },
+  {
+   "title": "藏身東海商圈的平價港式美食 現蒸石磨腸粉、河粉與生滾粥搭出西屯中式小吃新風貌",
+   "google_url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQUV9SdHJObGQxUF9qWkZVcW9qcUhaa1R6WUR2bk1TS19XZGFlMzFOQTczRTlKUFoyUWdYXzhoRFd2SXdoZ2h5VHl2WEgtaEttdlNZVC1EV3hvbXRid1F6S1JVNmo5bFduWDdLbXJ2ZjF6QlVFV3MtQlVUbS0zNURWOWpJaW1nWUYySG9jMldYSzRZN2ZENHgxY09qRFpseFVQTHN0Tm9PSTF6Nm5IcUtjYjdQNFBXczdYZUF2VHVtMi1DRXY3LUpCSEdBUENYREdDLXl6UzFza3gtSjF2N0E4dGtTMmhrQXdEZV9nbDBjN1ExWENGRUhuX3pUVTgxMFhfOWxJb1ZNMTdNM0g5WWFwOG9Lck5JTEhTOUdfcjJ6cDVnbDlXZWZsM19ocHBGekt4MTVaZnN0clcwRmhtS21kVQ?oc=5",
+   "source": "www.yesmedia.com.tw",
+   "source_site": "https://www.yesmedia.com.tw",
+   "published_at": "2026-10-27T16:54+08:00",
+   "query": "商圈",
+   "url": "https://www.yesmedia.com.tw/%E8%97%8F%E8%BA%AB%E6%9D%B1%E6%B5%B7%E5%95%86%E5%9C%88%E7%9A%84%E5%B9%B3%E5%83%B9%E6%B8%AF%E5%BC%8F%E7%BE%8E%E9%A3%9F-%E7%8F%BE%E8%92%B8%E7%9F%B3%E7%A3%A8%E8%85%B8%E7%B2%89%E3%80%81%E6%B2%B3/",
    "resolved": true
   },
   {
@@ -48,13 +99,13 @@
    "resolved": true
   },
   {
-   "title": "馬路的事 - 交通意外︰亞皆老街去大角咀(16:39清理)",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiQ3lFUWZZanpLa1R5bnpZRHZLSDNjMGwwb2ZnY1VVdF9tcXM2TURuRW1aZ3VlTF9MaGVkREozdFM2Q3ZrWnNUTTdrVzVuRnFPV3lGdXZn?oc=5",
-   "source": "www.881903.com",
+   "title": "交通意外︰亞皆老街去大角咀(16:39清理)",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZRnhOX29ldXNadlRhdkZoSlNWV05pZ0FIY2FXa1NUem1SLVdyMmlWa3JOX2pMZE9mSUhENEU2QjZRTG1CS3VycG5CZGk3c2FXN3NWY3RB0gFbQVVfeXFMTzhUUzZJYmVJb09sZndlNHdJQm5hVDB6MHRyVnU3WFNrZ2xMMmpkc3pSYm1OLURUUlNZbV9EQ3BfcFdaVGJRb042cl9MRlFqNTZwbHhod0twdTZRZw?oc=5",
+   "source": "商業電台",
    "source_site": "https://www.881903.com",
    "published_at": "2026-10-27T16:39+08:00",
    "query": "老街",
-   "url": "https://www.881903.com/traffic/info/2656699",
+   "url": "https://www.881903.com/news/traffic/2656699",
    "resolved": true
   },
   {
@@ -118,23 +169,43 @@
    "resolved": true
   },
   {
-   "title": "臺南購物節首波月月抽10/24登場 串聯商圈祭、國旅加碼迎連假商機",
-   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuV2dnbUpoX3NUVmZIbHNpZ2NiNUVxdjllbGNhbFVZcVJtZU83TDlBUlJaUVlDTktwQ2JTNThUX3JWQm5iVFJqd2tHQzlySUcwbnhhX0JfZEQycEJQMm9oLXlkQlFETEJvMFZr?oc=5",
-   "source": "高雄市淡江大學校友會",
-   "source_site": "https://www.kstku.org.tw",
-   "published_at": "2026-10-27T14:21+08:00",
-   "query": "商圈",
-   "url": "https://www.kstku.org.tw/life_view.php?new_sn=17415&lang=TS",
+   "title": "2026大溪豆干旅遊節登場！三大遊程與限定豆宴帶你慢遊老街",
+   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uRzRRZ1R0d0toY1AtZVhuTlFwWDZRaTlvb1pyQ0JBbGJTcGpzWFJfNzZLTld2ZzV5M3JZWUNfVlJ5S2V1ZUMzb181MTlOanlqV1UtbGExTTd2MlBmamRJ?oc=5",
+   "source": "ShareLife 台灣旅行趣",
+   "source_site": "https://taiwan.sharelife.tw",
+   "published_at": "2026-10-27T14:57+08:00",
+   "query": "老街",
+   "url": "https://taiwan.sharelife.tw/article_aid-41178.html",
    "resolved": true
   },
   {
-   "title": "光復連假台南景點夯 累計吸引逾121萬人潮 市區商圈吸客逾71萬人次",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wTFlPU0NjNnhLb1NEOGR3SVE0ZWdOeEh6UFNBUmh6ZVRyaVdheWpiM1BLZnBvZnFZemZXMjVSby1wVG5CTTFhQXFIRjJhV3B0Y1VhM1N30gFWQVVfeXFMT3BMWU9TQ2M2eEtvU0Q4ZHdJUTRlZ054SHpQU0FSaHplVHJpV2F5amIzUEtmcG9mcVl6ZlcyNVJvLXBUbkJNMWFBcUhGMmFXcHRjVWEzU3c?oc=5",
+   "title": "臺南購物節首波月月抽10/24登場 串聯商圈祭、國旅加碼迎連假商機",
+   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kZ0dMUURZZ0M1d1ZaWUs3TWcyZFJLb0ZvSHYtaS1VY29XdnF3U2pJekpLbTlhbGJSNU40Ui1EZFVqVmFPbTVlLU4yd2JYXzZ3alJQVEhoaURuWkhZN0V5Mw?oc=5",
+   "source": "國際獅子會300C-3區",
+   "source_site": "https://www.300c3.org.tw",
+   "published_at": "2026-10-27T14:20+08:00",
+   "query": "商圈",
+   "url": "https://www.300c3.org.tw/life_view.php?new_sn=17415",
+   "resolved": true
+  },
+  {
+   "title": "討論牆 | 巴威襲中部海線！鹿港老街、漁港人潮大減",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YNDd0b3ZEelBMOFdkdDc4TFUzRTg4aUVCdjRucTBERDY2SFh6cFRKQ1VVRFo2MGlxcE1PRGF5Rk8tOG1vMVJDV3NsaGhLdVdkelpiaGtMYlBkM0xvME1VRi16Q2s?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-10-27T12:33+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/JPgawGq",
+   "resolved": true
+  },
+  {
+   "title": "光復連假台南景點夯、累計吸引逾121萬人潮 市區商圈吸客逾71萬人次",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BWFVaSmNoc0FRWEpBbHNINEN3dHVJUWRmMmZCa3pwaHlXbTItTmliUUk1NV9kMGdOb2s5d3FzSmRVWlpDRFdlSDZveUNGaGJPb2RYOER30gFWQVVfeXFMT0FYVVpKY2hzQVFYSkFsc0g0Q3d0dUlRZGYyZkJrenBoeVdtMi1OaWJRSTU1X2QwZ05vazl3cXNKZFVaWkNEV2VINm95Q0ZoYk9vZFg4RHc?oc=5",
    "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-10-27T12:19+08:00",
    "query": "商圈",
-   "url": "https://udn.com/news/amp/story/7266/9839466",
+   "url": "https://udn.com/news/amp/story/7326/9839466",
    "resolved": true
   },
   {
@@ -145,6 +216,16 @@
    "published_at": "2026-10-27T11:03+08:00",
    "query": "商圈",
    "url": "https://www.chinatimes.com/realtimenews/20261027001835-260405",
+   "resolved": true
+  },
+  {
+   "title": "北市A辦空置率下降！信義區每坪租金破4千元　這商圈去化最猛",
+   "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DWUh4UE1UazRQcHFUb0hiNk9QdlN2dmJ2TTd1blotNXhmYktPQTNYY1JqUVpiQzhwSHV4Y2FkM0VuT19Mc0V4b0JOU2tDM3g5ZnBUS2hSSnJ2bnNnMGR2VG5kRzQ2Mko0SElMLVJUN1rSAXBBVV95cUxOQ1lIeFBNVGs0UHBxVG9IYjZPUHZTdnZidk03dW5aLTV4ZmJLT0EzWGNSalFaYkM4cEh1eGNhZDNFbk9fTHNFeG9CTlNrQzN4OWZwVEtoUkpydm5zZzBkdlRuZEc0NjJKNEhJTC1SVDda?oc=5",
+   "source": "好房網News",
+   "source_site": "https://news.housefun.com.tw",
+   "published_at": "2026-10-27T08:59+08:00",
+   "query": "商圈",
+   "url": "https://news.housefun.com.tw/news/article/amp/132529490402.html",
    "resolved": true
   },
   {
@@ -173,7 +254,7 @@
    "source": "自由時報",
    "source_site": "https://stock.ltn.com.tw",
    "published_at": "2026-10-27T02:32+08:00",
-   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
+   "query": "商圈",
    "url": "https://stock.ltn.com.tw/article/1jurxjrxgvl5",
    "resolved": true
   },
@@ -239,12 +320,12 @@
   },
   {
    "title": "台中購物節開跑2天登錄破5.5億元！首抽前進大里中興商圈 送出全球不限航點機票及iPhone 17",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51SWx1OTFnbEFnRWxvRlA0dzVDenh3OTZLUkttOHdKazZuV2J5N05ubWNjZjNtUXBGM19yU09vLXNSb1NFREd2QUxDZmhQeDlrMGc?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYQnB2SUNSYURWNS1kalVHd0Z2SEpNcmlaQzd1MGJwcEtibVE4RExsckRXX3NrbzVrdW1lTnRMVm1hYVBPT014NDZFSW91bDloMk1rbEJELVZSSzViUndr?oc=5",
    "source": "臺中市政府全球資訊網",
    "source_site": "https://www.taichung.gov.tw",
    "published_at": "2026-10-26T19:13+08:00",
    "query": "商圈",
-   "url": "https://www.taichung.gov.tw/3400033/post",
+   "url": "https://www.taichung.gov.tw/8868/8872/9962/3400033",
    "resolved": true
   },
   {
@@ -298,26 +379,6 @@
    "resolved": true
   },
   {
-   "title": "韓國推進“全球小工商業者培育項目”，打造新型地方商圈增長模式--韓國頻道--人民網",
-   "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FS1AzWG1rQ0xDV0ZJNWgwTG5NTlhwcGVXdVZJSkxYOHVXbkJlbWVQM2IxOGFVNDhTX2pSU3lPLS05Z1hadFI1OE55VVAtcEVNMkc2ODBNUFdiblpfZzk3a3RNaEZaUFBvbHJFLTJLcmMzZWNF?oc=5",
-   "source": "人民网-韩国频道",
-   "source_site": "http://korea.people.com.cn",
-   "published_at": "2026-10-26T17:41+08:00",
-   "query": "商圈",
-   "url": "http://korea.people.com.cn/BIG5/n1/2026/1026/c407366-40821926.html",
-   "resolved": true
-  },
-  {
-   "title": "駕車進東海商圈擦撞機車　警查越籍男「逾期居留」",
-   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oLTNpdUd1VXNrTzN3UkpEMHVGWjRoYzlMZ0NOZUh5b0hKa0dHN1JIbGR0NkF2eUM5RGNOVlJ3SDM0RzFVOHhla2gzZ3VFU2liVXg0OUNlMGfSAV5BVV95cUxOMy1JcTAzSTlURUNfWXIxMDlvMzNTUnlrWVpWeFFKdE0tSUhVVHYzdUdPbVlEdHJoNmt5a19maGdxUzhmbVVMM09Ld2t3MzdGeFVSSWdjR0lJOHZJRE1R?oc=5",
-   "source": "鏡新聞",
-   "source_site": "https://www.mnews.tw",
-   "published_at": "2026-10-26T17:18+08:00",
-   "query": "商圈",
-   "url": "https://www.mnews.tw/story/20261026sot1718001",
-   "resolved": true
-  },
-  {
    "title": "全民參與點亮科創商圈 張江電競嘉年華解鎖文體融合新場景",
    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ORV9TcUFqd0ZYVmJUN2o4SXZPcnNnVTM0SHN3UjhzYzNhM19NX2JZWGNBYTR2NnhoQlJKTVFhSzNUX1FEejJRckZ3ODhyRXVvM0xzZE53X1ViYndqUUE1QjFLZ0REaFUwM1dZVERwb3M?oc=5",
    "source": "人民网-上海频道",
@@ -348,16 +409,6 @@
    "resolved": true
   },
   {
-   "title": "台中一中商圈新地標！走訪 SKUNY 旗艦店，全系列陣容一次看",
-   "google_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWC1lS0tia0hMTWtlSUFkN0pVNGxhWURjaXZpODh4cUtROVptMEVFZDgzS2ZDaTZ2bnZadW0wMFdGMDQxb0lfYXc5aWx5R1F1WVlwT20tRi1fZHl4aFVTTGZqS2loUFlucktFVzhNQ3J2LVIwOFJRRWlJcGxJNHJOUW9fcHFaT0s2bXdQbkdDVko5YU9mSUVDbHNDUnJncy1kblZkNEJkMlNrRlMwWTJDRUVBNUhjTUFaWWRvT3ZlRkpXSUFQRFhMR0FsUHdMRzktZ3EzMjJNZlRjQVJoNFM2d2JlZmthVU5rdVNOeTB0ZGx3a1k?oc=5",
-   "source": "Webike Japan",
-   "source_site": "https://japan.webike.net",
-   "published_at": "2026-10-26T15:01+08:00",
-   "query": "商圈",
-   "url": "https://japan.webike.net/moto_news/zh-hant/a-new-landmark-in-taichungs-yizhong-shopping-district-visiting-the-skuny-flagship-store-introducing-the-entire-lineup/",
-   "resolved": true
-  },
-  {
    "title": "連假破百萬人擠爆台南！國華街4間公廁鎖1間 商圈怒槓文化局",
    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SaFlHQ2UtUll5dFpZSk5YMElVVnB5a1N4Q0pwV3JySU1lSlFEbHpfeTNLNXpKdnEzYVNXd0xRQV90ZENFZFBuVlBjeE95X29EUW1sZGF0M202RUlmcTNkRnloVC0xWE9LZ2pKYVJR?oc=5",
    "source": "中時新聞網",
@@ -365,16 +416,6 @@
    "published_at": "2026-10-26T14:30+08:00",
    "query": "商圈",
    "url": "https://www.chinatimes.com/realtimenews/20261026001942-260405",
-   "resolved": true
-  },
-  {
-   "title": "北市A辦空置率下降！信義區每坪租金破4千元 這商圈去化最猛",
-   "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFFJTHNvTGpGQXUwMnhSLTJUdE5JWUtMWk9JSjVfTHZzdU9ab0wwSWlsSVU5UEtta0VxUkNYdGMxQVZmRHFjbVZ2Q2lXZ0tVWWc4SVRsLXk5SmY0WWhLS3lFYnN3QTRoM3E2Sl9pNHdjYmthUFlOcWFENUZjSEZOWE5yVdIBYkFVX3lxTE9tRlhWZmJmZjZIZFB0eElpMzNFelJaSHlGNHdqVFFqcmViTzNObjJ0dHpEN0J5ajlxMEg4QjVJZ1dOVGhoRGQ3YzRyQ3ZHaW9uaG1oeVhOWWVpYVdXSHdjTFh3?oc=5",
-   "source": "udn房地產",
-   "source_site": "https://house.udn.com",
-   "published_at": "2026-10-26T14:19+08:00",
-   "query": "商圈",
-   "url": "https://house.udn.com/house/story/123590/9837680?from=udn-indexnewnews_ch1025",
    "resolved": true
   },
   {
@@ -405,26 +446,6 @@
    "published_at": "2026-10-26T11:02+08:00",
    "query": "商圈",
    "url": "https://tw.news.yahoo.com/%E9%80%9B%E8%A1%97%E5%88%B0-%E5%8D%8A%E5%A6%B9%E5%A6%B9%E5%95%86%E5%9C%88%E8%B5%B0%E5%A4%B1-%E5%A4%A7%E5%AE%89%E8%AD%A6%E7%A9%8D%E6%A5%B5%E5%8D%94%E5%B0%8B%E5%8A%A9%E5%9C%98%E5%9C%93-025119738.html",
-   "resolved": true
-  },
-  {
-   "title": "潮州「大潮祭」結合藝文推老街再生 印度大學女子團異國舞蹈助陣",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrcW9MLV8ya0pOejFRNmRUQ0JYcEhiQkpFZWpJdm5SRmZnWVAzYTJ0a3d0bFVtWnRISzNiS3p0NVRjWmlLMlNyTXdJeFdhXy12SnFkZmpyQUhqeTNydXg2dkwzb1XSAWpBVV95cUxQeGpoeXRfQk1iV25SRnhRcWJIU2NGZHI4ZTlFTzd2X3lQaVBCbm8xR3BUdzZzT05IUlZnNFNSWXMzLUp2alVRVGlBVXdVcjNXdG9pTWNnQnpLa1MzTDBhanVMazJvNWdmSUdB?oc=5",
-   "source": "自由時報",
-   "source_site": "https://news.ltn.com.tw",
-   "published_at": "2026-10-25T22:48+08:00",
-   "query": "老街",
-   "url": "https://news.ltn.com.tw/news/life/breakingnews/5618433",
-   "resolved": true
-  },
-  {
-   "title": "議員候選人林建南巧扮海綿寶寶 萌翻海安商圈萬聖節",
-   "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Od0taOXpRbWZTN0FreDdVdFowRmV4S3hmQ3NLNEVHMHNrelVIQkNyX21OS0gxMVFxQkNOMGtqVV9TZm0tTEdaQVlDWW9zQWhELTBGc0dFcWxkUlJOazN6U1lNb0JnMFlDTmpKaTJTdldZZw?oc=5",
-   "source": "民安救護車",
-   "source_site": "https://www.229119.com.tw",
-   "published_at": "2026-10-25T19:01+08:00",
-   "query": "商圈",
-   "url": "https://www.229119.com.tw/uninews_view.php?new_sn=147336&lang=TS",
    "resolved": true
   }
  ]
