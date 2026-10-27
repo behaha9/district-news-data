@@ -1,21 +1,41 @@
 {
- "fetched_at": "2026-10-27T09:40:41+08:00",
+ "fetched_at": "2026-10-27T11:27:49+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 110,
-  "kept": 30,
-  "resolved": 30,
-  "items": 28,
+  "raw": 119,
+  "kept": 29,
+  "resolved": 29,
+  "items": 27,
   "resolve_this_run": {
-   "online": 1
+   "online": 3
   },
   "dropped_old": [
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
-   "烏來好慘！台九甲線道路斷溪水溢堤老街淹| 生活（原文日期 2016-09-27）"
+   "逢甲商圈「墾丁化」？停車一次300元　在地人也看不下去（原文日期 2018-10-21）"
   ]
  },
  "items": [
+  {
+   "title": "打敗一中商圈！台中最強景點吸2309萬人 從早玩到晚",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OLS11NDF1TDFmQzVINXhkZTF1T0hiXzk0NWZ6YmlQVFN0amhJTDFqbXFKZE9xcExoM1FXbVNZY1FPNTQ3b0JOd2RLLTlnV1JWT0FzcG51YWlkazh3a0FQT014dldickZSQ3d2NTRn?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-10-27T11:03+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/realtimenews/20261027001835-260405",
+   "resolved": true
+  },
+  {
+   "title": "北市A辦空置率下降！信義區每坪租金破4千元　這商圈去化最猛",
+   "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DWUh4UE1UazRQcHFUb0hiNk9QdlN2dmJ2TTd1blotNXhmYktPQTNYY1JqUVpiQzhwSHV4Y2FkM0VuT19Mc0V4b0JOU2tDM3g5ZnBUS2hSSnJ2bnNnMGR2VG5kRzQ2Mko0SElMLVJUN1rSAXBBVV95cUxOQ1lIeFBNVGs0UHBxVG9IYjZPUHZTdnZidk03dW5aLTV4ZmJLT0EzWGNSalFaYkM4cEh1eGNhZDNFbk9fTHNFeG9CTlNrQzN4OWZwVEtoUkpydm5zZzBkdlRuZEc0NjJKNEhJTC1SVDda?oc=5",
+   "source": "好房網News",
+   "source_site": "https://news.housefun.com.tw",
+   "published_at": "2026-10-27T08:59+08:00",
+   "query": "商圈",
+   "url": "https://news.housefun.com.tw/news/article/amp/132529490402.html",
+   "resolved": true
+  },
   {
    "title": "４星「隱藏老街」意外爆紅！網推好吃又好逛、風景誘人，加碼全台老街排行榜",
    "google_url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQb2JiVENpY1pMWUlrS3pNckpMcUdQbUdYWm9MTzJ6OVRPTmY2TDFGTWtabFUtc29LUi1ISzlWSGp5bm5uRWlLN0FpcEpRUVZqMk50dE11OFlrUmc5eGRaajdlRzVGN0huMVBSX2IwakZaLWxQSUhXN3gyYVVpamoyZThSbEJ1YXowNHNBN28tcHBJZW9FOWgyVHQyb0dJSVduRnJtVFZDU1FESDdQSEFVTllhbDZIQk1sWG0xLUZVY3cxQlc1SWFiYlRUZFJWaG5Sck9BNGR0el81NFFUTk8zMTV6TVBUbmRhc1lHdkVUZ1JMUVoweUNwZjY5NmcwWHNjWW9iMnF2TUgxYjVYRVNBSzJtVFhFV0RoNHdKUl9FWnFVRG95Mm5ER1pNQmRMM0FBNXFUdjlNLTdjblJTV3NsWEFjVjlodk1w?oc=5",
@@ -118,12 +138,12 @@
   },
   {
    "title": "台南左鎮老街竹構造涼亭完工 家具、花器全竹工藝走入生活",
-   "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHejFVSkt5MVJzWEMzUFgyaW01WWR0SHhQRjlUZXVZRlJaYVlWZTRWUGY1eGZBOVNJNEE3bGRKalBlRGlOSlAtU2R5Y05YZUUtNFd5aUJxQXJ3U3ZkLTJ2ZW82elRveWMyZkHSAWpBVV95cUxQR3oxVUpLeTFSc1hDM1BYMmltNVlkdEh4UEY5VGV1WUZSWmFZVmU0VlBmNXhmQTlTSTRBN2xkSmpQZURpTkpQLVNkeWNOWGVFLTRXeWlCcUFyd1N2ZC0ydmVvNnpUb3ljMmZB?oc=5",
-   "source": "自由時報",
-   "source_site": "https://news.ltn.com.tw",
+   "google_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQWU1hM0lxRWZMUzhhOUZfZTJsdXl6TmRYRFlzTC03M0w5M2lKLW5pS21ZWTFOVmYwcUdXbUFCbWVRLWxWcEsxYVN5LWN4dnltRU1iVE5CZnJVd3FWc2Q2eXcybThEaVB0dHNncWxQZ1N5YWpvNjVic24tYTRIVFUzRzB5WURySUlaZmliQk9QdjlKTzIyQWw5QWJmWWxoVXNhZ2RWNkthR2NUYzZRSk1MQ2lVNk00VlQyMXRHU3hXRFhYLUxhazhqQk9kYTM5X3N5d1Q1V21FVnltbE5haDhoal9mZDJ5dTd2RVhScVZRYllmVldPbEZtQ1dnMWlia2lINTM5eUVHMnN2dmtlem9McUZ2ektjQmd4RjUwSWljWlV3a19MdHJvT1Vvb2pTakM2VVBfaENUVDZMUUROZi1qVnUxRF8xTHh2N3Z4UGg5NndURnl3UUptYWhNN2IxcGRXVHJwRm1PVzE5Zm4zNWh4b1NUbGNPSWVQbktVOGEzR0FCZw?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
    "published_at": "2026-10-26T18:51+08:00",
    "query": "老街",
-   "url": "https://news.ltn.com.tw/amp/news/life/breakingnews/5619352",
+   "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%B7%A6%E9%8E%AE%E8%80%81%E8%A1%97%E7%AB%B9%E6%A7%8B%E9%80%A0%E6%B6%BC%E4%BA%AD%E5%AE%8C%E5%B7%A5-%E5%AE%B6%E5%85%B7-%E8%8A%B1%E5%99%A8%E5%85%A8%E7%AB%B9%E5%B7%A5%E8%97%9D%E8%B5%B0%E5%85%A5%E7%94%9F%E6%B4%BB-105128056.html",
    "resolved": true
   },
   {
@@ -138,12 +158,12 @@
   },
   {
    "title": "大阪布施「全城飯店」SEKAI HOTEL攜手土間Cinema 2027年春商店街辦放映會、找回電影院",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyRDh6LXFyOFdPR284WEQ4RzViVlE4eFJGcmtaYmVESTc4M09ONjNqZkxXYUhRb0ZBZkNDZHlvdmhQRGFvbHF3Um9FWEJXRlgyWUE?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
+   "google_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNRENBYU4zMDNVWDMybVJJYjhzUEw5UEhFMmRNWHhhRVJydzRrd3lvWWlmZVRsV19kMDhsMG56WFZ2a0dJdnJfZ0tsMFpxbDM1SWlJMUZsNm0zaHJsSk1Ec19veXR0ekNoRnFwX2ZOd1lOaS04QUhUbTF2cmdya2JNX19IR3JVSlJYUVJOLUM1S3VvR2wxT2lLVUtaMzN1dUNvUVVfZzZYMGdXckVsdGptMnBTRW1UTjl6SzV0SDN5Q1p5MWRyaHR6WUVTM3ozVWVWa0JYZUU3cVdPSFBObE5pM09felZQRkpuX0FweFhvU2RINGc5RmxIS2FOLVE4ODcwTkpmcmdPUWYwWi0xZ1VvSGRiUVN6VUdTaU12N1ZVM2J1dFpDM1B5Wm82WlBWeURMYTJOaUtqSE0ta0g1NWtJRW1EU09JUThkbl9jSHlGdFZlZE52SFZlQTc5cjkxUzg?oc=5",
+   "source": "報新聞",
+   "source_site": "https://www.contentplatform.info",
    "published_at": "2026-10-26T18:21+08:00",
    "query": "商店街",
-   "url": "https://n.yam.com/Article/20261026555428",
+   "url": "https://www.contentplatform.info/articles/549618/%E5%A4%A7%E9%98%AA%E5%B8%83%E6%96%BD%E3%80%8C%E5%85%A8%E5%9F%8E%E9%A3%AF%E5%BA%97%E3%80%8Dsekai-hotel%E6%94%9C%E6%89%8B%E5%9C%9F%E9%96%93cinema%E3%80%802027%E5%B9%B4%E6%98%A5%E5%95%86%E5%BA%97/",
    "resolved": true
   },
   {
@@ -164,16 +184,6 @@
    "published_at": "2026-10-26T18:12+08:00",
    "query": "商圈",
    "url": "https://news.st-media.com.tw/news/63794",
-   "resolved": true
-  },
-  {
-   "title": "韓國推進“全球小工商業者培育項目”，打造新型地方商圈增長模式--韓國頻道--人民網",
-   "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FS1AzWG1rQ0xDV0ZJNWgwTG5NTlhwcGVXdVZJSkxYOHVXbkJlbWVQM2IxOGFVNDhTX2pSU3lPLS05Z1hadFI1OE55VVAtcEVNMkc2ODBNUFdiblpfZzk3a3RNaEZaUFBvbHJFLTJLcmMzZWNF?oc=5",
-   "source": "人民网-韩国频道",
-   "source_site": "http://korea.people.com.cn",
-   "published_at": "2026-10-26T17:41+08:00",
-   "query": "商圈",
-   "url": "http://korea.people.com.cn/BIG5/n1/2026/1026/c407366-40821926.html",
    "resolved": true
   },
   {
@@ -217,16 +227,6 @@
    "resolved": true
   },
   {
-   "title": "台中一中商圈新地標！走訪 SKUNY 旗艦店，全系列陣容一次看",
-   "google_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWC1lS0tia0hMTWtlSUFkN0pVNGxhWURjaXZpODh4cUtROVptMEVFZDgzS2ZDaTZ2bnZadW0wMFdGMDQxb0lfYXc5aWx5R1F1WVlwT20tRi1fZHl4aFVTTGZqS2loUFlucktFVzhNQ3J2LVIwOFJRRWlJcGxJNHJOUW9fcHFaT0s2bXdQbkdDVko5YU9mSUVDbHNDUnJncy1kblZkNEJkMlNrRlMwWTJDRUVBNUhjTUFaWWRvT3ZlRkpXSUFQRFhMR0FsUHdMRzktZ3EzMjJNZlRjQVJoNFM2d2JlZmthVU5rdVNOeTB0ZGx3a1k?oc=5",
-   "source": "Webike Japan",
-   "source_site": "https://japan.webike.net",
-   "published_at": "2026-10-26T15:01+08:00",
-   "query": "商圈",
-   "url": "https://japan.webike.net/moto_news/zh-hant/a-new-landmark-in-taichungs-yizhong-shopping-district-visiting-the-skuny-flagship-store-introducing-the-entire-lineup/",
-   "resolved": true
-  },
-  {
    "title": "連假破百萬人擠爆台南！國華街4間公廁鎖1間 商圈怒槓文化局",
    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SaFlHQ2UtUll5dFpZSk5YMElVVnB5a1N4Q0pwV3JySU1lSlFEbHpfeTNLNXpKdnEzYVNXd0xRQV90ZENFZFBuVlBjeE95X29EUW1sZGF0M202RUlmcTNkRnloVC0xWE9LZ2pKYVJR?oc=5",
    "source": "中時新聞網",
@@ -234,16 +234,6 @@
    "published_at": "2026-10-26T14:30+08:00",
    "query": "商圈",
    "url": "https://www.chinatimes.com/realtimenews/20261026001942-260405",
-   "resolved": true
-  },
-  {
-   "title": "北市 A 辦空置率下降！信義區每坪租金破4千元 這商圈去化最猛",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JS1BfaHh2aDl2Z0hGNGZESVgwZVRDMWJhYnl4NVhHcHNERENodmxVenU1bVpQV3cxQnI3bU9oajhiYmFaa1lXSVMxSDBmQTlWVmhSNGNR0gFWQVVfeXFMT0lLUF9oeHZoOXZnSEY0ZkRJWDBlVEMxYmFieXg1WEdwc0REQ2h2bFV6dTVtWlBXdzFCcjdtT2hqOGJiYVprWVdJUzFIMGZBOVZWaFI0Y1E?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
-   "published_at": "2026-10-26T14:19+08:00",
-   "query": "商圈",
-   "url": "https://udn.com/news/amp/story/7241/9837680",
    "resolved": true
   },
   {
@@ -278,12 +268,12 @@
   },
   {
    "title": "議員候選人林建南巧扮海綿寶寶 萌翻海安商圈萬聖節",
-   "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Od0taOXpRbWZTN0FreDdVdFowRmV4S3hmQ3NLNEVHMHNrelVIQkNyX21OS0gxMVFxQkNOMGtqVV9TZm0tTEdaQVlDWW9zQWhELTBGc0dFcWxkUlJOazN6U1lNb0JnMFlDTmpKaTJTdldZZw?oc=5",
-   "source": "民安救護車",
-   "source_site": "https://www.229119.com.tw",
-   "published_at": "2026-10-25T19:01+08:00",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zX25jN3dxUG9YcGZBcGpoNDFrQ0ljb2RwM3EzcU1qRTJVQXhQMFFtM3Y0X0dud2xzSEVRb0IzejhHZ1N1TEtZQjZIUmE3cHRZMC1VdWxsYW5yaEs3Q2kwMmtxYUUzYVFnMjdVMHhB?oc=5",
+   "source": "視傳媒",
+   "source_site": "https://www.nvns.net",
+   "published_at": "2026-10-25T17:54+08:00",
    "query": "商圈",
-   "url": "https://www.229119.com.tw/uninews_view.php?new_sn=147336&lang=TS",
+   "url": "https://www.nvns.net/news_view.php?new_sn=147336&new_csn=1467",
    "resolved": true
   },
   {
