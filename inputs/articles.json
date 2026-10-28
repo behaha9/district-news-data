@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T16:50:49+08:00",
+ "fetched_at": "2026-10-28T21:16:28+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -2271,7 +2271,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3454,7 +3454,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/travel/thehubnews/20261021/index-79257816474758306009.html": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": 502,
    "error": "HTTP Error 502: Bad Gateway"
   },
@@ -3481,7 +3481,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5169,7 +5169,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5352,11 +5352,6 @@
    "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
-  },
-  "https://news.cts.com.tw/cna/local/202610/202610233093191.html": {
-   "checked_at": "2026-10-25T17:57+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
   },
   "https://www.msn.com/zh-tw/news/other/%E7%BA%8C%E6%94%BE%E9%A2%B1%E9%A2%A8%E5%81%87-%E5%8F%B0%E4%B8%AD%E4%BA%BA%E9%96%8B%E9%80%9B%E7%99%BE%E8%B2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E4%BA%BA%E6%BD%AE%E5%B0%913%E6%88%90/ar-AA2fY8ZE": {
    "checked_at": "2026-10-27T11:29+08:00",
@@ -5656,7 +5651,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5880,7 +5875,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6211,7 +6206,7 @@
    "date_hint_from": "原文時間"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": "error",
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
@@ -6256,7 +6251,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/general/202610/202610203091965.html": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6686,7 +6681,7 @@
    "date_hint_from": "原文時間"
   },
   "https://nownews.com/news/6885475": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": "error",
    "error": "<urlopen error timed out>"
   },
@@ -7414,7 +7409,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7841,7 +7836,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/public/taipei/20261026/index-79300436041406126016.html": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": 502,
    "error": "HTTP Error 502: Bad Gateway"
   },
@@ -8000,7 +7995,7 @@
    "date_hint_from": null
   },
   "https://news.pchome.com.tw/public/morenews/20261026/index-79302099691556350016.html": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": "error",
    "error": "The read operation timed out"
   },
@@ -8078,7 +8073,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.housefun.com.tw/news/article/amp/132529490402.html": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -9362,7 +9357,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1480925": {
-   "checked_at": "2026-10-28T12:17+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -9897,7 +9892,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/expense/cardu/20261021/index-17925243475099441013.html": {
-   "checked_at": "2026-10-28T13:58+08:00",
+   "checked_at": "2026-10-28T21:16+08:00",
    "status": 502,
    "error": "HTTP Error 502: Bad Gateway"
   },
@@ -10313,6 +10308,258 @@
    ],
    "body_chars": 825,
    "image": "https://media.nownews.com/nn_media/thumbnail/2025/06/1748776856810-d191e9d5f901446f81eb596c9f84ea3c-1200x697.webp?unShow=false",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261028603791": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T14:25+08:00",
+   "site_name": "蕃新聞",
+   "description": "【記者 王苡蘋╱高雄 報導】高雄鹹酥雞嘉年華香氣四溢，兩天湧入逾12萬人！高雄市政府觀光局主辦的第六",
+   "cities": {
+    "高雄市": 16
+   },
+   "districts": [
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 955,
+   "image": "https://ni.yam.com/20261028/ba4e0185b000943c7e552722b3b8f15a-308d22d243f954b6.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261028294349": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T12:37+08:00",
+   "site_name": "蕃新聞",
+   "description": "（記者翁士維／高雄報導）隨著亞洲新灣區 2.0、特貿三公辦都更與 O9 苓雅運動園區聯開案等重大建設",
+   "cities": {
+    "高雄市": 12
+   },
+   "districts": [
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 1099,
+   "image": "https://ni.yam.com/20261028/3_IMG_8483-02dcd072ba053f5f.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.cts.com.tw/cts/life/202610/202610283094891.html": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://life.tw/article/%E9%AB%98%E9%9B%84%E9%B9%B9%E9%85%A5%E9%9B%9E%E5%98%89%E5%B9%B4%E8%8F%AF%E5%85%A9%E5%A4%A9%E5%90%B8%E5%BC%9512%E8%90%AC%E4%BA%BA-%E7%99%BE%E8%B2%A8-%E5%95%86%E5%9C%88%E6%A5%AD%E7%B8%BE%E6%88%90%E9%95%B7%E8%BF%91%E4%BA%94%E6%88%90-3196144": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T16:00+08:00",
+   "site_name": "LIFE 生活網",
+   "description": "高雄鹹酥雞嘉年華吸引超過12萬人次參與，為期兩天。",
+   "cities": {
+    "高雄市": 24
+   },
+   "districts": [
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 1215,
+   "image": "https://cdn.upmedia.mg/upfile/img/2026/1028/202610281831118811.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E7%AC%AC%E4%BA%8C%E6%B3%A2%E7%89%A9%E8%AA%BF%E5%88%B8%E5%B0%87%E7%99%BB%E5%A0%B4-%E5%85%A8%E5%B8%82%E5%95%86%E5%9C%88%E5%85%B1369%E5%AE%B6%E5%BA%97%E5%AE%B6%E7%A5%AD%E5%87%BA%E5%A4%9A%E5%85%83%E5%84%AA%E6%83%A0-094749599.html": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T17:47+08:00",
+   "site_name": "Yahoo News",
+   "description": "中市商圈共三百六十九家店家響應，結合買一送一、滿額贈及消費加碼等，讓民眾享受「一百元換二百元」的加倍優惠。（記者鍾麗如攝）",
+   "cities": {
+    "台北市": 12,
+    "新北市": 2,
+    "台中市": 1,
+    "台南市": 1
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "大雅學府商圈（台中市）"
+   ],
+   "body_chars": 3862,
+   "image": "https://s.yimg.com/lo/mysterio/api/e2933c8149cf94e31882094de18caf98fe2ad69eca95ef30ba590393ee4249c7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Ftaiwantimes_374%2Ff8e1f6e6e9bce7a26605e8a3838bfe39.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261028124175": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T08:00+08:00",
+   "site_name": "蕃新聞",
+   "description": "生活中心／綜合報導在台灣街頭巷尾常見的傳統小吃中，「麵線」向來是橫跨世代的國民美食。然而近年來，台",
+   "cities": {
+    "台中市": 6
+   },
+   "districts": [],
+   "body_chars": 1264,
+   "image": "https://ni.yam.com/20261028/png-962e32be420e0be7.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/local/4042563": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T19:07+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "台中一中商圈日前發生一起夾娃娃機竊案，27歲賴姓男子自備螺絲起子及老虎鉗，於晚間前往商圈內隨機挑選店家，撬開零錢櫃鎖頭行竊，共得手320元。警方獲報後迅速趕抵現場，將其依現行犯逮捕，經查該男為慣竊，已依加重竊盜罪嫌移送偵辦。",
+   "cities": {
+    "台中市": 6,
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 807,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a181d2-140d-71d8-bc41-967525fc6e00.jpg?t=16x9&wp=l,t&c=0,0,1920,1080&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%A4%A7%E6%BA%AA%E5%B7%A5%E8%97%9D%E5%91%A8-2%E4%B8%BB%E9%A1%8C%E9%82%80%E4%BD%A0%E6%9A%A2%E9%81%8A%E8%80%81%E8%A1%97-201000320.html": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T04:10+08:00",
+   "site_name": "Yahoo News",
+   "description": "2026大溪工藝周開幕，10月31日起為期兩周依序舉辦「工藝與生活的共好進行式」、「國際交流及工藝體驗」兩大主題活動。此外，大溪木藝生態博物館以老街建築為主題，推出「大溪牌樓紀念磁鐵」，將4座代表性街屋化身為文創商品，歡迎民眾走訪老街，尋找牌樓原型。",
+   "cities": {
+    "台北市": 11,
+    "新北市": 2,
+    "台中市": 2,
+    "台南市": 1,
+    "新竹": 1
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://s.yimg.com/lo/mysterio/api/c7b1025e8bf346cd073fa8aa4d512cca45b9ec257dcefbc3be12de30d833f7b7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fchinatimes.com.tw%2F93eeb0227dc2ed353f903894dffd7535.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/travel/%E9%85%92%E5%90%A7%E8%88%87%E9%A4%90%E5%BB%B3/%E9%80%A2%E7%94%B2%E8%BC%B8%E4%BA%86-%E5%8F%B0%E4%B8%AD%E4%BA%BA%E6%B0%A3%E6%99%AF%E9%BB%9E%E6%B4%97%E7%89%8C-%E5%85%AC%E7%9B%8A%E8%B7%AF%E5%95%86%E5%9C%88%E5%A5%AA%E5%86%A0/ar-AA2gfkqZ": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.msn.com/zh-tw/news/other/%E6%85%A3%E7%AB%8A%E8%87%AA%E5%82%99%E5%B7%A5%E5%85%B7%E6%92%AC%E5%A8%83%E5%A8%83%E6%A9%9F-%E5%8F%B0%E4%B8%AD%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E7%8A%AF%E6%A1%88-%E5%83%85%E5%BE%97%E6%89%8B320%E5%85%83%E8%90%BD%E7%B6%B2/ar-AA2gf7E4": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://more-news.tw/751996/": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T21:23+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "2026台中購物節開跑第3天，前2天消費登錄金額已突破5億5,581萬元！市府經濟發展局今（26）日於大里中興 […]",
+   "cities": {
+    "台中市": 12,
+    "嘉義市": 2
+   },
+   "districts": [
+    "大里中興商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1318,
+   "image": "https://more-news.tw/more-news-media/2026/10/1-340.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.upmedia.mg/tw/lifestyle/policy/272593": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T16:00+08:00",
+   "site_name": "上報",
+   "description": "第六屆「2026高雄鹹酥雞嘉年華」10月25、26日在高雄登場，集結全台近90家炸物及特色餐飲業者，兩天吸引逾12萬人次參與。主辦單位表示，活動...",
+   "cities": {
+    "高雄市": 6,
+    "新北市": 2,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 683,
+   "image": "https://cdn.upmedia.mg/upfile/img/2026/1028/202610281831118811.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261028/3262453.htm": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T19:03+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "38歲台籍女子井雲蓉赴日本旅遊，卻在河口湖飯店遇害，新婚丈夫李碩彬涉嫌共同殺人、詐保等罪遭羈押禁見，其工作與家庭背景也受到關注，李男辦公室登記地址位於台南永康區，現場掛著徵信社招牌，但大門深鎖，房客透露包括該棟徵信社在內的整排4棟透天房屋，屋主都是李男父親，房子都是出租給房客收租金。",
+   "cities": {
+    "台南市": 6,
+    "高雄市": 2,
+    "基隆市": 2
+   },
+   "districts": [],
+   "body_chars": 1294,
+   "image": "https://cdn2.ettoday.net/images/8989/e8989219.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mirrormedia.mg/external/mirrordaily_94325": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T16:17+08:00",
+   "site_name": "鏡週刊 Mirror Media",
+   "description": "情歌天后梁文音日前受邀出席「花蓮韓流原聲演唱會」，活動因颱風延至週一登場，卻意外引發一連串後台驚魂。",
+   "cities": {
+    "花蓮縣": 3,
+    "台東縣": 1
+   },
+   "districts": [],
+   "body_chars": 630,
+   "image": "https://statics-prod.mirrordaily.news/images/5b1a3843-d110-4bb2-bd50-79035018bd0b-w1600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261028/3262397.htm": {
+   "checked_at": "2026-10-28T21:16+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T17:35+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "Anthropic 招募主管、負責 Claude 相關產品工程的 Felix Rieseberg 宣布，已於 10 月取消所屬團隊招聘流程中的傳統程式面試。他認為，隨著 AI 模型能夠完成愈來愈複雜的程式設計任務，傳統考題已難以有效評估應徵者的實際能力，工程師的判斷力、產品思維與協作能力，可能成為更重要的評估方向。",
+   "cities": {
+    "高雄市": 2
+   },
+   "districts": [],
+   "body_chars": 1352,
+   "image": "https://cdn2.ettoday.net/images/1141/d1141220.jpg",
    "image_checked": true,
    "date_hint": "2026-10-28",
    "date_hint_from": "原文時間"
