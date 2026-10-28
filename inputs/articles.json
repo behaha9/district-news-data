@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T21:16:28+08:00",
+ "fetched_at": "2026-10-29T07:17:46+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -2271,7 +2271,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-10-28T21:16+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3481,7 +3481,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-10-28T21:16+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3671,16 +3671,6 @@
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
-  },
-  "https://news.cts.com.tw/cts/general/202610/202610183091096.html": {
-   "checked_at": "2026-10-25T22:51+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  "https://www.msn.com/zh-tw/news/other/å¥½æœƒjump-æ©Ÿè»Šé­æ’žé£›éŽä¾†-è·¯äºº-è·³éŽ-é€ƒä¸€åŠ«-newsebc/vi-AA2esASE": {
-   "checked_at": "2026-10-25T22:51+08:00",
-   "status": "error",
-   "error": "'ascii' codec can't encode characters in position 22-27: ordinal not in range(128)"
   },
   "https://n.yam.com/Article/20261018452867": {
    "checked_at": "2026-10-27T16:51+08:00",
@@ -5169,7 +5159,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-10-28T21:16+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5651,7 +5641,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-10-28T21:16+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5875,7 +5865,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-10-28T21:16+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6206,7 +6196,7 @@
    "date_hint_from": "原文時間"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
-   "checked_at": "2026-10-28T21:16+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": "error",
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
@@ -6251,7 +6241,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/general/202610/202610203091965.html": {
-   "checked_at": "2026-10-28T21:16+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6567,11 +6557,6 @@
    "date_hint": "2026-10-19",
    "date_hint_from": "原文時間"
   },
-  "https://news.cts.com.tw/cna/local/202610/202610243093554.html": {
-   "checked_at": "2026-10-25T22:48+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
-  },
   "https://n.yam.com/Article/20261025118921": {
    "checked_at": "2026-10-27T16:51+08:00",
    "status": 200,
@@ -6681,7 +6666,7 @@
    "date_hint_from": "原文時間"
   },
   "https://nownews.com/news/6885475": {
-   "checked_at": "2026-10-28T21:16+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": "error",
    "error": "<urlopen error timed out>"
   },
@@ -7409,7 +7394,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
-   "checked_at": "2026-10-28T21:16+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7836,7 +7821,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/public/taipei/20261026/index-79300436041406126016.html": {
-   "checked_at": "2026-10-28T21:16+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": 502,
    "error": "HTTP Error 502: Bad Gateway"
   },
@@ -7995,9 +7980,9 @@
    "date_hint_from": null
   },
   "https://news.pchome.com.tw/public/morenews/20261026/index-79302099691556350016.html": {
-   "checked_at": "2026-10-28T21:16+08:00",
-   "status": "error",
-   "error": "The read operation timed out"
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 502,
+   "error": "HTTP Error 502: Bad Gateway"
   },
   "https://news.pchome.com.tw/public/morenews/20261020/index-79248645618053350016.html": {
    "checked_at": "2026-10-27T16:51+08:00",
@@ -8073,7 +8058,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.housefun.com.tw/news/article/amp/132529490402.html": {
-   "checked_at": "2026-10-28T21:16+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -9357,7 +9342,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1480925": {
-   "checked_at": "2026-10-28T21:16+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -10086,7 +10071,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.housefun.com.tw/news/article/132529490402.html": {
-   "checked_at": "2026-10-28T16:50+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -10349,7 +10334,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/life/202610/202610283094891.html": {
-   "checked_at": "2026-10-28T21:16+08:00",
+   "checked_at": "2026-10-29T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -10560,6 +10545,314 @@
    "districts": [],
    "body_chars": 1352,
    "image": "https://cdn2.ettoday.net/images/1141/d1141220.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261028585908": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T20:28+08:00",
+   "site_name": "蕃新聞",
+   "description": "報新聞/編輯部台中市政府第二波物調券將於10月30日登場，全市商圈共369家店家響應，推出服飾、美食",
+   "cities": {
+    "台中市": 5
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1293,
+   "image": "https://ni.yam.com/20261028/taichung-cover-261028083209523-e1172f17bf422abd.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261028545043": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T15:44+08:00",
+   "site_name": "蕃新聞",
+   "description": "圖:蘭雅萬神節10/26日藝閣燈車祭大合照。(圖/蘭雅商圈fb粉絲專頁)【記者張嘉誠／綜合報導】繽紛",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [
+    "蘭雅商圈（台北市）"
+   ],
+   "body_chars": 1045,
+   "image": "https://ni.yam.com/20261028/2026102812-07ecb522a61bfa16.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://focus.586.com.tw/2026/10/28/p408860/": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T15:44+08:00",
+   "site_name": "焦點時報",
+   "description": "〔焦點時報/記者蔡宗憲報導〕高雄市政府觀",
+   "cities": {
+    "高雄市": 33
+   },
+   "districts": [
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 1942,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/mWpm3NW": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T15:25+08:00",
+   "site_name": "LINE TODAY",
+   "description": "2026大選進入衝刺階段，針對台北市商圈發展遭遇瓶頸，民進黨台北市長候選人沈伯洋提出URS 2.0（都市再生前進基地）及市民大道縫合等構想；...",
+   "cities": {
+    "台北市": 8
+   },
+   "districts": [
+    "永樂商圈（台北市）",
+    "赤峰街商圈（台北市）",
+    "永樂商圈（彰化縣）"
+   ],
+   "body_chars": 1561,
+   "image": "https://today-obs.line-scdn.net/0h3NxFWJhsbGFFP3Dn4-cTNn1pYBB2WXZoZ1kqU2ZvNlRrEyg1K1A_AmU3Mk04CiNkZQl3DzI5ZwY_WHxgfw/w1200",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cmmedia.com.tw/home/articles/63545": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T15:25+08:00",
+   "site_name": null,
+   "description": "2026大選進入衝刺階段，針對台北市商圈發展遭遇瓶頸，民進黨台北市長候選人沈伯洋",
+   "cities": {
+    "台北市": 8
+   },
+   "districts": [
+    "永樂商圈（台北市）",
+    "赤峰街商圈（台北市）",
+    "永樂商圈（彰化縣）"
+   ],
+   "body_chars": 1551,
+   "image": "https://www.cmmedia.com.tw/file/118742/1793171705_357_69ac15efb5805f60d186d1e3439eb518.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/article/11176518": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T17:18+08:00",
+   "site_name": null,
+   "description": "台中市政府第二波物調券盛事即將於 10 月 30 日重磅登場！本次共吸引全市商圈高達 369 家在地店家熱烈響應，涵蓋時尚服飾、在地美食、名產伴手禮與生活百貨等多元品項，結合限定折扣、買一送一、滿額好禮及消費加碼等好康，讓市民與遊客享受「100 元現金兌換 200 元物調券」的雙倍超值回饋。其中天津服飾商圈結合萬聖節「",
+   "cities": {
+    "台中市": 8
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1422,
+   "image": "https://images.storm.mg/cloud/a9843a2b84fe5f04b58f30d93d54c5fd3215fca0.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2241567%2Fs09eZshXY0UL47frSi3kregMWZvkAylMH7LEcYZz.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.twhg.com.tw/re_news_details.php?ojb=61126": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://fashion.ettoday.net/news/3262059": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T10:49+08:00",
+   "site_name": "ET Fashion",
+   "description": "東區商圈從 11／5 成百貨周年慶熱點，SOGO 忠孝復興兩館回饋登場外，新光三越 DIAMOND TOWERS 周年慶也同步開跑，首 14 日化妝品單筆滿 2,000 元送 2,000 點、全館累計滿 5,000 元送 5,000 點，首 7 日刷指定支付滿萬再加碼送萬點。會員周慶期間不限金額消費還可參加抽獎，有機會",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 2706,
+   "image": "https://cdn2.ettoday.net/images/8988/e8988324.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.setn.com/ampnews/1929436": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T04:08+08:00",
+   "site_name": "三立新聞網",
+   "description": "民進黨台北市長候選人沈伯洋提出「URS 2.0」構想，針對赤峰商圈面臨房租飆漲、特色店家出走的危機。他建議由市政府介入，透過長租或買下具歷史紋理與文化意義的空間，並設立都市紋理審議委員會，結合居民與未來視角的參與機制，保留形塑城市個性的獨立書店與咖啡廳，避免商圈同質化，在政府適度介入與市場機制間取得平衡。",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [
+    "永樂商圈（台北市）",
+    "赤峰街商圈（台北市）",
+    "永樂商圈（彰化縣）"
+   ],
+   "body_chars": 1210,
+   "image": "https://attach.setn.com/newsimages/2026/10/27/5765051-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/9m3eEGR": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T11:10+08:00",
+   "site_name": "LINE TODAY",
+   "description": "台中市一中商圈驚傳娃娃機竊案！27歲賴姓男子昨晚持一字螺絲起子撬開機台鎖頭，企圖偷取零錢，遭警方當場撞見、喝止，他竟又掏出老虎鉗，作勢攻擊員...",
+   "cities": {
+    "台中市": 4
+   },
+   "districts": [],
+   "body_chars": 674,
+   "image": "https://today-obs.line-scdn.net/0hpr5_F7iwL10IJjPbb1tQCjBwIyw7QDVUKkljMnggJj0tCjoDMkZ8PitzcnF2QmlZKBVnOH4jeT4iQT9cMQ/w1200",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E6%99%9A%E9%96%93%E5%A4%A9%E6%AF%8D%E4%B8%89%E7%8E%89%E5%AE%AE%E6%8B%9C%E7%A5%A8-%E8%BA%AB%E9%AB%94%E4%B8%8D%E9%81%A9%E5%8F%96%E6%B6%88%E6%98%8E%E9%A0%90%E6%8E%92%E8%A1%8C%E7%A8%8B-152407602.html": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T23:24+08:00",
+   "site_name": "Yahoo News",
+   "description": "台北市長蔣萬安今（10/28）晚間出席天母三玉宮活動，爭取民眾支持。不過，競辦隨後表示，蔣萬安結束行程後稍感不適，考量身體狀況及辯論準備，將取消預排行程。",
+   "cities": {
+    "台北市": 35,
+    "新北市": 2
+   },
+   "districts": [],
+   "body_chars": 3798,
+   "image": "https://s.yimg.com/lo/mysterio/api/218ee15fa2354d36c1f4f33568a1f2b86f409680bcf161c9cd80bc84c367b18f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Ftaisounds_com_380%2F621bc200993ecd537e67bfb0820e1fe3.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mirrormedia.mg/story/YT-202610281144-M6GZHhTzLZo?from=cate_newnews": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T11:44+08:00",
+   "site_name": "鏡週刊 Mirror Media",
+   "description": "國民黨台北市長候選人蔣萬安，27日晚間現身內湖737商圈掃街拜票，現場也有熱情攤商送上美食暖胃，不過也有攤商抱怨「現場太吵」，拒絕和蔣萬安握手。#鏡週刊 ---------------------------------------✔️【歡迎訂閱鏡週刊頻道】➤https://www.youtube.com/@Video",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 601,
+   "image": "https://v3-statics.mirrormedia.mg/images/ef2d27c9-e026-47f1-ae33-208324ef4cb0-w1600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/news/aloc/202610280338.aspx": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T22:34+08:00",
+   "site_name": "中央社 CNA",
+   "description": "台北市長蔣萬安今天晚間出席天母三玉宮活動，與民眾敬酒、互動，盼爭取支持。競辦稍早表示，蔣萬安結束行程後稍感不適，考量身體狀況及辯論準備，將取消預排行程。",
+   "cities": {
+    "台北市": 7,
+    "花蓮縣": 1
+   },
+   "districts": [],
+   "body_chars": 1026,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261028/1152x768_wmky_0_C20261028000215.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://hoomedia.com.tw/2026/10/28/177006/": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T16:34+08:00",
+   "site_name": "互傳媒",
+   "description": "台中市第二波物調券將於10月30日至11月1日發放，全市369家商圈店家響應，推出服飾、美食、伴手禮及生活用品等優惠。天津商圈祭出全商圈8折及限量驚喜福袋，自由路商圈推出全商圈9折與消費滿額贈禮，其他商圈也有買一送一、滿額贈及住宿折扣，邀請民眾把握機會，享受加倍消費優惠。",
+   "cities": {
+    "台中市": 7
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1439,
+   "image": "https://hoomedia.com.tw/wp-content/uploads/2026/10/1455a7dba6ba331895a752bcd84a19b9.jpg?v=1793205246",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ttv.com.tw/videocity/video_play.asp?id=950166&sid=5&from=707": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "TTV",
+   "description": "台視影音：提供台視最新的綜藝、專題、節目預告及新聞影音，並有數個完整影音節目，供網友選擇收看。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 48,
+   "image": "https://www.ttv.com.tw/group/15/images/TOUCHTTV.png",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://taronews.tw/2026/10/28/1210787/": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T00:00+08:00",
+   "site_name": "芋傳媒 TaroNews",
+   "description": "台北市長蔣萬安今天晚間出席天母三玉宮活動，與民眾敬酒、互動，盼爭取支持。競辦稍早表示，蔣萬安結束行程後稍感不適，考量身體狀況及辯論準備，將取消預排行程。蔣萬安晚間出席士林區天母三玉宮活動，到場後先在三玉宮主委莊千鑫等人陪同下參拜，接著向現場民眾致詞，談及爭取輝達落腳台北、捷運北環段動工、天母運動公園地下停車場等政績，盼",
+   "cities": {
+    "台北市": 7,
+    "基隆市": 1
+   },
+   "districts": [],
+   "body_chars": 905,
+   "image": "https://cdn.taronews.tw/files/2026/10/20261028PHO0214l-1024x683.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261028701858": {
+   "checked_at": "2026-10-29T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T17:08+08:00",
+   "site_name": "蕃新聞",
+   "description": "【互傳媒／記者 張學宜／台中 報導】台中市政府第二波物調券將於10月30日登場，全市商圈共369家店",
+   "cities": {
+    "台中市": 8
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1409,
+   "image": "https://ni.yam.com/20261028/1455a7dba6ba331895a752bcd84a19b9-75b9c6ae2789b53b.webp",
    "image_checked": true,
    "date_hint": "2026-10-28",
    "date_hint_from": "原文時間"
