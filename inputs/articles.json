@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:58:06+08:00",
+ "fetched_at": "2026-10-28T16:50:49+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -9917,6 +9917,404 @@
    "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/27164921/hualien-cover-261027084917590.jpeg",
    "image_checked": true,
    "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://life.tw/article/永樂商圈工安意外頻傳惹民怨-縣議員揭5大缺失-3188748": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": "error",
+   "error": "'ascii' codec can't encode characters in position 13-25: ordinal not in range(128)"
+  },
+  "https://n.yam.com/Article/20261028155767": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T15:44+08:00",
+   "site_name": "蕃新聞",
+   "description": "2026高雄鹹酥雞嘉年華兩日吸客逾12萬 人氣買氣大爆棚 「起家雞 韓式炸雞」勇奪最佳人氣王 百貨",
+   "cities": {
+    "高雄市": 33
+   },
+   "districts": [
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 2078,
+   "image": "https://ni.yam.com/20261028/2-2-95e2e22839c5c31c.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261028693409": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T15:43+08:00",
+   "site_name": "蕃新聞",
+   "description": "波新聞-辜愷頡/嘉義嘉義縣鹿草風華特色文化商圈發展協會於115年10月25日連續假期期間，在故宮南院",
+   "cities": {
+    "嘉義縣": 13,
+    "台北市": 3
+   },
+   "districts": [
+    "鹿草風華商圈（嘉義縣）"
+   ],
+   "body_chars": 902,
+   "image": "https://ni.yam.com/20261028/20261028154306-941d115e4983fa2c.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5621605": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T16:30+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台中市第二波物調券「100元換200元」10月30日到11月1日發放，使用期限7天，全市商圈共369家店家響應，推出服飾、美食、伴手禮及生活用品等多元優惠，結合折扣、買一送一、滿額贈及消費加碼等活動，天津商圈推出全商圈8折及限量驚喜福袋，自由路商圈則祭出全商圈9折等，帶動商圈買氣。經發局說，這次物調券商圈優惠最大亮點，",
+   "cities": {
+    "台中市": 7
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1172,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/28/5621605_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261028415075": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T15:55+08:00",
+   "site_name": "蕃新聞",
+   "description": "圖/「2026高雄鹹酥雞嘉年華」由專業評審團及全民票選出年度「最佳人氣獎」——「起家雞韓式炸雞」及卓",
+   "cities": {
+    "高雄市": 29,
+    "台北市": 1
+   },
+   "districts": [
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 1800,
+   "image": "https://ni.yam.com/20261028/2-7-1500x1044-e0b064e9c09de1c3.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261028173933": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T14:53+08:00",
+   "site_name": "蕃新聞",
+   "description": "波新聞─李至文／高雄高雄市政府觀光局主辦的第六屆「2026高雄鹹酥雞嘉年華」魅力席捲海內外！10月2",
+   "cities": {
+    "高雄市": 35
+   },
+   "districts": [
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 2032,
+   "image": "https://ni.yam.com/20261028/20261028145359-bd3ed6d806b426eb.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://more-news.tw/753607/": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T16:08+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "台中市政府第二波物調券將於10月30日登場，全市商圈共369家店家響應，推出服飾、美食、伴手禮及生活用品等多元 […]",
+   "cities": {
+    "台中市": 5,
+    "嘉義市": 2
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1184,
+   "image": "https://more-news.tw/more-news-media/2026/10/1-362.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/2026%E5%A4%A7%E9%81%B8-%E6%8A%95%E7%A5%A8%E5%80%92%E6%95%B81%E5%80%8B%E6%9C%88%E6%B2%88%E4%BC%AF%E6%B4%8B%E5%B0%87%E6%8C%81%E7%BA%8C%E8%AB%87%E6%94%BF%E8%A6%8B-%E6%8F%90%E5%87%BA2%E6%A7%8B%E6%83%B3%E6%B0%B8%E7%BA%8C%E6%B4%BB%E7%B5%A1%E9%A6%96%E9%83%BD%E5%95%86%E5%9C%88-072551531.html": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T15:25+08:00",
+   "site_name": "Yahoo News",
+   "description": "2026大選進入衝刺階段，針對台北市商圈發展遭遇瓶頸，民進黨台北市長候選人沈伯洋",
+   "cities": {
+    "台北市": 30,
+    "新北市": 5,
+    "嘉義市": 4,
+    "彰化縣": 2,
+    "宜蘭縣": 2
+   },
+   "districts": [
+    "永樂商圈（台北市）",
+    "赤峰街商圈（台北市）",
+    "永樂商圈（彰化縣）"
+   ],
+   "body_chars": 4000,
+   "image": "https://s.yimg.com/lo/mysterio/api/ebb20f77bb2553ba3b4790996c7a768395cba074e422fdfbb4b7d56e11d6ad9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fcmmedia.com.tw%2F86d680afecbad87770d7ec3aed8107b7.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%AC%AC%E4%BA%8C%E6%B3%A2%E7%89%A9%E8%AA%BF%E5%88%B8-369%E5%AE%B6%E5%95%86%E5%9C%88%E5%BA%97%E5%AE%B6%E9%9F%BF%E6%87%89-063436271.html": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T14:34+08:00",
+   "site_name": "Yahoo News",
+   "description": "台中市政府第二波物調券將於10月30日登場，全市商圈共369家店家響應，推出服飾、美食、伴手禮及生活用品等多元優惠，結合折扣、買一送一、滿額贈及消費加碼等活動，讓民眾享受「100元換200元」的加倍優惠。其中，天津商圈搭配「搞怪狂購節」推出全商圈8折及限量驚喜福袋，自由路商圈則祭出全商圈9折、個別店家再加碼贈禮。市府經",
+   "cities": {
+    "台中市": 9,
+    "台北市": 8,
+    "桃園市": 1,
+    "高雄市": 1
+   },
+   "districts": [
+    "自由路商圈（台中市）"
+   ],
+   "body_chars": 3260,
+   "image": "https://s.yimg.com/lo/mysterio/api/4ded1858afdf373b5c6ecffc200f56aa3ebe907ed291d0d391e8099ee7a78615/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Ftssdnews.com.tw%2F91cd86212751f6ca9c8eec7edd3d7a98.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.housefun.com.tw/news/article/132529490402.html": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.cna.com.tw/postwrite/chi/448211": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T04:14+08:00",
+   "site_name": null,
+   "description": "崑山科技大學積極落實大學社會責任（USR），深耕在地產業與環境永續發揮影響力， 10月24日至25日在海安商圈隆重舉辦「第5屆綠色永續市集」，現場特別號召30個優質攤位響應，開幕式於24日下午舉行，並由產官學研界貴賓與全體參展攤商共同簽署「綠色永續倡議書」，展現大學串聯商圈攜手邁向綠色轉型的堅定決心。",
+   "cities": {
+    "台南市": 4
+   },
+   "districts": [
+    "海安商圈（台南市）"
+   ],
+   "body_chars": 2298,
+   "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261028/00448211.202610281272560176M.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/oqpjzMN": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T14:38+08:00",
+   "site_name": "LINE TODAY",
+   "description": "台中市政府第二波物調券定10月30日登場，全市商圈共369家店家響應，推出服飾、美食、伴手禮及生活用品等多元優惠，結合折扣、買一送一、滿額贈...",
+   "cities": {
+    "台中市": 5
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1138,
+   "image": "https://today-obs.line-scdn.net/0hrEsym5-9LWpOADHs2qNSPXZWIRt9ZjdjbGAyC2NXJFwzLGw7dzJ-CTwIckYwNDppbjVmDj9XdFgzMDo8Jg/w1200",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E6%92%AC%E5%A8%83%E6%A9%9F%E9%8E%96%E9%A0%AD%E8%A1%8C%E7%AB%8A-%E8%B3%8A%E6%AC%B2%E8%A5%B2%E8%AD%A6%E9%81%AD%E5%99%B4%E8%BE%A3%E6%A4%92%E6%B0%B4-newsebc/vi-AA2gdWDK": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.ltn.com.tw/news/Taichung/breakingnews/5621605": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T16:30+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台中市第二波物調券「100元換200元」10月30日到11月1日發放，使用期限7天，全市商圈共369家店家響應，推出服飾、美食、伴手禮及生活用品等多元優惠，結合折扣、買一送一、滿額贈及消費加碼等活動，天津商圈推出全商圈8折及限量驚喜福袋，自由路商圈則祭出全商圈9折等，帶動商圈買氣。經發局說，這次物調券商圈優惠最大亮點，",
+   "cities": {
+    "台中市": 8
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1172,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/28/5621605_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.yesmedia.com.tw/%E6%A1%83%E5%9C%92%E9%BE%8D%E6%BD%AD%E5%A4%A7%E6%B1%A0%E5%91%A8%E9%82%8A%E5%B0%8F%E5%90%83%E6%8E%80%E5%89%B5%E6%96%B0%E9%A2%A8%EF%BC%81%E6%BA%AB%E6%BD%A4%E8%97%A5%E9%A6%99%E9%B5%9D%E8%82%89%E7%B5%90/": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T13:50+08:00",
+   "site_name": "是新聞 YesMedia | 網路原生即時新聞",
+   "description": "生活中心／綜合報導 假日造訪桃園知名景點「龍潭大池」，在享受湖畔風光、踩船遊湖或漫步吊橋休憩後，順道走訪周邊街",
+   "cities": {
+    "桃園市": 6,
+    "花蓮縣": 5
+   },
+   "districts": [],
+   "body_chars": 1153,
+   "image": "https://cdn.yesmedia.com.tw/wp-content/uploads/2026/10/20261028135024_58.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/Kw7PZKN": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 駕車進東海商圈擦撞機車　警查越籍男「逾期居留」",
+   "cities": {},
+   "districts": [],
+   "body_chars": 117,
+   "image": "https://today-obs.line-scdn.net/0hB1jMJ_5cHR5XNAGmczhiSW9iEW9kUgcXdVZUenUxE3xzGA0dPgVOfXQyFjJyVl5LdwYBfiE9RycpAAhNPw/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.biao-news.com/news_view.php?new_sn=147468&new_csn=2713": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "【彪網媒】追求專業、公正，深耕在地，匯流政府與民間資訊，反應輿情、開創自由表達與理性回饋的優質園地",
+   "cities": {
+    "台南市": 23
+   },
+   "districts": [
+    "海安商圈（台南市）",
+    "北門商圈（台南市）",
+    "關子嶺商圈（台南市）"
+   ],
+   "body_chars": 1398,
+   "image": "https://uploads.posu.tw/15/1597/b2026102712410180.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.storm.mg/lifestyle/11175375": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T15:00+08:00",
+   "site_name": null,
+   "description": "台南擁有豐富的歷史文化古蹟，以及數不盡的在地特色小吃，一直以來都是國人旅遊與外國觀光客的熱門首選。根據交通部觀光署最新公布的觀光遊憩據點統計，2026年1至8月台南造訪人次前三名依序為「國華友愛商圈」、「正統鹿耳門聖母廟」以及「海安商圈」，其中穩居冠軍寶座的國華友愛商圈，前8個月累積人次更突破驚人的2167萬人次，展現",
+   "cities": {
+    "台南市": 18,
+    "台北市": 2
+   },
+   "districts": [
+    "海安商圈（台南市）",
+    "國華友愛新商圈（台南市）"
+   ],
+   "body_chars": 2157,
+   "image": "https://images.storm.mg/cloud/71649b7763ca948b9f74bbd4737c04b930ff5720.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2154602%2FLbGzAaxuDvCLvDCTgpIZupdCX7nIk1GpiAuVL0FH.png&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://more-news.tw/753568/": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T15:57+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "圖/「2026高雄鹹酥雞嘉年華」由專業評審團及全民票選出年度「最佳人氣獎」——「起家雞韓式炸雞」及卓越風味獎、 […]",
+   "cities": {
+    "高雄市": 29,
+    "嘉義市": 2,
+    "桃園市": 1,
+    "台東縣": 1
+   },
+   "districts": [
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 1952,
+   "image": "https://news.586.com.tw/wp-content/uploads/2026/10/%E5%9C%962-7-1500x1044.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.moneyweekly.com.tw/Home/ChangePage/Article/258523/?Type=3&Line=Home_ArticleSet_103&Page=FCE914305A6531AB6432D7582FBD3210ED807EA1EE4F0EF46B3AD8D7E7A5E9BC32044E43358EF7BE3FFE2B65D95AA3586B10D937329E59C7ED705BACED8B4A93BD912BF951D1FBBCD80C0A736A30F986A1455562434D657A85A3E1709B59167E9BEE9B2534086EF8A781C32F1CBAE04CF19894B679F6BB51E0E34B8F7CFFFA1935C3C3069929CC869A6FCA704A6D9FB49E78732031C69F0E6568FD7D4C80DC1941F6466E328CB716E62574917F192FF45A110A4055FE7CD327CE9EB28232E2FF25A53B08331C87126E4C01C94D921A61606036C35CBD5DD4": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T00:00+08:00",
+   "site_name": "理財周刊",
+   "description": null,
+   "cities": {
+    "台中市": 6
+   },
+   "districts": [],
+   "body_chars": 1287,
+   "image": "https://www.moneyweekly.com.tw/Photo/Article/%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%A5%BD%E5%99%81_m2.png",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mirrordaily.news/story/94325": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T16:17+08:00",
+   "site_name": "鏡報",
+   "description": "情歌天后梁文音日前受邀出席「花蓮韓流原聲演唱會」，活動因颱風延至週一登場，卻意外引發一連串後台驚魂。",
+   "cities": {
+    "花蓮縣": 1
+   },
+   "districts": [],
+   "body_chars": 284,
+   "image": "https://statics-prod.mirrordaily.news/images/5b1a3843-d110-4bb2-bd50-79035018bd0b.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.nownews.com/news/6887260": {
+   "checked_at": "2026-10-28T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T14:42+08:00",
+   "site_name": "NOWnews今日新聞",
+   "description": "台中今年前8個月最受歡迎的景點出爐，公益路商圈以超過2309萬人次拿下第一，人氣大幅領先一中商圈約864萬人次。公益路沿線餐廳密集，從燒肉、火鍋到日式與義式料理都能...",
+   "cities": {
+    "台中市": 4,
+    "高雄市": 1,
+    "嘉義": 1
+   },
+   "districts": [
+    "一中街商圈（台中市）"
+   ],
+   "body_chars": 825,
+   "image": "https://media.nownews.com/nn_media/thumbnail/2025/06/1748776856810-d191e9d5f901446f81eb596c9f84ea3c-1200x697.webp?unShow=false",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
    "date_hint_from": "原文時間"
   }
  }
