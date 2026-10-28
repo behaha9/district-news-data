@@ -197,6 +197,232 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-10-28T12:20:54+08:00",
+   "added": 5,
+   "merged": 2,
+   "items": [
+    {
+     "id": "20261021-tianmu-halloween-postponed",
+     "title": "天母萬聖節活動「天母搞什麼鬼18」因颱風延期，改週日遊行、下週一園遊會",
+     "summary": "受薔琵颱風影響，天母商圈年度萬聖節活動延期，遊行改至週日（10/25）、園遊會與討糖改至下週一（10/26）。",
+     "category": "活動與街區",
+     "alert": "活動異動",
+     "published_at": "2026-10-27T20:04:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "天母商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261027916839",
+       "published_at": "2026-10-27T20:04:00+08:00"
+      },
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/752223/",
+       "published_at": "2026-10-26T23:19:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://www.nownews.com/news/6886016",
+       "published_at": "2026-10-24T05:55:00+08:00"
+      },
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/life/breakingnews/5615082",
+       "published_at": "2026-10-22T16:04:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://nownews.com/news/6885475",
+       "published_at": "2026-10-22T12:12:00+08:00"
+      },
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://www.ettoday.net/news/20261021/3258340.htm",
+       "published_at": "2026-10-21T12:06:00+08:00"
+      },
+      {
+       "outlet": "鏡週刊",
+       "url": "https://www.mirrormedia.mg/story/20261020hea03",
+       "published_at": "2026-10-21T10:30:00+08:00"
+      },
+      {
+       "outlet": "蘋果仁",
+       "url": "https://applealmond.com/posts/329501",
+       "published_at": "2026-10-21T00:00:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://www.nownews.com/news/6884781",
+       "published_at": "2026-10-19T18:04:00+08:00"
+      }
+     ],
+     "admin_note": "天母商圈為115年補助名單，活動延期可能涉及執行期程或計畫變更。",
+     "image": "https://ni.yam.com/20261027/taipei-cover-261027070910421-f7117e623fc719de.webp"
+    },
+    {
+     "id": "20261020-skm-tianmu-stays",
+     "title": "新光三越天母店續留受關注，朝商圈共榮方向前進",
+     "summary": "新光三越天母店後續營運受到關注，報導指出將朝與周邊商圈共榮的方向發展。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-10-21T04:10:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "天母商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "中時新聞網",
+       "url": "https://www.chinatimes.com/newspapers/20261021000312-260210",
+       "published_at": "2026-10-21T04:10:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261021423424",
+       "published_at": "2026-10-21T03:25:00+08:00"
+      },
+      {
+       "outlet": "中央社",
+       "url": "https://www.cna.com.tw/news/afe/202610200184.aspx",
+       "published_at": "2026-10-20T16:36:00+08:00"
+      }
+     ],
+     "admin_note": "天母商圈為115年補助名單，主力百貨動向可能影響商圈人潮與活動成效。",
+     "image": "https://images.chinatimes.com/newsphoto/2026-10-21/CLIPPING/656/A15A00_T_03_02.jpg"
+    },
+    {
+     "id": "20261028-taichung-wudiaoquan-districts",
+     "title": "台中第二波物調券369家商圈店家響應，天津商圈8折、自由路商圈9折",
+     "summary": "臺中市政府公告第二波物調券有369家商圈店家響應，天津商圈、自由路商圈等提供折扣加碼優惠。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-10-28T00:00:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "自由路商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "臺中市環保局",
+       "url": "https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26104",
+       "published_at": "2026-10-28T00:00:00+08:00"
+      }
+     ],
+     "admin_note": "自由路商圈為115年補助名單，參與物調券優惠可能與商圈消費活絡成效有關。"
+    },
+    {
+     "id": "20261028-old-street-ranking",
+     "title": "觀光署統計：鹿港老街及周邊居全台人氣老街榜首",
+     "summary": "交通部觀光署公布今年1至8月統計，彰化鹿港老街及周邊地區奪下全台人氣老街第一。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-10-28T11:30:00+08:00",
+     "cities": [
+      "彰化縣"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "風傳媒",
+       "url": "https://www.storm.mg/lifestyle/11175949",
+       "published_at": "2026-10-28T11:30:00+08:00"
+      }
+     ],
+     "image": "https://images.storm.mg/cloud/09e22e70abb1fcdb87955cb5fffe5163d85dbc4d.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2158708%2F8loGCdRW9Ow3ugF67LfzV9520Sv5yfj498xjv82n.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
+    },
+    {
+     "id": "20261027-marieclaire-zhongshan-popup",
+     "title": "韓國內衣品牌Verish進駐台北中山商圈快閃",
+     "summary": "韓國品牌Verish在台北中山商圈推出秋冬服飾與內衣快閃店，並提供限定優惠。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-10-27T18:31:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "中山商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "Marie Claire 美麗佳人",
+       "url": "https://www.marieclaire.com.tw/fashion/news/96754",
+       "published_at": "2026-10-27T18:31:00+08:00"
+      }
+     ],
+     "image": "https://ia.marieclaire.com.tw/assets/mc/202610/6AE08519BFD991793099033.jpeg"
+    },
+    {
+     "id": "20261027-donghai-hk-food",
+     "title": "台中東海商圈平價港式小吃店介紹",
+     "summary": "報導介紹台中西屯東海商圈一家供應現蒸腸粉、河粉與生滾粥的港式小吃店。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-10-27T16:54:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "東海商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "是新聞",
+       "url": "https://www.yesmedia.com.tw/%E8%97%8F%E8%BA%AB%E6%9D%B1%E6%B5%B7%E5%95%86%E5%9C%88%E7%9A%84%E5%B9%B3%E5%83%B9%E6%B8%AF%E5%BC%8F%E7%BE%8E%E9%A3%9F-%E7%8F%BE%E8%92%B8%E7%9F%B3%E7%A3%A8%E8%85%B8%E7%B2%89%E3%80%81%E6%B2%B3/",
+       "published_at": "2026-10-27T16:54:00+08:00"
+      }
+     ],
+     "image": "https://cdn.yesmedia.com.tw/wp-content/uploads/2026/10/20261027194025_96.jpeg"
+    },
+    {
+     "id": "20261027-daxi-tofu-festival",
+     "title": "2026大溪豆干旅遊節登場，三大遊程帶遊客慢遊老街",
+     "summary": "桃園2026大溪豆干旅遊節推出三大主題遊程、集章活動與豆宴，帶旅客走訪大溪老街與木藝工坊。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-27T19:54:00+08:00",
+     "cities": [
+      "桃園市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "ShareLife 台灣旅行趣",
+       "url": "https://taiwan.sharelife.tw/article_aid-41178.html",
+       "published_at": "2026-10-27T19:54:00+08:00"
+      }
+     ],
+     "image": "https://taiwan.sharelife.tw/tw-news-img/352215/6c65241026424316.jpg?115427"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
