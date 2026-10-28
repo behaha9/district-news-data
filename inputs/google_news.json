@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-10-28T12:17:09+08:00",
+ "fetched_at": "2026-10-28T13:57:58+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 120,
-  "kept": 57,
-  "resolved": 57,
-  "items": 54,
+  "raw": 124,
+  "kept": 61,
+  "resolved": 61,
+  "items": 58,
   "resolve_this_run": {
-   "online": 14
+   "online": 8
   },
   "dropped_old": [
    "高雄三多商圈沒落　店家爆出走潮！他精闢分析主因（原文日期 2018-07-08）",
@@ -17,6 +17,66 @@
   ]
  },
  "items": [
+  {
+   "title": "台中庶民小吃掀「澎湃系」風潮！南屯手工麵線集結四寶與干貝 從捷運生活圈紅到北區商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fVlAxNDhRUXNNYlJ1UFhCODFFNEh0TUp6ek1xMUx3b2RvYzlsY25GQXUxeXBiUnZ4UU1LRTI2cmJ2bXBaUmZSQlVPSXcwQ1FfdVZyYjlUVUpTd1F1WU5TeFVWVkt3YzRJa3RKeXY0SQ?oc=5",
+   "source": "理財周刊",
+   "source_site": "https://www.moneyweekly.com.tw",
+   "published_at": "2026-10-28T13:42+08:00",
+   "query": "商圈",
+   "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/258523",
+   "resolved": true
+  },
+  {
+   "title": "桃園龍潭大池周邊小吃掀創新風！溫潤藥香鵝肉結合花蓮玉里麵 從觀光街區紅到中壢商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHZTZMR1JkT2hMMzVXRnJPN0VncjA1Y0plRnJLaHRYVU1Bc2podVYtYl8zM2szUXBicEVkSFUxNVFPTkN4cHZ0UDBoMjNnSmNISGdudkl0d0xXTkhHM1dKN1M2LVEzNEU2bWRyc0JNWQ?oc=5",
+   "source": "理財周刊",
+   "source_site": "https://www.moneyweekly.com.tw",
+   "published_at": "2026-10-28T13:40+08:00",
+   "query": "商圈",
+   "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/258522",
+   "resolved": true
+  },
+  {
+   "title": "台中物調券第2波10/30登場！369家店家響應 天津商圈8折、自由路9折",
+   "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rY21teUdmVWdLcU52Qzh6eDVKcXRYU05fOHQ3RVZUTDd4bldtdjF0SC1oU2kwUEUybl9YRExxek9VUm9KOHlGU3paTEhpdjNSeERaVzkwMWFyVFh6UGxyUnRncw?oc=5",
+   "source": "新華報導",
+   "source_site": "https://ccss3172.blogspot.com",
+   "published_at": "2026-10-28T12:59+08:00",
+   "query": "商圈",
+   "url": "https://ccss3172.blogspot.com/2026/10/2103036989.html",
+   "resolved": true
+  },
+  {
+   "title": "一中商圈娃娃機台遭破壞 嫌犯持老虎鉗企圖襲警遭壓制",
+   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSRldOWHlZejlUa3pDbEIyY2c4SzlyU3otV0Fpbkt0WnpZRVhPM19wUGtZaUt3VlVJckhNSTk5dUFVQTR4aG5HemMyWTRtejh5RERqYVFOcjIySUdsb1dqRw?oc=5",
+   "source": "民視新聞網",
+   "source_site": "https://www.ftvnews.com.tw",
+   "published_at": "2026-10-28T12:55+08:00",
+   "query": "商圈",
+   "url": "https://www.ftvnews.com.tw/news/detail/2026A28C06M1",
+   "resolved": true
+  },
+  {
+   "title": "一中商圈輸了！公益路商圈衝上台中最強景點 狂吸2309萬人",
+   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42TUhBWFVkQ054eEtzRnEyZ0pxMFVwN3FmamNEaURVVUVtSy0tYlhmYmUtQ2cwekpRNzBGd0pIWHNxbWdlekpPMHN2UGl4Zw?oc=5",
+   "source": "TVBS新聞網",
+   "source_site": "https://news.tvbs.com.tw",
+   "published_at": "2026-10-28T12:35+08:00",
+   "query": "商圈",
+   "url": "https://news.tvbs.com.tw/life/4042412",
+   "resolved": true
+  },
+  {
+   "title": "「公益路商圈」奪冠8個月逾2309萬人次台中吃逛亮點一次看",
+   "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2JIQVhqT3Nnd05SMkgwbjY0dzNYU2Y3RGNRZU8yMHZmeWwyejZMeTcyMGJVTlE0djBIR2pwTWhZMXUzbzZqekU2QkpxckRUSjAwR2hhMHBocGFQbExKajhvMkIwOUJIZVhnaG5zcWFGbVotQkItNndKbHB3R2xXV2dTcmVJRVlJRGFxWUJHcw?oc=5",
+   "source": "TEEPR 亮新聞",
+   "source_site": "https://www.teepr.com",
+   "published_at": "2026-10-28T12:23+08:00",
+   "query": "商圈",
+   "url": "https://www.teepr.com/1951479/edwardliu/%E5%85%AC%E7%9B%8A%E8%B7%AF%E5%95%86%E5%9C%88/",
+   "resolved": true
+  },
   {
    "title": "一張地圖走讀桃園雙城 串聯老街、古蹟與商場 開啟城市漫遊新體驗",
    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aWG1kTTZBUWFkUDhfMldhaFBIRmdYS2FtZXdxTmtXaS0wZGt3QllfOWZMaWxpRWNxYkhJZzA4SUlPQmVwNkgxOXpHMW9TQUs0dXd2SXQ0MmUyc28t0gFiQVVfeXFMTU1wN2lzOTRxRU1jY0lkTW5nRWwtQ2tfZUdPeGdaOVFVN2htRTZlVjVlNFh6ZlBFa3pfTGttRXhQQU9TLXl5T29BUmVnRy1Fal8tbmVrR3dGSUp5ckl1NDFJZWc?oc=5",
@@ -48,13 +108,13 @@
    "resolved": true
   },
   {
-   "title": "馬路的事 - 水管維修：亞皆老街去大角咀(11:23清理)",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3dEFXVHBHYWZZaGQ2TEQ3VkxLLXExM2NPUTJlSlhXUjNqX3RsVFZ2N2Ztbktaa1Rob1BtR3FFWTVIeWRIZkhuV3JkLTRvbUQyYUhnTWZB?oc=5",
-   "source": "www.881903.com",
+   "title": "水管維修：亞皆老街去大角咀(11:23清理)",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Rd1NuVG9ieHUwWmM3cGhKcGZBQ1ZsZHZVbDlKalFwMDJsUmhKb2lfSVJ2ZHFLTEhCaG1aRDFwWGpnaXhTeWxtMXNIZXVBV05rUmhFemlR0gFbQVVfeXFMTUFYYnpxVTRVM2xrWnR1WkpGVDhMTlRkZ2dHX1J3Q0JhdGhta1owd24weVNhSkthMURqUTdTNnM1MGloclJtbVVGU2wtRzJjeHpuZVJiNVRmMU9vVQ?oc=5",
+   "source": "商業電台",
    "source_site": "https://www.881903.com",
    "published_at": "2026-10-28T11:23+08:00",
    "query": "老街",
-   "url": "https://www.881903.com/traffic/info/2656819",
+   "url": "https://www.881903.com/news/traffic/2656819",
    "resolved": true
   },
   {
@@ -78,7 +138,7 @@
    "resolved": true
   },
   {
-   "title": "一中商圈竊賊慘淪「在地蜥蜴」！他連偷2店還掏老虎鉗拒捕 下秒慘被辣椒水噴爛",
+   "title": "一中商圈賊「警察到場還在撬機台」 掏老虎鉗拒捕下秒遭辣椒水噴爛",
    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZm4wY0kxUkJhVmhRbmZlVzUzUEV6UFU5aUI5WWt5MlY0WVp2a2s0bUhTQ3dycVUzT3BYREFrbnlfN0JwVmk3R3BPQTR3bmxLMVE?oc=5",
    "source": "鏡報",
    "source_site": "https://www.mirrordaily.news",
@@ -89,12 +149,12 @@
   },
   {
    "title": "一中商圈娃娃機竊賊太囂張！掏老虎鉗欲攻擊警員 下秒遭辣椒水制伏",
-   "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yZTBDc09PR3dDLTdKQzdLVnhGcVR6QnRYempYRmxuRHJUaGV4d2w3X0ZXM0t1QXg0V1p1REtINXpOeURmaS1GdUJCSTZfQzFUbUdqUk91bmxrVVNiNVVJaDA0WWpVNE1ZY3MwLXZBTdIBb0FVX3lxTE0yZTBDc09PR3dDLTdKQzdLVnhGcVR6QnRYempYRmxuRHJUaGV4d2w3X0ZXM0t1QXg0V1p1REtINXpOeURmaS1GdUJCSTZfQzFUbUdqUk91bmxrVVNiNVVJaDA0WWpVNE1ZY3MwLXZBTQ?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TV05SN1ExeGtDQUhQSkNtWTFhdmt6Zi1Sa29uTnNSbUZhMW1oQkVZMnB4Nm9wTnl5STBzamV1cl9NX0VPVXVoYmRwVzR2dXNfaUJkQ2wxTzFlNC1TTlM1NmNoVUdhaTUxZ1VSTm5R0gFuQVVfeXFMTVNXTlI3UTF4a0NBSFBKQ21ZMWF2a3pmLVJrb25Oc1JtRmExbWhCRVkycHg2b3BOeXlJMHNqZXVyX01fRU9VdWhiZHBXNHZ1c19pQmRDbDFPMWU0LVNOUzU2Y2hVR2FpNTFnVVJOblE?oc=5",
    "source": "自由時報",
    "source_site": "https://news.ltn.com.tw",
    "published_at": "2026-10-28T10:07+08:00",
    "query": "商圈",
-   "url": "https://news.ltn.com.tw/amp/news/Taichung/breakingnews/5621013",
+   "url": "https://news.ltn.com.tw/amp/news/society/breakingnews/5621013",
    "resolved": true
   },
   {
@@ -115,16 +175,6 @@
    "published_at": "2026-10-28T10:00+08:00",
    "query": "商圈",
    "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%95%86%E5%9C%88%E8%BC%B8%E4%BA%86-%E5%85%AC%E7%9B%8A%E8%B7%AF%E5%95%86%E5%9C%88%E7%99%BB%E5%8F%B0%E4%B8%AD%E6%9C%80%E5%BC%B7%E6%99%AF%E9%BB%9E-%E7%8B%82%E5%90%B82309%E8%90%AC%E4%BA%BA-015532702.html",
-   "resolved": true
-  },
-  {
-   "title": "尷尬！蔣萬安現身內湖737商圈掃街　「遭攤販嫌太吵」拒絕握手",
-   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MDRjOVh4VWtLNFJLUHlFYm9Ra3FmcjhwSWljT3E2aEZnU2hXTUZFOVMzUVFQOXVqdXF5OWVHZTFMOWlGUERJb1lJaGRTdjBrUDNYV0VkWVI0a29XNEHSAV5BVV95cUxNODA0YzlYeFVrSzRSS1B5RWJvUWtxZnI4cElpY09xNmhGZ1NoV01GRTlTM1FRUDl1anVxeTllR2UxTDlpRlBESW9ZSWhkU3Ywa1AzWFdFZFlSNGtvVzRB?oc=5",
-   "source": "鏡新聞",
-   "source_site": "https://www.mnews.tw",
-   "published_at": "2026-10-28T09:05+08:00",
-   "query": "商圈",
-   "url": "https://www.mnews.tw/story/amp/20261028sot0905002",
    "resolved": true
   },
   {
@@ -473,7 +523,7 @@
    "source": "CMoney",
    "source_site": "https://www.cmoney.tw",
    "published_at": "2026-10-26T18:27+08:00",
-   "query": "商圈",
+   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
    "url": "https://www.cmoney.tw/forum/article/186753253",
    "resolved": true
   },
@@ -545,16 +595,6 @@
    "published_at": "2026-10-26T14:10+08:00",
    "query": "老街",
    "url": "https://today.line.me/tw/v3/posts/list/article/pepzR8a",
-   "resolved": true
-  },
-  {
-   "title": "逛台北永康商圈10歲女童突失蹤 胞姊急哭報案1小時找到她",
-   "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CSEtZOEVscVVVSXNLLWt0bTExNUJRMUVYMVJJaU1Td1JaNFVxU3Qya0tiUWhFVG53blZNRmpBY184R084bmxpcHcwcHVUa09kdDRfYnhvb3h6OW12Y2d4amdkdHVhMzdL0gFuQVVfeXFMT0gySWVOMU45SU5FTmY1dWUxRkRrelVaSlVSRzZfQVhHQ1FlU3VSbVlxMmtwZWtKcnByMzZPVTFoY1BZMVlGcTFkbzFOaUhfVS1ZbHFESmNsWWlfeVJ3Tml6VzdVb3RMUEp4TnVKUFE?oc=5",
-   "source": "自由時報",
-   "source_site": "https://news.ltn.com.tw",
-   "published_at": "2026-10-26T13:56+08:00",
-   "query": "商圈",
-   "url": "https://news.ltn.com.tw/news/society/breakingnews/5619052",
    "resolved": true
   }
  ]

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T12:17:18+08:00",
+ "fetched_at": "2026-10-28T13:58:06+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -2271,7 +2271,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-10-28T07:17+08:00",
+   "checked_at": "2026-10-28T13:58+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3454,7 +3454,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/travel/thehubnews/20261021/index-79257816474758306009.html": {
-   "checked_at": "2026-10-28T07:17+08:00",
+   "checked_at": "2026-10-28T13:58+08:00",
    "status": 502,
    "error": "HTTP Error 502: Bad Gateway"
   },
@@ -3481,7 +3481,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-10-28T07:17+08:00",
+   "checked_at": "2026-10-28T13:58+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5169,7 +5169,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-10-28T07:17+08:00",
+   "checked_at": "2026-10-28T13:58+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5656,7 +5656,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-10-28T07:17+08:00",
+   "checked_at": "2026-10-28T13:58+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5880,7 +5880,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-10-28T07:17+08:00",
+   "checked_at": "2026-10-28T13:58+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6211,7 +6211,7 @@
    "date_hint_from": "原文時間"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
-   "checked_at": "2026-10-28T07:17+08:00",
+   "checked_at": "2026-10-28T13:58+08:00",
    "status": "error",
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
@@ -6256,7 +6256,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/general/202610/202610203091965.html": {
-   "checked_at": "2026-10-28T07:17+08:00",
+   "checked_at": "2026-10-28T13:58+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6686,7 +6686,7 @@
    "date_hint_from": "原文時間"
   },
   "https://nownews.com/news/6885475": {
-   "checked_at": "2026-10-28T07:17+08:00",
+   "checked_at": "2026-10-28T13:58+08:00",
    "status": "error",
    "error": "<urlopen error timed out>"
   },
@@ -7414,7 +7414,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
-   "checked_at": "2026-10-28T07:17+08:00",
+   "checked_at": "2026-10-28T13:58+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7841,7 +7841,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/public/taipei/20261026/index-79300436041406126016.html": {
-   "checked_at": "2026-10-28T07:17+08:00",
+   "checked_at": "2026-10-28T13:58+08:00",
    "status": 502,
    "error": "HTTP Error 502: Bad Gateway"
   },
@@ -8000,9 +8000,9 @@
    "date_hint_from": null
   },
   "https://news.pchome.com.tw/public/morenews/20261026/index-79302099691556350016.html": {
-   "checked_at": "2026-10-28T07:17+08:00",
-   "status": 502,
-   "error": "HTTP Error 502: Bad Gateway"
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": "error",
+   "error": "The read operation timed out"
   },
   "https://news.pchome.com.tw/public/morenews/20261020/index-79248645618053350016.html": {
    "checked_at": "2026-10-27T16:51+08:00",
@@ -8078,7 +8078,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.housefun.com.tw/news/article/amp/132529490402.html": {
-   "checked_at": "2026-10-28T07:17+08:00",
+   "checked_at": "2026-10-28T13:58+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -8478,9 +8478,23 @@
    "date_hint_from": null
   },
   "https://www.taichung.gov.tw/8868/8872/9962/3400033": {
-   "checked_at": "2026-10-28T07:17+08:00",
-   "status": "error",
-   "error": "The read operation timed out"
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "臺中市政府全球資訊網",
+   "description": "台中購物節開跑2天登錄破5.5億元！首抽前進大里中興商圈　送出全球不限航點機票及iPhone 17",
+   "cities": {
+    "台中市": 20
+   },
+   "districts": [
+    "大里中興商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1641,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   },
   "https://collabo-cafe.com/zh-hant/events/collabo/booska-honobono-shotengai-popup-lumine-est-shinjuku-2026/": {
    "checked_at": "2026-10-27T18:43+08:00",
@@ -9610,6 +9624,299 @@
    "image": "https://cdn2.ettoday.net/images/8947/e8947400.jpg",
    "image_checked": true,
    "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261027630408": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T03:38+08:00",
+   "site_name": "蕃新聞",
+   "description": "LifeNews｜江育銓【記者 江育銓/採訪報導】為推動萬里地方文化傳承、低碳旅遊、長者關懷與商圈發",
+   "cities": {
+    "新北市": 7
+   },
+   "districts": [
+    "萬里商圈（新北市）",
+    "野柳商圈（新北市）"
+   ],
+   "body_chars": 2012,
+   "image": "https://ni.yam.com/20261027/2034832_0-613a2d65a43b9c0b.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://ccss3172.blogspot.com/2026/10/2103036989.html": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T12:59+08:00",
+   "site_name": "Blogger",
+   "description": null,
+   "cities": {
+    "台中市": 4
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 864,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.moneyweekly.com.tw/ArticleData/Info/Article/258522": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T00:00+08:00",
+   "site_name": "理財周刊",
+   "description": null,
+   "cities": {
+    "桃園市": 5,
+    "花蓮縣": 5
+   },
+   "districts": [],
+   "body_chars": 1165,
+   "image": "https://www.moneyweekly.com.tw/Photo/Article/%E9%A1%8D%E9%A1%8D%E9%A1%8D%E9%A1%8D%E9%A1%8D%E9%A1%8D%E8%8A%BF%E8%82%89%E8%82%89_m2.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.moneyweekly.com.tw/ArticleData/Info/Article/258523": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T00:00+08:00",
+   "site_name": "理財周刊",
+   "description": null,
+   "cities": {
+    "台中市": 6
+   },
+   "districts": [],
+   "body_chars": 1287,
+   "image": "https://www.moneyweekly.com.tw/Photo/Article/%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%A5%BD%E5%99%81_m2.png",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ftvnews.com.tw/news/detail/2026A28C06M1": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T12:55+08:00",
+   "site_name": "民視新聞網",
+   "description": "中部中心　　／　許家程　黃信儒　台中報導台中一中商圈，有夾娃娃機店，遭到竊賊闖入，警方抵達現場，發現嫌犯正在破壞機台鎖頭，警方上前喝斥，對方竟然拿出老虎鉗意圖攻擊員警，立刻噴辣椒水並且壓制反擊，將慣竊上銬逮捕。",
+   "cities": {
+    "台中市": 4,
+    "台北市": 1,
+    "新北市": 1,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 760,
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/39ee27ef-bda2-4fc2-9c81-ff0e7756ac93.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/life/4042412": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T12:35+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "「台中公益路商圈」衝上台中最強景點！根據交通部觀光署統計，今年1至8月台中最強景點由「公益路商圈」奪冠，在8個月內就吸引逾2309萬人次造訪，與排名第二的「一中商圈」1445萬人次，領先多達864萬人次。",
+   "cities": {
+    "台中市": 32,
+    "台北市": 6,
+    "新北市": 4,
+    "高雄市": 4,
+    "台南市": 1
+   },
+   "districts": [
+    "逢甲商圈（台中市）",
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 2919,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a180c2-6753-70b7-8d2a-f51d63c375fa.jpg?t=4x3&wp=l,b&c=0,15,400,315&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.881903.com/news/traffic/2656819": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T11:23+08:00",
+   "site_name": "商業電台 881903",
+   "description": "水管維修：亞皆老街去大角咀(11:23清理)【馬路的事交通消息】較早前，受水管維修影響，亞皆老街去大角咀，近嘉齡道的部份行車",
+   "cities": {},
+   "districts": [],
+   "body_chars": 63,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.teepr.com/1951479/edwardliu/%E5%85%AC%E7%9B%8A%E8%B7%AF%E5%95%86%E5%9C%88/": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T12:23+08:00",
+   "site_name": "TEEPR 亮新聞",
+   "description": "台中哪裡最有人氣？據中時新聞網引述觀光署統計，公益路商圈今年前8個月累計逾2309萬人次，領先一中商圈。除了餐廳選擇多，附近還能串聯百貨、綠園道與散步景點，一起看榜單及周邊特色。",
+   "cities": {
+    "台中市": 11
+   },
+   "districts": [
+    "精明一街商圈（台中市）",
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 1112,
+   "image": "https://www.teepr.com/wp-content/uploads/2026/10/1951479-photo1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/amp/news/society/breakingnews/5621013": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T10:07+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台中市一中商圈傳出娃娃機店竊案！27歲賴姓男子昨晚持螺絲起子撬開機台鎖頭偷零錢，遭喝止時竟掏出老虎鉗意圖攻擊員警，當場被噴辣椒水制伏逮捕，警方查出他一晚連偷兩家店，查獲疑似贓款320元及作案工具，詢後依加重竊盜罪嫌移送台中地檢署偵辦。第二分局指出，育才派出所27日晚間7時許接獲民眾報案，指北區育才街有男子拿著工具破壞娃",
+   "cities": {
+    "台中市": 7,
+    "彰化縣": 1
+   },
+   "districts": [],
+   "body_chars": 1119,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/28/5621013_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7325/9842026": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T13:14+08:00",
+   "site_name": "聯合新聞網",
+   "description": "近200年歷史的彰化縣「同安寮十二庄請媽祖」傳出明年將暫停向鹿港天后宮請出聖母，引發關注。同安寮十二庄15間宮廟10月26日開會投票，決議明年僅請新祖宮天上聖母，暫停請出鹿港天后宮聖母。對此，鹿港天后宮主委張偉東表示尊重，同安寮十二庄大總理陳有明則說，當天未出席會議，希望事情還有轉圜餘地。",
+   "cities": {
+    "彰化縣": 4,
+    "台中市": 2,
+    "南投縣": 2
+   },
+   "districts": [],
+   "body_chars": 1374,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/28/35461635.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7320/9841237": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T08:31+08:00",
+   "site_name": "聯合新聞網",
+   "description": "台中市賴姓男子昨晚在一中商圈育才街的一間娃娃機店，持螺絲起子撬開機台鎖頭，竊取零錢，被民眾發現報警。員警到場喝令停止，賴男從褲子口袋掏出老虎鉗，作勢攻擊員警，員警當場噴辣椒水將他制伏逮捕，查獲疑似贓款320元及作案工具。警方調閱監視器發現，賴男當晚已連續破壞兩家店的娃娃機，依加重竊盜罪，移送台中地檢署偵辦。",
+   "cities": {
+    "台中市": 7,
+    "嘉義縣": 3,
+    "新北市": 2,
+    "桃園市": 1,
+    "苗栗縣": 1
+   },
+   "districts": [],
+   "body_chars": 1595,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/28/35460492.png&M=1&s=Y&x=0&y=0&sw=1088&sh=725&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E5%A8%83%E5%A8%83%E6%A9%9F%E5%8F%B0%E9%81%AD%E7%A0%B4%E5%A3%9E-%E5%AB%8C%E7%8A%AF%E6%8C%81%E8%80%81%E8%99%8E%E9%89%97%E4%BC%81%E5%9C%96%E8%A5%B2%E8%AD%A6%E9%81%AD%E5%A3%93%E5%88%B6/ar-AA2gdfBb": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.msn.com/zh-tw/news/other/%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E5%A8%83%E5%A8%83%E6%A9%9F%E5%8F%B0%E9%81%AD%E7%A0%B4%E5%A3%9E-%E5%AB%8C%E7%8A%AF%E6%8C%81%E8%80%81%E8%99%8E%E9%89%97%E4%BC%81%E5%9C%96%E8%A5%B2%E8%AD%A6%E9%81%AD%E5%A3%93%E5%88%B6-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2gdwKY": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.yesmedia.com.tw/%e6%a1%83%e5%9c%92%e9%be%8d%e6%bd%ad%e5%a4%a7%e6%b1%a0%e5%91%a8%e9%82%8a%e5%b0%8f%e5%90%83%e6%8e%80%e5%89%b5%e6%96%b0%e9%a2%a8%ef%bc%81%e6%ba%ab%e6%bd%a4%e8%97%a5%e9%a6%99%e9%b5%9d%e8%82%89%e7%b5%90/": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T13:50+08:00",
+   "site_name": "是新聞 YesMedia | 網路原生即時新聞",
+   "description": "生活中心／綜合報導 假日造訪桃園知名景點「龍潭大池」，在享受湖畔風光、踩船遊湖或漫步吊橋休憩後，順道走訪周邊街",
+   "cities": {
+    "桃園市": 6,
+    "花蓮縣": 5
+   },
+   "districts": [],
+   "body_chars": 1153,
+   "image": "https://cdn.yesmedia.com.tw/wp-content/uploads/2026/10/20261028135024_58.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.videoland.com.tw/article/3d7e43cf-cdae-4795-a93a-6ea250b589f2.html": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T12:07+08:00",
+   "site_name": "緯來新聞網",
+   "description": "台中最強景點竟不是夜市！根據交通部觀光署統計，台中市今年1月至8月觀光人次排名出爐，其中公益路商圈以2309萬6535人次奪下冠軍，超越一中商圈、秋紅谷景觀生態公園及逢甲夜市等知名景點，成為台中觀光人氣焦點。公益路商圈憑藉豐富的餐飲選擇與周...",
+   "cities": {
+    "台中市": 9,
+    "台北市": 1
+   },
+   "districts": [
+    "精明一街商圈（台中市）",
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 1347,
+   "image": "https://news.videoland.com.tw/newsphoto/enews_20261028471_167ACD.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pchome.com.tw/expense/cardu/20261021/index-17925243475099441013.html": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 502,
+   "error": "HTTP Error 502: Bad Gateway"
+  },
+  "https://www.contentplatform.info/articles/550590/%E8%8A%B1%E8%93%AE%E9%9F%93%E6%B5%81%E5%8E%9F%E8%81%B2%E6%BC%94%E5%94%B1%E6%9C%83%E9%A2%B1%E9%A2%A8%E5%BB%B6%E6%9C%9F%E5%BE%8C%E7%99%BB%E5%A0%B4-%E8%B6%85%E9%81%8E4%E8%90%AC%E4%BA%BA%E6%93%A0%E7%88%86/": {
+   "checked_at": "2026-10-28T13:58+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T21:21+08:00",
+   "site_name": null,
+   "description": null,
+   "cities": {
+    "花蓮縣": 7
+   },
+   "districts": [
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 1528,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/27164921/hualien-cover-261027084917590.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
    "date_hint_from": "原文時間"
   }
  }
