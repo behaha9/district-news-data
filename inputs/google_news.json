@@ -1,17 +1,16 @@
 {
- "fetched_at": "2026-10-28T07:17:09+08:00",
+ "fetched_at": "2026-10-28T08:34:41+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 123,
-  "kept": 47,
-  "resolved": 47,
+  "raw": 120,
+  "kept": 46,
+  "resolved": 46,
   "items": 43,
   "resolve_this_run": {
-   "online": 11
+   "online": 1
   },
   "dropped_old": [
-   "高雄三多商圈沒落　店家爆出走潮！他精闢分析主因（原文日期 2018-07-08）",
    "振興北市商圈經濟!沈伯洋永康商圈座談會（原文日期 2026-08-10）",
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
    "烏來好慘！台九甲線道路斷溪水溢堤老街淹| 生活（原文日期 2016-09-27）"
@@ -26,6 +25,16 @@
    "published_at": "2026-10-28T04:10+08:00",
    "query": "老街",
    "url": "https://www.chinatimes.com/newspapers/20261028000596-260107",
+   "resolved": true
+  },
+  {
+   "title": "討論牆 | 台灣「1低調老街」意外被翻！內行人：秘密基地要被塞滿人..",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VNC1FaU1xZFhTbnM3b2ZLNzJBVkcxNVJXRjIwbXBaamtIOGFIVlo3SWZudndJUXFiQUJsV2dMUElVOE9rZ0tmRFhMeTFnR19tREtXel9BemF6OS11NTk3QjdXVS0?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-10-27T23:10+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/Zap6KNP",
    "resolved": true
   },
   {
@@ -166,16 +175,6 @@
    "published_at": "2026-10-27T15:05+08:00",
    "query": "老街",
    "url": "https://sunmedia.tw/news/Industry-information/%E5%BE%9E%E8%80%81%E8%A1%97%E5%8D%80%E6%96%87%E5%8C%96%E5%88%B0%E4%B8%96%E4%BB%A3%E4%BA%A4%E6%B5%81%EF%BC%81%E9%87%8C%E9%95%B7%E5%8F%83%E9%81%B8%E4%BA%BA%E7%9B%A7%E7%B6%A0%E7%B6%A2%E6%8F%90%E5%87%BA%E5%BB%BA%E5%8A%9F%E9%87%8C%E7%A4%BE%E5%8D%80%E6%B4%BB%E5%8B%95%E6%A7%8B%E6%83%B3-%E9%87%8D%E6%96%B0%E5%87%9D%E8%81%9A%E8%A1%97%E5%8D%80%E6%B4%BB%E5%8A%9B-1793084463805",
-   "resolved": true
-  },
-  {
-   "title": "2026大溪豆干旅遊節登場！三大遊程與限定豆宴帶你慢遊老街",
-   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uRzRRZ1R0d0toY1AtZVhuTlFwWDZRaTlvb1pyQ0JBbGJTcGpzWFJfNzZLTld2ZzV5M3JZWUNfVlJ5S2V1ZUMzb181MTlOanlqV1UtbGExTTd2MlBmamRJ?oc=5",
-   "source": "ShareLife 台灣旅行趣",
-   "source_site": "https://taiwan.sharelife.tw",
-   "published_at": "2026-10-27T14:57+08:00",
-   "query": "老街",
-   "url": "https://taiwan.sharelife.tw/article_aid-41178.html",
    "resolved": true
   },
   {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T07:17:17+08:00",
+ "fetched_at": "2026-10-28T08:34:48+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -9179,6 +9179,59 @@
    "districts": [],
    "body_chars": 381,
    "image": "https://www.penghu.gov.tw/ch/images/index/travel.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://n.yam.com/Article/20261027431510": {
+   "checked_at": "2026-10-28T08:34+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T17:56+08:00",
+   "site_name": "蕃新聞",
+   "description": "報新聞/編輯部2026台中購物節開跑第3天，前2天消費登錄金額已突破5億5,581萬元！市府經濟發展",
+   "cities": {
+    "台中市": 12,
+    "台北市": 3
+   },
+   "districts": [
+    "大里中興商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1437,
+   "image": "https://ni.yam.com/20261027/taichung-cover-261027073602674-e5ba422f002e0682.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.contentplatform.info/articles/550309/%E5%8F%B0%E4%B8%AD%E8%B3%BC%E7%89%A9%E7%AF%802%E5%A4%A9%E7%99%BB%E9%8C%84%E7%A0%B45-5%E5%84%84-%E5%A4%A7%E9%87%8C%E9%A6%96%E6%8A%BD%E9%80%81%E5%87%BA%E6%A9%9F%E7%A5%A8%E5%8F%8Aiphone-17/": {
+   "checked_at": "2026-10-28T08:34+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T17:56+08:00",
+   "site_name": null,
+   "description": null,
+   "cities": {
+    "台中市": 10
+   },
+   "districts": [
+    "大里中興商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1346,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/27153605/taichung-cover-261027073602674.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/Zap6KNP": {
+   "checked_at": "2026-10-28T08:34+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 台灣「1低調老街」意外被翻！內行人：秘密基地要被塞滿人..",
+   "cities": {},
+   "districts": [],
+   "body_chars": 123,
+   "image": "https://today-obs.line-scdn.net/0h_WyBOIsoAHhEOxz_LlR_L3xtDAl3XRpxZg5OSmg9Dhs8F0Qoeg9TG2AyX1RgWUYrZF9OHDZsCko5XxIsLA/w1200",
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
