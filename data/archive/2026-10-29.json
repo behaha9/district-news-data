@@ -1,0 +1,223 @@
+{
+ "date": "2026-10-29",
+ "runs": [
+  {
+   "at": "2026-10-29T07:19:02+08:00",
+   "added": 0,
+   "merged": 5,
+   "items": [
+    {
+     "id": "20261028-taichung-wudiaoquan-districts",
+     "title": "台中第二波物調券369家商圈店家響應，天津商圈8折、自由路商圈9折",
+     "summary": "臺中市政府公告第二波物調券有369家商圈店家響應，天津商圈、自由路商圈等提供折扣加碼優惠。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-10-28T20:28:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "自由路商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261028585908",
+       "published_at": "2026-10-28T20:28:00+08:00"
+      },
+      {
+       "outlet": "風傳媒",
+       "url": "https://www.storm.mg/article/11176518",
+       "published_at": "2026-10-28T17:18:00+08:00"
+      },
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5621605",
+       "published_at": "2026-10-28T16:30:00+08:00"
+      },
+      {
+       "outlet": "Yahoo新聞",
+       "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%AC%AC%E4%BA%8C%E6%B3%A2%E7%89%A9%E8%AA%BF%E5%88%B8-369%E5%AE%B6%E5%95%86%E5%9C%88%E5%BA%97%E5%AE%B6%E9%9F%BF%E6%87%89-063436271.html",
+       "published_at": "2026-10-28T14:34:00+08:00"
+      },
+      {
+       "outlet": "臺中市政府",
+       "url": "https://www.taichung.gov.tw/3401276/post",
+       "published_at": "2026-10-28T11:33:00+08:00"
+      },
+      {
+       "outlet": "臺中市環保局",
+       "url": "https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26104",
+       "published_at": "2026-10-28T00:00:00+08:00"
+      }
+     ],
+     "admin_note": "自由路商圈為115年補助名單，參與物調券優惠可能與商圈消費活絡成效有關。",
+     "image": "https://ni.yam.com/20261028/taichung-cover-261028083209523-e1172f17bf422abd.webp"
+    },
+    {
+     "id": "20261027-gongyi-visitors",
+     "title": "觀光署統計：公益路商圈今年1至8月吸引逾2309萬人次，居台中景點之冠",
+     "summary": "報導引述交通部觀光署統計，台中公益路商圈1至8月人次超過2309萬，名列台中最強景點。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-10-28T14:42:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "公益路商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://www.nownews.com/news/6887260",
+       "published_at": "2026-10-28T14:42:00+08:00"
+      },
+      {
+       "outlet": "TVBS新聞網",
+       "url": "https://news.tvbs.com.tw/life/4042412",
+       "published_at": "2026-10-28T12:35:00+08:00"
+      },
+      {
+       "outlet": "TEEPR 亮新聞",
+       "url": "https://www.teepr.com/1951479/edwardliu/%E5%85%AC%E7%9B%8A%E8%B7%AF%E5%95%86%E5%9C%88/",
+       "published_at": "2026-10-28T12:23:00+08:00"
+      },
+      {
+       "outlet": "緯來新聞",
+       "url": "https://news.videoland.com.tw/article/3d7e43cf-cdae-4795-a93a-6ea250b589f2.html",
+       "published_at": "2026-10-28T12:07:00+08:00"
+      },
+      {
+       "outlet": "中時新聞網",
+       "url": "https://www.chinatimes.com/realtimenews/20261027001835-260405",
+       "published_at": "2026-10-27T11:03:00+08:00"
+      }
+     ],
+     "image": "https://media.nownews.com/nn_media/thumbnail/2025/06/1748776856810-d191e9d5f901446f81eb596c9f84ea3c-1200x697.webp?unShow=false"
+    },
+    {
+     "id": "20261028-kaohsiung-crispy-chicken",
+     "title": "高雄鹹酥雞嘉年華兩日吸客逾12萬，報導指百貨與商圈業績成長近五成",
+     "summary": "2026高雄鹹酥雞嘉年華兩日吸客逾12萬人次，報導指周邊百貨、商圈業績成長近五成。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-28T16:00:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [
+      {
+       "name": "三多商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "三多商圈為115年補助名單，報導指商圈業績成長，可留意人潮與營業額成效。",
+     "sources": [
+      {
+       "outlet": "LIFE 生活網",
+       "url": "https://life.tw/article/%E9%AB%98%E9%9B%84%E9%B9%B9%E9%85%A5%E9%9B%9E%E5%98%89%E5%B9%B4%E8%8F%AF%E5%85%A9%E5%A4%A9%E5%90%B8%E5%BC%9512%E8%90%AC%E4%BA%BA-%E7%99%BE%E8%B2%A8-%E5%95%86%E5%9C%88%E6%A5%AD%E7%B8%BE%E6%88%90%E9%95%B7%E8%BF%91%E4%BA%94%E6%88%90-3196144",
+       "published_at": "2026-10-28T16:00:00+08:00"
+      },
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/753568/",
+       "published_at": "2026-10-28T15:57:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261028155767",
+       "published_at": "2026-10-28T15:44:00+08:00"
+      }
+     ],
+     "image": "https://news.586.com.tw/wp-content/uploads/2026/10/%E5%9C%962-7-1500x1044.jpg"
+    },
+    {
+     "id": "20261021-lanya-festival",
+     "title": "蘭雅商圈萬神節藝閣燈車祭10月26日登場",
+     "summary": "台北蘭雅商圈舉辦萬神節活動，藝閣燈車祭訂於10月26日登場，串聯商圈店家推廣節慶氛圍。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-28T15:44:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "蘭雅商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261028545043",
+       "published_at": "2026-10-28T15:44:00+08:00"
+      },
+      {
+       "outlet": "SCOOP",
+       "url": "https://www.scooptw.com/local_news/542842/%e8%98%ad%e9%9b%85%e4%b8%80%e5%91%bc%e7%99%be%e6%87%89%ef%bc%81%e6%84%9f%e5%8f%97%e8%98%ad%e9%9b%85%e5%95%86%e5%9c%88%e7%af%80%e6%85%b6%e9%ad%85%e5%8a%9b-%e8%90%ac%e7%a5%9e%e7%af%80%e8%97%9d/",
+       "published_at": "2026-10-21T18:22:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261021588278",
+       "published_at": "2026-10-21T05:22:00+08:00"
+      },
+      {
+       "outlet": "新頭條新聞",
+       "url": "https://thehubnews.net/archives/677138",
+       "published_at": "2026-10-21T05:22:00+08:00"
+      }
+     ],
+     "admin_note": "蘭雅商圈為115年補助名單，10/26活動適逢颱風前後，可留意是否如期辦理。",
+     "image": "https://ni.yam.com/20261028/2026102812-07ecb522a61bfa16.webp"
+    },
+    {
+     "id": "20261028-chifeng-urs",
+     "title": "沈伯洋針對赤峰商圈房租上漲提「URS 2.0」構想，市民憂特色店家出走",
+     "summary": "台北市長候選人沈伯洋建議市府以長租或購入具歷史紋理的空間，因應赤峰商圈房租上漲與特色店家出走。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-10-28T15:25:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "赤峰街商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "赤峰街商圈為115年補助名單，報導提及房租與店家流失，可留意商圈營運變化。",
+     "sources": [
+      {
+       "outlet": "Yahoo新聞",
+       "url": "https://tw.news.yahoo.com/2026%E5%A4%A7%E9%81%B8-%E6%8A%95%E7%A5%A8%E5%80%92%E6%95%B81%E5%80%8B%E6%9C%88%E6%B2%88%E4%BC%AF%E6%B4%8B%E5%B0%87%E6%8C%81%E7%BA%8C%E8%AB%87%E6%94%BF%E8%A6%8B-%E6%8F%90%E5%87%BA2%E6%A7%8B%E6%83%B3%E6%B0%B8%E7%BA%8C%E6%B4%BB%E7%B5%A1%E9%A6%96%E9%83%BD%E5%95%86%E5%9C%88-072551531.html",
+       "published_at": "2026-10-28T15:25:00+08:00"
+      },
+      {
+       "outlet": "信傳媒",
+       "url": "https://www.cmmedia.com.tw/home/articles/63545",
+       "published_at": "2026-10-28T15:25:00+08:00"
+      },
+      {
+       "outlet": "三立新聞網",
+       "url": "https://www.setn.com/news/1929436",
+       "published_at": "2026-10-28T04:08:00+08:00"
+      }
+     ],
+     "image": "https://s.yimg.com/lo/mysterio/api/ebb20f77bb2553ba3b4790996c7a768395cba074e422fdfbb4b7d56e11d6ad9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fcmmedia.com.tw%2F86d680afecbad87770d7ec3aed8107b7.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
+  }
+ ]
+}
