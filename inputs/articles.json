@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T12:17:32+08:00",
+ "fetched_at": "2026-10-29T14:03:54+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -2271,7 +2271,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-10-29T07:17+08:00",
+   "checked_at": "2026-10-29T14:03+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3481,7 +3481,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-10-29T07:17+08:00",
+   "checked_at": "2026-10-29T14:03+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5154,7 +5154,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-10-29T07:17+08:00",
+   "checked_at": "2026-10-29T14:03+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5636,7 +5636,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-10-29T07:17+08:00",
+   "checked_at": "2026-10-29T14:03+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5860,7 +5860,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-10-29T07:17+08:00",
+   "checked_at": "2026-10-29T14:03+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6191,7 +6191,7 @@
    "date_hint_from": "原文時間"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
-   "checked_at": "2026-10-29T07:17+08:00",
+   "checked_at": "2026-10-29T14:03+08:00",
    "status": "error",
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
@@ -6236,7 +6236,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/general/202610/202610203091965.html": {
-   "checked_at": "2026-10-29T07:17+08:00",
+   "checked_at": "2026-10-29T14:03+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6661,7 +6661,7 @@
    "date_hint_from": "原文時間"
   },
   "https://nownews.com/news/6885475": {
-   "checked_at": "2026-10-29T07:17+08:00",
+   "checked_at": "2026-10-29T14:03+08:00",
    "status": "error",
    "error": "<urlopen error timed out>"
   },
@@ -7389,7 +7389,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
-   "checked_at": "2026-10-29T07:17+08:00",
+   "checked_at": "2026-10-29T14:03+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7816,9 +7816,27 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/public/taipei/20261026/index-79300436041406126016.html": {
-   "checked_at": "2026-10-29T07:17+08:00",
-   "status": 502,
-   "error": "HTTP Error 502: Bad Gateway"
+   "checked_at": "2026-10-29T14:03+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T16:46+08:00",
+   "site_name": "PChome Online 新聞",
+   "description": "張溫德副市長驚喜變裝親臨現場同樂，為活動帶起最高潮！由臺北市商業處輔導台北市天母商圈發展協會辦理「天母搞什麼鬼18萬聖節嘉年華」今(26)日於天母運動公園熱鬧登場，今年適逢日本經典電子寵物「塔麻歌",
+   "cities": {
+    "台北市": 15,
+    "新竹縣": 3,
+    "新北市": 2,
+    "桃園市": 2,
+    "基隆市": 2
+   },
+   "districts": [
+    "天母商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1942,
+   "image": "https://news.pchome.com.tw/img/pchome_news_fb.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
   },
   "https://travel.udn.com/travel/story/7206/9834487": {
    "checked_at": "2026-10-27T11:29+08:00",
@@ -7975,9 +7993,23 @@
    "date_hint_from": null
   },
   "https://news.pchome.com.tw/public/morenews/20261026/index-79302099691556350016.html": {
-   "checked_at": "2026-10-29T07:17+08:00",
-   "status": 502,
-   "error": "HTTP Error 502: Bad Gateway"
+   "checked_at": "2026-10-29T14:03+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T21:23+08:00",
+   "site_name": "PChome Online 新聞",
+   "description": "墨新聞｜記者馬源培／台中報導2026台中購物節開跑第3天，前2天消費登錄金額已突破5億5,581萬元！市府經濟發展局今（26）日於大里中興商圈舉辦首場戶外抽獎活動「2026台中購物節－屯區GOGO購」，結合親子表",
+   "cities": {
+    "台中市": 15
+   },
+   "districts": [
+    "大里中興商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1476,
+   "image": "https://news.pchome.com.tw/newsdata/public/morenews/20261026/79302099691556350016_original.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/public/morenews/20261020/index-79248645618053350016.html": {
    "checked_at": "2026-10-27T16:51+08:00",
@@ -9337,7 +9369,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1480925": {
-   "checked_at": "2026-10-29T07:17+08:00",
+   "checked_at": "2026-10-29T14:03+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -10066,7 +10098,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.housefun.com.tw/news/article/132529490402.html": {
-   "checked_at": "2026-10-29T07:17+08:00",
+   "checked_at": "2026-10-29T14:03+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -10329,7 +10361,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/life/202610/202610283094891.html": {
-   "checked_at": "2026-10-29T07:17+08:00",
+   "checked_at": "2026-10-29T14:03+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -11183,6 +11215,159 @@
    ],
    "body_chars": 1629,
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/28/35461881.jpg&M=2&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/videos/0xXul9d2rj0": {
+   "checked_at": "2026-10-29T14:03+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "TVBS新聞網",
+   "description": "鎖定北車商圈「背包」客竊 盜刷40萬買iPhone｜TVBS新聞 @TVBSNEWS01",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 270,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.pchome.com.tw/public/taiwanhot/20261027/index-79307955681030221016.html": {
+   "checked_at": "2026-10-29T14:03+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T13:39+08:00",
+   "site_name": "PChome Online 新聞",
+   "description": "記者陳榮昌／台中報導臺中市大甲觀光商店街區管理委員會昨日舉辦「翻玩大甲、發掘職人故事」體驗活動，把街區變成孩子認識家鄉的教室！以德美百貨為集合起點，串聯帽蓆職人、糕餅店家與媽祖文物館，邀請國",
+   "cities": {
+    "台中市": 4
+   },
+   "districts": [
+    "大甲觀光商圈（台中市）"
+   ],
+   "body_chars": 852,
+   "image": "https://news.pchome.com.tw/newsdata/public/taiwanhot/20261027/79307955681030221016_original.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/amp/news/life/breakingnews/5622367": {
+   "checked_at": "2026-10-29T14:03+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T11:18+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台南萬聖節有新玩法！第11屆成大商圈萬聖嘉年華「LET\\'S PLAY玩聖節」將於10月31日、11月1日在勝利路台南一中門口至大學路口登場，今年首度推出「凹林匹克趣味運動會」，結合布袋球、電子飛鏢、虛擬運動及毛毛蟲競賽，邀全民組隊同樂，還有討糖踩街、變裝競賽、特色市集及萬聖大抽獎，讓育樂街化身歡樂派對現場。南市成大商",
+   "cities": {
+    "台南市": 10,
+    "新北市": 2,
+    "宜蘭縣": 2,
+    "屏東縣": 1,
+    "花蓮縣": 1
+   },
+   "districts": [
+    "成大商圈（台南市）"
+   ],
+   "body_chars": 1084,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622367_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taiwanhot.net/news/1152313/%E5%BB%88%E9%96%80%E5%9C%96%E8%BC%AF%E3%80%8B%E6%9B%BE%E5%8E%9D%E5%9E%B5%E4%B8%8D%E5%8F%AA%E6%9C%89%E7%BE%8E%E9%A3%9F%E8%80%81%E8%A1%97+%E8%B5%B0%E9%81%8E%E9%AD%9A%E9%AA%A8%E5%A4%A9%E6%A9%8B%E7%9C%8B%E6%B5%B7%E3%80%81%E5%B0%8B%E8%A8%AA%E7%99%BE%E5%B9%B4%E6%BC%81%E6%9D%91%E8%88%87%E6%B0%B4%E4%B8%8A%E9%A3%9B%E6%A9%9F%E5%A0%B4%E6%AD%B7%E5%8F%B2": {
+   "checked_at": "2026-10-29T14:03+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "台灣好新聞",
+   "description": "來到廈門，除了鼓浪嶼、中山路步行街與南普陀寺，位於環島南路的曾厝垵，也是值得留點時間慢慢探索的旅遊景點。這座昔日靠海維生的傳統漁村，如今巷弄裡聚集閩南小吃、咖啡館、文創商店與特色民宿，走出熱鬧街區，跨過環島路便能看見開闊海景。從老街、古厝到濱海步道，短短一段旅程就能感受不同風景；而在鄰近的音樂廣場海",
+   "cities": {},
+   "districts": [],
+   "body_chars": 2951,
+   "image": "https://www.taiwanhot.net/cache/1314852/lgnw/medias-20261029-6ae24a5b08e10.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://www.mirrormedia.mg/external/setn_1930228": {
+   "checked_at": "2026-10-29T14:03+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T12:29+08:00",
+   "site_name": "鏡週刊 Mirror Media",
+   "description": "台中市劉姓男子日前開車載女友行經一中商圈，遇警攔檢竟心虛加速逃逸，一路狂飆險象環生，最後躲進中友百貨地下停車場。兩人甚至在車內互換座位企圖讓女友頂罪，員警早已全程掌握，果斷破窗並使用辣椒水將劉男壓制逮捕。經檢測，劉男酒測值高達0.49毫克，全案訊後依公共危險罪嫌移送法辦。",
+   "cities": {
+    "台中市": 7
+   },
+   "districts": [],
+   "body_chars": 1091,
+   "image": "https://attach.setn.com/newsimages/2026/10/29/5766927-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pchome.com.tw/living/1111news/20261029/index-79323649560105358009.html": {
+   "checked_at": "2026-10-29T14:03+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T09:14+08:00",
+   "site_name": "PChome Online 新聞",
+   "description": "崑山科大於海安商圈舉行第五屆綠色永續市集，現場人潮湧現。（圖／崑山科大提供） 崑山科技大學積極落實大學社會責任（USR），深耕在地產業與環境永續發揮影響力， 10月24日至25日在海安商圈隆重舉辦「第",
+   "cities": {},
+   "districts": [
+    "海安商圈（台南市）"
+   ],
+   "body_chars": 272,
+   "image": "https://news.pchome.com.tw/newsdata/living/1111news/20261029/79323649560105358009_original.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.gvm.com.tw/article/134125": {
+   "checked_at": "2026-10-29T14:03+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T10:52+08:00",
+   "site_name": "遠見雜誌 - 40年來陪你前進的動力",
+   "description": "台北市長蔣萬安28日晚間出席天母三玉宮活動，與民眾敬酒、互動，盼爭取支持。競辦稍早表示，蔣萬安結束行程後稍感不適，考量身體狀況及辯論準備，將取消預排行程。",
+   "cities": {
+    "台北市": 6,
+    "新北市": 6,
+    "台東縣": 2,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 1676,
+   "image": "https://imgs.gvm.com.tw/upload/gallery/20261029/244045.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cmoney.tw/forum/article/187039298": {
+   "checked_at": "2026-10-29T14:03+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T10:35+08:00",
+   "site_name": "CMoney 股市爆料同學會",
+   "description": "台中市32歲劉姓男子28日酒後開車載著25歲潘姓女友，遇警方攔查竟加速逃逸，沿途狂飆穿梭一中商圈等人潮聚集路段，最後躲進中友百貨地下停車場，還急忙與女友交換座位",
+   "cities": {
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 253,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622277_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/news/aipl/202610290086.aspx": {
+   "checked_at": "2026-10-29T14:03+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T11:34+08:00",
+   "site_name": "中央社 CNA",
+   "description": "台北市長蔣萬安因身體不適，取消預排行程。蔣萬安妻子石舫亘今天前往湖光市場掃街拜票，受到現場民眾熱烈歡迎。針對蔣萬安身體狀況，石舫亘僅簡短回應「謝謝」，未多做說明。",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [],
+   "body_chars": 879,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261029/1142x768_wmky_0_C20261029000069.jpg",
    "image_checked": true,
    "date_hint": "2026-10-29",
    "date_hint_from": "原文時間"

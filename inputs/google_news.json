@@ -1,39 +1,60 @@
 {
- "fetched_at": "2026-10-29T12:17:24+08:00",
+ "fetched_at": "2026-10-29T14:03:47+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 137,
-  "kept": 61,
-  "resolved": 61,
+  "raw": 135,
+  "kept": 62,
+  "resolved": 62,
   "items": 59,
   "resolve_this_run": {
-   "online": 8
+   "online": 7
   },
   "dropped_old": [
+   "烏來好慘！台九甲線道路斷溪水溢堤老街淹| 生活（原文日期 2016-09-27）",
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
    "高雄三多商圈沒落　店家爆出走潮！他精闢分析主因（原文日期 2018-07-08）"
   ]
  },
  "items": [
   {
+   "title": "鎖定北車商圈「背包」客竊 盜刷40萬買iPhone｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xMnU4LVJsZzZMUEJkaXpSOGhEa0t5VlQ1bWkyc1ZUTkVwNVluNk04MURDVW5rV1RYZ3hPdVFhZ05Va1VlY0VfMENsUHhPcm1QQm96cUp3?oc=5",
+   "source": "TVBS新聞網",
+   "source_site": "https://news.tvbs.com.tw",
+   "published_at": "2026-10-29T13:13+08:00",
+   "query": "商圈",
+   "url": "https://news.tvbs.com.tw/videos/0xXul9d2rj0",
+   "resolved": true
+  },
+  {
+   "title": "酒駕拒臨檢加速逃竄一中商圈　警破窗制伏",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qcTd3Qm5yaHd5ZkhtbVdLZFRqcFVqNGtnUnBMLTRkQmFWeHZBeENSWWpSbzI1NzBhNkJLY3hUMi12WlVMZUZYWGhwUFFHbTNUQ0l3ZElWeEhuM0U50gFiQVVfeXFMTkpfRFFac0FjeFlDRC11MXg3eEZ5UUlENGlLcE9mX1ZlUlJWbVNpVDduUHE3TDlCYnZqTlhYXzJJQ1kxeXZjanJaTVNEbDFGYmRZNnBReGdaTWc4eUVxb1ZvbUE?oc=5",
+   "source": "鏡週刊Mirror Media",
+   "source_site": "https://www.mirrormedia.mg",
+   "published_at": "2026-10-29T12:29+08:00",
+   "query": "商圈",
+   "url": "https://www.mirrormedia.mg/external/setn_1930228",
+   "resolved": true
+  },
+  {
    "title": "廈門圖輯》曾厝垵不只有美食老街 走過魚骨天橋看海、尋訪百年漁村與水上飛機場歷史",
-   "google_url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNUXJwYkFQN0RzeEJ4eC0xSE9wajJrcURXM3pPQmhFLXBjNDFBM1Z4SmpsTXlhLU1Pc1VLVFNrdlA4enMzMV9haFdIdmZpalJzQlJNQmNVNDdFVG5OVGpUS0tLdzE4cmFqeW85Y3M3ZWRHaGI2YkYzZDdWTzhNdEJTZ1NYOXYzdUZaTG95NFRfTkt1cWM5N0dHeVo2Mm93blZWTHJCZEhNbGQyQXJxdG5Od3JWcEQyT241ZTNqckhueWQtYWRESTZ4cXJxVER1Z2RVR2ZDNnJFT1NTaHhDbVBWWHJUM1NGUHZtTWFHRS1qSkZyRlJ3eDRDckgtYVNtTFpxTnpjWkZOdFFYNFlnY3d2QWpTSVp4RkgzT1oxb2Jla3hkQXB0dzJBc2g5clpxOHYwQjdtNkhKM0NEcmxsekI1WG9zVlNrRHl6Vllmb3Njb1E2Sm4yMDB3aVhUa05PLTdEdDB4N3pWd1IwazFMbFBtTG1OSEE2UnRYSlZUd3pQYjdxUXR4MzVKYk1nQXhKTWFXc1NwdExiUHBtTXJyUUw0M1BjMVllVG5waVNCdWV6M3d3YmMxTGdzblcwSUI4MDA0ZVRzbXZSS0tjelJ2YkRsZnoySFJ3WE1kM2VhSDVnaWJCVEN6a2hUQTRmMlpaTGp5RWxaR1c2ZGxKRkw4ZldlbnlhTjkyZ00?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-10-29T12:07+08:00",
+   "google_url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxOOEwxRDdOTlRmanhiZlFoOEJrY1JLbWVPWDJXQ3NDRHJUOG5md1NqdHJvaEN4YmctbWZIa3BvYkNVdHlDWXFsM2dXbUJPWGlHSnp3RUc3eXNkMnM3My1BaWhIV21EUUJRSEw5N0s2RF9HamJucnFOVTBtQTRyZ09nQm40bTltWldhUzFnSEhTV3lBUUNubVR4a285dzZLUWgxRzdiQVZZUXdLdVZGcjRQcHVlV2NQeFNLNnU0dzFnN0tlbEMxb3JTR2pSanBMRDI0X29GeWRkODZfR1Q3aFc0NlpHel9hbi1RT3R3cU9tNWJVV3VGUHg4YjlKc19vRXVtbUtmUTRIeFBQQzlGUDFXbG1GeDZEUXFKczlmMllsUG82Smhta0EyZk4tc0pmWDdheVU5RlVWakhLczJiZGktVEMtQm56cUw3eXNaTGNHemFmWS15MkNmLUMyT1k5M05ERy1nbnlZeEJzTmY0dGEwMmRPdTBrTjVxcVN1ZlZ1RzB0Qm53MkhxdzctaXBqdEJWWkF6VDNYRC1oblVPX0dvUHJiSmxLQzBvUzhoSjE2VzdwQTlEZTRpUGlEV29TZG51VkhadXNCZDFVQXY0ZzNleExoREU0bU5oMElJQnpSRTJQbW1WX1ZfejB1ZklkVFZzV0VDdzRfTkE2WlpWb1dwMHFJYzVhZXBhOXU0R3F3MnRCRWd3cDJncXZR?oc=5",
+   "source": "台灣好新聞",
+   "source_site": "https://www.taiwanhot.net",
+   "published_at": "2026-10-29T11:59+08:00",
    "query": "老街",
-   "url": "https://tw.news.yahoo.com/%E5%BB%88%E9%96%80%E5%9C%96%E8%BC%AF-%E6%9B%BE%E5%8E%9D%E5%9E%B5%E4%B8%8D%E5%8F%AA%E6%9C%89%E7%BE%8E%E9%A3%9F%E8%80%81%E8%A1%97-%E8%B5%B0%E9%81%8E%E9%AD%9A%E9%AA%A8%E5%A4%A9%E6%A9%8B%E7%9C%8B%E6%B5%B7-%E5%B0%8B%E8%A8%AA%E7%99%BE%E5%B9%B4%E6%BC%81%E6%9D%91%E8%88%87%E6%B0%B4%E4%B8%8A%E9%A3%9B%E6%A9%9F%E5%A0%B4%E6%AD%B7%E5%8F%B2-035857136.html",
+   "url": "https://www.taiwanhot.net/news/1152313/%E5%BB%88%E9%96%80%E5%9C%96%E8%BC%AF%E3%80%8B%E6%9B%BE%E5%8E%9D%E5%9E%B5%E4%B8%8D%E5%8F%AA%E6%9C%89%E7%BE%8E%E9%A3%9F%E8%80%81%E8%A1%97+%E8%B5%B0%E9%81%8E%E9%AD%9A%E9%AA%A8%E5%A4%A9%E6%A9%8B%E7%9C%8B%E6%B5%B7%E3%80%81%E5%B0%8B%E8%A8%AA%E7%99%BE%E5%B9%B4%E6%BC%81%E6%9D%91%E8%88%87%E6%B0%B4%E4%B8%8A%E9%A3%9B%E6%A9%9F%E5%A0%B4%E6%AD%B7%E5%8F%B2",
    "resolved": true
   },
   {
    "title": "成大商圈萬聖嘉年華首辦 「凹林匹克」運動會踩街討糖、變裝",
-   "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vaW1NZGx3anZvdjd4LWJZU3VFbElRTTlCSW45QlM3cDl0enQ2UkYzdGI1Q3daRjJzUjRSaENkaUFBbUNRNV95WndldVRKRU10OVRMNkh5MGdIcGdUSU9WNVdJdXI2dEV1Zmtlb9IBbEFVX3lxTE1vaW1NZGx3anZvdjd4LWJZU3VFbElRTTlCSW45QlM3cDl0enQ2UkYzdGI1Q3daRjJzUjRSaENkaUFBbUNRNV95WndldVRKRU10OVRMNkh5MGdIcGdUSU9WNVdJdXI2dEV1Zmtlbw?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWURhN2dIQmNtU2EyejRXZ2JteGMyNkROR3c0V2tuMjRVWHA1WnJIUXdEbEptdWZQc25kMVNuNWRmTjBOVTB6dG1aemxWU1poUWhpc2hQMjBaTkZJUUZuUV80bzdLVHZPUHfSAWpBVV95cUxNVVlEYTdnSEJjbVNhMno0V2dibXhjMjZETkd3NFdrbjI0VVhwNVpySFF3RGxKbXVmUHNuZDFTbjVkZk4wTlUwenRtWnpsVlNaaFFoaXNoUDIwWk5GSVFGblFfNG83S1R2T1B3?oc=5",
    "source": "自由時報",
    "source_site": "https://news.ltn.com.tw",
    "published_at": "2026-10-29T11:18+08:00",
    "query": "商圈",
-   "url": "https://news.ltn.com.tw/amp/news/Tainan/breakingnews/5622367",
+   "url": "https://news.ltn.com.tw/amp/news/life/breakingnews/5622367",
    "resolved": true
   },
   {
@@ -44,6 +65,16 @@
    "published_at": "2026-10-29T10:56+08:00",
    "query": "老街",
    "url": "https://www.chinatimes.com/realtimenews/20261029001892-260405",
+   "resolved": true
+  },
+  {
+   "title": "酒駕男載女友一中商圈狂飆！鑽中友停車場急換位秒被破窗揪出逮人- 股市爆料同學會",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CeW0zc1RjVkN3NEVxUzkxMzFSTDd0R3pLRHZydGxHbzcySllILTJVUl9tZWp4V2hUbHV6WGVSVFFiWVRNcWRGWk5SbDA4VDAyemNqTXJISmM?oc=5",
+   "source": "CMoney",
+   "source_site": "https://www.cmoney.tw",
+   "published_at": "2026-10-29T10:35+08:00",
+   "query": "商圈",
+   "url": "https://www.cmoney.tw/forum/article/187039298",
    "resolved": true
   },
   {
@@ -64,6 +95,16 @@
    "published_at": "2026-10-29T10:02+08:00",
    "query": "商圈",
    "url": "https://money.udn.com/money/story/11799/9842147",
+   "resolved": true
+  },
+  {
+   "title": "崑山科大綠色市集串聯海安商圈12家店家導入綠色行銷- 生活新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUdwcFUyYnppb2pjaXpEZVVldUk0ZWVjbUFhOVRtVHVkNGp1Q1VzSno3R0lBUUZvcllBZUl6N1lLODVzOWEyTTJNRUNkR3hpNkljVV8tdlVEU0lpc2xmWmh0YXkxalFsNnh3ZHJuVVFVd2tCUkRvc1RfNlM0OEpsUjRRam93NVJKTklr?oc=5",
+   "source": "PChome Online 新聞",
+   "source_site": "https://news.pchome.com.tw",
+   "published_at": "2026-10-29T09:14+08:00",
+   "query": "商圈",
+   "url": "https://news.pchome.com.tw/living/1111news/20261029/index-79323649560105358009.html",
    "resolved": true
   },
   {
@@ -117,23 +158,13 @@
    "resolved": true
   },
   {
-   "title": "100元換200！台中物調券10/30開搶商圈折扣、買一送一優惠一次看- 生活",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wVFJyM1h0RUtUOHB3R2p1bWdDd2JPN3VCc0NJX1NlVUZxSVBXYlZLeFZpdFdDdWZNOUlGell2UUNEdEVrVVdKVzVUQkJhYUhZcW51bVRvNGszWl9fRmNOaHlOQ1k?oc=5",
+   "title": "100元換200！台中物調券10/30開搶 商圈折扣、買一送一優惠一次看",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wVFJyM1h0RUtUOHB3R2p1bWdDd2JPN3VCc0NJX1NlVUZxSVBXYlZLeFZpdFdDdWZNOUlGell2UUNEdEVrVVdKVzVUQkJhYUhZcW51bVRvNGszWl9fRmNOaHlOQ1nSAWpBVV95cUxNLVBVSjlMVTJIS0xGS0pFTERSNlA5TkVORi1RRDc4OG5lNEc3bU1mQ2hJanF1aXl4WUs0U2FwZ2p3S0hsUkZaWERSRGxtckpMb1R3WmlEYTd2TlpDY0tZWDhZQWJjMmZKVTZ3?oc=5",
    "source": "自由時報",
    "source_site": "https://news.ltn.com.tw",
    "published_at": "2026-10-28T16:30+08:00",
    "query": "商圈",
    "url": "https://news.ltn.com.tw/news/life/breakingnews/5621605",
-   "resolved": true
-  },
-  {
-   "title": "100元換200！台中物調券10/30開搶 商圈折扣、買一送一優惠一次看",
-   "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tUFVKOUxVMkhLTEZLSkVMRFI2UDlORU5GLVFENzg4bmU0RzdtTWZDaElqcXVpeXhZSzRTYXBnandLSGxSRlpYRFJEbG1ySkxvVHdaaURhN3ZOWkNjS1lYOFlBYmMyZkpVNnfSAWpBVV95cUxNLVBVSjlMVTJIS0xGS0pFTERSNlA5TkVORi1RRDc4OG5lNEc3bU1mQ2hJanF1aXl4WUs0U2FwZ2p3S0hsUkZaWERSRGxtckpMb1R3WmlEYTd2TlpDY0tZWDhZQWJjMmZKVTZ3?oc=5",
-   "source": "自由時報",
-   "source_site": "https://news.ltn.com.tw",
-   "published_at": "2026-10-28T16:30+08:00",
-   "query": "商圈",
-   "url": "https://news.ltn.com.tw/amp/news/life/breakingnews/5621605",
    "resolved": true
   },
   {
@@ -227,16 +258,6 @@
    "resolved": true
   },
   {
-   "title": "老街精彩节目不间断 11月5场活动等着你 - 地方 - 综合",
-   "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vcUVCejYtV0R0OW82SGYtQkEwcXhCNVczVjVpemNHQWNEWERfQTV0TkxJakN3WFdPVmVMV29Bd0pjSDNTXzRWZkZMdVh1UUduWnpYWlRoMzVndE4xZVVoeTVEVUpFNGdkNENTUFZ6WWd0My1ueDJKQjh3djQ?oc=5",
-   "source": "Sin Chew Daily",
-   "source_site": "https://johor.sinchew.com.my",
-   "published_at": "2026-10-28T13:32+08:00",
-   "query": "老街",
-   "url": "https://johor.sinchew.com.my/news/20261028/johor/8004956?variant=zh-hant",
-   "resolved": true
-  },
-  {
    "title": "台中物調券第2波10/30登場！369家店家響應 天津商圈8折、自由路9折",
    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rY21teUdmVWdLcU52Qzh6eDVKcXRYU05fOHQ3RVZUTDd4bldtdjF0SC1oU2kwUEUybl9YRExxek9VUm9KOHlGU3paTEhpdjNSeERaVzkwMWFyVFh6UGxyUnRncw?oc=5",
    "source": "新華報導",
@@ -298,12 +319,12 @@
   },
   {
    "title": "尷尬！蔣萬安現身內湖737商圈掃街　「遭攤販嫌太吵」拒絕握手｜鏡週刊Ｘ鏡新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmR1ejNveG5fZnlPVVo5OUY4Vi15OFV4NzJ4YzVqWEM3ZmVYX29GQ09GX1hPbDZtTXA2MnlUaEJibXlfZkd4XzJOcDh1cnVJUXZwN1k2S3FNNVYtZWhodnVGUXNwSXBfc044UkFtbWhqaUM1YmJpT2hVVjREWDUwd21CMkdQQkZy0gFyQVVfeXFMT3JQb2NXc05fanV2bFZZTW12OXhhSFRuLVR6bm9BQnluVkJnMmlnbWNtRVY3RmR3V3plOWswcXpjZ1J3NFB3aU9USElOZUVpTks4VWttd0tMWkE0cXN6a2pqMVBpUGNXZzZ0MzlTU0lEclR3?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CNjI0cGduMTZEeEU4dU1KeDJ2QTJ5RXo4T2duZWRGRllneHNwMUpUOUltcGJka0xBU1FydENqd0tlN2s1SzY2VWlvMGdpQkxXanp5bzBGaTlrSlhwbnpoWGtOWTdPVHhyX01PWdIBckFVX3lxTE9yUG9jV3NOX2p1dmxWWU1tdjl4YUhUbi1Uem5vQUJ5blZCZzJpZ21jbUVWN0Zkd1d6ZTlrMHF6Y2dSdzRQd2lPVEhJTmVFaU5LOFVrbXdLTFpBNHFzemtqajFQaVBjV2c2dDM5U1NJRHJUdw?oc=5",
    "source": "鏡週刊Mirror Media",
    "source_site": "https://www.mirrormedia.mg",
    "published_at": "2026-10-28T11:44+08:00",
    "query": "商圈",
-   "url": "https://www.mirrormedia.mg/story/YT-202610281144-M6GZHhTzLZo?from=index_list_news",
+   "url": "https://www.mirrormedia.mg/story/YT-202610281144-M6GZHhTzLZo",
    "resolved": true
   },
   {
@@ -418,12 +439,12 @@
   },
   {
    "title": "大溪工藝周 2主題邀你暢遊老街",
-   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzUjFLQUo5M00weDFwYTdYOHVrTzR3Rl9lWHFvZTd6NDZEb1N3anJmbDIxS3V2SFpHcEhOMGFUVlZveDFKMEEwWVFfcndyMmNqcEw3SEIxQk9YbUZfSFFKQktnZkdreTRLQWNr?oc=5",
-   "source": "中時新聞網",
-   "source_site": "https://www.chinatimes.com",
+   "google_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSTdUSjZqeTNHRDdCRzJfMEt2RHltWUF3MW5mekNEM1Y2bU82Q2Jhak91OE1iSVltNDZCMHZyYUJmeFhaampjXy1SRnRpZ1Q4NDd6TWpiVmJXOFFoMHNMR0Q4YlBncEg2QWVJQ1Vtc2M1bXFDR3ZuN1dnZmNVSDNjaHllTUZZOXRjNHc0UnF2MGMzdGcxTGl6SzNaTG9LN1dYcFJMNU5YRnN0dHRhS3VfYUpCalVEVDZFaW1rU0NYUGpmMng2ODZ3N1RfejZhLWNjQUJ1elAzbk1oUDdIYzUzSXRiUEo4X0xfb3lBQ1duRFV0QQ?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
    "published_at": "2026-10-28T04:10+08:00",
    "query": "老街",
-   "url": "https://www.chinatimes.com/newspapers/20261028000596-260107",
+   "url": "https://tw.news.yahoo.com/%E5%A4%A7%E6%BA%AA%E5%B7%A5%E8%97%9D%E5%91%A8-2%E4%B8%BB%E9%A1%8C%E9%82%80%E4%BD%A0%E6%9A%A2%E9%81%8A%E8%80%81%E8%A1%97-201000320.html",
    "resolved": true
   },
   {
@@ -584,26 +605,6 @@
    "published_at": "2026-10-27T14:20+08:00",
    "query": "商圈",
    "url": "https://www.300c3.org.tw/life_view.php?new_sn=17415",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 巴威襲中部海線！鹿港老街、漁港人潮大減",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YNDd0b3ZEelBMOFdkdDc4TFUzRTg4aUVCdjRucTBERDY2SFh6cFRKQ1VVRFo2MGlxcE1PRGF5Rk8tOG1vMVJDV3NsaGhLdVdkelpiaGtMYlBkM0xvME1VRi16Q2s?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-10-27T12:33+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/JPgawGq",
-   "resolved": true
-  },
-  {
-   "title": "光復連假台南景點夯、累計吸引逾121萬人潮 市區商圈吸客逾71萬人次",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BWFVaSmNoc0FRWEpBbHNINEN3dHVJUWRmMmZCa3pwaHlXbTItTmliUUk1NV9kMGdOb2s5d3FzSmRVWlpDRFdlSDZveUNGaGJPb2RYOER30gFWQVVfeXFMT0FYVVpKY2hzQVFYSkFsc0g0Q3d0dUlRZGYyZkJrenBoeVdtMi1OaWJRSTU1X2QwZ05vazl3cXNKZFVaWkNEV2VINm95Q0ZoYk9vZFg4RHc?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
-   "published_at": "2026-10-27T12:19+08:00",
-   "query": "商圈",
-   "url": "https://udn.com/news/amp/story/7326/9839466",
    "resolved": true
   }
  ]
