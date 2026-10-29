@@ -218,6 +218,106 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-10-29T12:18:28+08:00",
+   "added": 1,
+   "merged": 2,
+   "items": [
+    {
+     "id": "20261029-chengda-halloween",
+     "title": "成大商圈萬聖嘉年華10月31日、11月1日登場，首度加入趣味運動會與踩街討糖",
+     "summary": "第11屆成大商圈萬聖嘉年華將在勝利路台南一中門口至大學路口舉行，今年首度推出趣味運動會。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-29T11:18:00+08:00",
+     "cities": [
+      "台南市"
+     ],
+     "districts": [
+      {
+       "name": "成大商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/life/breakingnews/5622367",
+       "published_at": "2026-10-29T11:18:00+08:00"
+      }
+     ],
+     "admin_note": "成大商圈為115年補助名單，活動公開辦理，可作為執行佐證參考。",
+     "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622367_2_1.jpg"
+    },
+    {
+     "id": "20261023-fengyuan-halloween",
+     "title": "豐原商圈10月31日舉辦討糖嘉年華",
+     "summary": "台中萬聖節活動中，豐原商圈訂10月31日舉辦討糖嘉年華。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-10-29T10:02:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "豐原商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/11799/9842147",
+       "published_at": "2026-10-29T10:02:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261023291312",
+       "published_at": "2026-10-23T15:12:00+08:00"
+      },
+      {
+       "outlet": "報新聞",
+       "url": "https://www.contentplatform.info/articles/546796/%E5%8F%B0%E4%B8%AD%E8%90%AC%E8%81%96%E7%AF%80%E6%B4%BB%E5%8B%95%E5%9C%B0%E5%9C%96%E3%80%80%E8%B1%90%E5%8E%9F%E5%95%86%E5%9C%8810-31%E8%A8%8E%E7%B3%96%E5%98%89%E5%B9%B4%E8%8F%AF%E3%80%80%E5%B8%82/",
+       "published_at": "2026-10-23T00:00:00+08:00"
+      }
+     ],
+     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/28/35461881.jpg&M=2&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
+    },
+    {
+     "id": "20261028-old-street-ranking",
+     "title": "觀光署統計：鹿港老街及周邊居全台人氣老街榜首",
+     "summary": "交通部觀光署公布今年1至8月統計，彰化鹿港老街及周邊地區奪下全台人氣老街第一。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-10-29T10:56:00+08:00",
+     "cities": [
+      "彰化縣"
+     ],
+     "districts": [
+      {
+       "name": "鹿港老街商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "中時新聞網",
+       "url": "https://www.chinatimes.com/realtimenews/20261029001892-260405",
+       "published_at": "2026-10-29T10:56:00+08:00"
+      },
+      {
+       "outlet": "風傳媒",
+       "url": "https://www.storm.mg/lifestyle/11175949",
+       "published_at": "2026-10-28T11:30:00+08:00"
+      }
+     ],
+     "image": "https://images.chinatimes.com/newsphoto/2026-10-29/656/20261029001907_20261029104036.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
