@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T21:23:25+08:00",
+ "fetched_at": "2026-10-30T07:17:47+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -2271,7 +2271,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3476,7 +3476,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5149,7 +5149,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5631,7 +5631,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5855,7 +5855,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6186,7 +6186,7 @@
    "date_hint_from": "原文時間"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": "error",
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
@@ -6231,7 +6231,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/general/202610/202610203091965.html": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6656,7 +6656,7 @@
    "date_hint_from": "原文時間"
   },
   "https://nownews.com/news/6885475": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": "error",
    "error": "<urlopen error timed out>"
   },
@@ -7384,7 +7384,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -9364,7 +9364,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1480925": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -10356,7 +10356,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/life/202610/202610283094891.html": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -10974,12 +10974,12 @@
    "date_hint_from": null
   },
   "https://life.tw/article/從老街區文化到世代交流-里長參選人盧綠綢提出建功里社區活動構-3194318": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 13-23: ordinal not in range(128)"
   },
   "https://johor.sinchew.com.my/news/20261028/johor/8004956?variant=zh-hant": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -11386,9 +11386,20 @@
    "date_hint_from": "原文時間"
   },
   "https://www.businessweekly.com.tw/focus/blog/3023493": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": "error",
-   "error": "Remote end closed connection without response"
+   "checked_at": "2026-10-30T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T16:27+08:00",
+   "site_name": "商業周刊 - 商周.com",
+   "description": "台北市長候選人沈伯洋接受商周專訪談青年、親子政見，提出「城市青年基金」、每月600點親子同行卡，帶動書店與地方商圈。兩大政策背後，藏著留住年輕人、活絡城市經濟的盤算。",
+   "cities": {
+    "台北市": 21
+   },
+   "districts": [],
+   "body_chars": 2960,
+   "image": "https://ibw.bwnet.com.tw/AC_Gallery/2026/10/2f3d4285-efac-3f22-9626-53d71ff708b9.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
   },
   "https://news.tvbs.com.tw/politics/4043062": {
    "checked_at": "2026-10-29T16:51+08:00",
@@ -11710,12 +11721,12 @@
    "date_hint_from": "原文時間"
   },
   "https://news.ebc.net.tw/search/tags/李慶隆/": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)"
   },
   "https://news.cts.com.tw/cts/politics/202610/202610293095305.html": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -11742,7 +11753,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.watchmedia01.com/archives/564050": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -11936,7 +11947,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.hsnews.com.tw/political-news/dai-yu-wen-ti-zai-zao-jin-san-jiao-ji-hua-yu-zheng-shi-shang-quan-zhuan-xing-wen-ti-2.html": {
-   "checked_at": "2026-10-29T21:23+08:00",
+   "checked_at": "2026-10-30T07:17+08:00",
    "status": 404,
    "error": "HTTP Error 404: Not Found"
   },
@@ -12043,6 +12054,110 @@
    "districts": [],
    "body_chars": 844,
    "image": "https://cdn2.ettoday.net/images/8990/e8990403.png",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/5599/9846071?from=edn_related_storybottom": {
+   "checked_at": "2026-10-30T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T06:00+08:00",
+   "site_name": "經濟日報",
+   "description": "日本東京都中野區同一條商店街繼今年8月之後，再度有鐘錶店失竊。警方指出，有歹徒昨晚假裝成客人並試戴價值約4600萬日圓（...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 865,
+   "image": "https://money.udn.com/static/img/moneyudn.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261030949715": {
+   "checked_at": "2026-10-30T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T00:00+08:00",
+   "site_name": "蕃新聞",
+   "description": "【 大成報記者吳非羽/臺中報導 】 臺中市政府第二波物調券將於10/30登場，全市商圈共369家店家",
+   "cities": {
+    "台中市": 7
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1312,
+   "image": "https://ni.yam.com/20261030/117696ae370d2d86e5-d9cbb8e44c42d9b1.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E5%8F%B0%E5%8D%97%E8%BB%8A%E7%AB%99-%E9%9F%B3%E6%A8%82%E5%BB%B3-%E5%82%AC%E5%95%86%E6%A9%9F-%E6%88%90%E5%A4%A7%E5%95%86%E5%9C%88%E4%BA%BA%E6%BD%AE%E9%80%86%E5%8B%A2%E6%88%90%E9%95%B72%E6%88%90%E5%90%B8%E5%AE%A2/ar-AA2gjAfu": {
+   "checked_at": "2026-10-30T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.bo6s.com.tw/news_detail.php?NewsID=118136": {
+   "checked_at": "2026-10-30T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T15:43+08:00",
+   "site_name": "波新聞",
+   "description": "波新聞-辜愷頡/嘉義嘉義縣鹿草風華特色文化商圈發展協會於115年10月25日連續假期期間，在故宮南院舉辦「鹿草風華商圈草地音樂會暨特色市集」，以「走進故宮南院．漫遊鹿草風華」為主題，融合音樂、特色好物、在地美食與手作體驗，現場人潮爆滿、氣氛熱絡，活動圓滿成功，廣受民眾好評。草地音樂會以悠揚樂聲營造愜意的藝文氛圍，吸引親",
+   "cities": {
+    "嘉義縣": 13
+   },
+   "districts": [
+    "鹿草風華商圈（嘉義縣）"
+   ],
+   "body_chars": 899,
+   "image": "https://www.bo6s.com.tw/images/newsimg/small/20261028154306.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E4%BB%A3%E8%94%A3%E8%90%AC%E5%AE%89%E6%8E%83%E8%A1%97-%E7%9F%B3%E8%88%AB%E4%BA%98%E4%BA%BA%E6%B0%A3%E7%88%86%E6%A3%9A%E5%B8%AD%E6%8D%B2%E6%B2%85%E9%99%B5%E8%A1%97%E5%95%86%E5%9C%88-%E6%94%AF%E6%8C%81%E8%80%85%E6%8B%BF%E5%90%88%E7%85%A7%E6%B1%82%E7%B0%BD%E5%90%8D-132521192.html": {
+   "checked_at": "2026-10-30T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T21:25+08:00",
+   "site_name": "Yahoo News",
+   "description": "台北市長蔣萬安身體不適，取消所有行程休息調整，備戰31日與民進黨台北市長候選人沈伯洋的電視辯論會。蔣萬安夫人石舫亘則自今（29）日起代夫掃街，下午走訪沅陵街商圈，受熱情歡迎。",
+   "cities": {
+    "台北市": 40,
+    "新北市": 1,
+    "宜蘭縣": 1
+   },
+   "districts": [],
+   "body_chars": 3536,
+   "image": "https://s.yimg.com/lo/mysterio/api/bf20de0e622bba8dc115385fdc4db3bfccc7966f27c2b3f1b2447feeb7ae01b7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fgotv_ctitv_com_tw_678%2F328426ff7855915d2205e1ee0042b08d.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261029/3263061.htm": {
+   "checked_at": "2026-10-30T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T23:23+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "雲林縣斗六市湖底大排長年受渠道狹窄、渡槽阻水影響，豪雨期間屢傳淹水，尤其凱米颱風期間災情嚴重。縣府斥資1.8億元推動「湖底大排國3下游段治理工程」，今（29）日舉行開工典禮，預計工期480天，將拓寬渠道、改善橋梁及設置可提吊式渡槽，盼提升排洪能力，改善榴北里及周邊地區淹水問題。",
+   "cities": {
+    "雲林縣": 8,
+    "高雄市": 2
+   },
+   "districts": [],
+   "body_chars": 1558,
+   "image": "https://cdn2.ettoday.net/images/8990/e8990833.jpg",
    "image_checked": true,
    "date_hint": "2026-10-29",
    "date_hint_from": "原文時間"
