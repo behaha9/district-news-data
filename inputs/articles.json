@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T14:03:54+08:00",
+ "fetched_at": "2026-10-29T16:51:08+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -2914,11 +2914,6 @@
    "image_checked": true,
    "date_hint": "2026-10-22",
    "date_hint_from": "原文時間"
-  },
-  "https://sunmedia.tw/news/technology/creammmt首度進駐台北！-108中山門市正式開幕，期間限定「五種檸檬塔」同步登場-1792412274029": {
-   "checked_at": "2026-10-26T16:50+08:00",
-   "status": "error",
-   "error": "'ascii' codec can't encode characters in position 29-35: ordinal not in range(128)"
   },
   "https://n.yam.com/Article/20261021552143": {
    "checked_at": "2026-10-27T11:28+08:00",
@@ -11370,6 +11365,348 @@
    "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261029/1142x768_wmky_0_C20261029000069.jpg",
    "image_checked": true,
    "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261029592720": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T08:00+08:00",
+   "site_name": "蕃新聞",
+   "description": "記者:黃冠源 台南報導崑山科技大學積極落實大學社會責任（USR），深耕在地產業與環境永續發揮影響力，",
+   "cities": {
+    "台南市": 5
+   },
+   "districts": [
+    "海安商圈（台南市）"
+   ],
+   "body_chars": 1845,
+   "image": "https://ni.yam.com/20261029/202610290641150-45b286e225a2e79a.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.businessweekly.com.tw/focus/blog/3023493": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": "error",
+   "error": "Remote end closed connection without response"
+  },
+  "https://news.tvbs.com.tw/politics/4043062": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T15:55+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "花蓮市長候選人戴于文今（29）日召開「再造金三角 戴你換新衫」政策記者會，正式提出「金三角再造計畫」，主張從文化再造、交通改善、店家活化三大方向著手，以舊鐵道商圈及客來堡作為雙核心，推動花蓮市中心轉型。戴于文指出，金三角曾是花蓮最繁榮的商業中心，如今卻面臨空店增加、人潮流失及交通環境不佳等問題，直言魏嘉賢、魏嘉彥兄弟執",
+   "cities": {
+    "花蓮縣": 15,
+    "台北市": 6
+   },
+   "districts": [
+    "西門町商圈（台北市）",
+    "舊城商圈（高雄市）",
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 1825,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a186a5-750f-7244-b4ac-a6eeb851a388.jpg?t=16x9&c=0,46,721,452&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261029516570": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T15:10+08:00",
+   "site_name": "蕃新聞",
+   "description": "桃園市長張善政今（29日）透過臉書提到桃園長者福利政策，每年四節合計1萬元敬老禮金，及擴大使用範圍的",
+   "cities": {
+    "桃園市": 7
+   },
+   "districts": [],
+   "body_chars": 1766,
+   "image": "https://ni.yam.com/20261029/10454768cff9482c884e15582c47df4e-60384d106214b0b8.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/Opl2DBB": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T16:15+08:00",
+   "site_name": "LINE TODAY",
+   "description": "〔記者俞肇福／基隆報導〕國民黨基隆市長謝國樑今天(29日)在立法委員黃健豪陪同下，到基隆廟口商圈掃街拜票，基隆市里長聯誼會總會長林羅清梅、里...",
+   "cities": {
+    "基隆市": 14
+   },
+   "districts": [],
+   "body_chars": 610,
+   "image": "https://today-obs.line-scdn.net/0h9OIMW-0iZmB0NHrke7EZN0xiahFHUnxpVlorUVY2PVlQGCgyH1M1AwZhbUwJVHQ-VAcqUgM1PVgMUydhHw/w1200",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5622803": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T16:15+08:00",
+   "site_name": "自由時報電子報",
+   "description": "國民黨基隆市長謝國樑今天（29日）在立法委員黃健豪陪同下，到基隆廟口商圈掃街拜票，基隆市里長聯誼會總會長林羅清梅、里長王明清及代理里長王培宇一同參與。謝國樑逐一向沿街商家及市民朋友親切問候，不少民眾熱情給予鼓勵，現場互動熱絡，展現濃厚的地方人情味。謝國樑說，感謝黃健豪來到基隆，也感謝地方里長長期以來的支持與協助。廟口是",
+   "cities": {
+    "基隆市": 18
+   },
+   "districts": [],
+   "body_chars": 922,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622803_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261029003008-260405": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T14:32+08:00",
+   "site_name": "中時新聞網",
+   "description": "伴隨台南市區鐵路地下化通車及新站啟用，也為車站周邊帶來嶄新發展，尤其近來公共鋼琴爆紅成為音樂廳，大批人潮慕名而來，成大商圈以往晚上9點後就顯冷清，現持續有人潮。成大商圈萬聖嘉年華盛事本周末登場，延續車",
+   "cities": {
+    "台南市": 9
+   },
+   "districts": [
+    "成大商圈（台南市）"
+   ],
+   "body_chars": 860,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-29/656/20261029003009.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ctee.com.tw/news/20261029701503-431401": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T14:32+08:00",
+   "site_name": "中時即時",
+   "description": "伴隨台南市區鐵路地下化通車及新站啟用，也為車站周邊帶來嶄新發展，尤其近來公共鋼琴爆紅成為音樂廳，大批人潮慕名而來，成大商圈以往晚上9點後就顯冷清，現持續有人潮。成大商圈萬聖嘉年華盛事本周末登場，延續車站熱潮，邀請全國民眾一起來台南變裝、玩遊戲、享美食、抽大獎！ 第11屆成大商圈萬聖嘉年華「LET'S...",
+   "cities": {
+    "台南市": 10
+   },
+   "districts": [
+    "成大商圈（台南市）"
+   ],
+   "body_chars": 835,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-10-29/1024/20261029701504.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E8%80%81%E8%A1%97%E8%A7%80%E5%85%89%E4%BA%BA%E6%AC%A1%E6%8E%92%E5%90%8D%E5%87%BA%E7%88%90-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97-%E8%9F%AC%E8%81%AF%E7%AC%AC-%E7%8B%82%E5%90%B81791%E8%90%AC%E4%BA%BA-074122797.html": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T15:41+08:00",
+   "site_name": "Yahoo News",
+   "description": "觀光署公布2026年1月至8月全台老街及周邊景點觀光人次，彰化鹿港老街以1791萬7817人次蟬聯冠軍，新北瑞芳風景特定區（含九份老街）以1642萬6434人次居次，淡水金色水岸及周邊地區以1240萬3829人次排名第三。鹿港老街觀光人次再創新高，Google評論累積超過4萬3000則、評分達4.5顆星，懷舊氛圍、傳統",
+   "cities": {
+    "台北市": 8,
+    "新北市": 7,
+    "彰化縣": 3,
+    "台中市": 1,
+    "台南市": 1
+   },
+   "districts": [
+    "九份老街商圈（新北市）",
+    "鹿港老街商圈（彰化縣）",
+    "太平老街商圈（嘉義縣）"
+   ],
+   "body_chars": 3598,
+   "image": "https://s.yimg.com/lo/mysterio/api/c234e572b5fce11befb70f334bedb17fc5b5a5682b63db0144dd9a16ec435cef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fgotv_ctitv_com_tw_678%2Fce7e8144df97398c7f9552e4a91d276c.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.bo6s.com.tw/news_detail.php?NewsID=118130": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T14:53+08:00",
+   "site_name": "波新聞",
+   "description": "波新聞─李至文／高雄高雄市政府觀光局主辦的第六屆「2026高雄鹹酥雞嘉年華」魅力席捲海內外！10月25、26日連續兩天，集結全台近90家知名炸物與特色餐飲名店，吸引逾12萬名民眾到場大快朵頤，參展店家及周邊商圈、百貨業績成長近五成，更直接帶動捷運與輕軌運量，熱鬧盛況再創新高。本屆鹹酥雞嘉年華最終由專業評審團及全民票選，",
+   "cities": {
+    "高雄市": 35
+   },
+   "districts": [
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 2062,
+   "image": "https://www.bo6s.com.tw/images/newsimg/small/20261028145359.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6343156001": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "MONEY-LINK 富聯網首創「看懂財經、解讀資訊」，幫助投資人看懂、讀懂、聽懂全球股市/債市/匯市財經訊息，係台灣最大財經軟體資訊商精誠資訊旗下唯一開放式資訊平台。",
+   "cities": {
+    "台南市": 5,
+    "台北市": 1
+   },
+   "districts": [
+    "成大商圈（台南市）"
+   ],
+   "body_chars": 696,
+   "image": "https://ww2.money-link.com.tw/images/news/4/8.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.cnyes.com/news/id/6640627": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T16:47+08:00",
+   "site_name": "鉅亨網",
+   "description": null,
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 737,
+   "image": "https://cimg.cnyes.cool/prod/news/6640627/o/eb20a91ec561f8e3df830203af75f9b4.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/Zap6KNP": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T11:12+08:00",
+   "site_name": "LINE TODAY",
+   "description": "生活中心／張祐嘉報導 台灣老街各具特色，除了知名的九份、淡水，近期位於新北市的坪林老街近期在社群平台上引發熱議。一名網友分享當地茶製美食體驗...",
+   "cities": {
+    "新北市": 3,
+    "台北市": 2,
+    "宜蘭縣": 2
+   },
+   "districts": [],
+   "body_chars": 1088,
+   "image": "https://today-obs.line-scdn.net/0h_WyBOIsoAHhEOxz_LlR_L3xtDAl3XRpxZg5OSmg9Dhs8F0Qoeg9TG2AyX1RgWUYrZF9OHDZsCko5XxIsLA/w1200",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pts.org.tw/article/833431": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T13:39+08:00",
+   "site_name": "公視新聞 PNN",
+   "description": "首都選戰拉鋸，台北市長蔣萬安傳出身體不適，取消今（29）日所有預排行程。陸戰工作由太太接棒，石舫亘上午代夫前往湖光市場掃街。民進黨台北市長候選人沈伯洋，則祝福蔣萬安早日康復，也出席民間版社福政策白皮書發表會交換意見。",
+   "cities": {
+    "台北市": 6
+   },
+   "districts": [],
+   "body_chars": 587,
+   "image": "https://news-data.pts.org.tw/media/300013/conversions/onA5407dlJM6e3L9cNU7Lwjai6HR9ryCGLjyIhKy-og_jpg.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/Keelung/breakingnews/5622803": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T16:15+08:00",
+   "site_name": "自由時報電子報",
+   "description": "國民黨基隆市長謝國樑今天（29日）在立法委員黃健豪陪同下，到基隆廟口商圈掃街拜票，基隆市里長聯誼會總會長林羅清梅、里長王明清及代理里長王培宇一同參與。謝國樑逐一向沿街商家及市民朋友親切問候，不少民眾熱情給予鼓勵，現場互動熱絡，展現濃厚的地方人情味。謝國樑說，感謝黃健豪來到基隆，也感謝地方里長長期以來的支持與協助。廟口是",
+   "cities": {
+    "基隆市": 19
+   },
+   "districts": [],
+   "body_chars": 922,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622803_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ctee.com.tw/news/20261029701344-430503": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T14:48+08:00",
+   "site_name": "工商時報",
+   "description": "影城龍頭威秀董事長閃電換人，10月初換上由大股東宏泰人壽指派法人代表呂政璋出掌印信，呂政璋現任安泰銀行獨立董事及台北101監察人。威秀表示，呂政璋具備企業創辦、跨國經營、國際投資併購及公司治理等實務經驗，將與團隊攜手深耕台灣，推動公司穩健發展。 走馬上任威秀董座兩周的呂政璋強調，將帶領威秀團隊掌握市...",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 570,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-10-29/1024/20261029701345.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taiwannews.com.tw/zh/news/6467660": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "蔣萬安妻子石舫亘，29日一早將至湖光市場掃街輔選 | Oct. 29, 2026 10:37",
+   "cities": {
+    "台北市": 11,
+    "新北市": 1,
+    "台中市": 1,
+    "基隆市": 1
+   },
+   "districts": [],
+   "body_chars": 1708,
+   "image": "https://image.taiwannews.com.tw/2026%2F10%2F29%2Ff8909558b00443b887833e3ad6f09883.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.worldjournal.com/wj/story/121519/9844685": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T14:16+08:00",
+   "site_name": "世界新聞網",
+   "description": "在北灣，淹水已成為一種例行且反覆出現的問題，當地居民和工作人員早已將其視為生活的一部分。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1280,
+   "image": "https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/29/35465762.jpg&M=1&s=Y&x=0&y=314&sw=1080&sh=720&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://mknews.com.tw/2026/10/1009924/": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T16:20+08:00",
+   "site_name": "天天上新聞",
+   "description": "圖/「2026高雄鹹酥雞嘉年華」由專業評審團及全民票選出年度 … Read More",
+   "cities": {
+    "高雄市": 36,
+    "桃園市": 5,
+    "嘉義縣": 4,
+    "台北市": 3,
+    "新竹縣": 3
+   },
+   "districts": [
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 4000,
+   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mirrormedia.mg/story/amp/YT-202610281144-M6GZHhTzLZo": {
+   "checked_at": "2026-10-29T16:51+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T11:44+08:00",
+   "site_name": "鏡週刊 Mirror Media",
+   "description": "國民黨台北市長候選人蔣萬安，27日晚間現身內湖737商圈掃街拜票，現場也有熱情攤商送上美食暖胃，不過也有攤商抱怨「現場太吵」，拒絕和蔣萬安握手。#鏡週刊 ---------------------------------------✔️【歡迎訂閱鏡週刊頻道】➤https://www.youtube.com/@Video",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 272,
+   "image": "https://v3-statics.mirrormedia.mg/images/ef2d27c9-e026-47f1-ae33-208324ef4cb0-w1600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
    "date_hint_from": "原文時間"
   }
  }
