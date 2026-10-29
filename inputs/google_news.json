@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-10-29T09:04:45+08:00",
+ "fetched_at": "2026-10-29T12:17:24+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 162,
-  "kept": 56,
-  "resolved": 56,
-  "items": 54,
+  "raw": 137,
+  "kept": 61,
+  "resolved": 61,
+  "items": 59,
   "resolve_this_run": {
-   "online": 4
+   "online": 8
   },
   "dropped_old": [
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
@@ -16,6 +16,56 @@
   ]
  },
  "items": [
+  {
+   "title": "廈門圖輯》曾厝垵不只有美食老街 走過魚骨天橋看海、尋訪百年漁村與水上飛機場歷史",
+   "google_url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNUXJwYkFQN0RzeEJ4eC0xSE9wajJrcURXM3pPQmhFLXBjNDFBM1Z4SmpsTXlhLU1Pc1VLVFNrdlA4enMzMV9haFdIdmZpalJzQlJNQmNVNDdFVG5OVGpUS0tLdzE4cmFqeW85Y3M3ZWRHaGI2YkYzZDdWTzhNdEJTZ1NYOXYzdUZaTG95NFRfTkt1cWM5N0dHeVo2Mm93blZWTHJCZEhNbGQyQXJxdG5Od3JWcEQyT241ZTNqckhueWQtYWRESTZ4cXJxVER1Z2RVR2ZDNnJFT1NTaHhDbVBWWHJUM1NGUHZtTWFHRS1qSkZyRlJ3eDRDckgtYVNtTFpxTnpjWkZOdFFYNFlnY3d2QWpTSVp4RkgzT1oxb2Jla3hkQXB0dzJBc2g5clpxOHYwQjdtNkhKM0NEcmxsekI1WG9zVlNrRHl6Vllmb3Njb1E2Sm4yMDB3aVhUa05PLTdEdDB4N3pWd1IwazFMbFBtTG1OSEE2UnRYSlZUd3pQYjdxUXR4MzVKYk1nQXhKTWFXc1NwdExiUHBtTXJyUUw0M1BjMVllVG5waVNCdWV6M3d3YmMxTGdzblcwSUI4MDA0ZVRzbXZSS0tjelJ2YkRsZnoySFJ3WE1kM2VhSDVnaWJCVEN6a2hUQTRmMlpaTGp5RWxaR1c2ZGxKRkw4ZldlbnlhTjkyZ00?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-10-29T12:07+08:00",
+   "query": "老街",
+   "url": "https://tw.news.yahoo.com/%E5%BB%88%E9%96%80%E5%9C%96%E8%BC%AF-%E6%9B%BE%E5%8E%9D%E5%9E%B5%E4%B8%8D%E5%8F%AA%E6%9C%89%E7%BE%8E%E9%A3%9F%E8%80%81%E8%A1%97-%E8%B5%B0%E9%81%8E%E9%AD%9A%E9%AA%A8%E5%A4%A9%E6%A9%8B%E7%9C%8B%E6%B5%B7-%E5%B0%8B%E8%A8%AA%E7%99%BE%E5%B9%B4%E6%BC%81%E6%9D%91%E8%88%87%E6%B0%B4%E4%B8%8A%E9%A3%9B%E6%A9%9F%E5%A0%B4%E6%AD%B7%E5%8F%B2-035857136.html",
+   "resolved": true
+  },
+  {
+   "title": "成大商圈萬聖嘉年華首辦 「凹林匹克」運動會踩街討糖、變裝",
+   "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vaW1NZGx3anZvdjd4LWJZU3VFbElRTTlCSW45QlM3cDl0enQ2UkYzdGI1Q3daRjJzUjRSaENkaUFBbUNRNV95WndldVRKRU10OVRMNkh5MGdIcGdUSU9WNVdJdXI2dEV1Zmtlb9IBbEFVX3lxTE1vaW1NZGx3anZvdjd4LWJZU3VFbElRTTlCSW45QlM3cDl0enQ2UkYzdGI1Q3daRjJzUjRSaENkaUFBbUNRNV95WndldVRKRU10OVRMNkh5MGdIcGdUSU9WNVdJdXI2dEV1Zmtlbw?oc=5",
+   "source": "自由時報",
+   "source_site": "https://news.ltn.com.tw",
+   "published_at": "2026-10-29T11:18+08:00",
+   "query": "商圈",
+   "url": "https://news.ltn.com.tw/amp/news/Tainan/breakingnews/5622367",
+   "resolved": true
+  },
+  {
+   "title": "台灣最強老街「狂吸1791萬人次」 多次奪冠！人一年比一年多- 生活",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85V0IteWMxdC04SjJySjZHOUZOTUNSZjJOT0l1X1U2dV9GNFNydk9jZEtDUXFFZjN3QTMtQUMxMEVwanBnbW4zRlZUcTdCSF9hY0w1a01YNVRBbUswa182SnZMZjJVdXdZVWY4UVVR?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-10-29T10:56+08:00",
+   "query": "老街",
+   "url": "https://www.chinatimes.com/realtimenews/20261029001892-260405",
+   "resolved": true
+  },
+  {
+   "title": "酒駕男載女友一中商圈狂飆！鑽中友停車場急換位 秒被破窗揪出逮人",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtM2hjRVdQYk9vNG9LZUlnNlVCUGdiWFE1QU1NbXhoRm1xWjN1VmJDVGtuaUJoNzllMDhOa0FwS202alVZVWZsZEpMN2FpZUViQTJycElGUVo1d1Bpcno5WlFSYWN0RnJVLUJZVXJ30gFuQVVfeXFMUC0zaGNFV1BiT280b0tlSWc2VUJQZ2JYUTVBTU1teGhGbXFaM3VWYkNUa25pQmg3OWUwOE5rQXBLbTZqVVlVZmxkSkw3YWllRWJBMnJwSUZRWjV3UGlyejlaUVJhY3RGclUtQllVcnc?oc=5",
+   "source": "自由時報",
+   "source_site": "https://news.ltn.com.tw",
+   "published_at": "2026-10-29T10:17+08:00",
+   "query": "商圈",
+   "url": "https://news.ltn.com.tw/amp/news/society/breakingnews/5622277",
+   "resolved": true
+  },
+  {
+   "title": "豐原萬聖嘉年華10／31登場 變裝討糖嗨翻商圈 | 產業動態 | 商情",
+   "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82NUhEcDBlU1hZRXhIVmdjektUa3JaZVdLcEVTekg0eEZIU0duQ0tlWUQ2eHBETVdPbXZ2TktoXzZBZE1XRDRUV0lTUlQ4ME45Z0NmdDFzSFVyM00?oc=5",
+   "source": "經濟日報",
+   "source_site": "https://money.udn.com",
+   "published_at": "2026-10-29T10:02+08:00",
+   "query": "商圈",
+   "url": "https://money.udn.com/money/story/11799/9842147",
+   "resolved": true
+  },
   {
    "title": "逢甲輸了！台中人氣景點洗牌公益路商圈奪冠- 生活",
    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYZVlLNXVRWHBxTFJYOGxNbXNRYml6Z0V4ajJpbTlyRnIzcXlib0ZzVG5vN2RlbXc5YmdGTmloeU0ya21SV1hKa1NUT2twQUZydzhua2ZBRklySGk5ald1RERYT1kxTkxWYkpEMA?oc=5",
@@ -177,6 +227,16 @@
    "resolved": true
   },
   {
+   "title": "老街精彩节目不间断 11月5场活动等着你 - 地方 - 综合",
+   "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vcUVCejYtV0R0OW82SGYtQkEwcXhCNVczVjVpemNHQWNEWERfQTV0TkxJakN3WFdPVmVMV29Bd0pjSDNTXzRWZkZMdVh1UUduWnpYWlRoMzVndE4xZVVoeTVEVUpFNGdkNENTUFZ6WWd0My1ueDJKQjh3djQ?oc=5",
+   "source": "Sin Chew Daily",
+   "source_site": "https://johor.sinchew.com.my",
+   "published_at": "2026-10-28T13:32+08:00",
+   "query": "老街",
+   "url": "https://johor.sinchew.com.my/news/20261028/johor/8004956?variant=zh-hant",
+   "resolved": true
+  },
+  {
    "title": "台中物調券第2波10/30登場！369家店家響應 天津商圈8折、自由路9折",
    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rY21teUdmVWdLcU52Qzh6eDVKcXRYU05fOHQ3RVZUTDd4bldtdjF0SC1oU2kwUEUybl9YRExxek9VUm9KOHlGU3paTEhpdjNSeERaVzkwMWFyVFh6UGxyUnRncw?oc=5",
    "source": "新華報導",
@@ -218,12 +278,12 @@
   },
   {
    "title": "一張地圖走讀桃園雙城 串聯老街、古蹟與商場 開啟城市漫遊新體驗",
-   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aWG1kTTZBUWFkUDhfMldhaFBIRmdYS2FtZXdxTmtXaS0wZGt3QllfOWZMaWxpRWNxYkhJZzA4SUlPQmVwNkgxOXpHMW9TQUs0dXd2SXQ0MmUyc28t0gFiQVVfeXFMTU1wN2lzOTRxRU1jY0lkTW5nRWwtQ2tfZUdPeGdaOVFVN2htRTZlVjVlNFh6ZlBFa3pfTGttRXhQQU9TLXl5T29BUmVnRy1Fal8tbmVrR3dGSUp5ckl1NDFJZWc?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6cWUwSnRMOVZkc2hVQ2ZqbXFIVFdDb0F3YlBzazF1Wl9pQ29ZNWNPb2E4a2NTTjc4bTNEanBRV3ZXU3A1b18yUERGWEltMmVvWXpTYzZsNDJheTVBUHlGX0xQZG1MUXh4eVNUWHRpVkxsV2hrb1o4SEZHUEpRcFXSAWJBVV95cUxNTXA3aXM5NHFFTWNjSWRNbmdFbC1Da19lR094Z1o5UVU3aG1FNmVWNWU0WHpmUEVrel9Ma21FeFBBT1MteXlPb0FSZWdHLUVqXy1uZWtHd0ZJSnlySXU0MUllZw?oc=5",
    "source": "UDN",
    "source_site": "https://woman.udn.com",
    "published_at": "2026-10-28T12:00+08:00",
    "query": "老街",
-   "url": "https://woman.udn.com/woman/story/123162/9834489",
+   "url": "https://woman.udn.com/woman/story/123162/9834489?form=udn_ch2_common3_cate",
    "resolved": true
   },
   {
@@ -327,6 +387,16 @@
    "resolved": true
   },
   {
+   "title": "拿著外星道具收集「情色能量」─ 成人遊戲《商店街的外星房客想要色色能量》登陸 Steam",
+   "google_url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNVzFQeUxLcHdpbXk3QzhmQ1czRUZXcHJUem4tMHRqR3FoTllPbG1GUERudkNfYWtaZVpsdGNCdnZpaV9kMnJyMmNNQWVOZnBVWjRtUlpvWDJhRUpabF8xNVA4T0VneHVfSlVaMkd4aWtiazZSSExUNUE1WEtqVmx2ZVp2Zi1iMXd3TzNZQU5aT1YwQ0FLT29sWHVzRnNxSDJFNWRkWTZpajkwNVdXSFNsWGNCdUpBOHJReFRGbVBGa1hRcE1lb19Nc3U4aGxXSDZWcl9qQnNIcGE4d29EWlpqQ3JucVNWMGJpaDQxZ3lIa2lkcFRDU0JQblBYQk5BSy1tOHpZdmIzTkUzbFlpU002ZGxub1FvMjMxSGxYb193WDNFNVZ5akQtY2xlUWRRQXNRX2VaU3NqUjBPX25DcV8wNkR5Q2M2TEQ2OEw3RW5B?oc=5",
+   "source": "https://gamelife.tw/",
+   "source_site": "https://gamelife.tw",
+   "published_at": "2026-10-28T09:01+08:00",
+   "query": "商店街",
+   "url": "https://gamelife.tw/gamenews/%E6%8B%BF%E8%91%97%E5%A4%96%E6%98%9F%E9%81%93%E5%85%B7%E6%94%B6%E9%9B%86%E3%80%8C%E6%83%85%E8%89%B2%E8%83%BD%E9%87%8F%E3%80%8D%E2%94%80-%E6%88%90%E4%BA%BA%E9%81%8A%E6%88%B2%E3%80%8A%E5%95%86%E5%BA%97/",
+   "resolved": true
+  },
+  {
    "title": "影／撬一中商圈娃娃機偷零錢被逮 男掏老虎鉗欲攻擊警 遭辣椒水制伏",
    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BRG9qLUlXY1V5djdRcTNTZkJYekFvZXhfcks3M2dLTU4weFMxTUZaZWtwZkVNbG9PZko3VmZvdnVOVXJzajNRSTR1ajJhRUlBNVFYY054QmVIV2Z2TWVvQnV6MmFfdTVtMVdsMjVobEt1S3N50gFWQVVfeXFMTVp1WVdpLTRoOXV4blp2SVh2aWZ5RmFkQndnNWpmbmVjQWtvV1dqU25SM2FGS1hNRjhTQ1Z0bjZxcFdJZEFENVlLZ0ZrY0pvOHdXa2pEQlE?oc=5",
    "source": "UDN",
@@ -387,13 +457,13 @@
    "resolved": true
   },
   {
-   "title": "交通意外︰亞皆老街去大角咀(19:30最新)",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxQTF6Rk1wVnF0cVRtRGVGcVJWSzg5YW9EcDVvNmZvSG9QckdFUjhUN0RFY2V3cERsSWJ2elhvVnVVTk1rbzc4QTRJdDVDY3dydWtzazB30gFbQVVfeXFMUDdWZkJLVXJEVnhQVFVDOTlndk5wOTZVTFd0TGpVS3JBbjVkdDdYLTlTd2w0YTdPRVVZeUFtT3RvcndzQnJocHlRdXZmbU45MWFjbFVCV1FRdE9odw?oc=5",
-   "source": "商業電台",
+   "title": "馬路的事 - 交通意外︰亞皆老街去大角咀(19:30最新)",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BNnNMT0FvbTBlaWdZQzBuZm5lX19SRFU2WHAyQmJhQ0xoZ25HTmVWWElRTFdreWZMdXJOXzdsNlJ1QmJQdFc0X0FXa0FjM3FVOFJsbjB3?oc=5",
+   "source": "www.881903.com",
    "source_site": "https://www.881903.com",
    "published_at": "2026-10-27T19:30+08:00",
    "query": "老街",
-   "url": "https://www.881903.com/news/traffic/2656738",
+   "url": "https://www.881903.com/traffic/info/2656738",
    "resolved": true
   },
   {
@@ -534,26 +604,6 @@
    "published_at": "2026-10-27T12:19+08:00",
    "query": "商圈",
    "url": "https://udn.com/news/amp/story/7326/9839466",
-   "resolved": true
-  },
-  {
-   "title": "打敗一中商圈！台中最強景點吸2309萬人從早玩到晚- 生活",
-   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OLS11NDF1TDFmQzVINXhkZTF1T0hiXzk0NWZ6YmlQVFN0amhJTDFqbXFKZE9xcExoM1FXbVNZY1FPNTQ3b0JOd2RLLTlnV1JWT0FzcG51YWlkazh3a0FQT014dldickZSQ3d2NTRn?oc=5",
-   "source": "中時新聞網",
-   "source_site": "https://www.chinatimes.com",
-   "published_at": "2026-10-27T11:03+08:00",
-   "query": "商圈",
-   "url": "https://www.chinatimes.com/realtimenews/20261027001835-260405",
-   "resolved": true
-  },
-  {
-   "title": "北市商辦租賃市場轉強 忠孝襄陽商圈最突出",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZZ3JmYVJoS3FydVhkTDUwY1Q2RlZDTUxIakEzMzA1X1ptbUdGSFpyOVNwWmprdjFoRnRrWngwZXBvMmNBM091UHhjdnFBT3hIZjl3MDJfdU5WdmVDc0F6ai15dWQ?oc=5",
-   "source": "台灣房屋",
-   "source_site": "https://news.twhg.com.tw",
-   "published_at": "2026-10-27T09:45+08:00",
-   "query": "商圈",
-   "url": "https://news.twhg.com.tw/re_news_details.php?ojb=61126",
    "resolved": true
   }
  ]

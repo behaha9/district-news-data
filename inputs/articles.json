@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T09:04:53+08:00",
+ "fetched_at": "2026-10-29T12:17:32+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -4719,11 +4719,6 @@
    "image_checked": true,
    "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
-  },
-  "https://www.cdns.com.tw/articles/1479536": {
-   "checked_at": "2026-10-26T09:26+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
   },
   "https://n.yam.com/Article/20261024210556": {
    "checked_at": "2026-10-27T11:29+08:00",
@@ -10950,6 +10945,247 @@
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
+  },
+  "https://life.tw/article/從老街區文化到世代交流-里長參選人盧綠綢提出建功里社區活動構-3194318": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": "error",
+   "error": "'ascii' codec can't encode characters in position 13-23: ordinal not in range(128)"
+  },
+  "https://johor.sinchew.com.my/news/20261028/johor/8004956?variant=zh-hant": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.chinatimes.com/realtimenews/20261029001892-260405": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T10:56+08:00",
+   "site_name": "中時新聞網",
+   "description": "觀光署公布2026年1至8月全台老街及周邊景點觀光人次，鹿港老街以1791萬7817人次奪冠，近年多次拿下全台老街觀光人次第一名，2024年上半年累計約962萬人次，2025年1至8月則有約1641萬人次，今年與去年同期相比，鹿港",
+   "cities": {
+    "彰化縣": 2,
+    "新北市": 1
+   },
+   "districts": [
+    "九份老街商圈（新北市）",
+    "鹿港老街商圈（彰化縣）",
+    "太平老街商圈（嘉義縣）"
+   ],
+   "body_chars": 775,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-29/656/20261029001907_20261029104036.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://woman.udn.com/woman/story/123162/9834489?form=udn_ch2_common3_cate": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T12:00+08:00",
+   "site_name": "udn 女子漾",
+   "description": "【旅奇傳媒/編輯部報導】從歷史建築、傳統市場到異國美食與特色老店，「桃園老城」與「中壢舊城」藏著許多值得探索的城市故事。為讓來桃園住宿的旅客不只住一晚，更能深入認識城市的人文風景。「桃園市觀光發展基金會」以旅宿遊客為主要推廣對象，整合旅宿、城市導覽與商圈資源，推出「一起出發！桃園雙城的日常」城市走讀活動。並結合桃園市政",
+   "cities": {
+    "桃園市": 45,
+    "台北市": 3,
+    "高雄市": 2,
+    "嘉義": 2
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450015.jpg&M=1&s=Y&x=0&y=0&sw=720&sh=480&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/amp/news/Tainan/breakingnews/5622367": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T11:18+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台南萬聖節有新玩法！第11屆成大商圈萬聖嘉年華「LET\\'S PLAY玩聖節」將於10月31日、11月1日在勝利路台南一中門口至大學路口登場，今年首度推出「凹林匹克趣味運動會」，結合布袋球、電子飛鏢、虛擬運動及毛毛蟲競賽，邀全民組隊同樂，還有討糖踩街、變裝競賽、特色市集及萬聖大抽獎，讓育樂街化身歡樂派對現場。南市成大商",
+   "cities": {
+    "台南市": 11,
+    "屏東縣": 1
+   },
+   "districts": [
+    "成大商圈（台南市）"
+   ],
+   "body_chars": 1121,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622367_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%BB%88%E9%96%80%E5%9C%96%E8%BC%AF-%E6%9B%BE%E5%8E%9D%E5%9E%B5%E4%B8%8D%E5%8F%AA%E6%9C%89%E7%BE%8E%E9%A3%9F%E8%80%81%E8%A1%97-%E8%B5%B0%E9%81%8E%E9%AD%9A%E9%AA%A8%E5%A4%A9%E6%A9%8B%E7%9C%8B%E6%B5%B7-%E5%B0%8B%E8%A8%AA%E7%99%BE%E5%B9%B4%E6%BC%81%E6%9D%91%E8%88%87%E6%B0%B4%E4%B8%8A%E9%A3%9B%E6%A9%9F%E5%A0%B4%E6%AD%B7%E5%8F%B2-035857136.html": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T11:58+08:00",
+   "site_name": "Yahoo News",
+   "description": "來到廈門，除了鼓浪嶼、中山路步行街與南普陀寺，位於環島南路的曾厝垵，也是值得留點時間慢慢探索的旅遊景點。這座昔日靠海維生的傳統漁村，如今巷弄裡聚集閩南小吃、咖啡館、文創商店與特色民宿，走出熱鬧街區，跨過環島路便能看見開闊海景。從老街、古厝到濱海步道，短短一段旅程就能感受不同風景；而在鄰近的音樂廣場海岸，更藏著一段鮮少被",
+   "cities": {
+    "台北市": 4,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://s.yimg.com/lo/mysterio/api/20757accf3f69796052ed20b7e3d5dc970339ef02ab163a6d2af5f309cbdad97/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftaiwanhot.net.tw%2Ffc03008659c4d55a5a7d5b22fb9a01b8.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.881903.com/traffic/info/2656738": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T19:30+08:00",
+   "site_name": "商業電台 881903",
+   "description": "交通意外︰亞皆老街去大角咀(19:30最新)【馬路的事交通消息】亞皆老街去大角咀，近太平道有交通意外，龍尾：窩打老道。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 60,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/%E9%A3%9F%E7%89%A9%E8%88%87%E9%A3%B2%E6%96%99-/%E4%B8%80%E8%88%AC/%E5%A4%A7%E6%BA%AA%E7%A7%98%E5%A2%83%E6%BC%AB%E6%AD%A5-%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%9C%A8%E5%B1%8B%E8%88%87%E8%80%81%E8%A1%97%E7%BE%8E%E9%A3%9F/vi-AA1BAOQl": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.ltn.com.tw/amp/news/society/breakingnews/5622277": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T10:17+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台中市32歲劉姓男子28日酒後開車載著25歲潘姓女友，遇警方攔查竟加速逃逸，沿途狂飆穿梭一中商圈等人潮聚集路段，最後躲進中友百貨地下停車場，還急忙與女友交換座位企圖脫身，仍遭警方破窗揪出逮人，結果酒測值高達0.49毫克，明顯超過法定標準值，警詢後依公共危險罪嫌法辦。第二分局立人派出所員警28日下午1時45分許執行巡邏勤",
+   "cities": {
+    "台中市": 4,
+    "高雄市": 2,
+    "苗栗縣": 1,
+    "南投縣": 1,
+    "宜蘭縣": 1
+   },
+   "districts": [],
+   "body_chars": 1026,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622277_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5622367": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T11:18+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台南萬聖節有新玩法！第11屆成大商圈萬聖嘉年華「LET\\'S PLAY玩聖節」將於10月31日、11月1日在勝利路台南一中門口至大學路口登場，今年首度推出「凹林匹克趣味運動會」，結合布袋球、電子飛鏢、虛擬運動及毛毛蟲競賽，邀全民組隊同樂，還有討糖踩街、變裝競賽、特色市集及萬聖大抽獎，讓育樂街化身歡樂派對現場。南市成大商",
+   "cities": {
+    "台南市": 8
+   },
+   "districts": [
+    "成大商圈（台南市）"
+   ],
+   "body_chars": 908,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622367_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://city.gvm.com.tw/article/133832": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T01:18+08:00",
+   "site_name": "城市學",
+   "description": "2026臺北白晝之夜將於10月31日（六）下午2點登場，一路持續至11月1日（日）凌晨2點，活動橫跨12小時，免費開放民眾參加。今年活動以圓山為核心，主題為「NIGHT KA SHI 夜卡西」，串連圓山自然景觀公園、花博公園圓山園區、大同大學與晴光市場街區，集結超過30件藝術作品及50場表演與主題節目。想一次看遍互動藝",
+   "cities": {
+    "台北市": 16
+   },
+   "districts": [
+    "晴光商圈（台北市）"
+   ],
+   "body_chars": 4000,
+   "image": "https://imgs.gvm.com.tw/upload/gallery/20261016/243178.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/Taipei/breakingnews/5622313": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T11:28+08:00",
+   "site_name": "自由時報電子報",
+   "description": "九合一大選倒數衝刺，台北市長選戰進入最緊繃的辯論前夕。尋求連任的台北市長蔣萬安昨晚突然對外宣布身體不適，考量身體狀況及後續辯論準備，經團隊評估後，取消所有預排行程。對此，民進黨立委林俊憲預言，蔣萬安這幾天勢必會「徹底神隱躲起來閉門背稿」，更推測蔣陣營接下來在11月初必將祭出「哭泣悲情牌」，企圖以「受害者姿態」激化深藍長",
+   "cities": {
+    "台北市": 8
+   },
+   "districts": [],
+   "body_chars": 1190,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/php4AvSEL.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E9%A2%A8%E5%9F%9F%E7%A5%AD1023%E8%B5%B7%E7%99%BB%E5%A0%B4-%E9%9B%99%E8%88%9E%E5%8F%B026%E7%B5%84%E5%9C%98%E9%9A%8A%E6%BC%94%E5%87%BA%E3%80%81%E9%A6%96%E8%BE%A6%E5%AE%9A%E5%90%91%E8%B6%8A%E9%87%8E%E3%80%81%E5%B8%82%E9%9B%86%E3%80%81%E5%85%8D%E8%B2%BB%E6%8E%A5%E9%A7%81%E8%BB%8A%E8%B3%87%E8%A8%8A%E7%B8%BD%E6%95%B4%E7%90%86%EF%BC%81-010349766.html": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T10:55+08:00",
+   "site_name": "Yahoo News",
+   "description": "一起來屏東「放風」！邁入第三屆的「屏東風域祭」將於10/24～10/25在牡丹遊客中心熱鬧登場。今年以「借過一下，我去放風」為主題，規劃雙舞台共26組團隊接力演出，並結合定向越野、在地市集、手作體驗、親子解謎、半島餐桌及5條兩天一夜的套裝遊程，走進橫跨牡丹、滿州、車城與恆春的風域半島，體驗草原、沙丘與海岸在秋冬的獨特風",
+   "cities": {
+    "屏東縣": 10,
+    "台北市": 9,
+    "台南市": 1,
+    "彰化縣": 1
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://s.yimg.com/lo/mysterio/api/3412cb000cdebf1b670f1c7d99ff145e5b5eebb562d1689de40b9f3333b3222b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ffb_0973.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/society/breakingnews/5622277": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T10:17+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台中市32歲劉姓男子28日酒後開車載著25歲潘姓女友，遇警方攔查竟加速逃逸，沿途狂飆穿梭一中商圈等人潮聚集路段，最後躲進中友百貨地下停車場，還急忙與女友交換座位企圖脫身，仍遭警方破窗揪出逮人，結果酒測值高達0.49毫克，明顯超過法定標準值，警詢後依公共危險罪嫌法辦。第二分局立人派出所員警28日下午1時45分許執行巡邏勤",
+   "cities": {
+    "台中市": 3,
+    "高雄市": 1,
+    "苗栗縣": 1
+   },
+   "districts": [],
+   "body_chars": 869,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622277_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/11799/9842147": {
+   "checked_at": "2026-10-29T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T10:02+08:00",
+   "site_name": "經濟日報",
+   "description": "萬聖節腳步逐漸逼近，豐原廟東復興商圈也提前染上繽紛色彩！豐原廟東復興商圈26日舉辦「原來是藝術家DIY-4.0－藝起彩繪豐原」彩繪燈籠活動，邀請大小朋友拿起畫筆發揮創意，用不同色彩與圖案彩繪專屬燈籠，在輕鬆的親子手作時光中，一起為豐原街區增添藝術氣息，也為即將登場的萬聖節活動提前暖身。 「原來是藝術家」系列活動近年持續",
+   "cities": {
+    "台中市": 7
+   },
+   "districts": [
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1629,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/28/35461881.jpg&M=2&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
   }
  }
 }
