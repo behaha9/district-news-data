@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T07:17:46+08:00",
+ "fetched_at": "2026-10-29T09:04:53+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -10856,6 +10856,100 @@
    "image_checked": true,
    "date_hint": "2026-10-28",
    "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/amp/news/life/breakingnews/5621605": {
+   "checked_at": "2026-10-29T09:04+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T16:30+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台中市第二波物調券「100元換200元」10月30日到11月1日發放，使用期限7天，全市商圈共369家店家響應，推出服飾、美食、伴手禮及生活用品等多元優惠，結合折扣、買一送一、滿額贈及消費加碼等活動，天津商圈推出全商圈8折及限量驚喜福袋，自由路商圈則祭出全商圈9折等，帶動商圈買氣。經發局說，這次物調券商圈優惠最大亮點，",
+   "cities": {
+    "台中市": 12,
+    "台北市": 1,
+    "高雄市": 1
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1391,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/28/5621605_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taichung.gov.tw/8868/8872/9962/3401276": {
+   "checked_at": "2026-10-29T09:04+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "臺中市政府全球資訊網",
+   "description": "台中第二波物調券369家商圈店家響應！天津商圈8折、自由路9折再加碼優惠",
+   "cities": {
+    "台中市": 11
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1542,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.mirrormedia.mg/story/YT-202610281144-M6GZHhTzLZo": {
+   "checked_at": "2026-10-29T09:04+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T11:44+08:00",
+   "site_name": "鏡週刊 Mirror Media",
+   "description": "國民黨台北市長候選人蔣萬安，27日晚間現身內湖737商圈掃街拜票，現場也有熱情攤商送上美食暖胃，不過也有攤商抱怨「現場太吵」，拒絕和蔣萬安握手。#鏡週刊 ---------------------------------------✔️【歡迎訂閱鏡週刊頻道】➤https://www.youtube.com/@Video",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 601,
+   "image": "https://v3-statics.mirrormedia.mg/images/ef2d27c9-e026-47f1-ae33-208324ef4cb0-w1600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mirrormedia.mg/story/YT-202610281144-M6GZHhTzLZo?from=index_list_news": {
+   "checked_at": "2026-10-29T09:04+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T11:44+08:00",
+   "site_name": "鏡週刊 Mirror Media",
+   "description": "國民黨台北市長候選人蔣萬安，27日晚間現身內湖737商圈掃街拜票，現場也有熱情攤商送上美食暖胃，不過也有攤商抱怨「現場太吵」，拒絕和蔣萬安握手。#鏡週刊 ---------------------------------------✔️【歡迎訂閱鏡週刊頻道】➤https://www.youtube.com/@Video",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 601,
+   "image": "https://v3-statics.mirrormedia.mg/images/ef2d27c9-e026-47f1-ae33-208324ef4cb0-w1600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ttv.com.tw/videocity/video_play.asp?id=950166&sid=5": {
+   "checked_at": "2026-10-29T09:04+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "TTV",
+   "description": "台視影音：提供台視最新的綜藝、專題、節目預告及新聞影音，並有數個完整影音節目，供網友選擇收看。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 48,
+   "image": "https://www.ttv.com.tw/group/15/images/TOUCHTTV.png",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   }
  }
 }
