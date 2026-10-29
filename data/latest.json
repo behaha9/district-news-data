@@ -1,7 +1,93 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T12:18:28+08:00",
+ "generated_at": "2026-10-29T16:52:40+08:00",
  "items": [
+  {
+   "id": "20261029-hualien-golden-triangle",
+   "title": "花蓮市長參選人戴于文提「金三角再造計畫」，主張活化舊鐵道商圈",
+   "summary": "戴于文提出金三角再造計畫，以舊鐵道商圈及客來堡為雙核心，從文化、交通與店家活化著手，並呼籲正視商圈轉型。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-10-29T15:55:00+08:00",
+   "cities": [
+    "花蓮縣"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "TVBS新聞網",
+     "url": "https://news.tvbs.com.tw/politics/4043062",
+     "published_at": "2026-10-29T15:55:00+08:00"
+    }
+   ],
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a186a5-750f-7244-b4ac-a6eeb851a388.jpg?t=16x9&c=0,46,721,452&w=1200&h=675"
+  },
+  {
+   "id": "20261028-old-street-ranking",
+   "title": "觀光署統計：鹿港老街及周邊居全台人氣老街榜首",
+   "summary": "交通部觀光署公布今年1至8月統計，彰化鹿港老街及周邊地區奪下全台人氣老街第一。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-10-29T15:41:00+08:00",
+   "cities": [
+    "彰化縣"
+   ],
+   "districts": [
+    {
+     "name": "鹿港老街商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E8%80%81%E8%A1%97%E8%A7%80%E5%85%89%E4%BA%BA%E6%AC%A1%E6%8E%92%E5%90%8D%E5%87%BA%E7%88%90-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97-%E8%9F%AC%E8%81%AF%E7%AC%AC-%E7%8B%82%E5%90%B81791%E8%90%AC%E4%BA%BA-074122797.html",
+     "published_at": "2026-10-29T15:41:00+08:00"
+    },
+    {
+     "outlet": "中時新聞網",
+     "url": "https://www.chinatimes.com/realtimenews/20261029001892-260405",
+     "published_at": "2026-10-29T10:56:00+08:00"
+    },
+    {
+     "outlet": "風傳媒",
+     "url": "https://www.storm.mg/lifestyle/11175949",
+     "published_at": "2026-10-28T11:30:00+08:00"
+    }
+   ],
+   "image": "https://s.yimg.com/lo/mysterio/api/c234e572b5fce11befb70f334bedb17fc5b5a5682b63db0144dd9a16ec435cef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fgotv_ctitv_com_tw_678%2Fce7e8144df97398c7f9552e4a91d276c.jpg"
+  },
+  {
+   "id": "20261029-chengda-station-traffic",
+   "title": "台南車站公共鋼琴帶動人潮，成大商圈夜間人潮成長約兩成",
+   "summary": "報導指台南鐵路地下化新站啟用後，車站公共鋼琴爆紅，成大商圈晚間9點後仍有人潮，整體人潮成長約2成。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-10-29T14:32:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [
+    {
+     "name": "成大商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "成大商圈為115年補助名單，報導指人潮成長，可留意活動成效與KPI達成。",
+   "sources": [
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261029701503-431401",
+     "published_at": "2026-10-29T14:32:00+08:00"
+    },
+    {
+     "outlet": "富聯網",
+     "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6343156001",
+     "published_at": "2026-10-29T00:00:00+08:00"
+    }
+   ],
+   "image": "https://images.ctee.com.tw/newsphoto/2026-10-29/1024/20261029701504.jpg"
+  },
   {
    "id": "20261029-chengda-halloween",
    "title": "成大商圈萬聖嘉年華10月31日、11月1日登場，首度加入趣味運動會與踩街討糖",
@@ -27,36 +113,6 @@
    ],
    "admin_note": "成大商圈為115年補助名單，活動公開辦理，可作為執行佐證參考。",
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622367_2_1.jpg"
-  },
-  {
-   "id": "20261028-old-street-ranking",
-   "title": "觀光署統計：鹿港老街及周邊居全台人氣老街榜首",
-   "summary": "交通部觀光署公布今年1至8月統計，彰化鹿港老街及周邊地區奪下全台人氣老街第一。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-10-29T10:56:00+08:00",
-   "cities": [
-    "彰化縣"
-   ],
-   "districts": [
-    {
-     "name": "鹿港老街商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "中時新聞網",
-     "url": "https://www.chinatimes.com/realtimenews/20261029001892-260405",
-     "published_at": "2026-10-29T10:56:00+08:00"
-    },
-    {
-     "outlet": "風傳媒",
-     "url": "https://www.storm.mg/lifestyle/11175949",
-     "published_at": "2026-10-28T11:30:00+08:00"
-    }
-   ],
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-29/656/20261029001907_20261029104036.jpg"
   },
   {
    "id": "20261023-fengyuan-halloween",
@@ -92,6 +148,42 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/28/35461881.jpg&M=2&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
+  },
+  {
+   "id": "20261024-haian-green-market",
+   "title": "崑山科大在海安商圈辦第5屆綠色永續市集，12家店家導入綠色行銷",
+   "summary": "崑山科大10月24至25日在海安商圈舉辦綠色永續市集，約30個攤位參與，並串聯商圈店家推動綠色行銷。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-29T09:14:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [
+    {
+     "name": "海安商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "海安商圈為115年補助名單，活動已於商圈辦理，可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "PChome Online新聞",
+     "url": "https://news.pchome.com.tw/living/1111news/20261029/index-79323649560105358009.html",
+     "published_at": "2026-10-29T09:14:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261029592720",
+     "published_at": "2026-10-29T08:00:00+08:00"
+    },
+    {
+     "outlet": "中央社",
+     "url": "https://www.cna.com.tw/postwrite/chi/448211",
+     "published_at": "2026-10-28T04:14:00+08:00"
+    }
+   ],
+   "image": "https://news.pchome.com.tw/newsdata/living/1111news/20261029/79323649560105358009_original.jpg"
   },
   {
    "id": "20261028-taichung-wudiaoquan-districts",
