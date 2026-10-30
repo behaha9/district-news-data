@@ -1,12 +1,139 @@
 {
- "updated_at": "2026-10-30T17:18:53+08:00",
+ "updated_at": "2026-10-30T17:25:13+08:00",
  "topics": [
   {
    "id": "oil-price",
    "name": "油價",
    "since": "2026-10-23",
    "until": "2026-12-31",
-   "items": []
+   "items": [
+    {
+     "title": "中油台電撥補案牽動通膨 楊金龍：若沒補貼、油價又漲CPI恐攀升",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11U01SOERiQXhhVEJLVmFtajNNV1RmUHhITHlNZjZlcTdTQ3ViSmQtQy1HekFBb0hLNnFkcEd1dW42MmFhMlZUSUlSTnZvVnBJ0gFWQVVfeXFMUDBnNXMyamRwemNtckdXWEpUcFFvUVowSmJabWhRbHAtU212LW5IaHZRbFFnQU9UN3puT1hBN2dobmVDWVJlN3FWTU9iVGM1RU9GTDdiMHc?oc=5",
+     "source": "UDN",
+     "published_at": "2026-10-28T16:40+08:00",
+     "url": "https://udn.com/news/story/7238/9842593",
+     "resolved": true
+    },
+    {
+     "title": "國內油價終止連3降！中油宣布下週汽、柴油不調整",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94d002TGNucW5BbDcwM2p0QzgzTVZVWE1kTlFGVmk0Uk5YeTNHZ1BIU1NCWWI4MHk2aHpFUUoxamdjT05abElpTnAxX2hmWXNVX1I3clYxQ3o?oc=5",
+     "source": "自由時報",
+     "published_at": "2026-10-27T20:39+08:00",
+     "url": "https://stock.ltn.com.tw/article/k6dsnqcma2mx",
+     "resolved": true
+    },
+    {
+     "title": "國內油價連6凍！下周汽、柴油價格不調整 中油吸收突破300億元",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MNW4tOGM1RjNXQ3VBT0I2VWdXenM0T0JWN2hrckRuaUxvQTM1SlUxNk9SOE1vNFZDcXREa3lNb0NPWGYzUTRjTy1vRVlFTFpH0gFWQVVfeXFMTjJSbXI5dm1qTjVZT3RCNnZqZVBHY0FOU2tDRGJVZHZFamhNSzFzdFhrUkhwQ1dKekJvd1BRdS0zSjZKbVVMUHhLM1FVbHZ5dmVTWUYtRGc?oc=5",
+     "source": "UDN",
+     "published_at": "2026-10-24T18:37+08:00",
+     "url": "https://udn.com/news/story/7266/9835292",
+     "resolved": true
+    },
+    {
+     "title": "連6出手凍油價！中油宣布下周油價不調整 95無鉛32.7元、98無鉛34.7元",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPMmZyalNmMkdGQmdFQnlSaFE4cW9lWTMyVHhQVGxrM09UcHplMklqTU03S0Y4QWk2WE1XcG1ieVpHNm1nZTZqZllFMzJFbVVXX1Mwb0EtV3hob1JidGVMS290VFk2XzFXSnZCU0RXZEFYbjNZWjQyT3R5aU9PR2NMZzBSU0dDbHZhV19CTnkyNEJhcUdzS25XS1laVGNHRU9uaFJEdE81SExEOXByQ3Q0YThVX2tOYldPa0NuV0t3YTkzRFgxMmwwYTNYWG1SZ0xvaEdEM0s1VUJuY2dGdVo4NGJBdzRzcjNvMFBob0NlT0pNY0steElpY25jNWUxbVhYSkRaS3VTX2Rzd3g0R0FmYUZUWkp2S1JpakFDSmEwYnBRSmF2Q1dEbENLNEdwUW9IeEgtNDdHaHYtSFNhd01udVJsbEp0ajNGZGtOdWhOQzlnYy1nMTRHY3ctMnRUWFNOU19UaGlzMmEzZ2p5U0xCQVJmX2FxQQ?oc=5",
+     "source": "Yahoo股市",
+     "published_at": "2026-10-24T18:10+08:00",
+     "url": "https://tw.stock.yahoo.com/news/%E9%80%A36%E5%87%BA%E6%89%8B%E5%87%8D%E6%B2%B9%E5%83%B9-%E4%B8%AD%E6%B2%B9%E5%AE%A3%E5%B8%83%E4%B8%8B%E5%91%A8%E6%B2%B9%E5%83%B9%E4%B8%8D%E8%AA%BF%E6%95%B4-95%E7%84%A1%E9%89%9B32-7%E5%85%83-98%E7%84%A1%E9%89%9B34-101000717.html",
+     "resolved": true
+    },
+    {
+     "title": "中油下週汽柴油凍漲 每公升分別吸收11.2元、11.4元",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41MWtVZjQzakdQNmVIZDA2Q2pMUFQ3emx4RlEzNnVJT0ViLUx1dEhqbDZ1WDlXTEE3dlRsNmZaWEZ3ekZzcl9NVUNnc0VzSllIdVE?oc=5",
+     "source": "蕃新聞",
+     "published_at": "2026-10-24T17:47+08:00",
+     "url": "https://n.yam.com/Article/20261024672838",
+     "resolved": true
+    },
+    {
+     "title": "中油：下周汽、柴油價格不調整 合計擴大吸收共303.7億元",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94OUh2VXA3aGlsS0drTEdrN2ttZ2UzVElockRONnJyZG9uLXdnbzdBelhoTlVySFdTWV9aTGd5dGdEZTh2dXpncVFNM2NTZE5uR0QwcG00Wmp1SDRkTWdrX1N2empxNC1ZYWNxNWFvekdqMzlH0gFWQVVfeXFMT2dyMWozZndLcE8tNXFXZ3ZkN1A5eENaWjRLd3c2ZmVPdzRzQWRUckJvOGt4VGpqbER5Ym5vYkNHelRFd1g5TTAyN19zUDJxalFwMnpRV2c?oc=5",
+     "source": "UDN",
+     "published_at": "2026-10-24T17:46+08:00",
+     "url": "https://udn.com/news/story/121591/9835262?from=udn-relatednews_ch2",
+     "resolved": true
+    },
+    {
+     "title": "中油：下週汽柴油價格不調整　累積吸收逾303億元",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByeVRISThSNkJzNEJpQWVfRXNNbEs0Y0dFR3Q5ZG5TNkRtWGkxTk1qMC1heG5SZFk0d0VGbjloYUR5SnZ3U1FsNzV1Zk0td3h4YWpMUEFyZXB6QdIBX0FVX3lxTE9kVGU4WTN2RmFZNm13TjdoVUQ0UXlxb0R1dFVyc1l2QktJaDkwaVZTMFJneDc1M0dhNnJPYUwtZTd0N1I3LUNyUU12VThfdlhHSlUxZC16MUtxMHJ2ZWU4?oc=5",
+     "source": "經濟日報",
+     "published_at": "2026-10-24T17:30+08:00",
+     "url": "https://money.udn.com/money/story/5612/9835223",
+     "resolved": true
+    },
+    {
+     "title": "中油：下週汽柴油價格不調整累積吸收逾303億元| 生活",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmSEZiSnBrWWc2V3BEVUc0MDhlVV91V3pOeDFkQ3NHSWF5S3ItLXdLSUM1ck5KQ1I2QUxxRWlQdkIzZ0hmU0g1NWxiZDZQV2FvbHFjSmNPdmxkRTI4TDA4?oc=5",
+     "source": "中央社 CNA",
+     "published_at": "2026-10-24T17:18+08:00",
+     "url": "https://www.cna.com.tw/news/ahel/202610240145.aspx",
+     "resolved": true
+    },
+    {
+     "title": "連6凍了！中油宣布下週汽、柴油價格維持不調整",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xbzl2eFdfYjNtVjVBT291YVVqTmhpMUVsR0FqZHJrZDJueU94MnUybm5jT1d4eWpBSlhSQ1RFYXFsWS1XRkJsZDBtQTVxQQ?oc=5",
+     "source": "TVBS新聞網",
+     "published_at": "2026-10-24T17:18+08:00",
+     "url": "https://news.tvbs.com.tw/life/4040740",
+     "resolved": true
+    },
+    {
+     "title": "中油每公升吸收逾11元 下週油價仍凍漲",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93TjREWFN2VTlYbEh1QjRKWmlXYzVFWWUtb3QxckNBcXM2N01pcnJhLUY4NjE0bnVfNktpMm5faE1hc016bkloUjBqYmZMdGZ1dERacXIzWFNzTW9VLVJZ0gFkQVVfeXFMTTRZZEtkLWVTaGdSOHYxcXpJU1VIRkxJSTBKQUFJVS1VQmdFRjJIS19BUzQ4WGxzM0xaLUFXZ29IdkF0YXBHN1dyQklIRkhzYVVSQUVwQktYcjJvVzNvYXJNcURNbw?oc=5",
+     "source": "自由財經",
+     "published_at": "2026-10-24T17:17+08:00",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5617532",
+     "resolved": true
+    },
+    {
+     "title": "中油宣布下周油價不調整 92無鉛31.2元、95無鉛32.7元",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZY2tyMU1zaTNtSi1JZ0RXSmdTXzlhWHc5b2dUeWNWOGN3NXNiUUY2elQxY2pPd0RBa3lIYnM3T3kzQ2tPNzFqQlFpWnlsX0da0gFWQVVfeXFMTm8tclZtM2p1TTFJVHg5OHAzNnpZQVB1azJXTzZ1UXhGZEZoQjRUZ01xRnJJdjRzeXpKblZRb05zdWFmU2l4cVlxRzZNQUZ4VV94SE5BTHc?oc=5",
+     "source": "UDN",
+     "published_at": "2026-10-24T17:13+08:00",
+     "url": "https://udn.com/news/story/7266/9835211",
+     "resolved": true
+    },
+    {
+     "title": "油價凍漲！26日起95無鉛32.7元、柴油29.9元 中油：已吸收303.7億",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRnFtY1QybFJneXZ6WkRjdmR4YjJaQTZmTUdOSXpQc2V5SS04MmNxbkpvWlJLS3huajdqVERCRmYyaHEtUzY2Zlp4Nkp0SGszc0pWektONjJGdzBHdklDbUlPUGRZWU5wT2UwaUdhS01ialdQZ1Z4RHQtd3M5WlVsc1llSmlHUHNYaHpRZmFhejM3VzRBRm1rMm5jT0dQczMwMldTOHBCNE9KRm5GTGdPYjVWa0RpanotcXlydHNKQzNqbnhMSElXcXVMSlhZVTUzRkUxaWJzU3pCdVdmWm1NX09Ra3RPWDVLY2d0QllFMGI5R2tSZ0E?oc=5",
+     "source": "Yahoo新聞",
+     "published_at": "2026-10-24T17:11+08:00",
+     "url": "https://tw.news.yahoo.com/%E6%B2%B9%E5%83%B9%E5%87%8D%E6%BC%B2-26%E6%97%A5%E8%B5%B795%E7%84%A1%E9%89%9B32-7%E5%85%83-%E6%9F%B4%E6%B2%B929-9%E5%85%83-091125021.html",
+     "resolved": true
+    },
+    {
+     "title": "中油再凍漲！　下周汽、柴油價格維持不調整 | 財經 | CTWANT",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HbmExMmZ4TW9GbWFRaExxdG14clZsOXU1bkFGMmlwRWlaR3EwMDQ1NWItTFFVN09OaHB0MDE4c1RKb3dlUjBsU1VwSUlyVmPSAVRBVV95cUxNWWpBYzk4V0JGN1FwYnNhM2E3TjlqeWxPOGZ1b1BpSVlFQ0ZxdnFMMC1hMHh1bnpXZm1ZWHZFVEU5TG1VSmhWb3ZpU2FoSU5zR1AyQ2E?oc=5",
+     "source": "CTWANT",
+     "published_at": "2026-10-24T17:10+08:00",
+     "url": "https://www.ctwant.com/article/503654/",
+     "resolved": true
+    },
+    {
+     "title": "油價繼續凍漲！ 台灣中油宣布下周一汽柴油價格維持不變",
+     "kind": "國內油價",
+     "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMNkdndmQ0UnFFbGUtRGM0V00zanhxTE5RWWNSWGRzSjVhS1lPblk2SEY3dXR1SC13VEZyMUFOOWxSaVNOTnVfU3k1QkJPeEhNWDBhRmpkTGpmY0xuZEtXc2dhV2dpZU9Uc29YemV3WQ?oc=5",
+     "source": "知新聞",
+     "published_at": "2026-10-24T17:05+08:00",
+     "url": "https://www.knews.com.tw/news/D66D8A3CC9561E7A8EB2A72754C38072",
+     "resolved": true
+    }
+   ]
   }
  ]
 }

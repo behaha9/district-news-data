@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T17:18:54+08:00",
+ "fetched_at": "2026-10-30T17:25:18+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-10-30T14:04+08:00",
@@ -7148,6 +7148,308 @@
    "image": "https://image.cmoney.tw/attachment/post/1792771200/68a2eaeb-2330-44dd-9782-65c552d0974d.jpg",
    "image_checked": true,
    "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261030002464-260402": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T13:20+08:00",
+   "site_name": "中時新聞網",
+   "description": "南科帶動周圍生活圈經濟效益，各種消費場所及人口增加，色情產業也隨之移入。台南市警善化分局與移民署台南市專勤隊日前獲報指轄區某飲料店樓上，暗藏一處外籍女子應召站，經蒐證及組成專案小組，前往破獲該外籍女子",
+   "cities": {
+    "台南市": 4
+   },
+   "districts": [],
+   "body_chars": 853,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-30/656/20261030002465.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7238/9842593": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T16:40+08:00",
+   "site_name": "聯合新聞網",
+   "description": "行政院擬追加預算撥補台電與中油來穩定物價，倘若撥補預算未能通過，是否會衝擊明年通膨走勢？中央銀行總裁楊金龍28日表示，國內通膨目前仍屬可控，但若中油、台電能源補貼未持續，且國際油價再度上漲，屆時通膨率可能會繼續往上走。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1957,
+   "image": "https://udn.com/static/img/UDN_BABY.png",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7266/9835292": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T18:37+08:00",
+   "site_name": "聯合新聞網",
+   "description": "沙烏地阿拉伯能源設施再度遭受攻擊，美國商用原油庫存連續3周下降，國際油價上漲。中油24日宣布，下周（10月26日～11月1日）國內汽、柴油價格不調整，累計連續凍漲周數推進6周；統計美伊開戰8個月中油實施凍漲油價，已吸收303億元。",
+   "cities": {
+    "金門縣": 5,
+    "台北市": 1,
+    "桃園市": 1
+   },
+   "districts": [],
+   "body_chars": 1642,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451215.jpg&M=1&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://stock.ltn.com.tw/article/wajd48skvpl8": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "台灣中油昨宣布，週一起國內油價「凍漲」，發油量最大的九五汽油維持每公升三十三．九元。從中東戰事開始至四月五日，中油累積已吸收逾九十．六億元；中油董事長方振仁坦言，最新推估三到六月，中油採購油氣的成本要多支出約五十五億美元（約一七六〇億元新台幣），「破產危機還沒解除」。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 135,
+   "image": "https://img.ltn.com.tw/Upload/business/page/400S/2026/04/05/42.jpg",
+   "image_checked": true,
+   "date_hint": "2026-04-05",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://stock.ltn.com.tw/article/1jwuj6msmt29": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "中東戰火升溫，荷姆茲海峽遭伊朗封鎖，國際油價狂飆，按照油價計算公式，九日起無鉛汽油每公升將漲逾五元，台灣中油即使啟動雙平穩措施，也壓不住漲幅；經濟部昨緊急開會，中油晚間宣布啟動緊急吸收措施，罕見提早公布週一油價，汽、柴油各調漲一．五元及一．一元，控制國內油價整體調幅約五％；台塑化在經濟部協商下將跟進",
+   "cities": {},
+   "districts": [],
+   "body_chars": 151,
+   "image": "https://img.ltn.com.tw/Upload/business/page/400S/2026/03/08/165.jpg",
+   "image_checked": true,
+   "date_hint": "2026-03-08",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://stock.ltn.com.tw/article/k6dsnqcma2mx": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "國內油價終止連三降!美伊再爆軍事衝突，中東原油供應受影響，中油今（11）日宣布，自下週一起汽油、柴油價格皆不調整，中油自中東戰爭後，累積吸收金額達160.7億元。中油持續執行油價穩定措施，下週國內92無鉛汽油每公升29.8 元、95 無鉛汽油每公升 31.3 元、98 無鉛汽油每公升 33.3 元、",
+   "cities": {},
+   "districts": [],
+   "body_chars": 151,
+   "image": "https://img.ltn.com.tw/Upload/business/page/400S/2026/07/11/5501783_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-07-11",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://n.yam.com/Article/20261024672838": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:47+08:00",
+   "site_name": "蕃新聞",
+   "description": "波新聞─陳柔安／台北台灣中油公司今（24）日宣布，自下週一（26日）凌晨零時起至11月1日晚上12時",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 786,
+   "image": "https://ni.yam.com/20261024/20261024174711-b37986732785215c.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/121591/9835262?from=udn-relatednews_ch2": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:46+08:00",
+   "site_name": "聯合新聞網",
+   "description": "中油公司24日宣布，自26日凌晨零時起，至11月1日晚上12時止，汽、柴油價格維持不調整，分別為92無鉛汽油每公升31.2元、95無鉛汽油每公升32.7元、98無鉛汽油每公升34.7元、超級柴油每公升29.9元。",
+   "cities": {
+    "金門縣": 5,
+    "台北市": 1,
+    "桃園市": 1
+   },
+   "districts": [],
+   "body_chars": 1545,
+   "image": "https://udn.com/static/img/UDN_BABY.png",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://stock.ltn.com.tw/article/zlv7f2nwpnwr": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "台灣中油昨宣布，為穩定國內物價、照顧民生，自週一（十三日）起至四月十九日，國內汽、柴油價格維持不調整、連續兩週凍漲。中油統計，二月二十八日美伊戰爭爆發起至四月十二日止，依據中油浮動油價機制（亞鄰最低價）與配合政策啟動美伊戰爭專案平穩機制，累計汽、柴油合計吸收金額約一〇七．三億元。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 141,
+   "image": "https://img.ltn.com.tw/Upload/business/page/400S/2026/04/12/106.jpg",
+   "image_checked": true,
+   "date_hint": "2026-04-12",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://money.udn.com/money/story/5612/9835223": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:30+08:00",
+   "site_name": "經濟日報",
+   "description": "台灣中油公司今天表示，自10月26日凌晨零時起至11月1日晚上12時止，汽、柴油價格維持不調整。自2月28日至10月25...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 873,
+   "image": "https://money.udn.com/static/img/moneyudn.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.stock.yahoo.com/news/%E9%80%A36%E5%87%BA%E6%89%8B%E5%87%8D%E6%B2%B9%E5%83%B9-%E4%B8%AD%E6%B2%B9%E5%AE%A3%E5%B8%83%E4%B8%8B%E5%91%A8%E6%B2%B9%E5%83%B9%E4%B8%8D%E8%AA%BF%E6%95%B4-95%E7%84%A1%E9%89%9B32-7%E5%85%83-98%E7%84%A1%E9%89%9B34-101000717.html": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T18:10+08:00",
+   "site_name": "Yahoo News",
+   "description": "[FTNN新聞網]記者邱梓欣／綜合報導在中東戰事升溫下，國際油價維持高檔，台灣中油公司今（24）日宣布，自下周一（26日）0時起至11月1日晚上12時止，汽、柴油...",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 3105,
+   "image": "https://s.yimg.com/lo/mysterio/api/7f598d467cabcec5b5f9a29c441ee777befa5fc8cc62e0ef312e2910a3ce8c54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fftnn_com_tw_939%2F741637951a2535bc78dba7229902e173.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://ec.ltn.com.tw/article/breakingnews/5617532": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:17+08:00",
+   "site_name": "自由時報電子報",
+   "description": "〔記者林菁樺／台北報導〕國際油價持續大漲，中油持續啟動平穩機制，國內油價維持凍漲，中油戰爭迄今已吸收超過300億元。 台灣中油24日宣布，自26日凌晨零時起，汽、柴油價格維持不調整，分別為9",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 564,
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/10/24/5617532_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E6%B2%B9%E5%83%B9%E5%87%8D%E6%BC%B2-26%E6%97%A5%E8%B5%B795%E7%84%A1%E9%89%9B32-7%E5%85%83-%E6%9F%B4%E6%B2%B929-9%E5%85%83-091125021.html": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:11+08:00",
+   "site_name": "Yahoo News",
+   "description": "台灣中油宣布，10/26凌晨零時起至11月1日晚上12時止，汽、柴油價格維持不調整，分別為92無鉛汽油每公升31.2元、95無鉛汽油每公升32.7元、98無鉛汽油每公升34.7元、超級柴油每公升29.9元。",
+   "cities": {
+    "桃園市": 2,
+    "台北市": 1,
+    "高雄市": 1,
+    "苗栗縣": 1
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://s.yimg.com/lo/mysterio/api/827e32ac2ba211631ad500a293b697d86441a8f1fc6b0c52e327d15e7ebcf493/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Ftaisounds_com_380%2F189f27a550f34b0e6f684dc7ec43b3b8.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/life/4040740": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:18+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "油價繼續凍漲，已經連6凍了！台灣中油公司今（24）日宣布，自下週一（26日）凌晨零時起至11月1日晚上12時止，汽、柴油價格維持不調整，分別為92無鉛汽油每公升31.2元、95無鉛汽油每公升32.7元、98無鉛汽油每公升34.7元、超級柴油每公升29.9元。",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 2491,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a0b8ea-c1b2-70ed-99db-7b0dccf4f6f7.jpg?t=16x9&wp=l,t&c=0,253,8037,4774&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7266/9835211": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:13+08:00",
+   "site_name": "聯合新聞網",
+   "description": "國際油價走高，台灣中油24日宣布，26日凌晨零時起至11月1日晚上12時止，汽、柴油價格維持不變。92無鉛汽油每公升31.2元、95無鉛汽油32.7元、98無鉛汽油34.7元，超級柴油29.9元。",
+   "cities": {
+    "金門縣": 5,
+    "台北市": 1,
+    "桃園市": 1
+   },
+   "districts": [],
+   "body_chars": 1702,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451131.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ctwant.com/article/503654/": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:10+08:00",
+   "site_name": "CTWANT",
+   "description": "台灣中油公司今（24）日宣布，自下週一（26日）凌晨零時起至11月1日晚上12時止，汽、柴油價格維持不調整，分別為92無鉛汽油每公升31.2元、95無鉛汽油每公升32.7元、98無鉛汽油每公升34.7...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 573,
+   "image": "https://static.ctwant.com/images/cover/54/503654/lg-5ade0818687cddb437b9e1de1a027df5.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/news/ahel/202610240145.aspx": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:18+08:00",
+   "site_name": "中央社 CNA",
+   "description": "台灣中油公司今天表示，自10月26日凌晨零時起至11月1日晚上12時止，汽、柴油價格維持不調整。自2月28日至10月25日執行專案平穩各項措施，汽、柴油合計擴大吸收約新台幣303.7億元。",
+   "cities": {
+    "台北市": 1,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 712,
+   "image": "https://imgcdn.cna.com.tw/www/webphotos/WebCover/800/20261024/1998x1499_936340455666.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.knews.com.tw/news/D66D8A3CC9561E7A8EB2A72754C38072": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:05+08:00",
+   "site_name": "知新聞",
+   "description": "【財經中心／台北報導】台灣中油今（24）日宣布，自下周一（26日）凌晨零時起至11月1日晚上12時止，汽、柴油價格維持不調整，分別為92無鉛汽油每公升31.2元、95無鉛汽油每公升32.7元、98無鉛汽油每公升34.7元、超級柴油每公升29.9元。",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [],
+   "body_chars": 963,
+   "image": "https://static.kmedia.com.tw/prd/2026/0402/photo/957540e98ea0aad29ea17af447b38be5.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.scooptw.com/local_news/546197/%e5%ae%9c%e8%98%ad%e5%8f%8b%e6%84%9b%e7%99%be%e8%b2%a8%e5%82%b3%e6%b1%82%e5%94%ae%ef%bc%81%e5%be%9e%e6%98%94%e6%97%a5%e5%95%86%e6%a5%ad%e5%9c%b0%e6%a8%99%e5%88%b0%e8%bd%89%e5%9e%8b%e5%8d%81%e5%ad%97/": {
+   "checked_at": "2026-10-30T17:25+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T17:19+08:00",
+   "site_name": "獨家報導",
+   "description": "（觀傳媒宜蘭新聞）【記者陳俊傑/宜蘭報導】曾經引領宜蘭消費潮流、陪伴無數縣民成長的友愛百貨大樓，近日傳出可能求售的消息，引起地方關注。這棟矗立宜蘭市中心近30年的地標建築，曾經象徵蘭陽平原商業發展的新時代，如今再度站上轉型十字路口。相較於外界關心大樓究竟值多少錢、由誰接手，更值得關注的是，友愛百貨的下一步，能否為逐漸改",
+   "cities": {
+    "宜蘭縣": 38
+   },
+   "districts": [
+    "舊城商圈（高雄市）"
+   ],
+   "body_chars": 1655,
+   "image": "https://secure.gravatar.com/avatar/fc7a6d223cf827549c68122effb53189db61babb32c6dae6459b488227b07d7f?s=96&d=retro&r=g",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
    "date_hint_from": "原文時間"
   }
  }
