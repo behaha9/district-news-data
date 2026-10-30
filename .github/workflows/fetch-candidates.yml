@@ -73,6 +73,10 @@ jobs:
           json.dump(status, open("inputs/status.json", "w"), ensure_ascii=False, indent=1)
           print(status)
           PY2
+          # 自我檢查：整理新聞要用的候選清單程式必須能跑完（0＝正常、2＝清單過舊），其他結束碼代表程式壞了
+          python3 scripts/filter_candidates.py > /dev/null 2>>inputs/fetch-log.txt; code=$?
+          echo "$(date -u +%H:%M:%S) filter_candidates exit=$code" >> inputs/fetch-log.txt
+          if [ "$code" != "0" ] && [ "$code" != "2" ]; then echo "::warning::filter_candidates.py 失敗（exit=$code），整理新聞會讀不到完整候選清單"; fi
 
       - name: 提交
         run: |

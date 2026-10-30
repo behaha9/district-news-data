@@ -53,9 +53,9 @@ def article_line(art, hint):
         return "↳ 原文是動態網頁，抓不到內容，請依標題判斷（必要時再打開原文）"
     cities = "、".join(f"{c}{n}" for c, n in (art.get("cities") or {}).items()) or "（未提到縣市）"
     parts = [f"↳ 原文：{art.get('site_name') or '站名不明'}"]
-    hint = art.get("date_hint")
-    if hint and hint < (datetime.now(TAIPEI) - timedelta(days=7)).strftime("%Y-%m-%d"):
-        parts.insert(0, f"⚠ 原文日期是 {hint}（依{art.get('date_hint_from')}），疑似舊聞被重新列出，不可收錄")
+    article_date = art.get("date_hint")
+    if article_date and article_date < (datetime.now(TAIPEI) - timedelta(days=7)).strftime("%Y-%m-%d"):
+        parts.insert(0, f"⚠ 原文日期是 {article_date}（依{art.get('date_hint_from')}），疑似舊聞被重新列出，不可收錄")
     if art.get("description"):
         parts.append(f"摘要：{art['description'][:90]}")
     parts.append(f"內文縣市：{cities}")
@@ -89,7 +89,8 @@ def main():
         return 2
     print("【判斷提醒】縣市或商圈判斷不出來「不是」排除理由：縣市留空、priority 設 false 照收。"
           "議員批評但內容是具體商圈影響（如工程、工安衝擊店家）要收。標題有商圈的每一則都要判斷。"
-          "「★可能是重點商圈」只是名稱比對，標 priority 前要打開原文確認縣市與名單相同，縣市不可從名單反推。「活動異動」組只收商圈、老街、商店街的活動；縣市節慶、一般市集、演唱會、頒獎典禮、運動會、企業與選舉活動延期都不收。\n")
+          "「★可能是重點商圈」只是名稱比對，標 priority 前要打開原文確認縣市與名單相同，縣市不可從名單反推。「活動異動」組只收商圈、老街、商店街的活動；縣市節慶、一般市集、演唱會、頒獎典禮、運動會、企業與選舉活動延期都不收。"
+          "選舉參選人的商圈政見、參香、掃街、專訪一律不收（現任政府施政與議員就具體商圈問題反映仍收）。\n")
     age = datetime.now(TAIPEI) - fetched
     print(f"候選清單抓取時間：{status['fetched_at']}（{age.total_seconds() / 3600:.1f} 小時前）")
     stale = age > timedelta(hours=MAX_AGE_HOURS) or "candidates.json" not in status.get("files", {})

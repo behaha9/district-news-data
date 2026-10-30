@@ -89,6 +89,8 @@ def main(path):
         if image is not None and not (isinstance(image, str) and image.startswith("https://")
                                       and len(image) <= 500 and not re.search(r"\s", image)):
             errors.append(f"{iid}: image 須為 500 字以內的 https 網址（由 merge.py 自動填入，請勿手改）")
+        if re.search(r"參選|候選人|政見|競選|拜票|掃街", item.get("title", "") + item.get("summary", "")):
+            warnings.append(f"{iid}: 疑似選舉參選人的競選內容，依 CURATION.md 不收，請確認")
         sources = item.get("sources", [])
         if sources and all(is_video(src.get("url", ""), src.get("outlet", "")) for src in sources):
             warnings.append(f"{iid}: 來源全是影音頁（MSN 網址含 /vi-、YouTube 等），網站會加「影音」標籤顯示；找得到文字報導時請一併加入")
