@@ -10,7 +10,8 @@ merchant word (the user wants the shop-related angle only), turns Google links b
 publisher URLs (same method and cache as fetch_google_news.py) and writes
 inputs/topics.json:
   {"updated_at": ..., "topics": [{"id", "name", "since", "until",
-     "items": [{"title", "url", "source", "published_at", "resolved"}]}]}
+     "items": [{"title", "kind", "url", "source", "published_at", "resolved"}]}]}
+"kind" is the group label, e.g. 店家相關 or an extra group such as 國內油價.
 Items are kept 14 days. Old articles re-listed by Google are removed later by
 fetch_articles.py (same old-news check as the Google feed). No article text is stored.
 """
@@ -57,36 +58,51 @@ def main():
             continue
         words = topic["keywords"]
         merchants = topic.get("merchant_words", [])
-        topic_re = re.compile("|".join(map(re.escape, words)))
-        merchant_re = re.compile("|".join(map(re.escape, merchants))) if merchants else None
         exclude = topic.get("exclude_words", [])
         exclude_re = re.compile("|".join(map(re.escape, exclude))) if exclude else None
+        any_of = lambda terms: re.compile("|".join(map(re.escape, terms)))
+        # group 1: the topic AND a shop/vendor word; extra groups ("also"): every listed word set must match
+        groups = [{"label": topic.get("label", "店家相關"),
+                   "query": "(" + " OR ".join(words) + ")" + (" (" + " OR ".join(merchants[:12]) + ")" if merchants else ""),
+                   "require": [any_of(words)] + ([any_of(merchants)] if merchants else [])}]
+        for extra in topic.get("also", []):
+            groups.append({"label": extra["label"], "query": extra["query"],
+                           "require": [any_of(terms) for terms in extra["require"]]})
 
-        def wanted_title(title):
-            return bool(topic_re.search(title)) and (not merchant_re or bool(merchant_re.search(title))) \
-                and not (exclude_re and exclude_re.search(title)) and not g.TITLE_DROP.search(title)
-        query = "(" + " OR ".join(words) + ")"
-        if merchants:
-            query += " (" + " OR ".join(merchants[:12]) + ")"
+        def label_for(title):
+            if (exclude_re and exclude_re.search(title)) or g.TITLE_DROP.search(title):
+                return None
+            for group in groups:
+                if all(r.search(title) for r in group["require"]):
+                    return group["label"]
+            return None
+
         found = {}
         for old in previous.get(topic["id"], {}).get("items", []):
-            if wanted_title(old["title"]):  # re-check kept items when the rules change
+            label = label_for(old["title"])  # re-check kept items when the rules change
+            if label:
+                old["kind"] = label
                 found[g.norm_title(old["title"])] = old
-        try:
-            rows = g.search(query)
-        except Exception as exc:
-            log.append(f"{topic['name']} 查詢失敗：{getattr(exc, 'code', type(exc).__name__)}")
-            rows = []
-        kept = 0
-        for row in rows:
-            title = row["title"]
-            if not wanted_title(title) or row["published_at"][:10] < topic.get("since", "2000"):
-                continue
-            key = g.norm_title(title)
-            if key not in found:
-                found[key] = {"title": title, "google_url": row["google_url"], "source": row["source"],
-                              "published_at": row["published_at"]}
-                kept += 1
+        kept, raw = 0, 0
+        for group in groups:
+            try:
+                rows = g.search(group["query"])
+            except Exception as exc:
+                log.append(f"{topic['name']}／{group['label']} 查詢失敗：{getattr(exc, 'code', type(exc).__name__)}")
+                rows = []
+            raw += len(rows)
+            for row in rows:
+                title = row["title"]
+                label = label_for(title)
+                if not label or row["published_at"][:10] < topic.get("since", "2000"):
+                    continue
+                key = g.norm_title(title)
+                if key not in found:
+                    found[key] = {"title": title, "kind": label, "google_url": row["google_url"],
+                                  "source": row["source"], "published_at": row["published_at"]}
+                    kept += 1
+            time.sleep(1)
+        rows = [None] * raw
         cutoff = (now - timedelta(days=KEEP_DAYS)).isoformat()
         items = [i for i in found.values() if i["published_at"] >= cutoff]
         for item in items:
@@ -94,8 +110,10 @@ def main():
                 todo.append(item["google_url"])
         out.append({"id": topic["id"], "name": topic["name"], "since": topic.get("since"),
                     "until": topic.get("until"), "items": items})
-        log.append(f"{topic['name']}：Google {len(rows)} 則，新增 {kept} 則，保留 {len(items)} 則")
-        time.sleep(1)
+        kinds = {}
+        for i in items:
+            kinds[i.get("kind")] = kinds.get(i.get("kind"), 0) + 1
+        log.append(f"{topic['name']}：Google {raw} 則，新增 {kept} 則，保留 {len(items)} 則 {kinds}")
 
     todo = list(dict.fromkeys(todo))[:MAX_RESOLVE]
     pool = ThreadPoolExecutor(g.WORKERS)
