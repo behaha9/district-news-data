@@ -1,20 +1,40 @@
 {
- "fetched_at": "2026-10-30T07:17:39+08:00",
+ "fetched_at": "2026-10-30T08:49:19+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 165,
-  "kept": 59,
-  "resolved": 59,
-  "items": 58,
+  "raw": 151,
+  "kept": 57,
+  "resolved": 57,
+  "items": 56,
   "resolve_this_run": {
-   "online": 5
+   "online": 2
   },
   "dropped_old": [
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
   ]
  },
  "items": [
+  {
+   "title": "東京商店街不平靜！再傳千萬元名錶遭竊 歹徒伎倆曝光",
+   "google_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeUYyNE44aVRLODFtV1lsY0lJSW1NYWJTSS1PYkx0dGFMZUs4REQtNWNmS1BiendjRmhuVEZkeFJDdVR0LTZmMEZSeWtDel9SbU5NODhFOHZycmRIUnFPdEV4QUlRczNzWktaalRkanhwRloya0xaOF9JaVdPNlI3Y1NxbHc3SU9wY2c?oc=5",
+   "source": "壹蘋新聞網",
+   "source_site": "https://news.nextapple.com",
+   "published_at": "2026-10-30T08:24+08:00",
+   "query": "商店街",
+   "url": "https://news.nextapple.com/international/20261030/190FEFCE877F8EE62AA58D8F1E59DF6C",
+   "resolved": true
+  },
+  {
+   "title": "東京著名商店街再傳竊案 歹徒帶走約30萬美元名錶",
+   "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzVjJENVlzRVJ0UF9sc2QzRV9VYXVjN280VGwyZkFtUVNhVzVfZThuUmJDM0NZb0JnSmV3VzAtaGdxZC16XzJocWhBUWtwTlZJaVRtYmphaEFFSk93Y0pnek1YemJBZHfSAWdBVV95cUxQc1YyRDVZc0VSdFBfbHNkM0VfVWF1YzdvNFRsMmZBbVFTYVc1X2U4blJiQzNDWW9CZ0pld1cwLWhncWQtel8yaHFoQVFrcE5WSWlUbWJqYWhBRUpPd2NKZ3pNWHpiQWR3?oc=5",
+   "source": "世界新聞網",
+   "source_site": "https://www.worldjournal.com",
+   "published_at": "2026-10-30T07:05+08:00",
+   "query": "商店街",
+   "url": "https://www.worldjournal.com/wj/amp/story/121480/9846115",
+   "resolved": true
+  },
   {
    "title": "東京著名商店街再傳竊案　歹徒帶走近千萬元名錶",
    "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWl9IZEw4T1pJVUt1Q3B3TXZTNFNzWVoxbkhIWU9tTW1jY3Y2dUZzVzM0Ml9Uejh5UHVNVncwMTZpbmlpeko2Q3NYQ3RlMjhlQWNtZFltZzdBWlVXaXY5YWtfaVk0QUtGWkVMZE1FN0wyazF1TzV5Rk8tNkdUeHkxYtIBX0FVX3lxTE9qcTRsMWFMTnAzNkZuLUkzZ2g2MDlPZjFiX0FuVVphaUpxbmR5bkctS0FuOWlvV1lFNUlhOE9ucTFaQS1od0Q3ZmJuTzVlUk9NbmZWMjBRNDNFb29TNTdV?oc=5",
@@ -163,16 +183,6 @@
    "published_at": "2026-10-29T15:10+08:00",
    "query": "老街",
    "url": "https://n.yam.com/Article/20261029516570",
-   "resolved": true
-  },
-  {
-   "title": "威秀影城董座閃電換人新董座呂政璋：推動商圈共榮、會員共好、獲利成長- 產業",
-   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qSU92cVY3NFlSWW9MVHBNMGlXcUZRQWxaOTIybWpjUUt0WHNkZWdPUlRvdHZxbHVFemNfbENybUQ1a3E3MmJxcTF5YmRXOXlWV2F5RkhfWXVJdVNkQldF?oc=5",
-   "source": "工商時報",
-   "source_site": "https://www.ctee.com.tw",
-   "published_at": "2026-10-29T14:48+08:00",
-   "query": "商圈",
-   "url": "https://www.ctee.com.tw/news/20261029701344-430503",
    "resolved": true
   },
   {
@@ -366,16 +376,6 @@
    "resolved": true
   },
   {
-   "title": "「走進故宮南院．漫遊鹿草風華」嘉義鹿草風華商圈草地音樂會暨特色市集人潮爆滿",
-   "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84WFFkbktZRUdBaXk5enJ2Z0hrMnZVRExuNUNLbnZtY1JKYWNBM0NpQVo5ay04QjM1ZENhVHd2eklHYnloOEU3Z0F1YUNDSVI4aU5vWFZZR0RMWWliQktjcUZDUQ?oc=5",
-   "source": "波新聞",
-   "source_site": "https://www.bo6s.com.tw",
-   "published_at": "2026-10-28T15:43+08:00",
-   "query": "商圈",
-   "url": "https://www.bo6s.com.tw/news_detail.php?NewsID=118136",
-   "resolved": true
-  },
-  {
    "title": "2026大選》投票倒數1個月沈伯洋將持續談政見 提出2構想永續活絡首都商圈",
    "google_url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOWWlvRW5iUmFUaVRwTGJhaWM5MGN6ejlFNV9qaGkwRElVY0RmZ213a2lBYkRWUzFrUVBFdHFZSHBXOFg2bmxNdTJPNGhzVWs4Vmh6Z3IxeUNDdkpfdUhaa1oxcXk0cHRtQklKazdqTlRKbThrZTVCb2dqRUcweUp4bG1CSW40S2pZbTZ6blYzWks3b0JJazQwcG51NlVlcU9Ba0RLTWZMSm51VjRRemxCVm9sSVlxNW5OSEdLZnA1dm1zTEw2a1Z1TE9GdFlWc2psWXZnRi1ZTGRJWGtXYi1xazBKT2xHSU1kNkwzVEF6UzFvSEtxMUpvZ1lLdzVsVUFzRW9fc1hMeWFrN0FsUHZSdHA4QTIySzY0UkdxajNfanR4bUpsWUVsZ0dhaUw3eGVYZnNWOUUtSHprOXVVb0pWalpMQ0xua1RHZ3RsMTZuRC12VW5RaEE4dlp1ZlBTVV9tQXZtOXlncFJiU0Z0MTZGcHdjS01odzAwMzZxb0szRUR5UnRVUDFMOTl4T1RfdmFJeTdpS1lnbjRDZFIxcDE1R2RxZWJTMXlrd3FGRHptYW1yZDNDOFFaWFlR?oc=5",
    "source": "Yahoo新聞",
@@ -506,13 +506,13 @@
    "resolved": true
   },
   {
-   "title": "馬路的事 - 水管維修：亞皆老街去大角咀(11:23清理)",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3dEFXVHBHYWZZaGQ2TEQ3VkxLLXExM2NPUTJlSlhXUjNqX3RsVFZ2N2Ztbktaa1Rob1BtR3FFWTVIeWRIZkhuV3JkLTRvbUQyYUhnTWZB?oc=5",
-   "source": "www.881903.com",
+   "title": "水管維修：亞皆老街去大角咀(11:23清理)",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Rd1NuVG9ieHUwWmM3cGhKcGZBQ1ZsZHZVbDlKalFwMDJsUmhKb2lfSVJ2ZHFLTEhCaG1aRDFwWGpnaXhTeWxtMXNIZXVBV05rUmhFemlR0gFbQVVfeXFMTUFYYnpxVTRVM2xrWnR1WkpGVDhMTlRkZ2dHX1J3Q0JhdGhta1owd24weVNhSkthMURqUTdTNnM1MGloclJtbVVGU2wtRzJjeHpuZVJiNVRmMU9vVQ?oc=5",
+   "source": "商業電台",
    "source_site": "https://www.881903.com",
    "published_at": "2026-10-28T11:23+08:00",
    "query": "老街",
-   "url": "https://www.881903.com/traffic/info/2656819",
+   "url": "https://www.881903.com/news/traffic/2656819",
    "resolved": true
   },
   {
@@ -573,26 +573,6 @@
    "published_at": "2026-10-28T09:01+08:00",
    "query": "商店街",
    "url": "https://gamelife.tw/gamenews/%E6%8B%BF%E8%91%97%E5%A4%96%E6%98%9F%E9%81%93%E5%85%B7%E6%94%B6%E9%9B%86%E3%80%8C%E6%83%85%E8%89%B2%E8%83%BD%E9%87%8F%E3%80%8D%E2%94%80-%E6%88%90%E4%BA%BA%E9%81%8A%E6%88%B2%E3%80%8A%E5%95%86%E5%BA%97/",
-   "resolved": true
-  },
-  {
-   "title": "影／撬一中商圈娃娃機偷零錢被逮 男掏老虎鉗欲攻擊警 遭辣椒水制伏",
-   "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BRG9qLUlXY1V5djdRcTNTZkJYekFvZXhfcks3M2dLTU4weFMxTUZaZWtwZkVNbG9PZko3VmZvdnVOVXJzajNRSTR1ajJhRUlBNVFYY054QmVIV2Z2TWVvQnV6MmFfdTVtMVdsMjVobEt1S3N50gFWQVVfeXFMTVp1WVdpLTRoOXV4blp2SVh2aWZ5RmFkQndnNWpmbmVjQWtvV1dqU25SM2FGS1hNRjhTQ1Z0bjZxcFdJZEFENVlLZ0ZrY0pvOHdXa2pEQlE?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
-   "published_at": "2026-10-28T08:31+08:00",
-   "query": "商圈",
-   "url": "https://udn.com/news/story/7320/9841237?from=udn-catebreaknews_ch2",
-   "resolved": true
-  },
-  {
-   "title": "台灣「1低調老街」神級體驗意外被翻！內行人1看崩潰：秘密基地要被塞滿人..",
-   "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FUmlNdlM3MVIxdHNGSlV6bE50aVRvSzFWeDJuM093WEdBQkMzQmRWVXRMRHRfSVUzT3pCak9qQ3NiTGZFOElTT1RXM3JIRk1EUnRRaklEQjNRcVVpbE91Qnpacw?oc=5",
-   "source": "民視運動網",
-   "source_site": "https://sport.ftvnews.com.tw",
-   "published_at": "2026-10-28T07:49+08:00",
-   "query": "老街",
-   "url": "https://sport.ftvnews.com.tw/news/detail/2026A27W0271",
    "resolved": true
   }
  ]

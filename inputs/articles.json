@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T07:17:47+08:00",
+ "fetched_at": "2026-10-30T08:49:26+08:00",
  "articles": {
   "https://news.ltn.com.tw/news/life/breakingnews/5617267": {
    "checked_at": "2026-10-27T11:27+08:00",
@@ -12161,6 +12161,89 @@
    "image_checked": true,
    "date_hint": "2026-10-29",
    "date_hint_from": "原文時間"
+  },
+  "https://news.cts.com.tw/cna/local/202610/202610283094957.html": {
+   "checked_at": "2026-10-30T08:49+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://news.nextapple.com/international/20261030/190FEFCE877F8EE62AA58D8F1E59DF6C": {
+   "checked_at": "2026-10-30T08:49+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T08:24+08:00",
+   "site_name": "壹蘋新聞網",
+   "description": "日本東京近來不平靜，知名「中野百老匯」商店街再度發生竊案，一支價值近千萬台幣的名錶在店員面前直接被帶走。",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 2787,
+   "image": "https://static-cdn.nextapple.tw/prod/2026-10/190FEFCE877F8EE62AA58D8F1E59DF6C/dcdbb841e6fbd68cdbd4176a0669824b_1280.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261029004582-260421": {
+   "checked_at": "2026-10-30T08:49+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T20:53+08:00",
+   "site_name": "中時新聞網",
+   "description": "金價持續走高，台南鹽水商圈卻連年拿黃金當摸彩大獎，讓吃貨也有機會當「金主」！「2026鹽水嘉年華－意暖鹽水 光映月津」將於11月1日登場，今年祭出3錢黃金金元寶，還加碼金戒指，另有iPad、腳踏車及現金獎等好禮。",
+   "cities": {
+    "台南市": 4
+   },
+   "districts": [
+    "鹽水商圈（台南市）"
+   ],
+   "body_chars": 784,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-29/656/20261029004583.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.cnyes.com/news/id/6640710": {
+   "checked_at": "2026-10-30T08:49+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T15:28+08:00",
+   "site_name": "鉅亨網",
+   "description": null,
+   "cities": {
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 520,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/5599/9846071": {
+   "checked_at": "2026-10-30T08:49+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T06:00+08:00",
+   "site_name": "經濟日報",
+   "description": "日本東京都中野區同一條商店街繼今年8月之後，再度有鐘錶店失竊。警方指出，有歹徒昨晚假裝成客人並試戴價值約4600萬日圓（...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 865,
+   "image": "https://money.udn.com/static/img/moneyudn.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.worldjournal.com/wj/amp/story/121480/9846115": {
+   "checked_at": "2026-10-30T08:49+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "世界新聞網",
+   "description": "日本東京都中野區同一條商店街繼今年8月之後，再度有鐘錶店失竊。警方指出，有歹徒昨晚假裝成客人並試戴價值約4600萬日圓（約30萬美元）的名錶後，就直接揚長而去。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 435,
+   "image": "https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/30/35467813.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=809&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   }
  }
 }
