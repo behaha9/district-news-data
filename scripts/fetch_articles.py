@@ -365,6 +365,12 @@ def main():
                       for g in json.load(fh).get("items", []) if g.get("resolved")]
     except Exception:
         google = []
+    try:
+        with open("inputs/topics.json", encoding="utf-8") as fh:
+            google += [{"url": i["url"], "district": True} for t in json.load(fh).get("topics", [])
+                       for i in t.get("items", []) if i.get("resolved")]
+    except Exception:
+        pass
     wanted = []
     for item in curated + district_items + google + items:
         url = item.get("url", "")
@@ -397,6 +403,7 @@ def main():
                   fh, ensure_ascii=False, indent=1)
     shown = write_thumbs(cache, now)
     drop_old_google(cache, now)
+    drop_old_topics(cache, now)
     print(f"原文預抓：新抓 {done}／{len(wanted)}，成功 {ok}；快取共 {len(cache)} 篇；縮圖 {shown} 張")
     return 0
 
@@ -430,6 +437,34 @@ def drop_old_google(cache, now):
         with open(path, "w", encoding="utf-8") as fh:
             json.dump(data, fh, ensure_ascii=False, indent=1)
         print("Google 新聞移除舊聞：", "；".join(dropped))
+
+
+def drop_old_topics(cache, now):
+    """Same old-news check for the 關注議題 file (inputs/topics.json)."""
+    path = "inputs/topics.json"
+    try:
+        with open(path, encoding="utf-8") as fh:
+            data = json.load(fh)
+    except Exception:
+        return
+    oldest = (now - timedelta(days=OLD_DAYS)).strftime("%Y-%m-%d")
+    oldest_by_image = (now - timedelta(days=180)).strftime("%Y-%m-%d")
+    dropped = []
+    for topic in data.get("topics", []):
+        keep = []
+        for item in topic.get("items", []):
+            art = cache.get(item.get("url")) or {}
+            hint = art.get("date_hint")
+            limit = oldest_by_image if art.get("date_hint_from") == "圖片路徑" else oldest
+            if hint and hint < limit:
+                dropped.append(f"{topic.get('name')}：{item.get('title', '')[:30]}（原文日期 {hint}）")
+            else:
+                keep.append(item)
+        topic["items"] = keep
+    if dropped:
+        with open(path, "w", encoding="utf-8") as fh:
+            json.dump(data, fh, ensure_ascii=False, indent=1)
+        print("關注議題移除舊聞：", "；".join(dropped))
 
 
 def write_thumbs(cache, now):
