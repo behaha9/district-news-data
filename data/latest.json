@@ -1,32 +1,102 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T16:51:11+08:00",
+ "generated_at": "2026-10-31T07:18:27+08:00",
  "items": [
   {
-   "id": "20261030-xinzhuang-market",
-   "title": "新莊第一零售市場改造啟用，增設廚藝教室並更新老街周邊環境",
-   "summary": "新莊第一零售市場於10月30日改造後啟用，增設廚藝教室，報導指新莊老街周邊也一併更新。",
+   "id": "20261030-taichung-cmp-parking",
+   "title": "台中勤美商圈、審計新村周邊路邊停車實施無紙化收費",
+   "summary": "台中市交通局擴大路邊智慧停車無紙化，勤美商圈及審計新村周邊9條路段共309格自10月30日起實施。",
    "category": "營運與政策",
    "alert": null,
-   "published_at": "2026-10-30T12:28:00+08:00",
+   "published_at": "2026-10-31T06:54:00+08:00",
    "cities": [
-    "新北市"
+    "台中市"
    ],
    "districts": [
     {
-     "name": "新莊廟街商圈",
-     "priority": true
+     "name": "勤美商圈",
+     "priority": false
     }
    ],
    "sources": [
     {
+     "outlet": "天天上新聞",
+     "url": "https://mknews.com.tw/2026/10/1011290/",
+     "published_at": "2026-10-31T06:54:00+08:00"
+    },
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5624313",
+     "published_at": "2026-10-30T21:05:00+08:00"
+    },
+    {
      "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261030713572",
-     "published_at": "2026-10-30T12:28:00+08:00"
+     "url": "https://n.yam.com/Article/20261030152361",
+     "published_at": "2026-10-30T19:54:00+08:00"
     }
    ],
-   "admin_note": "新莊廟街商圈為115年補助名單，市場與老街周邊環境更新可留意與商圈計畫的銜接。",
-   "image": "https://ni.yam.com/20261030/uploaddowndoc-2-bd891f9682925224.webp"
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/30/5624313_1_1.jpg"
+  },
+  {
+   "id": "20261030-xinyi-muzha-tea",
+   "title": "北市府攜手木柵農會，在信義威秀行人廣場辦「木柵小茶館」推廣在地茶產業",
+   "summary": "產業局與木柵區農會10月30日至11月1日在信義商圈辦茶館活動，讓民眾認識文山區茶產業，並有鐵觀音跨界餐飲進駐。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-30T23:00:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "信義商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "風傳媒",
+     "url": "https://www.storm.mg/article/11177269",
+     "published_at": "2026-10-30T23:00:00+08:00"
+    }
+   ],
+   "image": "https://images.storm.mg/cloud/f4d2c059589c41e5010729d2dffa4bc73af5d434.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2243336%2FeVY0FjD2LdL8MhcX8OJgb0Um8idli3EWgZkZgxtq.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
+  },
+  {
+   "id": "20261030-eslite-zhongshan-station",
+   "title": "誠品取得捷運中山站商鋪使用權，預計明年第1季開幕並串連南西商圈",
+   "summary": "誠品生活公告取得捷運中山站商鋪使用權，預計明年第1季改裝完成，未來將與誠品南西、R79及爵士廣場串聯，擴大商圈經營。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-10-30T21:31:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "中山商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "中山商圈為115年補助名單，大型業者進駐可能影響商圈人流與店家競合，可留意商圈後續動態。",
+   "sources": [
+    {
+     "outlet": "Yahoo股市",
+     "url": "https://tw.stock.yahoo.com/news/%E8%AA%A0%E5%93%81%E5%8F%96%E5%BE%97%E6%8D%B7%E9%81%8B%E4%B8%AD%E5%B1%B1%E7%AB%99%E5%95%86%E9%8B%AA%E4%BD%BF%E7%94%A8%E6%AC%8A-%E4%B8%B2%E9%80%A3%E5%8D%97%E8%A5%BF%E5%95%86%E5%9C%88-133122855.html",
+     "published_at": "2026-10-30T21:31:00+08:00"
+    },
+    {
+     "outlet": "中央社",
+     "url": "https://www.cna.com.tw/news/afe/202610300318.aspx",
+     "published_at": "2026-10-30T21:30:00+08:00"
+    },
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261030701905-430503",
+     "published_at": "2026-10-30T20:41:00+08:00"
+    }
+   ],
+   "image": "https://s.yimg.com/lo/mysterio/api/5DAD5504C350E897DC4789D12EAFB8EDC272B2A1BB2C6C12366DEF447854E95F/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fcnyes.com.tw%2Fcc33c9b7428ecdd674602e1a3dea1225.jpg"
   },
   {
    "id": "20261028-taichung-wudiaoquan-districts",
@@ -34,7 +104,7 @@
    "summary": "臺中市政府公告第二波物調券有369家商圈店家響應，天津商圈、自由路商圈等提供折扣加碼優惠。",
    "category": "開店與消費",
    "alert": null,
-   "published_at": "2026-10-30T00:00:00+08:00",
+   "published_at": "2026-10-30T20:29:00+08:00",
    "cities": [
     "台中市"
    ],
@@ -45,6 +115,16 @@
     }
    ],
    "sources": [
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5624315",
+     "published_at": "2026-10-30T20:29:00+08:00"
+    },
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%89%A9%E8%AA%BF%E5%88%B8%E7%AC%AC%E4%BA%8C%E6%B3%A2%E9%96%8B%E6%90%B6-%E5%A4%9A%E6%95%B8%E5%95%86%E5%9C%8830%E5%88%86%E9%90%98%E5%85%A7%E7%99%BC%E5%AE%8C-101142204.html",
+     "published_at": "2026-10-30T18:11:00+08:00"
+    },
     {
      "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261030949715",
@@ -87,7 +167,33 @@
     }
    ],
    "admin_note": "自由路商圈為115年補助名單，參與物調券優惠可能與商圈消費活絡成效有關。",
-   "image": "https://ni.yam.com/20261030/117696ae370d2d86e5-d9cbb8e44c42d9b1.webp"
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/30/5624315_2_1.jpg"
+  },
+  {
+   "id": "20261030-xinzhuang-market",
+   "title": "新莊第一零售市場改造啟用，增設廚藝教室並更新老街周邊環境",
+   "summary": "新莊第一零售市場於10月30日改造後啟用，增設廚藝教室，報導指新莊老街周邊也一併更新。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-10-30T12:28:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [
+    {
+     "name": "新莊廟街商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261030713572",
+     "published_at": "2026-10-30T12:28:00+08:00"
+    }
+   ],
+   "admin_note": "新莊廟街商圈為115年補助名單，市場與老街周邊環境更新可留意與商圈計畫的銜接。",
+   "image": "https://ni.yam.com/20261030/uploaddowndoc-2-bd891f9682925224.webp"
   },
   {
    "id": "20261029-yanshui-carnival",
@@ -1722,7 +1828,8 @@
      "url": "https://www.penghu.gov.tw/ch/home.jsp?id=10088&act=view&dataserno=11510220013",
      "published_at": "2026-10-22T01:00:00+08:00"
     }
-   ]
+   ],
+   "image": "https://www.penghu.gov.tw/ch/images/index/travel.jpg"
   },
   {
    "id": "20261021-shuili-quiet",
