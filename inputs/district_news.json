@@ -1,29 +1,190 @@
 {
- "fetched_at": "2026-10-30T17:25:06+08:00",
- "position": 246,
+ "fetched_at": "2026-10-30T21:13:54+08:00",
+ "position": 65,
  "last_batch": [
-  "新堀江商圈",
-  "中央公園商圈",
-  "青年家具街",
-  "新鹽埕商圈",
-  "鹽埕堀江商場",
-  "鹽埕堀江商圈",
-  "哈瑪星商圈",
-  "旗后商圈",
-  "三多商圈",
-  "長明商圈",
-  "河堤商圈",
-  "三鳳中街",
-  "鳥松家具商圈",
-  "後驛商圈",
-  "大連街商圈",
-  "蓮池潭商圈",
-  "舊城商圈",
-  "鳳山三民路商圈",
-  "鳳山中華街商圈",
-  "旗山商圈"
+  "美濃商圈",
+  "瀰濃社區",
+  "六龜商圈",
+  "甲仙商圈",
+  "屏東縣勝利商圈",
+  "屏東縣潮州觀光商圈",
+  "屏東縣潮州鎮三角公園商圈",
+  "屏東縣潮州鎮日式文化商圈",
+  "小琉球商圈",
+  "屏東縣恆春鎮墾丁商圈",
+  "神農商圈",
+  "雙城產業觀光商圈",
+  "冬山老街商圈",
+  "南方澳商圈",
+  "蘇澳商圈",
+  "花蓮市 百年老街商圈",
+  "花蓮市形象商圈",
+  "花蓮縣石藝大街商圈",
+  "花蓮縣北新秀地區商圈",
+  "花蓮縣鯉魚潭商圈",
+  "台東市區鐵花商圈",
+  "東糖商圈",
+  "大台東商圈",
+  "鹿野高台商圈",
+  "關山永續商圈",
+  "太麻里商圈",
+  "澎東商圈",
+  "澎南商圈",
+  "澎湖商圈",
+  "金門縣金沙鎮沙全商圈",
+  "金門山外市港商圈",
+  "金門縣新市商圈",
+  "金門縣金寧商圈",
+  "金門縣金城鎮後浦商圈",
+  "松山商圈",
+  "委託行商圈",
+  "深澳坑商圈",
+  "新濱町形象商圈",
+  "正濱和平島商圈",
+  "安樂國城商圈",
+  "重南書路書店商圈",
+  "南昌家具街商圈",
+  "台北市新中華路影音電器街",
+  "台北市沅陵商店街",
+  "艋舺服飾商圈",
+  "南機場商圈",
+  "萬華街區商圈",
+  "北門相機街商圈",
+  "愛國東路婚紗街商圈",
+  "榮町商圈",
+  "台大公館商圈",
+  "大光華商圈",
+  "迪化街商圈",
+  "華陰街商圈",
+  "朝陽服飾材料商圈",
+  "永樂商圈",
+  "後站商圈",
+  "圓環太平永樂町商圈",
+  "赤峰街商圈",
+  "圓山商圈",
+  "至聖花博商圈",
+  "台北大橋頭延三商圈",
+  "大龍峒商圈",
+  "四平陽光商圈",
+  "中山北路婚紗商圈",
+  "中山商圈",
+  "中山區大正町條通商圈",
+  "大直商圈",
+  "晴光商圈",
+  "條通商圈",
+  "永康商圈",
+  "臨江觀光商圈",
+  "東區商圈",
+  "龍泉商圈",
+  "西門町商圈",
+  "加蚋商圈",
+  "民生社區商圈",
+  "士林捷運站周邊",
+  "天母商圈",
+  "承德路中古汽車商圈",
+  "蘭雅商圈",
+  "新北投溫泉商圈",
+  "西湖商圈",
+  "貓空商圈",
+  "萬芳商圈",
+  "萬里商圈",
+  "野柳商圈",
+  "金山商圈",
+  "板橋府中商圈",
+  "亞東商圈",
+  "汐止義民商圈",
+  "深坑老街商圈",
+  "石碇商圈",
+  "九份老街商圈",
+  "瑞芳老街商圈",
+  "平溪魅力商圈",
+  "菁桐商圈",
+  "雙溪商圈",
+  "坪林商圈",
+  "烏來商圈"
  ],
- "errors": [],
+ "errors": [
+  [
+   "瀰濃社區",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "六龜商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "屏東縣勝利商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "屏東縣潮州觀光商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "屏東縣潮州鎮日式文化商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "小琉球商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "屏東縣恆春鎮墾丁商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "神農商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "冬山老街商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "南方澳商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "花蓮市形象商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "花蓮縣石藝大街商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "花蓮縣北新秀地區商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "台東市區鐵花商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "東糖商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "鹿野高台商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "關山永續商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "澎南商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "澎湖商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ],
+  [
+   "金門山外市港商圈",
+   "not well-formed (invalid token): line 1, column 41"
+  ]
+ ],
  "items": [
   {
    "title": "NAVER WEBTOON《Maru Is a Puppy》快閃店登陸昌信洞！獨家公開30款全新周邊",
@@ -378,6 +539,28 @@
    "matched_in": "description"
   },
   {
+   "title": "彰化縣 一週天氣預報(10/30 17:00發布)",
+   "url": "https://news.pchome.com.tw/science/sunmedia/20261027/index-79308472924017329003.html",
+   "source": "PChome Online新聞",
+   "published_at": "2026-10-27T16:05+08:00",
+   "published_date": "2026-10-27",
+   "date_only": true,
+   "district": "後站商圈",
+   "city": "台北市",
+   "matched_in": "description"
+  },
+  {
+   "title": "從老街區文化到世代交流！里長參選人盧綠綢提出建功里社區活動構想 重新凝聚街區活力",
+   "url": "https://sunmedia.tw/news/technology/%E5%BE%9E%E8%80%81%E8%A1%97%E5%8D%80%E6%96%87%E5%8C%96%E5%88%B0%E4%B8%96%E4%BB%A3%E4%BA%A4%E6%B5%81%EF%BC%81%E9%87%8C%E9%95%B7%E5%8F%83%E9%81%B8%E4%BA%BA%E7%9B%A7%E7%B6%A0%E7%B6%A2%E6%8F%90%E5%87%BA%E5%BB%BA%E5%8A%9F%E9%87%8C%E7%A4%BE%E5%8D%80%E6%B4%BB%E5%8B%95%E6%A7%8B%E6%83%B3-%E9%87%8D%E6%96%B0%E5%87%9D%E8%81%9A%E8%A1%97%E5%8D%80%E6%B4%BB%E5%8A%9B-1793084463805",
+   "source": "商傳媒",
+   "published_at": "2026-10-27T16:05+08:00",
+   "published_date": "2026-10-27",
+   "date_only": true,
+   "district": "後站商圈",
+   "city": "台北市",
+   "matched_in": "description"
+  },
+  {
    "title": "新北萬聖節「府中搞什麼鬼」開趴！踩街討糖連嗨2天 交管、替代路線全攻略",
    "url": "https://www.knews.com.tw/news/A1C6ACFFE99CF850ABB28DDDA5CBA34E",
    "source": "知新聞",
@@ -435,6 +618,17 @@
   {
    "title": "台北車站後站老街區面臨轉型挑戰，建功里以特色活動重塑街區魅力",
    "url": "https://leho.com.tw/archives/413329",
+   "source": "leho",
+   "published_at": "2026-10-27T08:05+08:00",
+   "published_date": "2026-10-27",
+   "date_only": true,
+   "district": "後站商圈",
+   "city": "台北市",
+   "matched_in": "description"
+  },
+  {
+   "title": "台北車站後站老街區面臨轉型挑戰，建功里以特色活動重塑街區魅力",
+   "url": "https://leho.com.tw/archives/415897",
    "source": "leho",
    "published_at": "2026-10-27T08:05+08:00",
    "published_date": "2026-10-27",
