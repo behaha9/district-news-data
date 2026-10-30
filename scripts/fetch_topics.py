@@ -28,6 +28,10 @@ import fetch_google_news as g  # noqa: E402
 CONFIG = "reference/topics.json"
 OUT = "inputs/topics.json"
 KEEP_DAYS = 14
+# only Taiwan media: .tw domains or well-known Taiwan outlets on other domains
+TW_HOSTS = re.compile(r"(\.tw$|^tw\.|(^|\.)(ettoday\.net|setn\.com|nownews\.com|storm\.mg|mirrormedia\.mg|"
+                      r"chinatimes\.com|udn\.com|ctwant\.com|cnyes\.com|upmedia\.mg|thenewslens\.com|"
+                      r"ctinews\.com|mnews\.tw|newtalk\.tw|today\.line\.me|yam\.com|ftvnews\.com\.tw)$)")
 MAX_RESOLVE = 60
 BUDGET_SECONDS = 60
 
@@ -55,12 +59,19 @@ def main():
         merchants = topic.get("merchant_words", [])
         topic_re = re.compile("|".join(map(re.escape, words)))
         merchant_re = re.compile("|".join(map(re.escape, merchants))) if merchants else None
+        exclude = topic.get("exclude_words", [])
+        exclude_re = re.compile("|".join(map(re.escape, exclude))) if exclude else None
+
+        def wanted_title(title):
+            return bool(topic_re.search(title)) and (not merchant_re or bool(merchant_re.search(title))) \
+                and not (exclude_re and exclude_re.search(title)) and not g.TITLE_DROP.search(title)
         query = "(" + " OR ".join(words) + ")"
         if merchants:
             query += " (" + " OR ".join(merchants[:12]) + ")"
         found = {}
         for old in previous.get(topic["id"], {}).get("items", []):
-            found[g.norm_title(old["title"])] = old
+            if wanted_title(old["title"]):  # re-check kept items when the rules change
+                found[g.norm_title(old["title"])] = old
         try:
             rows = g.search(query)
         except Exception as exc:
@@ -69,9 +80,7 @@ def main():
         kept = 0
         for row in rows:
             title = row["title"]
-            if not topic_re.search(title) or (merchant_re and not merchant_re.search(title)):
-                continue
-            if g.TITLE_DROP.search(title) or row["published_at"][:10] < topic.get("since", "2000"):
+            if not wanted_title(title) or row["published_at"][:10] < topic.get("since", "2000"):
                 continue
             key = g.norm_title(title)
             if key not in found:
@@ -107,6 +116,9 @@ def main():
             else:
                 item.setdefault("url", item.get("google_url"))
                 item.setdefault("resolved", False)
+        from urllib.parse import urlsplit
+        topic["items"] = [i for i in topic["items"]
+                          if not i["resolved"] or TW_HOSTS.search(urlsplit(i["url"]).hostname or "")]
         topic["items"].sort(key=lambda i: i["published_at"], reverse=True)
 
     with open(OUT, "w", encoding="utf-8") as fh:
