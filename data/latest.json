@@ -12,7 +12,16 @@
    "cities": [
     "新北市"
    ],
-   "districts": [],
+   "districts": [
+    {
+     "name": "三峽民權老街商圈",
+     "priority": true
+    },
+    {
+     "name": "鶯歌商圈",
+     "priority": true
+    }
+   ],
    "sources": [
     {
      "outlet": "東森新聞",

@@ -91,7 +91,7 @@ def main(path):
             errors.append(f"{iid}: image 須為 500 字以內的 https 網址（由 merge.py 自動填入，請勿手改）")
         sources = item.get("sources", [])
         if sources and all(is_video(src.get("url", ""), src.get("outlet", "")) for src in sources):
-            warnings.append(f"{iid}: 來源全是影音頁（MSN 網址含 /vi-、YouTube 等），網站不會顯示這則；請改找文字報導當來源")
+            warnings.append(f"{iid}: 來源全是影音頁（MSN 網址含 /vi-、YouTube 等），網站會加「影音」標籤顯示；找得到文字報導時請一併加入")
         if not 1 <= len(sources) <= 10:
             errors.append(f"{iid}: sources 須 1–10 筆")
         for source in sources:
