@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T16:50:24+08:00",
+ "fetched_at": "2026-10-30T17:17:24+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-10-30T14:04+08:00",
@@ -11,37 +11,10 @@
    "status": 502,
    "error": "HTTP Error 502: Bad Gateway"
   },
-  "https://n.yam.com/Article/20261021423424": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-21T03:25+08:00",
-   "site_name": "蕃新聞",
-   "description": "百貨週年慶搭上萬聖節消費潮，各項慶祝活動熱鬧滾滾。新光三越天母店於10月22日啟動週慶活動，",
-   "cities": {
-    "台北市": 4,
-    "台中市": 2,
-    "高雄市": 2,
-    "桃園市": 1,
-    "台南市": 1
-   },
-   "districts": [
-    "天母商圈（台北市）"
-   ],
-   "body_chars": 2162,
-   "image": "https://ni.yam.com/20261021/Cardu_6ad77bce6a8e6-c362f899a0238b6b.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-21",
-   "date_hint_from": "原文時間"
-  },
   "https://www.cdns.com.tw/articles/1478303": {
    "checked_at": "2026-10-30T14:04+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://news.pchome.com.tw/living/thehubnews/20261020/index-79247934231287306009.html": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": "error",
-   "error": "The read operation timed out"
   },
   "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6336970001": {
    "checked_at": "2026-10-27T18:43+08:00",
@@ -61,42 +34,6 @@
    "date_hint": null,
    "date_hint_from": null
   },
-  "https://n.yam.com/Article/20261018452867": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-18T08:00+08:00",
-   "site_name": "蕃新聞",
-   "description": "記者: 吳浩彰 台南報導&nbsp;「2026佳里購物嘉年華」於10月17、18日熱鬧登場，今年以「",
-   "cities": {
-    "台北市": 3,
-    "台南市": 2
-   },
-   "districts": [],
-   "body_chars": 249,
-   "image": "https://ni.yam.com/20261018/202610181948580-2b7e0726a4cb553f.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261023291312": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-23T15:12+08:00",
-   "site_name": "蕃新聞",
-   "description": "快訊摘要【商圈討糖】經發局與豐原廟東復興商圈10/31在豐原太平洋百貨廣場辦萬聖嘉年華，12歲以下兒",
-   "cities": {
-    "台中市": 12,
-    "台南市": 1
-   },
-   "districts": [
-    "豐原廟東復興商圈（台中市）"
-   ],
-   "body_chars": 993,
-   "image": "https://ni.yam.com/20261023/halloween-art-taichung-1-261023061148189-243c5dce031f58a1.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-23",
-   "date_hint_from": "原文時間"
-  },
   "https://www.cdns.com.tw/articles/1477834": {
    "checked_at": "2026-10-30T14:04+08:00",
    "status": 403,
@@ -107,64 +44,10 @@
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://yayanews.com.tw/36132/": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-24T15:18+08:00",
-   "site_name": "鴨鴨新聞 Yaya News",
-   "description": "【記者徐義雄／台中報導】",
-   "cities": {
-    "台中市": 8
-   },
-   "districts": [
-    "豐原廟東復興商圈（台中市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1407,
-   "image": "https://yayanews.com.tw/wp-content/uploads/2026/10/36132-optimized.png",
-   "image_checked": true,
-   "date_hint": "2026-10-24",
-   "date_hint_from": "原文時間"
-  },
   "https://www.cdns.com.tw/articles/1479710": {
    "checked_at": "2026-10-30T14:04+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://n.yam.com/Article/20261021487705": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-22T11:31+08:00",
-   "site_name": "蕃新聞",
-   "description": "【創新聞 記者張溎壕／彰化報導】彰化市永樂街道路改善工程引發工安疑慮，縣議員溫芝樺、市民代表黃稜茹接",
-   "cities": {
-    "彰化縣": 6,
-    "台南市": 1
-   },
-   "districts": [],
-   "body_chars": 1005,
-   "image": "https://ni.yam.com/20261022/SQ10217-5--a29cd055293e19ce.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-22",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261022189357": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-22T09:45+08:00",
-   "site_name": "蕃新聞",
-   "description": "&nbsp;由臺北市古亭商圈發展協會、中華天下父母心關懷促進會共同主辦，西門徒步區街區發展促進會協辦",
-   "cities": {
-    "台北市": 6
-   },
-   "districts": [
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 1473,
-   "image": "https://ni.yam.com/20261022/png-8de5e2324956f6cc.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-22",
-   "date_hint_from": "原文時間"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
    "checked_at": "2026-10-30T14:04+08:00",
@@ -191,25 +74,6 @@
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
-  },
-  "https://n.yam.com/Article/20261025118921": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-25T18:46+08:00",
-   "site_name": "蕃新聞",
-   "description": "報新聞/編輯部備受全台樂迷期待的「花蓮韓流原聲演唱會」，雖受到颱風攪局影響被迫延期，於10月25日（",
-   "cities": {
-    "花蓮縣": 15,
-    "雲林縣": 1
-   },
-   "districts": [
-    "花蓮市形象商圈（花蓮縣）"
-   ],
-   "body_chars": 1358,
-   "image": "https://ni.yam.com/20261025/hualien-cover-261025061439703-1fe827f902004d1f.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-25",
-   "date_hint_from": "原文時間"
   },
   "https://nownews.com/news/6885475": {
    "checked_at": "2026-10-30T14:04+08:00",
@@ -298,240 +162,10 @@
    "date_hint": "2026-10-26",
    "date_hint_from": "原文時間"
   },
-  "https://news.pchome.com.tw/public/morenews/20261020/index-79248645618053350016.html": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 502,
-   "error": "HTTP Error 502: Bad Gateway"
-  },
   "https://news.housefun.com.tw/news/article/amp/132529490402.html": {
    "checked_at": "2026-10-29T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://www.881903.com/traffic/info/2656695": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T16:09+08:00",
-   "site_name": "商業電台 881903",
-   "description": "交通意外︰亞皆老街去大角咀(16:09最新)【馬路的事交通消息】亞皆老街去大角咀，近窩打老道有交通意外，一帶車多。",
-   "cities": {},
-   "districts": [],
-   "body_chars": 58,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://cmnews.com.tw/article/forumnews-94ce1063-d1d5-11f1-895e-31890c5c87d8": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T15:11+08:00",
-   "site_name": "CMoney投資網誌",
-   "description": "高端百貨零售市場競爭激烈，台北東區商圈迎來豪宅經濟消費紅利。隨著高資產客群需求改變，新光三越擴增鑽石塔精品與家電陣容，週年慶挑戰全年16億業績。 | CMoney投資網誌",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [
-    "東區商圈（台北市）"
-   ],
-   "body_chars": 2559,
-   "image": "https://image.cmoney.tw/attachment/blog/1793030400/93cbb159-2f90-44ee-9612-70bffad29c83.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://house.udn.com/house/story/123590/9839921?form=udn_ch2_common3_cate": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T15:07+08:00",
-   "site_name": "udn房地產",
-   "description": "三峽都更第一案！久年機構旗下建設事業久年置地27日舉辦新案「久年橒画」公開活動，該案自8月潛銷以來已售近五成，不僅銷售表現良好，價格更是跳脫區域的3到4字頭行情，據實價登錄，每坪最高成交單價達60.02萬元，創三峽老街商圈區域新高。",
-   "cities": {
-    "台北市": 6,
-    "台南市": 4,
-    "新北市": 3,
-    "高雄市": 3,
-    "台中市": 2
-   },
-   "districts": [
-    "民生社區商圈（台北市）"
-   ],
-   "body_chars": 1856,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35458656.jpg&M=1&s=Y&x=0&y=73&sw=1280&sh=853&sl=W&fw=800&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://m.eprice.com.tw/mobile/talk/102/5827297/1": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "ePrice 行動版",
-   "description": "【消息來源/傑昇通信】新竹鄉親注意！全台最大連鎖通訊門市傑昇通信把地板價直接掀翻，為了讓新竹在地鄉親也能享受到尊榮級的通訊服務，傑昇通信特別選在充滿文藝氣息與生活機能滿點的新竹，盛大開設全新「新竹水田",
-   "cities": {
-    "新竹": 12
-   },
-   "districts": [],
-   "body_chars": 151,
-   "image": "https://timgm.eprice.com.tw/tw/mobile/img/2026-10/27/5827297/eprice_1_9ccb0ab9d1e6d544271effe08ded39ab.png",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "圖片路徑"
-  },
-  "https://sunmedia.tw/news/Industry-information/%E5%BE%9E%E8%80%81%E8%A1%97%E5%8D%80%E6%96%87%E5%8C%96%E5%88%B0%E4%B8%96%E4%BB%A3%E4%BA%A4%E6%B5%81%EF%BC%81%E9%87%8C%E9%95%B7%E5%8F%83%E9%81%B8%E4%BA%BA%E7%9B%A7%E7%B6%A0%E7%B6%A2%E6%8F%90%E5%87%BA%E5%BB%BA%E5%8A%9F%E9%87%8C%E7%A4%BE%E5%8D%80%E6%B4%BB%E5%8B%95%E6%A7%8B%E6%83%B3-%E9%87%8D%E6%96%B0%E5%87%9D%E8%81%9A%E8%A1%97%E5%8D%80%E6%B4%BB%E5%8A%9B-1793084463805": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T15:05+08:00",
-   "site_name": "商傳媒",
-   "description": "從老街區文化到世代交流！里長參選人盧綠綢提出建功里社區活動構想 重新凝聚街區活力",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [
-    "後站商圈（台北市）"
-   ],
-   "body_chars": 1113,
-   "image": "https://image.sunmedia.tw/banners/064579de-ddc1-454e-9aa6-245c6d408dec.jpeg",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/7326/9839466?from=udn-relatednews_ch2": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T12:19+08:00",
-   "site_name": "聯合新聞網",
-   "description": "光復節3天連假雖已收假，不過連假也確實帶動國旅熱潮，台南市觀旅局統計，各景點累計吸引逾121萬人次到訪，其中市區商圈、古蹟園區及購物商場最受歡迎，累計逾71萬人次；老街街區也吸引逾12萬人次，山海景點、文教場館及秋季主題活動則攬客逾38萬人次，展現台南觀光多元魅力。",
-   "cities": {
-    "台南市": 19,
-    "嘉義市": 10,
-    "台中市": 1
-   },
-   "districts": [
-    "海安商圈（台南市）",
-    "關子嶺商圈（台南市）"
-   ],
-   "body_chars": 1873,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35457868.jpg&M=1&s=Y&x=0&y=1&sw=1279&sh=853&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://house.udn.com/house/story/123590/9839921": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T15:07+08:00",
-   "site_name": "udn房地產",
-   "description": "三峽都更第一案！久年機構旗下建設事業久年置地27日舉辦新案「久年橒画」公開活動，該案自8月潛銷以來已售近五成，不僅銷售表現良好，價格更是跳脫區域的3到4字頭行情，據實價登錄，每坪最高成交單價達60.02萬元，創三峽老街商圈區域新高。",
-   "cities": {
-    "台北市": 6,
-    "台南市": 4,
-    "新北市": 3,
-    "高雄市": 3,
-    "台中市": 2
-   },
-   "districts": [
-    "民生社區商圈（台北市）"
-   ],
-   "body_chars": 1856,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35458656.jpg&M=1&s=Y&x=0&y=73&sw=1280&sh=853&sl=W&fw=800&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.300c3.org.tw/life_view.php?new_sn=17415": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": "台中國際獅子會300C-3區\r\n愛我臺灣·行善天下,2025-2026 總監 梁俊仁,\r\n第一個字母Ｌ，\r\n就是Liberty（自由）的意思；\r\n第二個字母Ｉ，是Inteligence（智慧）的意思；\r\n第三個字母Ｏ，是Our（我們的）意思；\r\n第四個字母Ｎ，即是Nation（國家）的意思；\r\n第五",
-   "cities": {
-    "台南市": 16,
-    "台中市": 1
-   },
-   "districts": [
-    "赤嵌商圈（台南市）",
-    "成大商圈（台南市）",
-    "東寧商圈（台南市）"
-   ],
-   "body_chars": 1234,
-   "image": "https://uploads.posu.tw/73/738/1792559646_0.jpg",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://n.yam.com/Article/20261027348107": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T14:26+08:00",
-   "site_name": "蕃新聞",
-   "description": "報新聞/編輯部基隆市115年度基層運動選手訓練站田徑區域性對抗賽今（27）日於南榮國中田徑場熱烈登場",
-   "cities": {
-    "基隆市": 10,
-    "台北市": 2,
-    "新北市": 1,
-    "台中市": 1
-   },
-   "districts": [],
-   "body_chars": 812,
-   "image": "https://ni.yam.com/20261027/S__608477190_0-54679ea191844bf8.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.yesmedia.com.tw/%e9%80%9b%e8%a1%97%e5%88%b0%e4%b8%80%e5%8d%8a%e5%a6%b9%e5%a6%b9%e5%95%86%e5%9c%88%e8%b5%b0%e5%a4%b1-%e5%a4%a7%e5%ae%89%e8%ad%a6%e7%a9%8d%e6%a5%b5%e5%8d%94%e5%b0%8b%e5%8a%a9%e5%9c%98%e5%9c%93/": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T10:51+08:00",
-   "site_name": "是新聞 YesMedia | 網路原生即時新聞",
-   "description": "圖說：臺北市大安分局和平東路派出所警員周品澄、費品涵。 【民眾網編輯方笙楠臺北報導】臺北市大安分局和平東路派出",
-   "cities": {
-    "台北市": 5
-   },
-   "districts": [],
-   "body_chars": 592,
-   "image": "https://cdn.yesmedia.com.tw/wp-content/uploads/2026/10/20261026114027_53.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
-  "https://mknews.com.tw/2026/10/1009500/": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T15:49+08:00",
-   "site_name": "天天上新聞",
-   "description": "墨新聞｜記者江育銓／基隆報導 圖說：115年基層訓練站田徑區 … Read More",
-   "cities": {
-    "基隆市": 16,
-    "新竹": 5,
-    "嘉義": 5,
-    "台北市": 4,
-    "桃園市": 4
-   },
-   "districts": [],
-   "body_chars": 3566,
-   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://g4.village.tw/uninews_view.php?new_sn=147336": {
-   "checked_at": "2026-10-27T16:51+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": "關廟區東勢社區發展協會",
-   "cities": {
-    "台南市": 6
-   },
-   "districts": [
-    "海安商圈（台南市）"
-   ],
-   "body_chars": 779,
-   "image": "https://uploads.posu.tw/1/1/202209211155302064.png",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
   },
   "https://www.taichung.gov.tw/8868/8872/9962/3400033": {
    "checked_at": "2026-10-28T13:58+08:00",
@@ -6830,6 +6464,690 @@
    "image": null,
    "image_checked": true,
    "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261023291312": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-23T15:12+08:00",
+   "site_name": "蕃新聞",
+   "description": "快訊摘要【商圈討糖】經發局與豐原廟東復興商圈10/31在豐原太平洋百貨廣場辦萬聖嘉年華，12歲以下兒",
+   "cities": {
+    "台中市": 12
+   },
+   "districts": [
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 983,
+   "image": "https://ni.yam.com/20261023/halloween-art-taichung-1-261023061148189-243c5dce031f58a1.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-23",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261021423424": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T03:25+08:00",
+   "site_name": "蕃新聞",
+   "description": "百貨週年慶搭上萬聖節消費潮，各項慶祝活動熱鬧滾滾。新光三越天母店於10月22日啟動週慶活動，",
+   "cities": {
+    "台北市": 4,
+    "台中市": 2,
+    "高雄市": 2,
+    "桃園市": 1,
+    "台南市": 1
+   },
+   "districts": [
+    "天母商圈（台北市）"
+   ],
+   "body_chars": 2181,
+   "image": "https://ni.yam.com/20261021/Cardu_6ad77bce6a8e6-c362f899a0238b6b.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261022189357": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-22T09:45+08:00",
+   "site_name": "蕃新聞",
+   "description": "&nbsp;由臺北市古亭商圈發展協會、中華天下父母心關懷促進會共同主辦，西門徒步區街區發展促進會協辦",
+   "cities": {
+    "台北市": 6
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1460,
+   "image": "https://ni.yam.com/20261022/png-8de5e2324956f6cc.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-22",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261018452867": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-18T08:00+08:00",
+   "site_name": "蕃新聞",
+   "description": "記者: 吳浩彰 台南報導&nbsp;「2026佳里購物嘉年華」於10月17、18日熱鬧登場，今年以「",
+   "cities": {
+    "台南市": 2
+   },
+   "districts": [],
+   "body_chars": 226,
+   "image": "https://ni.yam.com/20261018/202610181948580-2b7e0726a4cb553f.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261021487705": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-22T11:31+08:00",
+   "site_name": "蕃新聞",
+   "description": "【創新聞 記者張溎壕／彰化報導】彰化市永樂街道路改善工程引發工安疑慮，縣議員溫芝樺、市民代表黃稜茹接",
+   "cities": {
+    "彰化縣": 6
+   },
+   "districts": [],
+   "body_chars": 997,
+   "image": "https://ni.yam.com/20261022/SQ10217-5--a29cd055293e19ce.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-22",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cineplay.co.kr/zh-tw/articles/30557": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T15:49+08:00",
+   "site_name": "电影播放",
+   "description": "打破既有框架，攜手在地商圈共榮，以多樣周邊擄獲粉絲心 「NAVER WEBTOON」將於本月30日至下月29日，在首爾鐘路區「昌信洞文具玩具街」一帶，開設人氣網漫《Maru Is a Puppy》快閃店。 《Maru Is a Puppy》是「NAVER...",
+   "cities": {},
+   "districts": [
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 3155,
+   "image": "https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2026-10-30/8f5f3051-ebe3-4042-89ac-4a394987fa9c.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.5news.com.hk/international-oil-price-drop-oct-30-2026/": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T08:30+08:00",
+   "site_name": "5News - 5只新聞咁簡單！",
+   "description": "國際油價喺10月30日輕微下跌，倫敦布蘭特期油下跌0.38%，紐約期油下跌0.76%。儘管價格向下，但跌幅有限，市場投資者依然密切關注中東局勢對石油供應嘅潛在影響。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 783,
+   "image": "https://storage.ghost.io/c/3a/55/3a558e15-07f0-4658-8806-c5a29d8cc457/content/images/size/w1200/2026/10/a4d9d5bf-00a2-4190-9711-61a21235c922.png.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.inside.com.tw/article/42781-ev-beats-ice-europe-sales": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T16:51+08:00",
+   "site_name": "INSIDE",
+   "description": "歐盟第三季純電動車銷量首度超越汽柴油車總和，顯示市場轉型里程碑。平價車款為主要驅動力，然油電混合車銷量仍居冠，各國普及率亦存有顯著落差。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1367,
+   "image": "https://bucket-image.inkmaginecms.com/version/social/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2025/11/5b1b7c26-e944-4d0d-b652-563a106e1086.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ebc.net.tw/news/living/578200": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T11:14+08:00",
+   "site_name": "東森新聞",
+   "description": "臺中物調券第二波30日登場！民眾只要拿100元，就能換到200元物調券，這回全市共有107處發放場域，還有369家商圈店家響應加碼優惠。",
+   "cities": {
+    "台中市": 6
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 616,
+   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/30/1793358676_75962.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://cmnews.com.tw/article/forumnews-94ce1063-d1d5-11f1-895e-31890c5c87d8": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T15:11+08:00",
+   "site_name": "CMoney投資網誌",
+   "description": "高端百貨零售市場競爭激烈，台北東區商圈迎來豪宅經濟消費紅利。隨著高資產客群需求改變，新光三越擴增鑽石塔精品與家電陣容，週年慶挑戰全年16億業績。 | CMoney投資網誌",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 2626,
+   "image": "https://image.cmoney.tw/attachment/blog/1793030400/93cbb159-2f90-44ee-9612-70bffad29c83.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://yayanews.com.tw/36132/": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T15:18+08:00",
+   "site_name": "鴨鴨新聞 Yaya News",
+   "description": "【記者徐義雄／台中報導】",
+   "cities": {
+    "台中市": 8
+   },
+   "districts": [
+    "豐原廟東復興商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1403,
+   "image": "https://yayanews.com.tw/wp-content/uploads/2026/10/36132-optimized.png",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T46E15H:0/": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T01:19+08:00",
+   "site_name": "TradingView",
+   "description": "南非蘭特周三承壓走軟，因油價上漲加劇了通脹擔憂，同時投資者正等待美國聯邦儲備理事會(美聯儲/FED)當天晚些時候的政策決定，以尋找有關利率前景的線索。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 282,
+   "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.futunn.com/hk/flash/1002617045/fitch-ratings-some-frontier-markets-are-under-pressure-from-high": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.rthk.hk/rthk/ch/component/k2/1875880-20261030.htm": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "國際油價向下，但跌幅有限，市場繼續關注中東局勢。 12月倫敦布蘭特期油收報每桶114.88美元，下跌44美仙，跌幅0.38%。 12月紐約期油收報每桶102美元，下跌78美仙，跌幅0.76%。 編輯：李意琴",
+   "cities": {},
+   "districts": [],
+   "body_chars": 168,
+   "image": "https://newsstatic.rthk.hk/images/mfile_1875880_1_M_20261030055938.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "網址"
+  },
+  "https://www.storm.mg/lifestyle/11176683": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T07:30+08:00",
+   "site_name": null,
+   "description": "台中市第二波物調券將於10月30日至11月1日發放，民眾可用100元現金兌換200元物調券，使用期限為7天。台中市經發局表示，全市商圈共有369家店家響應，推出服飾、美食、伴手禮及生活用品等優惠，包括折扣、買一送一、滿額贈及消費加碼等活動，其中天津商圈全商圈8折並送限量福袋、自由路商圈全商圈9折，各商圈好康一次整理。台",
+   "cities": {
+    "台中市": 15
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "電子街商圈（台中市）",
+    "自由路五金電料商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "精明一街商圈（台中市）"
+   ],
+   "body_chars": 2107,
+   "image": "https://images.storm.mg/cloud/a18e059a4f30582010103f54774c47404644f878.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2159234%2FPnIER7vNimivRzRrvYoZ6vii4zmbLhJPzHQIEDRZ.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.bastillepost.com/hongkong/article/17077569-%E6%B2%B9%E5%83%B9%E5%81%8F%E8%BB%9F-%E5%B8%83%E8%98%AD%E7%89%B9%E6%9C%9F%E6%B2%B9%E8%B7%8C0-38-%E5%B8%82%E5%A0%B4%E7%BA%8C%E9%97%9C%E6%B3%A8%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T07:21+08:00",
+   "site_name": "Bastillepost 巴士的報",
+   "description": "國際油價向下但跌幅有限，市場繼續緊盯中東局勢！12月倫敦布蘭特期油收報每桶114.88美元，跌44美仙；紐約期油收報102美元，跌78美仙。油價走勢未明，投資者要留神後市變化，留意中東消息隨時掀起波瀾",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1501,
+   "image": "https://image.bastillepost.com/640x/wp-content/uploads/hongkong/2026/03/20200413-CH-oil_FB-1-1-1-1-3-1-1-1-2-3-1-1_source-ap_.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.sjtv.com.tw/articles/119329": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T16:26+08:00",
+   "site_name": "信吉衛視+",
+   "description": "（中央社施亞努市28日綜合外電報導）美國郵輪業者Villa Vie Residences表示，伊朗戰爭推升燃油價格，導致營運成本高得難以負擔後，數百名長期居住在郵輪上的乘客本週被迫在柬埔寨下船。\n綜合路透社與法新社報導，郵輪Villa Vie Odyssey已在海上航行至少755天，是少數提供旅客租用或購買長期甚至永久",
+   "cities": {},
+   "districts": [],
+   "body_chars": 827,
+   "image": "https://www.sjtv.com.tw/uploads/website/2026/202603/20260325/img_69c39510cc3436.71943631_1774425360.png",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/lifestyle/11177026": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T16:52+08:00",
+   "site_name": null,
+   "description": "高雄市擁有港灣、山林、老街與藝文場館等多元景觀，從適合看海散步的旗津與愛河，到能逛展覽、拍照及品嘗小吃的駁二藝術特區、旗山老街，各有不同特色，成為不少民眾安排高雄旅遊時的熱門選擇。  根據交通部觀光署最新統計，2026年1月至8月高雄市26個觀光遊憩據點中，駁二藝術特區以821萬5160人次拿下冠軍，愛河（五福四路至博",
+   "cities": {
+    "高雄市": 25
+   },
+   "districts": [
+    "哈瑪星商圈（高雄市）"
+   ],
+   "body_chars": 2824,
+   "image": "https://images.storm.mg/cloud/a339077b2c8e4931cd781d2300fe805ea401aa8b.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2142937%2FWL5FLDyJxUMIoMA4ngsxYny0r9CjDVsD7exgPqih.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://es.tradingview.com/news/reuters.com,2026:newsml_L6T46D04Z:0/": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T18:00+08:00",
+   "site_name": "TradingView",
+   "description": "美國原油價格維持在今年波動區間的高檔附近。從伊朗戰爭期間的交易走勢來看，要在當前水準進一步大幅上漲並不容易。技術面分析則顯示，油價未來可能面臨下行風險。點擊此處查看詳細技術分析圖表。伊朗戰爭期間，油價劇烈波動，在美國原油期貨（WTI）價格走勢圖上留下了多個跳空缺口。此後大多數缺口已被填補，但至少仍有兩個缺口呈部分或完全",
+   "cities": {},
+   "districts": [],
+   "body_chars": 466,
+   "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ftvnews.com.tw/news/detail/2026A27W0756": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T20:59+08:00",
+   "site_name": "民視新聞網",
+   "description": "Reuters 路透社報導隨著國際油價回跌提振市場風險偏好，美國華爾街主要指數期貨在週二盤前全面走揚。投資人本週將聚焦聯準會即將公布的利率決策，以及多家大型科技巨頭與企業的最新財報表現。",
+   "cities": {
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 620,
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/62e235d1-ee5f-4144-82cf-e32ca5cbefac.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://hk.investing.com/news/economy-news/article-1716884": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.cna.com.tw/news/aopl/202610290233.aspx": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T16:26+08:00",
+   "site_name": "中央社 CNA",
+   "description": "美國郵輪業者Villa Vie Residences表示，伊朗戰爭推升燃油價格，導致營運成本高得難以負擔後，數百名長期居住在郵輪上的乘客本週被迫在柬埔寨下船。",
+   "cities": {
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 1065,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/400/20261030/1008x768_wmky_0_C20261030000130.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://stock.ltn.com.tw/article/emkm1kuqc5mw": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "美國能源部長萊特（Chris Wright）週二（27日）表示，美國可能會允許更多來自俄羅斯的柴油進入全球市場，這取決於莫斯科的行為。《CNBC》報導，萊特將川普政府本（10）月初暫停對俄羅斯柴油出口的制裁解讀為促使莫斯克結束對烏克蘭戰爭的「激勵措施」。他表示，這在一定程度上將有助於緩解燃料供應問題",
+   "cities": {},
+   "districts": [],
+   "body_chars": 151,
+   "image": "https://img.ltn.com.tw/Upload/business/page/400S/2026/10/28/phpMIIdiA.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://www.tradingview.com/news/reuters.com,2026:newsml_L6T46C07W:0/": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T11:35+08:00",
+   "site_name": "TradingView",
+   "description": "全球股市周一交投謹慎，油價從六個月高點回落，本周將迎來一系列央行會議和企業財報發布，投資者對人工智能(AI)熱潮的信心將面臨進一步考驗。布蘭特原油期貨 ICEEUR:BRN1!下跌1.6%報每桶114.88美元。此前有報導稱，卡塔爾調停人員抵達德黑蘭展開斡旋。布蘭特原油上周跳漲6.2%，因胡塞武裝襲擊引發供應憂慮。日本",
+   "cities": {},
+   "districts": [],
+   "body_chars": 375,
+   "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.tmgm.com/cht/analysis/market-news/article/canadian-dollar-edges-lower-vs-firmer-usd-as-bullish-oil-limits-losses-ahead-of-boc-fed-202610270835": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.i-cable.com/%E8%B2%A1%E7%B6%93%E8%B3%87%E8%A8%8A/516780/%E5%8C%AF%E9%87%91%E5%A4%A9%E4%B8%8B27-10-2026-%E5%B8%82%E5%A0%B4%E6%86%A7%E6%86%AC%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E7%B7%A9%E5%92%8C-%E6%B2%B9%E5%83%B9%E5%9B%9E%E8%90%BD": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T11:03+08:00",
+   "site_name": "有線寬頻 i-CABLE",
+   "description": "主持：黃健臻 嘉賓：盧楚仁 獨立外匯商品分析師 市場焦點： 。布蘭特期油最多跌2.33%低見114美元，收報1",
+   "cities": {},
+   "districts": [],
+   "body_chars": 357,
+   "image": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/09/09004156/MONEY-MKT.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/world/breakingnews/5620514": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T17:49+08:00",
+   "site_name": "自由時報電子報",
+   "description": "美國總統川普之前宣布美國將購買俄羅斯柴油，以壓低燃料價格，此舉引發民主黨與共和黨的批評。美國眾議院司法委員會民主黨首席議員拉斯金（Jamie Raskin）26日在致石油行業負責人的1封信表示，若石油公司依據川普與俄羅斯達成的協議進口俄羅斯柴油，都將會被「追究責任」。根據《政客》報導，美國期中大選將於11月3日舉行，若",
+   "cities": {},
+   "districts": [],
+   "body_chars": 920,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/27/phpM9jYhh.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://finance.ftvnews.com.tw/news/detail/2026A27W0106": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T15:43+08:00",
+   "site_name": "民視財經網－掌握投資趨勢與財經脈動",
+   "description": "路透社（Reuters）專欄作家 Jamie McGeever 分析指出，市場對人工智慧（AI）的情緒正逐漸轉弱。大型科技公司財報揭露龐大的資本支出計畫，加劇了投資人對相關領域鉅額支出的擔憂，AI 債券市場也出現波動，導致華爾街股市漲勢暫歇。隨著 AI 成長動能受挫，資金開始流向被視為無風險資產的美國公債，10年期美債",
+   "cities": {},
+   "districts": [],
+   "body_chars": 514,
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/a9aeb787-dd0f-499d-9256-9b69520a76e7.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E5%85%AC%E6%9C%89%E5%B8%82%E5%A0%B4%E6%94%A4%E5%95%86%E7%93%A6%E6%96%AF%E8%B6%85%E6%B5%81%E9%81%AE%E6%96%B7%E8%A3%9D%E7%BD%AE%E8%A3%9D%E8%A8%AD%E7%8E%87%E9%81%9498-3-090814457.html": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T17:08+08:00",
+   "site_name": "Yahoo News",
+   "description": "目前台中市公有市場使用燃氣設備的攤商，瓦斯超流遮斷裝置裝設率達百分之九十八點三。（記者鍾麗如攝）",
+   "cities": {
+    "台中市": 5,
+    "台北市": 3,
+    "高雄市": 3,
+    "桃園市": 2,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 3653,
+   "image": "https://s.yimg.com/lo/mysterio/api/f9836767a6bc0319474bca5812da112dc3fcba5c9c20df5b5f0fb6a413aa6893/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Ftaiwantimes_374%2F05eecbc5cecd19907d66192f8b45c2a3.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261026001178-260405": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T11:01+08:00",
+   "site_name": "中時新聞網",
+   "description": "台中市建國市場今年3月發生氣爆案，引起外界關注菜市場瓦斯事故防範措施、食品責任保障等。對此，台中市經發局26日表示，全市約有896攤使用燃氣設備，有98.3％裝設瓦斯超流遮斷裝置，另符合強制投保條件的212家食品",
+   "cities": {
+    "台中市": 6
+   },
+   "districts": [],
+   "body_chars": 939,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-26/656/20261026001179.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://financefeeds.com/zh/global-fx-summary-central-banks-oil-regional-data/": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T00:25+08:00",
+   "site_name": "FinanceFeeds",
+   "description": "中東衝突推升油價破百美元，聯準會預期按兵不動，加拿大央行升息至2.50%，英國預算風險主導2026年10月28日外匯走向。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 2603,
+   "image": "https://financefeeds.com/wp-content/uploads/2025/08/FA-1000x750-4.png",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261026743614": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T06:56+08:00",
+   "site_name": "蕃新聞",
+   "description": "圖／本報資料庫商傳媒｜吳承岳／台北報導全球原油市場近期波動劇烈，布蘭特（Brent）原油價格已飆漲至",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 490,
+   "image": "https://ni.yam.com/20261026/74de44a6-bcee-4410-9ebb-327f35c3c05f-9d299ea25436adda.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.sinotrade.com.tw/richclub/Financialfreedom/%E6%9C%AC%E5%91%A8%E5%9F%BA%E9%87%91%E5%B8%82%E5%A0%B4%E5%89%8D%E7%9E%BB---AI-%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E7%96%91%E6%85%AE-%E4%B8%AD%E6%9D%B1%E6%B2%B9%E5%83%B9%E5%89%B5%E6%96%B0%E9%AB%98-3-%E6%AA%94%E5%9F%BA%E9%87%91%E5%88%86%E6%95%A3%E9%85%8D%E7%BD%AE-6ae174d8b2fadc00a0563f42": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T12:33+08:00",
+   "site_name": "豐雲學堂",
+   "description": "本週基金市場前瞻聚焦三大變數：Meta 自由現金流轉負，重燃 AI 資本支出疑慮，那斯達克單日重挫 2.6%；中東情勢升溫推升布蘭特原油創 4 月新高；聯準會利率決議將公布，美債殖利率已自高檔回落。面對三重波動，全球基礎建設、日本價值股與短天期債券基金如何分散風險？本文逐一解析配置邏輯。",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 346,
+   "image": "https://richclub.azureedge.net/article/6ae174d8b2fadc00a0563f42/poster.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ftvnews.com.tw/news/detail/2026A24W0425": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:57+08:00",
+   "site_name": "民視新聞網",
+   "description": "AFP 法新社報導法國各地爆發大規模反生活成本抗議，為防止上週末的縱火與掠奪暴力重演，警方在里昂發射催淚瓦斯驅趕違規示威者。巴黎、波爾多等多地商家紛紛用木板封住店面嚴加戒備，民眾與店員普遍對示威感到不安。",
+   "cities": {
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 658,
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/603b4648-cfbc-4f84-b085-502ba6c89ea5.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%A1%91%E5%9B%9B%E5%AF%B6%E9%96%8B%E7%9B%A4%E6%9C%83%E5%99%B4-%E5%B8%82%E5%A0%B4%E9%BB%9E%E5%90%8D-2%E5%AF%B6-%E8%A6%81%E5%B0%8F%E5%BF%83%E5%85%88%E5%88%A5%E7%A2%B0-%E8%B5%A4%E8%A3%B8%E5%89%96%E6%9E%90%E5%8D%97%E4%BA%9E-070500761.html": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T15:05+08:00",
+   "site_name": "Yahoo News",
+   "description": "[FTNN新聞網]記者何亞軒／綜合報導受到中東地緣政治逐漸惡化，預期週二開盤傳產各股有望成為防守焦點，市場將目光轉向龍頭台塑四寶，不過綜合各大機構、法人...",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 3633,
+   "image": "https://s.yimg.com/lo/mysterio/api/568ab297d996719f8f36744afc83e7b4894d380539b997138bf6135aa65062b7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fftnn_com_tw_939%2Fd454a5deec15648fa95d76f33865d889.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-25",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/DRjP66X": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T13:39+08:00",
+   "site_name": "LINE TODAY",
+   "description": "到廈門旅遊，除了鼓浪嶼、南普陀寺，中山路步行街也是值得安排的市區景點。這條始建於1925年的百年商業街，長約1.2公里，沿途保存成片南洋風格...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1749,
+   "image": "https://today-obs.line-scdn.net/0haR-xwdGDPn0QASL-LdRBKihXMgwjZyR0MmV0TmFWZh8_LSsrLG5tHjZSMlFuNnp5MG52G2UCY0s1Zn5_Lw/w1200",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://sunmedia.tw/news/finance/1792795617-%E4%B8%AD%E6%9D%B1%E5%9C%B0%E7%B7%A3%E7%B7%8A%E5%BC%B5%E6%8E%A8%E5%8D%87%E6%B2%B9%E5%83%B9%20%E5%B8%82%E5%A0%B4%E6%86%82%E9%80%9A%E8%86%A8%EF%BC%9B%E6%AD%90%E5%85%83%E5%9B%A0PMI%E6%95%B8%E6%93%9A%E7%96%B2%E8%BB%9F%E8%B5%B0%E8%B7%8C": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T06:48+08:00",
+   "site_name": "商傳媒",
+   "description": "中東地區地緣政治緊張情勢升溫，尤其在美國總統川普對伊朗採取強硬立場及胡塞武裝攻擊沙烏地目標後，國際油價隨之上漲。同時，歐洲各國的採購經理人指數（PMI）數據表現疲軟，導致歐元走軟並拖累歐洲股市，全球金融市場因此面臨通膨壓力與經濟成長放緩的雙重考驗。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1375,
+   "image": "https://image.sunmedia.tw/banners/a89060c2-9202-471d-a4f5-401e50c5e198.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taichung.gov.tw/3399790/post": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "臺中市政府全球資訊網",
+   "description": "中市公有市場安全雙防線！瓦斯遮斷裝設率98.3%　產品責任險投保逾8成",
+   "cities": {
+    "台中市": 2
+   },
+   "districts": [],
+   "body_chars": 1075,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://money.udn.com/money/story/10871/9834204": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T02:22+08:00",
+   "site_name": "經濟日報",
+   "description": "美、俄柴油協議生效，引發市場關注國際柴油價格後續走勢。台塑化觀察，因俄羅斯煉油廠受損嚴重，短期內難以大幅增加柴油供給，俄羅斯柴油回流國際市場，尚不足以扭轉全球供需結構，預期柴油供給持續緊張、煉製利差仍有支撐。法人認為，台塑化柴油外銷比重高，國際柴油供應緊缺格局不變下，煉製利差有望維持高檔，支撐後續獲利表現。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1343,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/06/35302640.jpg&M=1&s=Y&x=0&y=0&sw=1242&sh=828&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262238177-gold-below-4000-oil-retreats-musk-spacex-40-billion-tradingkey": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T08:46+08:00",
+   "site_name": "tradingkey.com",
+   "description": "TradingKey - 10月26日，美股三大指數期貨小幅上漲，國際油價回吐部分漲幅。市場在上週末的拋售後嘗試企穩，但中東能源供應風險、AI投資回報以及聯準會政策前景仍是主要關注點。本週，聯準會利率會議與多家科技巨頭財報將接連登場。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1345,
+   "image": "https://resource.tradingkey.com/uploads/20260120/TradingKey_-th_optimized_150-08cd71f448b84d378a86a742bf8c5e4d.png",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/Opl9GEE": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 中東地緣緊張推升油價 市場憂通膨；歐元因PMI數據疲軟走跌",
+   "cities": {},
+   "districts": [],
+   "body_chars": 123,
+   "image": "https://today-obs.line-scdn.net/0h_g3YtOJWAEgOIBz054B_HzZ2DDk9RhpBLEAYLywgCyxxDBQYN0ZTKylzXWRzFU5NLk9IJ3xwDi0rE0MaYQ/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.cmoney.tw/forum/article/186738152": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T14:17+08:00",
+   "site_name": "CMoney 股市爆料同學會",
+   "description": "今天市場發生了什麼 受美伊緊張局勢升級的擔憂影響，油價上漲。布蘭特原油期貨價格觸及每桶116.72美元，創下4月以來的最高結算價。伊朗威脅稱，如果美國和以色列恢",
+   "cities": {},
+   "districts": [],
+   "body_chars": 255,
+   "image": "https://image.cmoney.tw/attachment/post/1792771200/790082c3-90c9-4abc-9922-1b0887818513.png",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/politics/4042679": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T22:19+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "九合一大選倒數31天，台北市長選情增溫之際，尋求連任的國民黨籍台北市長蔣萬安陣營今（28）日晚間傳出震撼彈，蔣萬安因身體不適，經團隊評估後宣布取消所有預排行程，專心休息並全力備戰即將到來的辯論會。與此同時，蔣萬安妻子石舫亘預計明日首度出擊，前往內湖區湖光市場掃街拜票，啟動「夫人牌」分身救火。",
+   "cities": {
+    "台北市": 20,
+    "高雄市": 8,
+    "新北市": 4,
+    "彰化縣": 3,
+    "桃園市": 1
+   },
+   "districts": [],
+   "body_chars": 2884,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a182c5-e95b-71d8-983b-d3eff4e6237e.jpg?t=16x9&wp=l,t&c=0,1633,3944,3852&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cmoney.tw/forum/article/186735976": {
+   "checked_at": "2026-10-30T17:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T09:10+08:00",
+   "site_name": "CMoney 股市爆料同學會",
+   "description": "​🔥3大重點快速看懂：​1️⃣.國際油價狂飆，通膨隱憂又回來中東那邊地緣政治風險一下子升溫，帶動國際原油價格衝破每桶116美元大關！油價一貴，大家就開始擔心「",
+   "cities": {},
+   "districts": [],
+   "body_chars": 279,
+   "image": "https://image.cmoney.tw/attachment/post/1792771200/68a2eaeb-2330-44dd-9782-65c552d0974d.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
    "date_hint_from": "原文時間"
   }
  }
