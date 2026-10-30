@@ -1,15 +1,13 @@
 {
- "fetched_at": "2026-10-30T17:17:11+08:00",
+ "fetched_at": "2026-10-30T17:18:46+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 112,
-  "kept": 44,
-  "resolved": 44,
-  "items": 43,
-  "resolve_this_run": {
-   "online": 1
-  },
+  "raw": 135,
+  "kept": 45,
+  "resolved": 45,
+  "items": 44,
+  "resolve_this_run": {},
   "dropped_old": [
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
   ]
@@ -116,16 +114,6 @@
    "resolved": true
   },
   {
-   "title": "東京著名商店街再傳竊案 歹徒帶走近千萬元名錶",
-   "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BTkpTekh0SlBXMG9abTVXLXNhRmJfTkZRRUJfbEtoay1tNHgyRU43RF9heWJ4NlJ3M1VpOVJJblRGSE1wcWowMkxocFlUaHJndkFaOVFDSERZb0VScFRMTzlZU0xIZ9IBa0FVX3lxTFBQX2pVanl4X3hBTi1jTFFKcWE0blRiMmU3ZExKY2loSU5ERG1jUHFzVHB1dW9XVXBtSGVXbTJCTm9kNkNfYmtzUGlmQklTbkRHSnNtOHVRVzJxZEI3Q3d1aklOQkt3d21MbUI0?oc=5",
-   "source": "自由時報",
-   "source_site": "https://news.ltn.com.tw",
-   "published_at": "2026-10-30T07:09+08:00",
-   "query": "商店街",
-   "url": "https://news.ltn.com.tw/news/world/breakingnews/5623392",
-   "resolved": true
-  },
-  {
    "title": "東京著名商店街再傳竊案 歹徒帶走約30萬美元名錶",
    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzVjJENVlzRVJ0UF9sc2QzRV9VYXVjN280VGwyZkFtUVNhVzVfZThuUmJDM0NZb0JnSmV3VzAtaGdxZC16XzJocWhBUWtwTlZJaVRtYmphaEFFSk93Y0pnek1YemJBZHfSAWdBVV95cUxQc1YyRDVZc0VSdFBfbHNkM0VfVWF1YzdvNFRsMmZBbVFTYVc1X2U4blJiQzNDWW9CZ0pld1cwLWhncWQtel8yaHFoQVFrcE5WSWlUbWJqYWhBRUpPd2NKZ3pNWHpiQWR3?oc=5",
    "source": "世界新聞網",
@@ -133,6 +121,16 @@
    "published_at": "2026-10-30T07:05+08:00",
    "query": "商店街",
    "url": "https://www.worldjournal.com/wj/amp/story/121480/9846115",
+   "resolved": true
+  },
+  {
+   "title": "東京著名商店街再傳竊案　歹徒帶走近千萬元名錶",
+   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWl9IZEw4T1pJVUt1Q3B3TXZTNFNzWVoxbkhIWU9tTW1jY3Y2dUZzVzM0Ml9Uejh5UHVNVncwMTZpbmlpeko2Q3NYQ3RlMjhlQWNtZFltZzdBWlVXaXY5YWtfaVk0QUtGWkVMZE1FN0wyazF1TzV5Rk8tNkdUeHkxYtIBX0FVX3lxTE9qcTRsMWFMTnAzNkZuLUkzZ2g2MDlPZjFiX0FuVVphaUpxbmR5bkctS0FuOWlvV1lFNUlhOE9ucTFaQS1od0Q3ZmJuTzVlUk9NbmZWMjBRNDNFb29TNTdV?oc=5",
+   "source": "經濟日報",
+   "source_site": "https://money.udn.com",
+   "published_at": "2026-10-30T06:00+08:00",
+   "query": "商店街",
+   "url": "https://money.udn.com/money/story/5599/9846071?from=edn_related_storybottom",
    "resolved": true
   },
   {
@@ -223,6 +221,16 @@
    "published_at": "2026-10-29T17:02+08:00",
    "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
    "url": "https://today.line.me/tw/v3/article/Opl2DBB",
+   "resolved": true
+  },
+  {
+   "title": "2849 安泰銀- 呂政璋出任威秀影城董事長推動「商圈共榮、人潮共享、會員共好」 - 股市爆料同學會",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GN1BxODViWEtXaENCX1ZZT2RyRTFRV2JETE10bkNzM25LVXdpcjUwY2NjOTdzYUdiZ3hCM1F1UFVKQ2VqN29MT1lFeVZKU2NwMkREc19yMWI?oc=5",
+   "source": "CMoney",
+   "source_site": "https://www.cmoney.tw",
+   "published_at": "2026-10-29T16:54+08:00",
+   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
+   "url": "https://www.cmoney.tw/forum/article/187097615",
    "resolved": true
   },
   {
