@@ -25,7 +25,7 @@ import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
-from urllib.parse import urljoin, urlsplit
+from urllib.parse import unquote, urljoin, urlsplit
 from urllib.request import Request, urlopen
 
 sys.dont_write_bytecode = True
@@ -157,6 +157,24 @@ def ld_values(blob, key):
     return found
 
 
+YAHOO_WRAP = re.compile(r"/(https?(?::|%3A)(?://|%2F%2F).+)$", re.I)
+
+
+def unwrap_image(url):
+    """Yahoo serves pictures through a resizing address (s.yimg.com/.../https%3A%2F%2Fmedia.zenfs.com/...)
+    that Chrome blocks as a cross-origin response (ERR_BLOCKED_BY_ORB); use the original picture inside it."""
+    host = urlsplit(url).hostname or ""
+    if host.endswith("yimg.com"):
+        found = YAHOO_WRAP.search(url)
+        if found:
+            inner = unquote(found.group(1))
+            if inner.startswith("http://"):
+                inner = "https://" + inner[7:]
+            if inner.startswith("https://") and len(inner) <= 500:
+                return inner
+    return url
+
+
 def clean_image(value, page_url):
     if isinstance(value, dict):
         value = value.get("url") or value.get("contentUrl") or ""
@@ -174,7 +192,7 @@ def clean_image(value, page_url):
         return None
     if BAD_IMAGE.search(urlsplit(value).path):
         return None
-    return value
+    return unwrap_image(value)
 
 
 BODY_IMG_OK = re.compile(r"upload|photo|image|img|news|attach|media|files|pic", re.I)
@@ -481,11 +499,11 @@ def write_thumbs(cache, now):
     for url, entry in cache.items():
         if entry.get("image") and not BAD_IMAGE.search(urlsplit(entry["image"]).path):
             seen = images.get(url, {}).get("seen") or today
-            images[url] = {"src": entry["image"], "seen": seen}
+            images[url] = {"src": unwrap_image(entry["image"]), "seen": seen}
         elif "image" in entry:  # checked: no usable image (or only the site's default picture)
             images.pop(url, None)
     oldest = (now - timedelta(days=THUMB_DAYS)).strftime("%Y-%m-%d")
-    images = {u: v for u, v in images.items() if v.get("seen", "") >= oldest}
+    images = {u: dict(v, src=unwrap_image(v["src"])) for u, v in images.items() if v.get("seen", "") >= oldest}
     repeats = {}
     for url, value in images.items():
         key = (urlsplit(url).hostname, value["src"])
