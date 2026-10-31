@@ -1,7 +1,153 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-31T20:20:07+08:00",
+ "generated_at": "2026-11-01T07:18:48+08:00",
  "items": [
+  {
+   "id": "20261031-sanxia-halloween",
+   "title": "三峽老街萬聖節親子動漫嘉年華登場，親子盛裝參加",
+   "summary": "三峽老街週六晚間舉辦萬聖節親子動漫嘉年華，吸引親子家庭變裝參加。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-31T22:47:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "民視新聞網",
+     "url": "https://www.ftvnews.com.tw/news/detail/2026A31L07M1",
+     "published_at": "2026-10-31T22:47:00+08:00"
+    }
+   ],
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/7870a3ee-e32d-4279-b2e1-e7b82638decd.jpg"
+  },
+  {
+   "id": "20261031-houpu-halloween",
+   "title": "金門「後浦搞什麼鬼」萬聖節活動在後浦商圈登場，21組變裝團體參與",
+   "summary": "金城鎮萬聖節活動於北鎮廟前中興路及後浦商圈舉行，大小朋友變裝參與，現場人潮眾多。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-31T22:09:00+08:00",
+   "cities": [
+    "金門縣"
+   ],
+   "districts": [
+    {
+     "name": "後浦商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "後浦商圈為115年補助名單，活動已順利辦理，可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7327/9849362",
+     "published_at": "2026-10-31T22:09:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35473200.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
+  },
+  {
+   "id": "20261031-magong-halloween",
+   "title": "馬公萬聖節踩街，約1500人湧入中正商圈同樂",
+   "summary": "馬公市中正商圈舉辦萬聖節踩街，約1500位親子變裝參與，市長也變裝加入。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-31T21:34:00+08:00",
+   "cities": [
+    "澎湖縣"
+   ],
+   "districts": [
+    {
+     "name": "中正商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202610310195.aspx",
+     "published_at": "2026-10-31T21:34:00+08:00"
+    }
+   ],
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261031/1194x768_wmky_0_C20261031000215.jpg"
+  },
+  {
+   "id": "20261031-donghai-halloween",
+   "title": "台中東海藝術街萬聖搞怪趴登場，東海商圈變裝熱鬧",
+   "summary": "台中東海商圈在東海藝術街舉辦萬聖節活動，現場有變裝與搞怪演出。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-31T21:05:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    {
+     "name": "東海藝術街商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "東海藝術街商圈為115年補助名單，活動已辦理，可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "臺中市政府",
+     "url": "https://www.taichung.gov.tw/3404107/post",
+     "published_at": "2026-10-31T21:05:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261031-hualien-halloween",
+   "title": "花蓮萌鬼變裝踩街，親子同樂並串聯商圈",
+   "summary": "花蓮舉辦萬聖節變裝踩街，標題指活動串聯商圈、帶動親子人潮。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-31T17:31:00+08:00",
+   "cities": [
+    "花蓮縣"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "台灣新聞雲報",
+     "url": "https://www.fclnews.com/235170/",
+     "published_at": "2026-10-31T17:31:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261027-banqiao-fuzhong-ghost",
+   "title": "新北「府中搞什麼鬼」10/31至11/1板橋府中商圈登場，公布交管與替代路線",
+   "summary": "新北萬聖節「府中搞什麼鬼」於板橋府中廣場、重慶路徒步區等地舉辦兩天，並公布交通管制措施。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-10-31T14:30:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [
+    {
+     "name": "板橋府中商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "板橋府中商圈為115年補助名單，活動辦理與交管資訊可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7323/9848902",
+     "published_at": "2026-10-31T14:30:00+08:00"
+    },
+    {
+     "outlet": "知新聞",
+     "url": "https://www.knews.com.tw/news/A1C6ACFFE99CF850ABB28DDDA5CBA34E",
+     "published_at": "2026-10-27T14:36:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472313.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
+  },
   {
    "id": "20261031-tainan-shopping-30b",
    "title": "臺南購物節消費登錄破30億元，加碼抽電動車；11月楠西、西門三星、鹽埕商圈活動接力登場",
@@ -345,7 +491,7 @@
      "published_at": "2026-10-28T11:30:00+08:00"
     }
    ],
-   "image": "https://s.yimg.com/lo/mysterio/api/c234e572b5fce11befb70f334bedb17fc5b5a5682b63db0144dd9a16ec435cef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fgotv_ctitv_com_tw_678%2Fce7e8144df97398c7f9552e4a91d276c.jpg"
+   "image": "https://media.zenfs.com/ko/gotv_ctitv_com_tw_678/ce7e8144df97398c7f9552e4a91d276c.jpg"
   },
   {
    "id": "20261029-chengda-station-traffic",
@@ -846,32 +992,6 @@
    "image": "https://image.cmoney.tw/attachment/blog/1793030400/93cbb159-2f90-44ee-9612-70bffad29c83.jpg"
   },
   {
-   "id": "20261027-banqiao-fuzhong-ghost",
-   "title": "新北「府中搞什麼鬼」10/31至11/1板橋府中商圈登場，公布交管與替代路線",
-   "summary": "新北萬聖節「府中搞什麼鬼」於板橋府中廣場、重慶路徒步區等地舉辦兩天，並公布交通管制措施。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-27T14:36:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [
-    {
-     "name": "板橋府中商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "板橋府中商圈為115年補助名單，活動辦理與交管資訊可作為執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "知新聞",
-     "url": "https://www.knews.com.tw/news/A1C6ACFFE99CF850ABB28DDDA5CBA34E",
-     "published_at": "2026-10-27T14:36:00+08:00"
-    }
-   ],
-   "image": "https://static.kmedia.com.tw/prd/2026/1027/A1C6ACFFE99CF850ABB28DDDA5CBA34E/8ed8d37169790d08716669fe6b838ddc.jpg"
-  },
-  {
    "id": "20261027-tainan-holiday-districts",
    "title": "光復連假台南累計吸引逾121萬人次，市區商圈吸客逾71萬",
    "summary": "台南市觀旅局統計連假各景點人潮，市區商圈、古蹟園區及購物商場最受歡迎，累計逾71萬人次，老街街區也吸引不少遊客。",
@@ -939,7 +1059,7 @@
      "published_at": "2026-10-27T08:00:00+08:00"
     }
    ],
-   "image": "https://s.yimg.com/lo/mysterio/api/821e7f42bce5d0d32ab0b68f03800ab12641ba4d53388c3a544efdd3e2f7750d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fno%2Fsupertaste_tvbs_com_tw_971%2F7fb58e694bfdb3b579c5ec26f4b76bc8"
+   "image": "https://media.zenfs.com/no/supertaste_tvbs_com_tw_971/7fb58e694bfdb3b579c5ec26f4b76bc8"
   },
   {
    "id": "20261027-wanli-banquet",
@@ -1354,7 +1474,7 @@
      "published_at": "2026-10-23T00:00:00+08:00"
     }
    ],
-   "image": "https://s.yimg.com/lo/mysterio/api/f37e72ba6ad0d8d0bcfe319abef6bcafb675b86f3956bc6c69569519bf6a9634/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fudn.com%2Fbe60501b9c3331826a097388d62481f6.jpg"
+   "image": "https://media.zenfs.com/ko/udn.com/be60501b9c3331826a097388d62481f6.jpg"
   },
   {
    "id": "20261024-tamsui-old-street-damage",
@@ -1414,7 +1534,7 @@
      "published_at": "2026-10-23T00:00:00+08:00"
     }
    ],
-   "image": "https://s.yimg.com/lo/mysterio/api/cae07e9a4d56c48c785d0fa99d5f8c9b4a7404593a8584097ae45760ece61d89/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fcdns.com.tw%2F7e31941d3562cd06e5516937fff0fc10.jpg"
+   "image": "https://media.zenfs.com/ko/cdns.com.tw/7e31941d3562cd06e5516937fff0fc10.jpg"
   },
   {
    "id": "20261023-kaohsiung-sail-banner",
@@ -1908,7 +2028,7 @@
     }
    ],
    "admin_note": "水里商圈為115年補助名單，報導指人潮冷清，可留意活動成效與KPI達成情形。",
-   "image": "https://s.yimg.com/lo/mysterio/api/24a92495ab38eb4456c5563e299fe7acaec014dad656fd32a199ea12450c05bf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fchinatimes.com.tw%2Fcc30e24ab64cb85800cb386c4714df32.jpg"
+   "image": "https://media.zenfs.com/ko/chinatimes.com.tw/cc30e24ab64cb85800cb386c4714df32.jpg"
   },
   {
    "id": "20261021-tainan-district-ip",
@@ -2288,7 +2408,7 @@
      "published_at": "2026-10-19T10:59:00+08:00"
     }
    ],
-   "image": "https://s.yimg.com/lo/mysterio/api/a450111a6210d59970f361e8d382fb6b790149e45ff1d395e99715ff74990331/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Ftssdnews.com.tw%2F63a3221d3ac267083359b3800dc65e5c.jpg"
+   "image": "https://media.zenfs.com/ko/tssdnews.com.tw/63a3221d3ac267083359b3800dc65e5c.jpg"
   },
   {
    "id": "20261019-checheng-festival",
