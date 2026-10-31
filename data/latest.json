@@ -1,28 +1,36 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-31T16:51:08+08:00",
+ "generated_at": "2026-10-31T20:20:07+08:00",
  "items": [
   {
-   "id": "20261021-tainan-shopping-festival",
-   "title": "臺南購物節首波月月抽10月24日登場，串聯商圈祭與國旅加碼",
-   "summary": "臺南市政府宣布購物節首波月月抽10月24日登場，串聯商圈祭、國旅加碼迎接連假商機。",
+   "id": "20261031-tainan-shopping-30b",
+   "title": "臺南購物節消費登錄破30億元，加碼抽電動車；11月楠西、西門三星、鹽埕商圈活動接力登場",
+   "summary": "2026臺南購物節累計消費登錄金額突破30億元，市府推出「百貨量販加碼抽」電動車至11月25日；11月楠西商圈生態體驗營、西門三星街區寵物嘉年華、鹽埕千燈季陸續登場。",
    "category": "開店與消費",
    "alert": null,
    "published_at": "2026-10-31T10:23:00+08:00",
    "cities": [
     "台南市"
    ],
-   "districts": [],
+   "districts": [
+    {
+     "name": "楠西商圈",
+     "priority": true
+    },
+    {
+     "name": "三星商圈",
+     "priority": true
+    },
+    {
+     "name": "鹽埕街區商圈",
+     "priority": true
+    }
+   ],
    "sources": [
     {
      "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261031942053",
      "published_at": "2026-10-31T10:23:00+08:00"
-    },
-    {
-     "outlet": "臺南市政府",
-     "url": "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849",
-     "published_at": "2026-10-21T08:26:00+08:00"
     }
    ],
    "image": "https://ni.yam.com/20261031/11--8f91154a193dae00.webp"
@@ -135,8 +143,8 @@
   },
   {
    "id": "20261028-taichung-wudiaoquan-districts",
-   "title": "台中第二波物調券369家商圈店家響應，天津商圈8折、自由路商圈9折",
-   "summary": "臺中市政府公告第二波物調券有369家商圈店家響應，天津商圈、自由路商圈等提供折扣加碼優惠。",
+   "title": "台中第二波物調券30日開搶，21處商圈接力發放多數30分鐘內發完，369家商圈店家加碼優惠",
+   "summary": "臺中市第二波物調券10月30日下午在全市21處商圈接力發放，多數商圈約30分鐘內發完；全市369家商圈店家響應，天津商圈、自由路商圈等提供折扣加碼。",
    "category": "開店與消費",
    "alert": null,
    "published_at": "2026-10-30T20:29:00+08:00",
@@ -203,31 +211,6 @@
    ],
    "admin_note": "自由路商圈為115年補助名單，參與物調券優惠可能與商圈消費活絡成效有關。",
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/30/5624315_2_1.jpg"
-  },
-  {
-   "id": "20261030-taichung-wudiaoquan-queue",
-   "title": "台中物調券第二波開搶，21處商圈下午接力發放、多數30分鐘內發完",
-   "summary": "台中物調券第二波30日登場，全市21處商圈下午接力發放，多數商圈約30分鐘內發放完畢。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-10-30T18:47:00+08:00",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261030548897",
-     "published_at": "2026-10-30T18:47:00+08:00"
-    },
-    {
-     "outlet": "臺中市政府環保局",
-     "url": "https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26166",
-     "published_at": "2026-10-30T00:00:00+08:00"
-    }
-   ],
-   "image": "https://ni.yam.com/20261030/c797f7d3d020ba0126d23588d4c9fbb8-b936cea4a62a9c3f.webp"
   },
   {
    "id": "20261030-xinzhuang-market",
@@ -1943,6 +1926,25 @@
      "outlet": "Newtalk新聞",
      "url": "https://www.msn.com/zh-tw/news/national/%E4%B8%AD%E5%B0%8F%E5%BE%AE%E4%BC%81%E6%A5%AD%E8%BD%89%E5%9E%8B%E8%88%87%E5%95%86%E5%9C%88%E5%B8%82%E5%A0%B4ip%E5%8C%96-%E9%99%B3%E4%BA%AD%E5%A6%83%E4%BF%83%E6%88%90%E7%AB%8B%E5%8F%B0%E5%8D%97%E8%BC%94%E5%B0%8E%E5%B0%8F%E7%B5%84%E5%B0%8D%E6%8E%A5%E4%B8%AD%E5%A4%AE-%E8%BE%B2%E6%A5%AD%E9%83%A8%E6%8C%BA%E9%9D%92%E8%BE%B2%E7%A7%91%E6%8A%80%E5%8C%96/ar-AA2fJErj",
      "published_at": "2026-10-21T11:26:58+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261021-tainan-shopping-festival",
+   "title": "臺南購物節首波月月抽10月24日登場，串聯商圈祭與國旅加碼",
+   "summary": "臺南市政府宣布購物節首波月月抽10月24日登場，串聯商圈祭、國旅加碼迎接連假商機。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-10-21T08:26:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "臺南市政府",
+     "url": "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849",
+     "published_at": "2026-10-21T08:26:00+08:00"
     }
    ]
   },
