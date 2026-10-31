@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-31T12:18:30+08:00",
+ "generated_at": "2026-10-31T16:51:08+08:00",
  "items": [
   {
    "id": "20261021-tainan-shopping-festival",
@@ -203,6 +203,31 @@
    ],
    "admin_note": "自由路商圈為115年補助名單，參與物調券優惠可能與商圈消費活絡成效有關。",
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/30/5624315_2_1.jpg"
+  },
+  {
+   "id": "20261030-taichung-wudiaoquan-queue",
+   "title": "台中物調券第二波開搶，21處商圈下午接力發放、多數30分鐘內發完",
+   "summary": "台中物調券第二波30日登場，全市21處商圈下午接力發放，多數商圈約30分鐘內發放完畢。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-10-30T18:47:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261030548897",
+     "published_at": "2026-10-30T18:47:00+08:00"
+    },
+    {
+     "outlet": "臺中市政府環保局",
+     "url": "https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26166",
+     "published_at": "2026-10-30T00:00:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261030/c797f7d3d020ba0126d23588d4c9fbb8-b936cea4a62a9c3f.webp"
   },
   {
    "id": "20261030-xinzhuang-market",
@@ -2314,32 +2339,6 @@
     }
    ],
    "image": "https://ni.yam.com/20261018/202610181948580-2b7e0726a4cb553f.webp"
-  },
-  {
-   "id": "20261017-rongding-carnival",
-   "title": "榮町商圈和洋嘉年華登場，和洋穿搭走秀、文創市集與親子手作",
-   "summary": "2026榮町商圈和洋嘉年華10月16日在臺灣省城隍廟前廣場及周邊街區舉辦，有穿搭走秀、文創市集與親子手作。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-17T14:39:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "榮町商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "榮町商圈為115年補助名單，和洋嘉年華已於10月16日辦理，可作為執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261017471198",
-     "published_at": "2026-10-17T14:39:00+08:00"
-    }
-   ],
-   "image": "https://ni.yam.com/20261017/taipei-cover-261017053235434-16c580b262c46494.webp"
   }
  ],
  "discussions": []
