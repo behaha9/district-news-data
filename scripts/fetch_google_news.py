@@ -140,8 +140,9 @@ def resolve(link):
     return link, None, "unresolved"
 
 
-def search(query):
-    q = f"{query} when:{WHEN}"
+def search(query, when=None):
+    window = WHEN if when is None else when
+    q = f"{query} when:{window}" if window else query
     url = "https://news.google.com/rss/search?" + urlencode(
         {"q": q, "hl": "zh-TW", "gl": "TW", "ceid": "TW:zh-Hant"}, quote_via=quote)
     root = ET.fromstring(get(url))

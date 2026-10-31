@@ -447,15 +447,19 @@ def drop_old_topics(cache, now):
             data = json.load(fh)
     except Exception:
         return
-    oldest = (now - timedelta(days=OLD_DAYS)).strftime("%Y-%m-%d")
-    oldest_by_image = (now - timedelta(days=180)).strftime("%Y-%m-%d")
     dropped = []
     for topic in data.get("topics", []):
         keep = []
         for item in topic.get("items", []):
             art = cache.get(item.get("url")) or {}
             hint = art.get("date_hint")
-            limit = oldest_by_image if art.get("date_hint_from") == "圖片路徑" else oldest
+            # backfilled topic items can be weeks old on purpose; what matters is whether the
+            # article itself is much older than the date Google listed it with
+            listed = datetime.fromisoformat(item.get("published_at", now.isoformat())[:16] + "+08:00"
+                                            if len(item.get("published_at", "")) == 16 else
+                                            item.get("published_at", now.isoformat()))
+            days = 180 if art.get("date_hint_from") == "圖片路徑" else OLD_DAYS
+            limit = (listed - timedelta(days=days)).strftime("%Y-%m-%d")
             if hint and hint < limit:
                 dropped.append(f"{topic.get('name')}：{item.get('title', '')[:30]}（原文日期 {hint}）")
             else:

@@ -12,7 +12,8 @@ inputs/topics.json:
   {"updated_at": ..., "topics": [{"id", "name", "since", "until",
      "items": [{"title", "kind", "url", "source", "published_at", "resolved"}]}]}
 "kind" is the group label, e.g. 店家相關 or an extra group such as 國內油價.
-Items are kept 14 days. Old articles re-listed by Google are removed later by
+A new topic is first searched back to its `since` date (after:), later runs use the last 7
+days; items are kept from `since` (at most 60 days). Old articles re-listed by Google are removed later by
 fetch_articles.py (same old-news check as the Google feed). No article text is stored.
 """
 import json
@@ -28,7 +29,7 @@ import fetch_google_news as g  # noqa: E402
 
 CONFIG = "reference/topics.json"
 OUT = "inputs/topics.json"
-KEEP_DAYS = 14
+KEEP_DAYS = 60  # items are kept from the topic's `since` date, at most 60 days
 # only Taiwan media: .tw domains or well-known Taiwan outlets on other domains
 TW_HOSTS = re.compile(r"(\.tw$|^tw\.|(^|\.)(ettoday\.net|setn\.com|nownews\.com|storm\.mg|mirrormedia\.mg|"
                       r"chinatimes\.com|udn\.com|ctwant\.com|cnyes\.com|upmedia\.mg|thenewslens\.com|"
@@ -84,9 +85,13 @@ def main():
                 old["kind"] = label
                 found[g.norm_title(old["title"])] = old
         kept, raw = 0, 0
+        first_run = topic["id"] not in previous  # new topic: look back to `since` (回抓前幾天)
         for group in groups:
             try:
-                rows = g.search(group["query"])
+                if first_run:
+                    rows = g.search(f"{group['query']} after:{topic.get('since', today)}", when="")
+                else:
+                    rows = g.search(group["query"])
             except Exception as exc:
                 log.append(f"{topic['name']}／{group['label']} 查詢失敗：{getattr(exc, 'code', type(exc).__name__)}")
                 rows = []
@@ -103,7 +108,7 @@ def main():
                     kept += 1
             time.sleep(1)
         rows = [None] * raw
-        cutoff = (now - timedelta(days=KEEP_DAYS)).isoformat()
+        cutoff = max(topic.get("since", "2000-01-01"), (now - timedelta(days=KEEP_DAYS)).strftime("%Y-%m-%d"))
         items = [i for i in found.values() if i["published_at"] >= cutoff]
         for item in items:
             if not item.get("resolved") and item.get("google_url") and item["google_url"] not in cache:
