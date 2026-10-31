@@ -85,7 +85,10 @@ def main():
                 old["kind"] = label
                 found[g.norm_title(old["title"])] = old
         kept, raw = 0, 0
-        first_run = topic["id"] not in previous  # new topic: look back to `since` (回抓前幾天)
+        # new topic, or rules changed: look back to `since` again (回抓前幾天)
+        rules = json.dumps({k: topic.get(k) for k in ("keywords", "merchant_words", "exclude_words", "also", "since")},
+                           ensure_ascii=False, sort_keys=True)
+        first_run = topic["id"] not in previous or previous[topic["id"]].get("rules") != rules
         for group in groups:
             try:
                 if first_run:
@@ -114,7 +117,7 @@ def main():
             if not item.get("resolved") and item.get("google_url") and item["google_url"] not in cache:
                 todo.append(item["google_url"])
         out.append({"id": topic["id"], "name": topic["name"], "since": topic.get("since"),
-                    "until": topic.get("until"), "items": items})
+                    "until": topic.get("until"), "rules": rules, "items": items})
         kinds = {}
         for i in items:
             kinds[i.get("kind")] = kinds.get(i.get("kind"), 0) + 1
