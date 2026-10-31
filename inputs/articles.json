@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T18:59:49+08:00",
+ "fetched_at": "2026-10-31T19:01:03+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-10-31T13:59+08:00",
@@ -7500,6 +7500,319 @@
    "image_checked": true,
    "date_hint": "2026-10-31",
    "date_hint_from": "原文時間"
+  },
+  "https://www.taisounds.com/news/content/71/297162": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T18:38+08:00",
+   "site_name": "太報 TaiSounds",
+   "description": "一年一度的台北白晝之夜今（10/31）晚在圓山自然景觀公園登場，台北市長蔣萬安致詞時也宣布，明年巴黎白晝之夜將有台灣優秀藝術家前往展出，讓在地優秀藝術家作品，可以在巴黎展出，這是第一次有這樣的機會。",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 216,
+   "image": "https://cdn.taisounds.com/newsimages/img/2026/1031/525babcfbb3d4d918f0f30748c043345.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://time.udn.com/udntime/story/122835/9840135": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T09:18+08:00",
+   "site_name": "報時光",
+   "description": "西門町「6號彩虹」斑馬線象徵多元友善，曾因風吹日曬剝落於7月8日拆除，2025年8月重新塗裝並調整「TAIPEI」字樣方向。",
+   "cities": {
+    "台北市": 7
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1160,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35459095.jpg&M=2&s=Y&x=0&y=0&sw=1080&sh=720&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cdns.com.tw/articles/1482837": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://ent.ebc.net.tw/movie/503520": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T14:04+08:00",
+   "site_name": "東森娛樂",
+   "description": "威秀影城宣布，經董事會選任，由呂政璋博士出任董事長。呂政璋具備企業創辦、跨國經營、國際投資併購及公司治理等實務經驗，將與團隊攜手深耕台灣，推動公司穩健發展。",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 470,
+   "image": "https://img-star.ebc.net.tw/ebcstar/news/2026/10/30/1793369039_55482.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/topic/%E8%B2%A0%E5%A3%93%E5%BC%8F%E5%90%B8%E8%8F%B8%E5%AE%A4": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "自由時報電子報",
+   "description": "此為負壓式吸菸室相關新聞的標籤頁 負壓吸菸室驚冒濃煙！蔣萬安：檢討菸桶設計、使用方式 漏網鏡頭》造價150萬西門町負壓式吸菸室防颱 「這樣」包起來 蔣萬安最滿意政績「負壓吸菸室」 張育萌酸：半年燒11次才想教育宣導 蔣萬安最滿意政績被打臉！ 北市議員、民眾揭「負壓吸菸室」亂象 北市心中山線形公園 第2座負壓式吸菸區啟用",
+   "cities": {
+    "台北市": 22,
+    "新北市": 3
+   },
+   "districts": [
+    "迪化街商圈（台北市）",
+    "中山商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1694,
+   "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%8D%94%E8%AA%BF%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35000%E5%99%B8-090547595.html": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T17:05+08:00",
+   "site_name": "Yahoo News",
+   "description": "經濟部今（30）日表示，為因應中聯油脂停工對國內沙拉油供應造成的影響，持續受理食品業者用油需求，透過供需媒合、協調增產及鼓勵進口等措施，增加市場供應來源，協助業者取得所需原料。目前經濟部收到各界用油請",
+   "cities": {
+    "台北市": 6,
+    "嘉義縣": 3,
+    "新竹": 1
+   },
+   "districts": [],
+   "body_chars": 3419,
+   "image": "https://s.yimg.com/lo/mysterio/api/d0537a8036292bcd3ff70fa312b5448b9623ab85f096ab9c14fd672a4cf292c8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnews_ttv_com_tw_433%2F9d5cd9aa12e3ffb1326d1e798d726053.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://z98737406.tw/?p=104849": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T10:26+08:00",
+   "site_name": "全國旅遊時報",
+   "description": "【白慈美報導】 位於台北西門町商圈的經典美食名店「西門麵店」，憑藉傳承多年的獨門滷汁與極致工藝，推出極具代表性 […]",
+   "cities": {
+    "台北市": 3,
+    "台中市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 641,
+   "image": "https://z98-new.storage.googleapis.com/wp-content/uploads/2026/10/31102321/S__40927594_0.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mnews.tw/story/20261031sot1638001": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T16:38+08:00",
+   "site_name": "鏡新聞",
+   "description": "台北市大安東區商圈10/30清晨發生持刀糾紛，一名貨車駕駛疑似因為行車糾紛，遭到另一名司機當場持刀威脅，甚至恐嚇飆罵，害的貨車駕駛只能原地求饒。不過這名動手的男子身分也被起底，原來他是清晨負責協助商圈回收垃圾的清運業者。",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 301,
+   "image": "https://statics.mnews.tw/images/132fd378-6718-45d3-b42a-309383fda72c-w1600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pts.org.tw/article/833042": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T20:53+08:00",
+   "site_name": "公視新聞 PNN",
+   "description": "中聯油脂遭到勒令停工，因為市占率超過3成，甚至導致有雲林古坑的學校買不到油，影響到為學童準備的餐食。實際走訪小吃店，店家普遍提及油品漲價，卻只能自行吸收。對此，經濟部強調，除了請3家業者增產供應，也會進口油品，填補空缺。",
+   "cities": {
+    "雲林縣": 3,
+    "台北市": 2,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 809,
+   "image": "https://news-data.pts.org.tw/media/299725/conversions/PpjsfHJKnyW6aBUHSJXFhAen9Epb8WOQBfLQOq1g-og_jpg.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.crntt.tw/doc/docDetail.jsp?coluid=92&kindid=0&docid=160282749": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": "https://www.crntt.tw/upload/202610/29/160282756.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://www.marieclaire.com.tw/beauty/health-fitness/93680": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T00:45+08:00",
+   "site_name": "Marie Claire 美麗佳人",
+   "description": "韓國最近流行一種「天然瘦瘦針」早餐，竟然只要雞蛋、橄欖油和黑胡椒！韓國內分泌專科醫師禹昌潤也曾公開推薦這個組合，因為它與人體的飽足荷爾蒙GLP-1有關。究竟怎麼吃、能不能幫助減脂？一起了解這道韓國話題早餐。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 2754,
+   "image": "https://ia.marieclaire.com.tw/assets/mc/202605/6A13F1607F81F1779691872.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pts.org.tw/video/22788": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T21:23+08:00",
+   "site_name": "公視新聞 PNN",
+   "description": "中聯油脂遭到勒令停工，因為市占率超過3成，甚至導致有雲林古坑的學校買不到油，影響到為學童準備的餐食。實際走訪小吃店，店家普遍提及油品漲價，卻只能自行吸收。對此，經濟部強調，除了請3家業者增產供應，也會進口油品，填補空缺。 詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw/article/8",
+   "cities": {
+    "高雄市": 4,
+    "基隆市": 1,
+    "雲林縣": 1
+   },
+   "districts": [],
+   "body_chars": 567,
+   "image": "https://news-data.pts.org.tw/media/300208/conversions/XuuLG9Dl3g7f4mPQdYiNo7ZEmC0wOyad2r3QORRy-cover_lg.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/news/afe/202610300234.aspx": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T17:14+08:00",
+   "site_name": "中央社 CNA",
+   "description": "中聯油脂停工影響國內沙拉油供應，經濟部今天表示，持續透過供需媒合、協調國內業者增產及鼓勵進口等方式增加供應，截至10月中旬，合計已協助89家食品業者取得共1842噸沙拉油，另已協調油品進口商第4季擴大進口5000噸，後續也將協助中小型業者以商圈或夜市自治會為單位進行媒合。",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 980,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261030/2000x1333_wmky_235466486830_202607060033000000.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/life/4041024": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T18:50+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "中聯油脂因苯駢芘超標遭勒令停工，導致市面食用油供貨吃緊，價格漲幅將近30%，油品批發商更祭出限購措施，每人僅能購買一桶。雲林縣古坑樟湖生態國中小學校長陳清圳在社群發文求助，請求幫忙上山採購油品，凸顯供貨緊張問題已延燒至校園，影響學校營養午餐供應。",
+   "cities": {
+    "雲林縣": 3,
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 938,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/amp/story/7307/9847302": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T15:52+08:00",
+   "site_name": "經濟日報",
+   "description": "經濟部30日表示，為因應中聯油脂停工對國內沙拉油供應造成的影響，持續受理食品業者用油需求，透過供需媒合、協調增產及鼓勵進口等措施，增加市場供應來源，協助業者取得所需原料。目前經濟部收到各界用油請求，除先前媒合大型業者外，也將協助中小型業者以商圈或夜市自治會為單位，由經濟部進行媒合協助，另外也呼籲地方政府及業者能讓合格檢",
+   "cities": {},
+   "districts": [],
+   "body_chars": 700,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/13/35129897.jpg&M=1&s=Y&x=0&y=29&sw=929&sh=619&sl=W&fw=1200&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7266/9835468": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T00:00+08:00",
+   "site_name": "聯合新聞網",
+   "description": "中聯油脂生產的大豆沙拉油七月爆出致癌物苯駢芘超標，遭勒令停工，中聯油品市占率達三成，經濟部喊話已協調其他業者增產、庫存無虞，不過各地仍傳供銷吃緊，雲林縣有學校自購營養午餐沙拉油，因當地食品行每人限購一桶、現金結帳，校方拜託家長、教師排隊搶購；餐飲業者則抱怨，油不僅難買，每桶還從八百元，漲到破千元。",
+   "cities": {
+    "雲林縣": 7,
+    "金門縣": 4,
+    "桃園市": 3,
+    "台北市": 2,
+    "新北市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 2026,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451422.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-25",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7266/9835478": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T00:00+08:00",
+   "site_name": "聯合新聞網",
+   "description": "市占逾三成的中聯油脂繼續停工，國內沙拉油供應吃緊，經濟部表示，沙拉油百分之五進口關稅自十月起已減免，並鼓勵油品進口商擴大進口量，第四季可擴大進口五千噸沙拉油，以緩解國內沙拉油供應壓力；同時，責成台糖評估各種增加沙拉油供應量的可能方案。",
+   "cities": {
+    "金門縣": 4,
+    "台北市": 1,
+    "桃園市": 1,
+    "宜蘭縣": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1708,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451487.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-25",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/amp/story/7238/9847358": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T16:16+08:00",
+   "site_name": "聯合新聞網",
+   "description": "經濟部今（30）日表示，為因應中聯油脂停工對國內沙拉油供應造成的影響，持續受理食品業者用油需求，透過供需媒合、協調增產及鼓勵進口等措施，增加市場供應來源，協助業者取得所需原料。目前經濟部收到各界用油請求，除先前媒合大型業者外，也將協助中小型業者以商圈或夜市自治會為單位，由經濟部進行媒合協助，另外也呼籲地方政府及業者能讓",
+   "cities": {},
+   "districts": [],
+   "body_chars": 692,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/30/35470093.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=889&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://inews.setn.com/news/1924159": {
+   "checked_at": "2026-10-31T19:01+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "印尼觀光勝地峇里島近期爆發油荒，多處加油站湧現排隊車潮導致交通癱瘓。為緩解燃油供應壓力並打擊搶油潮，峇里島省政府宣布於10月17日至19日實施車牌單雙號分流加油措施，並嚴格限制汽機車單次加油量，同時安排軍方協助作業。當局呼籲當地民眾與遊客切勿恐慌囤油，強調現有庫存尚足夠應付兩週需求，盼能盡快恢復交通秩序與觀光行程。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 633,
+   "image": "https://attach.setn.com/newsimages/2026/10/17/5752447-XXL.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-17",
+   "date_hint_from": "圖片路徑"
   }
  }
 }

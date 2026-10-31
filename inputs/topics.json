@@ -1,11 +1,12 @@
 {
- "updated_at": "2026-10-31T18:59:45+08:00",
+ "updated_at": "2026-10-31T19:00:57+08:00",
  "topics": [
   {
    "id": "cooking-oil",
    "name": "食用油",
    "since": "2026-10-17",
    "until": "2026-12-31",
+   "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
     {
      "title": "食用油缺貨又漲價！桶裝沙拉油飆破千元 小吃店哀號買不到「快比登天難」",
@@ -14,6 +15,15 @@
      "source": "Yahoo新聞",
      "published_at": "2026-10-31T17:50+08:00",
      "url": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8%E5%8F%88%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E5%B0%8F%E5%90%83%E5%BA%97%E5%93%80%E8%99%9F%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%BF%AB%E6%AF%94%E7%99%BB%E5%A4%A9%E9%9B%A3-095050772.html",
+     "resolved": true
+    },
+    {
+     "title": "中聯停工引爆沙拉油荒 經部協調第4季擴大進口5千噸",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03SGFrY0RScHNYRndCOWY5TGtIWkFsU2tjR2dZY2JLUXRkSXV4V3BTR3I5am1ZYnFVZ2xGVVZCR2VLS2NZNzJna2UxMVFOcmdXQ3c?oc=5",
+     "source": "中華新聞雲／中華日報",
+     "published_at": "2026-10-30T21:33+08:00",
+     "url": "https://www.cdns.com.tw/articles/1482837",
      "resolved": true
     },
     {
@@ -26,12 +36,120 @@
      "resolved": true
     },
     {
+     "title": "中聯油脂停工衝擊沙拉油供應 經部協調第4季擴大進口5000噸",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SbFRqblR5VER6LUoya3pOVU1mb3YtZTByRC1wbl9BNkRINjNlQWlKcEdaQTJwS3hJYmRCNnNoZlY4d013ZkI1SVRQX19rWTF1VlJOYldUWnV5T294bHc?oc=5",
+     "source": "中央社 CNA",
+     "published_at": "2026-10-30T17:14+08:00",
+     "url": "https://www.cna.com.tw/news/afe/202610300234.aspx",
+     "resolved": true
+    },
+    {
+     "title": "中聯油脂停工...沙拉油缺口仍大 經濟部協調第4季擴大進口5000噸",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPbjEwNDFKOHA2WHJnMEFNWmJ0OFB5bHBSWGlGOG9XQ0dBWmxOTkZjQ3RVczJ0SDdfdVJWaFBNMjd4TXUtQVBpNzl6UTB3bmlBQTJLZUl1WXVtSjR0X2d0aW9OTnBISFpTTDdMQ3BRT3lnZlVZRk1BdGlDTVl6ek1ZamNfN25RY0hGSjRzOVhnMGdxRFlQM0J2dVMtSWtuWkYwYjJxckE1LXV0YWEzTUw4eXVxODREY0VlTEx2OV9maDg1azNQRXFwMTJqNmhBcjhtZ1AtcElpdUpfdzltSE5vZUctbTE3amVMeGNzSU5GZUtGMnc4Y1RWWHYzWXpUbjk3cVJBbWg5UjQxUklCWks3b0lQM0FlSERDdFp3TGs0X0NtZzNLOXNXS0ZyZ3hUWmZaQ3lxS2UwZGJBVUVfekhOMXRvVlEyZkRDRG9XbmloOE5YTnhsUmJ2MlR2VDBOXzNETlIxLV9xbWRWQnVyU0t2UXlCVnJEV0l0ZWIxRTBiMjMxVVlpYjFGNg?oc=5",
+     "source": "Yahoo新聞",
+     "published_at": "2026-10-30T17:05+08:00",
+     "url": "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%8D%94%E8%AA%BF%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35000%E5%99%B8-090547595.html",
+     "resolved": true
+    },
+    {
+     "title": "經濟部認了：沙拉油缺口仍大 年底前還有3900公噸進口",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxWU1sRjlqemlmMXp1R2pPYmxnaGZERWNSMFZrQTJzLVNlQ1QxaGFPZUZiaUp0UzJVTTBNOTBKY2tUMnJVbHB4WnpKLXFyRnl0S2dpU2Rn0gFWQVVfeXFMUHFZTWxGOWp6aWYxenVHak9ibGdoZkRFY1IwVmtBMnMtU2VDVDFoYU9lRmJpSnRTMlVNME05MEpja1QyclVscHhaekotcXJGeXRLZ2lTZGc?oc=5",
+     "source": "UDN",
+     "published_at": "2026-10-30T16:16+08:00",
+     "url": "https://udn.com/news/amp/story/7238/9847358",
+     "resolved": true
+    },
+    {
+     "title": "沙拉油缺口仍大 經濟部協調第4季擴大進口5,000噸",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DVzlWQVFiM000ckFTWmlWUGZTZUNzMWh5YlFncnJoOVdfeVIzdnZiWGw2dUxqRkpveHJrenFEcEVZRjFqendzb01HYWpKZjlTUjh4NDAxb0xkNFIwVDNj0gFfQVVfeXFMT0NXOVZBUWIzTTRyQVNaaVZQZlNlQ3MxaHliUWdycmg5V195UjN2dmJYbDZ1TGpGSm94cmt6cURwRVlGMWp6d3NvTUdhakpmOVNSOHg0MDFvTGQ0UjBUM2M?oc=5",
+     "source": "經濟日報",
+     "published_at": "2026-10-30T15:52+08:00",
+     "url": "https://money.udn.com/money/amp/story/7307/9847302",
+     "resolved": true
+    },
+    {
+     "title": "韓國爆紅「天然瘦瘦針」竟然是雞蛋加橄欖油！醫師揭早餐吃法，為什麼能幫助控制食慾？",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SejYxX25fMkRvNTZvRTlBLVN0YkpGX1J0OFlYelUzMWdWRlJRVWU5N0pjUG8xTHl6ZWFKRS13QW55UV9VZzZ3V051ay1WQ2ZRM3BYZHFKMG9Cdmh4c256OXppdDhNd2RVaUE?oc=5",
+     "source": "Marie Claire 美麗佳人",
+     "published_at": "2026-10-29T15:00+08:00",
+     "url": "https://www.marieclaire.com.tw/beauty/health-fitness/93680",
+     "resolved": true
+    },
+    {
+     "title": "沙拉油價格飆漲近2倍 台官員： 會掌握供需",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52d2JUTTdtdkdzM0Yta2M2VEdFd2s0Z05oOHVZZVdrTXg3M2hmbTZTM2pYR2RsSVBSWjhaRHZtSWRHaVctcXZ3QTN1NURhNlNrODdHQ1c5am1HTjN5RGtXbk1QcnlQRW1zbWQ2a0p2OFpDUW84VS11OEJUUWl2dw?oc=5",
+     "source": "台灣中評網",
+     "published_at": "2026-10-29T10:10+08:00",
+     "url": "https://www.crntt.tw/doc/docDetail.jsp?coluid=92&kindid=0&docid=160282749",
+     "resolved": true
+    },
+    {
      "title": "獨家／「愛馬仕配貨」食用油版 鹹酥雞業者有錢買嘸油",
      "kind": "店家相關",
      "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBycXFPSHUxcDUzb1JaLUlXdnJ2bF9JLWNCeHRZOUVBTTBPU3Q5MGZXSkhqWDFfU05zWjI4dGlaMUdxX241Q3ZZaFhRdjkwTzhFVVlxUEVkVS0wMEhEQ05ROURGbGx0VUNOSWRVRUJOYUJaaVZxRjdoWXRkUQ?oc=5",
      "source": "壹電視",
      "published_at": "2026-10-28T18:56+08:00",
      "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-28/2509249.html",
+     "resolved": true
+    },
+    {
+     "title": "中聯油脂兩度申請復工遭駁回 經濟部請業者增產、進口補空缺｜20261026 公視晚間新聞",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEM1ZZS1I2TExBeDBrNThVcGtScndzNnNlSDRNNURzbFRJOHJvNGtQUHlCd3pIU1A0RTZqcjE3Zmg3UkFKOENSN09JYw?oc=5",
+     "source": "你的公共電視",
+     "published_at": "2026-10-26T21:23+08:00",
+     "url": "https://news.pts.org.tw/video/22788",
+     "resolved": true
+    },
+    {
+     "title": "中聯油脂兩度申請復工遭駁回 經濟部請業者增產、進口補空缺",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGVEhJbEowRWowWF9IZEZQeDVCdk0zbEJhZ0F0LU43ank3cXlubVJwdnpkbUxiUkM2cEx2eTZHNjNUcFVzWlE3UmJ5YVBLMVE?oc=5",
+     "source": "公視新聞",
+     "published_at": "2026-10-26T20:53+08:00",
+     "url": "https://news.pts.org.tw/article/833042",
+     "resolved": true
+    },
+    {
+     "title": "「每人限買1桶」食用油荒延燒校園！校長急求援：孩子三餐怎辦",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Ham91ZWRMZnpOZ1RjUWt5LVYwb2VKejJTRnZhSWNVZTVpTXEyR2pHX2VfaG5ERllqZ1B3YmRHblVORWd6eHR1ZXZ0Q0p6UQ?oc=5",
+     "source": "TVBS新聞網",
+     "published_at": "2026-10-26T18:50+08:00",
+     "url": "https://news.tvbs.com.tw/life/4041024",
+     "resolved": true
+    },
+    {
+     "title": "中聯油脂停工…食用油供應吃緊 波及校園午餐",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93eTI4MUR1Y3RBNmxZV0ZNRk5Gdk9ESDlqSUtFa0ZBdXhrelFpVllQMzBmNk52d3JpZEdWNVdwZEJCWkNxYW5MdGNVUjRtX3c10gFWQVVfeXFMTUkydnE2eWlzMDB0RFNTNzBpSElYTjJuS3VEbDhwNFdlX2l1Tnp0RjV0UGprZDZpRGtFUTlRa3ZWUzROVGJGQ0NxMlFHUWkxTFZwZTZreFE?oc=5",
+     "source": "UDN",
+     "published_at": "2026-10-25T00:00+08:00",
+     "url": "https://udn.com/news/story/7266/9835468",
+     "resolved": true
+    },
+    {
+     "title": "油品供應吃緊 經濟部：第四季可擴大進口5千噸沙拉油",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSdEwzYzF0VTFtbldmWnkyUkhXNXdHUGJZeVlTdDdLeHFPaW1MNE9rM0ZmUmMxRDBvT2swRHB3YVVFc3V1ZjlQcExIOEZWVDhL0gFWQVVfeXFMUGdmRVFDUm55OWJxTF9JNGF1am5QQU9VQkJHaTRaXzVuM2RxaFlVSHFNSFlyQUxUakVKc295dmQzZDZYYmFDRWc1aDROTjVuWV9BY2pyYXc?oc=5",
+     "source": "UDN",
+     "published_at": "2026-10-25T00:00+08:00",
+     "url": "https://udn.com/news/story/7266/9835478",
+     "resolved": true
+    },
+    {
+     "title": "赴峇里島注意！油荒衝擊觀光「計程車叫不到」加油站塞爆 遊客行程大亂",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TWW9iaVRKV3RraFpndGl6aW5ieG1kS3lObTdXNUdmU1F6WGw4bmhYak01QlVaQkxuMmluTEtuRzh6RzQzeGs5YjRhWQ?oc=5",
+     "source": "三立新聞網SETN.com",
+     "published_at": "2026-10-17T15:00+08:00",
+     "url": "https://inews.setn.com/news/1924159",
      "resolved": true
     }
    ]
