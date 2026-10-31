@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T07:17:29+08:00",
+ "fetched_at": "2026-10-31T08:54:11+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-10-31T07:17+08:00",
@@ -113,59 +113,6 @@
    ],
    "body_chars": 1641,
    "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://n.yam.com/Article/20261027431510": {
-   "checked_at": "2026-10-28T08:34+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T17:56+08:00",
-   "site_name": "蕃新聞",
-   "description": "報新聞/編輯部2026台中購物節開跑第3天，前2天消費登錄金額已突破5億5,581萬元！市府經濟發展",
-   "cities": {
-    "台中市": 12,
-    "台北市": 3
-   },
-   "districts": [
-    "大里中興商圈（台中市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1437,
-   "image": "https://ni.yam.com/20261027/taichung-cover-261027073602674-e5ba422f002e0682.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.contentplatform.info/articles/550309/%E5%8F%B0%E4%B8%AD%E8%B3%BC%E7%89%A9%E7%AF%802%E5%A4%A9%E7%99%BB%E9%8C%84%E7%A0%B45-5%E5%84%84-%E5%A4%A7%E9%87%8C%E9%A6%96%E6%8A%BD%E9%80%81%E5%87%BA%E6%A9%9F%E7%A5%A8%E5%8F%8Aiphone-17/": {
-   "checked_at": "2026-10-28T08:34+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T17:56+08:00",
-   "site_name": null,
-   "description": null,
-   "cities": {
-    "台中市": 10
-   },
-   "districts": [
-    "大里中興商圈（台中市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1346,
-   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/27153605/taichung-cover-261027073602674.jpeg",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/posts/list/article/Zap6KNP": {
-   "checked_at": "2026-10-28T08:34+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "LINE TODAY",
-   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 台灣「1低調老街」意外被翻！內行人：秘密基地要被塞滿人..",
-   "cities": {},
-   "districts": [],
-   "body_chars": 123,
-   "image": "https://today-obs.line-scdn.net/0h_WyBOIsoAHhEOxz_LlR_L3xtDAl3XRpxZg5OSmg9Dhs8F0Qoeg9TG2AyX1RgWUYrZF9OHDZsCko5XxIsLA/w1200",
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
@@ -5475,7 +5422,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.sinchew.com.my/news/20261030/international/8012498?variant=zh-hant": {
-   "checked_at": "2026-10-30T16:50+08:00",
+   "checked_at": "2026-10-31T08:54+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7469,6 +7416,166 @@
    "image": "https://www.penghu.gov.tw/ch/images/index/travel.jpg",
    "image_checked": true,
    "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261027431510": {
+   "checked_at": "2026-10-31T08:54+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T17:56+08:00",
+   "site_name": "蕃新聞",
+   "description": "報新聞/編輯部2026台中購物節開跑第3天，前2天消費登錄金額已突破5億5,581萬元！市府經濟發展",
+   "cities": {
+    "台中市": 12,
+    "桃園市": 1
+   },
+   "districts": [
+    "大里中興商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1414,
+   "image": "https://ni.yam.com/20261027/taichung-cover-261027073602674-e5ba422f002e0682.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261029388673": {
+   "checked_at": "2026-10-31T08:54+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T17:19+08:00",
+   "site_name": "蕃新聞",
+   "description": "（觀傳媒宜蘭新聞）【記者陳俊傑/宜蘭報導】曾經引領宜蘭消費潮流、陪伴無數縣民成長的友愛百貨大樓，近日",
+   "cities": {
+    "宜蘭縣": 23,
+    "高雄市": 1
+   },
+   "districts": [
+    "舊城商圈（高雄市）"
+   ],
+   "body_chars": 1559,
+   "image": "https://ni.yam.com/20261029/20261029171901_0_c179e4-016bafeda64028fd.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/DRjP66X?view=topic": {
+   "checked_at": "2026-10-31T08:54+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T13:39+08:00",
+   "site_name": "LINE TODAY",
+   "description": "到廈門旅遊，除了鼓浪嶼、南普陀寺，中山路步行街也是值得安排的市區景點。這條始建於1925年的百年商業街，長約1.2公里，沿途保存成片南洋風格...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1749,
+   "image": "https://today-obs.line-scdn.net/0haR-xwdGDPn0QASL-LdRBKihXMgwjZyR0MmV0TmFWZh8_LSsrLG5tHjZSMlFuNnp5MG52G2UCY0s1Zn5_Lw/w1200",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.hsnews.com.tw/political-news/dai-yu-wen-ti-zai-zao-jin-san-jiao-ji-hua-yu-zheng-shi-shang-quan-zhuan-xing-wen-ti.html": {
+   "checked_at": "2026-10-31T08:54+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T19:55+08:00",
+   "site_name": "花蓮最速報",
+   "description": "花蓮市長候選人戴于文今（29）日召開「再造金三角...",
+   "cities": {
+    "花蓮縣": 13,
+    "台北市": 4
+   },
+   "districts": [
+    "西門町商圈（台北市）",
+    "舊城商圈（高雄市）",
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 1786,
+   "image": "https://www.hsnews.com.tw/images/2026/10/29/img_3128_large.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taichung.gov.tw/3403297/post": {
+   "checked_at": "2026-10-31T08:54+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "臺中市政府全球資訊網",
+   "description": "中市勤美商圈、審計新村10/29路邊智慧停車無紙化上線 綁定代扣繳享6折最優惠",
+   "cities": {
+    "台中市": 6
+   },
+   "districts": [
+    "美術園道商圈（台中市）"
+   ],
+   "body_chars": 1519,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.pchome.com.tw/society/news586/20261031/index-79337723219495290002.html": {
+   "checked_at": "2026-10-31T08:54+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T00:20+08:00",
+   "site_name": "PChome Online 新聞",
+   "description": "（圖/記者謝榮浤翻攝） 【點傳媒／記者謝榮浤報導】 臺中市路邊停車收費持續推動智慧化服務，市府自10月15日起，於「捷運綠線」周邊6條路段實施路邊智慧停車無紙化收費；10月29日起，再擴大至「勤美商圈、",
+   "cities": {
+    "台中市": 7,
+    "台北市": 1,
+    "新北市": 1,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 882,
+   "image": "https://news.pchome.com.tw/newsdata/society/news586/20261031/79337723219495290002_original.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.wearn.com/c2135848.html": {
+   "checked_at": "2026-10-31T08:54+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "�E�]��",
+   "description": "�۫~�ͬ������X�i�q���A���Ѥ��i���o�x�_���B���s���ӾQ�ϥ��v�겣�A�w�p���~��1�u��˧����}���A���ӱN���p�۫~�ͬ��n��B�a�U...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 185,
+   "image": "https://news.wearn.com/images/readmore.png",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://house.ettoday.net/amp/3263135": {
+   "checked_at": "2026-10-31T08:54+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T15:02+08:00",
+   "site_name": "ETtoday房產雲",
+   "description": "房市大環境不佳，但具備成熟生活機能、總價相對親民的中古大樓仍有市場，像是桃園大業大有商圈。在地房仲表示，該區中古大樓單價約30萬至35萬元，CP值高，且現在仍是買方市場，有機會買到近1~2年實價登錄以下的價格，喊話買方要勇敢出場，盡快進場撿便宜。",
+   "cities": {
+    "桃園市": 10
+   },
+   "districts": [],
+   "body_chars": 1126,
+   "image": "https://cdn2.ettoday.net/images/8991/e8991018.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.contentplatform.info/articles/550309/%E5%8F%B0%E4%B8%AD%E8%B3%BC%E7%89%A9%E7%AF%802%E5%A4%A9%E7%99%BB%E9%8C%84%E7%A0%B45-5%E5%84%84-%E5%A4%A7%E9%87%8C%E9%A6%96%E6%8A%BD%E9%80%81%E5%87%BA%E6%A9%9F%E7%A5%A8%E5%8F%8Aiphone-17/": {
+   "checked_at": "2026-10-31T08:54+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T17:56+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "2026台中購物節開跑第3天，前2天消費登錄金額已突破5億5,581萬元！市府經濟發展局10月26日於大里中興商圈舉辦首場戶外抽獎活動「2026台中購物節－屯區GOGO購」，結合親子表演、美食市集及商圈行銷，抽出長榮航空獨家贊助的全球不限航點來回機票2名及iPhone 17手機1名，另有天天抽3,…",
+   "cities": {
+    "台中市": 13
+   },
+   "districts": [
+    "大里中興商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1346,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/27153605/taichung-cover-261027073602674.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
    "date_hint_from": "原文時間"
   }
  }
