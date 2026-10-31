@@ -176,6 +176,121 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-10-31T12:18:30+08:00",
+   "added": 0,
+   "merged": 3,
+   "items": [
+    {
+     "id": "20261021-tainan-shopping-festival",
+     "title": "臺南購物節首波月月抽10月24日登場，串聯商圈祭與國旅加碼",
+     "summary": "臺南市政府宣布購物節首波月月抽10月24日登場，串聯商圈祭、國旅加碼迎接連假商機。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-10-31T10:23:00+08:00",
+     "cities": [
+      "台南市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261031942053",
+       "published_at": "2026-10-31T10:23:00+08:00"
+      },
+      {
+       "outlet": "臺南市政府",
+       "url": "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849",
+       "published_at": "2026-10-21T08:26:00+08:00"
+      }
+     ],
+     "image": "https://ni.yam.com/20261031/11--8f91154a193dae00.webp"
+    },
+    {
+     "id": "20261030-taichung-cmp-parking",
+     "title": "台中勤美商圈、審計新村周邊路邊停車實施無紙化收費",
+     "summary": "台中市交通局擴大路邊智慧停車無紙化，勤美商圈及審計新村周邊9條路段共309格自10月30日起實施。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-10-31T06:54:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "勤美商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "天天上新聞",
+       "url": "https://mknews.com.tw/2026/10/1011290/",
+       "published_at": "2026-10-31T06:54:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261031824701",
+       "published_at": "2026-10-31T00:20:00+08:00"
+      },
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5624313",
+       "published_at": "2026-10-30T21:05:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261030152361",
+       "published_at": "2026-10-30T19:54:00+08:00"
+      }
+     ],
+     "image": "https://ni.yam.com/20261031/img-9835-1500x1125-f142edf20fec20d6.webp"
+    },
+    {
+     "id": "20261030-eslite-zhongshan-station",
+     "title": "誠品取得捷運中山站商鋪使用權，預計明年第1季開幕並串連南西商圈",
+     "summary": "誠品生活公告取得捷運中山站商鋪使用權，預計明年第1季改裝完成，未來將與誠品南西、R79及爵士廣場串聯，擴大商圈經營。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-10-30T23:20:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "中山商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "中山商圈為115年補助名單，大型業者進駐可能影響商圈人流與店家競合，可留意商圈後續動態。",
+     "sources": [
+      {
+       "outlet": "三立新聞網",
+       "url": "https://inews.setn.com/news/1931121",
+       "published_at": "2026-10-30T23:20:00+08:00"
+      },
+      {
+       "outlet": "Yahoo股市",
+       "url": "https://tw.stock.yahoo.com/news/%E8%AA%A0%E5%93%81%E5%8F%96%E5%BE%97%E6%8D%B7%E9%81%8B%E4%B8%AD%E5%B1%B1%E7%AB%99%E5%95%86%E9%8B%AA%E4%BD%BF%E7%94%A8%E6%AC%8A-%E4%B8%B2%E9%80%A3%E5%8D%97%E8%A5%BF%E5%95%86%E5%9C%88-133122855.html",
+       "published_at": "2026-10-30T21:31:00+08:00"
+      },
+      {
+       "outlet": "中央社",
+       "url": "https://www.cna.com.tw/news/afe/202610300318.aspx",
+       "published_at": "2026-10-30T21:30:00+08:00"
+      },
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261030701905-430503",
+       "published_at": "2026-10-30T20:41:00+08:00"
+      }
+     ],
+     "image": "https://attach.setn.com/newsimages/2026/10/30/5769367-XXL.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
