@@ -1,8 +1,8 @@
 {
- "fetched_at": "2026-10-31T19:02:48+08:00",
+ "fetched_at": "2026-10-31T20:50:50+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -12,42 +12,42 @@
    "error": "HTTP Error 502: Bad Gateway"
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": "error",
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
   "https://news.cts.com.tw/cts/general/202610/202610203091965.html": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://nownews.com/news/6885475": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": "error",
    "error": "<urlopen error timed out>"
   },
   "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -99,7 +99,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1480925": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -768,7 +768,7 @@
    "date_hint_from": null
   },
   "https://life.tw/article/從老街區文化到世代交流-里長參選人盧綠綢提出建功里社區活動構-3194318": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 13-23: ordinal not in range(128)"
   },
@@ -1515,12 +1515,12 @@
    "date_hint_from": "原文時間"
   },
   "https://news.ebc.net.tw/search/tags/李慶隆/": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)"
   },
   "https://news.cts.com.tw/cts/politics/202610/202610293095305.html": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -1547,7 +1547,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.watchmedia01.com/archives/564050": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3809,12 +3809,12 @@
    "date_hint_from": null
   },
   "https://futurecity.cw.com.tw/article/4178": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.atanews.net/?Wirenews=H20261026151910": {
-   "checked_at": "2026-10-31T13:59+08:00",
+   "checked_at": "2026-10-31T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7881,6 +7881,65 @@
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
+  },
+  "https://www.yesmedia.com.tw/%e8%87%ba%e5%8d%97%e8%b3%bc%e7%89%a9%e7%af%80%e6%b6%88%e8%b2%bb%e7%aa%81%e7%a0%b430%e5%84%84%e5%85%83%ef%bc%81%e5%8a%a0%e7%a2%bc%e6%8a%bd%e9%9b%bb%e5%8b%95%e8%bb%8a11%e6%9c%88%e5%95%86%e5%9c%88/": {
+   "checked_at": "2026-10-31T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T10:23+08:00",
+   "site_name": "是新聞 YesMedia | 網路原生即時新聞",
+   "description": "圖/邀請全臺民眾在雙11、百貨週年慶前來臺南消費，享旅遊與購物節「百貨量販加碼抽」的雙 【點傳媒／記者張淑慧報",
+   "cities": {
+    "台南市": 15
+   },
+   "districts": [
+    "楠西商圈（台南市）"
+   ],
+   "body_chars": 1152,
+   "image": "https://cdn.yesmedia.com.tw/wp-content/uploads/2026/10/20261031112031_61.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://more-news.tw/756429/": {
+   "checked_at": "2026-10-31T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T18:48+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "萬聖節奇幻登場！台中市政府經發局今(31)日於豐原廟東復興商圈的豐原太平洋百貨舉辦「2026豐原萬聖嘉年華」， […]",
+   "cities": {
+    "台中市": 10,
+    "嘉義市": 2
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "豐原廟東復興商圈（台中市）",
+    "谷關商圈（台中市）"
+   ],
+   "body_chars": 991,
+   "image": "https://more-news.tw/more-news-media/2026/10/1-404.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinesedaily.com/article/detail-710444.html": {
+   "checked_at": "2026-10-31T20:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "（綜合報導）從歷史建築、傳統市場到異國美食與特色老店，「桃園老城」與「中壢舊城」藏著許多值得探索的城市故事。為讓來桃園住宿的旅客不只住一晚，更能深入認識城市的人文風景。「桃園市觀光發展基金會」以旅宿遊客為主要推廣對象，整合旅宿、城市導覽與商圈資源，推出「一起出發！桃園雙城的日常」城市走讀活動。並結合",
+   "cities": {
+    "桃園市": 28,
+    "高雄市": 3,
+    "宜蘭縣": 1,
+    "台東縣": 1
+   },
+   "districts": [],
+   "body_chars": 1523,
+   "image": "https://www.chinesedaily.com/uploads/article/editor/image/large/2026/10/26/1793047696649.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "圖片路徑"
   }
  }
 }
