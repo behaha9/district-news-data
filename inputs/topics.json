@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-31T19:00:57+08:00",
+ "updated_at": "2026-10-31T19:02:45+08:00",
  "topics": [
   {
    "id": "cooking-oil",
    "name": "食用油",
    "since": "2026-10-17",
    "until": "2026-12-31",
-   "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
+   "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
     {
      "title": "食用油缺貨又漲價！桶裝沙拉油飆破千元 小吃店哀號買不到「快比登天難」",
@@ -15,6 +15,15 @@
      "source": "Yahoo新聞",
      "published_at": "2026-10-31T17:50+08:00",
      "url": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8%E5%8F%88%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E5%B0%8F%E5%90%83%E5%BA%97%E5%93%80%E8%99%9F%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%BF%AB%E6%AF%94%E7%99%BB%E5%A4%A9%E9%9B%A3-095050772.html",
+     "resolved": true
+    },
+    {
+     "title": "討論牆 | 中聯停工引爆沙拉油荒 經部協調第4季擴大進口5千噸",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iUDJUd1lYeWVkakJUVjRsQlZIZHUteV9vS2YxOXVSRjNFV3BFTldYS2lPT0Iyblp3RzlaTDZfYTJqeWxyeDRIUnpkMTlyYjY4SHoyYVk3bU5GM1B4eWZKYlpuTzA?oc=5",
+     "source": "LINE TODAY",
+     "published_at": "2026-10-30T22:36+08:00",
+     "url": "https://today.line.me/tw/v3/posts/list/article/zNM1E2j",
      "resolved": true
     },
     {
@@ -69,15 +78,6 @@
      "source": "經濟日報",
      "published_at": "2026-10-30T15:52+08:00",
      "url": "https://money.udn.com/money/amp/story/7307/9847302",
-     "resolved": true
-    },
-    {
-     "title": "韓國爆紅「天然瘦瘦針」竟然是雞蛋加橄欖油！醫師揭早餐吃法，為什麼能幫助控制食慾？",
-     "kind": "店家相關",
-     "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SejYxX25fMkRvNTZvRTlBLVN0YkpGX1J0OFlYelUzMWdWRlJRVWU5N0pjUG8xTHl6ZWFKRS13QW55UV9VZzZ3V051ay1WQ2ZRM3BYZHFKMG9Cdmh4c256OXppdDhNd2RVaUE?oc=5",
-     "source": "Marie Claire 美麗佳人",
-     "published_at": "2026-10-29T15:00+08:00",
-     "url": "https://www.marieclaire.com.tw/beauty/health-fitness/93680",
      "resolved": true
     },
     {
@@ -141,15 +141,6 @@
      "source": "UDN",
      "published_at": "2026-10-25T00:00+08:00",
      "url": "https://udn.com/news/story/7266/9835478",
-     "resolved": true
-    },
-    {
-     "title": "赴峇里島注意！油荒衝擊觀光「計程車叫不到」加油站塞爆 遊客行程大亂",
-     "kind": "價格動態",
-     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TWW9iaVRKV3RraFpndGl6aW5ieG1kS3lObTdXNUdmU1F6WGw4bmhYak01QlVaQkxuMmluTEtuRzh6RzQzeGs5YjRhWQ?oc=5",
-     "source": "三立新聞網SETN.com",
-     "published_at": "2026-10-17T15:00+08:00",
-     "url": "https://inews.setn.com/news/1924159",
      "resolved": true
     }
    ]

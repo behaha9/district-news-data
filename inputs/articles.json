@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T19:01:03+08:00",
+ "fetched_at": "2026-10-31T19:02:48+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-10-31T13:59+08:00",
@@ -7813,6 +7813,74 @@
    "image_checked": true,
    "date_hint": "2026-10-17",
    "date_hint_from": "圖片路徑"
+  },
+  "https://n.yam.com/Article/20261031947346": {
+   "checked_at": "2026-10-31T19:02+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T18:02+08:00",
+   "site_name": "蕃新聞",
+   "description": "報新聞/編輯部台中市路邊智慧停車無紙化車格持續增加！繼國家歌劇院、國美館及美術園道、捷運綠線周邊等路",
+   "cities": {
+    "台中市": 8
+   },
+   "districts": [
+    "美術園道商圈（台中市）"
+   ],
+   "body_chars": 1484,
+   "image": "https://ni.yam.com/20261031/taichung-cover-261031051658328-5b6e5599274fbb7c.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taisounds.com/news/content/70/297151": {
+   "checked_at": "2026-10-31T19:02+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T17:16+08:00",
+   "site_name": "太報 TaiSounds",
+   "description": "台北市長選戰倒數28天，市長蔣萬安妻子石舫亘為夫掃街拜票行程今（10/31）轉戰大稻埕老街（迪化商圈）。但即便在屬綠營優勢的大同區，石仍展現連日來的拜票旋風，甚至只要一停下腳步，就有人群會湧上要求拍照，人氣暢旺。",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 209,
+   "image": "https://cdn.taisounds.com/newsimages/img/2026/1031/d5051a9afe0141a8b22e160f2664c463.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7323/9848902": {
+   "checked_at": "2026-10-31T19:02+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T14:30+08:00",
+   "site_name": "聯合新聞網",
+   "description": "「2026府中奇幻城」壓軸重頭戲「府中搞什麼鬼」今天萬聖節盛大登場，吸引大批市民齊聚板橋府中商圈。新北市長侯友宜驚喜變裝，化身為迪士尼經典動畫「玩具總動員」中的人氣角色「胡迪警長」，與現場民眾熱情互動、一同歡度充滿歡樂與奇幻氣氛的萬聖佳節。",
+   "cities": {
+    "新北市": 18,
+    "高雄市": 2,
+    "南投縣": 1
+   },
+   "districts": [
+    "板橋府中商圈（新北市）"
+   ],
+   "body_chars": 2902,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472313.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/zNM1E2j": {
+   "checked_at": "2026-10-31T19:02+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 中聯停工引爆沙拉油荒 經部協調第4季擴大進口5千噸",
+   "cities": {},
+   "districts": [],
+   "body_chars": 119,
+   "image": "https://today-obs.line-scdn.net/0hN7f5FlSZERhbTA2bz8FuT2MaHWloKgsReSlaKy1PGyBxYAVJZCxCeytMHDR-dQYaeyhYKXhOTC4kKwVOZg/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   }
  }
 }

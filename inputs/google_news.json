@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-10-31T19:00:50+08:00",
+ "fetched_at": "2026-10-31T19:02:38+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 139,
-  "kept": 50,
-  "resolved": 50,
-  "items": 48,
+  "raw": 149,
+  "kept": 49,
+  "resolved": 49,
+  "items": 47,
   "resolve_this_run": {
-   "online": 2
+   "online": 1
   },
   "dropped_old": [
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
@@ -16,6 +16,16 @@
   ]
  },
  "items": [
+  {
+   "title": "台中勤美商圈、審計新村309格 路邊停車無紙化10月29日上線",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLaEw2aGl0SWR6QUFLbS1PZl81VzRrdk5HQUd6NXo5aExlUXlRWksyR2ZxWG5aaHNIblppdmd5c0lVcUVwT2w5WjFDNm9mX1d5dEE?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-10-31T18:02+08:00",
+   "query": "商圈",
+   "url": "https://n.yam.com/Article/20261031947346",
+   "resolved": true
+  },
   {
    "title": "萌鬼變裝踩街趣 花蓮親子同樂串聯商圈活力",
    "google_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9zcWZwbFdCWEx2VFJjWEU4bkM4dUV5SGgwNnZFYWluZW5mZmw4OVNva3YzSzNpaUVQaE0zNkRkanNnVWItVlE?oc=5",
@@ -107,13 +117,13 @@
    "resolved": true
   },
   {
-   "title": "臺南購物節消費突破30億元！加碼抽電動車11月商圈活動接力登場",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRYXZzanFtcTVtdXFuZDBMZklGX2s2Yi1XVmJJUGdmckJWamZ1V2RMaDhXQUFDUklMRFk5dmJoLTE3Ti1WbTAzR09kYjk0RGFCeXc?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
+   "title": "臺南購物節消費突破30億元！加碼抽電動車11月商圈活動接力登場- 生活新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWhubGFraXc4M1J5RVBCVHpQR0dZd0hvTEUydnFTUllFSkdUck91eU5VZnFFZHRJWVJZbUNVQXd5cHMxb1hQcDZXaG12aEFkRDRVcmFGMW9fWEVXQkY3MXBVUVZyRHFfTE43Y2xBWV9GeUphSnBSYUhpRHRkemwyV1ZSN2UyLWozRVE?oc=5",
+   "source": "PChome Online 新聞",
+   "source_site": "https://news.pchome.com.tw",
    "published_at": "2026-10-31T10:23+08:00",
    "query": "商圈",
-   "url": "https://n.yam.com/Article/20261031942053",
+   "url": "https://news.pchome.com.tw/living/news586/20261031/index-79341342907651290009.html",
    "resolved": true
   },
   {
@@ -148,12 +158,12 @@
   },
   {
    "title": "誠品取得捷運中山站商鋪使用權 串連南西商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TREZYUDJLbHFnX1FOVldMZFN0TjZ5RmQ4N1l0YkVNLUlUQk10SDI2UFluS2JpYXBnckJsYklQczFpdjdTaVdTM0g1MA?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RbFo3QTNKcUY1NjRIYXI1eVlrSHZ2cGNkU0dFMWNKUkN0WjAzRkg5M1VFWjg2Slp1eElQWG03eV9DU3l0RlpjN1VuTQ?oc=5",
    "source": "三立新聞網SETN.com",
-   "source_site": "https://stock.setn.com",
+   "source_site": "https://inews.setn.com",
    "published_at": "2026-10-30T23:20+08:00",
    "query": "商圈",
-   "url": "https://stock.setn.com/news/1931121",
+   "url": "https://inews.setn.com/news/1931121",
    "resolved": true
   },
   {
@@ -257,16 +267,6 @@
    "resolved": true
   },
   {
-   "title": "中市勤美商圈、審計新村10/29路邊智慧停車無紙化上線 綁定代扣繳享6折最優惠",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ER3BIYUFKbFpJaXItbEtCQ2hfYzVkTkd4WGJKeHRkMktJYTlXUEZwVzk1UzRMM1hZQl80ajBXUVFQZDhZY0s1N2VpUEV4TE1IaGc?oc=5",
-   "source": "臺中市政府全球資訊網",
-   "source_site": "https://www.taichung.gov.tw",
-   "published_at": "2026-10-30T17:30+08:00",
-   "query": "商圈",
-   "url": "https://www.taichung.gov.tw/3403297/post",
-   "resolved": true
-  },
-  {
    "title": "小7聯名又要搶爆！米飛兔28吋行李箱、迷你相機登場，咖波竟開起商店街！99元就能收藏",
    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpdkRjUkw3eFBUb3pMcHZxbnAtMW11NVVCOUZrX3pKRUV4SlIza0pUT3dtLW1PMk43WlphVU80b21VRVN4R00ydzN2SkFsSkNTVHFnZzJ1Tk10b0tj0gFiQVVfeXFMTlczTy00VDF4SVY3c3RGMDFTRHhtYTBacTdERXZSWjhVdHZfUENraFBPamdKeHpUZER4NEQzdkRhUjZjQ1RWZTB3cWozTi1fLXBrOU9zNlh4Mm5QZHVpajh1QWc?oc=5",
    "source": "udn 女子漾",
@@ -328,12 +328,12 @@
   },
   {
    "title": "桃園大業大有商圈「快撿便宜」　在地房仲：有望買到實登價↓",
-   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10dXh0T3JhU05tU0xwR0xmaHVDeTZUWm1hamFoZWtZTGZMa3VfVXJRemVVX0tLTlRCdjI1NERHMnRpLV9jNmJQa1dESkdoUdIBTkFVX3lxTE10dXh0T3JhU05tU0xwR0xmaHVDeTZUWm1hamFoZWtZTGZMa3VfVXJRemVVX0tLTlRCdjI1NERHMnRpLV9jNmJQa1dESkdoUQ?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDZmRzU09JOXVNQ3hPamtVOXdoLW9qSkQ1dHlsZnBDTkFIQ3l6R01BU1BqOWF3WlUyc3lWdjdoQ21IaUJBNXR4VkdvSTNvQWPSAU5BVV95cUxNdHV4dE9yYVNObVNMcEdMZmh1Q3k2VFptYWphaGVrWUxmTGt1X1VyUXplVV9LS05UQnYyNTRERzJ0aS1fYzZiUGtXREpHaFE?oc=5",
    "source": "ETtoday房產雲",
    "source_site": "https://house.ettoday.net",
    "published_at": "2026-10-30T15:03+08:00",
    "query": "商圈",
-   "url": "https://house.ettoday.net/amp/3263135",
+   "url": "https://house.ettoday.net/news/3263135",
    "resolved": true
   },
   {
@@ -354,16 +354,6 @@
    "published_at": "2026-10-30T14:39+08:00",
    "query": "老街",
    "url": "https://tw.news.yahoo.com/%E9%80%BE%E4%BA%94%E5%8D%81%E5%B9%B4%E8%80%81%E5%B8%82%E5%A0%B4%E7%85%A5%E6%96%B0%E7%99%BB%E5%A0%B4-%E6%96%B0%E8%8E%8A%E7%AC%AC-%E5%B8%82%E5%A0%B4%E4%B8%B2%E8%81%AF%E7%99%BE%E5%B9%B4%E8%80%81%E8%A1%97%E9%A2%A8%E8%8F%AF-062444274.html",
-   "resolved": true
-  },
-  {
-   "title": "呂政璋出任威秀影城董座 推動商圈共榮、人潮共享",
-   "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mX1hSMzFPN3NCMDBCeFpHaUpTZVFXUTFqcGxfSG1IaHFHRXhJZDFYMktPU1FCbFhGVmFZVVY2Ry1LUXk0MkZvRDl6WQ?oc=5",
-   "source": "東森電視",
-   "source_site": "https://ent.ebc.net.tw",
-   "published_at": "2026-10-30T14:04+08:00",
-   "query": "商圈",
-   "url": "https://ent.ebc.net.tw/movie/503520",
    "resolved": true
   },
   {
@@ -427,16 +417,6 @@
    "resolved": true
   },
   {
-   "title": "東京著名商店街再傳竊案 歹徒帶走近千萬元名錶",
-   "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BTkpTekh0SlBXMG9abTVXLXNhRmJfTkZRRUJfbEtoay1tNHgyRU43RF9heWJ4NlJ3M1VpOVJJblRGSE1wcWowMkxocFlUaHJndkFaOVFDSERZb0VScFRMTzlZU0xIZ9IBa0FVX3lxTFBQX2pVanl4X3hBTi1jTFFKcWE0blRiMmU3ZExKY2loSU5ERG1jUHFzVHB1dW9XVXBtSGVXbTJCTm9kNkNfYmtzUGlmQklTbkRHSnNtOHVRVzJxZEI3Q3d1aklOQkt3d21MbUI0?oc=5",
-   "source": "自由時報",
-   "source_site": "https://news.ltn.com.tw",
-   "published_at": "2026-10-30T07:09+08:00",
-   "query": "商店街",
-   "url": "https://news.ltn.com.tw/news/world/breakingnews/5623392",
-   "resolved": true
-  },
-  {
    "title": "東京著名商店街再傳竊案 歹徒帶走約30萬美元名錶",
    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzVjJENVlzRVJ0UF9sc2QzRV9VYXVjN280VGwyZkFtUVNhVzVfZThuUmJDM0NZb0JnSmV3VzAtaGdxZC16XzJocWhBUWtwTlZJaVRtYmphaEFFSk93Y0pnek1YemJBZHfSAWdBVV95cUxQc1YyRDVZc0VSdFBfbHNkM0VfVWF1YzdvNFRsMmZBbVFTYVc1X2U4blJiQzNDWW9CZ0pld1cwLWhncWQtel8yaHFoQVFrcE5WSWlUbWJqYWhBRUpPd2NKZ3pNWHpiQWR3?oc=5",
    "source": "世界新聞網",
@@ -444,6 +424,16 @@
    "published_at": "2026-10-30T07:05+08:00",
    "query": "商店街",
    "url": "https://www.worldjournal.com/wj/amp/story/121480/9846115",
+   "resolved": true
+  },
+  {
+   "title": "東京著名商店街再傳竊案　歹徒帶走近千萬元名錶",
+   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWl9IZEw4T1pJVUt1Q3B3TXZTNFNzWVoxbkhIWU9tTW1jY3Y2dUZzVzM0Ml9Uejh5UHVNVncwMTZpbmlpeko2Q3NYQ3RlMjhlQWNtZFltZzdBWlVXaXY5YWtfaVk0QUtGWkVMZE1FN0wyazF1TzV5Rk8tNkdUeHkxYtIBX0FVX3lxTE9qcTRsMWFMTnAzNkZuLUkzZ2g2MDlPZjFiX0FuVVphaUpxbmR5bkctS0FuOWlvV1lFNUlhOE9ucTFaQS1od0Q3ZmJuTzVlUk9NbmZWMjBRNDNFb29TNTdV?oc=5",
+   "source": "經濟日報",
+   "source_site": "https://money.udn.com",
+   "published_at": "2026-10-30T06:00+08:00",
+   "query": "商店街",
+   "url": "https://money.udn.com/money/story/5599/9846071?from=edn_related_storybottom",
    "resolved": true
   },
   {
