@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T08:54:11+08:00",
+ "fetched_at": "2026-10-31T12:17:40+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-10-31T07:17+08:00",
@@ -117,381 +117,10 @@
    "date_hint": null,
    "date_hint_from": null
   },
-  "https://woman.udn.com/woman/story/123162/9834489": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T12:00+08:00",
-   "site_name": "udn 女子漾",
-   "description": "【旅奇傳媒/編輯部報導】從歷史建築、傳統市場到異國美食與特色老店，「桃園老城」與「中壢舊城」藏著許多值得探索的城市故事。為讓來桃園住宿的旅客不只住一晚，更能深入認識城市的人文風景。「桃園市觀光發展基金會」以旅宿遊客為主要推廣對象，整合旅宿、城市導覽與商圈資源，推出「一起出發！桃園雙城的日常」城市走讀活動。並結合桃園市政",
-   "cities": {
-    "桃園市": 45,
-    "台北市": 3,
-    "高雄市": 2,
-    "嘉義": 2
-   },
-   "districts": [],
-   "body_chars": 4000,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450015.jpg&M=1&s=Y&x=0&y=0&sw=720&sh=480&sl=W&fw=800&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://note.com/kurara_helpnote/n/nb6fdba35bb88": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T11:11+08:00",
-   "site_name": "note（ノート）",
-   "description": "台湾に4年間住んでいた私。でも、台湾にはまだまだ知らない食べ物がある。今回、高雄で台湾人の友達と訪れたのは、乾物や昔ながらのお菓子が並ぶ「三鳳中街（サンフォンジョンジエ）」。台北でいう迪化街のような雰囲気の問屋街です。  実は、最初のお目当てはお菓子じゃなくて乾燥ナツメ。私の体調を気遣って、台湾人の友達のお母さんが「体",
-   "cities": {
-    "高雄市": 6,
-    "台北市": 2
-   },
-   "districts": [
-    "迪化街商圈（台北市）",
-    "三鳳中街（高雄市）"
-   ],
-   "body_chars": 2572,
-   "image": "https://assets.st-note.com/production/uploads/images/329024520/rectangle_large_type_2_32ff76698c0e8620437a351a55aee315.jpg?fit=bounds&quality=85&width=1280",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ctwant.com/article/504123/": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T11:10+08:00",
-   "site_name": "CTWANT",
-   "description": "台中市一中商圈驚傳娃娃機竊案！27歲賴姓男子昨晚持一字螺絲起子撬開機台鎖頭，企圖偷取零錢，遭警方當場撞見、喝止，他竟又掏出老虎鉗，作勢攻擊員警立即噴灑辣椒水將他制伏。警方查出，賴男當晚已接連破壞育才街...",
-   "cities": {
-    "台中市": 4
-   },
-   "districts": [
-    "一中街商圈（台中市）"
-   ],
-   "body_chars": 714,
-   "image": "https://static.ctwant.com/images/cover/23/504123/lg-0fe46be850d22fee30b3c117abf11491.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E5%B0%B7%E5%B0%AC-%E8%94%A3%E8%90%AC%E5%AE%89%E7%8F%BE%E8%BA%AB%E5%85%A7%E6%B9%96737%E5%95%86%E5%9C%88%E6%8E%83%E8%A1%97-%E9%81%AD%E6%94%A4%E8%B2%A9%E5%AB%8C%E5%A4%AA%E5%90%B5-%E6%8B%92%E7%B5%95%E6%8F%A1%E6%89%8B-%E9%8F%A1%E6%96%B0%E8%81%9E-034145919.html": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T11:41+08:00",
-   "site_name": "Yahoo News",
-   "description": "國民黨台北市長候選人蔣萬安，27日晚間現身內湖737商圈掃街拜票，現場也有熱情攤商送上美食暖胃，不過也有攤商抱怨「現場太吵」，拒絕和蔣萬安握手。",
-   "cities": {
-    "台北市": 31,
-    "新北市": 6,
-    "嘉義市": 4,
-    "宜蘭縣": 3,
-    "台中市": 2
-   },
-   "districts": [],
-   "body_chars": 3686,
-   "image": "https://s.yimg.com/lo/mysterio/api/55a505be67b89920125068ebfd1fad8d12ec70180cad8e4d8c4b8b3058c4c8db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmnews_tw_258%2Fb47346b69d66d95e14a2ed6334dd351e",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E4%B8%AD%E5%95%86%E5%9C%88%E5%A8%83%E5%A8%83%E6%A9%9F%E5%A4%A7%E7%9B%9C%E5%A4%AA%E5%9B%82%E5%BC%B5-%E6%92%AC%E9%8E%96%E5%81%B7%E9%9B%B6%E9%8C%A2%E9%81%AD%E8%AD%A6%E9%80%AE-%E7%AB%9F%E6%8E%8F%E8%80%81%E8%99%8E%E9%89%97%E5%97%86%E8%81%B2%E5%8F%8D%E8%A2%AB%E8%BE%A3%E6%A4%92%E6%B0%B4%E5%88%B6%E4%BC%8F-031028981.html": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T11:10+08:00",
-   "site_name": "Yahoo News",
-   "description": "第二分局育才派出所表示，昨晚7時許接獲民眾報案，指北區育才街有男子持工具破壞娃娃機台鎖頭，疑似行竊，警方獲報後不敢大意，立即派遣備勤警員張宏銓及勤區查察警員呂駿劭趕赴現場。兩名員警抵達時，發現賴男正手持一字螺絲起子，埋頭撬弄娃娃機台鎖頭，企圖將機台內的零錢...",
-   "cities": {
-    "台中市": 4,
-    "台南市": 4,
-    "台北市": 3,
-    "新北市": 2,
-    "彰化縣": 2
-   },
-   "districts": [],
-   "body_chars": 3738,
-   "image": "https://s.yimg.com/lo/mysterio/api/7ebf89f24eb0111e5c5a8e3d0dacbb14d47513e4c31a48b1c765ee5f249c5204/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fctwant_com_582%2F0cf2d075a08bfd9030b4eeb8d1b7b249.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.881903.com/traffic/info/2656819": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T11:23+08:00",
-   "site_name": "商業電台 881903",
-   "description": "水管維修：亞皆老街去大角咀(11:23清理)【馬路的事交通消息】較早前，受水管維修影響，亞皆老街去大角咀，近嘉齡道的部份行車",
-   "cities": {},
-   "districts": [],
-   "body_chars": 63,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
   "https://www.cdns.com.tw/articles/1480925": {
    "checked_at": "2026-10-31T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://gamelife.tw/gamenews/%E6%8B%BF%E8%91%97%E5%A4%96%E6%98%9F%E9%81%93%E5%85%B7%E6%94%B6%E9%9B%86%E3%80%8C%E6%83%85%E8%89%B2%E8%83%BD%E9%87%8F%E3%80%8D%E2%94%80-%E6%88%90%E4%BA%BA%E9%81%8A%E6%88%B2%E3%80%8A%E5%95%86%E5%BA%97/": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T09:00+08:00",
-   "site_name": "Game LIFE",
-   "description": "拿著外星道具收集「情色能量」─ 成人遊戲《商店街的外星房客想要色色能量》登陸 Steam ⋆ Game LIFE",
-   "cities": {},
-   "districts": [],
-   "body_chars": 695,
-   "image": "https://secure.gravatar.com/avatar/71261f188a9ea18a3ff9f1a9cf9230b2725cfcbf7fc2b0ecca7eafadd7ce3626?s=96&d=wavatar&r=g",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/amp/news/Taichung/breakingnews/5621013": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T10:07+08:00",
-   "site_name": "自由時報電子報",
-   "description": "台中市一中商圈傳出娃娃機店竊案！27歲賴姓男子昨晚持螺絲起子撬開機台鎖頭偷零錢，遭喝止時竟掏出老虎鉗意圖攻擊員警，當場被噴辣椒水制伏逮捕，警方查出他一晚連偷兩家店，查獲疑似贓款320元及作案工具，詢後依加重竊盜罪嫌移送台中地檢署偵辦。第二分局指出，育才派出所27日晚間7時許接獲民眾報案，指北區育才街有男子拿著工具破壞娃",
-   "cities": {
-    "台中市": 10,
-    "彰化縣": 2,
-    "台南市": 1
-   },
-   "districts": [],
-   "body_chars": 1102,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/28/5621013_1_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/7320/9841237?from=udn-catebreaknews_ch2": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T08:31+08:00",
-   "site_name": "聯合新聞網",
-   "description": "台中市賴姓男子昨晚在一中商圈育才街的一間娃娃機店，持螺絲起子撬開機台鎖頭，竊取零錢，被民眾發現報警。員警到場喝令停止，賴男從褲子口袋掏出老虎鉗，作勢攻擊員警，員警當場噴辣椒水將他制伏逮捕，查獲疑似贓款320元及作案工具。警方調閱監視器發現，賴男當晚已連續破壞兩家店的娃娃機，依加重竊盜罪，移送台中地檢署偵辦。",
-   "cities": {
-    "台中市": 7,
-    "苗栗縣": 2,
-    "新北市": 1,
-    "屏東縣": 1,
-    "台東縣": 1
-   },
-   "districts": [],
-   "body_chars": 1621,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/28/35460492.png&M=1&s=Y&x=0&y=0&sw=1088&sh=725&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.taichung.gov.tw/3401276/post": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "臺中市政府全球資訊網",
-   "description": "台中第二波物調券369家商圈店家響應！天津商圈8折、自由路9折再加碼優惠",
-   "cities": {
-    "台中市": 11
-   },
-   "districts": [
-    "自由路商圈（台中市）",
-    "繼光商圈（台中市）",
-    "大隆路商圈（台中市）",
-    "美術園道商圈（台中市）",
-    "太平樹孝商圈（台中市）",
-    "豐原廟東復興商圈（台中市）"
-   ],
-   "body_chars": 1542,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.mnews.tw/story/amp/20261028sot0905002": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T09:05+08:00",
-   "site_name": "鏡新聞",
-   "description": "國民黨台北市長候選人蔣萬安，27日晚間現身內湖737商圈掃街拜票，現場也有熱情攤商送上美食暖胃，不過也有攤商抱怨「現場太吵」，拒絕和蔣萬安握手。",
-   "cities": {
-    "台北市": 3
-   },
-   "districts": [],
-   "body_chars": 176,
-   "image": "https://statics.mnews.tw/images/6d358f74-ea31-4c10-9349-0f428bd7a1cb-w1600.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E4%B8%AD%E5%95%86%E5%9C%88%E8%BC%B8%E4%BA%86-%E5%85%AC%E7%9B%8A%E8%B7%AF%E5%95%86%E5%9C%88%E7%99%BB%E5%8F%B0%E4%B8%AD%E6%9C%80%E5%BC%B7%E6%99%AF%E9%BB%9E-%E7%8B%82%E5%90%B82309%E8%90%AC%E4%BA%BA-015532702.html": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T09:55+08:00",
-   "site_name": "Yahoo News",
-   "description": "根據交通部觀光署統計，今年1至8月台中公益路商圈吸引超過2309萬人次，奪下熱門景點冠軍，領先排名第二的一中商圈1445萬人次。公益路周邊有勤美誠品綠園道、草悟道、各式餐廳及百貨商場；一中商圈則以平價美食、潮流服飾與年輕氛圍聞名，持續吸引學生及年輕族群。",
-   "cities": {
-    "台中市": 15,
-    "台北市": 14,
-    "嘉義市": 8,
-    "新北市": 6,
-    "桃園市": 5
-   },
-   "districts": [
-    "中央公園商圈（高雄市）"
-   ],
-   "body_chars": 3801,
-   "image": "https://s.yimg.com/lo/mysterio/api/8ac576f7a15488dec3f5442b817483492e69f5f8c81c0f17466445b96d202813/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fgotv_ctitv_com_tw_678%2F949837047201657e752f9335473ac61d.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.msn.com/zh-tw/news/other/%E5%B0%B7%E5%B0%AC-%E8%94%A3%E8%90%AC%E5%AE%89%E7%8F%BE%E8%BA%AB%E5%85%A7%E6%B9%96737%E5%95%86%E5%9C%88%E6%8E%83%E8%A1%97-%E9%81%AD%E6%94%A4%E8%B2%A9%E5%AB%8C%E5%A4%AA%E5%90%B5-%E6%8B%92%E7%B5%95%E6%8F%A1%E6%89%8B-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gd4kD": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26104": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {
-    "台中市": 3
-   },
-   "districts": [
-    "自由路商圈（台中市）",
-    "繼光商圈（台中市）",
-    "大隆路商圈（台中市）",
-    "美術園道商圈（台中市）",
-    "太平樹孝商圈（台中市）",
-    "豐原廟東復興商圈（台中市）"
-   ],
-   "body_chars": 1210,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://news.ltn.com.tw/news/society/breakingnews/5621013": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T10:07+08:00",
-   "site_name": "自由時報電子報",
-   "description": "台中市一中商圈傳出娃娃機店竊案！27歲賴姓男子昨晚持螺絲起子撬開機台鎖頭偷零錢，遭喝止時竟掏出老虎鉗意圖攻擊員警，當場被噴辣椒水制伏逮捕，警方查出他一晚連偷兩家店，查獲疑似贓款320元及作案工具，詢後依加重竊盜罪嫌移送台中地檢署偵辦。第二分局指出，育才派出所27日晚間7時許接獲民眾報案，指北區育才街有男子拿著工具破壞娃",
-   "cities": {
-    "台中市": 5
-   },
-   "districts": [],
-   "body_chars": 852,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/28/5621013_1_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ftvnews.com.tw/news/detail/2026A27W0271": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T16:49+08:00",
-   "site_name": "民視新聞網",
-   "description": "生活中心／張祐嘉報導台灣老街各具特色，除了知名的九份、淡水，近期位於新北市的坪林老街近期在社群平台上引發熱議。一名網友分享當地茶製美食體驗，大讚茶冰淇淋、茶麻糬等點心風味絕佳，貼文吸引上萬人按讚。不少曾造訪的遊客紛紛留言「完蛋了，秘密基地被發現了」，讓這處清幽小鎮意外成為話題焦點。",
-   "cities": {
-    "台北市": 4,
-    "新北市": 4,
-    "宜蘭縣": 2,
-    "台南市": 1
-   },
-   "districts": [],
-   "body_chars": 1428,
-   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/2ec5c43e-9ba5-4786-880a-5deed395a717.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.mirrormedia.mg/external/mirrordaily_94212": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T10:32+08:00",
-   "site_name": "鏡週刊 Mirror Media",
-   "description": "台中市一中商圈驚傳娃娃機竊案！27歲賴姓男子昨（27日）晚間持一字螺絲起子撬開娃娃機台鎖頭，企圖偷取零錢，遭警方當場喝止時，竟又從褲子口袋掏出老虎鉗，意圖攻擊員警，警方立即噴灑辣椒水將他制伏，查獲疑似贓款320元及作案工具。警方進一步調閱監視器，發現賴男當晚已連續破壞育才街兩家店的娃娃機台，全案依加重竊盜罪嫌移送地檢署",
-   "cities": {
-    "台中市": 2
-   },
-   "districts": [],
-   "body_chars": 778,
-   "image": "https://statics-prod.mirrordaily.news/images/37f0db34-9d9e-4cfc-9f4b-e2a48e1780f9-w1600.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.mirrordaily.news/story/94212": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T10:32+08:00",
-   "site_name": "鏡報",
-   "description": "台中市一中商圈驚傳娃娃機竊案！27歲賴姓男子昨（27日）晚間持一字螺絲起子撬開娃娃機台鎖頭，企圖偷取零錢，遭警方當場喝止時，竟又從褲子口袋掏出老虎鉗，意圖攻擊員警，警方立即噴灑辣椒水將他制伏，查獲疑似贓款320元及作案工具。警方進一步調閱監視器，發現賴男當晚已連續破壞育才街兩家店的娃娃機台，全案依加重竊盜罪嫌移送地檢署",
-   "cities": {
-    "台中市": 1
-   },
-   "districts": [],
-   "body_chars": 288,
-   "image": "https://statics-prod.mirrordaily.news/images/37f0db34-9d9e-4cfc-9f4b-e2a48e1780f9.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.storm.mg/lifestyle/11175949": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T11:30+08:00",
-   "site_name": null,
-   "description": "台灣各地老街向來是國人假日休閒與連假出遊的熱門首選，根據交通部觀光署最新公佈的 2026 年 1 至 8 月統計數據，全台人氣最高的老街榜首由彰化「鹿港老街及周邊地區」強勢奪下，前 8 個月累計造訪人次已突破 1,791 萬人次；緊追在後的第二名與第三名，則分別為吸客逾 1,642 萬人次的新北市「瑞芳風景特定區（含九",
-   "cities": {
-    "彰化縣": 3,
-    "新北市": 2,
-    "南投縣": 2,
-    "台北市": 1
-   },
-   "districts": [
-    "九份老街商圈（新北市）",
-    "淡水老街商圈（新北市）",
-    "鹿港老街商圈（彰化縣）"
-   ],
-   "body_chars": 2355,
-   "image": "https://images.storm.mg/cloud/09e22e70abb1fcdb87955cb5fffe5163d85dbc4d.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2158708%2F8loGCdRW9Ow3ugF67LfzV9520Sv5yfj498xjv82n.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://house.ettoday.net/news/3261636": {
-   "checked_at": "2026-10-28T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T10:00+08:00",
-   "site_name": "ETtoday房產雲",
-   "description": "買房一定要選樓下有商圈的地段嗎？隨著網購、外送盛行，傳統商圈優勢正面臨考驗。專家提醒，銀行、電信門市撤離，或店面空置增加、娃娃機店進駐，都可能是商圈衰退警訊，購屋族別再迷信熱鬧地段就能保值。",
-   "cities": {
-    "台北市": 3,
-    "台中市": 3,
-    "高雄市": 2,
-    "新竹": 2,
-    "新北市": 1
-   },
-   "districts": [],
-   "body_chars": 2686,
-   "image": "https://cdn2.ettoday.net/images/8947/e8947400.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261027630408": {
    "checked_at": "2026-10-28T13:58+08:00",
@@ -7576,6 +7205,214 @@
    "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/27153605/taichung-cover-261027073602674.jpeg",
    "image_checked": true,
    "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://note.com/kurara_helpnote/n/nb6fdba35bb88": {
+   "checked_at": "2026-10-31T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T11:11+08:00",
+   "site_name": "note（ノート）",
+   "description": "台湾に4年間住んでいた私。でも、台湾にはまだまだ知らない食べ物がある。今回、高雄で台湾人の友達と訪れたのは、乾物や昔ながらのお菓子が並ぶ「三鳳中街（サンフォンジョンジエ）」。台北でいう迪化街のような雰囲気の問屋街です。  実は、最初のお目当てはお菓子じゃなくて乾燥ナツメ。私の体調を気遣って、台湾人の友達のお母さんが「体",
+   "cities": {
+    "高雄市": 6,
+    "台北市": 2
+   },
+   "districts": [
+    "迪化街商圈（台北市）",
+    "三鳳中街（高雄市）"
+   ],
+   "body_chars": 2572,
+   "image": "https://assets.st-note.com/production/uploads/images/329024520/rectangle_large_type_2_32ff76698c0e8620437a351a55aee315.jpg?fit=bounds&quality=85&width=1280",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261031942053": {
+   "checked_at": "2026-10-31T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T10:23+08:00",
+   "site_name": "蕃新聞",
+   "description": "圖/邀請全臺民眾在雙11、百貨週年慶前來臺南消費，享旅遊與購物節「百貨量販加碼抽」的雙【點傳媒／記者",
+   "cities": {
+    "台南市": 15,
+    "高雄市": 1
+   },
+   "districts": [
+    "楠西商圈（台南市）"
+   ],
+   "body_chars": 1214,
+   "image": "https://ni.yam.com/20261031/11--8f91154a193dae00.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/lifestyle/11176985": {
+   "checked_at": "2026-10-31T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T09:30+08:00",
+   "site_name": null,
+   "description": "說到新北的老街，多數人第一個想到九份、淡水，但最近在社群上被討論的，是山裡的坪林老街。有網友在Threads分享到坪林吃茶點的一日遊，茶冰淇淋、茶麻糬讓她讚不絕口，貼文獲得上萬個讚。不少去過的人看了直呼「完蛋了，秘密基地被發現了」，這條安靜的茶鄉小街也因此跟著翻紅。坪林老街在哪裡？北宜公路上的茶鄉小鎮坪林位在北宜公路中",
+   "cities": {
+    "新北市": 5,
+    "台北市": 2,
+    "宜蘭縣": 2
+   },
+   "districts": [],
+   "body_chars": 2031,
+   "image": "https://images.storm.mg/cloud/52f31cdfa657f4e3fbb4e4700d18cec7244bd7e9.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1925649%2F20240707-070813_U27065_M967511_05e5.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26104": {
+   "checked_at": "2026-10-31T12:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {
+    "台中市": 3
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1211,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.knews.com.tw/news/EA572948B8AD95168A10F9C6FAE89A53": {
+   "checked_at": "2026-10-31T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T10:01+08:00",
+   "site_name": "知新聞",
+   "description": "【政治中心／台北報導】縣市長選戰倒數28天，台北市長蔣萬安與對手民進黨候選人沈伯洋今天中午展開首場電視辯論，蔣萬安前兩天因為市政、選舉兩頭燒，聲音沙啞、破病暫停行程，其妻石舫亘29日起代夫掃街拜票，輔選效果佳，人氣不輸蔣萬安，今邁入第三天陸戰，下午1530赴迪化商圈掃街拜票。《知新聞》全程直播，現場直擊第一手互動。",
+   "cities": {
+    "台北市": 6,
+    "高雄市": 2,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 1322,
+   "image": "https://static.kmedia.com.tw/prd/2026/1030/photo/9030acb851b584b961fa096dec8fe8f6.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/lifestyle/11175949": {
+   "checked_at": "2026-10-31T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T11:30+08:00",
+   "site_name": null,
+   "description": "台灣各地老街向來是國人假日休閒與連假出遊的熱門首選，根據交通部觀光署最新公佈的 2026 年 1 至 8 月統計數據，全台人氣最高的老街榜首由彰化「鹿港老街及周邊地區」強勢奪下，前 8 個月累計造訪人次已突破 1,791 萬人次；緊追在後的第二名與第三名，則分別為吸客逾 1,642 萬人次的新北市「瑞芳風景特定區（含九",
+   "cities": {
+    "彰化縣": 3,
+    "新北市": 2,
+    "南投縣": 2,
+    "台北市": 1
+   },
+   "districts": [
+    "九份老街商圈（新北市）",
+    "淡水老街商圈（新北市）",
+    "鹿港老街商圈（彰化縣）"
+   ],
+   "body_chars": 2355,
+   "image": "https://images.storm.mg/cloud/09e22e70abb1fcdb87955cb5fffe5163d85dbc4d.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2158708%2F8loGCdRW9Ow3ugF67LfzV9520Sv5yfj498xjv82n.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://twpowernews.com/news_pagein.php?n_id=297279": {
+   "checked_at": "2026-10-31T12:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "勁報",
+   "description": "以往以濃郁香料咖哩擄獲饕客味蕾的知名連鎖品牌「魔法咖哩」，10/30日正式宣佈，隱身於台北車站商圈精華地段的魔法咖哩站前店，將首度突破以往經營模式，正式開啟「TeaTime午後慢享時光」下午茶全新服務！告別過去離峰時段的沉寂，站前店特別發揮門市鬧中取靜與絕佳氛圍優勢，結合全新升級的冷熱飲自助吧，打...",
+   "cities": {
+    "台北市": 8
+   },
+   "districts": [],
+   "body_chars": 921,
+   "image": "https://twpowernews.com/P_L/202610/8ba1bc75080e2117007b91a09d5fe03f.png",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.moneyweekly.com.tw/ArticleData/Info/Article/258774": {
+   "checked_at": "2026-10-31T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T11:58+08:00",
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 2593,
+   "image": "https://taiwanhot.net/cache/1314852/lgnw/medias-20261029-6ae24a5b08e10.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://taiwan.sharelife.tw/article_aid-41221.html": {
+   "checked_at": "2026-10-31T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T17:40+08:00",
+   "site_name": "俗女養成記拍攝地！台南後壁老街景點 清代街屋藏歲月！:ShareLife 台灣旅",
+   "description": "還記得《俗女養成記》裡陳嘉玲的中藥行老家嗎？這座位於台南後壁菁寮老街的金德興阮家古厝，擁有超過兩百年歷史，從傳統木構閣樓到百年藥櫃，處處藏著老台灣的生活記憶。",
+   "cities": {
+    "台南市": 2
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://taiwan.sharelife.tw/tw-news-img/352215/7523281026063415.jpg?094018",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taichung.gov.tw/3401276/post": {
+   "checked_at": "2026-10-31T12:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "臺中市政府全球資訊網",
+   "description": "台中第二波物調券369家商圈店家響應！天津商圈8折、自由路9折再加碼優惠",
+   "cities": {
+    "台中市": 11
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1542,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.immigration.gov.tw/NewsSection/Detail/A4A95B2B-1DB9-4523-B4D1-6B22D025549E?lang=TW": {
+   "checked_at": "2026-10-31T12:17+08:00",
+   "status": 200,
+   "published_at": "2020-08-22T11:40+08:00",
+   "site_name": "新住民全球新聞網-嘉義雲海季推數位集章　跨區玩山林步道、部落與老街",
+   "description": "嘉義雲海季推數位集章　跨區玩山林步道、部落與老街",
+   "cities": {
+    "嘉義縣": 11,
+    "台北市": 3,
+    "台南市": 2
+   },
+   "districts": [],
+   "body_chars": 2404,
+   "image": "https://news.immigration.gov.tw/Uploads/2026/0910/103104pM.jpg",
+   "image_checked": true,
+   "date_hint": "2020-08-22",
    "date_hint_from": "原文時間"
   }
  }
