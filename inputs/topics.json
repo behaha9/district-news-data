@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T20:50:47+08:00",
+ "updated_at": "2026-11-01T07:17:51+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,42 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "台糖粗油採購案流標！市場吃緊 沙拉油缺口難補",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNWjF3RVBtNk8xTWxWYWRMR2ZBSjRESXhVZ3Ffa05GR0hKRFdyeENfeHRES2hIM3BKczYwbDlJT1J2NmRaSVpoRzc0VmE2R3ZUYnZhSXlsTU9hOUVoM2VrZVdCNXlSRV8tOWxxdWJNeHZEN1hsek12SXFMT29vWlJOUmFjZ05uYlVQYjMtbmJMLUV0LUVPeFFOYmVJbWx4Tm9iYzQyTUxkQ2NHSmw1emlNYThjVG9ONlloQUxCSGJhZ2l2NU81cDhuQ2JBTWNGUzdiN3dPQW5uV3lWTUUwaVpUeHFhTHJJUE9rS013dDJ3NnpsQjg3ZGRQM2lzOEJZLVcyYy1wMVpKNDJ5V1ZJZlM4LXJ3QUR2M1ktVVNHMGxHOTh4dURFSkZmQXREbmVIR2NCOG12Q1hyUm40R3RvOEVyVzZlZUtUQQ?oc=5",
+     "source": "Yahoo新聞",
+     "published_at": "2026-11-01T06:32+08:00",
+     "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%B3%96%E7%B2%97%E6%B2%B9%E6%8E%A1%E8%B3%BC%E6%A1%88%E6%B5%81%E6%A8%99-%E5%B8%82%E5%A0%B4%E5%90%83%E7%B7%8A-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E9%9B%A3%E8%A3%9C-223229348.html",
+     "resolved": true
+    },
+    {
+     "title": "台糖粗油採購案流標！市場吃緊 沙拉油缺口難補 | 聯合新聞網",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52RjRPbXJEcXZLN2NFZjZhSks1MFBsOEp2ZnFvN2drN0cyT0JpWUxvbDQtbjZDWE00T1hDS1JGQmVWSlpDcFd3VFpTSFVTMjRieHlMMURR?oc=5",
+     "source": "LINE TODAY",
+     "published_at": "2026-11-01T00:55+08:00",
+     "url": "https://today.line.me/tw/v3/article/Kw7mLrN",
+     "resolved": true
+    },
+    {
+     "title": "價格飆漲沙拉油缺貨 小吃店哀號",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYLXBFaTlaODc0b1hPZUJnUUw0SWdDeXhxejBlTVRLa0NteXlPSlA2MTY0eUNaZTVQcWRsZEwzT1ZYemk2ZVB5VHV6SmJUaVc3YUNCcEd30gFWQVVfeXFMUFgtcEVpOVo4NzRvWE9lQmdRTDRJZ0N5eHF6MGVNVEtrQ215eU9KUDYxNjR5Q1plNVBxZGxkTDNPVlh6aTZlUHlUdXpKYlRpVzdhQ0JwR3c?oc=5",
+     "source": "UDN",
+     "published_at": "2026-11-01T00:00+08:00",
+     "url": "https://udn.com/news/amp/story/7266/9849473",
+     "resolved": true
+    },
+    {
+     "title": "討論牆 | 食用油缺貨又漲價！桶裝沙拉油飆破千元 小吃店哀號買不到「快比登天難」",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44Mm4yQkRiNXpzUzFZN21PUEl2aDY3bDd1VHVtV1M1aURPZm01VmctYnp6OV9zOXd4YzdXYVp5Uzh2aWo1bXdHYjdrbnhVMktBUWZDYmF0YmF2aVNSbjVJMGZOWEU?oc=5",
+     "source": "LINE TODAY",
+     "published_at": "2026-10-31T22:37+08:00",
+     "url": "https://today.line.me/tw/v3/posts/list/article/oqp7WNy",
+     "resolved": true
+    },
     {
      "title": "食用油缺貨又漲價！桶裝沙拉油飆破千元 小吃店哀號買不到「快比登天難」",
      "kind": "店家相關",
@@ -78,6 +114,15 @@
      "source": "經濟日報",
      "published_at": "2026-10-30T15:52+08:00",
      "url": "https://money.udn.com/money/amp/story/7307/9847302",
+     "resolved": true
+    },
+    {
+     "title": "經濟部如何應對沙拉油供應短缺的危機？",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmFBTHl4LWNDRHVrRng1NFR5ZGtPbndRcUFWNXFDcDVOQTVtdlloRlgyWGpsQ19OMzIxZ2NOcUNLN1JmZ2MyVEFPN04zZS0wOUttdjExRUJ2dEhCdV9pQ1hhdWdEWTBIdnd3RzIxY2JUWDdPaEVoQmUxQUJGSWJqVWRUVXpFaFRBVzlhbWlGOVRnZEtMajJKOWhn?oc=5",
+     "source": "UDN",
+     "published_at": "2026-10-30T07:53+08:00",
+     "url": "https://udn.com/news/ai/answer/%E7%B6%93%E6%BF%9F%E9%83%A8%E5%A6%82%E4%BD%95%E6%87%89-59271827",
      "resolved": true
     },
     {
