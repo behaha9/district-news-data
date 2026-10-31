@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T16:50:28+08:00",
+ "fetched_at": "2026-10-31T18:59:49+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-10-31T13:59+08:00",
@@ -4346,7 +4346,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.myhousing.com.tw/n/n01/north-taiwan/new-taipei-estate/302142/": {
-   "checked_at": "2026-10-31T07:17+08:00",
+   "checked_at": "2026-10-31T18:59+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6265,7 +6265,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/general/202610/202610293094985.html": {
-   "checked_at": "2026-10-31T07:17+08:00",
+   "checked_at": "2026-10-31T18:59+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7205,6 +7205,298 @@
    "districts": [],
    "body_chars": 806,
    "image": "https://cdn2.ettoday.net/images/6607/e6607289.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.fclnews.com/235170/": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.taisounds.com/news/content/133/297151": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T17:16+08:00",
+   "site_name": "太報 TaiSounds",
+   "description": "台北市長選戰倒數28天，市長蔣萬安妻子石舫亘為夫掃街拜票行程今（10/31）轉戰大稻埕老街（迪化商圈）。但即便在屬綠營優勢的大同區，石仍展現連日來的拜票旋風，甚至只要一停下腳步，就有人群會湧上要求拍照，人氣暢旺。",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 209,
+   "image": "https://cdn.taisounds.com/newsimages/img/2026/1031/d5051a9afe0141a8b22e160f2664c463.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8%E5%8F%88%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E5%B0%8F%E5%90%83%E5%BA%97%E5%93%80%E8%99%9F%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%BF%AB%E6%AF%94%E7%99%BB%E5%A4%A9%E9%9B%A3-095050772.html": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T17:50+08:00",
+   "site_name": "Yahoo News",
+   "description": "食用油近期傳出短缺問題，嘉義多家自助餐、炸物店哀號「買不到油」，原本22公升沙拉油750元，近日已漲破千元，本周甚至直接缺貨，商家叫苦連天。朴子市一間食品材料行被問到怕，索性在門口立黑板寫「沒有油，油在對面」，但對面是加油站，大家只能無奈苦笑。",
+   "cities": {
+    "台北市": 12,
+    "嘉義縣": 7,
+    "新竹": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 3278,
+   "image": "https://s.yimg.com/lo/mysterio/api/4c99a9b68ceac61bd53254ee3c5faedd9cb360b85c332c4c9a23580d35ec360a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fudn.com%2F63163d84ee0aacce7d7b35faf1bcb982.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261030003398-260410": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T17:37+08:00",
+   "site_name": "中時新聞網",
+   "description": "中聯致癌油事件停工後，對國內沙拉油供應衝擊未解。經濟部今（30）日證實，國內油品缺口仍然很大，因應食品業者用油需求，已責成台糖12月起每月再增產500噸，另協調油品進口商第四季多進口5000公噸。經濟部也呼籲地",
+   "cities": {},
+   "districts": [],
+   "body_chars": 655,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-30/656/20261030003399_20261030173538.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E7%8D%A8%E5%AE%B6-%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E5%90%8A%E8%BB%8A%E4%B8%80%E8%BD%89-%E6%93%8A%E7%A0%B4%E5%85%AC%E8%BB%8A%E7%8E%BB%E7%92%83-%E5%9A%87%E5%A3%9E%E4%B9%98%E5%AE%A2-newsebc/vi-AA2gtB7K": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E7%88%86%E6%B7%B1%E5%A4%9C%E5%8D%B1%E6%A9%9F-%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E9%81%AD%E4%BA%AE%E5%88%80%E6%81%90%E5%9A%87-%E9%8F%A1%E6%96%B0%E8%81%9E-084042772.html": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T16:40+08:00",
+   "site_name": "Yahoo News",
+   "description": "台北市大安東區商圈10/30清晨發生持刀糾紛，一名貨車駕駛疑似因為行車糾紛，遭到另一名司機當場持刀威脅，甚至恐嚇飆罵，害的貨車駕駛只能原地求饒。不過這名動手的男子身分也被起底，原來他是清晨負責協助商圈回收垃圾的清運業者。",
+   "cities": {
+    "台北市": 25,
+    "嘉義縣": 3,
+    "台中市": 2,
+    "新竹": 1
+   },
+   "districts": [
+    "東區商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 2725,
+   "image": "https://s.yimg.com/lo/mysterio/api/6b4cd41fae74732cbe303f972e1390a7780467fafcf6968d382701c22d4fe128/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmnews_tw_258%2F928a06b8c7ba1b459bde4bfcff210356",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E8%BD%89%E6%88%B0%E8%BF%AA%E5%8C%96%E5%95%86%E5%9C%88%E7%82%BA%E8%94%A3%E8%90%AC%E5%AE%89%E6%8B%9C%E7%A5%A8-%E6%B0%91%E7%9C%BE%E8%87%AA%E7%99%BC%E7%BE%A4%E8%81%9A%E8%B7%9F%E9%9A%A8%E7%9F%B3%E8%88%AB%E4%BA%98%E8%A6%81%E6%B1%82%E6%8B%8D%E7%85%A7-091625527.html": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T17:16+08:00",
+   "site_name": "Yahoo News",
+   "description": "台北市長選戰倒數28天，市長蔣萬安妻子石舫亘為夫掃街拜票行程今（10/31）轉戰大稻埕老街（迪化商圈）。但即便在屬綠營優勢的大同區，石仍展現連日來的拜票旋風，甚至只要一停下腳步，就有人群會湧上要求拍照，人氣暢旺。",
+   "cities": {
+    "台北市": 39,
+    "新竹": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 3522,
+   "image": "https://s.yimg.com/lo/mysterio/api/8b2ef970328cfd4a6e89aa48671c784bb255ad6926a611996e3b2883a1bed342/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Ftaisounds_com_380%2F3ed922de48bf2f790783b3c71fed1519.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E7%8D%A8%E5%AE%B6-%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E7%88%86%E6%B7%B1%E5%A4%9C%E5%8D%B1%E6%A9%9F-%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E9%81%AD%E4%BA%AE%E5%88%80%E6%81%90%E5%9A%87-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gsHH6": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://estate.ltn.com.tw/article/29188": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T17:16+08:00",
+   "site_name": "自由時報電子報",
+   "description": "桃園小檜溪重劃區迎來首座大型商場，置地生活廣場小檜溪店進駐國泰小檜溪商業大樓，成為桃園首座複合式商辦內的商場，也為過去主要仰賴大業、大有商圈的區域增加消費機能，隨著商業設施進駐，小檜溪住宅市場也受到關注，目前房價約48萬～60萬元，專家認為，隨企業進駐、就業",
+   "cities": {
+    "桃園市": 12
+   },
+   "districts": [],
+   "body_chars": 1143,
+   "image": "https://img.ltn.com.tw/Upload/house/page/2026/10/30/261030-29188-1-WKosz.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/money/%E4%B8%BB%E7%AE%A1%E9%A0%98%E5%B0%8E%E8%83%BD%E5%8A%9B%E5%92%8C%E7%AE%A1%E7%90%86/%E5%91%82%E6%94%BF%E7%92%8B%E5%87%BA%E4%BB%BB%E5%A8%81%E7%A7%80%E5%BD%B1%E5%9F%8E%E8%91%A3%E5%BA%A7-%E6%8E%A8%E5%8B%95%E5%95%86%E5%9C%88%E5%85%B1%E6%A6%AE-%E4%BA%BA%E6%BD%AE%E5%85%B1%E4%BA%AB/ar-AA2goBMn": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://tw.stock.yahoo.com/news/%E5%8E%9F%E6%9C%AC%E4%BB%B0%E8%B3%B4%E9%9A%94%E5%A3%81%E5%95%86%E5%9C%88-%E6%A1%83%E5%9C%92%E9%80%99%E5%8D%80%E7%B5%82%E6%96%BC%E6%9C%89%E5%95%86%E5%A0%B4-%E6%88%BF%E5%83%B9%E5%B7%B2%E9%80%BC%E8%BF%916%E5%AD%97%E9%A0%AD-091600570.html": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T17:16+08:00",
+   "site_name": "Yahoo News",
+   "description": "桃園小檜溪重劃區迎來首座大型商場，置地生活廣場小檜溪店進駐國泰小檜溪商業大樓，成為桃園首座複合式商辦內的商場，也為過去主要仰賴大業、大有商圈的區域增加消費機能，隨著商業設施進駐，小檜溪住宅市場也受到關注，目前房價約48萬～60萬元，專家認為，隨企業進駐、就業",
+   "cities": {
+    "桃園市": 12,
+    "台北市": 2,
+    "台中市": 2
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://s.yimg.com/lo/mysterio/api/ff9333c519925e901dca8426ab3aa6ad743a7a7d079a6b2672faed6109f38e61/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Festate.com.tw%2F5d03b56ac9a69df4c880cc841422c739.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taiwanhot.net/news/1152599/%E6%A1%83%E5%B8%82%E5%BA%9C%E6%93%B4%E5%A4%A7%E8%A1%8C%E9%8A%B7%E5%A4%A7%E6%BA%AA%E9%9F%AD%E8%8F%9C+%E6%A1%83%E5%9C%92%E5%A5%BD%E8%BE%B2%E5%BF%AB%E9%96%83%E8%80%81%E8%A1%97%E7%99%BB%E5%A0%B4": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "台灣好新聞",
+   "description": "桃園大溪是北臺灣重要韭菜產區，其中中庄地區最具代表性。為延續9月韭菜花季熱度，擴大行銷在地農產，桃園市政府農業局加碼推出「桃園好農．大溪韭菜」快閃活動，首波已於10月9日至11日國慶連假登場，第二波則於今（31）日及11月1日接力舉行，在大溪老街和平路設置快閃攤位，集結在地農友及特色加工產品，推出韭",
+   "cities": {
+    "桃園市": 17
+   },
+   "districts": [],
+   "body_chars": 1340,
+   "image": "https://www.taiwanhot.net/cache/1315549/lg/medias-20261031-6ae5a7a160693.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://n.yam.com/Article/20261031851677": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T18:13+08:00",
+   "site_name": "蕃新聞",
+   "description": "報新聞/編輯部台中物調券第二波10月30日熱鬧登場！全市21處商圈下午接力發放，多數商圈開放兌換後約",
+   "cities": {
+    "台中市": 7,
+    "桃園市": 1
+   },
+   "districts": [
+    "美術園道商圈（台中市）",
+    "天津路服飾商圈（台中市）",
+    "后里泰安商圈（台中市）",
+    "台中港舶來品商圈（台中市）"
+   ],
+   "body_chars": 1182,
+   "image": "https://ni.yam.com/20261031/taichung-cover-261031051750283-846faa12328680e1.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/money/%E4%B8%80%E8%88%AC/%E5%8F%B0%E5%8D%97%E4%BF%9D%E5%AE%89%E8%B7%AF%E5%90%8D%E5%BA%97-%E9%98%BF%E6%98%8E%E8%B1%AC%E5%BF%83-%E7%AA%81%E5%85%AC%E5%91%8A%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E6%A5%AD-%E8%80%81%E9%A5%95%E5%BF%83%E7%A2%8E%E5%90%83%E4%B8%8D%E5%88%B0%E5%BF%85%E6%AF%94%E7%99%BB%E6%8E%A8%E8%96%A6-%E5%85%A7%E8%87%9F%E7%95%8C%E7%9A%84lv-%E9%A0%AD%E6%A2%9D600%E7%A7%92/vi-AA2gjbhG": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.contentplatform.info/articles/557107/%E5%8F%B0%E5%8D%97%E8%B3%BC%E7%89%A9%E7%AF%80%E7%99%BB%E9%8C%84%E7%A0%B430%E5%84%84%E5%85%83%E3%80%8011%E6%9C%88%E5%95%86%E5%9C%88%E6%B4%BB%E5%8B%95%E3%80%81%E8%81%96%E8%AA%95%E9%BB%9E%E7%87%88/": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T17:33+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "「2026臺南購物節」自9月7日開跑以來，民眾參與熱度持續升溫，累計消費登錄金額已突破30億元！隨著雙11購物檔期及百貨週年慶陸續登場，11月臺南還有一系列精彩商圈活動、聖誕點燈及文化展演接力登場。臺南秋冬氣候宜人，少了夏日的炙熱，多了適合漫步街巷的愜意，正是出遊走訪臺南的極佳時機！臺南市政府邀請…",
+   "cities": {
+    "台南市": 25
+   },
+   "districts": [
+    "楠西商圈（台南市）"
+   ],
+   "body_chars": 1218,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/31154412/tainan-cover-261031074410744.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://more-news.tw/756650/": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T17:58+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "[台灣新聞雲報]記者王俊欽/花蓮報導 　2026「萌鬼返校日」萬聖節活動一連兩天在花蓮市登場，小朋友化身南瓜、 […]",
+   "cities": {
+    "花蓮縣": 23,
+    "嘉義市": 2
+   },
+   "districts": [
+    "在地商圈（南投縣）",
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 1213,
+   "image": "https://img1.fclnews.com/wp-content/uploads/2026/10/20261031171909_93.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-28/2509249.html": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T18:56+08:00",
+   "site_name": "壹電視",
+   "description": "七月爆發中聯食用油風暴，至今盤商庫存幾乎見底，甚至有人發現一桶18公升食用油，已翻倍漲到1500元。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 325,
+   "image": "https://image.nexttv.com.tw/material/news/img/2026/10/202610281841373QZm.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/Zapom5N": {
+   "checked_at": "2026-10-31T18:59+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T16:27+08:00",
+   "site_name": "LINE TODAY",
+   "description": "〔記者何玉華／台北報導〕台北市長蔣萬安今(31日)身體不適後首露面，與太太石舫亘分進合擊。蔣萬安出席電視辯論會後，趕場出席市議員候選人李傅鈺...",
+   "cities": {
+    "台北市": 5
+   },
+   "districts": [],
+   "body_chars": 437,
+   "image": "https://today-obs.line-scdn.net/0hSzSIFtskDFVuMBDXy6ZzAlZmACRdVhZcTARLZ05gVTAUHB8BBQFfNhkyW3lKBUkATgUTNk4zUmEUB04DBw/w1200",
    "image_checked": true,
    "date_hint": "2026-10-31",
    "date_hint_from": "原文時間"

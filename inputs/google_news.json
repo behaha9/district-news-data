@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-10-31T16:50:17+08:00",
+ "fetched_at": "2026-10-31T18:59:38+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 119,
-  "kept": 47,
-  "resolved": 47,
-  "items": 45,
+  "raw": 125,
+  "kept": 49,
+  "resolved": 49,
+  "items": 47,
   "resolve_this_run": {
-   "online": 4
+   "online": 6
   },
   "dropped_old": [
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
@@ -16,6 +16,76 @@
   ]
  },
  "items": [
+  {
+   "title": "萌鬼變裝踩街趣 花蓮親子同樂串聯商圈活力",
+   "google_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9zcWZwbFdCWEx2VFJjWEU4bkM4dUV5SGgwNnZFYWluZW5mZmw4OVNva3YzSzNpaUVQaE0zNkRkanNnVWItVlE?oc=5",
+   "source": "台灣新聞雲報",
+   "source_site": "https://www.fclnews.com",
+   "published_at": "2026-10-31T17:31+08:00",
+   "query": "商圈",
+   "url": "https://www.fclnews.com/235170/",
+   "resolved": true
+  },
+  {
+   "title": "原本仰賴隔壁商圈！桃園這區終於有商場 房價已逼近6字頭",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KU3RtVXdVY1E5TmhiNnUwQTEzQ1R1NUFNYWozS0d2dVdJNDRJalNTaXlOTjZIbnptakFhcmViSG1WSnBCOXkzcy1idzZ2bzhV?oc=5",
+   "source": "自由時報",
+   "source_site": "https://estate.ltn.com.tw",
+   "published_at": "2026-10-31T17:16+08:00",
+   "query": "商圈",
+   "url": "https://estate.ltn.com.tw/article/29188",
+   "resolved": true
+  },
+  {
+   "title": "轉戰迪化商圈為蔣萬安拜票民眾自發群聚跟隨石舫亘要求拍照| 縣市長選舉",
+   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzZG9QRWZnWWY5S0lLU1NudkJQQ3RlMURIR1c3S0ZWdC1ibDJMX096X2dibTVtRFJUVjAyUWZHR29uNERtVzdtV3hQU0RVTGFTTnFOTWh2aGZkS1FRM1E?oc=5",
+   "source": "太報 TaiSounds",
+   "source_site": "https://www.taisounds.com",
+   "published_at": "2026-10-31T17:16+08:00",
+   "query": "商圈",
+   "url": "https://www.taisounds.com/news/content/133/297151",
+   "resolved": true
+  },
+  {
+   "title": "桃市府擴大行銷大溪韭菜 桃園好農快閃老街登場",
+   "google_url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPcDRzemp3QmNmS01QakRVVnBISVl4TnpxR1pLYzJteEppdHVLYWt6Y215U0RUYk1CcWJVY3FzY0dxWHdFdE9NTjNtZHN6N1hCdHczWm5EVXRoSTlpRUFIU3pyYnVXNkI2azhIQkpLa3AxYldXbG5xaHN5b0lLbnhkTDBxSmZ4WWhUSFBwRHRuOFpFZE00SlV2Z21lNGZJakFfY0xrU1diakdoaERwN0FhV2dkNUJodlR2bTJqX2dvUnpvY3NUZS1ZVi05S3FDLUxFOGxBVDUzb1ROd21XQlRzWmVEVXRtaEVwYXo2SW82VGotZ21ONDN3a1daNXVqN2pTcFdDeUI5Q0I2NEJ5WGhqNVcxMVRFREZsQ2VPN1FueVRiUXduZXV5aHRubjdmYjBLaWFJX3Voc3M4RWROQjVuazhwWXYtdUxYX2xaV3Z3?oc=5",
+   "source": "台灣好新聞",
+   "source_site": "https://www.taiwanhot.net",
+   "published_at": "2026-10-31T17:03+08:00",
+   "query": "老街",
+   "url": "https://www.taiwanhot.net/news/1152599/%E6%A1%83%E5%B8%82%E5%BA%9C%E6%93%B4%E5%A4%A7%E8%A1%8C%E9%8A%B7%E5%A4%A7%E6%BA%AA%E9%9F%AD%E8%8F%9C+%E6%A1%83%E5%9C%92%E5%A5%BD%E8%BE%B2%E5%BF%AB%E9%96%83%E8%80%81%E8%A1%97%E7%99%BB%E5%A0%B4",
+   "resolved": true
+  },
+  {
+   "title": "獨家／東區商圈爆深夜危機！ 貨車司機遭亮刀恐嚇｜#鏡新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPOXhsRzdaYmgydlc0S2kxLXZWZzZGZ2ozaExCaWlCYUVRNENZOW1EOWZyMEJNZlRaTGlTanQyNDNPczJiU2d3Vk9kUnpqOGNBaHFrSGFJcmZrRGVPTFlrZ01JV3ZSSHZwRFlfMi01d29EbnhGaXA0b1N4RUdwTFQwQ09ZNnpsWk5pblJlSTBGeWpXMnk5bnFEVGdkdUhDOXBmblBhM2pGRE5kd0todW5iVkZFNlZLOHF3N1BRX1psZzNLZ1ptUUxNQUhUdFlMdjAzelhrRk1iSWRsNC16THRIQWliU2lyNnYwbnpONDBQdV9vOHpSVjR2Rkd4b25aMGh1ejBLQWFsUWd4ZHZSc0x2R2N5S3dGUXg4ck1RbW4tQTE1NnZ2MFQ0VkpyaDBGYm5Ib29CNXhlcEVXSTNaWDEtaEp1c1pWWXp3UG9vbzRPR1lXc2h3VHoxUThCdTAyVXlGaVRibXR4TFFWMHM?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-10-31T16:40+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E7%88%86%E6%B7%B1%E5%A4%9C%E5%8D%B1%E6%A9%9F-%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E9%81%AD%E4%BA%AE%E5%88%80%E6%81%90%E5%9A%87-%E9%8F%A1%E6%96%B0%E8%81%9E-084042772.html",
+   "resolved": true
+  },
+  {
+   "title": "蔣萬安忙辯論！石舫亘續拚陸戰 大稻埕迪化商圈搶票",
+   "google_url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOcFFRS2g0Zkk4ckp2QTRfdjNuM05aSHI0T19yOVlwemc4LXFOaXJkS3JmNFQ0dG1JMlVrcXN2bnRURktJLTM0VmdYVEVZd0YzRUNBM3BBakp4MDllSDE4R1hDa2hlZE1ON2hJTTdmd2FLVnpjQkQ4dUQ5Nkw3Q0tzWWxsaV9td0N2ZUF1MEh2OC1NNjVZZ3AwNEVPeEt2RnNZU25SejlRQ0JGNjZIRW9GTGVrZy1BWkN1Q2NXWm91RTk4YTYzSTRfX3JueFlxVENBZ1h3Y1U1eTJzMWVZSjFOeklLaWY5LWg0RDJldGktS1B2bElSakZYdlFXZ0xHdjh2bnI1dkRQLVFZREdMLTdlR0ZWSGpvLXMwTFN3LUdwajRxTm5QSGZHNkFhRldnMUJpMHdINUxjdnV6ZFM5VEVqX0w2RDh6MmJ2eDJ2eFVZRjJsQTVWQUdMQXIyU1UydXFqenh0SElpSGl1b29wN1VGX2JzQldxdkhiSkJQR0NB?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-10-31T16:28+08:00",
+   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
+   "url": "https://tw.news.yahoo.com/%E7%9B%B4%E6%92%AD-%E8%94%A3%E8%90%AC%E5%AE%89%E5%BF%99%E8%BE%AF%E8%AB%96-%E7%9F%B3%E8%88%AB%E4%BA%98%E7%BA%8C%E6%8B%9A%E9%99%B8%E6%88%B0-15-30%E5%A4%A7%E7%A8%BB%E5%9F%95%E8%BF%AA%E5%8C%96%E5%95%86%E5%9C%88%E6%90%B6%E7%A5%A8-020100691.html",
+   "resolved": true
+  },
+  {
+   "title": "蔣萬安辯論會後趕場站台議員競總成立 石舫亘首赴迪化商圈拜票 | 自由電子報",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iVS1xRDdZLXBhWVYzR0owVXVBMFJkaGhEZC16OUZGWURfWDBmQU5oWWx2SXF1Y0FfemR2X0NRdjY0WTVleFNQdTQzTktfU1FzOXBMcGFB?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-10-31T16:28+08:00",
+   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
+   "url": "https://today.line.me/tw/v3/article/Zapom5N",
+   "resolved": true
+  },
   {
    "title": "蔣萬安辯論會後趕場站台議員競總成立 石舫亘首赴迪化商圈拜票",
    "google_url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNLW40MUlzbU5YZDVfQ1VPZTB3SDBWZ0xHVVJDbHNYckhQS3dNOUVFWHEwTlppMDhyXy16UFJCQWpSTnYxYnNVQVpVWXlwRDNlbGk3ekdtOGJLME1PZ2hEX2NHRVc2bHNWY0piajRZbzJmOC1Sc256U2o0aVdrNEFXdkp5WFhXbllTdTBDVVkwTkN1MnM2ZTl5dTUzSVd0M2p2WTl5MGVzczRWdEtHNDR1MDlHRDRsblMyQUVGVjd1OS1uelhJVTAwTC1YV3c0MjlidXlybGxuRFFqQUFuQ1FHZmFPZC0xRUJ6WkpjelFaVWxldHpVUGN6Rlpab1FENF9oMDcyQlR5aC1vcS1JUnhOQ2Nkd3p3cEtUWXhoYlB6RHVreWdVcXhMZTQ2WEF0SjREYUN5dHZzOHZSeEU2Sm9JVGczMUNLX2N1ZEZtMC1BZVV2TUdsb2NIc3lJNUdWa0lOS1U1MlNRRWY1T3ltWlhVenpKZ3VaaklpWC1RN1ZTZHNMbm1nX202bTZYR1FsRmpoS0hXVEJLU2Eyd3hIS09JQU95U04?oc=5",
@@ -414,56 +484,6 @@
    "published_at": "2026-10-29T19:10+08:00",
    "query": "商圈",
    "url": "https://news.cnyes.com/news/print/6640627",
-   "resolved": true
-  },
-  {
-   "title": "沈伯洋慈祐宮參香憶童年 提「串聯商圈」新願景 | 華視新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81MWthcEROVW12MmJmZDVtMjgzY3BNNDBLX0ZNakNjTTRQT2Z3WlZhTHJ5MWlBZ0lhbUF5cEpzVmFkenhYRmRVVldBUElWUFN4YWR2bC13?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-10-29T18:48+08:00",
-   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
-   "url": "https://today.line.me/tw/v3/article/YapgyoP",
-   "resolved": true
-  },
-  {
-   "title": "廈門圖輯》曾厝垵不只有美食老街走過魚骨天橋看海、尋訪百年漁村與水上飛機場歷史| 台灣好新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pUm8zT2R3VmVLVElpOHoyZ25pY2lCUVFBOEtsdEZNdXBsck5IMmRzVWctV09MZkFoQVJZTmpzandXZHp5bGFpem1IdlIyV2ZaSGx6U2JXMEN5RW1CUGlmTEtQVmdDSVpZdnRkaHdEN3REUzhuUmg0?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-10-29T18:41+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/article/aGpo2RP?referral=TOPIC-flowering",
-   "resolved": true
-  },
-  {
-   "title": "沈伯洋慈祐宮參香憶童年提「串聯商圈」新願景- 政治",
-   "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fdVcwS1FCOWxXZkJHUHNNYkJZc0pMcWl4X0RlbGFMWHFJMkJoQVNmVzhseUhxcTJDbjNkUTR4NmZ3NmN1Q3llVjdQbEllTTM5bURYZUtQNUx4UW1VVV9XZVo2cENOMzhJbDZQNEVMZy1CUQ?oc=5",
-   "source": "華視新聞網",
-   "source_site": "https://news.cts.com.tw",
-   "published_at": "2026-10-29T18:15+08:00",
-   "query": "商圈",
-   "url": "https://news.cts.com.tw/cts/politics/202610/202610293095305.html",
-   "resolved": true
-  },
-  {
-   "title": "呂政璋出任威秀影城董事長盼串連商圈落實共榮| 娛樂",
-   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hSkJIcUZVbTdXbGxwOFptMm11RnB5UHpQRzJGQ1prdWRqdk94UVh1d1VzRHlaNFZHRlNQSDNncXdVX1ZTQkRqcEhtcnp6VHd4Y0QtX0RpR1lxMlphX1ZB?oc=5",
-   "source": "中央社 CNA",
-   "source_site": "https://www.cna.com.tw",
-   "published_at": "2026-10-29T17:33+08:00",
-   "query": "商圈",
-   "url": "https://www.cna.com.tw/news/amov/202610290281.aspx",
-   "resolved": true
-  },
-  {
-   "title": "宜蘭友愛百貨傳求售！從昔日商業地標到轉型十字路口 舊城商圈能否再現繁華？",
-   "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96YXNLNm1vbURCcGIyaVlVRnhpalJuZW1qeGE3WU02S0NuVU1HcUs2WFNzcDYtREhaQWtwSnpET1VIU2ZJREN5MVVPTkk3YTFpaUdrTzZMVQ?oc=5",
-   "source": "觀傳媒",
-   "source_site": "https://www.watchmedia01.com",
-   "published_at": "2026-10-29T17:19+08:00",
-   "query": "商圈",
-   "url": "https://www.watchmedia01.com/archives/564050",
    "resolved": true
   }
  ]
