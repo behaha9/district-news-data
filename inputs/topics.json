@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T08:13:51+08:00",
+ "updated_at": "2026-11-01T12:17:49+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,24 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "食用油缺貨又漲價 桶裝油飆破千元",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5SDduVzRfRl9KRDFnRVlScGV0SkNieEplaVQ1amhxNW9rVDN0WEFvVm5JY00zUTN0YWE1TmRrSmg3QmNEbWdTT2VlRlU5UWpfOGJpOXR4bzBwRVpicHdBcThZSWtMMWc?oc=5",
+     "source": "人間福報電子報",
+     "published_at": "2026-11-01T09:08+08:00",
+     "url": "https://www.merit-times.com.tw/NewsPage.aspx?unid=945504",
+     "resolved": true
+    },
+    {
+     "title": "食用油漲價！桶裝沙拉油「飆破千元」還買不到 小吃業者喊苦",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOdVJIRnVSZ1dsOWtfSG5VRUVFVTdXMkkzRWRuRVhwNEYyWUpRb1pKdVQ5dzU0SlV5ZVpYRHpJT2lVZHRjRmhueTZJVVViRG9MZ1BEYm1iTXJyTEVOZFliQVExeFBHQUwzT1Rjb3VHY0Y3SlNLRElMQVk2RDJ1RE9HU0J3ekhycWljRVFVMjliSjlSMXdkUG9SVVZYbm11TF9qTTJWQlR1U2kyeVJoSTJmUDl4NnlnWllZb25XTmtDVm80U21FZlNmd2d5UnRfaExxMmtnekR2N0VlZ1Y0dXlzVTBWNDV3R2lWMi1tVjRKTXJfNG9jQWRSTUs5WmEwSGJqR0ZUTnFoMWJLbHBHUnZyS1VDbU1zMkpJNDdJYTBRcXByQllja0JQcmpWMURXV3MxOGVVSHFEbFpVVy1aRi03eDE5cTZfTjEzWGpwczNXXzNlMGVfS00tQ1p1QTBmdFB6V3U5bVlwcFRVQlIyYl9TaTJWcFZmZ1VS?oc=5",
+     "source": "Yahoo新聞",
+     "published_at": "2026-11-01T08:34+08:00",
+     "url": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9-%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E9%82%84%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%B0%8F%E5%90%83%E6%A5%AD%E8%80%85%E5%96%8A%E8%8B%A6-002139363.html",
+     "resolved": true
+    },
     {
      "title": "台糖粗油採購案流標！市場吃緊 沙拉油缺口難補",
      "kind": "價格動態",
@@ -132,6 +150,15 @@
      "source": "經濟日報",
      "published_at": "2026-10-30T15:52+08:00",
      "url": "https://money.udn.com/money/amp/story/7307/9847302",
+     "resolved": true
+    },
+    {
+     "title": "中聯油脂停工，經濟部如何確保中小業者能穩定取得沙拉油？",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDctNXFqNnZlVjl5NHFyaWlMeDVEMTlHS0MteW84T0MyV3QyUG92aFdSaG9zc1hGRnlGcUx5LUJDVU5vektjRlBaSXA2dEk3dnMtUWhvZHRCbEtVSmZVM2psWkFqdVpadDFrVjJmaDBNRmJ2Q3NqVnVRUXVBT2VPOWZyaE5HdTMwSVZJMDRqZmM5SFAyeGo2dW9B?oc=5",
+     "source": "UDN",
+     "published_at": "2026-10-30T10:19+08:00",
+     "url": "https://udn.com/news/ai/answer/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-59279377",
      "resolved": true
     },
     {

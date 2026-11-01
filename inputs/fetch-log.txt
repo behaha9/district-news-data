@@ -1,7 +1,7 @@
-00:13:41 attempt=1 code=200 url=https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d bytes=126865
-重點商圈查詢：第 264–363 處（共 281 處），新增 3 則，失敗 34 處；目前保留 78 則
-Google 新聞：查詢 5／5，原始 149 則，標題相關 50 則，保留 50 則，已還原原文網址 50 則；本次還原 {}；錯誤 []
-關注議題：食用油：Google 120 則，新增 4 則，保留 24 則 {'價格動態': 16, '店家相關': 8}
+04:17:37 attempt=1 code=200 url=https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d bytes=71213
+重點商圈查詢：第 83–182 處（共 281 處），新增 3 則，失敗 0 處；目前保留 81 則
+Google 新聞：查詢 5／5，原始 150 則，標題相關 50 則，保留 50 則，已還原原文網址 50 則；本次還原 {'online': 7}；錯誤 []
+關注議題：食用油：Google 123 則，新增 4 則，保留 27 則 {'價格動態': 17, '店家相關': 10}
 Google 新聞移除舊聞： 嘉義雲海季推數位集章 跨區玩山林步道、部落與老街（原文日期 2020-08-22）；台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）
-原文預抓：新抓 9／9，成功 9；快取共 476 篇；縮圖 766 張
-00:13:57 filter_candidates exit=0
+原文預抓：新抓 22／22，成功 20；快取共 480 篇；縮圖 778 張
+04:18:05 filter_candidates exit=0
