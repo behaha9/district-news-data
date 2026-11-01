@@ -1,104 +1,112 @@
 {
- "schema_version": 1,
- "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
- "updated_at": "2026-11-01T13:40:00+08:00",
- "topics": {
-  "cooking-oil": {
-   "groups": [
-    {
-     "id": "20261101-taisugar-tender",
-     "note": "台糖粗油採購案流標",
-     "representative": "https://tw.news.yahoo.com/%E5%8F%B0%E7%B3%96%E7%B2%97%E6%B2%B9%E6%8E%A1%E8%B3%BC%E6%A1%88%E6%B5%81%E6%A8%99-%E5%B8%82%E5%A0%B4%E5%90%83%E7%B7%8A-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E9%9B%A3%E8%A3%9C-223229348.html",
-     "urls": [
-      "https://tw.news.yahoo.com/%E5%8F%B0%E7%B3%96%E7%B2%97%E6%B2%B9%E6%8E%A1%E8%B3%BC%E6%A1%88%E6%B5%81%E6%A8%99-%E5%B8%82%E5%A0%B4%E5%90%83%E7%B7%8A-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E9%9B%A3%E8%A3%9C-223229348.html",
-      "https://today.line.me/tw/v3/article/Kw7mLrN"
-     ]
-    },
-    {
-     "id": "20261031-snack-shops-no-oil",
-     "note": "桶裝沙拉油破千、小吃店買不到",
-     "representative": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8%E5%8F%88%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E5%B0%8F%E5%90%83%E5%BA%97%E5%93%80%E8%99%9F%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%BF%AB%E6%AF%94%E7%99%BB%E5%A4%A9%E9%9B%A3-095050772.html",
-     "urls": [
-      "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8%E5%8F%88%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E5%B0%8F%E5%90%83%E5%BA%97%E5%93%80%E8%99%9F%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%BF%AB%E6%AF%94%E7%99%BB%E5%A4%A9%E9%9B%A3-095050772.html",
-      "https://today.line.me/tw/v3/posts/list/article/oqp7WNy",
-      "https://www.merit-times.com.tw/NewsPage.aspx?unid=945504",
-      "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9-%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E9%82%84%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%B0%8F%E5%90%83%E6%A5%AD%E8%80%85%E5%96%8A%E8%8B%A6-002139363.html",
-      "https://udn.com/news/amp/story/7266/9849473"
-     ]
-    },
-    {
-     "id": "20261030-moea-import-gap",
-     "note": "經濟部：缺口仍大，第4季擴大進口",
-     "representative": "https://www.cna.com.tw/news/afe/202610300234.aspx",
-     "urls": [
-      "https://www.cna.com.tw/news/afe/202610300234.aspx",
-      "https://today.line.me/tw/v3/posts/list/article/zNM1E2j",
-      "https://www.cdns.com.tw/articles/1482837",
-      "https://today.line.me/tw/v3/posts/list/article/MLBYa8M",
-      "https://tw.news.yahoo.com/%E5%9C%8B%E5%85%A7%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35-000%E5%99%B8-121221255.html",
-      "https://www.chinatimes.com/realtimenews/20261030003398-260410",
-      "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%8D%94%E8%AA%BF%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35000%E5%99%B8-090547595.html",
-      "https://udn.com/news/amp/story/7238/9847358",
-      "https://money.udn.com/money/amp/story/7307/9847302"
-     ]
-    },
-    {
-     "id": "20261028-fried-chicken-vendors",
-     "note": "鹹酥雞業者有錢買嘸油",
-     "representative": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-28/2509249.html",
-     "urls": [
-      "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-28/2509249.html"
-     ]
-    },
-    {
-     "id": "20261028-carcinogen-inspection",
-     "note": "中聯沙拉油致癌物超標，北市衛生局查核業者",
-     "representative": "https://today.line.me/tw/v3/posts/list/article/zNWLga6",
-     "urls": [
-      "https://today.line.me/tw/v3/posts/list/article/zNWLga6"
-     ]
-    },
-    {
-     "id": "20261026-chunglien-resume-denied",
-     "note": "中聯油脂兩度申請復工遭駁回",
-     "representative": "https://news.pts.org.tw/article/833042",
-     "urls": [
-      "https://news.pts.org.tw/article/833042",
-      "https://news.pts.org.tw/video/22788"
-     ]
-    },
-    {
-     "id": "20261026-school-lunch",
-     "note": "油荒波及校園午餐、每人限買1桶",
-     "representative": "https://news.tvbs.com.tw/life/4041024",
-     "urls": [
-      "https://news.tvbs.com.tw/life/4041024",
-      "https://udn.com/news/story/7266/9835468"
-     ]
-    },
-    {
-     "id": "20261025-moea-q4-import",
-     "note": "經濟部：第四季可擴大進口5千噸",
-     "representative": "https://udn.com/news/story/7266/9835478",
-     "urls": [
-      "https://udn.com/news/story/7266/9835478"
-     ]
+  "schema_version": 1,
+  "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
+  "updated_at": "2026-11-01T17:05:00+08:00",
+  "topics": {
+    "cooking-oil": {
+      "groups": [
+        {
+          "id": "20261101-yearend-banquet",
+          "note": "沙拉油荒恐衝擊尾牙、年菜並帶動價格上漲",
+          "representative": "https://news.ebc.net.tw/news/living/578529",
+          "urls": [
+            "https://news.ebc.net.tw/news/living/578529"
+          ]
+        },
+        {
+          "id": "20261101-taisugar-tender",
+          "note": "台糖粗油採購案流標",
+          "representative": "https://tw.news.yahoo.com/%E5%8F%B0%E7%B3%96%E7%B2%97%E6%B2%B9%E6%8E%A1%E8%B3%BC%E6%A1%88%E6%B5%81%E6%A8%99-%E5%B8%82%E5%A0%B4%E5%90%83%E7%B7%8A-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E9%9B%A3%E8%A3%9C-223229348.html",
+          "urls": [
+            "https://tw.news.yahoo.com/%E5%8F%B0%E7%B3%96%E7%B2%97%E6%B2%B9%E6%8E%A1%E8%B3%BC%E6%A1%88%E6%B5%81%E6%A8%99-%E5%B8%82%E5%A0%B4%E5%90%83%E7%B7%8A-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E9%9B%A3%E8%A3%9C-223229348.html",
+            "https://today.line.me/tw/v3/article/Kw7mLrN"
+          ]
+        },
+        {
+          "id": "20261031-snack-shops-no-oil",
+          "note": "桶裝沙拉油破千、小吃店買不到",
+          "representative": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8%E5%8F%88%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E5%B0%8F%E5%90%83%E5%BA%97%E5%93%80%E8%99%9F%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%BF%AB%E6%AF%94%E7%99%BB%E5%A4%A9%E9%9B%A3-095050772.html",
+          "urls": [
+            "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8%E5%8F%88%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E5%B0%8F%E5%90%83%E5%BA%97%E5%93%80%E8%99%9F%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%BF%AB%E6%AF%94%E7%99%BB%E5%A4%A9%E9%9B%A3-095050772.html",
+            "https://today.line.me/tw/v3/posts/list/article/oqp7WNy",
+            "https://www.merit-times.com.tw/NewsPage.aspx?unid=945504",
+            "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9-%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E9%82%84%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%B0%8F%E5%90%83%E6%A5%AD%E8%80%85%E5%96%8A%E8%8B%A6-002139363.html",
+            "https://udn.com/news/amp/story/7266/9849473"
+          ]
+        },
+        {
+          "id": "20261030-moea-import-gap",
+          "note": "經濟部：缺口仍大，第4季擴大進口",
+          "representative": "https://www.cna.com.tw/news/afe/202610300234.aspx",
+          "urls": [
+            "https://www.cna.com.tw/news/afe/202610300234.aspx",
+            "https://today.line.me/tw/v3/posts/list/article/zNM1E2j",
+            "https://www.cdns.com.tw/articles/1482837",
+            "https://today.line.me/tw/v3/posts/list/article/MLBYa8M",
+            "https://tw.news.yahoo.com/%E5%9C%8B%E5%85%A7%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35-000%E5%99%B8-121221255.html",
+            "https://www.chinatimes.com/realtimenews/20261030003398-260410",
+            "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%8D%94%E8%AA%BF%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35000%E5%99%B8-090547595.html",
+            "https://udn.com/news/amp/story/7238/9847358",
+            "https://money.udn.com/money/amp/story/7307/9847302"
+          ]
+        },
+        {
+          "id": "20261028-fried-chicken-vendors",
+          "note": "鹹酥雞業者有錢買嘸油",
+          "representative": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-28/2509249.html",
+          "urls": [
+            "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-28/2509249.html"
+          ]
+        },
+        {
+          "id": "20261028-carcinogen-inspection",
+          "note": "中聯沙拉油致癌物超標，北市衛生局查核業者",
+          "representative": "https://today.line.me/tw/v3/posts/list/article/zNWLga6",
+          "urls": [
+            "https://today.line.me/tw/v3/posts/list/article/zNWLga6"
+          ]
+        },
+        {
+          "id": "20261026-chunglien-resume-denied",
+          "note": "中聯油脂兩度申請復工遭駁回",
+          "representative": "https://news.pts.org.tw/article/833042",
+          "urls": [
+            "https://news.pts.org.tw/article/833042",
+            "https://news.pts.org.tw/video/22788"
+          ]
+        },
+        {
+          "id": "20261026-school-lunch",
+          "note": "油荒波及校園午餐、每人限買1桶",
+          "representative": "https://news.tvbs.com.tw/life/4041024",
+          "urls": [
+            "https://news.tvbs.com.tw/life/4041024",
+            "https://udn.com/news/story/7266/9835468"
+          ]
+        },
+        {
+          "id": "20261025-moea-q4-import",
+          "note": "經濟部：第四季可擴大進口5千噸",
+          "representative": "https://udn.com/news/story/7266/9835478",
+          "urls": [
+            "https://udn.com/news/story/7266/9835478"
+          ]
+        }
+      ],
+      "exclude": [
+        {
+          "url": "https://www.crntt.tw/doc/docDetail.jsp?coluid=92&kindid=0&docid=160282749",
+          "reason": "非臺灣媒體（中評社）"
+        },
+        {
+          "url": "https://udn.com/news/ai/answer/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-59279377",
+          "reason": "聯合新聞網 AI 問答頁，非新聞報導"
+        },
+        {
+          "url": "https://udn.com/news/ai/answer/%E7%B6%93%E6%BF%9F%E9%83%A8%E5%A6%82%E4%BD%95%E6%87%89-59271827",
+          "reason": "聯合新聞網 AI 問答頁，非新聞報導"
+        }
+      ]
     }
-   ],
-   "exclude": [
-    {
-     "url": "https://www.crntt.tw/doc/docDetail.jsp?coluid=92&kindid=0&docid=160282749",
-     "reason": "非臺灣媒體（中評社）"
-    },
-    {
-     "url": "https://udn.com/news/ai/answer/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-59279377",
-     "reason": "聯合新聞網 AI 問答頁，非新聞報導"
-    },
-    {
-     "url": "https://udn.com/news/ai/answer/%E7%B6%93%E6%BF%9F%E9%83%A8%E5%A6%82%E4%BD%95%E6%87%89-59271827",
-     "reason": "聯合新聞網 AI 問答頁，非新聞報導"
-    }
-   ]
   }
- }
 }
