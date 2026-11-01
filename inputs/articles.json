@@ -1,38 +1,38 @@
 {
- "fetched_at": "2026-11-01T16:50:27+08:00",
+ "fetched_at": "2026-11-01T22:24:08+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": "error",
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
   "https://news.cts.com.tw/cts/general/202610/202610203091965.html": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -56,12 +56,12 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1480925": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -71,7 +71,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://life.tw/article/從老街區文化到世代交流-里長參選人盧綠綢提出建功里社區活動構-3194318": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 13-23: ordinal not in range(128)"
   },
@@ -79,24 +79,6 @@
    "checked_at": "2026-10-30T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://n.yam.com/Article/20261029592720": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T08:00+08:00",
-   "site_name": "蕃新聞",
-   "description": "記者:黃冠源 台南報導崑山科技大學積極落實大學社會責任（USR），深耕在地產業與環境永續發揮影響力，",
-   "cities": {
-    "台南市": 5
-   },
-   "districts": [
-    "海安商圈（台南市）"
-   ],
-   "body_chars": 1845,
-   "image": "https://ni.yam.com/20261029/202610290641150-45b286e225a2e79a.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
   },
   "https://www.businessweekly.com.tw/focus/blog/3023493": {
    "checked_at": "2026-10-30T07:17+08:00",
@@ -114,327 +96,8 @@
    "date_hint": "2026-10-29",
    "date_hint_from": "原文時間"
   },
-  "https://news.tvbs.com.tw/politics/4043062": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T15:55+08:00",
-   "site_name": "TVBS新聞網",
-   "description": "花蓮市長候選人戴于文今（29）日召開「再造金三角 戴你換新衫」政策記者會，正式提出「金三角再造計畫」，主張從文化再造、交通改善、店家活化三大方向著手，以舊鐵道商圈及客來堡作為雙核心，推動花蓮市中心轉型。戴于文指出，金三角曾是花蓮最繁榮的商業中心，如今卻面臨空店增加、人潮流失及交通環境不佳等問題，直言魏嘉賢、魏嘉彥兄弟執",
-   "cities": {
-    "花蓮縣": 15,
-    "台北市": 6
-   },
-   "districts": [
-    "西門町商圈（台北市）",
-    "舊城商圈（高雄市）",
-    "花蓮市形象商圈（花蓮縣）"
-   ],
-   "body_chars": 1825,
-   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a186a5-750f-7244-b4ac-a6eeb851a388.jpg?t=16x9&c=0,46,721,452&w=1200&h=675",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261029516570": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T15:10+08:00",
-   "site_name": "蕃新聞",
-   "description": "桃園市長張善政今（29日）透過臉書提到桃園長者福利政策，每年四節合計1萬元敬老禮金，及擴大使用範圍的",
-   "cities": {
-    "桃園市": 7
-   },
-   "districts": [],
-   "body_chars": 1766,
-   "image": "https://ni.yam.com/20261029/10454768cff9482c884e15582c47df4e-60384d106214b0b8.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/article/Opl2DBB": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T16:15+08:00",
-   "site_name": "LINE TODAY",
-   "description": "〔記者俞肇福／基隆報導〕國民黨基隆市長謝國樑今天(29日)在立法委員黃健豪陪同下，到基隆廟口商圈掃街拜票，基隆市里長聯誼會總會長林羅清梅、里...",
-   "cities": {
-    "基隆市": 14
-   },
-   "districts": [],
-   "body_chars": 610,
-   "image": "https://today-obs.line-scdn.net/0h9OIMW-0iZmB0NHrke7EZN0xiahFHUnxpVlorUVY2PVlQGCgyH1M1AwZhbUwJVHQ-VAcqUgM1PVgMUydhHw/w1200",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/politics/breakingnews/5622803": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T16:15+08:00",
-   "site_name": "自由時報電子報",
-   "description": "國民黨基隆市長謝國樑今天（29日）在立法委員黃健豪陪同下，到基隆廟口商圈掃街拜票，基隆市里長聯誼會總會長林羅清梅、里長王明清及代理里長王培宇一同參與。謝國樑逐一向沿街商家及市民朋友親切問候，不少民眾熱情給予鼓勵，現場互動熱絡，展現濃厚的地方人情味。謝國樑說，感謝黃健豪來到基隆，也感謝地方里長長期以來的支持與協助。廟口是",
-   "cities": {
-    "基隆市": 18
-   },
-   "districts": [],
-   "body_chars": 922,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622803_1_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/realtimenews/20261029003008-260405": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T14:32+08:00",
-   "site_name": "中時新聞網",
-   "description": "伴隨台南市區鐵路地下化通車及新站啟用，也為車站周邊帶來嶄新發展，尤其近來公共鋼琴爆紅成為音樂廳，大批人潮慕名而來，成大商圈以往晚上9點後就顯冷清，現持續有人潮。成大商圈萬聖嘉年華盛事本周末登場，延續車",
-   "cities": {
-    "台南市": 9
-   },
-   "districts": [
-    "成大商圈（台南市）"
-   ],
-   "body_chars": 860,
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-29/656/20261029003009.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ctee.com.tw/news/20261029701503-431401": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T14:32+08:00",
-   "site_name": "中時即時",
-   "description": "伴隨台南市區鐵路地下化通車及新站啟用，也為車站周邊帶來嶄新發展，尤其近來公共鋼琴爆紅成為音樂廳，大批人潮慕名而來，成大商圈以往晚上9點後就顯冷清，現持續有人潮。成大商圈萬聖嘉年華盛事本周末登場，延續車站熱潮，邀請全國民眾一起來台南變裝、玩遊戲、享美食、抽大獎！ 第11屆成大商圈萬聖嘉年華「LET'S...",
-   "cities": {
-    "台南市": 10
-   },
-   "districts": [
-    "成大商圈（台南市）"
-   ],
-   "body_chars": 835,
-   "image": "https://images.ctee.com.tw/newsphoto/2026-10-29/1024/20261029701504.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E8%80%81%E8%A1%97%E8%A7%80%E5%85%89%E4%BA%BA%E6%AC%A1%E6%8E%92%E5%90%8D%E5%87%BA%E7%88%90-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97-%E8%9F%AC%E8%81%AF%E7%AC%AC-%E7%8B%82%E5%90%B81791%E8%90%AC%E4%BA%BA-074122797.html": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T15:41+08:00",
-   "site_name": "Yahoo News",
-   "description": "觀光署公布2026年1月至8月全台老街及周邊景點觀光人次，彰化鹿港老街以1791萬7817人次蟬聯冠軍，新北瑞芳風景特定區（含九份老街）以1642萬6434人次居次，淡水金色水岸及周邊地區以1240萬3829人次排名第三。鹿港老街觀光人次再創新高，Google評論累積超過4萬3000則、評分達4.5顆星，懷舊氛圍、傳統",
-   "cities": {
-    "台北市": 8,
-    "新北市": 7,
-    "彰化縣": 3,
-    "台中市": 1,
-    "台南市": 1
-   },
-   "districts": [
-    "九份老街商圈（新北市）",
-    "鹿港老街商圈（彰化縣）",
-    "太平老街商圈（嘉義縣）"
-   ],
-   "body_chars": 3598,
-   "image": "https://s.yimg.com/lo/mysterio/api/c234e572b5fce11befb70f334bedb17fc5b5a5682b63db0144dd9a16ec435cef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fgotv_ctitv_com_tw_678%2Fce7e8144df97398c7f9552e4a91d276c.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.bo6s.com.tw/news_detail.php?NewsID=118130": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T14:53+08:00",
-   "site_name": "波新聞",
-   "description": "波新聞─李至文／高雄高雄市政府觀光局主辦的第六屆「2026高雄鹹酥雞嘉年華」魅力席捲海內外！10月25、26日連續兩天，集結全台近90家知名炸物與特色餐飲名店，吸引逾12萬名民眾到場大快朵頤，參展店家及周邊商圈、百貨業績成長近五成，更直接帶動捷運與輕軌運量，熱鬧盛況再創新高。本屆鹹酥雞嘉年華最終由專業評審團及全民票選，",
-   "cities": {
-    "高雄市": 35
-   },
-   "districts": [
-    "三多商圈（高雄市）"
-   ],
-   "body_chars": 2062,
-   "image": "https://www.bo6s.com.tw/images/newsimg/small/20261028145359.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6343156001": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": "MONEY-LINK 富聯網首創「看懂財經、解讀資訊」，幫助投資人看懂、讀懂、聽懂全球股市/債市/匯市財經訊息，係台灣最大財經軟體資訊商精誠資訊旗下唯一開放式資訊平台。",
-   "cities": {
-    "台南市": 5,
-    "台北市": 1
-   },
-   "districts": [
-    "成大商圈（台南市）"
-   ],
-   "body_chars": 696,
-   "image": "https://ww2.money-link.com.tw/images/news/4/8.jpg",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://news.cnyes.com/news/id/6640627": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T16:47+08:00",
-   "site_name": "鉅亨網",
-   "description": null,
-   "cities": {
-    "台北市": 2
-   },
-   "districts": [],
-   "body_chars": 737,
-   "image": "https://cimg.cnyes.cool/prod/news/6640627/o/eb20a91ec561f8e3df830203af75f9b4.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/article/Zap6KNP": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T11:12+08:00",
-   "site_name": "LINE TODAY",
-   "description": "生活中心／張祐嘉報導 台灣老街各具特色，除了知名的九份、淡水，近期位於新北市的坪林老街近期在社群平台上引發熱議。一名網友分享當地茶製美食體驗...",
-   "cities": {
-    "新北市": 3,
-    "台北市": 2,
-    "宜蘭縣": 2
-   },
-   "districts": [],
-   "body_chars": 1088,
-   "image": "https://today-obs.line-scdn.net/0h_WyBOIsoAHhEOxz_LlR_L3xtDAl3XRpxZg5OSmg9Dhs8F0Qoeg9TG2AyX1RgWUYrZF9OHDZsCko5XxIsLA/w1200",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.pts.org.tw/article/833431": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T13:39+08:00",
-   "site_name": "公視新聞 PNN",
-   "description": "首都選戰拉鋸，台北市長蔣萬安傳出身體不適，取消今（29）日所有預排行程。陸戰工作由太太接棒，石舫亘上午代夫前往湖光市場掃街。民進黨台北市長候選人沈伯洋，則祝福蔣萬安早日康復，也出席民間版社福政策白皮書發表會交換意見。",
-   "cities": {
-    "台北市": 6
-   },
-   "districts": [],
-   "body_chars": 587,
-   "image": "https://news-data.pts.org.tw/media/300013/conversions/onA5407dlJM6e3L9cNU7Lwjai6HR9ryCGLjyIhKy-og_jpg.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/Keelung/breakingnews/5622803": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T16:15+08:00",
-   "site_name": "自由時報電子報",
-   "description": "國民黨基隆市長謝國樑今天（29日）在立法委員黃健豪陪同下，到基隆廟口商圈掃街拜票，基隆市里長聯誼會總會長林羅清梅、里長王明清及代理里長王培宇一同參與。謝國樑逐一向沿街商家及市民朋友親切問候，不少民眾熱情給予鼓勵，現場互動熱絡，展現濃厚的地方人情味。謝國樑說，感謝黃健豪來到基隆，也感謝地方里長長期以來的支持與協助。廟口是",
-   "cities": {
-    "基隆市": 19
-   },
-   "districts": [],
-   "body_chars": 922,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622803_1_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ctee.com.tw/news/20261029701344-430503": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T14:48+08:00",
-   "site_name": "工商時報",
-   "description": "影城龍頭威秀董事長閃電換人，10月初換上由大股東宏泰人壽指派法人代表呂政璋出掌印信，呂政璋現任安泰銀行獨立董事及台北101監察人。威秀表示，呂政璋具備企業創辦、跨國經營、國際投資併購及公司治理等實務經驗，將與團隊攜手深耕台灣，推動公司穩健發展。 走馬上任威秀董座兩周的呂政璋強調，將帶領威秀團隊掌握市...",
-   "cities": {
-    "台北市": 2
-   },
-   "districts": [],
-   "body_chars": 570,
-   "image": "https://images.ctee.com.tw/newsphoto/2026-10-29/1024/20261029701345.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.taiwannews.com.tw/zh/news/6467660": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": "蔣萬安妻子石舫亘，29日一早將至湖光市場掃街輔選 | Oct. 29, 2026 10:37",
-   "cities": {
-    "台北市": 11,
-    "新北市": 1,
-    "台中市": 1,
-    "基隆市": 1
-   },
-   "districts": [],
-   "body_chars": 1708,
-   "image": "https://image.taiwannews.com.tw/2026%2F10%2F29%2Ff8909558b00443b887833e3ad6f09883.jpg",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.worldjournal.com/wj/story/121519/9844685": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T14:16+08:00",
-   "site_name": "世界新聞網",
-   "description": "在北灣，淹水已成為一種例行且反覆出現的問題，當地居民和工作人員早已將其視為生活的一部分。",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1280,
-   "image": "https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/29/35465762.jpg&M=1&s=Y&x=0&y=314&sw=1080&sh=720&sl=W&fw=800&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://mknews.com.tw/2026/10/1009924/": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T16:20+08:00",
-   "site_name": "天天上新聞",
-   "description": "圖/「2026高雄鹹酥雞嘉年華」由專業評審團及全民票選出年度 … Read More",
-   "cities": {
-    "高雄市": 36,
-    "桃園市": 5,
-    "嘉義縣": 4,
-    "台北市": 3,
-    "新竹縣": 3
-   },
-   "districts": [
-    "三多商圈（高雄市）"
-   ],
-   "body_chars": 4000,
-   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.mirrormedia.mg/story/amp/YT-202610281144-M6GZHhTzLZo": {
-   "checked_at": "2026-10-29T16:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T11:44+08:00",
-   "site_name": "鏡週刊 Mirror Media",
-   "description": "國民黨台北市長候選人蔣萬安，27日晚間現身內湖737商圈掃街拜票，現場也有熱情攤商送上美食暖胃，不過也有攤商抱怨「現場太吵」，拒絕和蔣萬安握手。#鏡週刊 ---------------------------------------✔️【歡迎訂閱鏡週刊頻道】➤https://www.youtube.com/@Video",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [],
-   "body_chars": 272,
-   "image": "https://v3-statics.mirrormedia.mg/images/ef2d27c9-e026-47f1-ae33-208324ef4cb0-w1600.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
   "https://news.ebc.net.tw/search/tags/李慶隆/": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)"
   },
@@ -443,333 +106,15 @@
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://news.pchome.com.tw/living/mypeople/20261028/index-79317347346217219009.html": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T15:44+08:00",
-   "site_name": "PChome Online 新聞",
-   "description": "圖:蘭雅萬神節10/26日藝閣燈車祭大合照。(圖/蘭雅商圈fb粉絲專頁) 【記者張嘉誠／綜合報導】 繽紛藝閣燈車穿梭街頭，親子變裝為蘭雅增添節慶色彩！由台北市蘭雅商圈市場發展協會主辦的「2026蘭雅一呼百應",
-   "cities": {
-    "台北市": 5,
-    "新竹縣": 3,
-    "新北市": 2,
-    "桃園市": 2,
-    "基隆市": 2
-   },
-   "districts": [
-    "蘭雅商圈（台北市）"
-   ],
-   "body_chars": 1156,
-   "image": "https://news.pchome.com.tw/img/pchome_news_fb.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
   "https://www.watchmedia01.com/archives/564050": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://news.pchome.com.tw/finance/sunmedia/20261027/index-79308472924017329003.html": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T15:05+08:00",
-   "site_name": "PChome Online 新聞",
-   "description": "▲建功里鄰近臺北車站後站與大稻埕生活圈，里長參選人盼串聯在地歷史、人文特色與街區空間，推動地方文化活化（圖／盧綠綢提供）商傳媒｜記者張安禾／台北報導台北車站後站老街區面臨轉型挑戰，建功里以特",
-   "cities": {
-    "台北市": 7
-   },
-   "districts": [
-    "後站商圈（台北市）"
-   ],
-   "body_chars": 1299,
-   "image": "https://news.pchome.com.tw/newsdata/finance/sunmedia/20261027/79308472924017329003_original.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ebc.net.tw/news/living/578111": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T20:00+08:00",
-   "site_name": "東森新聞",
-   "description": "新北捷運三鶯線正式通車，串聯鶯歌、三峽兩地觀光景點，讓文化小旅行更加便利！除了逛老街、吃美食，沿線還有豐富的歷史文化與傳統工藝!",
-   "cities": {
-    "新北市": 4
-   },
-   "districts": [],
-   "body_chars": 649,
-   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/29/1793300079_31471.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/article/YapgyoP": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T18:15+08:00",
-   "site_name": "LINE TODAY",
-   "description": "選戰衝刺，民進黨台北市長候選人沈伯洋今(29)日行程滿滿，上午先回歸立委本職，出席外交國防委員會質詢，中午則到松山慈祐宮上香祈福，不過眼尖網...",
-   "cities": {
-    "台北市": 7
-   },
-   "districts": [],
-   "body_chars": 800,
-   "image": "https://today-obs.line-scdn.net/0hPZAVbfPID3V8LxPxUfNwIkR5AwRPSRV8XkxGFwwpAkMDA08rFUlcFgomVllYGxhwXEhGFl0qURZWTEArFA/w1200",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/posts/list/article/Nv52YwO": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "LINE TODAY",
-   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 一中商圈輸了！公益路商圈衝上台中最強景點　狂吸2309萬人",
-   "cities": {
-    "台中市": 3
-   },
-   "districts": [],
-   "body_chars": 123,
-   "image": "https://today-obs.line-scdn.net/0hEaw8QYXIGk5KQQbIhUJlGXIXFj95JwBHaCMHIWgUEHxgbVkbdCdJLWZGE2JucwoZai9RLWZFRiowdQgacw/w1200",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E8%BB%8A%E7%AB%99-%E9%9F%B3%E6%A8%82%E5%BB%B3-%E5%82%AC%E5%95%86%E6%A9%9F-%E6%88%90%E5%A4%A7%E5%95%86%E5%9C%88%E4%BA%BA%E6%BD%AE%E9%80%86%E5%8B%A2%E6%88%90%E9%95%B72%E6%88%90%E5%90%B8%E5%AE%A2-063737163.html": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T14:37+08:00",
-   "site_name": "Yahoo News",
-   "description": "伴隨台南市區鐵路地下化通車及新站啟用，也為車站周邊帶來嶄新發展，尤其近來公共鋼琴爆紅成為音樂廳，大批人潮慕名而來，成大商圈以往晚上9點後就顯冷清，現持續有人潮。成大商圈萬聖嘉年華盛事本周末登場，延續車站熱潮，邀請全國民眾一起來台南變裝、玩遊戲、享美食、抽大獎！",
-   "cities": {
-    "台南市": 10,
-    "台北市": 8,
-    "新北市": 2,
-    "桃園市": 1
-   },
-   "districts": [
-    "成大商圈（台南市）"
-   ],
-   "body_chars": 3495,
-   "image": "https://s.yimg.com/lo/mysterio/api/071039e9612aeeac6afcabd676ee51eff8ff17e329821db6a11deb9a70578e5d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fchinatimes.com.tw%2Ff20678bcb4ad50d4a85440101045ece2.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/posts/list/article/x2oL7GP": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "LINE TODAY",
-   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 尷尬！蔣萬安現身內湖737商圈掃街　「遭攤販嫌太吵」拒絕握手",
-   "cities": {},
-   "districts": [],
-   "body_chars": 124,
-   "image": "https://today-obs.line-scdn.net/0hBlgHVpf9HUNaMQHFAOFiFGJnETJpVwdKeFdRJ3YwQntxHQhCZgJOIHsxQW9-A1ocelZXIysyQSB-CF5Gbw/w1200",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.cmoney.tw/forum/article/187097615": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T16:54+08:00",
-   "site_name": "CMoney 股市爆料同學會",
-   "description": "威秀影城宣布，經董事會選任，由呂政璋博士出任董事長。呂政璋具備企業創辦、跨國經營、國際投資併購及公司治理等實務經驗，將與團隊攜手深耕台灣，推動公司穩健發展。",
-   "cities": {},
-   "districts": [],
-   "body_chars": 128,
-   "image": "https://cimg.cnyes.cool/prod/news/6640627/o/eb20a91ec561f8e3df830203af75f9b4.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://enn.tw/799488/": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T17:07+08:00",
-   "site_name": "ENN台灣電報",
-   "description": "波新聞-辜愷頡/嘉義嘉義縣鹿草風華特色文化商圈發展協會於115年10月25日連續假期期間，在故宮南院舉辦「鹿草風華商圈草地音樂會暨特色市集」，以「走進故宮南院．漫遊鹿草風華」為主題，融合音樂、特色好物、在地美食與手作體驗，現場人潮爆滿、氣氛熱絡，活動圓滿成功，廣受民眾好評。草地音樂會以悠揚樂聲營造愜意的藝文氛圍",
-   "cities": {
-    "嘉義縣": 13
-   },
-   "districts": [
-    "鹿草風華商圈（嘉義縣）"
-   ],
-   "body_chars": 860,
-   "image": "https://www.bo6s.com.tw/images/newsimg/small/20261028154306.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cna.com.tw/news/amov/202610290281.aspx": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T17:33+08:00",
-   "site_name": "中央社 CNA",
-   "description": "威秀影城今天宣布現任安泰銀行獨立董事及台北101監察人呂政璋擔任董事長，他表示，未來將掌握市場跟消費需求變化，串聯影城跟商圈，落實「商圈共榮、人潮共享、會員共好」。",
-   "cities": {
-    "台北市": 4,
-    "台南市": 1
-   },
-   "districts": [],
-   "body_chars": 694,
-   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261029/683x1024_wmkn_0_C20261029000192.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/7326/9845394": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T18:56+08:00",
-   "site_name": "聯合新聞網",
-   "description": "嘉義縣太保市安仁里長陳政龍拚連任，今天下午不慎騎車自撞死亡，疑似心神過度勞累，無毒駕或酒駕，因選區僅2人參選，將停止里長選舉作業，另行選舉公告重新登記。嘉義縣選舉委員會表示，目前預估無法跟上年底選舉時程，將另行公告安仁里長選舉日期。",
-   "cities": {
-    "嘉義縣": 26,
-    "雲林縣": 14,
-    "台南市": 3,
-    "彰化縣": 3,
-    "新北市": 1
-   },
-   "districts": [],
-   "body_chars": 2028,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/29/35467207.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://sport.ftvnews.com.tw/news/detail/2026A27W0271": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T00:49+08:00",
-   "site_name": "民視運動網-和你的體育靈魂一起遊玩",
-   "description": "網友遊坪林老街　意外發現不少茶類體驗一名網友在Threads發文記錄坪林老街一日遊行程，描述當天早上九點多抵達時，街上幾乎沒什麼遊客，整條街道顯得相當安靜。然而隨著時間來到下午，人潮開始明顯湧入，還有長輩用台語驚嘆「怎麼會這麼多人」。她同時透過照片分享沿途品嘗的各式茶香點心，包括茶冰淇淋、茶麻糬、茶饅頭以及茶葉蛋，完整",
-   "cities": {
-    "台北市": 4,
-    "新北市": 2,
-    "宜蘭縣": 2,
-    "台南市": 1
-   },
-   "districts": [],
-   "body_chars": 1283,
-   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/2ec5c43e-9ba5-4786-880a-5deed395a717.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
   },
   "https://www.hsnews.com.tw/political-news/dai-yu-wen-ti-zai-zao-jin-san-jiao-ji-hua-yu-zheng-shi-shang-quan-zhuan-xing-wen-ti-2.html": {
    "checked_at": "2026-10-31T13:59+08:00",
    "status": 404,
    "error": "HTTP Error 404: Not Found"
-  },
-  "https://tw.news.yahoo.com/%E5%AE%9C%E8%98%AD%E5%8F%8B%E6%84%9B%E7%99%BE%E8%B2%A8%E5%82%B3%E6%B1%82%E5%94%AE-%E5%BE%9E%E6%98%94%E6%97%A5%E5%95%86%E6%A5%AD%E5%9C%B0%E6%A8%99%E5%88%B0%E8%BD%89%E5%9E%8B%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3-%E8%88%8A%E5%9F%8E%E5%95%86%E5%9C%88%E8%83%BD%E5%90%A6%E5%86%8D%E7%8F%BE%E7%B9%81%E8%8F%AF-091931434.html": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T17:19+08:00",
-   "site_name": "Yahoo News",
-   "description": "（觀傳媒宜蘭新聞）【記者陳俊傑/宜蘭報導】曾經引領宜蘭消費潮流、陪伴無數縣民成長的友愛百貨大樓，近日傳出可能求 […]",
-   "cities": {
-    "宜蘭縣": 25,
-    "台中市": 3,
-    "台南市": 2,
-    "台北市": 1,
-    "桃園市": 1
-   },
-   "districts": [
-    "舊城商圈（高雄市）"
-   ],
-   "body_chars": 4000,
-   "image": "https://s.yimg.com/lo/mysterio/api/458be07a856526a1f8fa4b069af1ca35fa1e334cfaee1667e9a98195a84b1106/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fwatchmedia01_426%2F8b872638b5d783c662e6cb7b3d4d18c1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.i-meihua.com/Article/Detail/58395": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T15:10+08:00",
-   "site_name": "梅花新聞網",
-   "description": "記者 梅花新聞網 編輯部/綜合報導 桃園市長張善政今（29日）透過臉書提到桃園長者福利政策，每年四節合計1萬元敬老禮金，及擴大使用範圍的敬老愛心卡形容為照顧長輩的「兩個翅膀」，強調禮金讓長輩自行決...",
-   "cities": {
-    "桃園市": 7
-   },
-   "districts": [],
-   "body_chars": 1628,
-   "image": "https://www.i-meihua.com/FileUploads/ArticlePhoto/10454768cff9482c884e15582c47df4e.png?v=639288833754070000",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/7241/9839921": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T15:07+08:00",
-   "site_name": "聯合新聞網",
-   "description": "三峽都更第一案！久年機構旗下建設事業久年置地27日舉辦新案「久年橒画」公開活動，該案自8月潛銷以來已售近五成，不僅銷售表現良好，價格更是跳脫區域的3到4字頭行情，據實價登錄，每坪最高成交單價達60.02萬元，創三峽老街商圈區域新高。",
-   "cities": {
-    "台北市": 5,
-    "高雄市": 3,
-    "新竹": 3,
-    "新北市": 1
-   },
-   "districts": [],
-   "body_chars": 2289,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35458656.jpg&M=1&s=Y&x=0&y=73&sw=1280&sh=853&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.fountmedia.io/article/439318": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "放言Fount Media",
-   "description": "走到家門口，熱炒店的人招呼沈伯洋：「今天很辛苦哦，我今天在電視上看到你哦。」沒有長篇交談，只有兩、三句關心，他卻覺得，回家的感受已經不一樣。",
-   "cities": {},
-   "districts": [],
-   "body_chars": 863,
-   "image": "https://fountmedia.s3.ap-northeast-1.amazonaws.com/article/03/18/439318_7994.webp?v=1793266594",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.cna.com.tw/news/ahel/202610290299.aspx": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T18:04+08:00",
-   "site_name": "中央社 CNA",
-   "description": "中華航空昨晚1架曼谷飛往高雄航班，準備起飛時，跑道疑似出現大面積凹陷。華航表示，因跑道受損影響航機運行，並考量高雄機場宵禁，航班改至隔日出發。",
-   "cities": {
-    "高雄市": 8,
-    "台北市": 1,
-    "桃園市": 1,
-    "台南市": 1
-   },
-   "districts": [],
-   "body_chars": 629,
-   "image": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ettoday.net/news/20261029/3262915.htm": {
-   "checked_at": "2026-10-29T21:23+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T18:05+08:00",
-   "site_name": "ETtoday新聞雲",
-   "description": "信義鄉雙龍七彩吊橋園區以壯麗的峽谷地形及色彩繽紛的景觀聞名，南投縣政府為提供民眾更優質的遊憩體驗，並維護吊橋設施安全，將辦理修繕工程，園區自11月2日起至同年20日止休園、暫停對外開放。",
-   "cities": {
-    "南投縣": 6,
-    "高雄市": 2
-   },
-   "districts": [],
-   "body_chars": 844,
-   "image": "https://cdn2.ettoday.net/images/8990/e8990403.png",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
   },
   "https://money.udn.com/money/story/5599/9846071?from=edn_related_storybottom": {
    "checked_at": "2026-10-30T07:17+08:00",
@@ -2728,12 +2073,12 @@
    "date_hint_from": null
   },
   "https://futurecity.cw.com.tw/article/4178": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.atanews.net/?Wirenews=H20261026151910": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6129,7 +5474,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.fclnews.com/235170/": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6455,7 +5800,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1482837": {
-   "checked_at": "2026-11-01T14:28+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7581,7 +6926,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/politics/202611/202611013096051.html": {
-   "checked_at": "2026-11-01T12:17+08:00",
+   "checked_at": "2026-11-01T22:24+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7874,9 +7219,23 @@
    "date_hint_from": "原文時間"
   },
   "https://www.contentplatform.info/articles/550217/%E7%AC%AC18%E5%B1%86%E5%A4%A9%E6%AF%8D%E8%90%AC%E8%81%96%E7%AF%80%E5%98%89%E5%B9%B4%E8%8F%AF%E7%99%BB%E5%A0%B4-%E5%BC%B5%E6%BA%AB%E5%BE%B7%E8%AE%8A%E8%A3%9D%E5%90%8C%E6%A8%82%E5%A1%94%E9%BA%BB/": {
-   "checked_at": "2026-11-01T12:17+08:00",
-   "status": "error",
-   "error": "The read operation timed out"
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T20:04+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "報新聞/編輯部 張溫德副市長驚喜變裝親臨現場同樂，為活動帶起最高潮！由臺北市商業處輔導台北市天母商圈發展協會辦理「天母搞什麼鬼18萬聖節嘉年華」10月26日於天母運動公園熱鬧登場，今年適逢日本經典電子寵物「塔麻歌子」誕生30週年，首度與天母萬聖節跨界串聯，讓經典角色「麻每吉」與「咕嘰叭吉」超萌實體…",
+   "cities": {
+    "台北市": 11
+   },
+   "districts": [
+    "天母商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1566,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/27150913/taipei-cover-261027070910421.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/living/1111news/20261029/index-79323649560105358009.html": {
    "checked_at": "2026-11-01T14:28+08:00",
@@ -8374,6 +7733,462 @@
    "districts": [],
    "body_chars": 1459,
    "image": "https://i01.ftnn.com.tw/a/26/304/26304142449279617e3a98.png",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ebc.net.tw/news/living/578111": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T20:00+08:00",
+   "site_name": "東森新聞",
+   "description": "新北捷運三鶯線正式通車，串聯鶯歌、三峽兩地觀光景點，讓文化小旅行更加便利！除了逛老街、吃美食，沿線還有豐富的歷史文化與傳統工藝!",
+   "cities": {
+    "新北市": 4
+   },
+   "districts": [],
+   "body_chars": 649,
+   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/29/1793300079_31471.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261029592720": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T08:00+08:00",
+   "site_name": "蕃新聞",
+   "description": "記者:黃冠源 台南報導崑山科技大學積極落實大學社會責任（USR），深耕在地產業與環境永續發揮影響力，",
+   "cities": {
+    "台南市": 5,
+    "高雄市": 1
+   },
+   "districts": [
+    "海安商圈（台南市）"
+   ],
+   "body_chars": 1839,
+   "image": "https://ni.yam.com/20261029/202610290641150-45b286e225a2e79a.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E8%80%81%E8%A1%97%E8%A7%80%E5%85%89%E4%BA%BA%E6%AC%A1%E6%8E%92%E5%90%8D%E5%87%BA%E7%88%90-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97-%E8%9F%AC%E8%81%AF%E7%AC%AC-%E7%8B%82%E5%90%B81791%E8%90%AC%E4%BA%BA-074122797.html": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T15:41+08:00",
+   "site_name": "Yahoo News",
+   "description": "觀光署公布2026年1月至8月全台老街及周邊景點觀光人次，彰化鹿港老街以1791萬7817人次蟬聯冠軍，新北瑞芳風景特定區（含九份老街）以1642萬6434人次居次，淡水金色水岸及周邊地區以1240萬3829人次排名第三。鹿港老街觀光人次再創新高，Google評論累積超過4萬3000則、評分達4.5顆星，懷舊氛圍、傳統",
+   "cities": {
+    "台北市": 15,
+    "新北市": 4,
+    "彰化縣": 3,
+    "高雄市": 2
+   },
+   "districts": [
+    "九份老街商圈（新北市）",
+    "鹿港老街商圈（彰化縣）",
+    "太平老街商圈（嘉義縣）"
+   ],
+   "body_chars": 3517,
+   "image": "https://media.zenfs.com/ko/gotv_ctitv_com_tw_678/ce7e8144df97398c7f9552e4a91d276c.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ctee.com.tw/news/20261101700483-431207": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T14:36+08:00",
+   "site_name": "工商時報",
+   "description": "經發局長張峯源表示，2026台中購物節截至30日，消費登錄金額已達23億元。市長盧秀燕創辦購物節至今，已成為全國具代表性的購物慶典及城市品牌。豐原廟東復興商圈匯集百貨、異國美食及街區特色小吃，萬聖節活動也是商圈年度盛會，今年結合購物節首台百萬汽車及多項好禮抽獎，期盼透過雙重活動吸引民眾走進商圈、支...",
+   "cities": {
+    "台中市": 11
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "豐原廟東復興商圈（台中市）",
+    "谷關商圈（台中市）"
+   ],
+   "body_chars": 1079,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-01/1024/20261101700484.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261101242775": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T21:46+08:00",
+   "site_name": "蕃新聞",
+   "description": "報新聞/編輯部變裝踩街、動漫歌手、寶萊塢舞秀輪番上陣，台中東海商圈萬聖節氣氛最搞怪！第十三屆東海國際",
+   "cities": {
+    "台中市": 7
+   },
+   "districts": [
+    "東海藝術街商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1168,
+   "image": "https://ni.yam.com/20261101/taichung-cover-261101054220643-c9b1ce4aa1da8eae.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cdns.com.tw/articles/1483649": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6343156001": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "MONEY-LINK 富聯網首創「看懂財經、解讀資訊」，幫助投資人看懂、讀懂、聽懂全球股市/債市/匯市財經訊息，係台灣最大財經軟體資訊商精誠資訊旗下唯一開放式資訊平台。",
+   "cities": {
+    "台南市": 5,
+    "台北市": 1
+   },
+   "districts": [
+    "成大商圈（台南市）"
+   ],
+   "body_chars": 696,
+   "image": "https://ww2.money-link.com.tw/images/news/4/8.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.ctee.com.tw/news/20261029701503-431401": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T14:32+08:00",
+   "site_name": "中時即時",
+   "description": "伴隨台南市區鐵路地下化通車及新站啟用，也為車站周邊帶來嶄新發展，尤其近來公共鋼琴爆紅成為音樂廳，大批人潮慕名而來，成大商圈以往晚上9點後就顯冷清，現持續有人潮。成大商圈萬聖嘉年華盛事本周末登場，延續車站熱潮，邀請全國民眾一起來台南變裝、玩遊戲、享美食、抽大獎！ 第11屆成大商圈萬聖嘉年華「LET'S...",
+   "cities": {
+    "台南市": 10
+   },
+   "districts": [
+    "成大商圈（台南市）"
+   ],
+   "body_chars": 835,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-10-29/1024/20261029701504.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://hoomedia.com.tw/2026/11/01/177844/": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T12:32+08:00",
+   "site_name": "互傳媒",
+   "description": "第十三屆東海國際藝術節「萬聖搞怪趴！我們都在藝術街」31日在東海藝術街商圈登場，結合變裝踩街、特色市集及動漫歌曲、寶萊塢舞秀等精彩演出，吸引親子與民眾參與，展現商圈節慶與藝文魅力。",
+   "cities": {
+    "台中市": 7,
+    "彰化縣": 1
+   },
+   "districts": [
+    "東海藝術街商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1238,
+   "image": "https://hoomedia.com.tw/wp-content/uploads/2026/11/dead1ecae36e9692d893e7f023f6ca0d.jpg?v=1793536377",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%AE%9C%E8%98%AD%E5%8F%8B%E6%84%9B%E7%99%BE%E8%B2%A8%E5%82%B3%E6%B1%82%E5%94%AE-%E5%BE%9E%E6%98%94%E6%97%A5%E5%95%86%E6%A5%AD%E5%9C%B0%E6%A8%99%E5%88%B0%E8%BD%89%E5%9E%8B%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3-%E8%88%8A%E5%9F%8E%E5%95%86%E5%9C%88%E8%83%BD%E5%90%A6%E5%86%8D%E7%8F%BE%E7%B9%81%E8%8F%AF-091931434.html": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T17:19+08:00",
+   "site_name": "Yahoo News",
+   "description": "（觀傳媒宜蘭新聞）【記者陳俊傑/宜蘭報導】曾經引領宜蘭消費潮流、陪伴無數縣民成長的友愛百貨大樓，近日傳出可能求 […]",
+   "cities": {
+    "宜蘭縣": 23,
+    "台北市": 5,
+    "高雄市": 1
+   },
+   "districts": [
+    "舊城商圈（高雄市）"
+   ],
+   "body_chars": 3532,
+   "image": "https://media.zenfs.com/ko/watchmedia01_426/8b872638b5d783c662e6cb7b3d4d18c1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261029003008-260405": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T14:32+08:00",
+   "site_name": "中時新聞網",
+   "description": "伴隨台南市區鐵路地下化通車及新站啟用，也為車站周邊帶來嶄新發展，尤其近來公共鋼琴爆紅成為音樂廳，大批人潮慕名而來，成大商圈以往晚上9點後就顯冷清，現持續有人潮。成大商圈萬聖嘉年華盛事本周末登場，延續車",
+   "cities": {
+    "台南市": 9
+   },
+   "districts": [
+    "成大商圈（台南市）"
+   ],
+   "body_chars": 860,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-29/656/20261029003009.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pchome.com.tw/living/mypeople/20261028/index-79317347346217219009.html": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T15:44+08:00",
+   "site_name": "PChome Online 新聞",
+   "description": "圖:蘭雅萬神節10/26日藝閣燈車祭大合照。(圖/蘭雅商圈fb粉絲專頁) 【記者張嘉誠／綜合報導】 繽紛藝閣燈車穿梭街頭，親子變裝為蘭雅增添節慶色彩！由台北市蘭雅商圈市場發展協會主辦的「2026蘭雅一呼百應",
+   "cities": {
+    "台北市": 5,
+    "新竹縣": 3,
+    "新北市": 2,
+    "桃園市": 2,
+    "基隆市": 2
+   },
+   "districts": [
+    "蘭雅商圈（台北市）"
+   ],
+   "body_chars": 1156,
+   "image": "https://news.pchome.com.tw/img/pchome_news_fb.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://886.news/archives/370530": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T18:47+08:00",
+   "site_name": "台灣新聞雲",
+   "description": "［台灣新聞雲］記者劉至程/花蓮報導",
+   "cities": {
+    "花蓮縣": 7
+   },
+   "districts": [
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 848,
+   "image": "https://i0.wp.com/886.news/wp-content/uploads/2026/11/img_1060-1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pchome.com.tw/finance/sunmedia/20261027/index-79308472924017329003.html": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T15:05+08:00",
+   "site_name": "PChome Online 新聞",
+   "description": "▲建功里鄰近臺北車站後站與大稻埕生活圈，里長參選人盼串聯在地歷史、人文特色與街區空間，推動地方文化活化（圖／盧綠綢提供）商傳媒｜記者張安禾／台北報導台北車站後站老街區面臨轉型挑戰，建功里以特",
+   "cities": {
+    "台北市": 7
+   },
+   "districts": [
+    "後站商圈（台北市）"
+   ],
+   "body_chars": 1299,
+   "image": "https://news.pchome.com.tw/newsdata/finance/sunmedia/20261027/79308472924017329003_original.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ksnews.com.tw/e/155658": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T17:53+08:00",
+   "site_name": "更生新聞網",
+   "description": "記者何國豐／報導　花蓮縣長候選人2號張",
+   "cities": {
+    "花蓮縣": 9
+   },
+   "districts": [
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 1286,
+   "image": "https://www.ksnews.com.tw/wp-content/uploads/2026/11/www.ksnews.com.tw-115110101-115110101-3.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://live.setn.com/Live/3892/24350?p=25": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-08-10T16:00+08:00",
+   "site_name": "三立新聞網",
+   "description": "民進黨台北市長參選人沈伯洋10日舉行永康商圈交流座談會。《三立新聞網》現場直播。",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [
+    "永康商圈（台北市）"
+   ],
+   "body_chars": 101,
+   "image": "https://attach.setn.com/images/livechannel_600x315_2.jpg",
+   "image_checked": true,
+   "date_hint": "2026-08-10",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mnews.tw/external/mirrordaily94989": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T10:40+08:00",
+   "site_name": "鏡新聞",
+   "description": "位於台南市中西區的名店「阿明豬心冬粉」創始於1951年，延續台南傳統的甜鹹口味，更是必比登推薦的美食。不料，「阿明豬心冬粉」日前接連發出店休公告，原本長休10天、原定於10月27日恢復營業，卻在28日再度宣告休息，而且恢復營業日期也尚未確定，後來還傳出因為老闆娘車禍逝世、無限期停業的消息，店家隨後也發聲證實噩耗。",
+   "cities": {
+    "台南市": 10
+   },
+   "districts": [],
+   "body_chars": 843,
+   "image": "https://statics-prod.mirrordaily.news/images/2d45f3c1-e3b3-4d18-aee3-42b0ccb6b528-w1600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/PGz70O8": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T16:32+08:00",
+   "site_name": "LINE TODAY",
+   "description": "年底尾牙、年菜旺季即將到來，但近期準備訂桌的民眾恐怕得有心理準備。先前中聯油被驗出致癌物後遭勒令停工，導致市面上的沙拉油、耐炸油嚴重缺貨，價...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 702,
+   "image": "https://today-obs.line-scdn.net/0h0IVDJ-S3b2ZrPXPnmxkQMVNrYxdYW3VvSVh0ABtuMlJPES9gA1k8BU85MUoWBX8xSw4mVx0-ZQUVDitkBw/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://focus.586.com.tw/2026/11/01/p409515/": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T16:02+08:00",
+   "site_name": "焦點時報",
+   "description": "(焦點時報/鄒志中報導)   變裝踩街、",
+   "cities": {
+    "台中市": 33
+   },
+   "districts": [
+    "東海藝術街商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1943,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/JPyGxlP": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T23:00+08:00",
+   "site_name": "LINE TODAY",
+   "description": "【勁報記者胡美慧/台北報導】 以往以濃郁香料咖哩擄獲饕客味蕾的知名連鎖品牌「魔法咖哩」，10/30日正式宣佈，隱身於台北車站商圈精華地段的魔...",
+   "cities": {
+    "台北市": 10
+   },
+   "districts": [],
+   "body_chars": 979,
+   "image": "https://today-obs.line-scdn.net/0h1wzLZDBvblhHNXLb-_URD39jYil0U3RRZVFxa2cwMTxvGXoJKFE9OzVlNnRiDHsGZ1d2PWFhZ2hrViBacg/w1200",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/124652/9850563": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T20:47+08:00",
+   "site_name": "聯合新聞網",
+   "description": "國民黨黨主席鄭麗文今晚出席台南市長候選人謝龍介競選總部成立大會，除抨擊當前買不到沙拉油，油品缺貨嚴重，也高分貝抨擊賴清德總統傲慢，拜託鄉親們不要再票投給西瓜，票投謝龍介，改變大台南。",
+   "cities": {
+    "台南市": 24,
+    "台北市": 7,
+    "高雄市": 3,
+    "新北市": 1,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 2049,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35475126.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/JPywDqq": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 鶯歌老街借錢遭拒! 男子搶走4萬元現金落跑 6小時新竹落網",
+   "cities": {
+    "新竹": 3
+   },
+   "districts": [],
+   "body_chars": 123,
+   "image": "https://today-obs.line-scdn.net/0hIdaDL0XdFktcPQrKqeZpHGRrGjpvWwxCfl1Yen44HCskEVYeaVpFKHk_S2d5DVAbfFtRf3k5QSlyWFQaaQ/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://today.line.me/tw/v3/article/aGp5a18?view=topic&referral=TOPIC-Election": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T19:14+08:00",
+   "site_name": "LINE TODAY",
+   "description": "〔記者黃政嘉／新北報導〕民進黨籍立委吳琪銘之子吳昇翰參選新北市第8選區(土城、樹林、三峽、鶯歌區)市議員，他接受本報《自由最大聲》專訪，談到...",
+   "cities": {
+    "新北市": 7
+   },
+   "districts": [],
+   "body_chars": 952,
+   "image": "https://today-obs.line-scdn.net/0hX-8ndjSIBwIFFxuCKg14VT1BC3M2cR0LJ3lJMXITDjJ7OxNWOHZUYSBDWy54IkgDJXkdYycXXWYqIxNdag/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E5%B0%8F%E5%B0%8F%E8%AE%8A%E8%A3%9D%E9%AB%98%E6%89%8B%E5%87%BA%E6%8B%9B-%E5%B0%8F%E8%83%A1%E8%BF%AA-%E5%B0%8F%E5%AD%AB%E6%82%9F%E7%A9%BA-%E4%B8%89%E5%B3%BD%E8%80%81%E8%A1%97%E8%90%AC%E8%81%96%E7%AF%80%E8%B6%85%E5%97%A8/ar-AA2gtFAu": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://today.line.me/tw/v3/article/XYp5Bzl": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T11:34+08:00",
+   "site_name": "LINE TODAY",
+   "description": "社會中心／李豫翰、洪國凱　台北報導 適逢萬聖節，台北市信義商圈31號晚間湧入大量扮裝狂歡民眾。警方初步估計，光是松壽路20巷酒吧街一帶，單夜...",
+   "cities": {
+    "台北市": 5
+   },
+   "districts": [],
+   "body_chars": 712,
+   "image": "https://today-obs.line-scdn.net/0hJpFmafsNFV97FAnfc7NqCENCGS5Icg9WWXAJO1hHSz9VOFUOFCJGPF8WG3MGJAIAW3YObQkSTT0EdlRaEA/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261101/3264439.htm": {
+   "checked_at": "2026-11-01T22:24+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T17:18+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "新北市三峽區一間餐廳近日有顧客疑似替嬰兒更換尿布後，竟直接將髒尿布放進餐盤，讓其他民眾看了相當傻眼，直呼「發瘋了，好噁心」，店家對此回應，已將整疊餐盤全數丟棄，並宣布停業1天進行全面消毒。事件曝光後引發網友熱議。",
+   "cities": {
+    "新北市": 2,
+    "高雄市": 2
+   },
+   "districts": [],
+   "body_chars": 1397,
+   "image": "https://cdn2.ettoday.net/images/8994/e8994535.png",
    "image_checked": true,
    "date_hint": "2026-11-01",
    "date_hint_from": "原文時間"
