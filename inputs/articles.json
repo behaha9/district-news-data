@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T14:28:13+08:00",
+ "fetched_at": "2026-11-01T16:50:27+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-11-01T14:28+08:00",
@@ -8074,6 +8074,308 @@
    "image": "https://today-obs.line-scdn.net/0h95TVjK7sZhppL3qZe1sZTVF5amtaSXwTS08tfkl6bCIQAyUbAho1eUQtMTYXH3NNSUx8eE4sOCNCHygcUw/w1200",
    "image_checked": true,
    "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E9%80%A3%E8%B7%91%E5%85%A9%E6%94%A4%E5%B8%82%E6%94%BF%E8%A1%8C%E7%A8%8B-%E8%94%A3%E8%90%AC%E5%AE%89%E7%99%BD%E6%99%9D%E4%B9%8B%E5%A4%9C%E9%9A%A8%E9%9B%BB%E9%9F%B3%E7%86%B1%E8%88%9E-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gvd7o": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://n.yam.com/Article/20261101277832": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T16:02+08:00",
+   "site_name": "蕃新聞",
+   "description": "(焦點時報/鄒志中報導)   變裝踩街、動漫歌手、寶萊塢舞秀輪番上陣，藝術街化身萬聖節奇幻樂園！台中",
+   "cities": {
+    "台中市": 34,
+    "台北市": 2
+   },
+   "districts": [
+    "東海藝術街商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 2067,
+   "image": "https://ni.yam.com/20261101/639091712-8f094f0b4ec73b22.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7332/9849847": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T10:48+08:00",
+   "site_name": "聯合新聞網",
+   "description": "昨天萬聖節台北天母商圈、圓山花博等地都有相關活動，即便有人藉變裝諷刺時政或政治人物，民眾對此也多一笑置之，但中國大陸多地警方在萬聖節這天卻是如臨大敵，主要是因在新冠疫情解封後的2023年，上海街頭湧現大批頗具創意的角色扮演（Cosplay），許多年輕人藉由變裝隱晦表達不滿，自此萬聖節在中國就變成敏感節日。",
+   "cities": {
+    "台北市": 2,
+    "新竹市": 2,
+    "新北市": 1,
+    "宜蘭縣": 1
+   },
+   "districts": [
+    "天母商圈（台北市）"
+   ],
+   "body_chars": 2244,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35473843.jpg&M=1&s=Y&x=0&y=0&sw=903&sh=602&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taisounds.com/news/content/109/297162": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T18:38+08:00",
+   "site_name": "太報 TaiSounds",
+   "description": "一年一度的台北白晝之夜今（10/31）晚在圓山自然景觀公園登場，台北市長蔣萬安致詞時也宣布，明年巴黎白晝之夜將有台灣優秀藝術家前往展出，讓在地優秀藝術家作品，可以在巴黎展出，這是第一次有這樣的機會。",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 216,
+   "image": "https://cdn.taisounds.com/newsimages/img/2026/1031/777e5c797ade4b7c83437af4ad860cf3.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261101496401": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T14:26+08:00",
+   "site_name": "蕃新聞",
+   "description": "報新聞/編輯部為活絡商圈發展並形塑商圈特色，臺北市商業處輔導台北後站批發商圈發展促進會辦理「第18屆",
+   "cities": {
+    "台北市": 11,
+    "台中市": 1
+   },
+   "districts": [
+    "後站商圈（台北市）"
+   ],
+   "body_chars": 1401,
+   "image": "https://ni.yam.com/20261101/taipei-cover-261101045321191-bbd8451a50dd0f26.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E9%B6%AF%E6%AD%8C%E8%80%81%E8%A1%97%E5%80%9F%E9%8C%A2%E9%81%AD%E6%8B%92-%E7%94%B7%E5%AD%90%E6%90%B6%E8%B5%B04%E8%90%AC%E5%85%83%E7%8F%BE%E9%87%91%E8%90%BD%E8%B7%91-6%E5%B0%8F%E6%99%82%E6%96%B0%E7%AB%B9%E8%90%BD%E7%B6%B2-082004555.html": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T16:20+08:00",
+   "site_name": "Yahoo News",
+   "description": "社會中心／黃國誠　劉毓琦　新北市報導男子向店家借錢，遭到婉拒，竟搶走四萬現金落跑！新北市鶯歌一名朱姓男子，來到陶瓷老街，針對一間陶藝店，打算抵押身分證，跟店家借錢時候被拒絕，男子竟趁店員不注意，搶走桌上四萬元現金後落跑，一路跑到火車站，搭車南下，警方循線抓人，六個小時後，就在新竹落網。\n一名黃衣男子，突然頭也不回，就在",
+   "cities": {
+    "新竹縣": 18,
+    "台北市": 5,
+    "新北市": 5,
+    "高雄市": 3,
+    "台中市": 2
+   },
+   "districts": [],
+   "body_chars": 3288,
+   "image": "https://media.zenfs.com/en/video.asiaftv.com/02e9ed397d39df921d28d4f343c72b7b.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.setn.com/ampnews/1931121": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T07:17+08:00",
+   "site_name": "三立新聞網",
+   "description": "誠品生活持續擴展通路，今天公告取得台北捷運中山站商鋪使用權資產，預計明年第1季改裝完成開幕，未來將串聯誠品生活南西、地下書街誠品R79及爵士廣場，擴大商圈經營。",
+   "cities": {
+    "台北市": 5
+   },
+   "districts": [],
+   "body_chars": 388,
+   "image": "https://attach.setn.com/newsimages/2026/10/30/5769367-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E8%90%AC%E8%81%96%E5%A4%9C%E4%B8%8D%E5%B9%B3%E9%9D%9C-2%E7%94%B7%E8%A1%8C%E8%BB%8A%E7%B3%BE%E7%B4%9B%E6%89%8D%E8%90%BD%E5%B9%95-%E5%90%8C%E5%B7%B7%E5%BC%84%E5%87%8C%E6%99%A8%E5%8F%88%E7%88%86%E8%A1%9D%E7%AA%81-062000329.html": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T14:20+08:00",
+   "site_name": "Yahoo News",
+   "description": "[FTNN新聞網]記者林欣愉／綜合報導適逢萬聖節，台北市信義商圈昨（31）日舉行「古今穿越變裝派對」活動，吸引許多民眾變裝參與，歡度節日。然而，商圈周邊卻...",
+   "cities": {
+    "台北市": 12,
+    "高雄市": 3,
+    "嘉義縣": 3,
+    "宜蘭縣": 2,
+    "新北市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 3046,
+   "image": "https://media.zenfs.com/ko/ftnn_com_tw_939/07f497920dd754fc2a10447d6ada65e5.png",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E5%90%8A%E8%BB%8A%E4%B8%80%E8%BD%89-%E6%93%8A%E7%A0%B4%E5%85%AC%E8%BB%8A%E7%8E%BB%E7%92%83-%E5%9A%87%E5%A3%9E%E4%B9%98%E5%AE%A2-shorts/vi-AA2gvX6Y": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.msn.com/zh-tw/news/other/%E9%B6%AF%E6%AD%8C%E8%80%81%E8%A1%97%E5%80%9F%E9%8C%A2%E9%81%AD%E6%8B%92%E7%94%B7%E5%AD%90%E6%90%B6%E8%B5%B04%E8%90%AC%E5%85%83%E7%8F%BE%E9%87%91%E8%90%BD%E8%B7%91-6%E5%B0%8F%E6%99%82%E6%96%B0%E7%AB%B9%E8%90%BD%E7%B6%B2/ar-AA2gwpeE": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://today.line.me/tw/v3/posts/list/article/YapvvkN": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 萬聖節　馬公商圈變裝踩街好熱鬧（1）(圖)",
+   "cities": {},
+   "districts": [],
+   "body_chars": 115,
+   "image": "https://today-obs.line-scdn.net/0hW8mJdPlfCBdQMxSVqQt3QGhlBGZjVRIeclYSdiA6Ui98HxsSOQZbdHU7VzsuUUpIcFdDcCFhX3V6U0xEZQ/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://udn.com/news/story/7332/9850106": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T13:37+08:00",
+   "site_name": "聯合新聞網",
+   "description": "中國唯一聚焦LGBT議題、有25年歷史的北京酷兒影展（現稱愛酷電影週）原定10月30日舉行，卻在前一天深夜突然發布聲明取...",
+   "cities": {
+    "宜蘭縣": 1
+   },
+   "districts": [],
+   "body_chars": 1991,
+   "image": "https://udn.com/static/img/UDN_BABY.png",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ebc.net.tw/news/living/578529": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T16:32+08:00",
+   "site_name": "東森新聞",
+   "description": "年底尾牙、年菜旺季將至，中聯油遭勒令停工造成沙拉油、耐炸油缺貨，價格漲幅接近2成，飯店業者預估桌菜價格恐調漲約5％。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 698,
+   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/01/1793547351_82023.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://leho.com.tw/archives/416337": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T21:29+08:00",
+   "site_name": "樂聯網",
+   "description": "睿傳媒｜生活中心/綜合報導 以濃郁香料咖哩擄獲饕客味蕾的知名連鎖品牌「魔法咖哩」，今（30）日宣布，隱身於台北 […]",
+   "cities": {
+    "台北市": 6
+   },
+   "districts": [],
+   "body_chars": 1187,
+   "image": "https://www.right-media.news/wp-content/uploads/2026/10/34b82546f6c5691222969f2a31a4db7f-1.png",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/eLpOGaK": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 大須商店街攻略｜交通、古董市集、公休日 30 秒看懂",
+   "cities": {},
+   "districts": [],
+   "body_chars": 120,
+   "image": "https://today-obs.line-scdn.net/0hL1K1em6QEx52SA-cFdZsSU4eH29FLgkXVHoLKFRPSSsLZFdOH3pAfQcfSTILfVBMVihVfQQaTy9ZcFdKSA/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://today.line.me/tw/v3/article/ZapNzoL": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T15:53+08:00",
+   "site_name": "LINE TODAY",
+   "description": "善化警分局日前接獲110報案及網路社群Threads民眾反映，位在善化市區某飲料店樓上，一間民宅出入人員複雜，疑似暗中在經營色情交易場所，並...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 700,
+   "image": "https://today-obs.line-scdn.net/0hBu3v7UQeHVoODwHZZqNiDTZZESs9aQdTLGkAPioNF2skI1pcMj1OOX4PSnZzbVMFLmwAOHwPF290PwoNYA/w1200",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mnews.tw/story/20261101sot1122001": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T11:22+08:00",
+   "site_name": "鏡新聞",
+   "description": "台北市長蔣萬安昨天（31日）才參加電視辯論，下午又接連參加同志大遊行，以及晚間的白晝之夜活動，由於現場有電子舞曲播放，他也短暫隨著音樂跳舞擺動；結束市政行程後，他又馬不停蹄，前往晴光商圈拜票，而這也是他掛病號，第一個掃街行程，現場還有攤商送上知名豬腳，他不忘前幾天「代夫出征」的妻子石舫亘，立馬說，要帶回去給老婆吃；不過",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [
+    "晴光商圈（台北市）"
+   ],
+   "body_chars": 391,
+   "image": "https://statics.mnews.tw/images/91169f2f-a250-407e-9c9f-3dc8843038bb-w1600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ftnn.com.tw/news/591958": {
+   "checked_at": "2026-11-01T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T14:20+08:00",
+   "site_name": "FTNN 新聞網",
+   "description": "記者林欣愉／綜合報導適逢萬聖節，台北市信義商圈昨（31）日舉行「古今穿越變裝派對」活動，吸引許多民眾變裝參與，歡度節日。然而，商圈周邊卻接連傳出衝突事件。信義區松壽路20巷口有2名男子各自駕車，疑因變換車道問題發生行車糾紛；約2小時後，同一巷弄又傳出肢體衝突，相關影片在社群媒體流傳。警方表示，第二起...",
+   "cities": {
+    "台北市": 3,
+    "宜蘭縣": 2,
+    "高雄市": 1,
+    "屏東縣": 1,
+    "花蓮縣": 1
+   },
+   "districts": [],
+   "body_chars": 1459,
+   "image": "https://i01.ftnn.com.tw/a/26/304/26304142449279617e3a98.png",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
    "date_hint_from": "原文時間"
   }
  }
