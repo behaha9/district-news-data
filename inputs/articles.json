@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T07:17:55+08:00",
+ "fetched_at": "2026-11-01T08:13:54+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-11-01T07:17+08:00",
@@ -7892,6 +7892,151 @@
    "image_checked": true,
    "date_hint": "2026-11-01",
    "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E8%90%AC%E8%81%96%E7%AF%80-%E9%A6%AC%E5%85%AC%E5%95%86%E5%9C%88%E8%AE%8A%E8%A3%9D%E8%B8%A9%E8%A1%97%E5%A5%BD%E7%86%B1%E9%AC%A7-1-%E5%9C%96-133949786.html": {
+   "checked_at": "2026-11-01T08:13+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T21:39+08:00",
+   "site_name": "Yahoo News",
+   "description": "澎湖縣馬公市31日萬聖節迎來「萌鬼出任務，萬聖踩街趣」活動，大小朋友一同變裝踩街，體驗西洋萬聖節節慶文化，氣氛熱鬧。",
+   "cities": {
+    "台北市": 15,
+    "澎湖縣": 2,
+    "台中市": 1,
+    "新竹": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 2622,
+   "image": "https://media.zenfs.com/zh-tw/cna.com.tw/2fa4a85a384c8ee8bb0a880f79714e9d.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%9C%8B%E5%85%A7%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35-000%E5%99%B8-121221255.html": {
+   "checked_at": "2026-11-01T08:13+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T20:12+08:00",
+   "site_name": "Yahoo News",
+   "description": null,
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 3043,
+   "image": "https://media.zenfs.com/ko/taiwantimes_374/69271754d132129e6bb78c311a256009.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/lifestyle/other/%E8%87%BA%E4%B8%AD%E6%8B%9A%E7%B6%93%E6%BF%9F-%E7%89%A9%E8%AA%BF%E5%88%B8%E5%B8%B6%E5%8B%95%E5%B8%82%E5%A0%B4-%E5%95%86%E5%9C%88-%E5%A4%9C%E5%B8%82%E8%B2%B7%E6%B0%A3-newsebc/vi-AA2gtSf4": {
+   "checked_at": "2026-11-01T08:13+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5625340": {
+   "checked_at": "2026-11-01T08:13+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T08:08+08:00",
+   "site_name": "自由時報電子報",
+   "description": "首次上稿 10-31 23:56更新時間 11-01 08:08位於台南市中西區的排隊名店「阿明豬心冬粉」，老闆娘近日不幸車禍離世，傳出店家無限期暫停營業，讓不少老饕錯愕。但店家週六（10月31日）發布公告澄清，沒有宣布無限期停業，但確實需要一些時間調適心情，後續營業安排會再告訴大家。",
+   "cities": {
+    "台南市": 5,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 1065,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/31/phpUK1zSU.png",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5625393": {
+   "checked_at": "2026-11-01T08:13+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T07:37+08:00",
+   "site_name": "自由時報電子報",
+   "description": "營業30年的新光三越台南中山店熄燈，前一晚才被滿場民眾的歡呼與淚水包圍，熄燈後隨即展開拆除作業，施工單位從凌晨4點一路拆到早上6點，短短2個小時就把高聳招牌卸下平躺在馬路上，只留下白色的建築外觀。​昨天深夜才正式結束營業的新光三越台南中山店，熱鬧送別的人潮剛散去，施工團隊便火速進駐拉起黃色封鎖線。兩百噸的重型吊車與工程",
+   "cities": {
+    "台南市": 7,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 840,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/01/5625393_4_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.sohu.com/a/1095477018_122387568": {
+   "checked_at": "2026-11-01T08:13+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T20:25+08:00",
+   "site_name": "搜狐网",
+   "description": "在这个充满可能性的舞台上，青年们的创意与激情正如同一股新风，席卷着金山的每一个角落。无论是艺术的表达，还是文化的交流，“艺青春·舞台主理人计划”都在向人们传递着一个信号：年轻的力量正在崛起，未来的文化艺术之路…",
+   "cities": {},
+   "districts": [
+    "金山商圈（新北市）"
+   ],
+   "body_chars": 745,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taisounds.com/news/content/133/297162": {
+   "checked_at": "2026-11-01T08:13+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T18:38+08:00",
+   "site_name": "太報 TaiSounds",
+   "description": "一年一度的台北白晝之夜今（10/31）晚在圓山自然景觀公園登場，台北市長蔣萬安致詞時也宣布，明年巴黎白晝之夜將有台灣優秀藝術家前往展出，讓在地優秀藝術家作品，可以在巴黎展出，這是第一次有這樣的機會。",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 216,
+   "image": "https://cdn.taisounds.com/newsimages/img/2026/1031/777e5c797ade4b7c83437af4ad860cf3.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/MLBYa8M": {
+   "checked_at": "2026-11-01T08:13+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 市場沙拉油缺口仍大！經濟部協調油品進口商第4季擴大進口5000噸",
+   "cities": {},
+   "districts": [],
+   "body_chars": 126,
+   "image": "https://today-obs.line-scdn.net/0hM4Kt_SeZEht2DQ6Y-8xtTE5bHmpFawgSVG9deVQFSyJeIVBLQ2tBeAdZHDcIP1cZVj8PflsMRXxfPAcfTQ/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://today.line.me/tw/v3/posts/list/article/zNWLga6": {
+   "checked_at": "2026-11-01T08:13+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 中聯大豆沙拉油致癌物超標　北市衛生局：已完成19家業者查核並擴大抽驗",
+   "cities": {},
+   "districts": [],
+   "body_chars": 128,
+   "image": "https://today-obs.line-scdn.net/0hJLEg-VAdFWN4HglJz3pqNEBIGRJLeA9qWn0NVlUXGwZXMlUyRixGAAoeS09cL1MyWCxbUg1NGwMBfVY8RA/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   }
  }
 }
