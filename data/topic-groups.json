@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-01T17:05:00+08:00",
+  "updated_at": "2026-11-02T07:30:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -10,7 +10,8 @@
           "note": "沙拉油荒恐衝擊尾牙、年菜並帶動價格上漲",
           "representative": "https://news.ebc.net.tw/news/living/578529",
           "urls": [
-            "https://news.ebc.net.tw/news/living/578529"
+            "https://news.ebc.net.tw/news/living/578529",
+            "https://today.line.me/tw/v3/article/PGz70O8"
           ]
         },
         {
@@ -90,6 +91,15 @@
           "representative": "https://udn.com/news/story/7266/9835478",
           "urls": [
             "https://udn.com/news/story/7266/9835478"
+          ]
+        },
+        {
+          "id": "20261101-zheng-campaign",
+          "note": "國民黨主席鄭麗文為候選人站台時提到沙拉油荒",
+          "representative": "https://udn.com/news/story/124652/9850563",
+          "urls": [
+            "https://udn.com/news/story/124652/9850563",
+            "https://udn.com/vote2026/story/124652/9850563"
           ]
         }
       ],

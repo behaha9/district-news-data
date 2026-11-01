@@ -1,0 +1,109 @@
+{
+ "date": "2026-11-02",
+ "runs": [
+  {
+   "at": "2026-11-02T07:18:04+08:00",
+   "added": 0,
+   "merged": 2,
+   "items": [
+    {
+     "id": "20261031-donghai-halloween",
+     "title": "台中東海藝術街萬聖搞怪趴登場，東海商圈變裝熱鬧",
+     "summary": "台中東海商圈在東海藝術街舉辦萬聖節活動，現場有變裝與搞怪演出。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-01T21:46:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "東海藝術街商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "東海藝術街商圈為115年補助名單，活動已辦理，可作為執行佐證參考。",
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261101242775",
+       "published_at": "2026-11-01T21:46:00+08:00"
+      },
+      {
+       "outlet": "焦點時報",
+       "url": "https://focus.586.com.tw/2026/11/01/p409515/",
+       "published_at": "2026-11-01T16:02:00+08:00"
+      },
+      {
+       "outlet": "互傳媒",
+       "url": "https://hoomedia.com.tw/2026/11/01/177844/",
+       "published_at": "2026-11-01T12:32:00+08:00"
+      },
+      {
+       "outlet": "臺中市政府",
+       "url": "https://www.taichung.gov.tw/3404107/post",
+       "published_at": "2026-10-31T21:05:00+08:00"
+      }
+     ],
+     "image": "https://ni.yam.com/20261101/taichung-cover-261101054220643-c9b1ce4aa1da8eae.webp"
+    },
+    {
+     "id": "20261023-fengyuan-halloween",
+     "title": "豐原商圈10月31日舉辦討糖嘉年華",
+     "summary": "台中萬聖節活動中，豐原商圈訂10月31日舉辦討糖嘉年華。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-01T14:36:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "豐原商圈",
+       "priority": false
+      },
+      {
+       "name": "豐原廟東復興商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261101700483-431207",
+       "published_at": "2026-11-01T14:36:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7314/9849912",
+       "published_at": "2026-10-31T20:30:00+08:00"
+      },
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/756429/",
+       "published_at": "2026-10-31T18:48:00+08:00"
+      },
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/11799/9842147",
+       "published_at": "2026-10-29T10:02:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261023291312",
+       "published_at": "2026-10-23T15:12:00+08:00"
+      },
+      {
+       "outlet": "報新聞",
+       "url": "https://www.contentplatform.info/articles/546796/%E5%8F%B0%E4%B8%AD%E8%90%AC%E8%81%96%E7%AF%80%E6%B4%BB%E5%8B%95%E5%9C%B0%E5%9C%96%E3%80%80%E8%B1%90%E5%8E%9F%E5%95%86%E5%9C%8810-31%E8%A8%8E%E7%B3%96%E5%98%89%E5%B9%B4%E8%8F%AF%E3%80%80%E5%B8%82/",
+       "published_at": "2026-10-23T00:00:00+08:00"
+      }
+     ],
+     "image": "https://images.ctee.com.tw/newsphoto/2026-11-01/1024/20261101700484.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
+  }
+ ]
+}
