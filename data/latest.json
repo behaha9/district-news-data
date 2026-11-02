@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T20:57:45+08:00",
+ "generated_at": "2026-11-03T07:19:17+08:00",
  "items": [
   {
    "id": "20261102-yucheng-new-store",
@@ -103,6 +103,32 @@
    ],
    "admin_note": "鹿港老街、北埔老街商圈為115年補助名單，月別人潮數據可留意活動檔期與KPI人流目標的對照。",
    "image": "https://images.storm.mg/cloud/1b94de651e889d80b92594b8ef543ad7425974d8.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2241661%2FNG7sygeKxuzJwqviNsCPXKJ1JMtuTDut7zPb6Sbc.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
+  },
+  {
+   "id": "20261102-zhuzhi-cleanup",
+   "title": "薔琵颱風後竹崎商圈協會動員志工淨山，維護觀音瀑布",
+   "summary": "嘉義縣竹崎商圈文化觀光發展協會在颱風過後號召志工清理山區被風吹落的樹枝，維護步道環境與遊客安全。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-02T12:00:00+08:00",
+   "cities": [
+    "嘉義縣"
+   ],
+   "districts": [
+    {
+     "name": "竹崎商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "竹崎商圈為115年補助名單，協會自辦公益淨山，可作為商圈營運與在地參與的參考。",
+   "sources": [
+    {
+     "outlet": "信吉衛視",
+     "url": "https://www.sjtv.com.tw/articles/120173",
+     "published_at": "2026-11-02T12:00:00+08:00"
+    }
+   ],
+   "image": "https://www.sjtv.com.tw/uploads/articles/thumbnails/2026/202611/20261102/img_6ae7f7185efbd2.79166856_1793586968_thumb.jpg"
   },
   {
    "id": "20261102-taichung-wudiao-business",
@@ -408,6 +434,11 @@
     {
      "outlet": "Yahoo新聞",
      "url": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E5%90%8A%E8%BB%8A-%E8%BD%89-%E6%93%8A%E7%A0%B4%E5%85%AC%E8%BB%8A%E7%8E%BB%E7%92%83-%E5%9A%87%E5%A3%9E%E4%B9%98%E5%AE%A2-153300473.html",
+     "published_at": "2026-10-31T23:33:00+08:00"
+    },
+    {
+     "outlet": "東森新聞",
+     "url": "https://news.ebc.net.tw/news/society/578441",
      "published_at": "2026-10-31T23:33:00+08:00"
     },
     {
@@ -845,8 +876,14 @@
      "outlet": "觀傳媒",
      "url": "https://www.watchmedia01.com/archives/564050",
      "published_at": "2026-10-29T17:19:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261029388673",
+     "published_at": "2026-10-29T17:19:00+08:00"
     }
-   ]
+   ],
+   "image": "https://ni.yam.com/20261029/20261029171901_0_c179e4-016bafeda64028fd.webp"
   },
   {
    "id": "20261028-old-street-ranking",
@@ -904,6 +941,11 @@
     {
      "outlet": "工商時報",
      "url": "https://www.ctee.com.tw/news/20261029701503-431401",
+     "published_at": "2026-10-29T14:32:00+08:00"
+    },
+    {
+     "outlet": "中時新聞網",
+     "url": "https://www.chinatimes.com/realtimenews/20261029003008-260405",
      "published_at": "2026-10-29T14:32:00+08:00"
     },
     {
