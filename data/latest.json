@@ -1,7 +1,39 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T12:18:20+08:00",
+ "generated_at": "2026-11-02T16:52:19+08:00",
  "items": [
+  {
+   "id": "20261102-old-street-crowd-data",
+   "title": "觀光署數據顯示：鹿港、內灣、北埔、安平等老街人潮各月高低有別",
+   "summary": "風傳媒依觀光署2025年主要觀光遊憩據點統計，整理鹿港、內灣、北埔、安平等熱門老街各月人潮高低，供民眾避開人潮參考。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-02T15:59:00+08:00",
+   "cities": [
+    "彰化縣",
+    "新竹縣",
+    "台南市"
+   ],
+   "districts": [
+    {
+     "name": "鹿港老街商圈",
+     "priority": true
+    },
+    {
+     "name": "北埔老街商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "風傳媒",
+     "url": "https://www.storm.mg/lifestyle/11176561",
+     "published_at": "2026-11-02T15:59:00+08:00"
+    }
+   ],
+   "admin_note": "鹿港老街、北埔老街商圈為115年補助名單，月別人潮數據可留意活動檔期與KPI人流目標的對照。",
+   "image": "https://images.storm.mg/cloud/1b94de651e889d80b92594b8ef543ad7425974d8.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2241661%2FNG7sygeKxuzJwqviNsCPXKJ1JMtuTDut7zPb6Sbc.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
+  },
   {
    "id": "20261102-taichung-wudiao-business",
    "title": "臺中物調券帶動市場、商圈買氣升溫，使用期限至11月5日",
@@ -21,6 +53,37 @@
     }
    ],
    "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/02/1793619322_48322.jpg"
+  },
+  {
+   "id": "20261030-xinzhuang-market",
+   "title": "新莊第一零售市場改造啟用，增設廚藝教室並更新老街周邊環境",
+   "summary": "新莊第一零售市場於10月30日改造後啟用，增設廚藝教室，報導指新莊老街周邊也一併更新。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-02T00:00:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [
+    {
+     "name": "新莊廟街商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "LIFE生活網",
+     "url": "https://life.tw/article/%E6%96%B0%E5%8C%97%E6%96%B0%E8%8E%8A%E8%80%81%E8%A1%97%E6%96%B0%E9%A2%A8%E6%99%AF-%E7%AC%AC%E4%B8%80%E5%B8%82%E5%A0%B4%E6%94%B9%E9%80%A0%E5%AE%8C%E6%88%90-50%E5%B9%B4%E8%80%81%E5%B8%82%E5%A0%B4%E8%AE%8A%E7%BE%8E%E4%BA%86-3201112",
+     "published_at": "2026-11-02T00:00:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261030713572",
+     "published_at": "2026-10-30T12:28:00+08:00"
+    }
+   ],
+   "admin_note": "新莊廟街商圈為115年補助名單，市場與老街周邊環境更新可留意與商圈計畫的銜接。",
+   "image": "https://taiwan.sharelife.tw/tw-news-img/352215/9508011126051122.jpg"
   },
   {
    "id": "20261031-donghai-halloween",
@@ -594,32 +657,6 @@
    ],
    "admin_note": "自由路商圈為115年補助名單，參與物調券優惠可能與商圈消費活絡成效有關。",
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/30/5624315_2_1.jpg"
-  },
-  {
-   "id": "20261030-xinzhuang-market",
-   "title": "新莊第一零售市場改造啟用，增設廚藝教室並更新老街周邊環境",
-   "summary": "新莊第一零售市場於10月30日改造後啟用，增設廚藝教室，報導指新莊老街周邊也一併更新。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-10-30T12:28:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [
-    {
-     "name": "新莊廟街商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261030713572",
-     "published_at": "2026-10-30T12:28:00+08:00"
-    }
-   ],
-   "admin_note": "新莊廟街商圈為115年補助名單，市場與老街周邊環境更新可留意與商圈計畫的銜接。",
-   "image": "https://ni.yam.com/20261030/uploaddowndoc-2-bd891f9682925224.webp"
   },
   {
    "id": "20261029-yanshui-carnival",
@@ -2546,51 +2583,6 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35435365.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=1050&exp=3600"
-  },
-  {
-   "id": "20261019-tiaotong-transform",
-   "title": "條通商圈理事長：商圈需要轉型而非阻隔，盼各界少點口水",
-   "summary": "沈伯洋提以樹木或車架阻隔條通引發爭議，條通商圈產業發展促進會理事長許中獻表示應讓外界看見條通文化與店家特色。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-10-19T15:46:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "條通商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "條通商圈為115年補助名單，商圈改造議題受選舉關注，可留意後續規劃對商圈的影響。",
-   "sources": [
-    {
-     "outlet": "中天新聞網",
-     "url": "https://ctinews.com/news/items/8knJqByvxo",
-     "published_at": "2026-10-19T15:46:00+08:00"
-    }
-   ]
-  },
-  {
-   "id": "20261019-daxi-traffic-control",
-   "title": "光復節連假大溪老街周邊實施交通管制，時間與路線一次看",
-   "summary": "因應光復節連假車潮，桃園大溪老街周邊實施交通管制，公布管制時段與替代路線。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-10-19T13:47:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "工商時報",
-     "url": "https://www.ctee.com.tw/news/20261019701098-431401",
-     "published_at": "2026-10-19T13:47:00+08:00"
-    }
-   ],
-   "image": "https://images.ctee.com.tw/newsphoto/2026-10-19/1024/20261019701099.jpg"
   }
  ],
  "discussions": []

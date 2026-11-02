@@ -194,6 +194,78 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-02T16:52:19+08:00",
+   "added": 1,
+   "merged": 1,
+   "items": [
+    {
+     "id": "20261102-old-street-crowd-data",
+     "title": "觀光署數據顯示：鹿港、內灣、北埔、安平等老街人潮各月高低有別",
+     "summary": "風傳媒依觀光署2025年主要觀光遊憩據點統計，整理鹿港、內灣、北埔、安平等熱門老街各月人潮高低，供民眾避開人潮參考。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-02T15:59:00+08:00",
+     "cities": [
+      "彰化縣",
+      "新竹縣",
+      "台南市"
+     ],
+     "districts": [
+      {
+       "name": "鹿港老街商圈",
+       "priority": true
+      },
+      {
+       "name": "北埔老街商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "風傳媒",
+       "url": "https://www.storm.mg/lifestyle/11176561",
+       "published_at": "2026-11-02T15:59:00+08:00"
+      }
+     ],
+     "admin_note": "鹿港老街、北埔老街商圈為115年補助名單，月別人潮數據可留意活動檔期與KPI人流目標的對照。",
+     "image": "https://images.storm.mg/cloud/1b94de651e889d80b92594b8ef543ad7425974d8.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2241661%2FNG7sygeKxuzJwqviNsCPXKJ1JMtuTDut7zPb6Sbc.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
+    },
+    {
+     "id": "20261030-xinzhuang-market",
+     "title": "新莊第一零售市場改造啟用，增設廚藝教室並更新老街周邊環境",
+     "summary": "新莊第一零售市場於10月30日改造後啟用，增設廚藝教室，報導指新莊老街周邊也一併更新。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-02T00:00:00+08:00",
+     "cities": [
+      "新北市"
+     ],
+     "districts": [
+      {
+       "name": "新莊廟街商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "LIFE生活網",
+       "url": "https://life.tw/article/%E6%96%B0%E5%8C%97%E6%96%B0%E8%8E%8A%E8%80%81%E8%A1%97%E6%96%B0%E9%A2%A8%E6%99%AF-%E7%AC%AC%E4%B8%80%E5%B8%82%E5%A0%B4%E6%94%B9%E9%80%A0%E5%AE%8C%E6%88%90-50%E5%B9%B4%E8%80%81%E5%B8%82%E5%A0%B4%E8%AE%8A%E7%BE%8E%E4%BA%86-3201112",
+       "published_at": "2026-11-02T00:00:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261030713572",
+       "published_at": "2026-10-30T12:28:00+08:00"
+      }
+     ],
+     "admin_note": "新莊廟街商圈為115年補助名單，市場與老街周邊環境更新可留意與商圈計畫的銜接。",
+     "image": "https://taiwan.sharelife.tw/tw-news-img/352215/9508011126051122.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }

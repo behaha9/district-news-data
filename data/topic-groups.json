@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-02T12:30:00+08:00",
+  "updated_at": "2026-11-02T17:00:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -11,7 +11,8 @@
           "representative": "https://news.ebc.net.tw/news/living/578529",
           "urls": [
             "https://news.ebc.net.tw/news/living/578529",
-            "https://today.line.me/tw/v3/article/PGz70O8"
+            "https://today.line.me/tw/v3/article/PGz70O8",
+            "https://today.line.me/tw/v3/posts/list/article/1DPngD9"
           ]
         },
         {
@@ -20,7 +21,8 @@
           "representative": "https://tw.news.yahoo.com/%E5%8F%B0%E7%B3%96%E7%B2%97%E6%B2%B9%E6%8E%A1%E8%B3%BC%E6%A1%88%E6%B5%81%E6%A8%99-%E5%B8%82%E5%A0%B4%E5%90%83%E7%B7%8A-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E9%9B%A3%E8%A3%9C-223229348.html",
           "urls": [
             "https://tw.news.yahoo.com/%E5%8F%B0%E7%B3%96%E7%B2%97%E6%B2%B9%E6%8E%A1%E8%B3%BC%E6%A1%88%E6%B5%81%E6%A8%99-%E5%B8%82%E5%A0%B4%E5%90%83%E7%B7%8A-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E9%9B%A3%E8%A3%9C-223229348.html",
-            "https://today.line.me/tw/v3/article/Kw7mLrN"
+            "https://today.line.me/tw/v3/article/Kw7mLrN",
+            "https://today.line.me/tw/v3/posts/list/article/Kw7mLrN"
           ]
         },
         {
@@ -102,6 +104,14 @@
             "https://udn.com/news/story/124652/9850563",
             "https://udn.com/vote2026/story/124652/9850563",
             "https://udn.com/news/story/7266/9851366"
+          ]
+        },
+        {
+          "id": "20261102-affected-brands",
+          "representative": "https://today.line.me/tw/v3/posts/list/article/QwBWXR0",
+          "note": "致癌物超標油外流擴大，晶華、王品等餐飲品牌受影響",
+          "urls": [
+            "https://today.line.me/tw/v3/posts/list/article/QwBWXR0"
           ]
         }
       ],
