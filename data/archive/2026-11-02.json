@@ -266,6 +266,131 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-02T20:57:45+08:00",
+   "added": 4,
+   "merged": 0,
+   "items": [
+    {
+     "id": "20261102-east-district-vacancy",
+     "title": "臺北市商業處：大巨蛋帶動東區商機，空店率降至8.85%，振興計畫持續推動",
+     "summary": "北市商業處表示大巨蛋串聯帶動忠孝東區商機，東區商圈空店率降至8.85%，並持續推動軟硬體升級的振興計畫。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-02T00:00:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "東區商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "臺北市商業處",
+       "url": "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=09F9BEB89B559353",
+       "published_at": "2026-11-02T00:00:00+08:00"
+      }
+     ],
+     "admin_note": "東區商圈為115年補助名單，空店率與振興計畫進度可留意計畫成效與KPI對照。",
+     "image": "https://www.tcooc.gov.taipei/images/egov.png"
+    },
+    {
+     "id": "20261102-showup-taipei-tickets",
+     "title": "小巨蛋演唱會票根可享380多家商圈特約店家優惠",
+     "summary": "北市商業處推出「Show Up台北」，民眾登錄演唱會門票可抽獎、領折抵券，憑票根另享逾380家商圈特約店家優惠。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-02T00:00:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "臺北市商業處",
+       "url": "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=7256DD6F853DFC8A",
+       "published_at": "2026-11-02T00:00:00+08:00"
+      }
+     ],
+     "image": "https://www-ws.gov.taipei/001/Upload/409/relpic/10162/9736242/d552e26b-ecc9-40e0-af1c-41aada63914d@710x470.jpg"
+    },
+    {
+     "id": "20261102-tainan-zhanqian",
+     "title": "臺南站前商圈持續發展，市府樂見多元投資活化商業空間",
+     "summary": "臺南市政府表示站前商圈持續發展，樂見多元投資進駐，活化周邊商業空間。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-02T17:56:00+08:00",
+     "cities": [
+      "台南市"
+     ],
+     "districts": [
+      {
+       "name": "站前商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "中華日報",
+       "url": "https://www.cdns.com.tw/articles/1484010",
+       "published_at": "2026-11-02T17:56:00+08:00"
+      },
+      {
+       "outlet": "臺南市政府",
+       "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8844696",
+       "published_at": "2026-11-02T15:30:00+08:00"
+      }
+     ],
+     "image": "https://www.tainan.gov.tw/images/aqi.png"
+    },
+    {
+     "id": "20261102-yucheng-new-store",
+     "title": "鄧師傅新品牌「復興北外婆家」第二家門市插旗高雄裕誠商圈",
+     "summary": "高雄「鄧師傅功夫菜」推出家常台菜新品牌，繼鳳山首店後，第二家門市開在北高雄餐飲聚集的裕誠商圈。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-02T18:08:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [
+      {
+       "name": "裕誠商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/5612/9852481",
+       "published_at": "2026-11-02T18:08:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7241/9852481",
+       "published_at": "2026-11-02T18:07:00+08:00"
+      },
+      {
+       "outlet": "風傳媒",
+       "url": "https://www.storm.mg/article/11177815",
+       "published_at": "2026-11-02T17:56:00+08:00"
+      },
+      {
+       "outlet": "臺灣導報",
+       "url": "https://taiwanreports.com/archives/1023336",
+       "published_at": "2026-11-02T17:56:00+08:00"
+      }
+     ],
+     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35478102.png&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
