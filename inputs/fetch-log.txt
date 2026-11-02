@@ -1,7 +1,7 @@
-23:17:02 attempt=1 code=200 url=https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d bytes=180979
-重點商圈查詢：第 202–301 處（共 281 處），新增 0 則，失敗 0 處；目前保留 87 則
-Google 新聞：查詢 5／5，原始 135 則，標題相關 44 則，保留 44 則，已還原原文網址 44 則；本次還原 {'online': 6}；錯誤 []
-關注議題：食用油：Google 128 則，新增 3 則，保留 32 則 {'價格動態': 21, '店家相關': 11}
+00:54:15 attempt=1 code=200 url=https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d bytes=144626
+重點商圈查詢：第 21–120 處（共 281 處），新增 1 則，失敗 46 處；目前保留 88 則
+Google 新聞：查詢 5／5，原始 121 則，標題相關 42 則，保留 42 則，已還原原文網址 42 則；本次還原 {'online': 2}；錯誤 []
+關注議題：食用油：Google 138 則，新增 3 則，保留 33 則 {'價格動態': 21, '店家相關': 12}
 Google 新聞移除舊聞： 嘉義雲海季推數位集章 跨區玩山林步道、部落與老街（原文日期 2020-08-22）
-原文預抓：新抓 28／28，成功 10；快取共 489 篇；縮圖 827 張
-23:17:20 filter_candidates exit=0
+原文預抓：新抓 5／5，成功 5；快取共 488 篇；縮圖 830 張
+00:54:32 filter_candidates exit=0

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T07:17:16+08:00",
+ "fetched_at": "2026-11-02T08:54:30+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-11-02T07:17+08:00",
@@ -94,89 +94,6 @@
    "checked_at": "2026-10-31T13:59+08:00",
    "status": 404,
    "error": "HTTP Error 404: Not Found"
-  },
-  "https://news.cts.com.tw/cna/local/202610/202610283094957.html": {
-   "checked_at": "2026-10-30T08:49+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  "https://news.nextapple.com/international/20261030/190FEFCE877F8EE62AA58D8F1E59DF6C": {
-   "checked_at": "2026-10-30T08:49+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T08:24+08:00",
-   "site_name": "壹蘋新聞網",
-   "description": "日本東京近來不平靜，知名「中野百老匯」商店街再度發生竊案，一支價值近千萬台幣的名錶在店員面前直接被帶走。",
-   "cities": {
-    "台北市": 2
-   },
-   "districts": [],
-   "body_chars": 2787,
-   "image": "https://static-cdn.nextapple.tw/prod/2026-10/190FEFCE877F8EE62AA58D8F1E59DF6C/dcdbb841e6fbd68cdbd4176a0669824b_1280.jpeg",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/realtimenews/20261029004582-260421": {
-   "checked_at": "2026-10-30T08:49+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T20:53+08:00",
-   "site_name": "中時新聞網",
-   "description": "金價持續走高，台南鹽水商圈卻連年拿黃金當摸彩大獎，讓吃貨也有機會當「金主」！「2026鹽水嘉年華－意暖鹽水 光映月津」將於11月1日登場，今年祭出3錢黃金金元寶，還加碼金戒指，另有iPad、腳踏車及現金獎等好禮。",
-   "cities": {
-    "台南市": 4
-   },
-   "districts": [
-    "鹽水商圈（台南市）"
-   ],
-   "body_chars": 784,
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-29/656/20261029004583.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.cnyes.com/news/id/6640710": {
-   "checked_at": "2026-10-30T08:49+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T15:28+08:00",
-   "site_name": "鉅亨網",
-   "description": null,
-   "cities": {
-    "高雄市": 1
-   },
-   "districts": [],
-   "body_chars": 520,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://money.udn.com/money/story/5599/9846071": {
-   "checked_at": "2026-10-30T08:49+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T06:00+08:00",
-   "site_name": "經濟日報",
-   "description": "日本東京都中野區同一條商店街繼今年8月之後，再度有鐘錶店失竊。警方指出，有歹徒昨晚假裝成客人並試戴價值約4600萬日圓（...",
-   "cities": {},
-   "districts": [],
-   "body_chars": 865,
-   "image": "https://money.udn.com/static/img/moneyudn.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.worldjournal.com/wj/amp/story/121480/9846115": {
-   "checked_at": "2026-10-30T08:49+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "世界新聞網",
-   "description": "日本東京都中野區同一條商店街繼今年8月之後，再度有鐘錶店失竊。警方指出，有歹徒昨晚假裝成客人並試戴價值約4600萬日圓（約30萬美元）的名錶後，就直接揚長而去。",
-   "cities": {},
-   "districts": [],
-   "body_chars": 435,
-   "image": "https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/30/35467813.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=809&sl=W&fw=800&exp=3600",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
   },
   "https://www.facebook.com/ETtoday/videos/%E7%B9%81%E8%8F%AF%E8%88%87%E5%AF%A7%E9%9D%9C%E7%9A%84%E5%AE%8C%E7%BE%8E%E4%BA%A4%E9%9B%86-%E5%8F%B0%E5%8D%97%E6%98%9F%E9%91%BD%E7%89%B9%E5%8D%80%E4%B8%89%E8%A7%92%E9%87%91%E8%BB%B8%E4%B8%8B%E7%9A%84%E6%B0%B4%E5%B2%B8%E7%B6%A0%E6%B4%B2-%E5%88%86%E4%BA%AB%E5%87%BA%E9%96%80%E6%98%AF%E9%87%91%E8%BB%B8%E5%95%86%E5%9C%88%E5%9B%9E%E5%AE%B6%E6%98%AF%E8%A6%AA%E6%B0%B4%E7%B6%A0%E6%84%8F-%E9%8E%96%E5%AE%9A%E5%8F%B0%E5%8D%97%E6%88%BF%E5%B8%82%E6%96%B0%E7%84%A6%E9%BB%9E%EF%B8%8F%E4%B8%AD%E8%A5%BF%E5%8D%80-%E5%9D%90%E6%93%81%E6%88%90%E7%86%9F%E5%95%86%E5%9C%88%E6%B7%B1%E5%8E%9A%E6%96%87%E5%8C%96%E5%BA%95%E8%98%8A%E9%9A%A8%E8%91%97%E9%87%91%E8%9E%8D%E7%89%B9%E5%8D%80%E7%A7%91%E6%8A%80%E7%94%A2/1544302444126009/": {
    "checked_at": "2026-10-30T09:10+08:00",
@@ -8243,6 +8160,86 @@
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
+  },
+  "https://www.msn.com/zh-tw/news/other/%E7%8D%A8%E5%AE%B6-%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E5%90%8A%E8%BB%8A%E4%B8%80%E8%BD%89-%E6%93%8A%E7%A0%B4%E5%85%AC%E8%BB%8A%E7%8E%BB%E7%92%83-%E5%9A%87%E5%A3%9E%E4%B9%98%E5%AE%A2-2026-10-31-%E6%88%BF%E6%A5%AD%E6%B6%B5%E6%99%9A%E5%A0%B1-newsebc/vi-AA2gtHnb": {
+   "checked_at": "2026-11-02T08:54+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "網址"
+  },
+  "https://www.chinatimes.com/realtimenews/20261029004582-260421": {
+   "checked_at": "2026-11-02T08:54+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T20:53+08:00",
+   "site_name": "中時新聞網",
+   "description": "金價持續走高，台南鹽水商圈卻連年拿黃金當摸彩大獎，讓吃貨也有機會當「金主」！「2026鹽水嘉年華－意暖鹽水 光映月津」將於11月1日登場，今年祭出3錢黃金金元寶，還加碼金戒指，另有iPad、腳踏車及現金獎等好禮。",
+   "cities": {
+    "台南市": 4
+   },
+   "districts": [
+    "鹽水商圈（台南市）"
+   ],
+   "body_chars": 784,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-29/656/20261029004583.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E7%B6%93%E6%BF%9F%E9%83%A8-%E5%85%A8%E5%8A%9B%E5%8D%94%E5%8A%A9%E6%A5%AD%E8%80%85%E5%A2%9E%E7%94%A2%E5%8F%8A%E5%8A%A0%E9%80%9F%E9%80%B2%E5%8F%A3-093832419.html": {
+   "checked_at": "2026-11-02T08:54+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T17:38+08:00",
+   "site_name": "Yahoo News",
+   "description": "經濟部今（30）日表示，為因應中聯油脂停工對國內沙拉油供應造成的影響，持續受理食品業者用油需求，透過供需媒合、協調增產及鼓勵進口等措施，增加市場供應來源，協助業者取得所需原料。目前經濟部收到各界用油請求，除先前媒合大型業者外，也將協助中小型業者以商圈或夜市自治會為單位，由經濟部進行媒合協助，另外也呼籲地方政府及業者能讓",
+   "cities": {},
+   "districts": [],
+   "body_chars": 3607,
+   "image": "https://media.zenfs.com/ko/ebc__387/13921c2446e4cf9e65507e48cbccef08.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5624988": {
+   "checked_at": "2026-11-02T08:54+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T16:27+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台北市長蔣萬安今（31日）身體不適後首露面，與太太石舫亘分進合擊。蔣萬安出席電視辯論會後，趕場出席市議員候選人李傅鈺、柳采葳競選總部成立活動，以及同志大遊行；石舫亘則到迪化商圈掃街，立委王鴻薇、台北市議會副議長葉林傳、議員陳炳甫、議員候選人李易儒也陪同拜票。石舫亘今天下午到迪化商圈掃街，適逢霞海城隍廟有活動，人潮不少，",
+   "cities": {
+    "台北市": 5
+   },
+   "districts": [],
+   "body_chars": 629,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/31/5624988_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-01/2512936.html": {
+   "checked_at": "2026-11-02T08:54+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T20:15+08:00",
+   "site_name": "壹電視",
+   "description": "西門町商圈有水果攤價格標示不清，還有街頭畫家疑似用AI來作畫誆騙消費者。",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 272,
+   "image": "https://image.nexttv.com.tw/material/news/img/2026/11/2f65bd307a88ee9146c4c106c9485fbb.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
   }
  }
 }
