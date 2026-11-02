@@ -1,7 +1,27 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T07:18:04+08:00",
+ "generated_at": "2026-11-02T12:18:20+08:00",
  "items": [
+  {
+   "id": "20261102-taichung-wudiao-business",
+   "title": "臺中物調券帶動市場、商圈買氣升溫，使用期限至11月5日",
+   "summary": "臺中物調券發放100元變200元，吸引民眾排隊領取，市場、商圈買氣隨之升溫；使用期限為10月30日至11月5日。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-02T11:38:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "東森新聞",
+     "url": "https://news.ebc.net.tw/news/living/578648",
+     "published_at": "2026-11-02T11:38:00+08:00"
+    }
+   ],
+   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/02/1793619322_48322.jpg"
+  },
   {
    "id": "20261031-donghai-halloween",
    "title": "台中東海藝術街萬聖搞怪趴登場，東海商圈變裝熱鬧",
@@ -42,6 +62,32 @@
     }
    ],
    "image": "https://ni.yam.com/20261101/taichung-cover-261101054220643-c9b1ce4aa1da8eae.webp"
+  },
+  {
+   "id": "20261101-ximen-ai-painter",
+   "title": "西門町街頭畫家被指以AI作畫販售，觀光客消費爭議受關注",
+   "summary": "報導指西門町有街頭畫家被抓包以AI作畫，另提到芒果一袋破千元等觀光區價格問題。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-01T20:15:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "西門町商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "nexttv",
+     "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-01/2512936.html",
+     "published_at": "2026-11-01T20:15:00+08:00"
+    }
+   ],
+   "admin_note": "西門町商圈為115年補助名單，觀光客消費糾紛可能影響商圈形象，可留意相關輿情。",
+   "image": "https://image.nexttv.com.tw/material/news/img/2026/11/2f65bd307a88ee9146c4c106c9485fbb.jpg"
   },
   {
    "id": "20261023-fengyuan-halloween",
@@ -122,6 +168,41 @@
     }
    ],
    "image": "https://ni.yam.com/20261101/taipei-cover-261101045321191-bbd8451a50dd0f26.webp"
+  },
+  {
+   "id": "20261101-xinyi-halloween-crowd",
+   "title": "信義商圈萬聖節變裝人潮湧入，松壽路酒吧街單夜人流破萬",
+   "summary": "信義商圈萬聖夜舉辦變裝派對吸引大批民眾，警方估計松壽路20巷一帶單夜人流逾萬，周邊也傳出行車糾紛與衝突。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-01T14:20:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "信義商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "FTNN 新聞網",
+     "url": "https://www.ftnn.com.tw/news/591958",
+     "published_at": "2026-11-01T14:20:00+08:00"
+    },
+    {
+     "outlet": "民視新聞網",
+     "url": "https://today.line.me/tw/v3/article/XYp5Bzl",
+     "published_at": "2026-11-01T11:34:00+08:00"
+    },
+    {
+     "outlet": "鏡報",
+     "url": "https://www.mirrordaily.news/story/94977",
+     "published_at": "2026-11-01T09:50:00+08:00"
+    }
+   ],
+   "image": "https://i01.ftnn.com.tw/a/26/304/26304142449279617e3a98.png"
   },
   {
    "id": "20261031-xinyi-crane-bus",
@@ -2510,26 +2591,6 @@
     }
    ],
    "image": "https://images.ctee.com.tw/newsphoto/2026-10-19/1024/20261019701099.jpg"
-  },
-  {
-   "id": "20261019-hualien-sustainable-district",
-   "title": "花蓮縣府招募節能友善店家，打造綠生活消費地圖與永續商圈",
-   "summary": "花蓮縣政府招募節能友善店家，建置綠生活消費地圖，推動永續商圈。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-10-19T10:59:00+08:00",
-   "cities": [
-    "花蓮縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "Yahoo奇摩新聞",
-     "url": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%8B%9B%E5%8B%9F%E7%AF%80%E8%83%BD%E5%8F%8B%E5%96%84%E5%BA%97%E5%AE%B6-%E6%89%93%E9%80%A0%E7%B6%A0%E7%94%9F%E6%B4%BB%E6%B6%88%E8%B2%BB%E5%9C%B0%E5%9C%96-%E9%82%80%E6%82%A8%E5%85%B1%E7%AF%89%E6%B0%B8%E7%BA%8C%E5%95%86%E5%9C%88-095931711.html",
-     "published_at": "2026-10-19T10:59:00+08:00"
-    }
-   ],
-   "image": "https://media.zenfs.com/ko/tssdnews.com.tw/63a3221d3ac267083359b3800dc65e5c.jpg"
   }
  ],
  "discussions": []

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-02T07:30:00+08:00",
+  "updated_at": "2026-11-02T12:30:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -48,7 +48,8 @@
             "https://www.chinatimes.com/realtimenews/20261030003398-260410",
             "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%8D%94%E8%AA%BF%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35000%E5%99%B8-090547595.html",
             "https://udn.com/news/amp/story/7238/9847358",
-            "https://money.udn.com/money/amp/story/7307/9847302"
+            "https://money.udn.com/money/amp/story/7307/9847302",
+            "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E7%B6%93%E6%BF%9F%E9%83%A8-%E5%85%A8%E5%8A%9B%E5%8D%94%E5%8A%A9%E6%A5%AD%E8%80%85%E5%A2%9E%E7%94%A2%E5%8F%8A%E5%8A%A0%E9%80%9F%E9%80%B2%E5%8F%A3-093832419.html"
           ]
         },
         {
@@ -99,7 +100,8 @@
           "representative": "https://udn.com/news/story/124652/9850563",
           "urls": [
             "https://udn.com/news/story/124652/9850563",
-            "https://udn.com/vote2026/story/124652/9850563"
+            "https://udn.com/vote2026/story/124652/9850563",
+            "https://udn.com/news/story/7266/9851366"
           ]
         }
       ],

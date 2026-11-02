@@ -104,6 +104,96 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-02T12:18:20+08:00",
+   "added": 3,
+   "merged": 0,
+   "items": [
+    {
+     "id": "20261101-xinyi-halloween-crowd",
+     "title": "信義商圈萬聖節變裝人潮湧入，松壽路酒吧街單夜人流破萬",
+     "summary": "信義商圈萬聖夜舉辦變裝派對吸引大批民眾，警方估計松壽路20巷一帶單夜人流逾萬，周邊也傳出行車糾紛與衝突。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-01T14:20:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "信義商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "FTNN 新聞網",
+       "url": "https://www.ftnn.com.tw/news/591958",
+       "published_at": "2026-11-01T14:20:00+08:00"
+      },
+      {
+       "outlet": "民視新聞網",
+       "url": "https://today.line.me/tw/v3/article/XYp5Bzl",
+       "published_at": "2026-11-01T11:34:00+08:00"
+      },
+      {
+       "outlet": "鏡報",
+       "url": "https://www.mirrordaily.news/story/94977",
+       "published_at": "2026-11-01T09:50:00+08:00"
+      }
+     ],
+     "image": "https://i01.ftnn.com.tw/a/26/304/26304142449279617e3a98.png"
+    },
+    {
+     "id": "20261102-taichung-wudiao-business",
+     "title": "臺中物調券帶動市場、商圈買氣升溫，使用期限至11月5日",
+     "summary": "臺中物調券發放100元變200元，吸引民眾排隊領取，市場、商圈買氣隨之升溫；使用期限為10月30日至11月5日。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-02T11:38:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "東森新聞",
+       "url": "https://news.ebc.net.tw/news/living/578648",
+       "published_at": "2026-11-02T11:38:00+08:00"
+      }
+     ],
+     "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/02/1793619322_48322.jpg"
+    },
+    {
+     "id": "20261101-ximen-ai-painter",
+     "title": "西門町街頭畫家被指以AI作畫販售，觀光客消費爭議受關注",
+     "summary": "報導指西門町有街頭畫家被抓包以AI作畫，另提到芒果一袋破千元等觀光區價格問題。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-01T20:15:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "西門町商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "nexttv",
+       "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-01/2512936.html",
+       "published_at": "2026-11-01T20:15:00+08:00"
+      }
+     ],
+     "admin_note": "西門町商圈為115年補助名單，觀光客消費糾紛可能影響商圈形象，可留意相關輿情。",
+     "image": "https://image.nexttv.com.tw/material/news/img/2026/11/2f65bd307a88ee9146c4c106c9485fbb.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
