@@ -1,20 +1,41 @@
 {
- "fetched_at": "2026-11-02T12:17:13+08:00",
+ "fetched_at": "2026-11-02T14:29:20+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 118,
-  "kept": 44,
-  "resolved": 44,
-  "items": 43,
+  "raw": 135,
+  "kept": 47,
+  "resolved": 47,
+  "items": 45,
   "resolve_this_run": {
-   "online": 5
+   "online": 3
   },
   "dropped_old": [
-   "振興北市商圈經濟!沈伯洋永康商圈座談會（原文日期 2026-08-10）"
+   "振興北市商圈經濟!沈伯洋永康商圈座談會（原文日期 2026-08-10）",
+   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
   ]
  },
  "items": [
+  {
+   "title": "壹蘋試駕｜開著Kia Stonic走進桃園的秋日時光 從大溪老街到龍潭尋找慢生活",
+   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFJBZ1R0NVhfd2NiT0M2SG9sbjFWTXFWV2VhYTdTcmVuTzFHZzVSaFZ6T1MwcTNVcXZzWFAya2VOTnNwTWZpME5RYm9zeC1kVHp2dmhwZUUwTGhYb0dzcTE4akc3Tkx5ZGVRWUlZMGRXcTQ2WFdkd1ltSjF0b3ZERw?oc=5",
+   "source": "壹蘋新聞網",
+   "source_site": "https://news.nextapple.com",
+   "published_at": "2026-11-02T12:17+08:00",
+   "query": "老街",
+   "url": "https://news.nextapple.com/gadget/20261102/0379BEA6116101CDC0E4970A7A500D84",
+   "resolved": true
+  },
+  {
+   "title": "斥資千萬「補齊缺口」 桃市老街溪航心橋上游步道明年2月動工",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96emFrYmhRdUR5NzdsRFEwT053c3FVdDE1WTEtTER5VURDVmhSSnV3ZmlCOTNYRGR5WGNzM29DUFNYbFJVTTNuWWJNLUJiSGxK0gFWQVVfeXFMTzV3aUs0dG9WaWtWVF9rMk05ejh0T2ViVmUzNlcxODRWM1ZIT2E5T3UxSWo0ZzhGNi1pT3l3eG55NkYyQk9aOGZ2ZGltWks1S2JseENJdVE?oc=5",
+   "source": "udn",
+   "source_site": "https://udn.com",
+   "published_at": "2026-11-02T12:14+08:00",
+   "query": "老街",
+   "url": "https://udn.com/news/story/7324/9851620",
+   "resolved": true
+  },
   {
    "title": "花蓮金三角商圈業者嘆生意難做 張峻提3階段復甦成立「觀光小組」",
    "google_url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNUE1QUXE5VWFCT3lycWk4R290WHV0aDEwaGZmWlNCNGtad0JQTW1ISVhjeHR4SVBMVi00SnNvMGZWcmZPS1RjeExiVmVYcHNPRDYtOE8zU3EwbjZxa3VHdlhRT1FUNnFjZ21kVUhWVUU2MGFPODlmMEFrWXJfMnZYMFp1a2w5U18xOVBJakcwcll0ZVlwdTVQdVBwU19YRmFia0owV3VkWFpSOTVTUnliczYwZ2cwV1BwbElKUFJSa0lTUS1mWHZ1NkQybUZpQmIxTDRUVkJYRXpULWxwZFhnVHY4YkJ5dm5Ga3piRmppU1F6cmVwQnVPN2VUc0RWdE1mVEJGYnRwWW9VNDJtMFBmNVRvN3RtdHp2a0tuQ2FKR0NzcVpBejRvOTB3NWQ4THUxT3ZqaVVKYUg5OXdjN2Vud0s2ZGZxdTQ2R1Z5Skd6QjNEVE03bU52ZEVkUW5GdFBwVzJQVnNfTFY4S3Y3RFU4UHdKMkx5Mk0xZzJMc0pIM29wbGRkZHdqcjMxZ2NNUzN2anMwNng5V0ZhMGs?oc=5",
@@ -37,12 +58,12 @@
   },
   {
    "title": "台北車站忙碌商圈秘境 「魔法咖哩站前店」首度解鎖下午茶時段 | 食品餐飲 | 商情",
-   "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DVHQ5YlNoeDJmXzFEQ0xGRWJIaVg5VEhGZlplMzg2RmpHM01hdXJDbExCVzVYZ1BTcGRIYWpSOEdmSVFYTklYWkhSWmUyMF91dG9GRDFXdmF3T1FCcXZZWFBwSUZOMW1nYlR1ZnZ0dEx1MjB1cWcwS1V5amc?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5saEg2RURzaGJxTzItbmE3b2RyLUhvM3BGLWkwUWhuLW9uR3BSYjEya0RnOHZscDI1dlROWEJrNEpZWEZOTkozTldWb3ZabmMtajZ0U1I2UkJfdw?oc=5",
    "source": "經濟日報",
    "source_site": "https://money.udn.com",
    "published_at": "2026-11-02T10:01+08:00",
    "query": "商圈",
-   "url": "https://money.udn.com/money/story/7843/9849718?from=edn_subcatelist_cate",
+   "url": "https://money.udn.com/money/story/7843/9849718",
    "resolved": true
   },
   {
@@ -186,16 +207,6 @@
    "resolved": true
   },
   {
-   "title": "第18屆批客嘉年華萬聖登場 後站商圈變裝大賽總獎金8萬",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IRkQ2dGRnN2R1eGlhRTA4aFBYa1RMOFJueWNlLUVoYTk2NzQxMVVUa0dTSzNYLXhQVWZia0NaYzBFUjNpUTh5RmJZcE8xNnE1aXc?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-01T14:26+08:00",
-   "query": "商圈",
-   "url": "https://n.yam.com/Article/20261101496401",
-   "resolved": true
-  },
-  {
    "title": "芝加哥華麗一英里復甦 空置率大降 商圈走出低潮",
    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPU0lvVnFXbmN1SUJ2aFN0TUxEZWNfX3RXSTFaMDE2UXUweW5OMWJoTXhJZkdPN0ZwSkpiT1NWclkzTUhJRFBEbkVCV1BHOTNobVpKUnhoUUt5RUtfOGtiQ2lR0gFnQVVfeXFMT1ZGVVJQYkY5VmtjcHk5M2ZlYjJQLXlJNWNGUHVaY1hWOG1paDlMX1NuQ0hqSER1WmJWNXJvT1Q1VXZuSTJLeThmWEg5RlNpZ2ZrWHFBeFh3VGYyQXdUaERrdE4xZnJQTQ?oc=5",
    "source": "世界新聞網",
@@ -266,6 +277,16 @@
    "resolved": true
   },
   {
+   "title": "討論牆 | 萬聖節 馬公商圈變裝踩街好熱鬧（1）(圖)",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DVVBoZ1VrVHNzcWxDZXVyaUFodGd2MFg3cHNreTFUWHN5RHJRalhnRENtbzBBa2dkakFqbzdrQWFpbXd3aG5GUVI4Yml5WVBOTDhXcmRTNkNhY0kxQUZzRFZHNWo?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-10-31T23:25+08:00",
+   "query": "商圈",
+   "url": "https://today.line.me/tw/v3/posts/list/article/YapvvkN",
+   "resolved": true
+  },
+  {
    "title": "小小變裝高手出招\"小胡迪.小孫悟空\" 三峽老街萬聖節超嗨－民視新聞- 民視新聞網",
    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FMHJSdlF6ZnpMWFZPOGFQTFhhbVFwSWxBcGJKbWg4OEFHNEx5cmFVQWpmNGJacW9vTE5Bb1FyaC1sSndVQjItNHRxSi00RzM2aG15N2ZTMVdrWk5FZkNsX1B5RkFUbWs?oc=5",
    "source": "民視新聞網",
@@ -297,12 +318,12 @@
   },
   {
    "title": "金門後浦變身萬聖馬戲樂園！21組創意變裝登場 大小萌鬼擠爆商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oVG5FSGw1eTllMU1uSm1ULWNmN1JpcU1jX3NPcEpha3psTE5VbmkxS3lBcXRxZml2TWpnUmEwS1FQMHRpQV92ZzRTM2w0cFdl0gFWQVVfeXFMTXh2NjNGckk1QTg4U1h4RUdGRU5rSy1ndDZxY1YzQWVIOWNrQzE0dk1BdEhiaVJ1aWRMUzFoZVlmMXE0czlaZUJ4MEx0WTk5SzhzMDd0TFE?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14djYzRnJJNUE4OFNYeEVHRkVOa0stZ3Q2cWNWM0FlSDlja0MxNHZNQXRIYmlSdWlkTFMxaGVZZjFxNHM5WmVCeDBMdFk5OUs4czA3dExR0gFWQVVfeXFMTXh2NjNGckk1QTg4U1h4RUdGRU5rSy1ndDZxY1YzQWVIOWNrQzE0dk1BdEhiaVJ1aWRMUzFoZVlmMXE0czlaZUJ4MEx0WTk5SzhzMDd0TFE?oc=5",
    "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-10-31T22:09+08:00",
    "query": "商圈",
-   "url": "https://udn.com/news/story/7327/9849362",
+   "url": "https://udn.com/news/amp/story/7327/9849362",
    "resolved": true
   },
   {
@@ -356,6 +377,16 @@
    "resolved": true
   },
   {
+   "title": "萌鬼變裝踩街趣 花蓮親子同樂串聯商圈活力",
+   "google_url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQSmNTNDlNX2VRNkdVcEZfOUNtUzBkZ19XSWd6NGFhb0FRcGlva3U1TWY2dkg5TzM1RmJtbFN6S0lLS0M3dkJsbVNRM0hwQjlLRkNjLTd5T3FTdUlzcVNYSnRGSElIMHdqNEZKOHBqdFRJN3FWYllyTk11Rlh3Zy13SkprR1MyRzZuMXdLLWpwQ2FzNXMxMnV5SGZ0U1IyWmRIQ1RjekJnSzJiZ1JnLVJEU2NUSTZZeW5RTU1zd2xLdmw3c3hlSWxnWGU1azB0Rk81ekQtNmhGWkR5QmdsU3hQWk1DaGpBOWVmWmpVdjBicGJXZ0VXT2wzVllBaDNuQmtHclpncXZRampmcmJsRER4c1F2elYzYVgzVVZVckRINS05TkRiZVFBMzM1RzVMaUh4Z3ZRanBYcHg?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-10-31T17:40+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E8%90%8C%E9%AC%BC%E8%AE%8A%E8%A3%9D%E8%B8%A9%E8%A1%97%E8%B6%A3-%E8%8A%B1%E8%93%AE%E8%A6%AA%E5%AD%90%E5%90%8C%E6%A8%82%E4%B8%B2%E8%81%AF%E5%95%86%E5%9C%88%E6%B4%BB%E5%8A%9B-094034674.html",
+   "resolved": true
+  },
+  {
    "title": "台南購物節登錄破30億元 11月商圈活動、聖誕點燈接力",
    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00SWxnQjVrcHhJc05rQU5zT0R1eEhEQWhCQnJKNHhFX1A4b3RNZERxUXFtSzVJdDlVVE9UZjE2ZEtLLVE1amJzVFFSX01FaHV4c1E?oc=5",
    "source": "蕃新聞",
@@ -401,7 +432,7 @@
    "source": "LINE TODAY",
    "source_site": "https://today.line.me",
    "published_at": "2026-10-31T16:49+08:00",
-   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
+   "query": "商圈",
    "url": "https://today.line.me/tw/v3/article/Zapom5N",
    "resolved": true
   },
@@ -433,16 +464,6 @@
    "published_at": "2026-10-31T16:28+08:00",
    "query": "商圈",
    "url": "https://tw.news.yahoo.com/%E7%9B%B4%E6%92%AD-%E8%94%A3%E8%90%AC%E5%AE%89%E5%BF%99%E8%BE%AF%E8%AB%96-%E7%9F%B3%E8%88%AB%E4%BA%98%E7%BA%8C%E6%8B%9A%E9%99%B8%E6%88%B0-15-30%E5%A4%A7%E7%A8%BB%E5%9F%95%E8%BF%AA%E5%8C%96%E5%95%86%E5%9C%88%E6%90%B6%E7%A5%A8-020100691.html",
-   "resolved": true
-  },
-  {
-   "title": "蔣萬安辯論會後趕場站台議員競總成立 石舫亘首赴迪化商圈拜票",
-   "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EdDFpWVJDWGpBX2dIajhJczM1NGVpblA5ZW5yd0NnMlBCMTBYUDZLdUNFbnFiakdUN2lMS3VlODJDNHdKalpkd1MxeVpCRUltTjU2NWJOUDc2amlRVVpRSXpLWm0wMGh4SGfSAW9BVV95cUxPbXhFS0hPeHJsNk5jSUVYeU80T2xFTmVfc1IxbTNySmJZcXhLcTRjTnRqODFGd29JaVlRLXY1bURiLWpnZUVsQW1kcnRJZFlnOUVSd1lZYi1lcWF1aXRSbmF0RVlpX3o5ekY2blMyY1U?oc=5",
-   "source": "自由時報",
-   "source_site": "https://news.ltn.com.tw",
-   "published_at": "2026-10-31T16:27+08:00",
-   "query": "商圈",
-   "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624988",
    "resolved": true
   }
  ]
