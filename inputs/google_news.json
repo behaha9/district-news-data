@@ -1,20 +1,60 @@
 {
- "fetched_at": "2026-11-02T08:54:20+08:00",
+ "fetched_at": "2026-11-02T12:17:13+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 121,
-  "kept": 42,
-  "resolved": 42,
-  "items": 41,
+  "raw": 118,
+  "kept": 44,
+  "resolved": 44,
+  "items": 43,
   "resolve_this_run": {
-   "online": 2
+   "online": 5
   },
   "dropped_old": [
-   "嘉義雲海季推數位集章 跨區玩山林步道、部落與老街（原文日期 2020-08-22）"
+   "振興北市商圈經濟!沈伯洋永康商圈座談會（原文日期 2026-08-10）"
   ]
  },
  "items": [
+  {
+   "title": "花蓮金三角商圈業者嘆生意難做 張峻提3階段復甦成立「觀光小組」",
+   "google_url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNUE1QUXE5VWFCT3lycWk4R290WHV0aDEwaGZmWlNCNGtad0JQTW1ISVhjeHR4SVBMVi00SnNvMGZWcmZPS1RjeExiVmVYcHNPRDYtOE8zU3EwbjZxa3VHdlhRT1FUNnFjZ21kVUhWVUU2MGFPODlmMEFrWXJfMnZYMFp1a2w5U18xOVBJakcwcll0ZVlwdTVQdVBwU19YRmFia0owV3VkWFpSOTVTUnliczYwZ2cwV1BwbElKUFJSa0lTUS1mWHZ1NkQybUZpQmIxTDRUVkJYRXpULWxwZFhnVHY4YkJ5dm5Ga3piRmppU1F6cmVwQnVPN2VUc0RWdE1mVEJGYnRwWW9VNDJtMFBmNVRvN3RtdHp2a0tuQ2FKR0NzcVpBejRvOTB3NWQ4THUxT3ZqaVVKYUg5OXdjN2Vud0s2ZGZxdTQ2R1Z5Skd6QjNEVE03bU52ZEVkUW5GdFBwVzJQVnNfTFY4S3Y3RFU4UHdKMkx5Mk0xZzJMc0pIM29wbGRkZHdqcjMxZ2NNUzN2anMwNng5V0ZhMGs?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-02T11:51+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E9%87%91%E4%B8%89%E8%A7%92%E5%95%86%E5%9C%88%E6%A5%AD%E8%80%85%E5%98%86%E7%94%9F%E6%84%8F%E9%9B%A3%E5%81%9A-%E5%BC%B5%E5%B3%BB%E6%8F%903%E9%9A%8E%E6%AE%B5%E5%BE%A9%E7%94%A6%E6%88%90%E7%AB%8B-%E8%A7%80%E5%85%89%E5%B0%8F%E7%B5%84-034557756.html",
+   "resolved": true
+  },
+  {
+   "title": "老街溪航心橋步道缺口100公尺 斥資1756萬打通",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MSFJvWS1QQ21IOTFkRDRDdzMzNkg3Z1RHUXgtcTJGcXFVemhUSmEwWDlneWxod2cwbmpscnpyTWxGNHZxeWR3bXB4Q2V1V25pZmx4X1hBY0d4b2lXMU5hdmlMNU5iV3VsaS1xM1l3?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-02T10:29+08:00",
+   "query": "老街",
+   "url": "https://www.chinatimes.com/realtimenews/20261102001580-260421",
+   "resolved": true
+  },
+  {
+   "title": "台北車站忙碌商圈秘境 「魔法咖哩站前店」首度解鎖下午茶時段 | 食品餐飲 | 商情",
+   "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DVHQ5YlNoeDJmXzFEQ0xGRWJIaVg5VEhGZlplMzg2RmpHM01hdXJDbExCVzVYZ1BTcGRIYWpSOEdmSVFYTklYWkhSWmUyMF91dG9GRDFXdmF3T1FCcXZZWFBwSUZOMW1nYlR1ZnZ0dEx1MjB1cWcwS1V5amc?oc=5",
+   "source": "經濟日報",
+   "source_site": "https://money.udn.com",
+   "published_at": "2026-11-02T10:01+08:00",
+   "query": "商圈",
+   "url": "https://money.udn.com/money/story/7843/9849718?from=edn_subcatelist_cate",
+   "resolved": true
+  },
+  {
+   "title": "新北新莊老街新風景！第一市場改造完成 50年老市場變美了！",
+   "google_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOLTlFWUtYUXFtNnhodTMzczJLWEdFbmk4RzFXbjdnNkptQzFKa2dQaTB2c0ltRVhOcGpsSkdvQi1RVjd5UkxPVWJISDVqRnN2eWZqRzVSNkNhT1ZtU3ZZUDNEOGZiUkFTRDg4blVwRGdYaFQ3ZFFRalRiU2lNcG1ySThtd0NPWUpvZGQxYWRWQXlzQm1HTldiLXVwWmp1OGFqX1R1eVJoWGlSMkducjBrTWlCX055WjFNUk1kMEZxWGZFYnczNmcxcDdtY0ZrOTFndml4SHdVZDdwZTdLSnpXRjcyLW02U3lEMHo5ZWdIdEs4MGhMZ0J1bVdNYVdXV0Z1MHJWTGFUMlVidVc5LWdtMVBkTm8xeDFTZFpxMXp5LUpTZ2U0UDRkUVhNOUZqZU9PU2tyZmpTUlJGMVNacVZYclBCV3A1bWI5RHpJSUFOT1JmM3o2UUktTnBXZVg4OWh5S2JrS3JJbmpQWU9G?oc=5",
+   "source": "Life 生活網",
+   "source_site": "https://life.tw",
+   "published_at": "2026-11-02T00:00+08:00",
+   "query": "老街",
+   "url": "https://life.tw/article/%E6%96%B0%E5%8C%97%E6%96%B0%E8%8E%8A%E8%80%81%E8%A1%97%E6%96%B0%E9%A2%A8%E6%99%AF-%E7%AC%AC%E4%B8%80%E5%B8%82%E5%A0%B4%E6%94%B9%E9%80%A0%E5%AE%8C%E6%88%90-50%E5%B9%B4%E8%80%81%E5%B8%82%E5%A0%B4%E8%AE%8A%E7%BE%8E%E4%BA%86-3201112",
+   "resolved": true
+  },
   {
    "title": "台南名店「阿明豬心冬粉」突停業！店家親曝噩耗…意外揭和「百萬YTB」親家關係",
    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DWmxXYTl3Tmt3by1aand6SjZJb1dHYkZzVTd6cmJieHU0aFZMc0x0LU5aVUhQUUs1aXlhdFl1V2FfUC15QUl3aVoyd0Z3ZU9yeVpGNFNSTTFvQQ?oc=5",
@@ -43,6 +83,16 @@
    "published_at": "2026-11-01T22:04+08:00",
    "query": "老街",
    "url": "https://today.line.me/tw/v3/posts/list/article/vXa8EEE",
+   "resolved": true
+  },
+  {
+   "title": "討論牆 | 自由最大聲》新北選將吳昇翰提「老街觀光再復甦」 發揚土城三鶯歷史底蘊",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Zbi1waWVRVnc0NXd5Q0V6aXZYX1JEQk0tTUQ3NlVtSlFYOG5wN2gxajNMM2NMQ2ZMRGV0bVgtYlNuTmJSa1AxdzF3ZzhZeldBUjlzUko1VFdyOXZJV0trM2Ytb0o?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-01T21:43+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/aGp5a18",
    "resolved": true
   },
   {
@@ -393,36 +443,6 @@
    "published_at": "2026-10-31T16:27+08:00",
    "query": "商圈",
    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624988",
-   "resolved": true
-  },
-  {
-   "title": "臺南購物節消費突破30億元！加碼抽電動車11月商圈活動接力登場",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRYXZzanFtcTVtdXFuZDBMZklGX2s2Yi1XVmJJUGdmckJWamZ1V2RMaDhXQUFDUklMRFk5dmJoLTE3Ti1WbTAzR09kYjk0RGFCeXc?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-10-31T10:23+08:00",
-   "query": "商圈",
-   "url": "https://n.yam.com/Article/20261031942053",
-   "resolved": true
-  },
-  {
-   "title": "蔣萬安忙辯論！石舫亘續拚陸戰 大稻埕迪化商圈搶票",
-   "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WWkZHV3J4Rndrd2ttZmlSVkZXUUZQMVdHRHQzZmtWbzFfZWhQSjM5WXppLVI4aVZUdzRkZERnSVVwbElVWHhwa2t0RzYtX3E3T29WWHFzNkZhYlRvU2FkTzRQTDlOUURoei03ZE1hUQ?oc=5",
-   "source": "知新聞",
-   "source_site": "https://www.knews.com.tw",
-   "published_at": "2026-10-31T10:01+08:00",
-   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
-   "url": "https://www.knews.com.tw/news/EA572948B8AD95168A10F9C6FAE89A53",
-   "resolved": true
-  },
-  {
-   "title": "北部老街不去九份、淡水！1低調老街被挖出，內行讚「舒服好逛美食多、不用人擠人」： 可以消磨一下午",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UOG1nN0hZR1NCM3RJNExkRkIzN1hVVnFGaGs2a29JcVdoUjVXRHRGMVBiNy1KcFhiV1RBMDY4dllSYUFIQlVmZWNSOWpjdXcy?oc=5",
-   "source": "風傳媒",
-   "source_site": "https://www.storm.mg",
-   "published_at": "2026-10-31T09:30+08:00",
-   "query": "老街",
-   "url": "https://www.storm.mg/lifestyle/11176985",
    "resolved": true
   }
  ]
