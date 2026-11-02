@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-02T20:56:34+08:00",
+ "fetched_at": "2026-11-03T01:16:24+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 131,
-  "kept": 48,
-  "resolved": 48,
-  "items": 46,
+  "raw": 100,
+  "kept": 41,
+  "resolved": 41,
+  "items": 39,
   "resolve_this_run": {
-   "online": 9
+   "online": 8
   },
   "dropped_old": [
    "振興北市商圈經濟!沈伯洋永康商圈座談會（原文日期 2026-08-10）",
@@ -16,6 +16,26 @@
   ]
  },
  "items": [
+  {
+   "title": "九份老街巷弄繁雜 日籍導遊：團客抄捷徑「易走失」 | EBC 東森新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sajNaOFFJdmZJejZ5RDRMSVNQOXFPRXJ1cXdUWi0xYURaeFAtcmxnc3d6RzdqWHlpOXF3c2dpQW1IYm1PRkEtY29oRUtWS2JQMjIwRmRn?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-03T00:07+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/article/WBp5PDy",
+   "resolved": true
+  },
+  {
+   "title": "九份老街巷弄繁雜 日籍導遊：團客抄捷徑「易走失」",
+   "google_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNVk9wOXQyeU9weWJCLUtUN0xEc18xdktrY2d6a1FWZzd3Zk9kaWM3NGVfU2oyTC1vd3cwX0tPeXA3WGZWMDhJVl9fZWFPWHdSZDFNR2NxVUpLcXZoSUtPU1poQ21HUHJZdzI0aXhMVnJDZml1MUJGd0VMTE5hV2R1TmFrcl9tQnZISWRYNDBTdlBTOTFwaUprWFA0RUU3ZDJSYnBnOWE3TDd1R2RXWDNFcXdoUTlWSjJnQmI4YS1tRGtRbmNscXAyb0FYWFNBSVFnczB4bktkT3RtTnlweXVGbjNETDdEZXBfUDFXek13X3J0SHdqUE1QMWp2VUNKRjA0RS03WHlROGg0bFNTWC1GTGx1eG5Ndk1KeXNsdTBQTHgzQUdqUWkzcVZTUklTNVVWVTJQaGxRUTVYZnc2RmcxUDduY2g4dmc?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-02T23:50+08:00",
+   "query": "老街",
+   "url": "https://tw.news.yahoo.com/%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E5%B7%B7%E5%BC%84%E7%B9%81%E9%9B%9C-%E6%97%A5%E7%B1%8D%E5%B0%8E%E9%81%8A-%E5%9C%98%E5%AE%A2%E6%8A%84%E6%8D%B7%E5%BE%91-%E6%98%93%E8%B5%B0%E5%A4%B1-155000604.html",
+   "resolved": true
+  },
   {
    "title": "市府代售地47標 國華商圈在列",
    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnX1lkeXQ0NEppY2xKQTNRWlEyY0U5ZVJaZFRVemM3QzNJUEYyU25Ra1FaU1Yxb3AzTXFZeTN6dHlPNGRxSGxCN3EyWEp6MW9TdkE?oc=5",
@@ -37,33 +57,13 @@
    "resolved": true
   },
   {
-   "title": "老街溪航心橋上游步道明年二月動工 完善水岸休憩空間",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DQVd5eGxkc2pwTGhMdTBYd0JfYTlXQnJ0djhPRFc1Sjl0WnpxYk1oa2tKYnFoLUxIQ1k0VkJQb0FQdFRGeVZLX0tIamtjY3hVMGc?oc=5",
-   "source": "中華新聞雲／中華日報",
-   "source_site": "https://www.cdns.com.tw",
-   "published_at": "2026-11-02T19:01+08:00",
+   "title": "偕妻跟團遊台逛九份老街　78歲日籍翁「走散」竟失聯",
+   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKbXFHaWJrT0x2RC0tX1RGcXJha2s2TXJweGRtdDNtc1RpY3p4QWtqSm0yWWZSdFItZVF6bjQzRXFUNTlIVXNHSEJYbklSYWNNVlhTaTFyMUJtRTVVTVHSAV5BVV95cUxQSm1xR2lia09MdkQtLV9URnFyYWtrNk1ycHhkbXQzbXNUaWN6eEFrakptMllmUnRSLWVRem40M0VxVDU5SFVzR0hCWG5JUmFjTVZYU2kxcjFCbUU1VU1R?oc=5",
+   "source": "鏡新聞",
+   "source_site": "https://www.mnews.tw",
+   "published_at": "2026-11-02T18:14+08:00",
    "query": "老街",
-   "url": "https://www.cdns.com.tw/articles/1484068",
-   "resolved": true
-  },
-  {
-   "title": "偕妻跟團遊台逛九份老街 78歲日籍翁「走散」竟失聯｜#鏡新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOOXRuTWJKQjVXSi0ybVJzc2tocVN6N2xucEU0ZHg5b3pVbTA3cEJFenRCdUMtb0NIME9oZGZjNWJfbHVVTHNwNUNOYkZzMW43ckJzTEJLMTRxdGFRUkc1TExXQjNhQnlJOGRRRGRybFA3WUlDdFlTTHpYeHJKakhXRk5xblM3Y2FpVjh4SDNicjhKY29Xa2RUX2pIMDdvcnRncW1WYWN3RTdHTnFua1JDNG9fb3Zqd25nU1Fqa2xLbzNZSnV5Y1J2bGZVOUhUR0hNSDIyZlFtYkVNX2EtanRJMnhYT2VUZmJGUDdqUHVKb2JRWDFmRy03NFk3TUZWSlMzR0hmRWtScDhwU2RlTTdoSzlMYUVOZEdYS2JkX3RJRFIzMERNY2V5N2RLYXNOdTRfMnNBR2VQYmVYd21qS3dqaHRVdG5HMXFibnpwUlpFeU5fQTJzOXNmb2k2NGxabGxkb3YxbWJkSmdRT29rRmJN?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-02T18:22+08:00",
-   "query": "老街",
-   "url": "https://tw.news.yahoo.com/%E5%81%95%E5%A6%BB%E8%B7%9F%E5%9C%98%E9%81%8A%E5%8F%B0%E9%80%9B%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97-78%E6%AD%B2%E6%97%A5%E7%B1%8D%E7%BF%81-%E8%B5%B0%E6%95%A3-%E7%AB%9F%E5%A4%B1%E8%81%AF-%E9%8F%A1%E6%96%B0%E8%81%9E-102253149.html",
-   "resolved": true
-  },
-  {
-   "title": "鄧師傅新品牌「復興北外婆家」 插旗北高雄裕誠商圈| 產業綜合| 產經",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtV1ZWM1NGX0J4TWpucU8wT0hCSDB5TlkzS0dKdjlwbzdGSUpYYjdXdTZ5U2xDSTZTNzlCYTRVcnllaElIR0ZUVnRKc3gxZjky?oc=5",
-   "source": "udn",
-   "source_site": "https://udn.com",
-   "published_at": "2026-11-02T18:07+08:00",
-   "query": "商圈",
-   "url": "https://udn.com/news/story/7241/9852481",
+   "url": "https://www.mnews.tw/story/amp/20261102sot1814002",
    "resolved": true
   },
   {
@@ -71,7 +71,7 @@
    "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9keEhSaF9zMjA1MFlrSEpsQVNncW9CVzdhbUJhb0theERfRmw1M1RoVkFXVm9WcWpvLVlKbVd2VFkzY0ZiZ1h5MFF6TE5SQVRNVl9BYg?oc=5",
    "source": "臺灣導報",
    "source_site": "https://taiwanreports.com",
-   "published_at": "2026-11-02T18:00+08:00",
+   "published_at": "2026-11-02T17:59+08:00",
    "query": "商圈",
    "url": "https://taiwanreports.com/archives/1023336",
    "resolved": true
@@ -87,16 +87,6 @@
    "resolved": true
   },
   {
-   "title": "台南站前商圈持續發展 市府樂見多元投資活化商業空間",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoLXhGbTRFWW9WV3VDRExQR3FYbks3REUySU5rdFYtdTkxVGpHaTNrTWp4WUFrV2Jzb19pNDFhdk5Qa1R0Y2ctU1h3WUNkRUJ4MkE?oc=5",
-   "source": "中華新聞雲／中華日報",
-   "source_site": "https://www.cdns.com.tw",
-   "published_at": "2026-11-02T17:56+08:00",
-   "query": "商圈",
-   "url": "https://www.cdns.com.tw/articles/1484010",
-   "resolved": true
-  },
-  {
    "title": "神明名下土地要賣了！台南海安商圈2筆地釋出 底價189萬起",
    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCejYxMTNuQTRmNFRHZGsyS1JremxQWmVNZ2ZrZDNaZ2pGbmI2bnVSckY1MG1GMWNLNXdkeWMyaWlMYjhmeTByd3I1NERSWkRN?oc=5",
    "source": "自由時報",
@@ -104,6 +94,16 @@
    "published_at": "2026-11-02T17:50+08:00",
    "query": "商圈",
    "url": "https://estate.ltn.com.tw/article/29207",
+   "resolved": true
+  },
+  {
+   "title": "台南站前商圈持續發展 市府樂見多元投資活化商業空間",
+   "google_url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNODNLYUdJQTgwZ1BoaXlmME1uWjhTYS1WTFRTak8xbmNpajcxTnVJcnIySTBrWUd5V3JHWFVVSGctT3p1Q1JVdTZ4UVhDRzgtczhoQ3hIakF1czlGQ2RNWW9TVllBR3daTWhUZXJVZW9HeWd5ZS1iRDM4dmlTZEZEQnhZZ2h5cnROSEhwUzJzejFJZEkxaUhnMGk0SHpGMUxwU0NzYUt1cE5pZUpQelVyMW10ZUY1VTJfczdMczBYRnVPM1JxVUpCZWFqblBrbTg0OUFqUVBGU05FTVpIODllVlRjbEtYdGdCLWxjdmJqbTlYc1VtUTZEZzBGendlNVVqSW5Ec290TG05YjdfYVBzV1B0NU1xeVppRlYtRUU1R3c1Y3NGSDFqSGN6bjlRcXNUYm83UWxEeWJ3cGJZZ2U5ekk1RmlOMWVCeFZNbmRqOE1zTS0yTjBONU9tODhTc1g5SFd1VUQwQ2xlTlhOMEFjVXRiU2o?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-02T17:41+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E7%AB%99%E5%89%8D%E5%95%86%E5%9C%88%E6%8C%81%E7%BA%8C%E7%99%BC%E5%B1%95-%E5%B8%82%E5%BA%9C%E6%A8%82%E8%A6%8B%E5%A4%9A%E5%85%83%E6%8A%95%E8%B3%87%E6%B4%BB%E5%8C%96%E5%95%86%E6%A5%AD%E7%A9%BA%E9%96%93-094124486.html",
    "resolved": true
   },
   {
@@ -124,6 +124,16 @@
    "published_at": "2026-11-02T15:39+08:00",
    "query": "老街",
    "url": "https://n.yam.com/Article/20261102707926",
+   "resolved": true
+  },
+  {
+   "title": "大園老街溪補齊串聯兩岸重要節點 航心橋上游步道明年6月完工",
+   "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uRFNyTFM4XzB6YWtkOUtIOGZJYk50Z0k4QXhhNWpTOWJJU05NY3lQTnNMd2U4ZjJ3V3BWaFNPUjZ3a2lyM3Z0aU40eW8?oc=5",
+   "source": "桃園電子報",
+   "source_site": "https://tyenews.com",
+   "published_at": "2026-11-02T14:34+08:00",
+   "query": "老街",
+   "url": "https://tyenews.com/2026/11/1424953/",
    "resolved": true
   },
   {
@@ -157,6 +167,16 @@
    "resolved": true
   },
   {
+   "title": "薔琵颱風掃落滿山樹枝！竹崎商圈動員志工淨山維護觀音瀑布",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2MVlyeUJ5NDRDYnAxN1YwWENjdWhmQVZ6VDQ0LS1yREd0blR2RXBSX1MtNUNFWTE3bFVMc2hxc1dMS2tBTU9Zb2g4MXMyS2Ns?oc=5",
+   "source": "信吉衛視+",
+   "source_site": "https://www.sjtv.com.tw",
+   "published_at": "2026-11-02T12:00+08:00",
+   "query": "商圈",
+   "url": "https://www.sjtv.com.tw/articles/120173",
+   "resolved": true
+  },
+  {
    "title": "花蓮金三角商圈業者嘆生意難做 張峻提3階段復甦成立「觀光小組」",
    "google_url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNUE1QUXE5VWFCT3lycWk4R290WHV0aDEwaGZmWlNCNGtad0JQTW1ISVhjeHR4SVBMVi00SnNvMGZWcmZPS1RjeExiVmVYcHNPRDYtOE8zU3EwbjZxa3VHdlhRT1FUNnFjZ21kVUhWVUU2MGFPODlmMEFrWXJfMnZYMFp1a2w5U18xOVBJakcwcll0ZVlwdTVQdVBwU19YRmFia0owV3VkWFpSOTVTUnliczYwZ2cwV1BwbElKUFJSa0lTUS1mWHZ1NkQybUZpQmIxTDRUVkJYRXpULWxwZFhnVHY4YkJ5dm5Ga3piRmppU1F6cmVwQnVPN2VUc0RWdE1mVEJGYnRwWW9VNDJtMFBmNVRvN3RtdHp2a0tuQ2FKR0NzcVpBejRvOTB3NWQ4THUxT3ZqaVVKYUg5OXdjN2Vud0s2ZGZxdTQ2R1Z5Skd6QjNEVE03bU52ZEVkUW5GdFBwVzJQVnNfTFY4S3Y3RFU4UHdKMkx5Mk0xZzJMc0pIM29wbGRkZHdqcjMxZ2NNUzN2anMwNng5V0ZhMGs?oc=5",
    "source": "Yahoo新聞",
@@ -184,6 +204,16 @@
    "published_at": "2026-11-02T10:01+08:00",
    "query": "商圈",
    "url": "https://money.udn.com/money/story/7843/9849718",
+   "resolved": true
+  },
+  {
+   "title": "鄧師傅新品牌「復興北 外婆家」 插旗北高雄裕誠商圈｜新聞快訊｜豐雲學堂",
+   "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmQTRyVWxLRUI0aWpzVGVWaUlUaTFwYXNJc3gtM0hjOUViWS1uTC01a0pvWlNLU3pSMkVWY2tyOU5QbVB2YVNnczZQVEVUeWFHRFZLd0FseVJLczNWa25uNC0tRDhFLVNnamJvZC1QZmxjSmJTOVE?oc=5",
+   "source": "永豐金證券",
+   "source_site": "https://www.sinotrade.com.tw",
+   "published_at": "2026-11-02T02:38+08:00",
+   "query": "商圈",
+   "url": "https://www.sinotrade.com.tw/richclub/news/6ae86d3e36ff4992b10ba547",
    "resolved": true
   },
   {
@@ -217,16 +247,6 @@
    "resolved": true
   },
   {
-   "title": "討論牆 | 淡水老街停車分單雙月 半夜現「人間菩薩」幫移車",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0b0lISHlmZHllbVE4U2I4MmhOaFJtY1NuXzZzaFBmRjhyX3JZbko5dHdxZlZSVWFkS2VFTkhSVTYtRUR4dlo0RjdFbEZtLUpOLU1jdnZFN2lXckt1T3d1ZUJhekI?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-01T22:04+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/vXa8EEE",
-   "resolved": true
-  },
-  {
    "title": "討論牆 | 自由最大聲》新北選將吳昇翰提「老街觀光再復甦」 發揚土城三鶯歷史底蘊",
    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Zbi1waWVRVnc0NXd5Q0V6aXZYX1JEQk0tTUQ3NlVtSlFYOG5wN2gxajNMM2NMQ2ZMRGV0bVgtYlNuTmJSa1AxdzF3ZzhZeldBUjlzUko1VFdyOXZJV0trM2Ytb0o?oc=5",
    "source": "LINE TODAY",
@@ -244,16 +264,6 @@
    "published_at": "2026-11-01T21:02+08:00",
    "query": "老街",
    "url": "https://today.line.me/tw/v3/posts/list/article/BEmQrV2",
-   "resolved": true
-  },
-  {
-   "title": "自由最大聲》新北選將吳昇翰提「老街觀光再復甦」 發揚土城三鶯歷史底蘊 | 自由電子報",
-   "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZi10UHQxZjB0QXEyTDZCNDZaRDRVbloyUi1EZUVGNEV0Xy14ZlBWTXczb3hxcHFISWQ4TFdpSENxZ3g1b3ZfRjdTd3ZHanJMT3hEWVZxd09mM1NNRnVjMnVIRGYzSTV3eDZFbjBWU091M1JLR0dUN0tac2NLUi1sSUtJRlc?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-01T19:40+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/article/aGp5a18?view=topic&referral=TOPIC-Election",
    "resolved": true
   },
   {
@@ -327,22 +337,12 @@
    "resolved": true
   },
   {
-   "title": "第18屆批客嘉年華萬聖登場 後站商圈變裝大賽總獎金8萬",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IRkQ2dGRnN2R1eGlhRTA4aFBYa1RMOFJueWNlLUVoYTk2NzQxMVVUa0dTSzNYLXhQVWZia0NaYzBFUjNpUTh5RmJZcE8xNnE1aXc?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-01T14:26+08:00",
-   "query": "商圈",
-   "url": "https://n.yam.com/Article/20261101496401",
-   "resolved": true
-  },
-  {
    "title": "芝加哥華麗一英里復甦 空置率大降 商圈走出低潮",
    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPU0lvVnFXbmN1SUJ2aFN0TUxEZWNfX3RXSTFaMDE2UXUweW5OMWJoTXhJZkdPN0ZwSkpiT1NWclkzTUhJRFBEbkVCV1BHOTNobVpKUnhoUUt5RUtfOGtiQ2lR0gFnQVVfeXFMT1ZGVVJQYkY5VmtjcHk5M2ZlYjJQLXlJNWNGUHVaY1hWOG1paDlMX1NuQ0hqSER1WmJWNXJvT1Q1VXZuSTJLeThmWEg5RlNpZ2ZrWHFBeFh3VGYyQXdUaERrdE4xZnJQTQ?oc=5",
    "source": "世界新聞網",
    "source_site": "https://www.worldjournal.com",
    "published_at": "2026-11-01T14:15+08:00",
-   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
+   "query": "商圈",
    "url": "https://www.worldjournal.com/wj/story/124997/9846832",
    "resolved": true
   },
@@ -387,93 +387,23 @@
    "resolved": true
   },
   {
-   "title": "獨家／信義商圈吊車一轉「擊破公車玻璃」 嚇壞乘客 | EBC 東森新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDaTRZU0NXNFNmVTM2emgzMzkxUkMweF90TmhicGVRVHFUYnBhUHcwRXpBTVIxWTEweDloNEFQSVhiZlg1RW13bWlhQ0R2aVhxQTZTWmhB?oc=5",
+   "title": "討論牆 | 大須商店街攻略｜交通、古董市集、公休日 30 秒看懂",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qbzlxaG84OXhoTzhweVdJSllGbUdXOWkteUFFbVVyLUgyRmNFTnIxOHRfTWEyY19hcnB2Y29USTRoTUY2eU9CN1ZDTkczOWtaR0ZhSXh4N29kZkpoYUVSak40YTg?oc=5",
    "source": "LINE TODAY",
    "source_site": "https://today.line.me",
-   "published_at": "2026-11-01T00:10+08:00",
-   "query": "商圈",
-   "url": "https://today.line.me/tw/v3/article/vXLGM5m",
-   "resolved": true
-  },
-  {
-   "title": "獨家／信義商圈吊車一轉「擊破公車玻璃」 嚇壞乘客",
-   "google_url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPZ2lRQUkteW9iVV9tay0wOVlCYktmM2FGbnBqSXlDMHJCU2tiN2NpelBrOTNQSWpMUDdwMXFtdkx1dTBTdjE3aTF1UmpoTjBiZ2RwenJHSXhMOUJwTmd6bk4xWDE3MmJjSXhrVHlSa1pqcFN5MEhQNkF5R052X1pELUFCN2N2bGJMdmc3X2tqTm0ycFN2emY3N19JX3ZTQmNIQjhjUHJyWE9HY0Z2TUNlaVJGRENXQ0RsZGNxdXBVdk5IaGVkS3BHaEg2aTc4N3JVczJJZ1ZsLU5vZmx2WHBrbEtmMUUzb2xHQ1QxejB6ME80TkdET2tJTTU1TlFtdUNjWlZ3Y0ZuUkFfMlZ4VnNEdFJyYm1tRWZDUVY3SWp4WHVaTlVLZ3M0UDhwSGdHd1VqOG41U0lXbkYxOWg2?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-10-31T23:33+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E5%90%8A%E8%BB%8A-%E8%BD%89-%E6%93%8A%E7%A0%B4%E5%85%AC%E8%BB%8A%E7%8E%BB%E7%92%83-%E5%9A%87%E5%A3%9E%E4%B9%98%E5%AE%A2-153300473.html",
-   "resolved": true
-  },
-  {
-   "title": "小小變裝高手出招\"小胡迪.小孫悟空\" 三峽老街萬聖節超嗨－民視新聞- 民視新聞網",
-   "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FMHJSdlF6ZnpMWFZPOGFQTFhhbVFwSWxBcGJKbWg4OEFHNEx5cmFVQWpmNGJacW9vTE5Bb1FyaC1sSndVQjItNHRxSi00RzM2aG15N2ZTMVdrWk5FZkNsX1B5RkFUbWs?oc=5",
-   "source": "民視新聞網",
-   "source_site": "https://www.ftvnews.com.tw",
-   "published_at": "2026-10-31T22:54+08:00",
-   "query": "老街",
-   "url": "https://www.ftvnews.com.tw/shortvideo/detail/Krr1vaGOfA8",
+   "published_at": "2026-11-01T07:45+08:00",
+   "query": "商店街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/eLpOGaK",
    "resolved": true
   },
   {
    "title": "小小變裝高手出招 \"小胡迪.小孫悟空\" 三峽老街萬聖節超嗨",
-   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03ZDhiYXlwbkp5bDd3ZEZhSHd1WUZqU015WDZPRE1tdHROY2ttb3F5V1JTWnFack40a3J1cnBEMFVFSW5LTFkyQXZDaW9IU29YNVhrOU0tMjZuamFGbENYVg?oc=5",
-   "source": "民視新聞網",
-   "source_site": "https://www.ftvnews.com.tw",
-   "published_at": "2026-10-31T22:47+08:00",
-   "query": "老街",
-   "url": "https://www.ftvnews.com.tw/news/detail/2026A31L07M1",
-   "resolved": true
-  },
-  {
-   "title": "鏡頭：老街層林盡染 屋頂對望新城",
-   "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWGk2VnZfZ2txWFJEd1hGd3BRdms4VG1USm5yWG01OFpwT2w0ZXBmYUF0UjVrNzlvdEotekQ2U3RMSkJUbVJiRm13aEo5emxOTWJZWXZlZVRtQ2N2bEZZaHJUR1NMUzNlWWZ4V3I5cmtDY3FHR3pzWV9mdWVjQ2hCN0R3OFNjVVE?oc=5",
-   "source": "中國評論新聞",
-   "source_site": "https://hk.crntt.com",
-   "published_at": "2026-10-31T22:27+08:00",
-   "query": "老街",
-   "url": "https://hk.crntt.com/crn-webapp/wap/detail.jsp?coluid=7&kindid=0&docid=107250072",
-   "resolved": true
-  },
-  {
-   "title": "金門後浦變身萬聖馬戲樂園！21組創意變裝登場 大小萌鬼擠爆商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oVG5FSGw1eTllMU1uSm1ULWNmN1JpcU1jX3NPcEpha3psTE5VbmkxS3lBcXRxZml2TWpnUmEwS1FQMHRpQV92ZzRTM2w0cFdl0gFWQVVfeXFMTXh2NjNGckk1QTg4U1h4RUdGRU5rSy1ndDZxY1YzQWVIOWNrQzE0dk1BdEhiaVJ1aWRMUzFoZVlmMXE0czlaZUJ4MEx0WTk5SzhzMDd0TFE?oc=5",
-   "source": "udn",
-   "source_site": "https://udn.com",
-   "published_at": "2026-10-31T22:09+08:00",
-   "query": "商圈",
-   "url": "https://udn.com/news/story/7327/9849362",
-   "resolved": true
-  },
-  {
-   "title": "萬聖節 馬公商圈變裝踩街好熱鬧（2） (圖)",
-   "google_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOY1hQZVBlRUlVUUgzTWdINjBCN2NLdzlZclFDM1JQZGx5SDl3LXp0cTNTdm1uczdBal9takdIdE9iZTFkdEhVeTRTU2podnVZcjRRMlRmaHBkYTc5WGtjaG5fRXRwV2I4WGh3YnJPU2ZxckQtNElQaVhaZVVaaHcyank1VFdkeWpIWUpPUzU2Mm5PWGxyX3EzSERGOUU0SHoydGNPbDNJbTJpLTJ6ZmV1WDR4LWx1elEtamEwa1FVQ3ZPU0F4amwxTmptZjMxcF9HUzRmZnFNa3BMNks3OF9fS1hubWRwYzRROTJTX2tLNTFicnVkZVNlVTRuMzNQSHpoSXBDVktRSFZibkE1?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOdjdxbDNxaVFJc0VIbmMyZHU1MmpLZHdtcmFNYVppWndkMWx6NlNLQWZMTzRoUm1CN2hnNmFXWDllaWctTEFXaHc0S3dSVUJGamVUaE5EU1FYOG9LM0RxRFd5b3BQWllCYWN3YWtWU2Q2TFlyRXJUbVZlNTBISThxaWF5TjMzVDhoTE1vSEljZ2Q0REMtZ000d0w1OTNPZ1BRSFFYbWptMXZVeV9zZjFNNmU3TGZXcmRLWlJTVHR2WVN2SVY1Zkdxbzcydzg5bzJkSUUtTm1MdWVGS2lPcFJvbUtjNmxkaFc4RFRxdEdONGZPUTRWUkVDM0NJajU2dy1vU0M0RXVqNUFWbENrTWp3LVdwOGhyRVV6M1dKRTNFWkY0dy1RTUtlNVhGSzZLc3pjMThrZnRJb08wbEVrSnc4RGM1ODdKVi1IajM4eHhrYlNoc19EV0dqOUpIQmpJT2t0SEFxcUE0akY3NlVfOVFXMVVjNVVoaWc?oc=5",
    "source": "Yahoo新聞",
    "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-10-31T21:40+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E8%90%AC%E8%81%96%E7%AF%80-%E9%A6%AC%E5%85%AC%E5%95%86%E5%9C%88%E8%AE%8A%E8%A3%9D%E8%B8%A9%E8%A1%97%E5%A5%BD%E7%86%B1%E9%AC%A7-2-%E5%9C%96-134052796.html",
-   "resolved": true
-  },
-  {
-   "title": "萬聖節 馬公商圈變裝踩街好熱鬧（1） (圖)",
-   "google_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTVZhSE5DeU9fdF8tR3FCLTRPS2xkandMRVlsVnlfYnh3TndzU0xncEt4NVRYRjdYV2RVYVk1RVVSUlJjQVF2MTREY2gwMS02YnM5MXJQV0gzNUtDUmNrSzFJOEs3TUVnc1h2VEY3R2laUTRkWWc4RnpEd1hhZEZGWWwwcGJDejZqNnFTemc4UzkycUpVd0x6TzFmQmFfbHdMcnRnWlVfRlpKSzVTQVRkZGNFbHBCY2tjcE5lY1liVDU3V0lzUUdYODk0MVJfUkM3VXZ2ZkhHY2VfeDd5b3RxRWVRbUVXVTRoczNrZFhodG4tNjh6eGc1azZtRDJQdFprWnU5WkZMMmJ0dHR3?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-10-31T21:39+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E8%90%AC%E8%81%96%E7%AF%80-%E9%A6%AC%E5%85%AC%E5%95%86%E5%9C%88%E8%AE%8A%E8%A3%9D%E8%B8%A9%E8%A1%97%E5%A5%BD%E7%86%B1%E9%AC%A7-1-%E5%9C%96-133949786.html",
-   "resolved": true
-  },
-  {
-   "title": "馬公萬聖節踩街親子萌鬼湧中正商圈同樂| 地方",
-   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HVnl5c2xhcXVzc0RNRkRYbHNJYlEzZU9aWUJ1Mm12S3pVdHlUMEw4MFVYQjBveDd3aUhEalNVNWpHcFNZd1Z4YkV4eWc5Z0paQzRuTHlJMFRIaDJPYmow?oc=5",
-   "source": "中央社 CNA",
-   "source_site": "https://www.cna.com.tw",
-   "published_at": "2026-10-31T21:34+08:00",
-   "query": "商圈",
-   "url": "https://www.cna.com.tw/news/aloc/202610310195.aspx",
+   "published_at": "2026-11-01T06:01+08:00",
+   "query": "老街",
+   "url": "https://tw.news.yahoo.com/%E5%B0%8F%E5%B0%8F%E8%AE%8A%E8%A3%9D%E9%AB%98%E6%89%8B%E5%87%BA%E6%8B%9B-%E5%B0%8F%E8%83%A1%E8%BF%AA-%E5%B0%8F%E5%AD%AB%E6%82%9F%E7%A9%BA-%E4%B8%89%E5%B3%BD%E8%80%81%E8%A1%97%E8%90%AC%E8%81%96%E7%AF%80%E8%B6%85%E5%97%A8-145802737.html",
    "resolved": true
   }
  ]
