@@ -1,38 +1,38 @@
 {
- "fetched_at": "2026-11-03T10:58:27+08:00",
+ "fetched_at": "2026-11-03T15:01:05+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": "error",
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
   "https://news.cts.com.tw/cts/general/202610/202610203091965.html": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -56,22 +56,22 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1480925": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://life.tw/article/從老街區文化到世代交流-里長參選人盧綠綢提出建功里社區活動構-3194318": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 13-23: ordinal not in range(128)"
   },
   "https://news.ebc.net.tw/search/tags/李慶隆/": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)"
   },
@@ -81,22 +81,17 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.watchmedia01.com/archives/564050": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://www.hsnews.com.tw/political-news/dai-yu-wen-ti-zai-zao-jin-san-jiao-ji-hua-yu-zheng-shi-shang-quan-zhuan-xing-wen-ti-2.html": {
-   "checked_at": "2026-10-31T13:59+08:00",
-   "status": 404,
-   "error": "HTTP Error 404: Not Found"
-  },
   "https://futurecity.cw.com.tw/article/4178": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.atanews.net/?Wirenews=H20261026151910": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -114,365 +109,6 @@
    "checked_at": "2026-10-31T18:59+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://note.com/kurara_helpnote/n/nb6fdba35bb88": {
-   "checked_at": "2026-10-31T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T11:11+08:00",
-   "site_name": "note（ノート）",
-   "description": "台湾に4年間住んでいた私。でも、台湾にはまだまだ知らない食べ物がある。今回、高雄で台湾人の友達と訪れたのは、乾物や昔ながらのお菓子が並ぶ「三鳳中街（サンフォンジョンジエ）」。台北でいう迪化街のような雰囲気の問屋街です。  実は、最初のお目当てはお菓子じゃなくて乾燥ナツメ。私の体調を気遣って、台湾人の友達のお母さんが「体",
-   "cities": {
-    "高雄市": 6,
-    "台北市": 2
-   },
-   "districts": [
-    "迪化街商圈（台北市）",
-    "三鳳中街（高雄市）"
-   ],
-   "body_chars": 2572,
-   "image": "https://assets.st-note.com/production/uploads/images/329024520/rectangle_large_type_2_32ff76698c0e8620437a351a55aee315.jpg?fit=bounds&quality=85&width=1280",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261031942053": {
-   "checked_at": "2026-10-31T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T10:23+08:00",
-   "site_name": "蕃新聞",
-   "description": "圖/邀請全臺民眾在雙11、百貨週年慶前來臺南消費，享旅遊與購物節「百貨量販加碼抽」的雙【點傳媒／記者",
-   "cities": {
-    "台南市": 15,
-    "高雄市": 1
-   },
-   "districts": [
-    "楠西商圈（台南市）"
-   ],
-   "body_chars": 1214,
-   "image": "https://ni.yam.com/20261031/11--8f91154a193dae00.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.storm.mg/lifestyle/11176985": {
-   "checked_at": "2026-10-31T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T09:30+08:00",
-   "site_name": null,
-   "description": "說到新北的老街，多數人第一個想到九份、淡水，但最近在社群上被討論的，是山裡的坪林老街。有網友在Threads分享到坪林吃茶點的一日遊，茶冰淇淋、茶麻糬讓她讚不絕口，貼文獲得上萬個讚。不少去過的人看了直呼「完蛋了，秘密基地被發現了」，這條安靜的茶鄉小街也因此跟著翻紅。坪林老街在哪裡？北宜公路上的茶鄉小鎮坪林位在北宜公路中",
-   "cities": {
-    "新北市": 5,
-    "台北市": 2,
-    "宜蘭縣": 2
-   },
-   "districts": [],
-   "body_chars": 2031,
-   "image": "https://images.storm.mg/cloud/52f31cdfa657f4e3fbb4e4700d18cec7244bd7e9.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1925649%2F20240707-070813_U27065_M967511_05e5.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26104": {
-   "checked_at": "2026-10-31T12:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {
-    "台中市": 3
-   },
-   "districts": [
-    "自由路商圈（台中市）",
-    "繼光商圈（台中市）",
-    "大隆路商圈（台中市）",
-    "美術園道商圈（台中市）",
-    "太平樹孝商圈（台中市）",
-    "豐原廟東復興商圈（台中市）"
-   ],
-   "body_chars": 1211,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.knews.com.tw/news/EA572948B8AD95168A10F9C6FAE89A53": {
-   "checked_at": "2026-10-31T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T10:01+08:00",
-   "site_name": "知新聞",
-   "description": "【政治中心／台北報導】縣市長選戰倒數28天，台北市長蔣萬安與對手民進黨候選人沈伯洋今天中午展開首場電視辯論，蔣萬安前兩天因為市政、選舉兩頭燒，聲音沙啞、破病暫停行程，其妻石舫亘29日起代夫掃街拜票，輔選效果佳，人氣不輸蔣萬安，今邁入第三天陸戰，下午1530赴迪化商圈掃街拜票。《知新聞》全程直播，現場直擊第一手互動。",
-   "cities": {
-    "台北市": 6,
-    "高雄市": 2,
-    "台中市": 1
-   },
-   "districts": [],
-   "body_chars": 1322,
-   "image": "https://static.kmedia.com.tw/prd/2026/1030/photo/9030acb851b584b961fa096dec8fe8f6.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.storm.mg/lifestyle/11175949": {
-   "checked_at": "2026-10-31T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T11:30+08:00",
-   "site_name": null,
-   "description": "台灣各地老街向來是國人假日休閒與連假出遊的熱門首選，根據交通部觀光署最新公佈的 2026 年 1 至 8 月統計數據，全台人氣最高的老街榜首由彰化「鹿港老街及周邊地區」強勢奪下，前 8 個月累計造訪人次已突破 1,791 萬人次；緊追在後的第二名與第三名，則分別為吸客逾 1,642 萬人次的新北市「瑞芳風景特定區（含九",
-   "cities": {
-    "彰化縣": 3,
-    "新北市": 2,
-    "南投縣": 2,
-    "台北市": 1
-   },
-   "districts": [
-    "九份老街商圈（新北市）",
-    "淡水老街商圈（新北市）",
-    "鹿港老街商圈（彰化縣）"
-   ],
-   "body_chars": 2355,
-   "image": "https://images.storm.mg/cloud/09e22e70abb1fcdb87955cb5fffe5163d85dbc4d.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2158708%2F8loGCdRW9Ow3ugF67LfzV9520Sv5yfj498xjv82n.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://twpowernews.com/news_pagein.php?n_id=297279": {
-   "checked_at": "2026-10-31T12:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "勁報",
-   "description": "以往以濃郁香料咖哩擄獲饕客味蕾的知名連鎖品牌「魔法咖哩」，10/30日正式宣佈，隱身於台北車站商圈精華地段的魔法咖哩站前店，將首度突破以往經營模式，正式開啟「TeaTime午後慢享時光」下午茶全新服務！告別過去離峰時段的沉寂，站前店特別發揮門市鬧中取靜與絕佳氛圍優勢，結合全新升級的冷熱飲自助吧，打...",
-   "cities": {
-    "台北市": 8
-   },
-   "districts": [],
-   "body_chars": 921,
-   "image": "https://twpowernews.com/P_L/202610/8ba1bc75080e2117007b91a09d5fe03f.png",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.moneyweekly.com.tw/ArticleData/Info/Article/258774": {
-   "checked_at": "2026-10-31T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T11:58+08:00",
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 2593,
-   "image": "https://taiwanhot.net/cache/1314852/lgnw/medias-20261029-6ae24a5b08e10.jpeg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://taiwan.sharelife.tw/article_aid-41221.html": {
-   "checked_at": "2026-10-31T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T17:40+08:00",
-   "site_name": "俗女養成記拍攝地！台南後壁老街景點 清代街屋藏歲月！:ShareLife 台灣旅",
-   "description": "還記得《俗女養成記》裡陳嘉玲的中藥行老家嗎？這座位於台南後壁菁寮老街的金德興阮家古厝，擁有超過兩百年歷史，從傳統木構閣樓到百年藥櫃，處處藏著老台灣的生活記憶。",
-   "cities": {
-    "台南市": 2
-   },
-   "districts": [],
-   "body_chars": 4000,
-   "image": "https://taiwan.sharelife.tw/tw-news-img/352215/7523281026063415.jpg?094018",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.taichung.gov.tw/3401276/post": {
-   "checked_at": "2026-10-31T12:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "臺中市政府全球資訊網",
-   "description": "台中第二波物調券369家商圈店家響應！天津商圈8折、自由路9折再加碼優惠",
-   "cities": {
-    "台中市": 11
-   },
-   "districts": [
-    "自由路商圈（台中市）",
-    "繼光商圈（台中市）",
-    "大隆路商圈（台中市）",
-    "美術園道商圈（台中市）",
-    "太平樹孝商圈（台中市）",
-    "豐原廟東復興商圈（台中市）"
-   ],
-   "body_chars": 1542,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://news.immigration.gov.tw/NewsSection/Detail/A4A95B2B-1DB9-4523-B4D1-6B22D025549E?lang=TW": {
-   "checked_at": "2026-10-31T12:17+08:00",
-   "status": 200,
-   "published_at": "2020-08-22T11:40+08:00",
-   "site_name": "新住民全球新聞網-嘉義雲海季推數位集章　跨區玩山林步道、部落與老街",
-   "description": "嘉義雲海季推數位集章　跨區玩山林步道、部落與老街",
-   "cities": {
-    "嘉義縣": 11,
-    "台北市": 3,
-    "台南市": 2
-   },
-   "districts": [],
-   "body_chars": 2404,
-   "image": "https://news.immigration.gov.tw/Uploads/2026/0910/103104pM.jpg",
-   "image_checked": true,
-   "date_hint": "2020-08-22",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.videoland.com.tw/article/3d7e43cf-cdae-4795-a93a-6ea250b589f2.html": {
-   "checked_at": "2026-10-31T13:59+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T12:07+08:00",
-   "site_name": "緯來新聞網",
-   "description": "台中最強景點竟不是夜市！根據交通部觀光署統計，台中市今年1月至8月觀光人次排名出爐，其中公益路商圈以2309萬6535人次奪下冠軍，超越一中商圈、秋紅谷景觀生態公園及逢甲夜市等知名景點，成為台中觀光人氣焦點。公益路商圈憑藉豐富的餐飲選擇與周...",
-   "cities": {
-    "台中市": 9,
-    "台北市": 1
-   },
-   "districts": [
-    "精明一街商圈（台中市）",
-    "中央公園商圈（高雄市）"
-   ],
-   "body_chars": 1347,
-   "image": "https://news.videoland.com.tw/newsphoto/enews_20261028471_167ACD.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.tvbs.com.tw/life/4042412": {
-   "checked_at": "2026-10-31T13:59+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T12:35+08:00",
-   "site_name": "TVBS新聞網",
-   "description": "「台中公益路商圈」衝上台中最強景點！根據交通部觀光署統計，今年1至8月台中最強景點由「公益路商圈」奪冠，在8個月內就吸引逾2309萬人次造訪，與排名第二的「一中商圈」1445萬人次，領先多達864萬人次。",
-   "cities": {
-    "台中市": 32,
-    "台北市": 6,
-    "新北市": 4,
-    "高雄市": 4,
-    "台南市": 1
-   },
-   "districts": [
-    "逢甲商圈（台中市）",
-    "中央公園商圈（高雄市）"
-   ],
-   "body_chars": 2921,
-   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a180c2-6753-70b7-8d2a-f51d63c375fa.jpg?t=4x3&wp=l,b&c=0,15,400,315&w=1200&h=675",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261027630408": {
-   "checked_at": "2026-10-31T13:59+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T15:17+08:00",
-   "site_name": "蕃新聞",
-   "description": "LifeNews｜江育銓【記者 江育銓/採訪報導】為推動萬里地方文化傳承、低碳旅遊、長者關懷與商圈發",
-   "cities": {
-    "新北市": 7
-   },
-   "districts": [
-    "萬里商圈（新北市）",
-    "野柳商圈（新北市）"
-   ],
-   "body_chars": 2001,
-   "image": "https://ni.yam.com/20261030/2034832_0-613a2d65a43b9c0b.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.teepr.com/1951479/edwardliu/%E5%85%AC%E7%9B%8A%E8%B7%AF%E5%95%86%E5%9C%88/": {
-   "checked_at": "2026-10-31T13:59+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T12:23+08:00",
-   "site_name": "TEEPR 亮新聞",
-   "description": "台中哪裡最有人氣？據中時新聞網引述觀光署統計，公益路商圈今年前8個月累計逾2309萬人次，領先一中商圈。除了餐廳選擇多，附近還能串聯百貨、綠園道與散步景點，一起看榜單及周邊特色。",
-   "cities": {
-    "台中市": 11
-   },
-   "districts": [
-    "精明一街商圈（台中市）",
-    "中央公園商圈（高雄市）"
-   ],
-   "body_chars": 1112,
-   "image": "https://media.teepr.com/wp-content/uploads/2026/10/1951479-photo1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://estate.ltn.com.tw/article/29199": {
-   "checked_at": "2026-10-31T13:59+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T04:25+08:00",
-   "site_name": "自由時報電子報",
-   "description": "台中市政府與台灣人壽完成總投資額約600億元的「台中市運動產業園區新建營運移轉（BOT）案」簽約，預計最快2031～2032年間完工啟用，超巨蛋落腳水湳經貿園區，除了為當地帶來大型建設，也讓鄰近的逢甲商圈受到關注，未來若人流、商業活動及周邊交通建設逐步到位，",
-   "cities": {
-    "台中市": 13,
-    "高雄市": 2
-   },
-   "districts": [
-    "逢甲商圈（台中市）",
-    "中央公園商圈（高雄市）"
-   ],
-   "body_chars": 2242,
-   "image": "https://img.ltn.com.tw/Upload/house/page/2026/10/31/261031-29199-1-xAb1E.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E7%9B%B4%E6%92%AD-%E8%94%A3%E8%90%AC%E5%AE%89%E5%BF%99%E8%BE%AF%E8%AB%96-%E7%9F%B3%E8%88%AB%E4%BA%98%E7%BA%8C%E6%8B%9A%E9%99%B8%E6%88%B0-15-30%E5%A4%A7%E7%A8%BB%E5%9F%95%E8%BF%AA%E5%8C%96%E5%95%86%E5%9C%88%E6%90%B6%E7%A5%A8-020100691.html": {
-   "checked_at": "2026-10-31T13:59+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T12:07+08:00",
-   "site_name": "Yahoo News",
-   "description": "【政治中心／台北報導】縣市長選戰倒數28天，台北市長蔣萬安與對手民進黨候選人沈伯洋今天中午展開首場電視辯論，蔣萬安前兩天因為市政、選舉兩頭燒，聲音沙啞、破病暫停行程，其妻石舫亘29日起代夫掃街拜票，輔選效果佳，人氣不輸蔣萬安，今邁入第三天陸戰，下午1530赴迪化商圈掃街拜票。《知新聞》全程直播，現場直擊第一手互動。",
-   "cities": {
-    "台北市": 28,
-    "高雄市": 12,
-    "嘉義縣": 3
-   },
-   "districts": [],
-   "body_chars": 3767,
-   "image": "https://s.yimg.com/lo/mysterio/api/6d3876c288f06b3d9686008768999a2b46a4ee456f75bd1418e7ad14a3101de4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fknews_com_721%2Fa4c88a9373fb1aefeac24477ad1dd8d1",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.pchome.com.tw/living/news586/20261031/index-79341342907651290009.html": {
-   "checked_at": "2026-10-31T13:59+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T10:23+08:00",
-   "site_name": "PChome Online 新聞",
-   "description": "圖/邀請全臺民眾在雙11、百貨週年慶前來臺南消費，享旅遊與購物節「百貨量販加碼抽」的雙 【點傳媒／記者張淑慧報導】「2026臺南購物節」自9月7日開跑以來，消費熱度持續攀升，累計消費登錄金額正式突破3",
-   "cities": {
-    "台南市": 16
-   },
-   "districts": [
-    "楠西商圈（台南市）"
-   ],
-   "body_chars": 1318,
-   "image": "https://news.pchome.com.tw/newsdata/living/news586/20261031/79341342907651290009_original.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/article/aGpo2RP?referral=TOPIC-flowering": {
-   "checked_at": "2026-10-31T13:59+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T11:58+08:00",
-   "site_name": "LINE TODAY",
-   "description": "來到廈門，除了鼓浪嶼、中山路步行街與南普陀寺，位於環島南路的曾厝垵，也是值得留點時間慢慢探索的旅遊景點。這座昔日靠海維生的傳統漁村，如今巷弄...",
-   "cities": {},
-   "districts": [],
-   "body_chars": 2525,
-   "image": "https://today-obs.line-scdn.net/0hWycEJO0aCFZePBTTl7x3AWZqBCdtWhJffF1FMHNoBWV3EExQZQ5bNSxpAnp6BB8Ffl0QNHk8A2MhCElUMg/w1200",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261028693409": {
    "checked_at": "2026-10-31T16:50+08:00",
@@ -818,7 +454,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.fclnews.com/235170/": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -1144,7 +780,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1482837": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -2270,7 +1906,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/politics/202611/202611013096051.html": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3180,7 +2816,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1483649": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6378,12 +6014,12 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1484196": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1484068": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6487,7 +6123,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1484010": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7061,7 +6697,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.yesmedia.com.tw/%E8%97%8F%E8%BA%AB%E6%9D%B1%E6%B5%B7%E5%95%86%E5%9C%88%E7%9A%84%E5%B9%B3%E5%83%B9%E6%B8%AF%E5%BC%8F%E7%BE%8E%E9%A3%9F-%E7%8F%BE%E8%92%B8%E7%9F%B3%E7%A3%A8%E8%85%B8%E7%B2%89%E3%80%81%E6%B2%B3/": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7130,7 +6766,7 @@
    "date_hint_from": "原文時間"
   },
   "https://sunmedia.tw/news/finance/走一段路，找回生活的光！2026-微光健走・亞東漫遊熱鬧登場-1793609777075": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 18-29: ordinal not in range(128)"
   },
@@ -7239,7 +6875,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.fclnews.com/235377/": {
-   "checked_at": "2026-11-03T07:17+08:00",
+   "checked_at": "2026-11-03T15:01+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7533,6 +7169,338 @@
    "image": "https://statics.mnews.tw/images/3b274b88-4c76-4cb4-a5ba-5b7aeddd4277-w1600.jpg",
    "image_checked": true,
    "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261031942053": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T10:23+08:00",
+   "site_name": "蕃新聞",
+   "description": "圖/邀請全臺民眾在雙11、百貨週年慶前來臺南消費，享旅遊與購物節「百貨量販加碼抽」的雙【點傳媒／記者",
+   "cities": {
+    "台南市": 15
+   },
+   "districts": [
+    "楠西商圈（台南市）"
+   ],
+   "body_chars": 1209,
+   "image": "https://ni.yam.com/20261031/11--8f91154a193dae00.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26104": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {
+    "台中市": 3
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1211,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.tvbs.com.tw/life/4042412": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T12:35+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "「台中公益路商圈」衝上台中最強景點！根據交通部觀光署統計，今年1至8月台中最強景點由「公益路商圈」奪冠，在8個月內就吸引逾2309萬人次造訪，與排名第二的「一中商圈」1445萬人次，領先多達864萬人次。",
+   "cities": {
+    "台中市": 32,
+    "台北市": 6,
+    "新北市": 4,
+    "高雄市": 4,
+    "台南市": 1
+   },
+   "districts": [
+    "逢甲商圈（台中市）",
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 2923,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a180c2-6753-70b7-8d2a-f51d63c375fa.jpg?t=4x3&wp=l,b&c=0,15,400,315&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.videoland.com.tw/article/3d7e43cf-cdae-4795-a93a-6ea250b589f2.html": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T12:07+08:00",
+   "site_name": "緯來新聞網",
+   "description": "台中最強景點竟不是夜市！根據交通部觀光署統計，台中市今年1月至8月觀光人次排名出爐，其中公益路商圈以2309萬6535人次奪下冠軍，超越一中商圈、秋紅谷景觀生態公園及逢甲夜市等知名景點，成為台中觀光人氣焦點。公益路商圈憑藉豐富的餐飲選擇與周...",
+   "cities": {
+    "台中市": 9,
+    "台北市": 1
+   },
+   "districts": [
+    "精明一街商圈（台中市）",
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 1347,
+   "image": "https://news.videoland.com.tw/newsphoto/enews_20261028471_167ACD.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.teepr.com/1951479/edwardliu/%E5%85%AC%E7%9B%8A%E8%B7%AF%E5%95%86%E5%9C%88/": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T12:23+08:00",
+   "site_name": "TEEPR 亮新聞",
+   "description": "台中哪裡最有人氣？據中時新聞網引述觀光署統計，公益路商圈今年前8個月累計逾2309萬人次，領先一中商圈。除了餐廳選擇多，附近還能串聯百貨、綠園道與散步景點，一起看榜單及周邊特色。",
+   "cities": {
+    "台中市": 11
+   },
+   "districts": [
+    "精明一街商圈（台中市）",
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 1112,
+   "image": "https://media.teepr.com/wp-content/uploads/2026/10/1951479-photo1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261027630408": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T15:17+08:00",
+   "site_name": "蕃新聞",
+   "description": "LifeNews｜江育銓【記者 江育銓/採訪報導】為推動萬里地方文化傳承、低碳旅遊、長者關懷與商圈發",
+   "cities": {
+    "新北市": 7
+   },
+   "districts": [
+    "萬里商圈（新北市）",
+    "野柳商圈（新北市）"
+   ],
+   "body_chars": 1992,
+   "image": "https://ni.yam.com/20261030/2034832_0-613a2d65a43b9c0b.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/lifestyle/11175949": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T11:30+08:00",
+   "site_name": null,
+   "description": "台灣各地老街向來是國人假日休閒與連假出遊的熱門首選，根據交通部觀光署最新公佈的 2026 年 1 至 8 月統計數據，全台人氣最高的老街榜首由彰化「鹿港老街及周邊地區」強勢奪下，前 8 個月累計造訪人次已突破 1,791 萬人次；緊追在後的第二名與第三名，則分別為吸客逾 1,642 萬人次的新北市「瑞芳風景特定區（含九",
+   "cities": {
+    "彰化縣": 3,
+    "新北市": 2,
+    "南投縣": 2,
+    "台北市": 1
+   },
+   "districts": [
+    "九份老街商圈（新北市）",
+    "淡水老街商圈（新北市）",
+    "鹿港老街商圈（彰化縣）"
+   ],
+   "body_chars": 2355,
+   "image": "https://images.storm.mg/cloud/09e22e70abb1fcdb87955cb5fffe5163d85dbc4d.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2158708%2F8loGCdRW9Ow3ugF67LfzV9520Sv5yfj498xjv82n.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taichung.gov.tw/3401276/post": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "臺中市政府全球資訊網",
+   "description": "台中第二波物調券369家商圈店家響應！天津商圈8折、自由路9折再加碼優惠",
+   "cities": {
+    "台中市": 11
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1542,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://note.com/kurara_helpnote/n/nb6fdba35bb88": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T11:11+08:00",
+   "site_name": "note（ノート）",
+   "description": "台湾に4年間住んでいた私。でも、台湾にはまだまだ知らない食べ物がある。今回、高雄で台湾人の友達と訪れたのは、乾物や昔ながらのお菓子が並ぶ「三鳳中街（サンフォンジョンジエ）」。台北でいう迪化街のような雰囲気の問屋街です。  実は、最初のお目当てはお菓子じゃなくて乾燥ナツメ。私の体調を気遣って、台湾人の友達のお母さんが「体",
+   "cities": {
+    "高雄市": 6,
+    "台北市": 2
+   },
+   "districts": [
+    "迪化街商圈（台北市）",
+    "三鳳中街（高雄市）"
+   ],
+   "body_chars": 2572,
+   "image": "https://assets.st-note.com/production/uploads/images/329024520/rectangle_large_type_2_32ff76698c0e8620437a351a55aee315.jpg?fit=bounds&quality=85&width=1280",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://estate.ltn.com.tw/article/29199": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T04:25+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台中市政府與台灣人壽完成總投資額約600億元的「台中市運動產業園區新建營運移轉（BOT）案」簽約，預計最快2031～2032年間完工啟用，超巨蛋落腳水湳經貿園區，除了為當地帶來大型建設，也讓鄰近的逢甲商圈受到關注，未來若人流、商業活動及周邊交通建設逐步到位，",
+   "cities": {
+    "台中市": 13,
+    "高雄市": 2
+   },
+   "districts": [
+    "逢甲商圈（台中市）",
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 2241,
+   "image": "https://img.ltn.com.tw/Upload/house/page/2026/10/31/261031-29199-1-xAb1E.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.thehubnews.net/archives/680414": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T13:24+08:00",
+   "site_name": "新頭條-TheHubNews",
+   "description": "記者林睿峰／桃園報導 桃園大園老街溪航心橋上游，將新建約100公尺人行步道，串聯上下游河岸步道，改善過去需要走階梯、與車輛共用道路的問題，預計明年2月開工、6月完工。 市長張善政前往現場視察，目前這段步道有約100公尺缺口，民眾必須走階梯或...",
+   "cities": {
+    "桃園市": 4
+   },
+   "districts": [],
+   "body_chars": 294,
+   "image": "https://www.thehubnews.net/wp-content/uploads/2026/11/gSBacQwRN715gLKELdVW.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261103002965-260421": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T14:14+08:00",
+   "site_name": "中時新聞網",
+   "description": "新北市政府持續推動大面積公辦都更，永和頂溪捷運周邊公辦都更案（A區）今（3）日舉行簽約典禮，本案為新北市住宅及都市更新中心主導公辦，由漢皇集團獲選實施者。住都中心表示，簽約啟動後將全力協助督導，推動永和",
+   "cities": {
+    "新北市": 5
+   },
+   "districts": [
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 747,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-03/656/20261103002966.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://travel.yam.com/article/141472": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T10:26+08:00",
+   "site_name": "輕旅行",
+   "description": "受薔琵颱風影響，原訂2026年10月24日舉辦的「山林展演｜青山瀑布&times;嵩山百年梯田（許家古厝）」改至11月7日星期六登場。活動結合石門青山瀑布步道健行、百年梯田與古厝走訪，再以弦樂、舞蹈和手機攝影體驗串聯山林與聚落文化，讓民眾在自然景觀中放慢步調。山林展演由10月24日延期至11月7日，結合青山瀑布健行、梯",
+   "cities": {
+    "新北市": 6
+   },
+   "districts": [],
+   "body_chars": 955,
+   "image": "https://ytimg.yam.com/img/blob/20261102/1200x630/10252797.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://estate.ltn.com.tw/article/29214": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T12:31+08:00",
+   "site_name": "自由時報電子報",
+   "description": "高雄捷運黃線沿線開發再傳利多！內政部都市計畫委員會3日審議通過Y8、Y18站聯開案都市計畫變更，2處基地合計1.91公頃，其中Y8站將興建3棟大樓，預計2027年招商、2032年完工；Y18站則將串聯衛武營、2027年初開幕的三井LaLaport高雄，周邊新",
+   "cities": {
+    "高雄市": 19,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 1184,
+   "image": "https://img.ltn.com.tw/Upload/house/page/2026/11/03/261103-29214-11-6USjH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/lifestyle/11177593": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T14:40+08:00",
+   "site_name": null,
+   "description": "曾是北台灣重要商貿據點的新莊廟街，如今卻面臨人潮流失、商圈逐漸沒落的困境。有網友感嘆，昔日熱鬧的老街如今夜晚也不見人潮，引發不少在地人共鳴，直言娃娃機店進駐、街區特色消失，加上大型商場崛起，都是人潮轉移的原因。面對百年商圈逐漸失去吸引力，新北市政府也攜手在地店家與團體推動老街活化，試圖重現昔日風華。新莊廟街沒落了？網友",
+   "cities": {
+    "新北市": 4,
+    "台北市": 1
+   },
+   "districts": [
+    "新莊廟街商圈（新北市）"
+   ],
+   "body_chars": 1486,
+   "image": "https://images.storm.mg/cloud/516807246ed878e25b6d303aee038fcc605a72e2.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2067564%2FnQSd1L9tN7LYQx4BBvWWL1lOQ5MFp4WgENNMJGUU.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261103/3265509.htm": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T12:23+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "台北市政府日前才舉辦北投大樓暨市場拆除及改建工程開工祈福典禮，孰料，3日上午便發生鷹架倒塌意外，造成1名工人、3名民眾受傷。台北市長蔣萬安出席完市政行程後，急赴北投市場了解狀況，只見他頭戴安全帽、面色凝重現身，聽取消防現場報告。",
+   "cities": {
+    "台北市": 5,
+    "高雄市": 2
+   },
+   "districts": [],
+   "body_chars": 595,
+   "image": "https://cdn2.ettoday.net/images/8998/e8998042.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mirrormedia.mg/story/20261103pod001/": {
+   "checked_at": "2026-11-03T15:01+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T14:45+08:00",
+   "site_name": "鏡週刊 Mirror Media",
+   "description": "新竹縣於2025年首次被納入《台灣米其林指南》評選，其中有多間入選的客家菜餐廳以嶄新面貌驚豔無數饕客。裴社長在最新一集節目中，親赴新竹竹東與北埔，從傳統市場的醃漬食材，一路探尋至老街的私房餐館。透過實地走訪，揭開客家料理不以昂貴食材取勝，而是仰賴時間與陽光，將尋常風土轉化為深邃美味的百年智慧。",
+   "cities": {
+    "新竹縣": 15,
+    "新北市": 2,
+    "桃園市": 2
+   },
+   "districts": [
+    "竹東中央商圈（新竹縣）",
+    "北埔老街商圈（新竹縣）"
+   ],
+   "body_chars": 1466,
+   "image": "https://v3-statics.mirrormedia.mg/images/beaf9034-6551-4f67-8a7b-d7e5866fd7e7-w1600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
    "date_hint_from": "原文時間"
   }
  }

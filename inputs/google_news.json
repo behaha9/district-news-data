@@ -1,21 +1,71 @@
 {
- "fetched_at": "2026-11-03T10:58:16+08:00",
+ "fetched_at": "2026-11-03T15:00:53+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 105,
-  "kept": 44,
-  "resolved": 44,
-  "items": 42,
+  "raw": 132,
+  "kept": 48,
+  "resolved": 48,
+  "items": 46,
   "resolve_this_run": {
    "online": 5
   },
   "dropped_old": [
-   "信義中繼市場正式動工 謝國樑盼兼顧攤商營運與商圈發展打造市場改建新里程碑（原文日期 2026-10-15）",
+   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
    "振興北市商圈經濟!沈伯洋永康商圈座談會（原文日期 2026-08-10）"
   ]
  },
  "items": [
+  {
+   "title": "尋味新竹客家庄！裴社長走訪竹東市場與北埔老街　大啖胡椒鴨、老柿乾燉煮排骨湯、拐斯炒豬脷頭",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3VHhqQnVxdnBCS3IxU3U5WS10TXpwTTd0X3kxWnhUVV9oWkppemNHLTlWRE5JVkFfT21VQ3RYLWRiTDJXV2tSLXJVNGQwbXZpaTZWcFRmclIyTEN20gFgQVVfeXFMTUpuTFdKdU9FVkRhV0JqTFQzc1padDhqZ1d1cUZ5c0hQTmdrRVhhdkpiRldjM1pYblBKR0Y4X3ZrZmJpY3JqaGhOdlZWYjVqYjgxakpXVHBZMzBIclFtUWlI?oc=5",
+   "source": "鏡週刊Mirror Media",
+   "source_site": "https://www.mirrormedia.mg",
+   "published_at": "2026-11-03T14:45+08:00",
+   "query": "老街",
+   "url": "https://www.mirrormedia.mg/story/20261103pod001/",
+   "resolved": true
+  },
+  {
+   "title": "台灣知名老街沒落！遊客嘆沒人逛了「店家倒閉歇業、冷清沒特色」：20 年前熱鬧回不去",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IeHFjY1ZHX2xGMmlUZE5aU1poSUhPcVhnRzhtUmt5SElUeFc4M1hFWEgyT3FXT3k5Ri1yVWJ4ZGxsTDBUUTc1RTFlU1FMTGtV?oc=5",
+   "source": "風傳媒",
+   "source_site": "https://www.storm.mg",
+   "published_at": "2026-11-03T14:40+08:00",
+   "query": "老街",
+   "url": "https://www.storm.mg/lifestyle/11177593",
+   "resolved": true
+  },
+  {
+   "title": "老舊商圈大翻身！永和頂溪公辦都更簽約",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HNEJVS2pTM1ppYmlXYnZuc0dDUHdZV1JjUXRlOUVkdEF5LW9XX2dudl9vZFVvOG9Ca1RBZ2J5ekRLaURfbHdUcFJKdWZzRy1BR0pNeDZzRFhGOGgtUnBSRVV2RFluWC15dnB4T1ln?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-03T14:14+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/realtimenews/20261103002965-260421",
+   "resolved": true
+  },
+  {
+   "title": "老街溪步道將改善 航心橋上游增百米人行道",
+   "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxME96SzgxLWY2Mi01N09fM2FWMFBQUTdIUDY2cGZXZWc2VEZyZWt5THU3QUl3OXJLbFhVdEhzM2pVaDdqNUdqY19jY2VZSk9Xa1BWcw?oc=5",
+   "source": "新頭條",
+   "source_site": "https://www.thehubnews.net",
+   "published_at": "2026-11-03T13:24+08:00",
+   "query": "老街",
+   "url": "https://www.thehubnews.net/archives/680414",
+   "resolved": true
+  },
+  {
+   "title": "高雄2大商圈要變了！黃線聯開案過關 建工商圈將蓋3棟大樓",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9leDlNVmVfT1R6SlJPM1RQemNxTnFLcVFNaWoycERQcV9nLVEwTm9ZNFlFLXA1LXdGQ1NUeW5xTF9hbEU1TmNwUUlJbjNCdEc2?oc=5",
+   "source": "自由時報",
+   "source_site": "https://estate.ltn.com.tw",
+   "published_at": "2026-11-03T12:31+08:00",
+   "query": "商圈",
+   "url": "https://estate.ltn.com.tw/article/29214",
+   "resolved": true
+  },
   {
    "title": "蔣萬安稱大巨蛋讓東區商圈活起來 民眾︰有嗎？",
    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oUWhET3hBUGtqSTlpeVdlOG5vVGl4Q1hpcXVYQURhNGs5QkdEN0lkeWROUEVFYUJ1X1BIZ09YaE9ub1AtTjlibnlYdXFyMlBDaWdhVVdQcHFrb3huYWdGONIBZkFVX3lxTE53bzZOb1hXc0lRNmZhcjVreC05bEh1SEpxb2FIcngwbzB1SW5qU3hQMThzVndMclZ0TzBvRFFLVjlRVU85a1Qtbkl4dzhnVExmZmFuTG1zdjQ0T3ZZdndjbnVIU3lPdw?oc=5",
@@ -47,16 +97,6 @@
    "resolved": true
   },
   {
-   "title": "九份老街巷弄繁雜 日籍導遊：團客抄捷徑「易走失」 | EBC 東森新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sajNaOFFJdmZJejZ5RDRMSVNQOXFPRXJ1cXdUWi0xYURaeFAtcmxnc3d6RzdqWHlpOXF3c2dpQW1IYm1PRkEtY29oRUtWS2JQMjIwRmRn?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-03T00:18+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/article/WBp5PDy",
-   "resolved": true
-  },
-  {
    "title": "九份老街巷弄繁雜 日籍導遊：團客抄捷徑「易走失」",
    "google_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNVk9wOXQyeU9weWJCLUtUN0xEc18xdktrY2d6a1FWZzd3Zk9kaWM3NGVfU2oyTC1vd3cwX0tPeXA3WGZWMDhJVl9fZWFPWHdSZDFNR2NxVUpLcXZoSUtPU1poQ21HUHJZdzI0aXhMVnJDZml1MUJGd0VMTE5hV2R1TmFrcl9tQnZISWRYNDBTdlBTOTFwaUprWFA0RUU3ZDJSYnBnOWE3TDd1R2RXWDNFcXdoUTlWSjJnQmI4YS1tRGtRbmNscXAyb0FYWFNBSVFnczB4bktkT3RtTnlweXVGbjNETDdEZXBfUDFXek13X3J0SHdqUE1QMWp2VUNKRjA0RS03WHlROGg0bFNTWC1GTGx1eG5Ndk1KeXNsdTBQTHgzQUdqUWkzcVZTUklTNVVWVTJQaGxRUTVYZnc2RmcxUDduY2g4dmc?oc=5",
    "source": "Yahoo新聞",
@@ -84,6 +124,16 @@
    "published_at": "2026-11-02T20:53+08:00",
    "query": "商圈",
    "url": "https://www.cdns.com.tw/articles/1484196",
+   "resolved": true
+  },
+  {
+   "title": "老街溪航心橋上游步道明年二月動工 完善水岸休憩空間",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DQVd5eGxkc2pwTGhMdTBYd0JfYTlXQnJ0djhPRFc1Sjl0WnpxYk1oa2tKYnFoLUxIQ1k0VkJQb0FQdFRGeVZLX0tIamtjY3hVMGc?oc=5",
+   "source": "中華新聞雲／中華日報",
+   "source_site": "https://www.cdns.com.tw",
+   "published_at": "2026-11-02T19:01+08:00",
+   "query": "老街",
+   "url": "https://www.cdns.com.tw/articles/1484068",
    "resolved": true
   },
   {
@@ -177,16 +227,6 @@
    "resolved": true
   },
   {
-   "title": "大園老街溪補齊串聯兩岸重要節點 航心橋上游步道明年6月完工",
-   "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uRFNyTFM4XzB6YWtkOUtIOGZJYk50Z0k4QXhhNWpTOWJJU05NY3lQTnNMd2U4ZjJ3V3BWaFNPUjZ3a2lyM3Z0aU40eW8?oc=5",
-   "source": "桃園電子報",
-   "source_site": "https://tyenews.com",
-   "published_at": "2026-11-02T14:34+08:00",
-   "query": "老街",
-   "url": "https://tyenews.com/2026/11/1424953/",
-   "resolved": true
-  },
-  {
    "title": "討論牆 | 新北新莊老街新風景！第一市場改造完成 50年老市場變美了！",
    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0N3BTNFlpdUVLbGhIanl2OXpNcjh0TzA0X1hncm5lblY3WUVkVmpoUV9wWUdxNFVOT2VfZTdhNHVRbXZsQUJyU3ROakVmaklWTWZUemZwa0tBdVRhNUliTXBFMDY?oc=5",
    "source": "LINE TODAY",
@@ -248,12 +288,12 @@
   },
   {
    "title": "台北車站忙碌商圈秘境 「魔法咖哩站前店」首度解鎖下午茶時段 | 食品餐飲 | 商情",
-   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5saEg2RURzaGJxTzItbmE3b2RyLUhvM3BGLWkwUWhuLW9uR3BSYjEya0RnOHZscDI1dlROWEJrNEpZWEZOTkozTldWb3ZabmMtajZ0U1I2UkJfdw?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DVHQ5YlNoeDJmXzFEQ0xGRWJIaVg5VEhGZlplMzg2RmpHM01hdXJDbExCVzVYZ1BTcGRIYWpSOEdmSVFYTklYWkhSWmUyMF91dG9GRDFXdmF3T1FCcXZZWFBwSUZOMW1nYlR1ZnZ0dEx1MjB1cWcwS1V5amc?oc=5",
    "source": "經濟日報",
    "source_site": "https://money.udn.com",
    "published_at": "2026-11-02T10:01+08:00",
    "query": "商圈",
-   "url": "https://money.udn.com/money/story/7843/9849718",
+   "url": "https://money.udn.com/money/story/7843/9849718?from=edn_subcatelist_cate",
    "resolved": true
   },
   {
@@ -294,6 +334,16 @@
    "published_at": "2026-11-01T22:32+08:00",
    "query": "老街",
    "url": "https://www.ftvnews.com.tw/news/detail/2026B01S04M1",
+   "resolved": true
+  },
+  {
+   "title": "信義商圈萬聖節狂歡 松壽路單夜人流破萬糾紛事件頻傳 | 民視新聞網",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XeTN5NDk5bG5zaklDaF9RdXp1bHFvSFd5VmRnR1VoMTBVdGJwWnBpOVpDWXpCdFR2QTNJUEZheHhRNGFyVDUzakQ1ZXFlcWZtaVFhNFNR?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-01T22:31+08:00",
+   "query": "商圈",
+   "url": "https://today.line.me/tw/v3/article/XYp5Bzl",
    "resolved": true
   },
   {
@@ -407,33 +457,23 @@
    "resolved": true
   },
   {
-   "title": "鶯歌老街借錢遭拒! 男子搶走4萬元現金落跑6小時新竹落網－民視新聞- 民視新聞網",
-   "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hbF9YajFRa01mOWtjSy05T0ZxcDh6SDFVT1gxX3lvV1NBNEF1YzI0Nm5ZUEhQa0xnSDBoOHJKU0xlZVBzUU9PYzZ3UmhGdl9UV3ZLeGR5Zk1ZSVhCN0V5MkNPaFQ3YWM?oc=5",
-   "source": "民視新聞網",
-   "source_site": "https://www.ftvnews.com.tw",
-   "published_at": "2026-11-01T11:59+08:00",
-   "query": "老街",
-   "url": "https://www.ftvnews.com.tw/shortvideo/detail/JT1Dqj30cTM",
+   "title": "第18屆批客嘉年華萬聖登場 後站商圈變裝大賽總獎金8萬",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IRkQ2dGRnN2R1eGlhRTA4aFBYa1RMOFJueWNlLUVoYTk2NzQxMVVUa0dTSzNYLXhQVWZia0NaYzBFUjNpUTh5RmJZcE8xNnE1aXc?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-01T14:26+08:00",
+   "query": "商圈",
+   "url": "https://n.yam.com/Article/20261101496401",
    "resolved": true
   },
   {
-   "title": "信義商圈萬聖節狂歡 松壽路單夜人流破萬糾紛事件頻傳 | 民視新聞網",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XeTN5NDk5bG5zaklDaF9RdXp1bHFvSFd5VmRnR1VoMTBVdGJwWnBpOVpDWXpCdFR2QTNJUEZheHhRNGFyVDUzakQ1ZXFlcWZtaVFhNFNR?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-01T11:45+08:00",
+   "title": "芝加哥華麗一英里復甦 空置率大降 商圈走出低潮",
+   "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPU0lvVnFXbmN1SUJ2aFN0TUxEZWNfX3RXSTFaMDE2UXUweW5OMWJoTXhJZkdPN0ZwSkpiT1NWclkzTUhJRFBEbkVCV1BHOTNobVpKUnhoUUt5RUtfOGtiQ2lR0gFnQVVfeXFMT1ZGVVJQYkY5VmtjcHk5M2ZlYjJQLXlJNWNGUHVaY1hWOG1paDlMX1NuQ0hqSER1WmJWNXJvT1Q1VXZuSTJLeThmWEg5RlNpZ2ZrWHFBeFh3VGYyQXdUaERrdE4xZnJQTQ?oc=5",
+   "source": "世界新聞網",
+   "source_site": "https://www.worldjournal.com",
+   "published_at": "2026-11-01T14:15+08:00",
    "query": "商圈",
-   "url": "https://today.line.me/tw/v3/article/XYp5Bzl",
-   "resolved": true
-  },
-  {
-   "title": "萬聖節人潮塞爆信義商圈！2車擦撞「狂冒白煙」 雙方駕駛下車火氣大",
-   "google_url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNZVd1R19wNXdpQVZINHR3dUdra1llRWRnTTdHXzM0SjVPd184SHNNNnRnMkZJMkY1OVA4MjdTVFVmdTFlSDY5YTlxMFZlN1BUOVZKM25JM3pITFk4TDBTcmtMd1BzYS1HVHlMSU4wSnM2c3JTTkRGQlZwb29mVGxqU050RE8wTHRVZmFGZ0FDamlKWFhQMXpnY3JfR0cyTkk4U1NFMlNtOVJJN1dZZXM0MmlYY0RDWDU3RjNLckRxYXdzMXAzOWFGZEs2NEp2RTdETWhqVDFHSlAtMG1TeUdCWVhUUU1wanRIQWJERTg2RFl0OFcxR3hLZ2p4bmlqZ1psXzF5RC1MVmRaMGxGSW9GaXZGcFQ2N1c4Z0pJV3hmaFRiUGNoX2lONGpyU3NEbTFjMG51b1JQbUVxNjJhcmlkQUtDNU9ES0drSDE3eDI0YU16VDhhTEI0anBSQVhhWGZtMjFfZ1RTbHhaa3AxS1g5WWxBZWZvR2Q5RjIxSjIwWGpTZXJoemNyUFJLRWI2WDNlM2ctR3MwNWxXUnU0?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-01T10:29+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E8%90%AC%E8%81%96%E7%AF%80%E4%BA%BA%E6%BD%AE%E5%A1%9E%E7%88%86%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88-2%E8%BB%8A%E6%93%A6%E6%92%9E-%E7%8B%82%E5%86%92%E7%99%BD%E7%85%99-%E9%9B%99%E6%96%B9%E9%A7%95%E9%A7%9B%E4%B8%8B%E8%BB%8A%E7%81%AB%E6%B0%A3%E5%A4%A7-015000778.html",
+   "url": "https://www.worldjournal.com/wj/story/124997/9846832",
    "resolved": true
   }
  ]
