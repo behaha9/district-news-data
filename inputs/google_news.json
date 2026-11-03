@@ -1,31 +1,69 @@
 {
- "fetched_at": "2026-11-03T23:22:16+08:00",
+ "fetched_at": "2026-11-04T07:17:30+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 109,
+  "raw": 135,
   "kept": 49,
   "resolved": 49,
-  "items": 45,
+  "items": 47,
   "resolve_this_run": {
-   "online": 8
+   "online": 7
   },
   "dropped_old": [
    "新竹11月仙草花海盛開，仙草料理、百年茶廠、老街景點一次玩（原文日期 2026-09-09）",
-   "信義中繼市場正式動工 謝國樑盼兼顧攤商營運與商圈發展打造市場改建新里程碑（原文日期 2026-10-15）",
-   "快訊／日本伊勢神宮商店街燒惡火！大面積狂燒「政府急發疏散令」（原文日期 2026-09-01）",
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
   ]
  },
  "items": [
   {
-   "title": "「2026天光威購節」天光大市集11/7、11/8連2日登場*免費領取「好客威購卡」串聯市集與商圈優惠一路至12月20日",
-   "google_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE03TnE1OTVOaThXYnp0U3NockRVRzFsUDYwelJ4N0JMNHptWHR1a0xiYTFBWkNoTlZyMVBhNFlGTUJTV2RWaXc?oc=5",
-   "source": "台灣新聞雲報",
-   "source_site": "https://www.fclnews.com",
-   "published_at": "2026-11-03T22:03+08:00",
+   "title": "舊商圈翻新永和頂溪公辦都更簽約- 台灣地方- 新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xcS10dDdjenR6WWdaT20xYzgwTE11cVN5YkVtdHVFanNrVTl2aTJmUXhmV1pNYUkzQkE1UFhJVUNkSWxYZ1ZGalF5QU8tN1g3Z3FhUnItMVQtckE2Snk1ZjQyak5fdw?oc=5",
+   "source": "華人今日網",
+   "source_site": "https://www.chinesedaily.com",
+   "published_at": "2026-11-04T07:15+08:00",
    "query": "商圈",
-   "url": "https://www.fclnews.com/235770/",
+   "url": "https://www.chinesedaily.com/article/detail-711508.html",
+   "resolved": true
+  },
+  {
+   "title": "嘉縣柴林訪太平 逛老街走雲梯吃梅子雞",
+   "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02TjR1enFjdmlWVEdxdjBSTlhKU3dEZTRhOTdlcTFuNV80SThRNFJOWDdfTXlOazV1NVBYSHl1UUdRbkE0MElwbWlQdWVDejdSNlpVWmdGSHdvX2tyTWdRX0UtZVFlckkzb3VKczAxa2c4UQ?oc=5",
+   "source": "國語日報",
+   "source_site": "https://www.mdnkids.com",
+   "published_at": "2026-11-04T05:04+08:00",
+   "query": "老街",
+   "url": "https://www.mdnkids.com/content.asp?Link_String_=24B400000CPWTLC",
+   "resolved": true
+  },
+  {
+   "title": "舊商圈翻新 永和頂溪公辦都更",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVmJwcENmZF9UcVR4ZVczMVZ1cmp6dkRJcWM3Y3hiTXJoeWJES0doM1JWUm9KZGtZM3RaemFzblFnTG9OTkVEM3NES2xwNzJLanFzUkYwdWh6VzF0ZHFnLXhjTV96YkRiQl9F?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-04T04:10+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/newspapers/20261104000643-260107",
+   "resolved": true
+  },
+  {
+   "title": "建商獵地台中三商圈夯- 產業特刊- 工商時報",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wOFN2QjRGbllpREZqRS1BN1BtLUJxMi12X3VFSFRrLURIZlZ0TEhuSmpsbDN4dUNNQnhMaXFFbEhqd1lEeXlaRjJuQW5pb0RvZG5rcWxST0ZNYUZHQ2Q0OWhEbVBOTkVmVDFF?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-04T04:10+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/newspapers/20261104000344-260210",
+   "resolved": true
+  },
+  {
+   "title": "建商獵地台中三商圈夯- 日報",
+   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PcGxUR09uVF9mZzBXM1Z6aGNmOUdROEpuclZZeFI5Q2liRE5oYlMwSVJDbVVVRE1RcktmYk00WkRDU24wcENhd19xTi1zaDdUeXo1Z1dKUlN4TllPWVEw?oc=5",
+   "source": "工商時報",
+   "source_site": "https://www.ctee.com.tw",
+   "published_at": "2026-11-04T03:00+08:00",
+   "query": "商圈",
+   "url": "https://www.ctee.com.tw/news/20261104700181-439901",
    "resolved": true
   },
   {
@@ -79,6 +117,16 @@
    "resolved": true
   },
   {
+   "title": "「2026天光威購節」天光大市集登場 「好客威購卡」串聯市集與商圈優惠至12/20",
+   "google_url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQR1Vzb1FaZHNfTjFNOFpqWER0UGdLT28wY3dFTHVxRHhQYXN2OThhaEJONGxTWjNsUTk4T1phbEZaWTQxVlJ6MlNNQkZ1clhWanpSMjhtaFgzME5BaVZpcTVmT2tLQnFMcmtZajhBby12dVFrbXg4eWlrTWxrdzdOSnRsSHFfREt4MFBwR1hRS0U3OV9SMHNGanFzMTItcUlnZUJ6SW1zQ0w0TkZqZlJNR0JDWWpwOVVuN3ZmVnFwZjNQcGJSYXRzR2trMTFYdk9tRW90M1kxX3FnYzlTTTVLMFpLYVRiMXY1ZS1lTjhZelJtbExtWVcyZ3dnbkFqa01oM082Y3NVZkFsdkdocmZ3VUVJRkNiTFRWQjU1RklYMnZPWjh1enFtZVBONksyUk9ocl8xU0FWOFVtZk8yNGZoTnFzcnhjRTltU0lxNUJTVTMxcWlYdVEwV2FWTnV4M2tLekRmMlJkaU9NRW1hQjFmMENsNU14VHJmUzdOUHVGLW90ZllLS3ZlN1JRQk5tLUlBaDVDVUpGWWRJYmxGbEpMemw5bm5YSlpDcmRLQTg3aTMyeVhkVWFsdU1UejZEUS1xc0hwRnlUQWNhX29YOWJkUERB?oc=5",
+   "source": "台灣好新聞",
+   "source_site": "https://www.taiwanhot.net",
+   "published_at": "2026-11-03T17:43+08:00",
+   "query": "商圈",
+   "url": "https://www.taiwanhot.net/news/1152859/%E3%80%8C2026%E5%A4%A9%E5%85%89%E5%A8%81%E8%B3%BC%E7%AF%80%E3%80%8D%E5%A4%A9%E5%85%89%E5%A4%A7%E5%B8%82%E9%9B%86%E7%99%BB%E5%A0%B4+%E3%80%8C%E5%A5%BD%E5%AE%A2%E5%A8%81%E8%B3%BC%E5%8D%A1%E3%80%8D%E4%B8%B2%E8%81%AF%E5%B8%82%E9%9B%86%E8%88%87%E5%95%86%E5%9C%88%E5%84%AA%E6%83%A0%E8%87%B312-20",
+   "resolved": true
+  },
+  {
    "title": "台南百貨版圖重整！鐵路地下化帶動站前商圈再生　商業投資、就業人口牽動周邊房市",
    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoQWRFYzdtVkU3S3U1MzhtMnJMbGZSQkpTYjRfMDJJck5GclZLSVFudWZhWmN2N2VVb0RzQ0hYel9aSE9STXVoQ3NHQjFkRDBidnh1NHRZYW83RHZncXJjeWNWTTdybGNCZDlYbkNmUTjSAXBBVV95cUxQaEFkRWM3bVZFN0t1NTM4bTJyTGxmUkJKU2I0XzAySXJORnJWS0lRbnVmYVpjdjdlVW9Ec0NIWHpfWkhPUk11aENzR0IxZEQwYnZ4dTR0WWFvN0R2Z3FyY3ljVk03cmxjQmQ5WG5DZlE4?oc=5",
    "source": "好房網News",
@@ -119,16 +167,6 @@
    "resolved": true
   },
   {
-   "title": "李四川三蘆市場拜票人氣「開低走高」　2攤商主動邀「招牌簽名」",
-   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02SjNuWnQ3QXh6Q2h2SmIwVG5OOFBLVW1LN3hFT29nT0Q0anBnUFc0MU1FWnlIV3lKVEp4bkJzZzVMR21vUXkwZnNsRG53T3A1SEtsUXJJUDU0ZlQ3OFHSAUtBVV95cUxNTFAzWjB5Q01hcnhkNXZfUWF4UXJuckZsSTJkRFE2TFJuTHIxWGJuZ09WSjVWRjREek5MX2t3eWRtZWhUb0tVYUR5Rkk?oc=5",
-   "source": "ETtoday新聞雲",
-   "source_site": "https://www.ettoday.net",
-   "published_at": "2026-11-03T15:21+08:00",
-   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
-   "url": "https://www.ettoday.net/news/20261103/3265619.htm",
-   "resolved": true
-  },
-  {
    "title": "尋味新竹客家庄！裴社長走訪竹東市場與北埔老街　大啖胡椒鴨、老柿乾燉煮排骨湯、拐斯炒豬脷頭",
    "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTWUtZ1Y3UERLU3l0cG5lVV9rdVhBT0FXalZZRDNRMF8zbC1ObXJxUEFXaEhoeGdJMDFLQ0pPWXMyZ1hCT0hVMXhfb2l4a09rYTZnSzVlTW1xWkHSAWBBVV95cUxNSm5MV0p1T0VWRGFXQmpMVDNzWlp0OGpnV3VxRnlzSFBOZ2tFWGF2SmJGV2MzWlhuUEpHRjhfdmtmYmljcmpoaE52VlZiNWpiODFqSldUcFkzMEhyUW1RaUg?oc=5",
    "source": "鏡週刊Mirror Media",
@@ -144,7 +182,7 @@
    "source": "風傳媒",
    "source_site": "https://www.storm.mg",
    "published_at": "2026-11-03T14:40+08:00",
-   "query": "老街",
+   "query": "商圈",
    "url": "https://www.storm.mg/lifestyle/11177593",
    "resolved": true
   },
@@ -246,16 +284,6 @@
    "published_at": "2026-11-02T21:20+08:00",
    "query": "老街",
    "url": "https://today.line.me/tw/v3/posts/list/article/GgNmPXY",
-   "resolved": true
-  },
-  {
-   "title": "人氣創作樂團11/6-11/8小巨蛋開唱！「Show Up台北」登錄門票搶600元折抵券再抽演唱會周邊、東京雙人機票 憑門票加碼享380+商圈特約店家票根優惠！",
-   "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa1JwUWdQZk1jaFRENXJaTHl4QWY2UFltT3BIRWp3MEtzSUhCY1pRSm9IWEtsTzFuUl82NjZ1bEtZRTgzRVJ4azFpN2lZNTBUR2F5YXFMZHhRS0J1bEZWVlIzak9FNGhqSUtfZmhjTU84VVdFMElVWDhiME4tSkIxYjljMG8?oc=5",
-   "source": "臺北市政府全球資訊網",
-   "source_site": "https://www.gov.taipei",
-   "published_at": "2026-11-02T21:17+08:00",
-   "query": "商圈",
-   "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=7256DD6F853DFC8A",
    "resolved": true
   },
   {
@@ -440,12 +468,12 @@
   },
   {
    "title": "台北車站忙碌商圈秘境 「魔法咖哩站前店」首度解鎖下午茶時段 | 食品餐飲 | 商情",
-   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5saEg2RURzaGJxTzItbmE3b2RyLUhvM3BGLWkwUWhuLW9uR3BSYjEya0RnOHZscDI1dlROWEJrNEpZWEZOTkozTldWb3ZabmMtajZ0U1I2UkJfdw?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DVHQ5YlNoeDJmXzFEQ0xGRWJIaVg5VEhGZlplMzg2RmpHM01hdXJDbExCVzVYZ1BTcGRIYWpSOEdmSVFYTklYWkhSWmUyMF91dG9GRDFXdmF3T1FCcXZZWFBwSUZOMW1nYlR1ZnZ0dEx1MjB1cWcwS1V5amc?oc=5",
    "source": "經濟日報",
    "source_site": "https://money.udn.com",
    "published_at": "2026-11-02T10:01+08:00",
    "query": "商圈",
-   "url": "https://money.udn.com/money/story/7843/9849718",
+   "url": "https://money.udn.com/money/story/7843/9849718?from=edn_subcatelist_cate",
    "resolved": true
   },
   {
@@ -456,16 +484,6 @@
    "published_at": "2026-11-02T08:00+08:00",
    "query": "老街",
    "url": "https://news.pchome.com.tw/travel/sharelife/20261102/index-79357760099905216015.html",
-   "resolved": true
-  },
-  {
-   "title": "新莊廣福宮首辦\"三獻禮\" 翁震州盼點燃香火促老街觀光| 民視新聞網",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81aEY1VUV3Sm9vNnZuclJMSGNVRWJVcnE1eElBRzByeXRsd1l3aklWVW9OUXNmNXBLeGpXSEtlaV9vUjlsaGNINnpPdE1qdHpDQW5OUkdR?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-02T01:14+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/article/1DPnVD3",
    "resolved": true
   }
  ]
