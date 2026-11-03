@@ -1,33 +1,33 @@
 {
- "fetched_at": "2026-11-03T20:51:29+08:00",
+ "fetched_at": "2026-11-03T23:22:27+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1478303": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1477834": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://tainan.gov.tw/News_Content.aspx?n=13370&s=8842849": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": "error",
    "error": "<urlopen error [Errno -5] No address associated with hostname>"
   },
@@ -56,37 +56,37 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1480925": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://life.tw/article/從老街區文化到世代交流-里長參選人盧綠綢提出建功里社區活動構-3194318": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 13-23: ordinal not in range(128)"
   },
   "https://news.ebc.net.tw/search/tags/李慶隆/": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)"
   },
   "https://www.watchmedia01.com/archives/564050": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://futurecity.cw.com.tw/article/4178": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.atanews.net/?Wirenews=H20261026151910": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -96,12 +96,12 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.fclnews.com/235170/": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1482837": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -826,7 +826,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/politics/202611/202611013096051.html": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -1736,7 +1736,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1483649": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4934,7 +4934,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1484196": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5043,7 +5043,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1484010": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5617,7 +5617,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.yesmedia.com.tw/%E8%97%8F%E8%BA%AB%E6%9D%B1%E6%B5%B7%E5%95%86%E5%9C%88%E7%9A%84%E5%B9%B3%E5%83%B9%E6%B8%AF%E5%BC%8F%E7%BE%8E%E9%A3%9F-%E7%8F%BE%E8%92%B8%E7%9F%B3%E7%A3%A8%E8%85%B8%E7%B2%89%E3%80%81%E6%B2%B3/": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5686,7 +5686,7 @@
    "date_hint_from": "原文時間"
   },
   "https://sunmedia.tw/news/finance/走一段路，找回生活的光！2026-微光健走・亞東漫遊熱鬧登場-1793609777075": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-03T23:22+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 18-29: ordinal not in range(128)"
   },
@@ -7591,6 +7591,242 @@
    "image": "https://statics-prod.mirrordaily.news/images/e1b0af0c-4b8f-43da-9c38-983e65e74b60.jpg",
    "image_checked": true,
    "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.fclnews.com/235770/": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://artouch.com/art-exhibition/content-271495.html": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T21:13+08:00",
+   "site_name": "典藏ARTouch.com",
+   "description": "全新藝術博覽會「阿嬤的家 A Ma De Jia 2026」正式宣佈將於12月11日至20日在於雲林西螺登場，帶來對藝術博覽會與一座城鎮之間關係的再思考：「一場藝博會除了展示與交易藝術，還能為它所發生的地方留下什麼？」",
+   "cities": {
+    "雲林縣": 7,
+    "台北市": 3,
+    "台中市": 1,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 3153,
+   "image": "https://artouch.com/wp-content/uploads/2026/11/image-8.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/amp/story/6898/9854836": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T16:57+08:00",
+   "site_name": "聯合新聞網",
+   "description": "澳洲塔斯馬尼亞州9位師長與20位學生日前抵達金門展開為期8天的教育與文化交流，這是塔斯馬尼亞師生連續第三年回訪金門，來訪學生分別走進金湖、金城、金沙及金寧4所國中小，與金門學伴一起上課、入住接待家庭，從校園生活、陶藝彩繪到石蚵文化、潮間帶生態及老街巡禮，透過雙語課程與實地體驗，深入認識金門的歷史、人文與海島生活，也讓國",
+   "cities": {
+    "金門縣": 26,
+    "台北市": 1,
+    "桃園市": 1,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 1468,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/03/35481500.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.thehubnews.net/archives/680555": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T15:52+08:00",
+   "site_name": "新頭條-TheHubNews",
+   "description": "▲走讀活動走進北港1911好庫文化產業園區，認識昔日糖廠倉庫群的歷史與活化成果。(圖/社團法人雲林縣文化古蹟人文發展協會提供) 記者楊青琪/雲林報導 從熱鬧的廟口街區到昔日糖廠倉庫群，北港的歷史不只有媽祖信仰，也承載著深厚的糖業文化與產業記...",
+   "cities": {
+    "雲林縣": 5
+   },
+   "districts": [],
+   "body_chars": 799,
+   "image": "https://www.thehubnews.net/wp-content/uploads/2026/11/a0a29ba8aeb08bf36059e661a7efb7cc.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E9%84%A7%E5%B8%AB%E5%82%85%E6%96%B0%E5%93%81%E7%89%8C-%E5%BE%A9%E8%88%88%E5%8C%97-%E5%A4%96%E5%A9%86%E5%AE%B6-%E6%8F%92%E6%97%97%E5%8C%97%E9%AB%98%E9%9B%84%E8%A3%95%E8%AA%A0%E5%95%86%E5%9C%88-114420590.html": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T19:44+08:00",
+   "site_name": "Yahoo News",
+   "description": "深耕高雄42年的「鄧師傅功夫菜」台菜餐廳打造的全新家常台菜品牌「復興北 外婆家」，繼鳳山首店廣受高雄新世代年輕客群的喜愛，今年9月拓展第二家門市，正式插旗北高雄餐飲激戰區-裕誠商圈。",
+   "cities": {
+    "高雄市": 12,
+    "台北市": 4,
+    "新北市": 2,
+    "基隆市": 1
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/pinview_com_tw_506/518f4fa35bd912d92b8414d175c897c5.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E5%B9%B8%E9%81%8B%E6%B0%91%E7%9C%BE%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-100508281.html": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T18:05+08:00",
+   "site_name": "Yahoo News",
+   "description": "記者蔡佳坊/嘉義報導 嘉義縣政府舉辦「115年嘉義縣商圈聯合購物節－嘉尚好禮」，串聯全縣19大商圈及17家觀光 […]",
+   "cities": {
+    "嘉義縣": 23,
+    "台北市": 5,
+    "桃園市": 3,
+    "台中市": 2,
+    "基隆市": 1
+   },
+   "districts": [
+    "鹿草風華商圈（嘉義縣）",
+    "民雄商圈（嘉義縣）"
+   ],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/scoop_tw_461/edc09af9c5ad4877a4333e53c2ca59f5.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E6%B6%88%E8%B2%BB%E6%8B%9A%E5%A5%BD%E9%81%8B-%E5%98%89%E7%BE%A9%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E6%B0%91%E7%9C%BE%E5%B9%B8%E9%81%8B%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A/ar-AA2gEz4U": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://rise-mediacorp.com/archives/156727": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.setn.com/news/1899292": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 200,
+   "published_at": "2026-09-01T00:58+08:00",
+   "site_name": "三立新聞網",
+   "description": "日本三重縣伊勢神宮附近的宇治山田站前商業區，於31日下午發生嚴重火災。明倫商店街一家店面率先起火，隨後迅速延燒至多棟建築物，濃煙蔽日景象怵目驚心。當地消防單位出動12輛消防車全力灌救，截至傍晚火勢尚未完全撲滅。伊勢市政府已對周邊居民發布緊急疏散令，目前幸無人員傷亡通報。這起火警引發各界高度關注，相關單位正持續監控災情並",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1204,
+   "image": "https://attach.setn.com/newsimages/2026/08/31/5691389-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-09-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.setn.com/news/1866256": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 200,
+   "published_at": "2026-07-03T18:14+08:00",
+   "site_name": "三立新聞網",
+   "description": "中聯油脂一批大豆沙拉油檢出致癌物「苯駢芘」超標4倍，產品流向福懋、福壽與泰山等三大食用油廠。位於南投縣內的華南食品、金福華食品均自行通報有使用問題油品，分別購入福懋和泰山大豆沙拉油各9000公斤、2萬5050公斤，均已製成產品。對此南投縣衛生局封存華南產品6049罐，金福華則無庫存產品，已通知違規產品下架回收。",
+   "cities": {
+    "南投縣": 8,
+    "彰化縣": 2
+   },
+   "districts": [],
+   "body_chars": 1152,
+   "image": "https://attach.setn.com/newsimages/2026/07/03/5615594-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-07-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/XYp5KkO": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 老街溪航心橋上游步道明年2月動工　張善政：補齊步道缺口、完善水岸休憩空間",
+   "cities": {},
+   "districts": [],
+   "body_chars": 130,
+   "image": "https://today-obs.line-scdn.net/0hohqxqCvQMEdMASzIf9JPEHRXPDZ_ZypObmB5JmgIOX9mLScYeTJjJGBUaGtpMiUXbGQtdjkHaSNnNiMXdQ/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://life.tw/article/%E5%BC%B5%E6%96%87%E8%88%88%E9%A0%98%E8%BB%8D%E8%90%AC%E8%81%96%E7%AF%80%E8%A6%AA%E5%AD%90%E8%AE%8A%E8%A3%9D%E8%B8%A9%E8%A1%97-%E5%82%B3%E6%89%BF%E5%B9%B8%E7%A6%8F%E5%9B%9E%E6%86%B6%E5%B8%B6%E5%8B%95%E5%9C%A8%E5%9C%B0%E5%95%86%E5%9C%88%E4%BA%A4%E6%B5%81-3202457": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T20:19+08:00",
+   "site_name": "LIFE 生活網",
+   "description": "新竹市多元親子教育協會舉辦的萬聖節變裝踩街活動，今年以「海盜」為主題，吸引眾多親子家庭參與。",
+   "cities": {
+    "新竹市": 18
+   },
+   "districts": [
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1608,
+   "image": "https://news.586.com.tw/wp-content/uploads/2026/11/1-250-800x600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://turnnewsapp.com/livenews/finance/A03602002023021420354486": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "翻爆 - 翻報",
+   "description": "日本三井不動產看好台灣不動產市場，登台七年迄今，其台灣三井不動產已在全台主要都會區進行14筆開發案，涵蓋飯店、OUTLET MALL和Lalaport商場、住宅等，其中台北市敦北商圈被看好，昨天正式插...",
+   "cities": {
+    "台北市": 7
+   },
+   "districts": [],
+   "body_chars": 892,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.scooptw.com/cnews/547770/%e8%8a%b1%e8%93%ae%e9%87%91%e4%b8%89%e8%a7%92%e5%95%86%e5%9c%88%e6%a5%ad%e8%80%85%e5%98%86%e7%94%9f%e6%84%8f%e9%9b%a3%e5%81%9a%e3%80%80%e5%bc%b5%e5%b3%bb%e6%8f%903%e9%9a%8e%e6%ae%b5%e5%be%a9%e7%94%a6/": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T03:45+08:00",
+   "site_name": "獨家報導",
+   "description": "CNEWS匯流新聞網記者黃泰宇／花蓮報導 無黨籍花蓮縣長候選人張峻1日在志工陪同下，前往花蓮市金三角商圈徒步拜票，向店家及民眾請託支持。張峻表示，適逢週日，沿途卻見多處店面鐵門深鎖、張貼招租告示，部分營業店家也門庭冷清。他提出3階段復甦方案，並承諾未來會持續調整措施，要將經費用在對的地方，要讓公帑真正幫助業者，帶動產業",
+   "cities": {
+    "花蓮縣": 16
+   },
+   "districts": [
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 1219,
+   "image": "https://secure.gravatar.com/avatar/30de86066e3d0da5b24fdd51345bbcb03a48deb93d7008773ecf217e9b10ab1a?s=96&d=retro&r=g",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://mknews.com.tw/2026/11/1011878/": {
+   "checked_at": "2026-11-03T23:22+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T16:29+08:00",
+   "site_name": "天天上新聞",
+   "description": "(焦點時報/鄒志中報導)   變裝踩街、動漫歌手、寶萊塢舞秀 … Read More",
+   "cities": {
+    "台中市": 33
+   },
+   "districts": [
+    "東海藝術街商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1940,
+   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
    "date_hint_from": "原文時間"
   }
  }
