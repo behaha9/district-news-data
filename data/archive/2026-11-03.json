@@ -172,6 +172,87 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-03T12:17:09+08:00",
+   "added": 1,
+   "merged": 1,
+   "items": [
+    {
+     "id": "20261102-east-district-vacancy",
+     "title": "臺北市商業處：大巨蛋帶動東區商機，空店率降至8.85%，振興計畫持續推動",
+     "summary": "北市商業處表示大巨蛋串聯帶動忠孝東區商機，東區商圈空店率降至8.85%，並持續推動軟硬體升級的振興計畫。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-03T05:30:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "東區商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/politics/paper/1777014",
+       "published_at": "2026-11-03T05:30:00+08:00"
+      },
+      {
+       "outlet": "PChome Online新聞",
+       "url": "https://news.pchome.com.tw/public/taipei/20261102/index-79361600023397126016.html",
+       "published_at": "2026-11-02T18:40:00+08:00"
+      },
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/politics/breakingnews/5626673",
+       "published_at": "2026-11-02T15:47:00+08:00"
+      },
+      {
+       "outlet": "臺北市商業處",
+       "url": "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=09F9BEB89B559353",
+       "published_at": "2026-11-02T00:00:00+08:00"
+      }
+     ],
+     "admin_note": "東區商圈為115年補助名單，空店率與振興計畫進度可留意計畫成效與KPI對照。",
+     "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/03/93.jpg"
+    },
+    {
+     "id": "20261031-fengyuan-halloween-carnival",
+     "title": "豐原萬聖嘉年華在廟東復興商圈登場，台中購物節首台百萬汽車由北屯民眾抽中",
+     "summary": "台中市經發局10月31日在豐原廟東復興商圈辦萬聖嘉年華，安排變裝比賽、特色市集與戰鬥陀螺競賽，並公布購物節百萬汽車得主。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-01T23:51:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "豐原廟東復興商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261101342052",
+       "published_at": "2026-11-01T23:51:00+08:00"
+      },
+      {
+       "outlet": "報新聞",
+       "url": "https://www.contentplatform.info/articles/558205/%E8%B1%90%E5%8E%9F%E8%90%AC%E8%81%96%E5%98%89%E5%B9%B4%E8%8F%AF%E7%99%BB%E5%A0%B4-%E5%8F%B0%E4%B8%AD%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E5%8F%B0%E7%99%BE%E8%90%AC%E6%B1%BD%E8%BB%8A%E7%94%B1%E5%8C%97/",
+       "published_at": "2026-11-01T23:51:00+08:00"
+      }
+     ],
+     "admin_note": "豐原廟東復興商圈為115年補助名單，活動已實際辦理，可作為執行佐證參考。",
+     "image": "https://ni.yam.com/20261101/taichung-cover-261101053949902-a6dcb1a65cd16648.webp"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }

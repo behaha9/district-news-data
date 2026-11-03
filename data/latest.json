@@ -1,7 +1,48 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T07:19:17+08:00",
+ "generated_at": "2026-11-03T12:17:09+08:00",
  "items": [
+  {
+   "id": "20261102-east-district-vacancy",
+   "title": "臺北市商業處：大巨蛋帶動東區商機，空店率降至8.85%，振興計畫持續推動",
+   "summary": "北市商業處表示大巨蛋串聯帶動忠孝東區商機，東區商圈空店率降至8.85%，並持續推動軟硬體升級的振興計畫。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-03T05:30:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "東區商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/paper/1777014",
+     "published_at": "2026-11-03T05:30:00+08:00"
+    },
+    {
+     "outlet": "PChome Online新聞",
+     "url": "https://news.pchome.com.tw/public/taipei/20261102/index-79361600023397126016.html",
+     "published_at": "2026-11-02T18:40:00+08:00"
+    },
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5626673",
+     "published_at": "2026-11-02T15:47:00+08:00"
+    },
+    {
+     "outlet": "臺北市商業處",
+     "url": "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=09F9BEB89B559353",
+     "published_at": "2026-11-02T00:00:00+08:00"
+    }
+   ],
+   "admin_note": "東區商圈為115年補助名單，空店率與振興計畫進度可留意計畫成效與KPI對照。",
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/03/93.jpg"
+  },
   {
    "id": "20261102-yucheng-new-store",
    "title": "鄧師傅新品牌「復興北外婆家」第二家門市插旗高雄裕誠商圈",
@@ -182,32 +223,6 @@
    "image": "https://taiwan.sharelife.tw/tw-news-img/352215/9508011126051122.jpg"
   },
   {
-   "id": "20261102-east-district-vacancy",
-   "title": "臺北市商業處：大巨蛋帶動東區商機，空店率降至8.85%，振興計畫持續推動",
-   "summary": "北市商業處表示大巨蛋串聯帶動忠孝東區商機，東區商圈空店率降至8.85%，並持續推動軟硬體升級的振興計畫。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-02T00:00:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "東區商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "臺北市商業處",
-     "url": "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=09F9BEB89B559353",
-     "published_at": "2026-11-02T00:00:00+08:00"
-    }
-   ],
-   "admin_note": "東區商圈為115年補助名單，空店率與振興計畫進度可留意計畫成效與KPI對照。",
-   "image": "https://www.tcooc.gov.taipei/images/egov.png"
-  },
-  {
    "id": "20261102-showup-taipei-tickets",
    "title": "小巨蛋演唱會票根可享380多家商圈特約店家優惠",
    "summary": "北市商業處推出「Show Up台北」，民眾登錄演唱會門票可抽獎、領折抵券，憑票根另享逾380家商圈特約店家優惠。",
@@ -226,6 +241,37 @@
     }
    ],
    "image": "https://www-ws.gov.taipei/001/Upload/409/relpic/10162/9736242/d552e26b-ecc9-40e0-af1c-41aada63914d@710x470.jpg"
+  },
+  {
+   "id": "20261031-fengyuan-halloween-carnival",
+   "title": "豐原萬聖嘉年華在廟東復興商圈登場，台中購物節首台百萬汽車由北屯民眾抽中",
+   "summary": "台中市經發局10月31日在豐原廟東復興商圈辦萬聖嘉年華，安排變裝比賽、特色市集與戰鬥陀螺競賽，並公布購物節百萬汽車得主。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-01T23:51:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    {
+     "name": "豐原廟東復興商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261101342052",
+     "published_at": "2026-11-01T23:51:00+08:00"
+    },
+    {
+     "outlet": "報新聞",
+     "url": "https://www.contentplatform.info/articles/558205/%E8%B1%90%E5%8E%9F%E8%90%AC%E8%81%96%E5%98%89%E5%B9%B4%E8%8F%AF%E7%99%BB%E5%A0%B4-%E5%8F%B0%E4%B8%AD%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E5%8F%B0%E7%99%BE%E8%90%AC%E6%B1%BD%E8%BB%8A%E7%94%B1%E5%8C%97/",
+     "published_at": "2026-11-01T23:51:00+08:00"
+    }
+   ],
+   "admin_note": "豐原廟東復興商圈為115年補助名單，活動已實際辦理，可作為執行佐證參考。",
+   "image": "https://ni.yam.com/20261101/taichung-cover-261101053949902-a6dcb1a65cd16648.webp"
   },
   {
    "id": "20261031-donghai-halloween",
@@ -2686,61 +2732,6 @@
    ],
    "admin_note": "鹿港廟口商圈為115年補助名單，走讀活動已公開報名，可作為執行情形參考。",
    "image": "https://www.thehubnews.net/wp-content/uploads/2026/10/3317b80dd91c6b5e61982ee63e34e60a.jpg"
-  },
-  {
-   "id": "20261020-zhongli-old-town",
-   "title": "桃園推動中壢舊城再生計畫，活化老街區空間",
-   "summary": "桃園市推動中壢舊城再生計畫，活化老街區空間。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-10-20T11:00:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "今周刊",
-     "url": "https://www.businesstoday.com.tw/article/category/183027/post/202610190040",
-     "published_at": "2026-10-20T11:00:00+08:00"
-    }
-   ],
-   "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/194074/1200900_20261019171123.jpg_600x450.jpg"
-  },
-  {
-   "id": "20261019-bade-it-district-street-event",
-   "title": "八德資訊商圈「八德封街全能玩家」登場，跨界整合搶攻體驗經濟",
-   "summary": "台北八德資訊商圈舉辦「八德封街全能玩家」封街主題活動，以跨界體驗吸引民眾走進商圈。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-20T10:00:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "八德資訊商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "經濟日報",
-     "url": "https://money.udn.com/money/story/5637/9824391",
-     "published_at": "2026-10-20T10:00:00+08:00"
-    },
-    {
-     "outlet": "工商時報",
-     "url": "https://www.ctee.com.tw/news/20261019701639-431207",
-     "published_at": "2026-10-19T18:44:00+08:00"
-    },
-    {
-     "outlet": "Yahoo奇摩新聞",
-     "url": "https://tw.news.yahoo.com/%E5%85%AB%E5%BE%B7%E5%B0%81%E8%A1%97%E5%85%A8%E8%83%BD%E7%8E%A9%E5%AE%B6-%E5%87%BA%E6%93%8A-%E7%82%BA%E5%95%86%E5%9C%88%E4%B8%BB%E9%A1%8C%E6%B4%BB%E5%8B%95%E6%8F%AD%E9%96%8B%E5%BA%8F%E5%B9%95-100150555.html",
-     "published_at": "2026-10-19T11:01:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35435365.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=1050&exp=3600"
   }
  ],
  "discussions": []
