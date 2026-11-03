@@ -1,7 +1,58 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T20:52:36+08:00",
+ "generated_at": "2026-11-04T07:18:47+08:00",
  "items": [
+  {
+   "id": "20261103-taoyuan-tianguang-shopping",
+   "title": "桃園客家事務局推「天光威購節」，好客威購卡串聯市集與商圈優惠",
+   "summary": "桃園市政府客家事務局推動「2026天光威購節」，天光大市集11月7日、8日舉行，好客威購卡可串聯市集與商圈優惠至12月20日。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-03T22:03:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [
+    {
+     "name": "六和商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "台灣新聞雲報",
+     "url": "https://www.fclnews.com/235770/",
+     "published_at": "2026-11-03T22:03:00+08:00"
+    },
+    {
+     "outlet": "台灣好新聞",
+     "url": "https://www.taiwanhot.net/news/1152859/%E3%80%8C2026%E5%A4%A9%E5%85%89%E5%A8%81%E8%B3%BC%E7%AF%80%E3%80%8D%E5%A4%A9%E5%85%89%E5%A4%A7%E5%B8%82%E9%9B%86%E7%99%BB%E5%A0%B4+%E3%80%8C%E5%A5%BD%E5%AE%A2%E5%A8%81%E8%B3%BC%E5%8D%A1%E3%80%8D%E4%B8%B2%E8%81%AF%E5%B8%82%E9%9B%86%E8%88%87%E5%95%86%E5%9C%88%E5%84%AA%E6%83%A0%E8%87%B312-20",
+     "published_at": "2026-11-03T17:43:00+08:00"
+    }
+   ],
+   "admin_note": "六和商圈為115年補助名單，市府優惠活動可能涉及商圈推廣成效，可留意。",
+   "image": "https://www.taiwanhot.net/cache/1316108/lgnw/medias-20261103-6ae9a1bf7162c.jpeg"
+  },
+  {
+   "id": "20261103-xiluo-art-fair",
+   "title": "「阿嬤的家」藝博會12月在雲林西螺登場，西螺老街化身展場",
+   "summary": "首屆「阿嬤的家」當代藝術博覽會12月11日至20日在雲林西螺舉行，標題指西螺老街化身藝術派對。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-03T21:13:00+08:00",
+   "cities": [
+    "雲林縣"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "典藏ARTouch.com",
+     "url": "https://artouch.com/art-exhibition/content-271495.html",
+     "published_at": "2026-11-03T21:13:00+08:00"
+    }
+   ],
+   "image": "https://artouch.com/wp-content/uploads/2026/11/image-8.jpeg"
+  },
   {
    "id": "20261103-chiayi-county-shopping",
    "title": "嘉義縣商圈聯合購物節首波大獎開出，休旅車由番路隙頂商圈消費者抽中",
@@ -39,12 +90,67 @@
      "published_at": "2026-11-03T18:05:00+08:00"
     },
     {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E5%B9%B8%E9%81%8B%E6%B0%91%E7%9C%BE%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-100508281.html",
+     "published_at": "2026-11-03T18:05:00+08:00"
+    },
+    {
      "outlet": "樂上新聞網",
      "url": "https://news111.com.tw/news/51/13588",
      "published_at": "2026-11-03T17:16:00+08:00"
     }
    ],
    "image": "https://media.zenfs.com/ko/newstaiwandigi_com_938/b1ed299015ca7de1790b7fbdac335aa4.jpg"
+  },
+  {
+   "id": "20261102-yucheng-new-store",
+   "title": "鄧師傅新品牌「復興北外婆家」第二家門市插旗高雄裕誠商圈",
+   "summary": "高雄「鄧師傅功夫菜」推出家常台菜新品牌，繼鳳山首店後，第二家門市開在北高雄餐飲聚集的裕誠商圈。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-03T19:44:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [
+    {
+     "name": "裕誠商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E9%84%A7%E5%B8%AB%E5%82%85%E6%96%B0%E5%93%81%E7%89%8C-%E5%BE%A9%E8%88%88%E5%8C%97-%E5%A4%96%E5%A9%86%E5%AE%B6-%E6%8F%92%E6%97%97%E5%8C%97%E9%AB%98%E9%9B%84%E8%A3%95%E8%AA%A0%E5%95%86%E5%9C%88-114420590.html",
+     "published_at": "2026-11-03T19:44:00+08:00"
+    },
+    {
+     "outlet": "LIFE生活網",
+     "url": "https://life.tw/article/%E9%84%A7%E5%B8%AB%E5%82%85%E6%96%B0%E5%93%81%E7%89%8C-%E5%BE%A9%E8%88%88%E5%8C%97-%E5%A4%96%E5%A9%86%E5%AE%B6-%E9%80%B2%E9%A7%90%E8%A3%95%E8%AA%A0%E5%95%86%E5%9C%88-%E5%85%AD%E6%AC%BE%E7%A0%82%E9%8D%8B%E6%BF%83%E9%9B%9E%E6%B9%AF%E6%90%B6-3203138",
+     "published_at": "2026-11-02T18:20:00+08:00"
+    },
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/5612/9852481",
+     "published_at": "2026-11-02T18:08:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7241/9852481",
+     "published_at": "2026-11-02T18:07:00+08:00"
+    },
+    {
+     "outlet": "風傳媒",
+     "url": "https://www.storm.mg/article/11177815",
+     "published_at": "2026-11-02T17:56:00+08:00"
+    },
+    {
+     "outlet": "臺灣導報",
+     "url": "https://taiwanreports.com/archives/1023336",
+     "published_at": "2026-11-02T17:56:00+08:00"
+    }
+   ],
+   "image": "https://media.zenfs.com/ko/pinview_com_tw_506/518f4fa35bd912d92b8414d175c897c5.jpg"
   },
   {
    "id": "20261103-xinzhuang-miaojie-decline",
@@ -112,46 +218,6 @@
    ],
    "admin_note": "東區商圈為115年補助名單，空店率與振興計畫進度可留意計畫成效與KPI對照。",
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/03/93.jpg"
-  },
-  {
-   "id": "20261102-yucheng-new-store",
-   "title": "鄧師傅新品牌「復興北外婆家」第二家門市插旗高雄裕誠商圈",
-   "summary": "高雄「鄧師傅功夫菜」推出家常台菜新品牌，繼鳳山首店後，第二家門市開在北高雄餐飲聚集的裕誠商圈。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-02T18:08:00+08:00",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    {
-     "name": "裕誠商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "經濟日報",
-     "url": "https://money.udn.com/money/story/5612/9852481",
-     "published_at": "2026-11-02T18:08:00+08:00"
-    },
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7241/9852481",
-     "published_at": "2026-11-02T18:07:00+08:00"
-    },
-    {
-     "outlet": "風傳媒",
-     "url": "https://www.storm.mg/article/11177815",
-     "published_at": "2026-11-02T17:56:00+08:00"
-    },
-    {
-     "outlet": "臺灣導報",
-     "url": "https://taiwanreports.com/archives/1023336",
-     "published_at": "2026-11-02T17:56:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35478102.png&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
   },
   {
    "id": "20261102-tainan-zhanqian",
@@ -317,6 +383,11 @@
     {
      "outlet": "臺北市商業處",
      "url": "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=7256DD6F853DFC8A",
+     "published_at": "2026-11-02T00:00:00+08:00"
+    },
+    {
+     "outlet": "臺北市政府",
+     "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=7256DD6F853DFC8A",
      "published_at": "2026-11-02T00:00:00+08:00"
     }
    ],
@@ -797,7 +868,7 @@
      "published_at": "2026-10-30T19:54:00+08:00"
     }
    ],
-   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg"
+   "image": "https://ni.yam.com/20261031/img-9835-1500x1125-f142edf20fec20d6.webp"
   },
   {
    "id": "20261030-eslite-zhongshan-station",
@@ -1011,6 +1082,11 @@
     {
      "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261029388673",
+     "published_at": "2026-10-29T17:19:00+08:00"
+    },
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E5%AE%9C%E8%98%AD%E5%8F%8B%E6%84%9B%E7%99%BE%E8%B2%A8%E5%82%B3%E6%B1%82%E5%94%AE-%E5%BE%9E%E6%98%94%E6%97%A5%E5%95%86%E6%A5%AD%E5%9C%B0%E6%A8%99%E5%88%B0%E8%BD%89%E5%9E%8B%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3-%E8%88%8A%E5%9F%8E%E5%95%86%E5%9C%88%E8%83%BD%E5%90%A6%E5%86%8D%E7%8F%BE%E7%B9%81%E8%8F%AF-091931434.html",
      "published_at": "2026-10-29T17:19:00+08:00"
     }
    ],
@@ -1896,7 +1972,7 @@
      "published_at": "2026-10-24T00:00:00+08:00"
     }
    ],
-   "image": "https://image.nexttv.com.tw/material/news/img/2026/10/b71c287bbeccbd1dc64b0138c150d8a5.jpg"
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a16d0a-8826-7063-a947-b8c98a9f9883.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,0,1920,1080"
   },
   {
    "id": "20261023-yongkang-gyutan",
@@ -1967,7 +2043,7 @@
      "published_at": "2026-10-23T00:00:00+08:00"
     }
    ],
-   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg"
+   "image": "https://images.storm.mg/cloud/69b5f4e70d84b5521248f74a42422f94a9e88e6c.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2238597%2F1EZMNwy8cCRIE5sHQsPqz3mpUuQRrOg2dRFBF9DG.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
   },
   {
    "id": "20261023-kaohsiung-south-districts",
@@ -2595,157 +2671,6 @@
      "published_at": "2026-10-21T08:26:00+08:00"
     }
    ]
-  },
-  {
-   "id": "20261020-skm-tianmu-stays",
-   "title": "新光三越天母店續留受關注，朝商圈共榮方向前進",
-   "summary": "新光三越天母店後續營運受到關注，報導指出將朝與周邊商圈共榮的方向發展。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-10-21T04:10:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "天母商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "中時新聞網",
-     "url": "https://www.chinatimes.com/newspapers/20261021000312-260210",
-     "published_at": "2026-10-21T04:10:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261021423424",
-     "published_at": "2026-10-21T03:25:00+08:00"
-    },
-    {
-     "outlet": "中央社",
-     "url": "https://www.cna.com.tw/news/afe/202610200184.aspx",
-     "published_at": "2026-10-20T16:36:00+08:00"
-    }
-   ],
-   "admin_note": "天母商圈為115年補助名單，主力百貨動向可能影響商圈人潮與活動成效。",
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-21/CLIPPING/656/A15A00_T_03_02.jpg"
-  },
-  {
-   "id": "20261021-taichung-shopping-festival",
-   "title": "振興台中商圈，中市經發局購物節「到店抽」暖身6天突破5.6億元",
-   "summary": "台中市經發局購物節推出「到店抽」活動，暖身6天即突破5.6億元，帶動商圈消費。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-10-21T03:52:00+08:00",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "CTWANT",
-     "url": "https://www.ctwant.com/article/503272",
-     "published_at": "2026-10-21T03:52:00+08:00"
-    },
-    {
-     "outlet": "風傳媒",
-     "url": "https://www.storm.mg/article/11174480",
-     "published_at": "2026-10-21T02:15:00+08:00"
-    },
-    {
-     "outlet": "青年日報",
-     "url": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=648294",
-     "published_at": "2026-10-20T00:00:00+08:00"
-    },
-    {
-     "outlet": "中華新聞雲",
-     "url": "https://www.cdns.com.tw/articles/1477834",
-     "published_at": "2026-10-20T00:00:00+08:00"
-    },
-    {
-     "outlet": "大成報",
-     "url": "https://greatnews.com.tw/news_pagein.php?iType=1010&n_id=315978",
-     "published_at": "2026-10-20T00:00:00+08:00"
-    }
-   ],
-   "image": "https://static.ctwant.com/images/cover/72/503272/lg-19b8b5d0c2b28fab7b1609aedccfb405.jpg"
-  },
-  {
-   "id": "20261021-taoyuan-oldstreet-quest",
-   "title": "串聯桃園老街古蹟與商圈美食，完成任務抽iPhone",
-   "summary": "桃園推出串聯老街、古蹟與商圈美食的集點任務活動，完成任務可參加抽獎。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-21T00:00:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "中時新聞網",
-     "url": "https://truemii.chinatimes.com/content/20261021002180-265001",
-     "published_at": "2026-10-21T00:00:00+08:00"
-    }
-   ],
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-21/1024/20261021002181.jpg"
-  },
-  {
-   "id": "20261021-guiren-shopping-festival",
-   "title": "歸仁購物節10月31日登場，微醺夜結合健走行銷在地",
-   "summary": "台南歸仁購物節訂10月31日舉辦，以微醺夜結合健走活動行銷在地商家。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-21T00:00:00+08:00",
-   "cities": [
-    "台南市"
-   ],
-   "districts": [
-    {
-     "name": "歸仁商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "歸仁商圈為115年補助名單，購物節訂10月31日辦理，可作為執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "中華新聞雲",
-     "url": "https://www.cdns.com.tw/articles/1478303",
-     "published_at": "2026-10-21T00:00:00+08:00"
-    }
-   ]
-  },
-  {
-   "id": "20261021-shuili-railway-fest",
-   "title": "水里嬉遊季以車埕鐵道為主題，10月24日、31日登場",
-   "summary": "南投水里嬉遊季以漫遊車埕、玩轉鐵道為主題，訂於10月24日與31日舉辦。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-21T00:00:00+08:00",
-   "cities": [
-    "南投縣"
-   ],
-   "districts": [
-    {
-     "name": "水里商圈",
-     "priority": true
-    },
-    {
-     "name": "車埕商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "報導提及水里、車埕商圈（115年補助名單），可留意此活動是否屬補助計畫並注意颱風後辦理情形。",
-   "sources": [
-    {
-     "outlet": "TDN台灣生活新聞",
-     "url": "https://news.st-media.com.tw/news/63702",
-     "published_at": "2026-10-21T00:00:00+08:00"
-    }
-   ],
-   "image": "https://news.st-media.com.tw/UserFiles/resource/n_753588f88757ddb36e7bb02b90aa3433/file/Still1021_00001.jpg"
   }
  ],
  "discussions": []
