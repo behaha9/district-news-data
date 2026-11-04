@@ -1,7 +1,42 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T20:52:28+08:00",
+ "generated_at": "2026-11-05T07:18:29+08:00",
  "items": [
+  {
+   "id": "20261104-chiayi-zhongshan-enforcement",
+   "title": "嘉義市中山路科技執法遭議員批衝擊商圈，警局長允檢討調整",
+   "summary": "議員質詢指中山路科技執法雖改善交通，卻造成商圈商機流失；警局長表示將檢討調整。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-05T00:00:00+08:00",
+   "cities": [
+    "嘉義市"
+   ],
+   "districts": [
+    {
+     "name": "中山路商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7326/9857999",
+     "published_at": "2026-11-05T00:00:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7326/9856210",
+     "published_at": "2026-11-04T11:00:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/amp/story/7326/9856210",
+     "published_at": "2026-11-04T11:00:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35483446.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
+  },
   {
    "id": "20261104-yongle-construction-inconvenience",
    "title": "彰化永樂商圈道路工程開挖，議員指店家住戶出入不便、護欄不完整",
@@ -122,11 +157,75 @@
     },
     {
      "outlet": "民視新聞網",
+     "url": "https://www.ftvnews.com.tw/news/detail/2026B04U05M1",
+     "published_at": "2026-11-04T16:58:00+08:00"
+    },
+    {
+     "outlet": "民視新聞網",
      "url": "https://www.msn.com/zh-tw/news/other/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%89%B5-%E9%AB%98%E9%9B%84%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E8%A8%AD-%E6%A8%99%E7%B7%9A%E5%9E%8B%E5%9C%93%E7%92%B0-%E4%BA%8B%E6%95%85%E9%99%8D%E4%BD%8E/ar-AA2gJ3Gb",
      "published_at": "2026-11-04T00:00:00+08:00"
     }
    ],
    "image": "https://media.zenfs.com/ko/ftvn.com.tw/5a9d8741941bfafac8e6f7c7506b18ad.jpg"
+  },
+  {
+   "id": "20261103-chiayi-county-shopping",
+   "title": "嘉義縣商圈聯合購物節首波大獎開出，休旅車由番路隙頂商圈消費者抽中",
+   "summary": "嘉義縣政府辦理商圈聯合購物節，串聯全縣19大商圈，首波大獎11月3日揭曉，休旅車由番路隙頂商圈消費者抽中。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-04T13:58:00+08:00",
+   "cities": [
+    "嘉義縣"
+   ],
+   "districts": [
+    {
+     "name": "鹿草風華商圈",
+     "priority": true
+    },
+    {
+     "name": "民雄商圈",
+     "priority": true
+    },
+    {
+     "name": "朴子市魅力商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "鹿草風華、民雄、朴子市魅力商圈為115年補助名單，縣府聯合購物節可作為商圈活動推廣參考。",
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261104165597",
+     "published_at": "2026-11-04T13:58:00+08:00"
+    },
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E5%98%89%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E6%B0%91%E7%9C%BE%E5%B9%B8%E9%81%8B%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-123453327.html",
+     "published_at": "2026-11-03T20:34:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261103953803",
+     "published_at": "2026-11-03T18:05:00+08:00"
+    },
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E5%B9%B8%E9%81%8B%E6%B0%91%E7%9C%BE%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-100508281.html",
+     "published_at": "2026-11-03T18:05:00+08:00"
+    },
+    {
+     "outlet": "樂上新聞網",
+     "url": "https://news111.com.tw/news/51/13588",
+     "published_at": "2026-11-03T17:16:00+08:00"
+    },
+    {
+     "outlet": "中央社",
+     "url": "https://www.cna.com.tw/postwrite/chi/448893",
+     "published_at": "2026-11-03T05:50:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261104/chiayi-cover-261104051332117-4b942dbffe4333cd.webp"
   },
   {
    "id": "20261104-luchao-okinawa-mou",
@@ -155,36 +254,6 @@
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/04/5628919_2_1.jpg"
   },
   {
-   "id": "20261104-chiayi-zhongshan-enforcement",
-   "title": "嘉義市中山路科技執法遭議員批衝擊商圈，警局長允檢討調整",
-   "summary": "議員質詢指中山路科技執法雖改善交通，卻造成商圈商機流失；警局長表示將檢討調整。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-04T11:00:00+08:00",
-   "cities": [
-    "嘉義市"
-   ],
-   "districts": [
-    {
-     "name": "中山路商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7326/9856210",
-     "published_at": "2026-11-04T11:00:00+08:00"
-    },
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/amp/story/7326/9856210",
-     "published_at": "2026-11-04T11:00:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35483446.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
-  },
-  {
    "id": "20261103-taoyuan-tianguang-shopping",
    "title": "桃園客家事務局推「天光威購節」，好客威購卡串聯市集與商圈優惠",
    "summary": "桃園市政府客家事務局推動「2026天光威購節」，天光大市集11月7日、8日舉行，好客威購卡可串聯市集與商圈優惠至12月20日。",
@@ -210,6 +279,11 @@
      "outlet": "台灣好新聞",
      "url": "https://www.taiwanhot.net/news/1152859/%E3%80%8C2026%E5%A4%A9%E5%85%89%E5%A8%81%E8%B3%BC%E7%AF%80%E3%80%8D%E5%A4%A9%E5%85%89%E5%A4%A7%E5%B8%82%E9%9B%86%E7%99%BB%E5%A0%B4+%E3%80%8C%E5%A5%BD%E5%AE%A2%E5%A8%81%E8%B3%BC%E5%8D%A1%E3%80%8D%E4%B8%B2%E8%81%AF%E5%B8%82%E9%9B%86%E8%88%87%E5%95%86%E5%9C%88%E5%84%AA%E6%83%A0%E8%87%B312-20",
      "published_at": "2026-11-03T17:43:00+08:00"
+    },
+    {
+     "outlet": "台灣好新聞",
+     "url": "https://www.taiwanhot.net/news/focus/1152859/%E3%80%8C2026%E5%A4%A9%E5%85%89%E5%A8%81%E8%B3%BC%E7%AF%80%E3%80%8D%E5%A4%A9%E5%85%89%E5%A4%A7%E5%B8%82%E9%9B%86%E7%99%BB%E5%A0%B4+%E3%80%8C%E5%A5%BD%E5%AE%A2%E5%A8%81%E8%B3%BC%E5%8D%A1%E3%80%8D%E4%B8%B2%E8%81%AF%E5%B8%82%E9%9B%86%E8%88%87%E5%95%86%E5%9C%88%E5%84%AA%E6%83%A0%E8%87%B312-20/77/%E6%A1%83%E5%9C%92",
+     "published_at": "2026-11-03T00:00:00+08:00"
     }
    ],
    "admin_note": "六和商圈為115年補助名單，市府優惠活動可能涉及商圈推廣成效，可留意。",
@@ -234,55 +308,6 @@
     }
    ],
    "image": "https://artouch.com/wp-content/uploads/2026/11/image-8.jpeg"
-  },
-  {
-   "id": "20261103-chiayi-county-shopping",
-   "title": "嘉義縣商圈聯合購物節首波大獎開出，休旅車由番路隙頂商圈消費者抽中",
-   "summary": "嘉義縣政府辦理商圈聯合購物節，串聯全縣19大商圈，首波大獎11月3日揭曉，休旅車由番路隙頂商圈消費者抽中。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-03T20:34:00+08:00",
-   "cities": [
-    "嘉義縣"
-   ],
-   "districts": [
-    {
-     "name": "鹿草風華商圈",
-     "priority": true
-    },
-    {
-     "name": "民雄商圈",
-     "priority": true
-    },
-    {
-     "name": "朴子市魅力商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "鹿草風華、民雄、朴子市魅力商圈為115年補助名單，縣府聯合購物節可作為商圈活動推廣參考。",
-   "sources": [
-    {
-     "outlet": "Yahoo新聞",
-     "url": "https://tw.news.yahoo.com/%E5%98%89%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E6%B0%91%E7%9C%BE%E5%B9%B8%E9%81%8B%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-123453327.html",
-     "published_at": "2026-11-03T20:34:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261103953803",
-     "published_at": "2026-11-03T18:05:00+08:00"
-    },
-    {
-     "outlet": "Yahoo新聞",
-     "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E5%B9%B8%E9%81%8B%E6%B0%91%E7%9C%BE%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-100508281.html",
-     "published_at": "2026-11-03T18:05:00+08:00"
-    },
-    {
-     "outlet": "樂上新聞網",
-     "url": "https://news111.com.tw/news/51/13588",
-     "published_at": "2026-11-03T17:16:00+08:00"
-    }
-   ],
-   "image": "https://media.zenfs.com/ko/newstaiwandigi_com_938/b1ed299015ca7de1790b7fbdac335aa4.jpg"
   },
   {
    "id": "20261102-yucheng-new-store",
@@ -672,6 +697,37 @@
    ],
    "admin_note": "西門町商圈為115年補助名單，觀光客消費糾紛可能影響商圈形象，可留意相關輿情。",
    "image": "https://image.nexttv.com.tw/material/news/img/2026/11/2f65bd307a88ee9146c4c106c9485fbb.jpg"
+  },
+  {
+   "id": "20261029-chengda-halloween",
+   "title": "成大商圈萬聖嘉年華10月31日、11月1日登場，首度加入趣味運動會與踩街討糖",
+   "summary": "第11屆成大商圈萬聖嘉年華將在勝利路台南一中門口至大學路口舉行，今年首度推出趣味運動會。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-01T19:36:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [
+    {
+     "name": "成大商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "中華新聞雲",
+     "url": "https://www.cdns.com.tw/articles/1483649",
+     "published_at": "2026-11-01T19:36:00+08:00"
+    },
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5622367",
+     "published_at": "2026-10-29T11:18:00+08:00"
+    }
+   ],
+   "admin_note": "成大商圈為115年補助名單，活動公開辦理，可作為執行佐證參考。",
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/01193613/T90052a-20261101152734346-0-1024x907.jpg"
   },
   {
    "id": "20261101-xinyi-halloween-crowd",
@@ -1346,32 +1402,6 @@
    "image": "https://images.ctee.com.tw/newsphoto/2026-10-29/1024/20261029701504.jpg"
   },
   {
-   "id": "20261029-chengda-halloween",
-   "title": "成大商圈萬聖嘉年華10月31日、11月1日登場，首度加入趣味運動會與踩街討糖",
-   "summary": "第11屆成大商圈萬聖嘉年華將在勝利路台南一中門口至大學路口舉行，今年首度推出趣味運動會。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-29T11:18:00+08:00",
-   "cities": [
-    "台南市"
-   ],
-   "districts": [
-    {
-     "name": "成大商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5622367",
-     "published_at": "2026-10-29T11:18:00+08:00"
-    }
-   ],
-   "admin_note": "成大商圈為115年補助名單，活動公開辦理，可作為執行佐證參考。",
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622367_2_1.jpg"
-  },
-  {
    "id": "20261024-haian-green-market",
    "title": "崑山科大在海安商圈辦第5屆綠色永續市集，12家店家導入綠色行銷",
    "summary": "崑山科大10月24至25日在海安商圈舉辦綠色永續市集，約30個攤位參與，並串聯商圈店家推動綠色行銷。",
@@ -1825,7 +1855,7 @@
      "published_at": "2026-10-24T00:00:00+08:00"
     }
    ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450012.jpg&M=1&s=Y&x=0&y=0&sw=720&sh=480&exp=3600"
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-24/1024/20261024001030.jpg"
   },
   {
    "id": "20261027-pinglin-old-street",
@@ -2710,76 +2740,6 @@
     }
    ],
    "image": "https://ni.yam.com/20261022/png-8de5e2324956f6cc.webp"
-  },
-  {
-   "id": "20261022-jiufen-typhoon-open",
-   "title": "薔琵外圍環流風勢強，九份老街店家仍照常營業",
-   "summary": "報導指颱風薔琵外圍環流風勢強勁，九份老街店家仍照常營業。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-10-22T05:14:08+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [
-    {
-     "name": "九份老街商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "EBC 東森新聞",
-     "url": "https://msn.com/zh-tw/weather/%E4%B8%80%E8%88%AC/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E5%A4%96%E5%9C%8D%E7%92%B0%E6%B5%81%E9%A2%A8%E5%8B%A2%E5%BC%B7-%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E5%BA%97%E5%AE%B6%E7%85%A7%E7%87%9F%E6%A5%AD-newsebc/vi-AA2fMurr",
-     "published_at": "2026-10-22T05:14:08+08:00"
-    }
-   ]
-  },
-  {
-   "id": "20261022-hualien-centenary-points",
-   "title": "花蓮百年老街商圈集點活動登場，消費滿百抽265份扭蛋好禮",
-   "summary": "花蓮市百年老街商圈推出「百年振興超給利」集點活動2.0，消費滿百集點可抽大獎。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-22T01:00:00+08:00",
-   "cities": [
-    "花蓮縣"
-   ],
-   "districts": [
-    {
-     "name": "花蓮市 百年老街商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "花蓮市百年老街商圈為115年補助名單，活動已公開，可作為執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "花蓮最速報",
-     "url": "https://hsnews.com.tw/tourism-and-cuisine/hua-lian-shi-bai-nian-lao-jie-shang-quan-bai-nian-zhen-xing-chao-gei-li-re-nao-deng-chang-ji-dian-chang-bao-qu2-0xiao-fei-man-bai-ji-dian-chou-da-jiang-265fen-niu-dan-hao-li-yao-min-zhong-yi-qi-huo-luo-zai-de-shang-quan.html",
-     "published_at": "2026-10-22T01:00:00+08:00"
-    }
-   ],
-   "image": "https://hsnews.com.tw/images/2026/10/22/img_1179_large.jpeg"
-  },
-  {
-   "id": "20261022-penghu-mazu-walk",
-   "title": "澎湖「Like澎湖・幸福慢旅」走讀媽宮城，從老街古蹟探索歷史文化",
-   "summary": "澎湖縣政府推出走讀媽宮城行程，帶民眾從老街與古蹟認識澎湖歷史文化。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-22T01:00:00+08:00",
-   "cities": [
-    "澎湖縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "澎湖縣政府",
-     "url": "https://www.penghu.gov.tw/ch/home.jsp?id=10088&act=view&dataserno=11510220013",
-     "published_at": "2026-10-22T01:00:00+08:00"
-    }
-   ],
-   "image": "https://www.penghu.gov.tw/ch/images/index/travel.jpg"
   }
  ],
  "discussions": []
