@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-04T07:17:30+08:00",
+ "fetched_at": "2026-11-04T09:30:03+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 135,
-  "kept": 49,
-  "resolved": 49,
-  "items": 47,
+  "raw": 109,
+  "kept": 47,
+  "resolved": 47,
+  "items": 45,
   "resolve_this_run": {
-   "online": 7
+   "online": 3
   },
   "dropped_old": [
    "新竹11月仙草花海盛開，仙草料理、百年茶廠、老街景點一次玩（原文日期 2026-09-09）",
@@ -37,13 +37,13 @@
    "resolved": true
   },
   {
-   "title": "舊商圈翻新 永和頂溪公辦都更",
-   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVmJwcENmZF9UcVR4ZVczMVZ1cmp6dkRJcWM3Y3hiTXJoeWJES0doM1JWUm9KZGtZM3RaemFzblFnTG9OTkVEM3NES2xwNzJLanFzUkYwdWh6VzF0ZHFnLXhjTV96YkRiQl9F?oc=5",
-   "source": "中時新聞網",
-   "source_site": "https://www.chinatimes.com",
-   "published_at": "2026-11-04T04:10+08:00",
-   "query": "商圈",
-   "url": "https://www.chinatimes.com/newspapers/20261104000643-260107",
+   "title": "老街溪航心橋上游步道明年2月動工 張市長：補齊步道缺口、完善水岸休憩空間",
+   "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fOVhabFRFWnU4YWROd1FKc1JTTUhVbE5Bem1fR290U3FYQU1Nc0ZxeElKaERLU3JCdF80Wng5MzNRR1dTMlZxb2k0NzR2OVNhSENGSHljVHhCb2Y0bG9meGRVdUh4NGxiZ18zaHNzQzkxWEtoRW1v?oc=5",
+   "source": "桃園市政府新聞處",
+   "source_site": "https://news.tycg.gov.tw",
+   "published_at": "2026-11-04T04:50+08:00",
+   "query": "老街",
+   "url": "https://news.tycg.gov.tw/News_Content.aspx?n=5016&sms=7885&s=1945727",
    "resolved": true
   },
   {
@@ -54,6 +54,16 @@
    "published_at": "2026-11-04T04:10+08:00",
    "query": "商圈",
    "url": "https://www.chinatimes.com/newspapers/20261104000344-260210",
+   "resolved": true
+  },
+  {
+   "title": "舊商圈翻新 永和頂溪公辦都更",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVmJwcENmZF9UcVR4ZVczMVZ1cmp6dkRJcWM3Y3hiTXJoeWJES0doM1JWUm9KZGtZM3RaemFzblFnTG9OTkVEM3NES2xwNzJLanFzUkYwdWh6VzF0ZHFnLXhjTV96YkRiQl9F?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-04T04:10+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/newspapers/20261104000643-260107",
    "resolved": true
   },
   {
@@ -77,13 +87,13 @@
    "resolved": true
   },
   {
-   "title": "嘉縣商圈購物節首波大獎開出 民眾幸運抱回休旅車",
-   "google_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQZ2dZbGd2d2NiWFh4a28zd3FpNmVfZ0RidjBieFBFMXlBcHFENlg3dWgtZXlTaWExZEhaZC05aVhfQUZ4NFJqRVhZZGRCT0pldi1qUldTZ3F0UG5xVTB0TTc1V25zSkQxVHp1Yk1MSGN0RWdyazdIUHpxU1hkajh4VzVFeUpRbU1jQ3NsQm1aTXFhOE5uNWt1eUxWem5ja19CUGdrUmNmd05nc2E5TXNaSE5ZeUZ0M1lidnpJSWZNM01HWlZiX2gwWVJlUERmbVQ1UTFKczJTUWlBN1hJaVc0WXFCZENEUEdKUzRFMlZNU1pVTFhkcmwzN3hoaWpPUGJtdEdLTjN6S2Mza1BYdUtGZnVwS1p4VXZkQ3NQb2hoaTYwaXNHRnRZcGlJeHJVclBVMXhrV1Nnd1V2S0hZYldXdEprUXZ5US1JMWJPSEx2b25DZjlEOUEySG93UFA?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
+   "title": "嘉縣商圈購物節首波大獎開出民眾幸運抱回休旅車- 生活新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMkI2WVZfRlktSFZIZVZSQnFQb014Mlc0YU51RVRaYVZfLVVHc3dSY0toMUVsY2s0aXU4Q3FTTl94ZE04Y3RpVTRfSjF4dUVORXhqdFJ3dnRsTnFsRDYxcUVLb3lVQU5Nczh1cWNlNmQ4VjJRY0hRaDJJc3JRcXRKMVNqM2NrbERBbWdka3N4OWN5MUk?oc=5",
+   "source": "PChome Online 新聞",
+   "source_site": "https://news.pchome.com.tw",
    "published_at": "2026-11-03T20:34+08:00",
    "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E5%98%89%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E6%B0%91%E7%9C%BE%E5%B9%B8%E9%81%8B%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-123453327.html",
+   "url": "https://news.pchome.com.tw/living/newstaiwandigi/20261103/index-79370929357335279009.html",
    "resolved": true
   },
   {
@@ -138,12 +148,12 @@
   },
   {
    "title": "塔斯馬尼亞師生訪金門續友誼第3年 澳洲學生走讀建功嶼、沙美老街",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMS29EX0dDMUR6bjhyR1UyMUxYUFF0YlBXNGthQzlaNjRlS29iYnhDTVE4Q0dxV0dwYWs5WmExVkhOTDZGYVQxeXlSYjVpb2dEMnlDenhB0gFWQVVfeXFMUExLb0RfR0MxRHpuOHJHVTIxTFhQUXRiUFc0a2FDOVo2NGVLb2JieENNUThDR3FXR3BhazlaYTFWSE5MNkZhVDF5eVJiNWlvZ0QyeUN6eEE?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45X0U0R3FXZUdsT1l3b3ZwRldtMUNmTGozY08tRVV4THE5ZGN0MDAtNjItZVJHNDR0YVVaQTVXRGFwLThtbWpPQzdUb3g4MzRX0gFWQVVfeXFMUExLb0RfR0MxRHpuOHJHVTIxTFhQUXRiUFc0a2FDOVo2NGVLb2JieENNUThDR3FXR3BhazlaYTFWSE5MNkZhVDF5eVJiNWlvZ0QyeUN6eEE?oc=5",
    "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-11-03T16:57+08:00",
    "query": "老街",
-   "url": "https://udn.com/news/amp/story/6898/9854836",
+   "url": "https://udn.com/news/story/6898/9854836",
    "resolved": true
   },
   {
@@ -297,33 +307,23 @@
    "resolved": true
   },
   {
-   "title": "張文興領軍萬聖節親子變裝踩街傳承幸福回憶帶動在地商圈交流- 社會新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNamZJV3lpY2podUhRZmJwM3lQUTJnQkUySXIwcmV4Mlh6VmRkNjRFSTZsNkxjLVl5UGxrdmxwM3RqN0gtbVhicmtBbzNZVkNfZ2tzS29LYUJfYTBpUlBJV2pOSzRiQ2JTTnJ3Qmd2eVBiXzVNb1QxRnkzOG84aDk2bnJRa0xLYTNZTXdz?oc=5",
-   "source": "PChome Online 新聞",
-   "source_site": "https://news.pchome.com.tw",
+   "title": "老街溪步道補齊百米斷點 預計明年二月開工",
+   "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcU03WVNYY3VXR1YycHlPUmNpTE85aXNrb0ZzMG51NnQ3dEcxYzFoamZmOVVRa3dObmJqUnZESDczbGh4YlhodTV1ZHZXVGoyaHczdlFoTmpBM183SlVtQU9NNElOX3VwVndnd3QtX21iT01BOU9iVjFERUpNbUtxUk5n?oc=5",
+   "source": "壹電視",
+   "source_site": "https://www.nexttv.com.tw",
+   "published_at": "2026-11-02T20:38+08:00",
+   "query": "老街",
+   "url": "https://www.nexttv.com.tw/NextTV/News/Home/LocalNews/2026-11-02/2514087.html",
+   "resolved": true
+  },
+  {
+   "title": "張文興領軍萬聖節親子變裝踩街 傳承幸福回憶帶動在地商圈交流",
+   "google_url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQVjR6UWVSMXNzblJzOC1FU2wwdi1ZeW9OV0VabjZ5LXJrdklubXA5Q1lyNExMQ3p1ZGdiTGlNdTk0X3JEYWowWkdHUmRTNTBsLXkycmVVa0NjdGxodEhyTkhSdmtGREpFZzBjeUJJaGJQUFByQTlSQWUwanNLM1RVdVc1Tjh5aHhGNHRXNVBXcWl5Skx2bEpkWUdQVEZkVkxtczZwY19uXzBNNk5KNkE5OGlydFJsdHEtQkcxdk55WVRLbHB3NWdEMjlSTUdYMzAzaVhQNWxITVhQYTNON2Q4d1MxcS1TaVp5VGxyMkhMYURCeGRhc08tcnNGZG5zR2RheXpiQjJrU1JTSUFzbVdMVVpCVEFIVV9nUS1HdUZybDMzbzNfVmFRTkZFMURoZU9Va2gtMTlVY05DMHdvNXRZSmdtZ1VJMVB6bjJ0amh4bXA3bjg2bWJuRVl5MEcycFVma0xza0NHMTVGRkNiQ3lWRC1wTjFTRUZaMDlRcHd4b1RzelhVZXhtZVdTLWlJZGhhUDAtZU1QQ2Q?oc=5",
+   "source": "Life 生活網",
+   "source_site": "https://life.tw",
    "published_at": "2026-11-02T20:19+08:00",
    "query": "商圈",
-   "url": "https://news.pchome.com.tw/society/news586/20261102/index-79362195369335290002.html",
-   "resolved": true
-  },
-  {
-   "title": "老街溪步道補齊「百米斷點」 預計明年二月開工",
-   "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00Q1Axb2tGSnNVSTVkb0FMcVBrVHZHckozc3Q4M21MVjJXT0I0YklaTk1wWllvZ3NLNHctQnFLNlAxWm4tdHdsem14Q2otU0NLa3A2X0ZPS0JvVllZc3M5eVN4OElQWjktamNEdjJsTHVyTDYzQnc?oc=5",
-   "source": "年代電視",
-   "source_site": "https://www.eracom.com.tw",
-   "published_at": "2026-11-02T18:54+08:00",
-   "query": "老街",
-   "url": "https://www.eracom.com.tw/EraNews/Home/Life/2026-11-02/2514029.html",
-   "resolved": true
-  },
-  {
-   "title": "偕妻跟團遊台逛九份老街 78歲日籍翁「走散」竟失聯｜#鏡新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOOXRuTWJKQjVXSi0ybVJzc2tocVN6N2xucEU0ZHg5b3pVbTA3cEJFenRCdUMtb0NIME9oZGZjNWJfbHVVTHNwNUNOYkZzMW43ckJzTEJLMTRxdGFRUkc1TExXQjNhQnlJOGRRRGRybFA3WUlDdFlTTHpYeHJKakhXRk5xblM3Y2FpVjh4SDNicjhKY29Xa2RUX2pIMDdvcnRncW1WYWN3RTdHTnFua1JDNG9fb3Zqd25nU1Fqa2xLbzNZSnV5Y1J2bGZVOUhUR0hNSDIyZlFtYkVNX2EtanRJMnhYT2VUZmJGUDdqUHVKb2JRWDFmRy03NFk3TUZWSlMzR0hmRWtScDhwU2RlTTdoSzlMYUVOZEdYS2JkX3RJRFIzMERNY2V5N2RLYXNOdTRfMnNBR2VQYmVYd21qS3dqaHRVdG5HMXFibnpwUlpFeU5fQTJzOXNmb2k2NGxabGxkb3YxbWJkSmdRT29rRmJN?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-02T18:22+08:00",
-   "query": "老街",
-   "url": "https://tw.news.yahoo.com/%E5%81%95%E5%A6%BB%E8%B7%9F%E5%9C%98%E9%81%8A%E5%8F%B0%E9%80%9B%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97-78%E6%AD%B2%E6%97%A5%E7%B1%8D%E7%BF%81-%E8%B5%B0%E6%95%A3-%E7%AB%9F%E5%A4%B1%E8%81%AF-%E9%8F%A1%E6%96%B0%E8%81%9E-102253149.html",
+   "url": "https://life.tw/article/%E5%BC%B5%E6%96%87%E8%88%88%E9%A0%98%E8%BB%8D%E8%90%AC%E8%81%96%E7%AF%80%E8%A6%AA%E5%AD%90%E8%AE%8A%E8%A3%9D%E8%B8%A9%E8%A1%97-%E5%82%B3%E6%89%BF%E5%B9%B8%E7%A6%8F%E5%9B%9E%E6%86%B6%E5%B8%B6%E5%8B%95%E5%9C%A8%E5%9C%B0%E5%95%86%E5%9C%88%E4%BA%A4%E6%B5%81-3202457",
    "resolved": true
   },
   {
@@ -334,6 +334,16 @@
    "published_at": "2026-11-02T18:20+08:00",
    "query": "商圈",
    "url": "https://life.tw/article/%E9%84%A7%E5%B8%AB%E5%82%85%E6%96%B0%E5%93%81%E7%89%8C-%E5%BE%A9%E8%88%88%E5%8C%97-%E5%A4%96%E5%A9%86%E5%AE%B6-%E9%80%B2%E9%A7%90%E8%A3%95%E8%AA%A0%E5%95%86%E5%9C%88-%E5%85%AD%E6%AC%BE%E7%A0%82%E9%8D%8B%E6%BF%83%E9%9B%9E%E6%B9%AF%E6%90%B6-3203138",
+   "resolved": true
+  },
+  {
+   "title": "偕妻跟團遊台逛九份老街　78歲日籍翁「走散」竟失聯",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HOV9zTU5hdk9jLXdOUDczdFItcDRSWF80UUtIWUU5M1JfbHM5TkhNWjFrN1JyVVBGZTlOSjdpV2RhYTV3V3ZRVEp0X0NtemJUemtBM0lOVzDSAV5BVV95cUxQSm1xR2lia09MdkQtLV9URnFyYWtrNk1ycHhkbXQzbXNUaWN6eEFrakptMllmUnRSLWVRem40M0VxVDU5SFVzR0hCWG5JUmFjTVZYU2kxcjFCbUU1VU1R?oc=5",
+   "source": "鏡新聞",
+   "source_site": "https://www.mnews.tw",
+   "published_at": "2026-11-02T18:14+08:00",
+   "query": "老街",
+   "url": "https://www.mnews.tw/story/20261102sot1814002",
    "resolved": true
   },
   {
@@ -397,16 +407,6 @@
    "resolved": true
   },
   {
-   "title": "大園老街溪補齊串聯兩岸重要節點 航心橋上游步道明年6月完工",
-   "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uRFNyTFM4XzB6YWtkOUtIOGZJYk50Z0k4QXhhNWpTOWJJU05NY3lQTnNMd2U4ZjJ3V3BWaFNPUjZ3a2lyM3Z0aU40eW8?oc=5",
-   "source": "桃園電子報",
-   "source_site": "https://tyenews.com",
-   "published_at": "2026-11-02T14:34+08:00",
-   "query": "老街",
-   "url": "https://tyenews.com/2026/11/1424953/",
-   "resolved": true
-  },
-  {
    "title": "討論牆 | 新北新莊老街新風景！第一市場改造完成 50年老市場變美了！",
    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0N3BTNFlpdUVLbGhIanl2OXpNcjh0TzA0X1hncm5lblY3WUVkVmpoUV9wWUdxNFVOT2VfZTdhNHVRbXZsQUJyU3ROakVmaklWTWZUemZwa0tBdVRhNUliTXBFMDY?oc=5",
    "source": "LINE TODAY",
@@ -414,16 +414,6 @@
    "published_at": "2026-11-02T13:57+08:00",
    "query": "老街",
    "url": "https://today.line.me/tw/v3/posts/list/article/pep1QOl",
-   "resolved": true
-  },
-  {
-   "title": "壹蘋試駕｜開著Kia Stonic走進桃園的秋日時光 從大溪老街到龍潭尋找慢生活",
-   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFJBZ1R0NVhfd2NiT0M2SG9sbjFWTXFWV2VhYTdTcmVuTzFHZzVSaFZ6T1MwcTNVcXZzWFAya2VOTnNwTWZpME5RYm9zeC1kVHp2dmhwZUUwTGhYb0dzcTE4akc3Tkx5ZGVRWUlZMGRXcTQ2WFdkd1ltSjF0b3ZERw?oc=5",
-   "source": "壹蘋新聞網",
-   "source_site": "https://news.nextapple.com",
-   "published_at": "2026-11-02T12:17+08:00",
-   "query": "老街",
-   "url": "https://news.nextapple.com/gadget/20261102/0379BEA6116101CDC0E4970A7A500D84",
    "resolved": true
   },
   {
@@ -468,22 +458,12 @@
   },
   {
    "title": "台北車站忙碌商圈秘境 「魔法咖哩站前店」首度解鎖下午茶時段 | 食品餐飲 | 商情",
-   "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DVHQ5YlNoeDJmXzFEQ0xGRWJIaVg5VEhGZlplMzg2RmpHM01hdXJDbExCVzVYZ1BTcGRIYWpSOEdmSVFYTklYWkhSWmUyMF91dG9GRDFXdmF3T1FCcXZZWFBwSUZOMW1nYlR1ZnZ0dEx1MjB1cWcwS1V5amc?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5saEg2RURzaGJxTzItbmE3b2RyLUhvM3BGLWkwUWhuLW9uR3BSYjEya0RnOHZscDI1dlROWEJrNEpZWEZOTkozTldWb3ZabmMtajZ0U1I2UkJfdw?oc=5",
    "source": "經濟日報",
    "source_site": "https://money.udn.com",
    "published_at": "2026-11-02T10:01+08:00",
    "query": "商圈",
-   "url": "https://money.udn.com/money/story/7843/9849718?from=edn_subcatelist_cate",
-   "resolved": true
-  },
-  {
-   "title": "新北新莊老街新風景！第一市場改造完成 50年老市場變美了！",
-   "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2JxSDExLWQ0WjRXU3ozNXloRHBkd3ViRWE4M0JpOUNuZ190MGVBWmxMSUIzSjVLZDZHWElzNDdNYkF3SmZlck5pVXgtX1FKTHhfVGcwT3VfWnJQR0VkU0tkWm53VExwYXZSUklxLU1HX1VBVVowLXA4dUF5Wmc2X2FmOG03QU1wc0R2aw?oc=5",
-   "source": "PChome Online 新聞",
-   "source_site": "https://news.pchome.com.tw",
-   "published_at": "2026-11-02T08:00+08:00",
-   "query": "老街",
-   "url": "https://news.pchome.com.tw/travel/sharelife/20261102/index-79357760099905216015.html",
+   "url": "https://money.udn.com/money/story/7843/9849718",
    "resolved": true
   }
  ]

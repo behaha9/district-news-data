@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T07:17:40+08:00",
+ "fetched_at": "2026-11-04T09:30:13+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-11-04T07:17+08:00",
@@ -90,11 +90,6 @@
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://www.sinchew.com.my/news/20261030/international/8012498?variant=zh-hant": {
-   "checked_at": "2026-11-01T07:18+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
-  },
   "https://www.fclnews.com/235170/": {
    "checked_at": "2026-11-04T07:17+08:00",
    "status": 403,
@@ -104,286 +99,6 @@
    "checked_at": "2026-11-04T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://today.line.me/tw/v3/article/Kw7mLrN": {
-   "checked_at": "2026-11-01T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T00:00+08:00",
-   "site_name": "LINE TODAY",
-   "description": "中聯油脂今年六、七月爆發苯駢芘超標的食安事件後，迄今未恢復生產，導致國內沙拉油大缺貨。經濟部雖責成台糖要擴大精煉油品產能，填補油品缺口，但台...",
-   "cities": {
-    "高雄市": 2
-   },
-   "districts": [],
-   "body_chars": 998,
-   "image": "https://today-obs.line-scdn.net/0hV88IOlmPCRcFMBWWF3t2QD1mBWY2VhMeJ1cUdXA5UyUhHE8VbFRadCA0Uzt7CBkSJVNPcSE5VyB6AE8SMQ/w1200",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/posts/list/article/oqp7WNy": {
-   "checked_at": "2026-11-01T07:18+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "LINE TODAY",
-   "description": "31則貼文 | 快來參與LINE TODAY討論牆上的討論 | 食用油缺貨又漲價！桶裝沙拉油飆破千元 小吃店哀號買不到「快比登天難」",
-   "cities": {},
-   "districts": [],
-   "body_chars": 131,
-   "image": "https://today-obs.line-scdn.net/0hWhlMlID-CEdRNBTF7UJ3EGliBDZiUhJOcwVFIyZmV3V6GEsTbQdbJCFgU2t0ARsZcVcSdiQ3AXZ7Ux1GOg/w1200",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://tw.news.yahoo.com/%E5%8F%B0%E7%B3%96%E7%B2%97%E6%B2%B9%E6%8E%A1%E8%B3%BC%E6%A1%88%E6%B5%81%E6%A8%99-%E5%B8%82%E5%A0%B4%E5%90%83%E7%B7%8A-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E9%9B%A3%E8%A3%9C-223229348.html": {
-   "checked_at": "2026-11-01T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T06:32+08:00",
-   "site_name": "Yahoo News",
-   "description": "中聯油脂今年六、七月爆發苯駢芘超標的食安事件後，迄今未恢復生產，導致國內沙拉油大缺貨。經濟部雖責成台糖要擴大精煉油品產能，填補油品缺口，但台糖十月中旬的粗油採購案，卻因無廠商投標而流標，短期想要填補油品缺口，恐怕難上加難。",
-   "cities": {
-    "台北市": 5,
-    "台南市": 4,
-    "高雄市": 3,
-    "新竹": 1
-   },
-   "districts": [],
-   "body_chars": 3794,
-   "image": "https://media.zenfs.com/ko/udn.com/21e2280d4838c363c52f0b4a51fcbef8.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/7327/9849362": {
-   "checked_at": "2026-11-01T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T22:09+08:00",
-   "site_name": "聯合新聞網",
-   "description": "金城鎮年度節慶活動「2026後浦搞什麼鬼－萬聖節活動」今天晚間在北鎮廟前中興路及後浦商圈熱鬧登場，大小朋友換上精心準備的萬聖節服裝，有人化身可愛萌鬼，有人扮成奇幻角色，還有團體使出渾身解數打造創意造型，街頭巷弄充滿歡笑與驚喜。",
-   "cities": {
-    "金門縣": 4,
-    "高雄市": 3,
-    "新北市": 1,
-    "屏東縣": 1
-   },
-   "districts": [],
-   "body_chars": 2148,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35473200.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/ai/answer/%E7%B6%93%E6%BF%9F%E9%83%A8%E5%A6%82%E4%BD%95%E6%87%89-59271827": {
-   "checked_at": "2026-11-01T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T07:53+08:00",
-   "site_name": null,
-   "description": "為應對中聯油脂停工引發的沙拉油供應短缺，經濟部已展開多管齊下的策略，包含供應媒合、國內增產、進口擴大及關稅調整等措施，旨在確保食品產業原料供應，維持市場穩定。目前已協助多家業者取得用油，並持續協調各方，力求儘速緩解缺口，確保消費者能獲得足夠的沙拉油。",
-   "cities": {},
-   "districts": [],
-   "body_chars": 126,
-   "image": "https://udn.com/static/img/UDN_BABY.png",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/life/paper/1776732": {
-   "checked_at": "2026-11-01T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T05:30+08:00",
-   "site_name": "自由時報電子報",
-   "description": "薔琵颱風在全台造成六．六億元農損，花蓮縣政府統計，全縣農損總計二千八百多萬元，主要是怕風的香蕉、木瓜被吹倒，農業部前日核定花蓮縣光復鄉木瓜、吉安鄉及瑞穗鄉香蕉納入天災現金救助區域，縣府昨天公布，即日起受理農民申請救助。縣府農業處昨指出，薔琵颱風造成花蓮香蕉植株倒伏、木瓜植株及果實受損，縣府第一時間接獲鄉鎮公所及農民通報",
-   "cities": {
-    "花蓮縣": 10,
-    "高雄市": 1
-   },
-   "districts": [],
-   "body_chars": 740,
-   "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ettoday.net/news/20261031/3264135.htm": {
-   "checked_at": "2026-11-01T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T21:05+08:00",
-   "site_name": "ETtoday新聞雲",
-   "description": "台南知名排隊老店「阿明豬心冬粉」近日因老闆娘車禍離世消息引發外界關注，店家也接連公告暫停營業，讓不少老顧客擔心是否就此熄燈。不過，阿明豬心冬粉31日首度對外說明，強調店家並未公告無限期停業，目前只是需要時間陪伴家人、調適心情，後續營業安排仍待討論。",
-   "cities": {
-    "台南市": 4,
-    "高雄市": 2
-   },
-   "districts": [],
-   "body_chars": 1069,
-   "image": "https://cdn2.ettoday.net/images/6607/e6607289.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/amp/story/7266/9849473": {
-   "checked_at": "2026-11-01T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T00:00+08:00",
-   "site_name": "聯合新聞網",
-   "description": "食用油短缺風暴擴大，沙拉油、耐炸油供貨吃緊，桶裝沙拉油價格飆破千元，甚至有錢也買不到。從雲嘉南到高雄、屏東，餐飲業者叫苦連天，有人上網徵油，有人被迫更換油品，甚至無油可用，只能暫停營業。食用油短缺已不只是業者的成本危機，更衝擊民生消費與餐飲生計。",
-   "cities": {
-    "高雄市": 3,
-    "嘉義縣": 3,
-    "屏東縣": 2,
-    "雲林縣": 1
-   },
-   "districts": [],
-   "body_chars": 712,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35473458.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=800&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E8%90%AC%E8%81%96%E7%AF%80-%E9%A6%AC%E5%85%AC%E5%95%86%E5%9C%88%E8%AE%8A%E8%A3%9D%E8%B8%A9%E8%A1%97%E5%A5%BD%E7%86%B1%E9%AC%A7-1-%E5%9C%96-133949786.html": {
-   "checked_at": "2026-11-01T08:13+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T21:39+08:00",
-   "site_name": "Yahoo News",
-   "description": "澎湖縣馬公市31日萬聖節迎來「萌鬼出任務，萬聖踩街趣」活動，大小朋友一同變裝踩街，體驗西洋萬聖節節慶文化，氣氛熱鬧。",
-   "cities": {
-    "台北市": 15,
-    "澎湖縣": 2,
-    "台中市": 1,
-    "新竹": 1
-   },
-   "districts": [
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 2622,
-   "image": "https://media.zenfs.com/zh-tw/cna.com.tw/2fa4a85a384c8ee8bb0a880f79714e9d.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E5%9C%8B%E5%85%A7%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35-000%E5%99%B8-121221255.html": {
-   "checked_at": "2026-11-01T08:13+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T20:12+08:00",
-   "site_name": "Yahoo News",
-   "description": null,
-   "cities": {
-    "台北市": 1
-   },
-   "districts": [],
-   "body_chars": 3043,
-   "image": "https://media.zenfs.com/ko/taiwantimes_374/69271754d132129e6bb78c311a256009.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.msn.com/zh-tw/lifestyle/other/%E8%87%BA%E4%B8%AD%E6%8B%9A%E7%B6%93%E6%BF%9F-%E7%89%A9%E8%AA%BF%E5%88%B8%E5%B8%B6%E5%8B%95%E5%B8%82%E5%A0%B4-%E5%95%86%E5%9C%88-%E5%A4%9C%E5%B8%82%E8%B2%B7%E6%B0%A3-newsebc/vi-AA2gtSf4": {
-   "checked_at": "2026-11-01T08:13+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5625340": {
-   "checked_at": "2026-11-01T08:13+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T08:08+08:00",
-   "site_name": "自由時報電子報",
-   "description": "首次上稿 10-31 23:56更新時間 11-01 08:08位於台南市中西區的排隊名店「阿明豬心冬粉」，老闆娘近日不幸車禍離世，傳出店家無限期暫停營業，讓不少老饕錯愕。但店家週六（10月31日）發布公告澄清，沒有宣布無限期停業，但確實需要一些時間調適心情，後續營業安排會再告訴大家。",
-   "cities": {
-    "台南市": 5,
-    "台中市": 1
-   },
-   "districts": [],
-   "body_chars": 1065,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/31/phpUK1zSU.png",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5625393": {
-   "checked_at": "2026-11-01T08:13+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T07:37+08:00",
-   "site_name": "自由時報電子報",
-   "description": "營業30年的新光三越台南中山店熄燈，前一晚才被滿場民眾的歡呼與淚水包圍，熄燈後隨即展開拆除作業，施工單位從凌晨4點一路拆到早上6點，短短2個小時就把高聳招牌卸下平躺在馬路上，只留下白色的建築外觀。​昨天深夜才正式結束營業的新光三越台南中山店，熱鬧送別的人潮剛散去，施工團隊便火速進駐拉起黃色封鎖線。兩百噸的重型吊車與工程",
-   "cities": {
-    "台南市": 7,
-    "台中市": 1
-   },
-   "districts": [],
-   "body_chars": 840,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/01/5625393_4_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.sohu.com/a/1095477018_122387568": {
-   "checked_at": "2026-11-01T08:13+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T20:25+08:00",
-   "site_name": "搜狐网",
-   "description": "在这个充满可能性的舞台上，青年们的创意与激情正如同一股新风，席卷着金山的每一个角落。无论是艺术的表达，还是文化的交流，“艺青春·舞台主理人计划”都在向人们传递着一个信号：年轻的力量正在崛起，未来的文化艺术之路…",
-   "cities": {},
-   "districts": [
-    "金山商圈（新北市）"
-   ],
-   "body_chars": 745,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.taisounds.com/news/content/133/297162": {
-   "checked_at": "2026-11-01T08:13+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T18:38+08:00",
-   "site_name": "太報 TaiSounds",
-   "description": "一年一度的台北白晝之夜今（10/31）晚在圓山自然景觀公園登場，台北市長蔣萬安致詞時也宣布，明年巴黎白晝之夜將有台灣優秀藝術家前往展出，讓在地優秀藝術家作品，可以在巴黎展出，這是第一次有這樣的機會。",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [],
-   "body_chars": 216,
-   "image": "https://cdn.taisounds.com/newsimages/img/2026/1031/777e5c797ade4b7c83437af4ad860cf3.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/posts/list/article/MLBYa8M": {
-   "checked_at": "2026-11-01T08:13+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "LINE TODAY",
-   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 市場沙拉油缺口仍大！經濟部協調油品進口商第4季擴大進口5000噸",
-   "cities": {},
-   "districts": [],
-   "body_chars": 126,
-   "image": "https://today-obs.line-scdn.net/0hM4Kt_SeZEht2DQ6Y-8xtTE5bHmpFawgSVG9deVQFSyJeIVBLQ2tBeAdZHDcIP1cZVj8PflsMRXxfPAcfTQ/w1200",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://today.line.me/tw/v3/posts/list/article/zNWLga6": {
-   "checked_at": "2026-11-01T08:13+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "LINE TODAY",
-   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 中聯大豆沙拉油致癌物超標　北市衛生局：已完成19家業者查核並擴大抽驗",
-   "cities": {},
-   "districts": [],
-   "body_chars": 128,
-   "image": "https://today-obs.line-scdn.net/0hJLEg-VAdFWN4HglJz3pqNEBIGRJLeA9qWn0NVlUXGwZXMlUyRixGAAoeS09cL1MyWCxbUg1NGwMBfVY8RA/w1200",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
   },
   "https://ccss3172.blogspot.com/2026/10/blog-post_74.html": {
    "checked_at": "2026-11-01T12:17+08:00",
@@ -7866,6 +7581,220 @@
    "image_checked": true,
    "date_hint": "2026-11-04",
    "date_hint_from": "圖片路徑"
+  },
+  "https://www.taisounds.com/news/content/133/297162": {
+   "checked_at": "2026-11-04T09:30+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T18:38+08:00",
+   "site_name": "太報 TaiSounds",
+   "description": "一年一度的台北白晝之夜今（10/31）晚在圓山自然景觀公園登場，台北市長蔣萬安致詞時也宣布，明年巴黎白晝之夜將有台灣優秀藝術家前往展出，讓在地優秀藝術家作品，可以在巴黎展出，這是第一次有這樣的機會。",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 216,
+   "image": "https://cdn.taisounds.com/newsimages/img/2026/1031/777e5c797ade4b7c83437af4ad860cf3.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/amp/story/7266/9849473": {
+   "checked_at": "2026-11-04T09:30+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T00:00+08:00",
+   "site_name": "聯合新聞網",
+   "description": "食用油短缺風暴擴大，沙拉油、耐炸油供貨吃緊，桶裝沙拉油價格飆破千元，甚至有錢也買不到。從雲嘉南到高雄、屏東，餐飲業者叫苦連天，有人上網徵油，有人被迫更換油品，甚至無油可用，只能暫停營業。食用油短缺已不只是業者的成本危機，更衝擊民生消費與餐飲生計。",
+   "cities": {
+    "高雄市": 3,
+    "嘉義縣": 3,
+    "屏東縣": 2,
+    "雲林縣": 1
+   },
+   "districts": [],
+   "body_chars": 712,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35473458.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7327/9849362": {
+   "checked_at": "2026-11-04T09:30+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T22:09+08:00",
+   "site_name": "聯合新聞網",
+   "description": "金城鎮年度節慶活動「2026後浦搞什麼鬼－萬聖節活動」今天晚間在北鎮廟前中興路及後浦商圈熱鬧登場，大小朋友換上精心準備的萬聖節服裝，有人化身可愛萌鬼，有人扮成奇幻角色，還有團體使出渾身解數打造創意造型，街頭巷弄充滿歡笑與驚喜。",
+   "cities": {
+    "屏東縣": 9,
+    "高雄市": 5,
+    "金門縣": 3,
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 2421,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35473200.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.sohu.com/a/1095477018_122387568": {
+   "checked_at": "2026-11-04T09:30+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T20:25+08:00",
+   "site_name": "搜狐网",
+   "description": "在这个充满可能性的舞台上，青年们的创意与激情正如同一股新风，席卷着金山的每一个角落。无论是艺术的表达，还是文化的交流，“艺青春·舞台主理人计划”都在向人们传递着一个信号：年轻的力量正在崛起，未来的文化艺术之路…",
+   "cities": {},
+   "districts": [
+    "金山商圈（新北市）"
+   ],
+   "body_chars": 745,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pchome.com.tw/living/newstaiwandigi/20261103/index-79370929357335279009.html": {
+   "checked_at": "2026-11-04T09:30+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T20:34+08:00",
+   "site_name": "PChome Online 新聞",
+   "description": "【記者 吳瑞興／嘉義縣 報導】嘉義縣政府辦理「115年嘉義縣商圈聯合購物節－嘉尚好禮」，串聯全縣19大商圈及17家觀光工廠，自10月1日開跑以來，持續帶動在地消費熱潮。為回饋民眾熱情參與，於今（3）日下",
+   "cities": {
+    "嘉義縣": 30
+   },
+   "districts": [
+    "鹿草風華商圈（嘉義縣）",
+    "朴子市魅力商圈（嘉義縣）",
+    "民雄商圈（嘉義縣）"
+   ],
+   "body_chars": 1645,
+   "image": "https://news.pchome.com.tw/newsdata/living/newstaiwandigi/20261103/79370929357335279009_original.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%8F%B0%E7%B3%96%E7%B2%97%E6%B2%B9%E6%8E%A1%E8%B3%BC%E6%A1%88%E6%B5%81%E6%A8%99-%E5%B8%82%E5%A0%B4%E5%90%83%E7%B7%8A-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E9%9B%A3%E8%A3%9C-223229348.html": {
+   "checked_at": "2026-11-04T09:30+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T06:32+08:00",
+   "site_name": "Yahoo News",
+   "description": "中聯油脂今年六、七月爆發苯駢芘超標的食安事件後，迄今未恢復生產，導致國內沙拉油大缺貨。經濟部雖責成台糖要擴大精煉油品產能，填補油品缺口，但台糖十月中旬的粗油採購案，卻因無廠商投標而流標，短期想要填補油品缺口，恐怕難上加難。",
+   "cities": {
+    "台南市": 3,
+    "台北市": 2,
+    "台中市": 2,
+    "高雄市": 2
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/udn.com/21e2280d4838c363c52f0b4a51fcbef8.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/oqp7WNy": {
+   "checked_at": "2026-11-04T09:30+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "43則貼文 | 快來參與LINE TODAY討論牆上的討論 | 食用油缺貨又漲價！桶裝沙拉油飆破千元 小吃店哀號買不到「快比登天難」",
+   "cities": {},
+   "districts": [],
+   "body_chars": 131,
+   "image": "https://today-obs.line-scdn.net/0hWhlMlID-CEdRNBTF7UJ3EGliBDZiUhJOcwVFIyZmV3V6GEsTbQdbJCFgU2t0ARsZcVcSdiQ3AXZ7Ux1GOg/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://udn.com/news/ai/answer/%E7%B6%93%E6%BF%9F%E9%83%A8%E5%A6%82%E4%BD%95%E6%87%89-59271827": {
+   "checked_at": "2026-11-04T09:30+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T07:53+08:00",
+   "site_name": null,
+   "description": "為應對中聯油脂停工引發的沙拉油供應短缺，經濟部已展開多管齊下的策略，包含供應媒合、國內增產、進口擴大及關稅調整等措施，旨在確保食品產業原料供應，維持市場穩定。目前已協助多家業者取得用油，並持續協調各方，力求儘速緩解缺口，確保消費者能獲得足夠的沙拉油。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 126,
+   "image": "https://udn.com/static/img/UDN_BABY.png",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/MLBYa8M": {
+   "checked_at": "2026-11-04T09:30+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 市場沙拉油缺口仍大！經濟部協調油品進口商第4季擴大進口5000噸",
+   "cities": {},
+   "districts": [],
+   "body_chars": 126,
+   "image": "https://today-obs.line-scdn.net/0hM4Kt_SeZEht2DQ6Y-8xtTE5bHmpFawgSVG9deVQFSyJeIVBLQ2tBeAdZHDcIP1cZVj8PflsMRXxfPAcfTQ/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://tw.news.yahoo.com/%E5%9C%8B%E5%85%A7%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35-000%E5%99%B8-121221255.html": {
+   "checked_at": "2026-11-04T09:30+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T20:12+08:00",
+   "site_name": "Yahoo News",
+   "description": null,
+   "cities": {
+    "台北市": 4,
+    "台中市": 2
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/taiwantimes_374/69271754d132129e6bb78c311a256009.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/Kw7mLrN": {
+   "checked_at": "2026-11-04T09:30+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T00:00+08:00",
+   "site_name": "LINE TODAY",
+   "description": "中聯油脂今年六、七月爆發苯駢芘超標的食安事件後，迄今未恢復生產，導致國內沙拉油大缺貨。經濟部雖責成台糖要擴大精煉油品產能，填補油品缺口，但台...",
+   "cities": {
+    "高雄市": 2
+   },
+   "districts": [],
+   "body_chars": 998,
+   "image": "https://today-obs.line-scdn.net/0hV88IOlmPCRcFMBWWF3t2QD1mBWY2VhMeJ1cUdXA5UyUhHE8VbFRadCA0Uzt7CBkSJVNPcSE5VyB6AE8SMQ/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/zNWLga6": {
+   "checked_at": "2026-11-04T09:30+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 中聯大豆沙拉油致癌物超標　北市衛生局：已完成19家業者查核並擴大抽驗",
+   "cities": {},
+   "districts": [],
+   "body_chars": 128,
+   "image": "https://today-obs.line-scdn.net/0hJLEg-VAdFWN4HglJz3pqNEBIGRJLeA9qWn0NVlUXGwZXMlUyRixGAAoeS09cL1MyWCxbUg1NGwMBfVY8RA/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.tycg.gov.tw/News_Content.aspx?n=5016&sms=7885&s=1945727": {
+   "checked_at": "2026-11-04T09:30+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T00:00+08:00",
+   "site_name": "桃園市政府新聞處",
+   "description": null,
+   "cities": {
+    "桃園市": 6
+   },
+   "districts": [],
+   "body_chars": 796,
+   "image": "https://ws.tycg.gov.tw//001/Upload/1/relpic/7885/1945727/505bc861-807c-4f35-b9fa-7bfde2b42e2a.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
   }
  }
 }
