@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T09:30:10+08:00",
+ "updated_at": "2026-11-04T12:17:13+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,51 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "中聯油脂停工衝擊豆粕供應 陳駿季：年底前飼料原料無虞",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNRndBVUtBZEc0MjBubm1mRDZ4dDl4YzhnWkpIa1gzeTNoWmZWQWF3WTkyRU5YaTVfTUkzLXNVZzctc1hZV2NYSGUtQ21UMHo0MlpjTlc5UTdUbUxLSWtOQ0dkRmdtMWF4WnNqX01jSkRfWklYUmJzTDIxZktGQmdBREhqeUhXTnNRd2d6NE4xVUd5QzlDZHFrWW0xVlZ5YWpMQ1QyZFRQYnFOcHo3YkR5WVhENjljdHRoSkJYb2EweU1ERkxnQ2tOU3hQNm5xYVlOXzBCOFZCeHZnZUZhX3lLd3IwVEVKQXEzcFp1QU1GUWViQnBReVczaTNJcXRBb1ZmeGlNWnN2dzJnTDAzWjdjbERuTVhLMEk1a1E5MFkxMUk4Ulotd3N3a3lCTlI3Y3NUOHpkMEFXelpwOHk4UExtMXhyOG1zNmlTdElsOFdqMUg3aGk1NS1MQmpPczlEampoV0FDMk03M2ZQRlJ3NHFJVVFCZmROZw?oc=5",
+     "source": "Yahoo新聞",
+     "published_at": "2026-11-04T11:37+08:00",
+     "url": "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5%E8%A1%9D%E6%93%8A%E8%B1%86%E7%B2%95%E4%BE%9B%E6%87%89-%E9%99%B3%E9%A7%BF%E5%AD%A3-%E5%B9%B4%E5%BA%95%E5%89%8D%E9%A3%BC%E6%96%99%E5%8E%9F%E6%96%99%E7%84%A1%E8%99%9E-030325147.html",
+     "resolved": true
+    },
+    {
+     "title": "沙拉油漲破千元！雞腿便當145元！國民黨團籲物價穩定小組快點動起來",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84MDh6VS1SdTlVVGlDQzF1dHo3MlJIT09sT05NZklQWkZqY0cweXNQX1RvRmlRQVJaYkZRTlM4MXBKTVE5ZEtJZ0RWZWFoZ1BYT2c?oc=5",
+     "source": "蕃新聞",
+     "published_at": "2026-11-04T10:48+08:00",
+     "url": "https://n.yam.com/Article/20261104928718",
+     "resolved": true
+    },
+    {
+     "title": "便當145元、沙拉油漲逾5成 藍轟物價失控",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTlpHM0tISzFIdTlSOUwxa0VRcnFGUERqdmdIamkzdFI3Y3Zhd3l3TlJDY3ZDSUl4Rmx1MzVlVTAzMkdNVktCWEJzVDJoUi01M1hTak4wZkxKQkx2czNZdzExbFdNMnNueFA3VHl3?oc=5",
+     "source": "中時新聞網",
+     "published_at": "2026-11-04T10:34+08:00",
+     "url": "https://www.chinatimes.com/realtimenews/20261104001830-260407",
+     "resolved": true
+    },
+    {
+     "title": "中聯油案影響沙拉油豆粕農業部：年底前供應無虞| 生活",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aSGZseFJQU3o5ckhoSVFBM29ySktzYklpekp1NkZOM1hMc0k5SlFMaENtcWE2SXJRVEt3ODlFYjBhR2RVbnBwWXVWXzdjaUM3RlZ6YzR1YTFRSDBBTmVF?oc=5",
+     "source": "中央社 CNA",
+     "published_at": "2026-11-04T09:46+08:00",
+     "url": "https://www.cna.com.tw/news/ahel/202611040041.aspx",
+     "resolved": true
+    },
+    {
+     "title": "討論牆 | 沙拉油爆供應荒 經濟部出2招補缺口",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fWHZEemRoQ2g5MXMtSmViX1MzczRpNDdjcmlNUmdsZmxJYWtESFZkS3lMaDZISEhnVEMzWERHa1FJcWhpMlgtTzFkNVd3Mm9NZThLSDNUYVpXMDJFR0l6N2JXY1M?oc=5",
+     "source": "LINE TODAY",
+     "published_at": "2026-11-03T20:30+08:00",
+     "url": "https://today.line.me/tw/v3/posts/list/article/eLp89lG",
+     "resolved": true
+    },
     {
      "title": "經部協調第4季將擴大進口沙拉油5,000噸、國內每月增產4,400噸",
      "kind": "價格動態",

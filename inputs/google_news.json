@@ -1,21 +1,31 @@
 {
- "fetched_at": "2026-11-04T09:30:03+08:00",
+ "fetched_at": "2026-11-04T12:17:06+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 109,
-  "kept": 47,
-  "resolved": 47,
-  "items": 45,
+  "raw": 114,
+  "kept": 45,
+  "resolved": 45,
+  "items": 43,
   "resolve_this_run": {
-   "online": 3
+   "online": 2
   },
   "dropped_old": [
    "新竹11月仙草花海盛開，仙草料理、百年茶廠、老街景點一次玩（原文日期 2026-09-09）",
-   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
+   "快訊／日本伊勢神宮商店街燒惡火！大面積狂燒「政府急發疏散令」（原文日期 2026-09-01）"
   ]
  },
  "items": [
+  {
+   "title": "嘉市鬧區中山路商圈科技執法挨批商機流失 警局長：檢討調整",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NUXpLRkVjazFPYkZvU25jalc2d3FyRUtSako3ZllFSDJ3ei1YdG9PbFhoY1kzNDhOUnRoWXBxeGJTUXFyNFJRWmVVRDh3UlBM0gFWQVVfeXFMTmY2SXVwVE1xTldHNnVqV200NE5hWm55SGpyak5TUlNBWkc3TmdMaC1fMHJOX2E2WHo2S0phdHVUYXctY1hBUDdzZnZOZE9FY0dsZjI2dEE?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
+   "published_at": "2026-11-04T11:00+08:00",
+   "query": "商圈",
+   "url": "https://udn.com/news/story/7326/9856210",
+   "resolved": true
+  },
   {
    "title": "舊商圈翻新永和頂溪公辦都更簽約- 台灣地方- 新聞",
    "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xcS10dDdjenR6WWdaT20xYzgwTE11cVN5YkVtdHVFanNrVTl2aTJmUXhmV1pNYUkzQkE1UFhJVUNkSWxYZ1ZGalF5QU8tN1g3Z3FhUnItMVQtckE2Snk1ZjQyak5fdw?oc=5",
@@ -148,12 +158,12 @@
   },
   {
    "title": "塔斯馬尼亞師生訪金門續友誼第3年 澳洲學生走讀建功嶼、沙美老街",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45X0U0R3FXZUdsT1l3b3ZwRldtMUNmTGozY08tRVV4THE5ZGN0MDAtNjItZVJHNDR0YVVaQTVXRGFwLThtbWpPQzdUb3g4MzRX0gFWQVVfeXFMUExLb0RfR0MxRHpuOHJHVTIxTFhQUXRiUFc0a2FDOVo2NGVLb2JieENNUThDR3FXR3BhazlaYTFWSE5MNkZhVDF5eVJiNWlvZ0QyeUN6eEE?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMS29EX0dDMUR6bjhyR1UyMUxYUFF0YlBXNGthQzlaNjRlS29iYnhDTVE4Q0dxV0dwYWs5WmExVkhOTDZGYVQxeXlSYjVpb2dEMnlDenhB0gFWQVVfeXFMUExLb0RfR0MxRHpuOHJHVTIxTFhQUXRiUFc0a2FDOVo2NGVLb2JieENNUThDR3FXR3BhazlaYTFWSE5MNkZhVDF5eVJiNWlvZ0QyeUN6eEE?oc=5",
    "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-11-03T16:57+08:00",
    "query": "老街",
-   "url": "https://udn.com/news/story/6898/9854836",
+   "url": "https://udn.com/news/amp/story/6898/9854836",
    "resolved": true
   },
   {
@@ -174,6 +184,16 @@
    "published_at": "2026-11-03T15:32+08:00",
    "query": "商圈",
    "url": "https://keelungplay.com/commercialdistrict-2/",
+   "resolved": true
+  },
+  {
+   "title": "李四川三蘆市場拜票人氣「開低走高」　2攤商主動邀「招牌簽名」",
+   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02SjNuWnQ3QXh6Q2h2SmIwVG5OOFBLVW1LN3hFT29nT0Q0anBnUFc0MU1FWnlIV3lKVEp4bkJzZzVMR21vUXkwZnNsRG53T3A1SEtsUXJJUDU0ZlQ3OFHSAUtBVV95cUxNTFAzWjB5Q01hcnhkNXZfUWF4UXJuckZsSTJkRFE2TFJuTHIxWGJuZ09WSjVWRjREek5MX2t3eWRtZWhUb0tVYUR5Rkk?oc=5",
+   "source": "ETtoday新聞雲",
+   "source_site": "https://www.ettoday.net",
+   "published_at": "2026-11-03T15:21+08:00",
+   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
+   "url": "https://www.ettoday.net/news/20261103/3265619.htm",
    "resolved": true
   },
   {
@@ -307,16 +327,6 @@
    "resolved": true
   },
   {
-   "title": "老街溪步道補齊百米斷點 預計明年二月開工",
-   "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcU03WVNYY3VXR1YycHlPUmNpTE85aXNrb0ZzMG51NnQ3dEcxYzFoamZmOVVRa3dObmJqUnZESDczbGh4YlhodTV1ZHZXVGoyaHczdlFoTmpBM183SlVtQU9NNElOX3VwVndnd3QtX21iT01BOU9iVjFERUpNbUtxUk5n?oc=5",
-   "source": "壹電視",
-   "source_site": "https://www.nexttv.com.tw",
-   "published_at": "2026-11-02T20:38+08:00",
-   "query": "老街",
-   "url": "https://www.nexttv.com.tw/NextTV/News/Home/LocalNews/2026-11-02/2514087.html",
-   "resolved": true
-  },
-  {
    "title": "張文興領軍萬聖節親子變裝踩街 傳承幸福回憶帶動在地商圈交流",
    "google_url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQVjR6UWVSMXNzblJzOC1FU2wwdi1ZeW9OV0VabjZ5LXJrdklubXA5Q1lyNExMQ3p1ZGdiTGlNdTk0X3JEYWowWkdHUmRTNTBsLXkycmVVa0NjdGxodEhyTkhSdmtGREpFZzBjeUJJaGJQUFByQTlSQWUwanNLM1RVdVc1Tjh5aHhGNHRXNVBXcWl5Skx2bEpkWUdQVEZkVkxtczZwY19uXzBNNk5KNkE5OGlydFJsdHEtQkcxdk55WVRLbHB3NWdEMjlSTUdYMzAzaVhQNWxITVhQYTNON2Q4d1MxcS1TaVp5VGxyMkhMYURCeGRhc08tcnNGZG5zR2RheXpiQjJrU1JTSUFzbVdMVVpCVEFIVV9nUS1HdUZybDMzbzNfVmFRTkZFMURoZU9Va2gtMTlVY05DMHdvNXRZSmdtZ1VJMVB6bjJ0amh4bXA3bjg2bWJuRVl5MEcycFVma0xza0NHMTVGRkNiQ3lWRC1wTjFTRUZaMDlRcHd4b1RzelhVZXhtZVdTLWlJZGhhUDAtZU1QQ2Q?oc=5",
    "source": "Life 生活網",
@@ -327,6 +337,26 @@
    "resolved": true
   },
   {
+   "title": "老街溪步道補齊「百米斷點」 預計明年二月開工",
+   "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00Q1Axb2tGSnNVSTVkb0FMcVBrVHZHckozc3Q4M21MVjJXT0I0YklaTk1wWllvZ3NLNHctQnFLNlAxWm4tdHdsem14Q2otU0NLa3A2X0ZPS0JvVllZc3M5eVN4OElQWjktamNEdjJsTHVyTDYzQnc?oc=5",
+   "source": "年代電視",
+   "source_site": "https://www.eracom.com.tw",
+   "published_at": "2026-11-02T18:54+08:00",
+   "query": "老街",
+   "url": "https://www.eracom.com.tw/EraNews/Home/Life/2026-11-02/2514029.html",
+   "resolved": true
+  },
+  {
+   "title": "偕妻跟團遊台逛九份老街 78歲日籍翁「走散」竟失聯｜#鏡新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOOXRuTWJKQjVXSi0ybVJzc2tocVN6N2xucEU0ZHg5b3pVbTA3cEJFenRCdUMtb0NIME9oZGZjNWJfbHVVTHNwNUNOYkZzMW43ckJzTEJLMTRxdGFRUkc1TExXQjNhQnlJOGRRRGRybFA3WUlDdFlTTHpYeHJKakhXRk5xblM3Y2FpVjh4SDNicjhKY29Xa2RUX2pIMDdvcnRncW1WYWN3RTdHTnFua1JDNG9fb3Zqd25nU1Fqa2xLbzNZSnV5Y1J2bGZVOUhUR0hNSDIyZlFtYkVNX2EtanRJMnhYT2VUZmJGUDdqUHVKb2JRWDFmRy03NFk3TUZWSlMzR0hmRWtScDhwU2RlTTdoSzlMYUVOZEdYS2JkX3RJRFIzMERNY2V5N2RLYXNOdTRfMnNBR2VQYmVYd21qS3dqaHRVdG5HMXFibnpwUlpFeU5fQTJzOXNmb2k2NGxabGxkb3YxbWJkSmdRT29rRmJN?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-02T18:22+08:00",
+   "query": "老街",
+   "url": "https://tw.news.yahoo.com/%E5%81%95%E5%A6%BB%E8%B7%9F%E5%9C%98%E9%81%8A%E5%8F%B0%E9%80%9B%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97-78%E6%AD%B2%E6%97%A5%E7%B1%8D%E7%BF%81-%E8%B5%B0%E6%95%A3-%E7%AB%9F%E5%A4%B1%E8%81%AF-%E9%8F%A1%E6%96%B0%E8%81%9E-102253149.html",
+   "resolved": true
+  },
+  {
    "title": "鄧師傅新品牌「復興北 外婆家」進駐裕誠商圈 六款砂鍋濃雞湯搶攻小家庭聚餐市場",
    "google_url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNTFA3cTZGV0NQRG81Y0MyX3RoU3haMkVlbG5OaTFIUDA4RVd1N1VBdlVnTC1OM0lHS1hwY2NVSTl4X0kzN3U4Sk45ZVRraWxNNDBtTFgyTTBhQm5vNGtYRDN4WWNPUUNpUTk5aWJRRW1ma1U0S2FWTnM2cjVvSU91Ukh4bndKSXgtblVoS3Bpak85RndIbDVJTGlFam1XTmV5S0tVRDBMRFZVcTFtS2F1LVJLci0temZCbTAwZEg0M2NUQjVTX19kY2hkVlJQbmoxQmNGWXJsZDBvcjBBWDJxd2Z1dHlyQzFRd05NRVRZRjY4aVhTWVBadkEtNTg1TGpXRmFHb1QzNWI4ZGl0TmZhQnFVNHd3NmU4SEQxVzlvLXN3RU1uRlYzeHlnVTdkYXFYQ0NDR1BoTWFuX2xreE5ralNvVm5hVno3djE0VnpoTlVmUnZpYzkxdlFPeXh0T3RmbkZUbklEZmNLRkJuMml6UzF0ZmtTcHpQYjNyTnlWRWVzLWtV?oc=5",
    "source": "Life 生活網",
@@ -334,16 +364,6 @@
    "published_at": "2026-11-02T18:20+08:00",
    "query": "商圈",
    "url": "https://life.tw/article/%E9%84%A7%E5%B8%AB%E5%82%85%E6%96%B0%E5%93%81%E7%89%8C-%E5%BE%A9%E8%88%88%E5%8C%97-%E5%A4%96%E5%A9%86%E5%AE%B6-%E9%80%B2%E9%A7%90%E8%A3%95%E8%AA%A0%E5%95%86%E5%9C%88-%E5%85%AD%E6%AC%BE%E7%A0%82%E9%8D%8B%E6%BF%83%E9%9B%9E%E6%B9%AF%E6%90%B6-3203138",
-   "resolved": true
-  },
-  {
-   "title": "偕妻跟團遊台逛九份老街　78歲日籍翁「走散」竟失聯",
-   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HOV9zTU5hdk9jLXdOUDczdFItcDRSWF80UUtIWUU5M1JfbHM5TkhNWjFrN1JyVVBGZTlOSjdpV2RhYTV3V3ZRVEp0X0NtemJUemtBM0lOVzDSAV5BVV95cUxQSm1xR2lia09MdkQtLV9URnFyYWtrNk1ycHhkbXQzbXNUaWN6eEFrakptMllmUnRSLWVRem40M0VxVDU5SFVzR0hCWG5JUmFjTVZYU2kxcjFCbUU1VU1R?oc=5",
-   "source": "鏡新聞",
-   "source_site": "https://www.mnews.tw",
-   "published_at": "2026-11-02T18:14+08:00",
-   "query": "老街",
-   "url": "https://www.mnews.tw/story/20261102sot1814002",
    "resolved": true
   },
   {
@@ -387,6 +407,16 @@
    "resolved": true
   },
   {
+   "title": "花蓮金三角商圈業者嘆生意難做 張峻提3階段復甦成立「觀光小組」",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WYjdJaWhKNlBLMGd4YzN2Ul9ZaF9nSlhkcTRyVmx2SVRILTF2ZDVIeHpLS3NkV1hNaUhfS0tiMWQwSE1FNHhERHE2ZGNZdXZUX1E?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-02T16:01+08:00",
+   "query": "商圈",
+   "url": "https://n.yam.com/Article/20261102788075",
+   "resolved": true
+  },
+  {
    "title": "蔣萬安稱大巨蛋「讓東區商圈活起來」 直擊多處黃金店面仍待租",
    "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90WFBLMDF3aFFhS0JFVF9LeXN2ZkRRcE1jd3lrc3YybEt4WHZYanEtQ2JMbGk2M2ZZRlExb090UHV1YzR5ejZKWC1xMV9KMENHclNQV2hlMW14aE1NT0pxNHJ5QWwtOGYtMXfSAW9BVV95cUxPQko4SmdEVXBCNGlqQW9sbjV4STdoWFhIR3M0NmNZd0t4T1BYNG9oLUxQN2oydTFhU2lQUzVKSEJPM0ZOTUtMdUtULXhxcFVKWjJHRVVDX2p6SnhGaDhmU0R5WElKc2hveTdPRW5uc00?oc=5",
    "source": "自由時報",
@@ -414,56 +444,6 @@
    "published_at": "2026-11-02T13:57+08:00",
    "query": "老街",
    "url": "https://today.line.me/tw/v3/posts/list/article/pep1QOl",
-   "resolved": true
-  },
-  {
-   "title": "斥資千萬「補齊缺口」 桃市老街溪航心橋上游步道明年2月動工",
-   "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xVE1KdFBWdlNjSlJKZkxqZG1kdjVLMUpGSFQwV21UcXU0bWlDS0R1cW11OTBwcTQ3aUFzRXozem9NN2VyMVFSeEI5Wm5uMW02YXk3ZnpJRGNiM09KWEZNbGxuWUZ3cGVkdGNLN2hQZk5Jd9IBVkFVX3lxTE81d2lLNHRvVmlrVlRfazJNOXo4dE9lYlZlMzZXMTg0VjNWSE9hOU91MUlqNGc4RjYtaU95d3hueTZGMkJPWjhmdmRpbVpLNUtibHhDSXVR?oc=5",
-   "source": "udn",
-   "source_site": "https://udn.com",
-   "published_at": "2026-11-02T12:14+08:00",
-   "query": "老街",
-   "url": "https://udn.com/news/story/7324/9851620?from=udn-relatednews_ch2",
-   "resolved": true
-  },
-  {
-   "title": "薔琵颱風掃落滿山樹枝！竹崎商圈動員志工淨山維護觀音瀑布",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2MVlyeUJ5NDRDYnAxN1YwWENjdWhmQVZ6VDQ0LS1yREd0blR2RXBSX1MtNUNFWTE3bFVMc2hxc1dMS2tBTU9Zb2g4MXMyS2Ns?oc=5",
-   "source": "信吉衛視+",
-   "source_site": "https://www.sjtv.com.tw",
-   "published_at": "2026-11-02T12:00+08:00",
-   "query": "商圈",
-   "url": "https://www.sjtv.com.tw/articles/120173",
-   "resolved": true
-  },
-  {
-   "title": "花蓮金三角商圈業者嘆生意難做 張峻提3階段復甦成立「觀光小組」",
-   "google_url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNUE1QUXE5VWFCT3lycWk4R290WHV0aDEwaGZmWlNCNGtad0JQTW1ISVhjeHR4SVBMVi00SnNvMGZWcmZPS1RjeExiVmVYcHNPRDYtOE8zU3EwbjZxa3VHdlhRT1FUNnFjZ21kVUhWVUU2MGFPODlmMEFrWXJfMnZYMFp1a2w5U18xOVBJakcwcll0ZVlwdTVQdVBwU19YRmFia0owV3VkWFpSOTVTUnliczYwZ2cwV1BwbElKUFJSa0lTUS1mWHZ1NkQybUZpQmIxTDRUVkJYRXpULWxwZFhnVHY4YkJ5dm5Ga3piRmppU1F6cmVwQnVPN2VUc0RWdE1mVEJGYnRwWW9VNDJtMFBmNVRvN3RtdHp2a0tuQ2FKR0NzcVpBejRvOTB3NWQ4THUxT3ZqaVVKYUg5OXdjN2Vud0s2ZGZxdTQ2R1Z5Skd6QjNEVE03bU52ZEVkUW5GdFBwVzJQVnNfTFY4S3Y3RFU4UHdKMkx5Mk0xZzJMc0pIM29wbGRkZHdqcjMxZ2NNUzN2anMwNng5V0ZhMGs?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-02T11:55+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E9%87%91%E4%B8%89%E8%A7%92%E5%95%86%E5%9C%88%E6%A5%AD%E8%80%85%E5%98%86%E7%94%9F%E6%84%8F%E9%9B%A3%E5%81%9A-%E5%BC%B5%E5%B3%BB%E6%8F%903%E9%9A%8E%E6%AE%B5%E5%BE%A9%E7%94%A6%E6%88%90%E7%AB%8B-%E8%A7%80%E5%85%89%E5%B0%8F%E7%B5%84-034557756.html",
-   "resolved": true
-  },
-  {
-   "title": "老街溪航心橋步道缺口100公尺 斥資1756萬打通",
-   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MSFJvWS1QQ21IOTFkRDRDdzMzNkg3Z1RHUXgtcTJGcXFVemhUSmEwWDlneWxod2cwbmpscnpyTWxGNHZxeWR3bXB4Q2V1V25pZmx4X1hBY0d4b2lXMU5hdmlMNU5iV3VsaS1xM1l3?oc=5",
-   "source": "中時新聞網",
-   "source_site": "https://www.chinatimes.com",
-   "published_at": "2026-11-02T10:29+08:00",
-   "query": "老街",
-   "url": "https://www.chinatimes.com/realtimenews/20261102001580-260421",
-   "resolved": true
-  },
-  {
-   "title": "台北車站忙碌商圈秘境 「魔法咖哩站前店」首度解鎖下午茶時段 | 食品餐飲 | 商情",
-   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5saEg2RURzaGJxTzItbmE3b2RyLUhvM3BGLWkwUWhuLW9uR3BSYjEya0RnOHZscDI1dlROWEJrNEpZWEZOTkozTldWb3ZabmMtajZ0U1I2UkJfdw?oc=5",
-   "source": "經濟日報",
-   "source_site": "https://money.udn.com",
-   "published_at": "2026-11-02T10:01+08:00",
-   "query": "商圈",
-   "url": "https://money.udn.com/money/story/7843/9849718",
    "resolved": true
   }
  ]
