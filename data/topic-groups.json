@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-03T21:00:00+08:00",
+  "updated_at": "2026-11-04T12:30:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -53,7 +53,8 @@
             "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%8D%94%E8%AA%BF%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35000%E5%99%B8-090547595.html",
             "https://udn.com/news/amp/story/7238/9847358",
             "https://money.udn.com/money/amp/story/7307/9847302",
-            "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E7%B6%93%E6%BF%9F%E9%83%A8-%E5%85%A8%E5%8A%9B%E5%8D%94%E5%8A%A9%E6%A5%AD%E8%80%85%E5%A2%9E%E7%94%A2%E5%8F%8A%E5%8A%A0%E9%80%9F%E9%80%B2%E5%8F%A3-093832419.html"
+            "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E7%B6%93%E6%BF%9F%E9%83%A8-%E5%85%A8%E5%8A%9B%E5%8D%94%E5%8A%A9%E6%A5%AD%E8%80%85%E5%A2%9E%E7%94%A2%E5%8F%8A%E5%8A%A0%E9%80%9F%E9%80%B2%E5%8F%A3-093832419.html",
+            "https://today.line.me/tw/v3/posts/list/article/eLp89lG"
           ]
         },
         {
@@ -126,6 +127,24 @@
             "https://life.tw/article/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5%E8%A1%9D%E6%93%8A%E6%B2%99%E6%8B%89%E6%B2%B9%E4%BE%9B%E6%87%89-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%8D%94%E8%AA%BF%E5%A2%9E%E7%94%A2-%E9%80%B2%E5%8F%A3%E8%A3%9C%E8%B6%B3%E7%BC%BA%E5%8F%A3-3203169",
             "https://ec.ltn.com.tw/amp/article/breakingnews/5627970",
             "https://www.chinatimes.com/realtimenews/20261103003217-260405"
+          ]
+        },
+        {
+          "id": "20261104-feed-supply",
+          "note": "中聯油脂停工影響豆粕供應，農業部稱年底前飼料原料無虞",
+          "representative": "https://www.cna.com.tw/news/ahel/202611040041.aspx",
+          "urls": [
+            "https://www.cna.com.tw/news/ahel/202611040041.aspx",
+            "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5%E8%A1%9D%E6%93%8A%E8%B1%86%E7%B2%95%E4%BE%9B%E6%87%89-%E9%99%B3%E9%A7%BF%E5%AD%A3-%E5%B9%B4%E5%BA%95%E5%89%8D%E9%A3%BC%E6%96%99%E5%8E%9F%E6%96%99%E7%84%A1%E8%99%9E-030325147.html"
+          ]
+        },
+        {
+          "id": "20261104-kmt-price-control",
+          "note": "國民黨團就沙拉油與便當漲價要求物價穩定小組行動",
+          "representative": "https://www.chinatimes.com/realtimenews/20261104001830-260407",
+          "urls": [
+            "https://www.chinatimes.com/realtimenews/20261104001830-260407",
+            "https://n.yam.com/Article/20261104928718"
           ]
         }
       ],
