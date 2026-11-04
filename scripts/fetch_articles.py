@@ -389,8 +389,13 @@ def main():
                        for i in t.get("items", []) if i.get("resolved")]
     except Exception:
         pass
+    try:  # 首頁清單（CURATION.md 四之二要逐篇審查）：一律預抓，審查時可看原文摘要、補縮圖
+        with open("inputs/homepage.json", encoding="utf-8") as fh:
+            homepage = [{"url": h["url"], "district": True} for h in json.load(fh).get("items", [])]
+    except Exception:
+        homepage = []
     wanted = []
-    for item in curated + district_items + google + items:
+    for item in curated + homepage + district_items + google + items:
         url = item.get("url", "")
         relevant = item.get("district") or SELECT.search(item.get("title", ""))
         if not url.startswith("https://") or url in wanted or not relevant:
