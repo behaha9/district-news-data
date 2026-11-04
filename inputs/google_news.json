@@ -1,18 +1,41 @@
 {
- "fetched_at": "2026-11-04T23:35:03+08:00",
+ "fetched_at": "2026-11-05T07:17:20+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 96,
-  "kept": 37,
-  "resolved": 37,
-  "items": 36,
-  "resolve_this_run": {},
+  "raw": 90,
+  "kept": 35,
+  "resolved": 35,
+  "items": 33,
+  "resolve_this_run": {
+   "online": 4
+  },
   "dropped_old": [
+   "捷運三鶯線今起至8/31免費搭 途經老街通車首日湧觀光人潮（原文日期 2026-06-30）",
    "新竹11月仙草花海盛開，仙草料理、百年茶廠、老街景點一次玩（原文日期 2026-09-09）"
   ]
  },
  "items": [
+  {
+   "title": "鄧師傅新品牌復興北外婆家餐廳插旗北高雄裕誠商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXWEVTXzRUV0lrZWlZbTRfcXJtZGJ2SHh6NXhlNDFxWldBdnVtOEZVdWNHOU1pNjhvbDEzMjN4b214ZzNoaV9iRA?oc=5",
+   "source": "台灣民眾電子報",
+   "source_site": "https://www.allnews.tw",
+   "published_at": "2026-11-05T00:53+08:00",
+   "query": "商圈",
+   "url": "https://www.allnews.tw/news/96519",
+   "resolved": true
+  },
+  {
+   "title": "嘉市鬧區中山路 改善違停卻衝擊商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qSDJOM25xQ3VIN25XTVItTk03bjV2NWJMbU1kdlluRnhhd1JFRWV3UlhBeXdOWW9HS0lNX05rUE91aG9TU0dIcTZLUEhXVHB1elhjWEV30gFWQVVfeXFMT2pIMk4zbnFDdUg3bldNUi1OTTduNXY1YkxtTWR2WW5GeGF3UkVFZXdSWEF5d05Zb0dLSU1fTmtQT3Vob1NTR0hxNktQSFdUcHV6WGNYRXc?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
+   "published_at": "2026-11-05T00:00+08:00",
+   "query": "商圈",
+   "url": "https://udn.com/news/amp/story/7326/9857999",
+   "resolved": true
+  },
   {
    "title": "永樂商圈施工挨批導致店家、居民不便 (圖)",
    "google_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOQ3BiMDlCdnNxS2xwMW1JUGFOaWtrZUxHME9JSnJ4ZmswUTRaZmYyZmdncGhaOFpsTWZsVmp6dHhFNVp3WExCZ1g0S1hETVBBTmRSQTlLd01lcGdPT3dDWDlnUWJSRHpSY0dtOXZIc2VycnZhTVF6NUtLbENMaTc0NkMzSGFaV29ZQ2hzdk9jb01jNTVCclRTMUFFVWo2UThTWS1BNkRsN2d4bm56SkV1QkI4NGc4VWdIcXY2WUF4NFpKSHl3VC14N1Vqa29SN2JtTE1ZNVZxd0NxRWRSczhtQk50TTBsbTRycmM0SG84bjJtMWNrVUR0ZFhPUmlfOEZKd01UQWl4VS01ejJ4eENlbmJaNkVzVFIySnVSMTkyTkdPZw?oc=5",
@@ -124,16 +147,6 @@
    "resolved": true
   },
   {
-   "title": "舊商圈翻新 永和頂溪公辦都更",
-   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVmJwcENmZF9UcVR4ZVczMVZ1cmp6dkRJcWM3Y3hiTXJoeWJES0doM1JWUm9KZGtZM3RaemFzblFnTG9OTkVEM3NES2xwNzJLanFzUkYwdWh6VzF0ZHFnLXhjTV96YkRiQl9F?oc=5",
-   "source": "中時新聞網",
-   "source_site": "https://www.chinatimes.com",
-   "published_at": "2026-11-04T04:10+08:00",
-   "query": "商圈",
-   "url": "https://www.chinatimes.com/newspapers/20261104000643-260107",
-   "resolved": true
-  },
-  {
    "title": "建商獵地台中三商圈夯- 產業特刊- 工商時報",
    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wOFN2QjRGbllpREZqRS1BN1BtLUJxMi12X3VFSFRrLURIZlZ0TEhuSmpsbDN4dUNNQnhMaXFFbEhqd1lEeXlaRjJuQW5pb0RvZG5rcWxST0ZNYUZHQ2Q0OWhEbVBOTkVmVDFF?oc=5",
    "source": "中時新聞網",
@@ -141,6 +154,16 @@
    "published_at": "2026-11-04T04:10+08:00",
    "query": "商圈",
    "url": "https://www.chinatimes.com/newspapers/20261104000344-260210",
+   "resolved": true
+  },
+  {
+   "title": "舊商圈翻新 永和頂溪公辦都更",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVmJwcENmZF9UcVR4ZVczMVZ1cmp6dkRJcWM3Y3hiTXJoeWJES0doM1JWUm9KZGtZM3RaemFzblFnTG9OTkVEM3NES2xwNzJLanFzUkYwdWh6VzF0ZHFnLXhjTV96YkRiQl9F?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-04T04:10+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/newspapers/20261104000643-260107",
    "resolved": true
   },
   {
@@ -194,13 +217,23 @@
    "resolved": true
   },
   {
-   "title": "嘉義縣商圈購物節首波大獎開出 幸運民眾抱回休旅車",
-   "google_url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQaHZwbm9sZWgwV1BXNkVVcjVsU1FodU1ZSVh2M3JwZGxBY08wYVNDX0lKUDJzWG5UVEhuMGJYalhZeG5WOVhZSUJjM2NYZXRHcHpSVkQzWnFkaG9XUnkwbWFITkpXYXc2eTlnckk5Q1Y5QkpfeEdhaFYzNWNTdm9mN2JjeXh0WlEwLWYxeGNEclkyY21lSV9za2lmbkFnb0U4NkFJaWxSSDlyTzRMRURlYml2ZnZFNnVMS1E4THdBUDQ5cGxPVXgyZ09XaWhqcll5UldaS1RPbFBOLUxtamNTamRQZXZ4U2VzQWtHaS0tZGVaRWpMMG1GYVBLRFhkMWxZdExneEpmemc4LWFyMGF4X2U4RFY1Y2E4cDRXWEZFQmktYzdtU0JBcjZqWWtsa3hUcl9YN3N5MGN3Q0NlSGFiR3FTWmM0cjFqMVFyWmVyQTEtWTB1eXRKd082djNZcElHbjR5UVdTeHk?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
+   "title": "嘉義縣商圈購物節首波大獎開出幸運民眾抱回休旅車- 生活新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYjBWZmVReEZxTUtVeWpiOGt0ckQ5VzREdXNQc05aU2p6WjdtVDRBc3NIV2JOeXVDSnhKUmxYMWZRSzl1Z0hfT1pYS2ZKV09feGl4cFk5d2lER0NZS1B2YTEwV0h6NGlqMkFDX0Q2RkpvZW5qa1AtcERRUnNUczFfVDFDdkJWQ0dEZUlDVG1R?oc=5",
+   "source": "PChome Online 新聞",
+   "source_site": "https://news.pchome.com.tw",
    "published_at": "2026-11-03T18:05+08:00",
    "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E5%B9%B8%E9%81%8B%E6%B0%91%E7%9C%BE%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-100508281.html",
+   "url": "https://news.pchome.com.tw/living/thehubnews/20261103/index-79370030850369306009.html",
+   "resolved": true
+  },
+  {
+   "title": "「2026天光威購節」天光大市集登場 「好客威購卡」串聯市集與商圈優惠至12/20",
+   "google_url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQR1Vzb1FaZHNfTjFNOFpqWER0UGdLT28wY3dFTHVxRHhQYXN2OThhaEJONGxTWjNsUTk4T1phbEZaWTQxVlJ6MlNNQkZ1clhWanpSMjhtaFgzME5BaVZpcTVmT2tLQnFMcmtZajhBby12dVFrbXg4eWlrTWxrdzdOSnRsSHFfREt4MFBwR1hRS0U3OV9SMHNGanFzMTItcUlnZUJ6SW1zQ0w0TkZqZlJNR0JDWWpwOVVuN3ZmVnFwZjNQcGJSYXRzR2trMTFYdk9tRW90M1kxX3FnYzlTTTVLMFpLYVRiMXY1ZS1lTjhZelJtbExtWVcyZ3dnbkFqa01oM082Y3NVZkFsdkdocmZ3VUVJRkNiTFRWQjU1RklYMnZPWjh1enFtZVBONksyUk9ocl8xU0FWOFVtZk8yNGZoTnFzcnhjRTltU0lxNUJTVTMxcWlYdVEwV2FWTnV4M2tLekRmMlJkaU9NRW1hQjFmMENsNU14VHJmUzdOUHVGLW90ZllLS3ZlN1JRQk5tLUlBaDVDVUpGWWRJYmxGbEpMemw5bm5YSlpDcmRLQTg3aTMyeVhkVWFsdU1UejZEUS1xc0hwRnlUQWNhX29YOWJkUERB?oc=5",
+   "source": "台灣好新聞",
+   "source_site": "https://www.taiwanhot.net",
+   "published_at": "2026-11-03T17:43+08:00",
+   "query": "商圈",
+   "url": "https://www.taiwanhot.net/news/1152859/%E3%80%8C2026%E5%A4%A9%E5%85%89%E5%A8%81%E8%B3%BC%E7%AF%80%E3%80%8D%E5%A4%A9%E5%85%89%E5%A4%A7%E5%B8%82%E9%9B%86%E7%99%BB%E5%A0%B4+%E3%80%8C%E5%A5%BD%E5%AE%A2%E5%A8%81%E8%B3%BC%E5%8D%A1%E3%80%8D%E4%B8%B2%E8%81%AF%E5%B8%82%E9%9B%86%E8%88%87%E5%95%86%E5%9C%88%E5%84%AA%E6%83%A0%E8%87%B312-20",
    "resolved": true
   },
   {
@@ -284,16 +317,6 @@
    "resolved": true
   },
   {
-   "title": "【營建】一條瑞隆路，串起整個社區的幸福！楊家鴻里長打造行人安全、交通有序、商圈共好的宜居生活~~從瑞隆路人行環境改善到標線型圓環，重新分配道路使用空間，讓長輩安心走、孩子安全行、店家做生意更便利，讓交通建設真正走進里民生活！",
-   "google_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10Ukg3bEtlTmtwTjhfRDdET2lEUmNWbDlSMEtkUjhpWnRQS1ZQMGE0NFNaWU80TkJDN2pvbFBOZk9aS1l6?oc=5",
-   "source": "正聲廣播電台",
-   "source_site": "https://www.csbc.com.tw",
-   "published_at": "2026-11-03T14:11+08:00",
-   "query": "商圈",
-   "url": "https://www.csbc.com.tw/156381",
-   "resolved": true
-  },
-  {
    "title": "老街溪步道將改善 航心橋上游增百米人行道",
    "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxME96SzgxLWY2Mi01N09fM2FWMFBQUTdIUDY2cGZXZWc2VEZyZWt5THU3QUl3OXJLbFhVdEhzM2pVaDdqNUdqY19jY2VZSk9Xa1BWcw?oc=5",
    "source": "新頭條",
@@ -321,56 +344,6 @@
    "published_at": "2026-11-03T09:01+08:00",
    "query": "商店街",
    "url": "https://news.tvbs.com.tw/world/4044969",
-   "resolved": true
-  },
-  {
-   "title": "新光三越中山店謝幕 台南站前商圈持續發展",
-   "google_url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBwLWtPd3h3bUo5TkkzcUhwRURBTExRWTA2UGNMeDg0YUhGc1libllueTgtY1JpdW9TdkpCaGJR?oc=5",
-   "source": "3kingtw.com",
-   "source_site": "https://3kingtw.com",
-   "published_at": "2026-11-03T06:18+08:00",
-   "query": "商圈",
-   "url": "https://3kingtw.com/4007/",
-   "resolved": true
-  },
-  {
-   "title": "蔣萬安稱大巨蛋讓東區商圈活起來 民眾︰有嗎？",
-   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oUWhET3hBUGtqSTlpeVdlOG5vVGl4Q1hpcXVYQURhNGs5QkdEN0lkeWROUEVFYUJ1X1BIZ09YaE9ub1AtTjlibnlYdXFyMlBDaWdhVVdQcHFrb3huYWdGONIBZkFVX3lxTE53bzZOb1hXc0lRNmZhcjVreC05bEh1SEpxb2FIcngwbzB1SW5qU3hQMThzVndMclZ0TzBvRFFLVjlRVU85a1Qtbkl4dzhnVExmZmFuTG1zdjQ0T3ZZdndjbnVIU3lPdw?oc=5",
-   "source": "自由時報",
-   "source_site": "https://news.ltn.com.tw",
-   "published_at": "2026-11-03T05:30+08:00",
-   "query": "商圈",
-   "url": "https://news.ltn.com.tw/news/politics/paper/1777014",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 九份老街巷弄繁雜 日籍導遊：團客抄捷徑「易走失」",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3a3F5eDJFckowMmp6OFpVVFpPUmVRbzhIc1RSVWtCbHdEX3htbVdpTEExRVR1cDdJRUc3T1VfMkFEczVibl9Cb042WE5UMVlOUUFmSzJkY3FVV2VkZ3hIMTFIMGk?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-03T03:31+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/WBp5PDy",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 老街溪航心橋上游步道明年2月動工 張善政：補齊步道缺口、完善水岸休憩空間",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxVExOUFoyaWVNZHhnOGZueV9EVmVEQUFDSzdCMjk0dWNCa1RqN2FVZDltWEdXSE9RNVMzWFFaT0JXZkg5Q2FjVXpxenZ2Wk12LWl5QURBc3F1SzVEa3VtbFVYbGc?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-03T00:12+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/XYp5KkO",
-   "resolved": true
-  },
-  {
-   "title": "九份老街巷弄繁雜 日籍導遊：團客抄捷徑「易走失」",
-   "google_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNVk9wOXQyeU9weWJCLUtUN0xEc18xdktrY2d6a1FWZzd3Zk9kaWM3NGVfU2oyTC1vd3cwX0tPeXA3WGZWMDhJVl9fZWFPWHdSZDFNR2NxVUpLcXZoSUtPU1poQ21HUHJZdzI0aXhMVnJDZml1MUJGd0VMTE5hV2R1TmFrcl9tQnZISWRYNDBTdlBTOTFwaUprWFA0RUU3ZDJSYnBnOWE3TDd1R2RXWDNFcXdoUTlWSjJnQmI4YS1tRGtRbmNscXAyb0FYWFNBSVFnczB4bktkT3RtTnlweXVGbjNETDdEZXBfUDFXek13X3J0SHdqUE1QMWp2VUNKRjA0RS03WHlROGg0bFNTWC1GTGx1eG5Ndk1KeXNsdTBQTHgzQUdqUWkzcVZTUklTNVVWVTJQaGxRUTVYZnc2RmcxUDduY2g4dmc?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-02T23:50+08:00",
-   "query": "老街",
-   "url": "https://tw.news.yahoo.com/%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E5%B7%B7%E5%BC%84%E7%B9%81%E9%9B%9C-%E6%97%A5%E7%B1%8D%E5%B0%8E%E9%81%8A-%E5%9C%98%E5%AE%A2%E6%8A%84%E6%8D%B7%E5%BE%91-%E6%98%93%E8%B5%B0%E5%A4%B1-155000604.html",
    "resolved": true
   }
  ]
