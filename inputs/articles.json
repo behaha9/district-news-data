@@ -1,8 +1,8 @@
 {
- "fetched_at": "2026-11-04T12:17:17+08:00",
+ "fetched_at": "2026-11-04T14:44:43+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -17,12 +17,12 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -36,27 +36,8 @@
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://nownews.com/news/6885475": {
-   "checked_at": "2026-11-01T14:28+08:00",
-   "status": 200,
-   "published_at": "2026-10-22T09:18+08:00",
-   "site_name": "NOWnews今日新聞",
-   "description": "強颱薔琵（國際命名：CHAMPI）已逐漸逼近，根據中央氣象署預報，週五（10月23日）至週六（10月24日）上半天是薔琵颱風影響台灣最明顯的時候。本周末多個活動將延期或取...",
-   "cities": {
-    "桃園市": 2,
-    "苗栗縣": 2
-   },
-   "districts": [
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 828,
-   "image": "https://media.nownews.com/nn_media/thumbnail/2026/10/1792631604606-8b9564e3de334f3986ab2d052773c968-1200x675.webp?unShow=false",
-   "image_checked": true,
-   "date_hint": "2026-10-22",
-   "date_hint_from": "原文時間"
-  },
   "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -71,12 +52,12 @@
    "error": "'ascii' codec can't encode characters in position 13-23: ordinal not in range(128)"
   },
   "https://news.ebc.net.tw/search/tags/李慶隆/": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)"
   },
   "https://www.watchmedia01.com/archives/564050": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -91,17 +72,17 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.fclnews.com/235170/": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1482837": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.cts.com.tw/cts/politics/202611/202611013096051.html": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -122,204 +103,6 @@
    "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/27150913/taipei-cover-261027070910421.jpeg",
    "image_checked": true,
    "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.pchome.com.tw/living/1111news/20261029/index-79323649560105358009.html": {
-   "checked_at": "2026-11-01T14:28+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T09:14+08:00",
-   "site_name": "PChome Online 新聞",
-   "description": "崑山科大於海安商圈舉行第五屆綠色永續市集，現場人潮湧現。（圖／崑山科大提供） 崑山科技大學積極落實大學社會責任（USR），深耕在地產業與環境永續發揮影響力， 10月24日至25日在海安商圈隆重舉辦「第",
-   "cities": {},
-   "districts": [
-    "海安商圈（台南市）"
-   ],
-   "body_chars": 272,
-   "image": "https://news.pchome.com.tw/newsdata/living/1111news/20261029/79323649560105358009_original.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.pchome.com.tw/public/taiwanhot/20261027/index-79307955681030221016.html": {
-   "checked_at": "2026-11-01T14:28+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T13:39+08:00",
-   "site_name": "PChome Online 新聞",
-   "description": "記者陳榮昌／台中報導臺中市大甲觀光商店街區管理委員會昨日舉辦「翻玩大甲、發掘職人故事」體驗活動，把街區變成孩子認識家鄉的教室！以德美百貨為集合起點，串聯帽蓆職人、糕餅店家與媽祖文物館，邀請國",
-   "cities": {
-    "台中市": 4
-   },
-   "districts": [
-    "大甲觀光商圈（台中市）"
-   ],
-   "body_chars": 852,
-   "image": "https://news.pchome.com.tw/newsdata/public/taiwanhot/20261027/79307955681030221016_original.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.yesmedia.com.tw/%E9%AD%94%E6%B3%95%E5%92%96%E5%93%A9%E7%AB%99%E5%89%8D%E5%BA%97%E6%8E%A8199%E5%85%83%E8%B6%85%E5%80%BC%E4%B8%8B%E5%8D%88%E8%8C%B6%E3%80%8035%E6%AC%BE%E9%A3%B2%E5%93%81%E7%84%A1%E9%99%90%E6%9A%A2/": {
-   "checked_at": "2026-11-01T14:28+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T21:29+08:00",
-   "site_name": "是新聞 YesMedia | 網路原生即時新聞",
-   "description": "睿傳媒｜生活中心/綜合報導 以濃郁香料咖哩擄獲饕客味蕾的知名連鎖品牌「魔法咖哩」，今（30）日宣布，隱身於台北",
-   "cities": {
-    "台北市": 6
-   },
-   "districts": [],
-   "body_chars": 1141,
-   "image": "https://cdn.yesmedia.com.tw/wp-content/uploads/2026/10/20261030215015_18.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.worldjournal.com/wj/story/124997/9846832": {
-   "checked_at": "2026-11-01T14:28+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T14:15+08:00",
-   "site_name": "世界新聞網",
-   "description": "歷經十年商店關閉、店面閒置及人潮流失，芝加哥著名購物商圈「華麗一英里」(Magnificent Mile)正迎來復甦。隨著優衣庫(Uniqlo)、Hello Kitty Cafe等新店開幕，以及多家國際品牌準備進駐，北密西根大道商店空置率已從2025年的33.8%降至25.8%，顯示商圈逐步走出低潮。",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1842,
-   "image": "https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/30/35469032.jpg&M=2&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=800&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.pchome.com.tw/public/morenews/20261026/index-79302099691556350016.html": {
-   "checked_at": "2026-11-01T14:28+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T21:23+08:00",
-   "site_name": "PChome Online 新聞",
-   "description": "墨新聞｜記者馬源培／台中報導2026台中購物節開跑第3天，前2天消費登錄金額已突破5億5,581萬元！市府經濟發展局今（26）日於大里中興商圈舉辦首場戶外抽獎活動「2026台中購物節－屯區GOGO購」，結合親子表",
-   "cities": {
-    "台中市": 15
-   },
-   "districts": [
-    "大里中興商圈（台中市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1476,
-   "image": "https://news.pchome.com.tw/newsdata/public/morenews/20261026/79302099691556350016_original.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.pchome.com.tw/public/taipei/20261026/index-79300436041406126016.html": {
-   "checked_at": "2026-11-01T14:28+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T16:46+08:00",
-   "site_name": "PChome Online 新聞",
-   "description": "張溫德副市長驚喜變裝親臨現場同樂，為活動帶起最高潮！由臺北市商業處輔導台北市天母商圈發展協會辦理「天母搞什麼鬼18萬聖節嘉年華」今(26)日於天母運動公園熱鬧登場，今年適逢日本經典電子寵物「塔麻歌",
-   "cities": {
-    "台北市": 15,
-    "新竹縣": 3,
-    "新北市": 2,
-    "桃園市": 2,
-    "基隆市": 2
-   },
-   "districts": [
-    "天母商圈（台北市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1942,
-   "image": "https://news.pchome.com.tw/img/pchome_news_fb.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
-  "https://life.tw/article/%E9%AD%94%E6%B3%95%E5%92%96%E5%93%A9%E7%AB%99%E5%89%8D%E5%BA%97-%E9%A6%96%E5%BA%A6%E8%A7%A3%E9%8E%96%E4%B8%8B%E5%8D%88%E8%8C%B6%E6%99%82%E6%AE%B5199%E8%B6%85%E9%AB%98cp%E5%80%BC%E6%98%AF%E5%8F%B0%E5%8C%97%E8%BB%8A%E7%AB%99-3199107": {
-   "checked_at": "2026-11-01T14:28+08:00",
-   "status": 404,
-   "error": "HTTP Error 404: Not Found"
-  },
-  "https://today.line.me/tw/v3/article/Nv5wPmG?view=topic": {
-   "checked_at": "2026-11-01T14:28+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T17:16+08:00",
-   "site_name": "LINE TODAY",
-   "description": "台北市長選戰倒數28天，市長蔣萬安妻子石舫亘為夫掃街拜票行程今（10/31）轉戰大稻埕老街（迪化商圈）。但即便在屬綠營優勢的大同區，石仍展現...",
-   "cities": {
-    "台北市": 3
-   },
-   "districts": [],
-   "body_chars": 735,
-   "image": "https://today-obs.line-scdn.net/0hKDec3l0fFGtYGgjp73JrPGBMGBprfA5ieitTDXwbSQh1NgdtZnVHCHQfGEd9KgM5eCxbXXQaSF1yelM8Yg/w1200",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5621492": {
-   "checked_at": "2026-11-01T14:28+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T11:00+08:00",
-   "site_name": "自由時報電子報",
-   "description": "今年國旅市場出現明顯衰退，澎湖雖然推出國際海上花火節活動吸睛，但5至7月每月的旅遊人數跌破20萬大關，島上所有觀光相關產業都受衝擊，原本如雨後春筍蓬勃發展的民宿，出現拋售潮，租車、遊艇、特產等業者，都感受到觀光熱潮褪去壓力。澎湖國際海上花火節當年的設計初衷，希望在週一、週四淡季引進人潮，並提前在5月舉辦，以期無縫接軌7",
-   "cities": {
-    "澎湖縣": 22
-   },
-   "districts": [],
-   "body_chars": 1037,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/28/5621492_2_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5625483": {
-   "checked_at": "2026-11-01T14:28+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T10:37+08:00",
-   "site_name": "自由時報電子報",
-   "description": "藝人蔡康永日前忽然現身民進黨台北市候選人沈柏洋的造勢活動，事後接受王偉忠專訪，回應站出來的原因之一正是10月初台北市警方搜索西門町同志酒吧所引發的執法爭議。讓人意外的是，引發一連串風暴的同志酒吧「Commander D紅樓司令」今天（11月1日）凌晨於臉書宣布「因租約到期，營業到11月8日，有緣再相見」，引起各界議論紛",
-   "cities": {
-    "台北市": 6,
-    "澎湖縣": 2
-   },
-   "districts": [
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 1245,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/01/5625483_2_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261031968853": {
-   "checked_at": "2026-11-01T14:28+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T17:33+08:00",
-   "site_name": "蕃新聞",
-   "description": "報新聞/編輯部「2026臺南購物節」自9月7日開跑以來，民眾參與熱度持續升溫，累計消費登錄金額已突破",
-   "cities": {
-    "台南市": 21
-   },
-   "districts": [
-    "楠西商圈（台南市）"
-   ],
-   "body_chars": 1301,
-   "image": "https://ni.yam.com/20261031/tainan-cover-261031074410744-f24ccd725b30e288.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/article/Vxpr8ry": {
-   "checked_at": "2026-11-01T14:28+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T12:28+08:00",
-   "site_name": "LINE TODAY",
-   "description": "文／謝曉菁 新莊老街生活機能再升級！陪伴在地居民超過50年的新莊第一零售市場，歷經改造後於今（30日）重新啟用。新北市府投入約7035萬元，...",
-   "cities": {
-    "新北市": 7
-   },
-   "districts": [
-    "新莊廟街商圈（新北市）"
-   ],
-   "body_chars": 961,
-   "image": "https://today-obs.line-scdn.net/0h95TVjK7sZhppL3qZe1sZTVF5amtaSXwTS08tfkl6bCIQAyUbAho1eUQtMTYXH3NNSUx8eE4sOCNCHygcUw/w1200",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
    "date_hint_from": "原文時間"
   },
   "https://www.msn.com/zh-tw/news/other/%E9%80%A3%E8%B7%91%E5%85%A9%E6%94%A4%E5%B8%82%E6%94%BF%E8%A1%8C%E7%A8%8B-%E8%94%A3%E8%90%AC%E5%AE%89%E7%99%BD%E6%99%9D%E4%B9%8B%E5%A4%9C%E9%9A%A8%E9%9B%BB%E9%9F%B3%E7%86%B1%E8%88%9E-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gvd7o": {
@@ -723,7 +506,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1483649": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3921,12 +3704,12 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1484196": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1484068": {
-   "checked_at": "2026-11-03T15:01+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4030,7 +3813,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1484010": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4604,7 +4387,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.yesmedia.com.tw/%E8%97%8F%E8%BA%AB%E6%9D%B1%E6%B5%B7%E5%95%86%E5%9C%88%E7%9A%84%E5%B9%B3%E5%83%B9%E6%B8%AF%E5%BC%8F%E7%BE%8E%E9%A3%9F-%E7%8F%BE%E8%92%B8%E7%9F%B3%E7%A3%A8%E8%85%B8%E7%B2%89%E3%80%81%E6%B2%B3/": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4673,7 +4456,7 @@
    "date_hint_from": "原文時間"
   },
   "https://sunmedia.tw/news/finance/走一段路，找回生活的光！2026-微光健走・亞東漫遊熱鬧登場-1793609777075": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 18-29: ordinal not in range(128)"
   },
@@ -5425,7 +5208,7 @@
    "date_hint_from": null
   },
   "https://news.pchome.com.tw/travel/sharelife/20261102/index-79357760099": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 404,
    "error": "HTTP Error 404: Not Found"
   },
@@ -5602,7 +5385,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.yesmedia.com.tw/%e5%ae%9c%e8%98%ad%e5%8f%8b%e6%84%9b%e7%99%be%e8%b2%a8%e5%82%b3%e6%b1%82%e5%94%ae%ef%bc%81%e5%be%9e%e6%98%94%e6%97%a5%e5%95%86%e6%a5%ad%e5%9c%b0%e6%a8%99%e5%88%b0%e8%bd%89%e5%9e%8b%e5%8d%81%e5%ad%97/": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5824,12 +5607,12 @@
    "date_hint_from": "原文時間"
   },
   "https://news.housefun.com.tw/news/article/amp/187786490681.html": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://keelungplay.com/commercialdistrict-2/": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6581,7 +6364,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.fclnews.com/235770/": {
-   "checked_at": "2026-11-04T07:17+08:00",
+   "checked_at": "2026-11-04T14:44+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7765,6 +7548,148 @@
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
+  },
+  "https://newtalk.tw/news/view/2026-11-04/1069242": {
+   "checked_at": "2026-11-04T14:44+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T14:25+08:00",
+   "site_name": "Newtalk新聞",
+   "description": "國家住都中心今（4）日於新北市深坑區舉行「深坑安居」社會住宅新建統包工程動土典禮。該案為中央在新北市動土的第29處社宅，也是深坑區的首處，共計243戶居住單元，預計於2029年竣工，總工程經費約14億4,729萬元，由中央全額投資興建。「深坑安居」位於新北市深坑區文化街昇高橋旁，鄰近深坑國中、深坑國",
+   "cities": {
+    "新北市": 8,
+    "台北市": 1
+   },
+   "districts": [
+    "深坑老街商圈（新北市）"
+   ],
+   "body_chars": 667,
+   "image": "https://s.newtalk.tw/album/news/1070/6aeacf49649a0.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pchome.com.tw/living/1111news/20261029/index-79323649560105358009.html": {
+   "checked_at": "2026-11-04T14:44+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T09:14+08:00",
+   "site_name": "PChome Online 新聞",
+   "description": "崑山科大於海安商圈舉行第五屆綠色永續市集，現場人潮湧現。（圖／崑山科大提供） 崑山科技大學積極落實大學社會責任（USR），深耕在地產業與環境永續發揮影響力， 10月24日至25日在海安商圈隆重舉辦「第",
+   "cities": {},
+   "districts": [
+    "海安商圈（台南市）"
+   ],
+   "body_chars": 272,
+   "image": "https://news.pchome.com.tw/newsdata/living/1111news/20261029/79323649560105358009_original.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7241/9856917": {
+   "checked_at": "2026-11-04T14:44+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T14:11+08:00",
+   "site_name": "聯合新聞網",
+   "description": "國家住都中心4日於新北市深坑區舉行「深坑安居」社會住宅新建統包工程動土典禮。本案為中央在新北市動土的第29處社宅，也是深坑區的首處。243戶居住單元預計2029年竣工，總工程經費約14億4,729萬元，由中央全額投資興建。",
+   "cities": {
+    "新北市": 10,
+    "台中市": 2,
+    "台北市": 1,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 1818,
+   "image": "https://udn.com/static/img/UDN_BABY.png",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/amp/story/7326/9856210": {
+   "checked_at": "2026-11-04T14:44+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T11:00+08:00",
+   "site_name": "聯合新聞網",
+   "description": "嘉義市中山路設置8組科技執法，針對並排停車、臨停等取締，累計取締1萬1300件，每月違規件數從460件大幅降至20件，交通順暢。不過，市議員上午質詢，科技執法雖改善交通，卻衝擊商圈擊，車水馬龍景象消失，店家門可羅雀，至少20間店面出租、閒置或出售，人潮不再，要求市府研議兼顧交通安全與商業繁榮作法。警局長陳明志答詢，會檢",
+   "cities": {
+    "嘉義市": 4
+   },
+   "districts": [],
+   "body_chars": 698,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35483446.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/society/breakingnews/5629065": {
+   "checked_at": "2026-11-04T14:44+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T14:22+08:00",
+   "site_name": "自由時報電子報",
+   "description": "新竹縣湖口鄉台灣松下多層材料公司今（4日）凌晨發生嚴重工廠火警，衝擊波威力驚人，附近有民宅和其他公司的玻璃門窗被震碎，整扇門變形、天花板掉落，滿地玻璃碎片，回想當時連二接三的爆炸聲響，讓周邊居民心有餘悸。這起火警已造成5名員工受傷送醫，另有2名員工失聯，消防人員持續灌救及搜救。湖口鄉長吳淑君表示，台灣松下公司承諾全權負",
+   "cities": {
+    "新竹縣": 6,
+    "桃園市": 1
+   },
+   "districts": [],
+   "body_chars": 1323,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/04/5629065_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5628919": {
+   "checked_at": "2026-11-04T14:44+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T12:25+08:00",
+   "site_name": "自由時報電子報",
+   "description": "嘉義縣鹿草風華特色文化商圈發展協會推廣台灣特產，日前到日本沖繩與社團法人琉球台灣工商協會簽署合作意向書（MOU），雙方將在特色農產與加工食品推廣、商業通路媒合、文化觀光及會員互訪進行合作，而鹿草商圈特色伴手禮如紅心土芭樂米餅、果乾、蜂蜜、產銷履歷米等商品將於今年12月在沖繩台灣餐館「Mr.WU台湾屋台丸」專櫃上架，讓沖",
+   "cities": {
+    "嘉義縣": 15,
+    "台南市": 1,
+    "高雄市": 1
+   },
+   "districts": [
+    "鹿草風華商圈（嘉義縣）"
+   ],
+   "body_chars": 1115,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/04/5628919_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7326/9856799": {
+   "checked_at": "2026-11-04T14:44+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T13:34+08:00",
+   "site_name": "聯合新聞網",
+   "description": "明華園戲劇總團旗艦大戲「貓神」定14日周末晚間7時，在嘉義市東區舊燈會區（空軍市場）戶外演出，由「無敵小生」孫翠鳳領銜主演。這齣經典大戲原訂演出2度受到颱風影響延期，經文化局與劇團積極協調，終於敲定重新登場，將以華麗舞台、精湛演技及奇幻劇情，帶給嘉義市民一場歌仔戲藝術盛宴。",
+   "cities": {
+    "嘉義市": 26,
+    "台南市": 2,
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 2254,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35484368.jpg&M=1&s=Y&x=0&y=0&sw=1081&sh=720&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://nownews.com/news/6885475": {
+   "checked_at": "2026-11-04T14:44+08:00",
+   "status": 200,
+   "published_at": "2026-10-22T09:18+08:00",
+   "site_name": "NOWnews今日新聞",
+   "description": "強颱薔琵（國際命名：CHAMPI）已逐漸逼近，根據中央氣象署預報，週五（10月23日）至週六（10月24日）上半天是薔琵颱風影響台灣最明顯的時候。本周末多個活動將延期或取...",
+   "cities": {
+    "桃園市": 2,
+    "苗栗縣": 2
+   },
+   "districts": [],
+   "body_chars": 830,
+   "image": "https://media.nownews.com/nn_media/thumbnail/2026/10/1792631604606-8b9564e3de334f3986ab2d052773c968-1200x675.webp?unShow=false",
+   "image_checked": true,
+   "date_hint": "2026-10-22",
+   "date_hint_from": "原文時間"
   }
  }
 }
