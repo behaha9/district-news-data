@@ -1,15 +1,13 @@
 {
- "fetched_at": "2026-11-04T20:50:51+08:00",
+ "fetched_at": "2026-11-04T21:37:41+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 96,
-  "kept": 41,
-  "resolved": 41,
-  "items": 40,
-  "resolve_this_run": {
-   "online": 5
-  },
+  "raw": 98,
+  "kept": 38,
+  "resolved": 38,
+  "items": 37,
+  "resolve_this_run": {},
   "dropped_old": [
    "新竹11月仙草花海盛開，仙草料理、百年茶廠、老街景點一次玩（原文日期 2026-09-09）"
   ]
@@ -33,6 +31,16 @@
    "published_at": "2026-11-04T18:26+08:00",
    "query": "商圈",
    "url": "https://www.cna.com.tw/news/aloc/202611040292.aspx",
+   "resolved": true
+  },
+  {
+   "title": "討論牆 | 鶯歌老街借錢遭拒! 男子搶走4萬元現金落跑 6小時新竹落網",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zbkp2c3NpNFRBUV9YQnRoYW1Gb2RnSlNHbkdWdlFqZjNYMjFZT1h4dTZya21jUzhpNnExbkh3M3RTbVc4NUxmSEJVVDRDZ3pNMFN4TC0tSmJ0UFFRcG9JUXVuVEs?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-04T18:23+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/BEmQrV2",
    "resolved": true
   },
   {
@@ -126,16 +134,6 @@
    "resolved": true
   },
   {
-   "title": "建商獵地台中三商圈夯- 產業特刊- 工商時報",
-   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wOFN2QjRGbllpREZqRS1BN1BtLUJxMi12X3VFSFRrLURIZlZ0TEhuSmpsbDN4dUNNQnhMaXFFbEhqd1lEeXlaRjJuQW5pb0RvZG5rcWxST0ZNYUZHQ2Q0OWhEbVBOTkVmVDFF?oc=5",
-   "source": "中時新聞網",
-   "source_site": "https://www.chinatimes.com",
-   "published_at": "2026-11-04T04:10+08:00",
-   "query": "商圈",
-   "url": "https://www.chinatimes.com/newspapers/20261104000344-260210",
-   "resolved": true
-  },
-  {
    "title": "舊商圈翻新 永和頂溪公辦都更",
    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVmJwcENmZF9UcVR4ZVczMVZ1cmp6dkRJcWM3Y3hiTXJoeWJES0doM1JWUm9KZGtZM3RaemFzblFnTG9OTkVEM3NES2xwNzJLanFzUkYwdWh6VzF0ZHFnLXhjTV96YkRiQl9F?oc=5",
    "source": "中時新聞網",
@@ -143,6 +141,16 @@
    "published_at": "2026-11-04T04:10+08:00",
    "query": "商圈",
    "url": "https://www.chinatimes.com/newspapers/20261104000643-260107",
+   "resolved": true
+  },
+  {
+   "title": "建商獵地台中三商圈夯- 產業特刊- 工商時報",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wOFN2QjRGbllpREZqRS1BN1BtLUJxMi12X3VFSFRrLURIZlZ0TEhuSmpsbDN4dUNNQnhMaXFFbEhqd1lEeXlaRjJuQW5pb0RvZG5rcWxST0ZNYUZHQ2Q0OWhEbVBOTkVmVDFF?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-04T04:10+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/newspapers/20261104000344-260210",
    "resolved": true
   },
   {
@@ -203,16 +211,6 @@
    "published_at": "2026-11-03T18:05+08:00",
    "query": "商圈",
    "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E5%B9%B8%E9%81%8B%E6%B0%91%E7%9C%BE%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-100508281.html",
-   "resolved": true
-  },
-  {
-   "title": "「2026天光威購節」天光大市集登場 「好客威購卡」串聯市集與商圈優惠至12/20",
-   "google_url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQR1Vzb1FaZHNfTjFNOFpqWER0UGdLT28wY3dFTHVxRHhQYXN2OThhaEJONGxTWjNsUTk4T1phbEZaWTQxVlJ6MlNNQkZ1clhWanpSMjhtaFgzME5BaVZpcTVmT2tLQnFMcmtZajhBby12dVFrbXg4eWlrTWxrdzdOSnRsSHFfREt4MFBwR1hRS0U3OV9SMHNGanFzMTItcUlnZUJ6SW1zQ0w0TkZqZlJNR0JDWWpwOVVuN3ZmVnFwZjNQcGJSYXRzR2trMTFYdk9tRW90M1kxX3FnYzlTTTVLMFpLYVRiMXY1ZS1lTjhZelJtbExtWVcyZ3dnbkFqa01oM082Y3NVZkFsdkdocmZ3VUVJRkNiTFRWQjU1RklYMnZPWjh1enFtZVBONksyUk9ocl8xU0FWOFVtZk8yNGZoTnFzcnhjRTltU0lxNUJTVTMxcWlYdVEwV2FWTnV4M2tLekRmMlJkaU9NRW1hQjFmMENsNU14VHJmUzdOUHVGLW90ZllLS3ZlN1JRQk5tLUlBaDVDVUpGWWRJYmxGbEpMemw5bm5YSlpDcmRLQTg3aTMyeVhkVWFsdU1UejZEUS1xc0hwRnlUQWNhX29YOWJkUERB?oc=5",
-   "source": "台灣好新聞",
-   "source_site": "https://www.taiwanhot.net",
-   "published_at": "2026-11-03T17:43+08:00",
-   "query": "商圈",
-   "url": "https://www.taiwanhot.net/news/1152859/%E3%80%8C2026%E5%A4%A9%E5%85%89%E5%A8%81%E8%B3%BC%E7%AF%80%E3%80%8D%E5%A4%A9%E5%85%89%E5%A4%A7%E5%B8%82%E9%9B%86%E7%99%BB%E5%A0%B4+%E3%80%8C%E5%A5%BD%E5%AE%A2%E5%A8%81%E8%B3%BC%E5%8D%A1%E3%80%8D%E4%B8%B2%E8%81%AF%E5%B8%82%E9%9B%86%E8%88%87%E5%95%86%E5%9C%88%E5%84%AA%E6%83%A0%E8%87%B312-20",
    "resolved": true
   },
   {
@@ -383,36 +381,6 @@
    "published_at": "2026-11-02T23:50+08:00",
    "query": "老街",
    "url": "https://tw.news.yahoo.com/%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E5%B7%B7%E5%BC%84%E7%B9%81%E9%9B%9C-%E6%97%A5%E7%B1%8D%E5%B0%8E%E9%81%8A-%E5%9C%98%E5%AE%A2%E6%8A%84%E6%8D%B7%E5%BE%91-%E6%98%93%E8%B5%B0%E5%A4%B1-155000604.html",
-   "resolved": true
-  },
-  {
-   "title": "老街溪航心橋上游步道明年2月動工",
-   "google_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVEI5NUNJR2czWVZTckc3eFFPVFBlR3RUb3F1QUp0Q29jdm9LSnRvYWhvSnM4dXFzc215SGgyd0JmUTZNeEZEa1NNLUNoOUIzZjlET0hwbEFmejRYNmZweldTS0ZnRDkzX0d1UTlDMVdPeTJmbk95TkZmc195aHhfcm9ocjlmUy1Odk5BbVJlaXJOcjFxbWlkMFJNa29BN0pXMVhHd0pMUzA3bzFDalFmVjZwZ2JRWHhKMWd1Q1c0M3F4VnZFSHZjOUE5cUZqMWZ3SjA5YUpuS3V3ZllVTlU5RXBJSllhUFRReFpZbEliY0Vna29hQVNOcmVKaFNKLU5PQmlFVFZzRHk?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-02T21:22+08:00",
-   "query": "老街",
-   "url": "https://tw.news.yahoo.com/%E8%80%81%E8%A1%97%E6%BA%AA%E8%88%AA%E5%BF%83%E6%A9%8B%E4%B8%8A%E6%B8%B8%E6%AD%A5%E9%81%93%E6%98%8E%E5%B9%B42%E6%9C%88%E5%8B%95%E5%B7%A5-132231577.html",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 大園老街溪補齊串聯兩岸重要節點 航心橋上游步道明年6月完工",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoSENnTkEzSzhYdVlqcDBMekUtSVdrSXV0N0ZpaDExcmI2eEhzeU52R0labmpIeDU5ZWxwdExtNlozNzZRVXo4cGhmdHl0d1FSNGM2N2otSXo3MV92ZE1nMkJMeWk?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-02T21:20+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/GgNmPXY",
-   "resolved": true
-  },
-  {
-   "title": "市府代售地47標 國華商圈在列",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnX1lkeXQ0NEppY2xKQTNRWlEyY0U5ZVJaZFRVemM3QzNJUEYyU25Ra1FaU1Yxb3AzTXFZeTN6dHlPNGRxSGxCN3EyWEp6MW9TdkE?oc=5",
-   "source": "中華新聞雲／中華日報",
-   "source_site": "https://www.cdns.com.tw",
-   "published_at": "2026-11-02T20:53+08:00",
-   "query": "商圈",
-   "url": "https://www.cdns.com.tw/articles/1484196",
    "resolved": true
   }
  ]

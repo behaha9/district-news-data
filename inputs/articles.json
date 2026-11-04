@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T20:51:01+08:00",
+ "fetched_at": "2026-11-04T21:37:51+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-11-04T20:51+08:00",
@@ -3518,9 +3518,20 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1484068": {
-   "checked_at": "2026-11-04T14:44+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T18:31+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者陳華興／桃園報導 桃園市長張善政二日上午前往大園區，視察「老街溪航心橋上游左岸新設人行步道工程」。張善政表示，航心橋上游步道雖僅約一百公尺，卻是串聯老街溪兩岸步道系統的重要節點，也是地方鄉親期盼已久的建設。市府已完成相關規劃，預計明（一一六）年二月動工，六月完工，將持續掌握工程進度，確保工程如期如質完成。 張善政指",
+   "cities": {
+    "桃園市": 6
+   },
+   "districts": [],
+   "body_chars": 629,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/02183053/77005a-20261102143954794-0-1024x659.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
   },
   "https://www.storm.mg/lifestyle/11176683": {
    "checked_at": "2026-11-02T20:56+08:00",
@@ -8184,6 +8195,405 @@
    "image_checked": true,
    "date_hint": "2026-11-04",
    "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E5%90%8A%E8%BB%8A%E4%B8%80%E8%BD%89-%E6%93%8A%E7%A0%B4%E5%85%AC%E8%BB%8A%E7%8E%BB%E7%92%83-%E5%9A%87%E5%A3%9E%E4%B9%98%E5%AE%A2-shorts/vi-AA2gvX6Y": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.msn.com/zh-tw/news/other/%E7%8D%A8%E5%AE%B6-%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E7%88%86%E6%B7%B1%E5%A4%9C%E5%8D%B1%E6%A9%9F-%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E9%81%AD%E4%BA%AE%E5%88%80%E6%81%90%E5%9A%87-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gsHH6": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.yesmedia.com.tw/%e8%87%ba%e5%8d%97%e8%b3%bc%e7%89%a9%e7%af%80%e6%b6%88%e8%b2%bb%e7%aa%81%e7%a0%b430%e5%84%84%e5%85%83%ef%bc%81%e5%8a%a0%e7%a2%bc%e6%8a%bd%e9%9b%bb%e5%8b%95%e8%bb%8a11%e6%9c%88%e5%95%86%e5%9c%88/": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E9%A3%B2%E6%96%99%E5%BA%97%E4%BA%BA%E6%BD%AE%E7%95%B6%E6%8E%A9%E8%AD%B7-%E5%8D%97%E7%A7%91%E5%95%86%E5%9C%88%E6%9A%97%E8%97%8F%E6%87%89%E5%8F%AC%E7%AB%99-%E4%B8%BB%E6%89%93-%E5%88%B6%E6%9C%8D%E8%AE%8A%E8%A3%9D-%E7%8B%82%E5%90%B8%E5%AE%A2/ar-AA2gp9XW": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.msn.com/zh-tw/money/%E4%B8%BB%E7%AE%A1%E9%A0%98%E5%B0%8E%E8%83%BD%E5%8A%9B%E5%92%8C%E7%AE%A1%E7%90%86/%E5%91%82%E6%94%BF%E7%92%8B%E5%87%BA%E4%BB%BB%E5%A8%81%E7%A7%80%E5%BD%B1%E5%9F%8E%E8%91%A3%E5%BA%A7-%E6%8E%A8%E5%8B%95%E5%95%86%E5%9C%88%E5%85%B1%E6%A6%AE-%E4%BA%BA%E6%BD%AE%E5%85%B1%E4%BA%AB/ar-AA2goBMn": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://money.udn.com/money/story/5635/9846209": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T16:02+08:00",
+   "site_name": "經濟日報",
+   "description": "威秀影城日前宣布，經董事會選任，由具多元跨界豐富背景的呂政璋博士出任董事長，兼具企業創辦、跨國經營、國際投資併購及公司治理等實務經驗，將推動「商圈共榮、人潮共享、會員共好」策略，與團隊攜手深耕台灣，推動公司穩健發展。",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 924,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/30/35467952.jpg&M=1&s=Y&x=0&y=0&sw=914&sh=1166&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.knews.com.tw/news/EA572948B8AD95168A10F9C6FAE89A53": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T10:01+08:00",
+   "site_name": "知新聞",
+   "description": "【政治中心／台北報導】縣市長選戰倒數28天，台北市長蔣萬安與對手、民進黨候選人沈伯洋今天中午展開首場電視辯論，蔣萬安前兩天因為市政、選舉兩頭燒，聲音沙啞、破病暫停行程，其妻石舫亘29日起代夫掃街拜票，輔選效果佳，人氣不輸蔣萬安，今邁入第三天陸戰，下午1530赴迪化商圈掃街拜票。《知新聞》全程直播，現場直擊第一手互動。",
+   "cities": {
+    "台北市": 5,
+    "台東縣": 1
+   },
+   "districts": [
+    "南機場商圈（台北市）"
+   ],
+   "body_chars": 1106,
+   "image": "https://static.kmedia.com.tw/prd/2026/1030/photo/9030acb851b584b961fa096dec8fe8f6.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261030548897": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T18:47+08:00",
+   "site_name": "蕃新聞",
+   "description": "【互傳媒／記者 張學宜／台中 報導】台中物調券第二波今（30）日熱鬧登場！全市21處商圈下午接力發放",
+   "cities": {
+    "台中市": 10
+   },
+   "districts": [
+    "美術園道商圈（台中市）",
+    "天津路服飾商圈（台中市）",
+    "后里泰安商圈（台中市）",
+    "台中港舶來品商圈（台中市）"
+   ],
+   "body_chars": 1178,
+   "image": "https://ni.yam.com/20261030/c797f7d3d020ba0126d23588d4c9fbb8-b936cea4a62a9c3f.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.cts.com.tw/cts/politics/202610/202610293095305.html": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T18:15+08:00",
+   "site_name": "華視新聞網",
+   "description": "沈伯洋慈祐宮參香憶童年　提「串聯商圈」新願景",
+   "cities": {
+    "台北市": 6
+   },
+   "districts": [],
+   "body_chars": 751,
+   "image": "https://www.cts.com.tw/data/news/photo/cts/202610/202610293095305.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.cts.com.tw/cna/local/202610/202610313096019.html": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T21:34+08:00",
+   "site_name": "華視新聞網",
+   "description": "馬公萬聖節踩街　親子萌鬼湧中正商圈同樂",
+   "cities": {
+    "澎湖縣": 1
+   },
+   "districts": [],
+   "body_chars": 433,
+   "image": "https://www.cts.com.tw/data/images/news/photo/cna/202610/202610313096019.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://hao.cnyes.com/post/275232": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T20:53+08:00",
+   "site_name": "鉅亨號",
+   "description": "魔法咖哩台北站前店正式推出「Tea Time 午後慢享時光」下午茶專案，主打199元包含手作甜點與35種冷熱飲無限暢飲，並提供專屬金屬保溫杯提升飲用體驗。此舉旨在將北車商圈的鬧中取靜之處轉化為都市人放鬆的空間，有效利用離峰時段增加營收與吸引更多客群。",
+   "cities": {
+    "台北市": 9
+   },
+   "districts": [],
+   "body_chars": 952,
+   "image": "https://hao.cnyes.com/download_image.ashx?file=%2FUpload%2F848e879c6def45078431ec1073ef887f.png",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ctee.com.tw/news/20261104701677-431201": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T16:41+08:00",
+   "site_name": "工商時報",
+   "description": "為了更貼近客戶的投資理財需求，凱基證券忠孝分公司於11月4日正式開幕，新據點座落於台北市大安區核心地段，鄰近信義計畫區與東區商圈，交通便利、商業活動活絡。凱基證券透過設立忠孝分公司，進一步擴大服務據點布局，結合證券專業與集團資源整合優勢，提供客戶更便利、多元且舒適的投資理財服務體驗。 凱基證券表示，...",
+   "cities": {
+    "台北市": 6
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 984,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-04/1024/20261104701678.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261031551016": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T19:03+08:00",
+   "site_name": "蕃新聞",
+   "description": "《開火開伙》重返一中街！玖壹壹健志自封「廖可靠」 鄭智善徒手揉高溫芋泥驚呆全場由 TVBS、LINE",
+   "cities": {
+    "台中市": 3
+   },
+   "districts": [
+    "一中街商圈（台中市）"
+   ],
+   "body_chars": 923,
+   "image": "https://ni.yam.com/20261031/135247996571848_1422139690026427_0-4c46ad09ae1c318f.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/politics/4043062": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T15:55+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "花蓮市長候選人戴于文今（29）日召開「再造金三角 戴你換新衫」政策記者會，正式提出「金三角再造計畫」，主張從文化再造、交通改善、店家活化三大方向著手，以舊鐵道商圈及客來堡作為雙核心，推動花蓮市中心轉型。戴于文指出，金三角曾是花蓮最繁榮的商業中心，如今卻面臨空店增加、人潮流失及交通環境不佳等問題，直言魏嘉賢、魏嘉彥兄弟執",
+   "cities": {
+    "花蓮縣": 15,
+    "台北市": 6
+   },
+   "districts": [
+    "西門町商圈（台北市）",
+    "舊城商圈（高雄市）",
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 1829,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a186a5-750f-7244-b4ac-a6eeb851a388.jpg?t=16x9&c=0,46,721,452&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.wearn.com/c2135848.html": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "�E�]��",
+   "description": "�۫~�ͬ������X�i�q���A���Ѥ��i���o�x�_���B���s���ӾQ�ϥ��v�겣�A�w�p���~��1�u��˧����}���A���ӱN���p�۫~�ͬ��n��B�a�U...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 185,
+   "image": "https://news.wearn.com/images/readmore.png",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.nextapple.com/tag/%E5%8F%B0%E4%B8%AD%E4%B8%80%E4%B8%AD%E8%A1%97/eb46cc32ecef5aeb7e2c0f87a47419ef": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T11:37+08:00",
+   "site_name": "壹蘋新聞網",
+   "description": "《壹蘋新聞網》收錄與台中一中街相關的新聞、專題與深度內容。掌握台中一中街的最新動態、人物故事、影音報導與網路熱門討論，一次看懂完整話題，立即掌握最新動態！",
+   "cities": {
+    "台中市": 17,
+    "台北市": 2,
+    "彰化縣": 2,
+    "台南市": 1,
+    "高雄市": 1
+   },
+   "districts": [
+    "一中街商圈（台中市）"
+   ],
+   "body_chars": 1672,
+   "image": "https://static.nextapple.tw/web/layout/img/index.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.nextapple.com/life/20261101/533CAE3D47D8B381EF58AB1F79845570": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T10:38+08:00",
+   "site_name": "壹蘋新聞網",
+   "description": "台北西門町街頭究竟藏了多少垃圾？環境部長彭啓明在社群平台發文分享，日前舉辦一場「Spogomi（運動撿垃圾）」熱身示範賽，現場共有12隊、60名參賽者，在西門町商圈進行50分鐘的撿垃圾競賽，最後總計清出約65公斤垃圾，其中最驚人的就是將近1…",
+   "cities": {
+    "台北市": 16,
+    "彰化縣": 2,
+    "台中市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 4000,
+   "image": "https://static-cdn.nextapple.tw/prod/2026-11/533CAE3D47D8B381EF58AB1F79845570/4ea1e575c6b748fd61b983e800acc02e_1280.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.hsnews.com.tw/political-news/dai-yu-wen-ti-zai-zao-jin-san-jiao-ji-hua-yu-zheng-shi-shang-quan-zhuan-xing-wen-ti.html": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T19:55+08:00",
+   "site_name": "花蓮最速報",
+   "description": "花蓮市長候選人戴于文今（29）日召開「再造金三角...",
+   "cities": {
+    "花蓮縣": 13,
+    "台北市": 4
+   },
+   "districts": [
+    "西門町商圈（台北市）",
+    "舊城商圈（高雄市）",
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 1786,
+   "image": "https://www.hsnews.com.tw/images/2026/10/29/img_3128_large.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.contentplatform.info/articles/557107/%E5%8F%B0%E5%8D%97%E8%B3%BC%E7%89%A9%E7%AF%80%E7%99%BB%E9%8C%84%E7%A0%B430%E5%84%84%E5%85%83%E3%80%8011%E6%9C%88%E5%95%86%E5%9C%88%E6%B4%BB%E5%8B%95%E3%80%81%E8%81%96%E8%AA%95%E9%BB%9E%E7%87%88/": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T17:33+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "「2026臺南購物節」自9月7日開跑以來，民眾參與熱度持續升溫，累計消費登錄金額已突破30億元！隨著雙11購物檔期及百貨週年慶陸續登場，11月臺南還有一系列精彩商圈活動、聖誕點燈及文化展演接力登場。臺南秋冬氣候宜人，少了夏日的炙熱，多了適合漫步街巷的愜意，正是出遊走訪臺南的極佳時機！臺南市政府邀請…",
+   "cities": {
+    "台南市": 25
+   },
+   "districts": [
+    "楠西商圈（台南市）"
+   ],
+   "body_chars": 1218,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/31154412/tainan-cover-261031074410744.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.cnyes.com/news/id/6640627": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T16:47+08:00",
+   "site_name": "鉅亨網",
+   "description": null,
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 745,
+   "image": "https://cimg.cnyes.cool/prod/news/6640627/o/eb20a91ec561f8e3df830203af75f9b4.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pts.org.tw/article/834330": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T20:08+08:00",
+   "site_name": "公視新聞 PNN",
+   "description": "空軍今（4）日接連發生2起飛安事件。上午有學員駕駛T-34型教練機進行單飛訓練，降落高雄岡山基地跑道時出現重落地狀況，造成飛機前鼻輪受損。空軍上午證實是新進學員操作問題導致機件輕損；下午則有F-16戰鬥機準備降落台中清泉崗基地時，因液壓系統故障，只能手動放下起落架，導致落地後鼻輪鎖死、卡在跑道上無法移動，機場一度暫停起",
+   "cities": {
+    "台中市": 2,
+    "高雄市": 2
+   },
+   "districts": [],
+   "body_chars": 715,
+   "image": "https://news-data.pts.org.tw/media/300663/conversions/kLUa3UsiMAdgYpr8uPLeKflnJVwGwRa0HvUrXRdI-og_jpg.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.marieclaire.com.tw/lifestyle/travel/96775": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T00:55+08:00",
+   "site_name": "Marie Claire 美麗佳人",
+   "description": "2026萬聖節10/31就在本週六，從大型南瓜燈光秀、變裝遊行到討糖，無論你偏好可愛溫馨的親子活動，還是追求心跳加速的驚悚體驗，我們精選全台8處特色慶典，等你親臨現場感受。",
+   "cities": {
+    "新竹市": 4,
+    "桃園市": 3,
+    "台南市": 2,
+    "高雄市": 2,
+    "台北市": 1
+   },
+   "districts": [
+    "板橋府中商圈（新北市）",
+    "成大商圈（台南市）"
+   ],
+   "body_chars": 1776,
+   "image": "https://ia.marieclaire.com.tw/assets/mc/202610/6AE1FA56C04AC1793194582.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://travel.ettoday.net/article/3263472.htm": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T15:21+08:00",
+   "site_name": "ETtoday旅遊雲",
+   "description": "台中星享道雅樂軒酒店慶祝掛牌，祭出Buffet平日午晚餐每位688元、假日每位888元的優惠價，活動原本只到明天，不過業者昨日宣布延長到11月30日。",
+   "cities": {
+    "台中市": 10,
+    "台北市": 1,
+    "高雄市": 1,
+    "嘉義": 1
+   },
+   "districts": [
+    "逢甲商圈（台中市）"
+   ],
+   "body_chars": 1218,
+   "image": "https://cdn2.ettoday.net/images/8965/e8965582.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.thepaper.cn/newsDetail_forward_34358537": {
+   "checked_at": "2026-11-04T21:37+08:00",
+   "status": "error",
+   "error": "The read operation timed out"
   }
  }
 }
