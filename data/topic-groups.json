@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-04T21:10:00+08:00",
+  "updated_at": "2026-11-05T16:55:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -168,6 +168,10 @@
         {
           "url": "https://udn.com/news/ai/answer/%E7%B6%93%E6%BF%9F%E9%83%A8%E5%A6%82%E4%BD%95%E6%87%89-59271827",
           "reason": "聯合新聞網 AI 問答頁，非新聞報導"
+        },
+        {
+          "url": "https://news.pchome.com.tw/expense/m00361/20261105/index-79385610973985361013.html",
+          "reason": "SOGO 週年慶促銷，與食用油荒議題無關"
         }
       ]
     }

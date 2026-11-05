@@ -1,7 +1,37 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T12:19:06+08:00",
+ "generated_at": "2026-11-05T16:50:54+08:00",
  "items": [
+  {
+   "id": "20261105-chiayi-erton",
+   "title": "嘉義二通商圈老店轉型成觀光亮點，議員促建遮雨遮陽徒步街",
+   "summary": "議員質詢指二通商圈老店轉型、特色店家進駐帶動人潮，建議市府參考日韓商店街模式，評估設置遮雨遮陽徒步街並改善商圈環境。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-05T12:43:00+08:00",
+   "cities": [
+    "嘉義市"
+   ],
+   "districts": [
+    {
+     "name": "二通商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7326/9859177",
+     "published_at": "2026-11-05T12:43:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/vote2026/story/7326/9859177",
+     "published_at": "2026-11-05T12:43:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35487956.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
+  },
   {
    "id": "20261105-nanchang-furniture-fair",
    "title": "南昌家具商圈11月7、8日舉辦「南昌家聚節」",
@@ -2623,83 +2653,6 @@
     }
    ],
    "image": "https://ni.yam.com/20261022/2e8b708d5cfdd7026121c19db6c81aae-19392e1f0c77f60c.webp"
-  },
-  {
-   "id": "20261022-guguan-wudiaoquan-pig",
-   "title": "台中物調券活動10月31日在谷關溫泉辦「烤大豬」，結合市集與摸彩",
-   "summary": "台中經發局為推動特色市集行銷，將於10月31日在谷關溫泉舉辦物調券搭配烤大豬活動，邀民眾領券、逛市集、抽好禮。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-22T13:14:00+08:00",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    {
-     "name": "谷關商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "谷關商圈為115年補助名單，活動已公開，可作為執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "壹蘋新聞網",
-     "url": "https://news.nextapple.com/life/20261022/E3838BA38868EA4690342B349BDA2C5C",
-     "published_at": "2026-10-22T13:14:00+08:00"
-    }
-   ],
-   "image": "https://static-cdn.nextapple.tw/prod/2026-10/E3838BA38868EA4690342B349BDA2C5C/dd44d314f914b8ef63ace833e70e88b1_1280.jpeg"
-  },
-  {
-   "id": "20261021-lukang-wall-collapse",
-   "title": "薔琵逼近彰化沿海強風，鹿港老街古厝磚牆坍塌",
-   "summary": "薔琵颱風逼近，彰化沿海颳10級強陣風，鹿港老街一處古厝磚牆坍塌，報導指現場有災情。",
-   "category": "商圈動向",
-   "alert": "商圈受災",
-   "published_at": "2026-10-22T13:06:00+08:00",
-   "cities": [
-    "彰化縣"
-   ],
-   "districts": [
-    {
-     "name": "鹿港老街商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "鹿港老街商圈為115年補助名單，老街受損可能影響商圈營運與活動執行，可留意後續復原情形。",
-   "sources": [
-    {
-     "outlet": "鏡週刊",
-     "url": "https://www.mirrormedia.mg/external/setn_1926638",
-     "published_at": "2026-10-22T13:06:00+08:00"
-    },
-    {
-     "outlet": "ETtoday新聞雲",
-     "url": "https://ettoday.net/news/20261022/3259040.htm",
-     "published_at": "2026-10-22T12:32:00+08:00"
-    },
-    {
-     "outlet": "三立新聞網",
-     "url": "https://msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%80%BC%E8%BF%91-%E5%BD%B0%E5%8C%96%E6%B2%BF%E6%B5%B7%E7%8B%82%E5%88%AE10%E7%B4%9A%E5%BC%B7%E9%A2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97-%E8%80%81%E7%89%86%E5%9D%8D%E5%A1%8C-%E6%85%98%E6%B3%81%E6%9B%9D%E5%85%89/ar-AA2fMCyP",
-     "published_at": "2026-10-22T06:06:00+08:00"
-    },
-    {
-     "outlet": "華視新聞網",
-     "url": "https://news.cts.com.tw/cts/general/202610/202610223092981.html",
-     "published_at": "2026-10-22T00:00:00+08:00"
-    },
-    {
-     "outlet": "工商時報",
-     "url": "https://www.ctee.com.tw/news/20261022702089-431401",
-     "published_at": "2026-10-22T00:00:00+08:00"
-    },
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/Changhua/breakingnews/5614750",
-     "published_at": "2026-10-21T22:53:00+08:00"
-    }
-   ],
-   "image": "https://attach.setn.com/newsimages/2026/10/22/5758360-PH.jpg"
   }
  ],
  "discussions": []
