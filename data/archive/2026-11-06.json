@@ -1,0 +1,99 @@
+{
+ "date": "2026-11-06",
+ "runs": [
+  {
+   "at": "2026-11-06T07:18:47+08:00",
+   "added": 3,
+   "merged": 0,
+   "items": [
+    {
+     "id": "20261105-chiyuan-wanshen-roadright",
+     "title": "赤嵌萬神節活動前5天才取得路權，商圈內部對經發局公文流程不滿",
+     "summary": "報導指赤嵌商圈萬聖活動今年活動前5天才確定取得路權，內部成員不滿市府經發局遲未提供公文，準備陳情，經發局另有回應。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-05T16:38:00+08:00",
+     "cities": [
+      "台南市"
+     ],
+     "districts": [
+      {
+       "name": "赤嵌商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "中時新聞網",
+       "url": "https://www.chinatimes.com/realtimenews/20261105004024-260402",
+       "published_at": "2026-11-05T16:38:00+08:00"
+      }
+     ],
+     "image": "https://images.chinatimes.com/newsphoto/2026-11-05/656/20261105004025.jpg"
+    },
+    {
+     "id": "20261105-chifeng-rent",
+     "title": "中山商圈赤峰街人潮增加但租金上漲，部分老店撐不住、醫美健身業進駐",
+     "summary": "報導指赤峰街知名度提升後店面租金水漲船高，部分經營多年的特色店家退場，醫美、健身房等業態進駐。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-05T22:00:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "赤峰街商圈",
+       "priority": true
+      },
+      {
+       "name": "中山商圈",
+       "priority": false
+      }
+     ],
+     "admin_note": "赤峰街商圈為115年補助名單，報導指租金上漲、店家業態改變，可留意商圈特色維繫與計畫成效。",
+     "sources": [
+      {
+       "outlet": "TVBS新聞網",
+       "url": "https://news.tvbs.com.tw/money/4046288",
+       "published_at": "2026-11-05T22:00:00+08:00"
+      }
+     ],
+     "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1aa31-958d-7198-b6a3-a6ae637393b7.jpg?t=16x9&wp=l,t&c=0,0,1920,1080&w=1200&h=675"
+    },
+    {
+     "id": "20261105-taichung-wudiao-ranking",
+     "title": "台中物調券人氣場域揭曉，一中商圈居冠、逢甲居次",
+     "summary": "台中市物調券使用場域排名公布，一中商圈奪冠，攤商表示買氣旺。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-05T16:08:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "一中商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "more-news",
+       "url": "https://more-news.tw/760564/",
+       "published_at": "2026-11-05T16:08:00+08:00"
+      },
+      {
+       "outlet": "是新聞",
+       "url": "https://www.yesmedia.com.tw/%e4%b8%ad%e5%b8%82%e7%89%a9%e8%aa%bf%e5%88%b8%e4%ba%ba%e6%b0%a3%e5%a0%b4%e5%9f%9f%e6%8f%ad%e6%9b%89%ef%bc%81%e4%b8%80%e4%b8%ad%e5%95%86%e5%9c%88%e5%a5%aa%e5%86%a0%e3%80%81%e9%80%a2%e7%94%b2%e5%a4%9c/",
+       "published_at": "2026-11-05T00:00:00+08:00"
+      }
+     ],
+     "image": "https://more-news.tw/more-news-media/2026/11/1-38.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
+  }
+ ]
+}
