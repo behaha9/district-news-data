@@ -73,6 +73,9 @@ def norm(url):
     host = (parts.hostname or "").lower().removeprefix("www.").removeprefix("m.")
     path = re.sub(r"/amp(?=/)", "", parts.path, count=1)  # AMP 版與一般版同一篇
     query = urlencode([(k, v) for k, v in parse_qsl(parts.query) if not k.lower().startswith(("utm_", "fbclid"))])
+    msn = re.search(r"/(ar|vi)-([A-Za-z0-9]+)$", path.rstrip("/"))
+    if host.endswith("msn.com") and msn:  # MSN 同一篇會掛在不同分類路徑
+        return f"msn:{msn.group(1)}-{msn.group(2)}"
     m = re.match(r"/news/[^/]+/breakingnews/(\d+)", path)
     if host == "news.ltn.com.tw" and m:
         return "ltn:" + m.group(1)
@@ -164,6 +167,18 @@ def main(new_path=None):
             auto += 1
     if auto:
         notes.append(f"網址寫法不同但已收錄，自動記 kept {auto} 筆")
+    reviewed_norm = {norm(u): e for u, e in reviewed.items() if isinstance(e, dict)}
+    copied = 0
+    for h in home_items:
+        u = h["url"]
+        if u in by_source or u in reviewed:
+            continue
+        e = reviewed_norm.get(norm(u))
+        if e and e.get("decision") in DECISIONS:
+            reviewed[u] = {k: v for k, v in e.items() if k != "at"} | {"at": today}
+            copied += 1
+    if copied:
+        notes.append(f"網址寫法不同但已審查過，沿用原決定 {copied} 筆")
 
     # 3. 檢查格式
     for url, e in reviewed.items():
