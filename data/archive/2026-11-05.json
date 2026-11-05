@@ -205,6 +205,105 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-05T12:19:06+08:00",
+   "added": 2,
+   "merged": 1,
+   "items": [
+    {
+     "id": "20261105-nanchang-furniture-fair",
+     "title": "南昌家具商圈11月7、8日舉辦「南昌家聚節」",
+     "summary": "臺北市南昌家具商圈將於11月7日至8日舉辦南昌家聚節，為期兩天。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-05T11:23:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "南昌家具街商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "南昌家具街商圈為115年補助名單，活動已對外公告，可作為執行佐證參考。",
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261105849112",
+       "published_at": "2026-11-05T11:23:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261101-ximen-spogomi",
+     "title": "環境部長分享西門町商圈運動撿垃圾賽，50分鐘撿出逾萬根菸蒂",
+     "summary": "西門町商圈舉辦運動撿垃圾熱身賽，12隊60人參加，網友對無菸城市成效提出質疑。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-01T10:38:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "西門町商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "壹蘋新聞網",
+       "url": "https://news.nextapple.com/life/20261101/533CAE3D47D8B381EF58AB1F79845570",
+       "published_at": "2026-11-01T10:38:00+08:00"
+      }
+     ],
+     "image": "https://static-cdn.nextapple.tw/prod/2026-11/533CAE3D47D8B381EF58AB1F79845570/4ea1e575c6b748fd61b983e800acc02e_1280.jpeg"
+    },
+    {
+     "id": "20261104-chiayi-zhongshan-enforcement",
+     "title": "嘉義市中山路科技執法遭議員批衝擊商圈，警局長允檢討調整",
+     "summary": "議員質詢指中山路科技執法雖改善交通，卻造成商圈商機流失；警局長表示將檢討調整。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-05T00:00:00+08:00",
+     "cities": [
+      "嘉義市"
+     ],
+     "districts": [
+      {
+       "name": "中山路商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7326/9857999",
+       "published_at": "2026-11-05T00:00:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/amp/story/7326/9857999",
+       "published_at": "2026-11-05T00:00:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7326/9856210",
+       "published_at": "2026-11-04T11:00:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/amp/story/7326/9856210",
+       "published_at": "2026-11-04T11:00:00+08:00"
+      }
+     ],
+     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35483446.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }

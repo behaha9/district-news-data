@@ -1,7 +1,32 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T07:18:29+08:00",
+ "generated_at": "2026-11-05T12:19:06+08:00",
  "items": [
+  {
+   "id": "20261105-nanchang-furniture-fair",
+   "title": "南昌家具商圈11月7、8日舉辦「南昌家聚節」",
+   "summary": "臺北市南昌家具商圈將於11月7日至8日舉辦南昌家聚節，為期兩天。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-05T11:23:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "南昌家具街商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "南昌家具街商圈為115年補助名單，活動已對外公告，可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261105849112",
+     "published_at": "2026-11-05T11:23:00+08:00"
+    }
+   ]
+  },
   {
    "id": "20261104-chiayi-zhongshan-enforcement",
    "title": "嘉義市中山路科技執法遭議員批衝擊商圈，警局長允檢討調整",
@@ -22,6 +47,11 @@
     {
      "outlet": "聯合新聞網",
      "url": "https://udn.com/news/story/7326/9857999",
+     "published_at": "2026-11-05T00:00:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/amp/story/7326/9857999",
      "published_at": "2026-11-05T00:00:00+08:00"
     },
     {
@@ -848,6 +878,31 @@
     }
    ],
    "image": "https://ni.yam.com/20261101/taipei-cover-261101045321191-bbd8451a50dd0f26.webp"
+  },
+  {
+   "id": "20261101-ximen-spogomi",
+   "title": "環境部長分享西門町商圈運動撿垃圾賽，50分鐘撿出逾萬根菸蒂",
+   "summary": "西門町商圈舉辦運動撿垃圾熱身賽，12隊60人參加，網友對無菸城市成效提出質疑。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-01T10:38:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "西門町商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "壹蘋新聞網",
+     "url": "https://news.nextapple.com/life/20261101/533CAE3D47D8B381EF58AB1F79845570",
+     "published_at": "2026-11-01T10:38:00+08:00"
+    }
+   ],
+   "image": "https://static-cdn.nextapple.tw/prod/2026-11/533CAE3D47D8B381EF58AB1F79845570/4ea1e575c6b748fd61b983e800acc02e_1280.jpeg"
   },
   {
    "id": "20261031-xinyi-crane-bus",
@@ -1855,7 +1910,7 @@
      "published_at": "2026-10-24T00:00:00+08:00"
     }
    ],
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-24/1024/20261024001030.jpg"
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450012.jpg&M=1&s=Y&x=0&y=0&sw=720&sh=480&exp=3600"
   },
   {
    "id": "20261027-pinglin-old-street",
@@ -2645,101 +2700,6 @@
     }
    ],
    "image": "https://attach.setn.com/newsimages/2026/10/22/5758360-PH.jpg"
-  },
-  {
-   "id": "20261022-hamasen-street-design",
-   "title": "高雄交通局邀哈瑪星居民共創街廓，兼顧行人安全與商圈發展",
-   "summary": "高雄市交通局邀居民共同規劃哈瑪星街道改造，目標為行人安全與商圈共好。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-10-22T11:35:00+08:00",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    {
-     "name": "哈瑪星商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "Newtalk新聞",
-     "url": "https://newtalk.tw/plan/view/1195",
-     "published_at": "2026-10-22T11:35:00+08:00"
-    }
-   ],
-   "image": "https://images.newtalk.tw/resize_action2/1200/album/project/2/6ad984ce35c6c.jpg"
-  },
-  {
-   "id": "20261021-yongle-safety",
-   "title": "永樂商圈工安意外頻傳，縣議員點出五大缺失",
-   "summary": "彰化市永樂商圈施工期間工安意外頻傳引發民怨，縣議員提出五項缺失，另有報導指鋼筋裸露危及安全。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-10-22T11:31:00+08:00",
-   "cities": [
-    "彰化縣"
-   ],
-   "districts": [
-    {
-     "name": "永樂商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261021487705",
-     "published_at": "2026-10-22T11:31:00+08:00"
-    },
-    {
-     "outlet": "Yahoo奇摩新聞",
-     "url": "https://tw.news.yahoo.com/%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96%E9%A0%BB%E5%82%B3%E6%83%B9%E6%B0%91%E6%80%A8-%E7%B8%A3%E8%AD%B0%E5%93%A1%E6%8F%AD5%E5%A4%A7%E7%BC%BA%E5%A4%B1-082339976.html",
-     "published_at": "2026-10-21T16:23:00+08:00"
-    },
-    {
-     "outlet": "中廣新聞網",
-     "url": "https://msn.com/zh-tw/news/other/%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96%E9%A0%BB%E5%82%B3%E6%83%B9%E6%B0%91%E6%80%A8-%E7%B8%A3%E8%AD%B0%E5%93%A1%E6%8F%AD5%E5%A4%A7%E7%BC%BA%E5%A4%B1/ar-AA2fJs52",
-     "published_at": "2026-10-21T09:23:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261021552143",
-     "published_at": "2026-10-21T06:08:00+08:00"
-    }
-   ],
-   "admin_note": "永樂商圈（彰化）為115年補助名單，報導指施工工安疑慮，可留意工程對店家與商圈活動的影響。",
-   "image": "https://ni.yam.com/20261022/SQ10217-5--a29cd055293e19ce.webp"
-  },
-  {
-   "id": "20261022-guting-ximen-youth-career",
-   "title": "古亭商圈與西門町合辦「青春職旅祭」，跨商圈串聯青年職涯與創業",
-   "summary": "臺北市古亭商圈發展協會等主辦、西門徒步區街區發展促進會協辦，在西門町舉辦青年論壇，邀講師分享創意職涯與創業實務，串聯青年與地方產業。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-22T09:45:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "古亭商圈",
-     "priority": false
-    },
-    {
-     "name": "西門町商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261022189357",
-     "published_at": "2026-10-22T09:45:00+08:00"
-    }
-   ],
-   "image": "https://ni.yam.com/20261022/png-8de5e2324956f6cc.webp"
   }
  ],
  "discussions": []

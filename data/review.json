@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-05T10:58:35+08:00",
+ "updated_at": "2026-11-05T12:19:06+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -67,6 +67,11 @@
    "reason": "企業人事",
    "at": "2026-11-04"
   },
+  "https://money.udn.com/money/story/7843/9849718": {
+   "decision": "hidden",
+   "reason": "業配遊記",
+   "at": "2026-11-05"
+  },
   "https://more-news.tw/756114/": {
    "decision": "hidden",
    "reason": "業配遊記",
@@ -95,6 +100,11 @@
   "https://n.yam.com/Article/20261102619056": {
    "decision": "hidden",
    "reason": "選舉",
+   "at": "2026-11-05"
+  },
+  "https://n.yam.com/Article/20261103295942": {
+   "decision": "kept",
+   "item": "20261103-chiayi-county-shopping",
    "at": "2026-11-05"
   },
   "https://news.cnyes.com/news/id/6640627": {
@@ -156,11 +166,6 @@
    "decision": "hidden",
    "reason": "非商圈",
    "at": "2026-11-04"
-  },
-  "https://udn.com/news/amp/story/7326/9857999": {
-   "decision": "kept",
-   "item": "20261104-chiayi-zhongshan-enforcement",
-   "at": "2026-11-05"
   },
   "https://udn.com/news/story/7241/9847873": {
    "decision": "kept",
