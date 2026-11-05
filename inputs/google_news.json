@@ -1,21 +1,42 @@
 {
- "fetched_at": "2026-11-05T09:32:14+08:00",
+ "fetched_at": "2026-11-05T12:17:50+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 95,
-  "kept": 35,
-  "resolved": 35,
-  "items": 33,
+  "raw": 96,
+  "kept": 37,
+  "resolved": 37,
+  "items": 34,
   "resolve_this_run": {
-   "online": 1
+   "online": 3
   },
   "dropped_old": [
    "捷運三鶯線今起至8/31免費搭 途經老街通車首日湧觀光人潮（原文日期 2026-06-30）",
+   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
    "新竹11月仙草花海盛開，仙草料理、百年茶廠、老街景點一次玩（原文日期 2026-09-09）"
   ]
  },
  "items": [
+  {
+   "title": "南昌家具商圈將舉辦2026南昌家聚節",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95a0hBNFRXVlBFaWplMHJaZWhLMnE5Q1NpLWVrSFU5N1NZYWMtRE41bEkzTm1Mc1Nnd2VleGEwOW9VX0dJNl9VNzY4SGlMbkZ5NFE?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-05T11:23+08:00",
+   "query": "商圈",
+   "url": "https://n.yam.com/Article/20261105849112",
+   "resolved": true
+  },
+  {
+   "title": "桃園「大龍門古道」首推三坑線 尋訪客庄老街與水圳秘境",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94anVYNlZLS0gxYnN3bUlQMU9qaFdyNU1ncEZvSUZYRVBsNWpqdEVUQ0ttZVEtOUlmRkp1YWh4dVZQNW9BT2wxc2JyTVc0QllH?oc=5",
+   "source": "客新聞",
+   "source_site": "https://hakkanews.tw",
+   "published_at": "2026-11-05T10:27+08:00",
+   "query": "老街",
+   "url": "https://hakkanews.tw/2026/11/05/310604/",
+   "resolved": true
+  },
   {
    "title": "鄧師傅新品牌復興北外婆家餐廳插旗北高雄裕誠商圈",
    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXWEVTXzRUV0lrZWlZbTRfcXJtZGJ2SHh6NXhlNDFxWldBdnVtOEZVdWNHOU1pNjhvbDEzMjN4b214ZzNoaV9iRA?oc=5",
@@ -47,6 +68,16 @@
    "resolved": true
   },
   {
+   "title": "台南百貨版圖重整！鐵路地下化帶動站前商圈再生 商業投資、就業人口牽動周邊房市",
+   "google_url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOTlJrNElSQmlFbk51ZFk2MUFWcEE5NFRPNFBqX2lTb3Mwb09UdVBBMTlfNzVLdW5GV1NCUzZpREtwUG1jb0NUVFRIRnowUE1HNXFJOWJLUVhmOW1MRDNmLTdHc05JeVV1LVV2SjlMVkVrM2VndkdWRnVpbjNQdzRzSGVXY1QwZkM1VnhfYlh2cTVCQkJmVWVxZThheUphSF92akMxODVwb0dBUXBVRnhIWkdKekFEUU5WRTVkemVwQS15amt4R1BXS2JpWTRpTl9fZmpITFdObmdoMjBLbFprdUd0UENla25NaHNfR2RwaUw2NENUTEVhazBENVZiNllWUjJxUFMxSHBleXBSZmR0SUYwcXBQWnJqSUkyTTE4WjJqRHBKMjQ2YjBUT1o2M1djbFRBOGRJRDcxdV9OTGQ3X1JTUjJHRlVSTnRMbWRqWEFiMk1qTjdnY0ljV1lmYkVSd18waFJZT3NPaXNKbjZnRkZ3Zm9lOXBHMlltdS1iSVV3WEZPbEdscUFnYXpENWl5LWJOc0hfcHcyc1JGSlBhWHFkYmpHRHR5UlZxeTBLUkFwYTlMU3RfY1hyMEJkQmF5RmJHR21QTi1XZE9naTBtcHZ2eUZOZEhSalNaTFBhQlN1QkxQZll6elZEVDdITjk4cEI2SWtjNkFOeUYyNGZHNDRjTmZ1Zm9TcnNfQTl3?oc=5",
+   "source": "台灣好新聞",
+   "source_site": "https://www.taiwanhot.net",
+   "published_at": "2026-11-04T18:44+08:00",
+   "query": "商圈",
+   "url": "https://www.taiwanhot.net/news/1152923/%E5%8F%B0%E5%8D%97%E7%99%BE%E8%B2%A8%E7%89%88%E5%9C%96%E9%87%8D%E6%95%B4%EF%BC%81%E9%90%B5%E8%B7%AF%E5%9C%B0%E4%B8%8B%E5%8C%96%E5%B8%B6%E5%8B%95%E7%AB%99%E5%89%8D%E5%95%86%E5%9C%88%E5%86%8D%E7%94%9F+%E5%95%86%E6%A5%AD%E6%8A%95%E8%B3%87%E3%80%81%E5%B0%B1%E6%A5%AD%E4%BA%BA%E5%8F%A3%E7%89%BD%E5%8B%95%E5%91%A8%E9%82%8A%E6%88%BF%E5%B8%82",
+   "resolved": true
+  },
+  {
    "title": "彰市永樂商圈施工店家不便吳韋達促縣府監督協助| 地方",
    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwMWNEdEFQNTByYlJNcGRWcnlKRmdDdmpoYm9Wa2Mzb0hPbW9pTDk2UlU3OVBzV2w5LXBvNjVtZWVoQUNMNy1jRHctdXZJWVFlWE9SbUpTTkFCd01oejhB?oc=5",
    "source": "中央社 CNA",
@@ -74,26 +105,6 @@
    "published_at": "2026-11-04T16:58+08:00",
    "query": "商圈",
    "url": "https://www.ftvnews.com.tw/news/detail/2026B04U05M1",
-   "resolved": true
-  },
-  {
-   "title": "台灣設計品牌ANOWHEREMAN 攜手 WTNC 打造首度聯名系列，快閃活動11 月 6 日登陸中山商圈ANOTHEROOM！",
-   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzT0RFd0xzM2g1RXB5RmtoZHdVZjQyOW0wa3N4YUJ2MXJaS3RtelZza0NLU1l4X01GbEhNc1lreDJMNGJQOGM5MzlWV0Q3UQ?oc=5",
-   "source": "潮癮CHILLING",
-   "source_site": "https://www.chilling.tw",
-   "published_at": "2026-11-04T16:02+08:00",
-   "query": "商圈",
-   "url": "https://www.chilling.tw/article/90430",
-   "resolved": true
-  },
-  {
-   "title": "真正的美味藏在巷弄裡！三峽、鶯歌在地人認證5家必吃美食，只逛老街太可惜啦| 台灣旅行小幫手| 風生活",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KSW1UcTZJTkpIZ3EyckV4TTF0dlFPQzZNZkZLQW82WWxpNGxvb1NfMUd4VmY0ZC0xQWhpU1FxQVdYMjc2TDN2cGIta0hVMDBF?oc=5",
-   "source": "風傳媒",
-   "source_site": "https://www.storm.mg",
-   "published_at": "2026-11-04T15:05+08:00",
-   "query": "老街",
-   "url": "https://www.storm.mg/lifestyle/11178443",
    "resolved": true
   },
   {
@@ -167,16 +178,6 @@
    "resolved": true
   },
   {
-   "title": "舊商圈翻新 永和頂溪公辦都更",
-   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVmJwcENmZF9UcVR4ZVczMVZ1cmp6dkRJcWM3Y3hiTXJoeWJES0doM1JWUm9KZGtZM3RaemFzblFnTG9OTkVEM3NES2xwNzJLanFzUkYwdWh6VzF0ZHFnLXhjTV96YkRiQl9F?oc=5",
-   "source": "中時新聞網",
-   "source_site": "https://www.chinatimes.com",
-   "published_at": "2026-11-04T04:10+08:00",
-   "query": "商圈",
-   "url": "https://www.chinatimes.com/newspapers/20261104000643-260107",
-   "resolved": true
-  },
-  {
    "title": "建商獵地台中三商圈夯- 產業特刊- 工商時報",
    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wOFN2QjRGbllpREZqRS1BN1BtLUJxMi12X3VFSFRrLURIZlZ0TEhuSmpsbDN4dUNNQnhMaXFFbEhqd1lEeXlaRjJuQW5pb0RvZG5rcWxST0ZNYUZHQ2Q0OWhEbVBOTkVmVDFF?oc=5",
    "source": "中時新聞網",
@@ -184,6 +185,16 @@
    "published_at": "2026-11-04T04:10+08:00",
    "query": "商圈",
    "url": "https://www.chinatimes.com/newspapers/20261104000344-260210",
+   "resolved": true
+  },
+  {
+   "title": "舊商圈翻新 永和頂溪公辦都更",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVmJwcENmZF9UcVR4ZVczMVZ1cmp6dkRJcWM3Y3hiTXJoeWJES0doM1JWUm9KZGtZM3RaemFzblFnTG9OTkVEM3NES2xwNzJLanFzUkYwdWh6VzF0ZHFnLXhjTV96YkRiQl9F?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-04T04:10+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/newspapers/20261104000643-260107",
    "resolved": true
   },
   {
@@ -257,16 +268,6 @@
    "resolved": true
   },
   {
-   "title": "台南百貨版圖重整！鐵路地下化帶動站前商圈再生　商業投資、就業人口牽動周邊房市",
-   "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoQWRFYzdtVkU3S3U1MzhtMnJMbGZSQkpTYjRfMDJJck5GclZLSVFudWZhWmN2N2VVb0RzQ0hYel9aSE9STXVoQ3NHQjFkRDBidnh1NHRZYW83RHZncXJjeWNWTTdybGNCZDlYbkNmUTjSAXBBVV95cUxQaEFkRWM3bVZFN0t1NTM4bTJyTGxmUkJKU2I0XzAySXJORnJWS0lRbnVmYVpjdjdlVW9Ec0NIWHpfWkhPUk11aENzR0IxZEQwYnZ4dTR0WWFvN0R2Z3FyY3ljVk03cmxjQmQ5WG5DZlE4?oc=5",
-   "source": "好房網News",
-   "source_site": "https://news.housefun.com.tw",
-   "published_at": "2026-11-03T17:03+08:00",
-   "query": "商圈",
-   "url": "https://news.housefun.com.tw/news/article/amp/187786490681.html",
-   "resolved": true
-  },
-  {
    "title": "塔斯馬尼亞師生訪金門續友誼第3年 澳洲學生走讀建功嶼、沙美老街",
    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMS29EX0dDMUR6bjhyR1UyMUxYUFF0YlBXNGthQzlaNjRlS29iYnhDTVE4Q0dxV0dwYWs5WmExVkhOTDZGYVQxeXlSYjVpb2dEMnlDenhB0gFWQVVfeXFMUExLb0RfR0MxRHpuOHJHVTIxTFhQUXRiUFc0a2FDOVo2NGVLb2JieENNUThDR3FXR3BhazlaYTFWSE5MNkZhVDF5eVJiNWlvZ0QyeUN6eEE?oc=5",
    "source": "UDN",
@@ -334,6 +335,16 @@
    "published_at": "2026-11-03T14:14+08:00",
    "query": "商圈",
    "url": "https://www.chinatimes.com/realtimenews/20261103002965-260421",
+   "resolved": true
+  },
+  {
+   "title": "老街溪步道將改善 航心橋上游增百米人行道",
+   "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxME96SzgxLWY2Mi01N09fM2FWMFBQUTdIUDY2cGZXZWc2VEZyZWt5THU3QUl3OXJLbFhVdEhzM2pVaDdqNUdqY19jY2VZSk9Xa1BWcw?oc=5",
+   "source": "新頭條",
+   "source_site": "https://www.thehubnews.net",
+   "published_at": "2026-11-03T13:24+08:00",
+   "query": "老街",
+   "url": "https://www.thehubnews.net/archives/680414",
    "resolved": true
   },
   {

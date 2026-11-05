@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T09:32:24+08:00",
+ "fetched_at": "2026-11-05T12:18:00+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-11-04T20:51+08:00",
@@ -189,892 +189,6 @@
    "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/01193613/T90052a-20261101152734346-0-1024x907.jpg",
    "image_checked": true,
    "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261021588278": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-21T18:22+08:00",
-   "site_name": "蕃新聞",
-   "description": "記者張辰卿/台北報導繽紛燈車走進街區，蘭雅商圈熱鬧迎萬神節！由台北市蘭雅商圈市場發展協會主辦、臺北市",
-   "cities": {
-    "台北市": 8
-   },
-   "districts": [
-    "蘭雅商圈（台北市）"
-   ],
-   "body_chars": 1060,
-   "image": "https://ni.yam.com/20261021/rAlXPSIGIysSUJg8pgZs-ea71784c2cd49831.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-21",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/realtimenews/20261027001835-260405": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T11:03+08:00",
-   "site_name": "中時新聞網",
-   "description": "台中擁有眾多景點，從熱鬧商圈、特色夜市到公園綠地，都是民眾假日出遊的好去處。根據交通部觀光署統計，今年1至8月，台中最強景點由公益路商圈拿下，8個月吸引超過2309萬人次朝聖，周邊匯集各式餐廳、百貨商場及休",
-   "cities": {
-    "台中市": 13
-   },
-   "districts": [
-    "精明一街商圈（台中市）",
-    "中央公園商圈（高雄市）"
-   ],
-   "body_chars": 900,
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-27/656/20261027001840.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://thehubnews.net/archives/677138": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-21T18:22+08:00",
-   "site_name": "新頭條-TheHubNews",
-   "description": "記者張辰卿/台北報導 繽紛燈車走進街區，蘭雅商圈熱鬧迎萬神節！由台北市蘭雅商圈市場發展協會主辦、臺北市商業處指導的「2026蘭雅一呼百應－萬神節藝閣燈車祭」，將於10月26日（一）登場。活動結合藝閣燈車巡遊與店家消費集點，邀請民眾相揪看燈車...",
-   "cities": {
-    "台北市": 8
-   },
-   "districts": [
-    "蘭雅商圈（台北市）"
-   ],
-   "body_chars": 933,
-   "image": "https://www.thehubnews.net/wp-content/uploads/2026/10/rAlXPSIGIysSUJg8pgZs.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-21",
-   "date_hint_from": "原文時間"
-  },
-  "https://applealmond.com/posts/329501": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-21T09:18+08:00",
-   "site_name": "蘋果仁 - 果仁 iPhone/iOS/好物推薦科技媒體",
-   "description": "2026 天母萬聖節延期 10/26！4500 個南瓜桶、250 家免費討糖、塔麻歌子親子攻略 - 蘋果仁 - 果仁 iPhone/iOS/好物推薦科技媒體",
-   "cities": {
-    "台北市": 6
-   },
-   "districts": [
-    "天母商圈（台北市）"
-   ],
-   "body_chars": 2485,
-   "image": "https://applealmond.com/wp-content/uploads/2026/10/1792545060-0e289d81f9a52b25f54d1c8c16d9346a.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-21",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5615082": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-22T16:04+08:00",
-   "site_name": "自由時報電子報",
-   "description": "因應強颱薔琵來襲，原訂於本週末舉辦的「2026天母搞什麼鬼18」確定延期。主辦單位天母商圈公告，活動調整至下週舉行。調整後時程，暖場「百鬼夜行討糖」改為10月25日（日）晚間19:00出發，路線維持從新光三越台北天母店，經忠誠路二段至大葉高島屋。壓軸主活動園遊會則順延至10月26日（一）13:00至20:00，地點在天",
-   "cities": {
-    "台北市": 2
-   },
-   "districts": [
-    "天母商圈（台北市）"
-   ],
-   "body_chars": 563,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/22/php4mdVCT.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-22",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.scooptw.com/local_news/542842/%e8%98%ad%e9%9b%85%e4%b8%80%e5%91%bc%e7%99%be%e6%87%89%ef%bc%81%e6%84%9f%e5%8f%97%e8%98%ad%e9%9b%85%e5%95%86%e5%9c%88%e7%af%80%e6%85%b6%e9%ad%85%e5%8a%9b-%e8%90%ac%e7%a5%9e%e7%af%80%e8%97%9d/": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-21T18:22+08:00",
-   "site_name": "獨家報導",
-   "description": "記者張辰卿/台北報導  繽紛燈車走進街區，蘭雅商圈熱鬧迎萬神節！由台北市蘭雅商圈市場發展協會主辦、臺北市商業處指導的「2026蘭雅一呼百應－萬神節藝閣燈車祭」，將於10月26日（一）登場。活動結合藝閣燈車巡遊與店家消費集點，邀請民眾相揪看燈車、逛商圈，體驗蘭雅街區的在地風情。  此次活動以「東方萬神節」為主題，呼應天母",
-   "cities": {
-    "台北市": 10
-   },
-   "districts": [
-    "蘭雅商圈（台北市）"
-   ],
-   "body_chars": 957,
-   "image": "https://secure.gravatar.com/avatar/38056bed663bb3a10c5b52ab451e7f9f025b33708bae1d3c2dca2367f3d0868a?s=96&d=retro&r=g",
-   "image_checked": true,
-   "date_hint": "2026-10-21",
-   "date_hint_from": "原文時間"
-  },
-  "https://more-news.tw/752223/": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T23:19+08:00",
-   "site_name": "墨新聞 MORE News",
-   "description": "臺北市副市長張溫德驚喜變裝親臨現場同樂，為活動帶起最高潮！由臺北市商業處輔導台北市天母商圈發展協會辦理「天母搞 […]",
-   "cities": {
-    "台北市": 11,
-    "嘉義市": 2
-   },
-   "districts": [
-    "天母商圈（台北市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1446,
-   "image": "https://more-news.tw/more-news-media/2026/10/IMG_1076-scaled.jpeg",
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
-  "https://truemii.chinatimes.com/content/20261024001029-265001": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-24T11:44+08:00",
-   "site_name": "瘋台灣 - 觸mii",
-   "description": "【旅奇傳媒/編輯部報導】從歷史建築、傳統市場到異國美食與特色老店，「桃園老城」與「中壢舊城」藏著許多值得探索的城市故事。為讓來桃園住宿的旅客不只住一晚，更能深入認識城市的人文風景。「桃園市觀光發展基金",
-   "cities": {
-    "桃園市": 26
-   },
-   "districts": [],
-   "body_chars": 1196,
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-24/1024/20261024001030.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-24",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261024303429": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-24T09:00+08:00",
-   "site_name": "蕃新聞",
-   "description": "整合旅宿、城市導覽與商圈資源，推出「一起出發！桃園雙城的日常」城市走讀活動。　圖：桃園市觀光發展基金",
-   "cities": {
-    "桃園市": 32
-   },
-   "districts": [],
-   "body_chars": 1550,
-   "image": "https://ni.yam.com/20261024/20261022020232619-aa09f65a81caafce.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-24",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.mirrormedia.mg/story/20261020hea03": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-21T10:30+08:00",
-   "site_name": "鏡週刊 Mirror Media",
-   "description": "受到薔琵颱風逼近影響，原定10月23日至10月24日舉辦的超人氣地方盛事「2026天母搞什麼鬼18」主辦單位「天母商圈」緊急宣布活動將順延至10月 25日與10月26日舉行。",
-   "cities": {
-    "台北市": 2
-   },
-   "districts": [
-    "天母商圈（台北市）"
-   ],
-   "body_chars": 881,
-   "image": "https://v3-statics.mirrormedia.mg/images/df1b1846-bf8a-41e1-9a32-3cfa87be0c0c-w1600.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-21",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.nownews.com/news/6886016": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-24T05:55+08:00",
-   "site_name": "NOWnews今日新聞",
-   "description": "2026年的萬聖節日期為10月31日，本周末全台各地率先推出萬聖節活動，偏又遇上薔琵颱風攪局，本周兩大萬聖節活動包含「天母搞什麼鬼」、「桃園萬聖城」都被迫延期舉辦。...",
-   "cities": {
-    "桃園市": 4,
-    "台北市": 3,
-    "高雄市": 2,
-    "苗栗縣": 1
-   },
-   "districts": [],
-   "body_chars": 806,
-   "image": "https://media.nownews.com/nn_media/thumbnail/2026/10/1792753489984-9f5f9833c8fc4b25b0f1217f6882f719-800x531.webp?unShow=false",
-   "image_checked": true,
-   "date_hint": "2026-10-24",
-   "date_hint_from": "原文時間"
-  },
-  "https://travel.udn.com/travel/story/7206/9834487": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T08:00+08:00",
-   "site_name": "旅遊",
-   "description": "【旅奇傳媒/編輯部報導】從歷史建築、傳統市場到異國美食與特色老店，「桃園老城」與「中壢舊城」藏著許多值得探索的城市故事。為讓來桃園住宿的旅客不只住一晚，更能深入認識城市的人文風景。「桃園市觀光發展基金會」以旅宿遊客為主要推廣對象，整合旅宿、城市導覽與商圈資源，推出「一起出發！桃園雙城的日常」城市走讀活動。並結合桃園市政",
-   "cities": {
-    "桃園市": 60
-   },
-   "districts": [],
-   "body_chars": 2499,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450012.jpg&M=1&s=Y&x=0&y=0&sw=720&sh=480&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.contentplatform.info/articles/546796/%E5%8F%B0%E4%B8%AD%E8%90%AC%E8%81%96%E7%AF%80%E6%B4%BB%E5%8B%95%E5%9C%B0%E5%9C%96%E3%80%80%E8%B1%90%E5%8E%9F%E5%95%86%E5%9C%8810-31%E8%A8%8E%E7%B3%96%E5%98%89%E5%B9%B4%E8%8F%AF%E3%80%80%E5%B8%82/": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-23T15:12+08:00",
-   "site_name": "報新聞 Mega News",
-   "description": "經發局與豐原廟東復興商圈10/31在豐原太平洋百貨廣場辦萬聖嘉年華，12歲以下兒童逛商圈討糖霧峰以文分館10/31辦親子萬聖變裝大遊行，新社分館同日推萬聖捕夢網手作",
-   "cities": {
-    "台中市": 12
-   },
-   "districts": [
-    "豐原廟東復興商圈（台中市）"
-   ],
-   "body_chars": 909,
-   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/23141258/halloween-art-taichung-1-261023061148189.jpeg",
-   "image_checked": true,
-   "date_hint": "2026-10-23",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ettoday.net/news/20261021/3258340.htm": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-21T11:05+08:00",
-   "site_name": "ETtoday新聞雲",
-   "description": "受到薔琵颱風逼近影響，原定10月23日至10月24日舉辦的超人氣地方盛事「2026天母搞什麼鬼18」主辦單位「天母商圈」緊急宣布活動將順延至10月 25日與10月26日舉行。",
-   "cities": {
-    "台北市": 2,
-    "高雄市": 2
-   },
-   "districts": [
-    "天母商圈（台北市）"
-   ],
-   "body_chars": 1464,
-   "image": "https://cdn2.ettoday.net/images/8976/e8976819.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-21",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E6%98%9F-%E9%9A%B1%E8%97%8F%E8%80%81%E8%A1%97-%E6%84%8F%E5%A4%96%E7%88%86%E7%B4%85-%E7%B6%B2%E6%8E%A8%E5%A5%BD%E5%90%83%E5%8F%88%E5%A5%BD%E9%80%9B-%E9%A2%A8%E6%99%AF%E8%AA%98%E4%BA%BA-000000045.html": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T08:00+08:00",
-   "site_name": "Yahoo News",
-   "description": "台灣老街各具特色，除了知名的九份、淡水，位於新北市的坪林老街近期在社群平台上引發熱議。一名網友分享當地茶製美食體驗，大讚茶冰淇淋、茶麻糬等點心風味絕佳，貼文吸引上萬人按讚。不少曾造訪的遊客紛紛留言「完",
-   "cities": {
-    "新北市": 9,
-    "台北市": 8,
-    "高雄市": 4,
-    "宜蘭縣": 4,
-    "台中市": 2
-   },
-   "districts": [
-    "北埔老街商圈（新竹縣）",
-    "鹿港老街商圈（彰化縣）",
-    "太平老街商圈（嘉義縣）"
-   ],
-   "body_chars": 4000,
-   "image": "https://media.zenfs.com/no/supertaste_tvbs_com_tw_971/7fb58e694bfdb3b579c5ec26f4b76bc8",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.nownews.com/news/6884781": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-19T17:02+08:00",
-   "site_name": "NOWnews今日新聞",
-   "description": "2026天母搞什麼鬼延期了！原訂這周五、周六登場的台北天母年度萬聖節活動，因應薔瑟颱風影響，主辦單位今（19）日宣布調整活動時間，將延期至10月25日、26日，也就是這...",
-   "cities": {
-    "台北市": 3,
-    "宜蘭縣": 2,
-    "新北市": 1,
-    "桃園市": 1,
-    "基隆市": 1
-   },
-   "districts": [],
-   "body_chars": 807,
-   "image": "https://media.nownews.com/nn_media/thumbnail/2025/10/1761820714952-bd0876a206d743e3967b54bfe72a1d03-1200x801.webp?unShow=false",
-   "image_checked": true,
-   "date_hint": "2026-10-19",
-   "date_hint_from": "原文時間"
-  },
-  "https://lifenews.com.tw/604469": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T03:27+08:00",
-   "site_name": "民生電子報",
-   "description": "【記者 江育銓/採訪報導】 為推動萬里地方文化傳承、低碳旅遊、長者關懷與商圈發展，由TTBA臺灣全國觀光暨商圈 […]",
-   "cities": {
-    "新北市": 7
-   },
-   "districts": [
-    "萬里商圈（新北市）",
-    "野柳商圈（新北市）"
-   ],
-   "body_chars": 1821,
-   "image": "https://lifenews.com.tw/wp-content/uploads/2026/10/2034832_0.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%B7%A6%E9%8E%AE%E8%80%81%E8%A1%97%E7%AB%B9%E6%A7%8B%E9%80%A0%E6%B6%BC%E4%BA%AD%E5%AE%8C%E5%B7%A5-%E5%AE%B6%E5%85%B7-%E8%8A%B1%E5%99%A8%E5%85%A8%E7%AB%B9%E5%B7%A5%E8%97%9D%E8%B5%B0%E5%85%A5%E7%94%9F%E6%B4%BB-105128056.html": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T18:51+08:00",
-   "site_name": "Yahoo News",
-   "description": "歷經約1個月打造，台南左鎮老街新增一座竹構造涼亭，除了可作為舉辦活動、體驗課程的空間，內部也展示竹製的家具、花器、淺山地區植物的印染工藝等，將竹帶回日常生活中，展現全竹工藝，後續也將推出竹工藝相關的體驗課程。該棟竹構造涼亭由左鎮竹苑學員合力打造，約有20人陸續參與，也是左鎮竹資源循環示範與環境教育推",
-   "cities": {
-    "台南市": 5,
-    "高雄市": 3,
-    "新竹市": 3,
-    "台北市": 2,
-    "台中市": 2
-   },
-   "districts": [],
-   "body_chars": 3235,
-   "image": "https://media.zenfs.com/ko/libertytimes_786/4483b210806c0d8a9735d3775dde2202.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ftvnews.com.tw/news/detail/2026A26L05M1": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T20:18+08:00",
-   "site_name": "民視新聞網",
-   "description": "生活中心／綜合報導台北市長蔣萬安力推的負壓吸菸室，又出包！信義區一處負壓吸菸室，昨天（25）晚間冒出大量濃煙，消防人員緊急到場處理，沒想到這回出問題的，竟還是市府新設計的熄菸桶。不過短短5個月，全市已經累計12起冒煙、悶燒等事件，議員更痛批，無菸城市政策18次會議，蔣萬安一次都沒出席。",
-   "cities": {
-    "台北市": 9,
-    "新北市": 1
-   },
-   "districts": [
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 1379,
-   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/403ed37b-a447-499f-b3b4-68813d68ff0d.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ftvnews.com.tw/news/detail/2026A26L03M1": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T20:20+08:00",
-   "site_name": "民視新聞網",
-   "description": "生活中心／綜合報導台北市信義區百貨商圈旁的負壓吸菸室，昨天（25）晚間突然濃煙密布，消防人員獲報緊急到場處理，不過這已經不是第一次，短短5個月內，6處指定吸菸區就發生11起冒煙、悶燒事件，加上最新這一起，就有12起火警通報！讓議員痛批，市府根本是規劃不周、倉促上路！",
-   "cities": {
-    "台北市": 2,
-    "新北市": 1
-   },
-   "districts": [
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 820,
-   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/066eb957-969e-4130-b094-7e934ba835bf.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/realtimenews/20261026001942-260405": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T14:30+08:00",
-   "site_name": "中時新聞網",
-   "description": "颱風假加上光復節連假4天，台南市累積破百萬遊客，以傳統老街與商圈景點最吸引人潮，屢奪人潮冠軍的國華友愛新商圈，因連假期間周遭廁所不敷使用，引起遊客怨聲連連，商圈26日控訴文化局管理的公廁在委外經營後始終",
-   "cities": {
-    "台南市": 10
-   },
-   "districts": [
-    "國華友愛新商圈（台南市）",
-    "關子嶺商圈（台南市）"
-   ],
-   "body_chars": 756,
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-26/656/20261026001943.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5619352": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T18:51+08:00",
-   "site_name": "自由時報電子報",
-   "description": "歷經約1個月打造，台南左鎮老街新增一座竹構造涼亭，除了可作為舉辦活動、體驗課程的空間，內部也展示竹製的家具、花器、淺山地區植物的印染工藝等，將竹帶回日常生活中，展現全竹工藝，後續也將推出竹工藝相關的體驗課程。該棟竹構造涼亭由左鎮竹苑學員合力打造，約有20人陸續參與，也是左鎮竹資源循環示範與環境教育推廣計畫的成果展示，獲",
-   "cities": {
-    "台南市": 5
-   },
-   "districts": [],
-   "body_chars": 651,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/26/5619352_1_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ctee.com.tw/news/20261026700481-431401": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T14:30+08:00",
-   "site_name": "中時即時",
-   "description": "颱風假加上光復節連假4天，台南市累積破百萬遊客，以傳統老街與商圈景點最吸引人潮，屢奪人潮冠軍的國華友愛新商圈，因連假期間周遭廁所不敷使用，引起遊客怨聲連連，商圈26日控訴文化局管理的公廁在委外經營後始終未開放，台南市文化局強調已告知委外業者需提供使用。 台南市光復節連假活動滿檔，包括海安路萬聖節、漁...",
-   "cities": {
-    "台南市": 12
-   },
-   "districts": [
-    "國華友愛新商圈（台南市）",
-    "關子嶺商圈（台南市）"
-   ],
-   "body_chars": 731,
-   "image": "https://images.ctee.com.tw/newsphoto/2026-10-26/1024/20261026700482.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261025273854": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-25T01:11+08:00",
-   "site_name": "蕃新聞",
-   "description": "（媒角抵加／林忠勳報導）台南海安路萬聖節把中式靈堂搬上封街現場，設置2副棺材與牛頭馬面主題布置，成為",
-   "cities": {
-    "台南市": 8
-   },
-   "districts": [
-    "海安商圈（台南市）"
-   ],
-   "body_chars": 2272,
-   "image": "https://ni.yam.com/20261025/haian-halloween-coffins-20261025-hero-v1-2294fbf5347ebf52.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-25",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.taichung.gov.tw/3400033/post": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "臺中市政府全球資訊網",
-   "description": "台中購物節開跑2天登錄破5.5億元！首抽前進大里中興商圈　送出全球不限航點機票及iPhone 17",
-   "cities": {
-    "台中市": 20
-   },
-   "districts": [
-    "大里中興商圈（台中市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1641,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.msn.com/zh-tw/news/other/%E9%80%A3%E5%81%87%E5%85%A9%E6%A8%A3%E6%83%85-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E5%86%B7%E6%B8%85-%E5%8F%B0%E4%B8%AD%E6%BC%A2%E7%A5%9E%E7%99%BE%E8%B2%A8%E4%BA%BA%E6%BD%AE%E7%88%86%E6%BB%BF-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fX9R7": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://tw.news.yahoo.com/%E6%A3%BA%E6%9D%90-%E7%89%9B%E9%A0%AD%E9%A6%AC%E9%9D%A2%E4%BB%8A%E6%99%9A%E4%B8%8A%E9%99%A3-%E5%8F%B0%E5%8D%97%E5%95%86%E5%9C%88%E8%90%AC%E8%81%96%E7%AF%80%E4%B8%AD%E5%BC%8F%E9%9D%88%E5%A0%82-%E6%8C%91%E6%88%B0%E8%86%BD%E8%AD%98%E8%A9%95%E5%83%B9%E5%85%A9%E6%A5%B5-141023753.html": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-24T22:10+08:00",
-   "site_name": "Yahoo News",
-   "description": "近年來萬聖節活動被戲稱為「全台創意設計大賽」，其中，台南海安商圈的萬聖節變裝踩街更成為南部知名朝聖活動，今年商圈團隊不僅直接封街舉辦，更把中式靈堂「幽靈殿堂」架設在現場，挑戰玩家膽識，活動今、明兩天登場，今下午已吸引大批遊客湧入，主辦單位預估兩天人潮將破萬人次。",
-   "cities": {
-    "台北市": 11,
-    "台南市": 5,
-    "高雄市": 3,
-    "台中市": 2,
-    "新北市": 1
-   },
-   "districts": [
-    "西門町商圈（台北市）",
-    "海安商圈（台南市）"
-   ],
-   "body_chars": 3643,
-   "image": "https://media.zenfs.com/ko/udn.com/e789291bd170240e6df7df4d12d57a4b.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-24",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.msn.com/zh-tw/news/other/%E7%BA%8C%E6%94%BE%E9%A2%B1%E9%A2%A8%E5%81%87-%E5%8F%B0%E4%B8%AD%E4%BA%BA%E9%96%8B%E9%80%9B%E7%99%BE%E8%B2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E4%BA%BA%E6%BD%AE%E5%B0%913%E6%88%90/ar-AA2fY8ZE": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.chinatimes.com/realtimenews/20261024002810-260421": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-24T18:55+08:00",
-   "site_name": "中時新聞網",
-   "description": "隨著科技浪潮席捲全球，一句「誰還在看書」將閱讀歸類為次文化，但由小沐屋等3家獨立書店發起的「屏本市：潮海書田」書市集，打破大眾刻板印象，他們不僅邀集南台灣20家書店齊聚屏東縣潮州鎮建基老街，還在1周內募款",
-   "cities": {
-    "屏東縣": 6,
-    "台北市": 1,
-    "桃園市": 1,
-    "台南市": 1,
-    "高雄市": 1
-   },
-   "districts": [],
-   "body_chars": 1106,
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-24/656/20261024002811.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-24",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5618433": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-25T22:48+08:00",
-   "site_name": "自由時報電子報",
-   "description": "屏東縣潮州鎮公所舉辦的「大潮祭」已經行之有年，跨國交流始終不斷，今年邀請印度帕魯爾大學表演系女子團的學生前來表演，異國舞蹈昨今兩天在三山國王廟前直接開演，吸引大批民眾駐足觀賞。「大潮祭」昨天開始建基老街封街，還跨界與在地獨立書店小沐屋書坊策畫「屏本市─潮海書田」主題市集區合辦，建基路加上日式歷史建築文化園區合計多達百攤",
-   "cities": {
-    "屏東縣": 3
-   },
-   "districts": [],
-   "body_chars": 994,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618433_5_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-25",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.contentplatform.info/articles/558205/%E8%B1%90%E5%8E%9F%E8%90%AC%E8%81%96%E5%98%89%E5%B9%B4%E8%8F%AF%E7%99%BB%E5%A0%B4-%E5%8F%B0%E4%B8%AD%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E5%8F%B0%E7%99%BE%E8%90%AC%E6%B1%BD%E8%BB%8A%E7%94%B1%E5%8C%97/": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T23:51+08:00",
-   "site_name": "報新聞 Mega News",
-   "description": "萬聖節奇幻登場！台中市政府經發局10月31日於豐原廟東復興商圈的豐原太平洋百貨舉辦「2026豐原萬聖嘉年華」，安排萬聖變裝比賽、特色市集及戰鬥陀螺競賽等活動，吸引大小朋友變裝同樂，現場還有上百位萌鬼共舞、討糖，充滿節慶氣氛。同場也揭曉台中購物節首台百萬汽車幸運得主，並抽出2張北海道來回機票、週週抽…",
-   "cities": {
-    "台中市": 11
-   },
-   "districts": [
-    "自由路商圈（台中市）",
-    "大隆路商圈（台中市）",
-    "豐原廟東復興商圈（台中市）",
-    "谷關商圈（台中市）"
-   ],
-   "body_chars": 1033,
-   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/01133951/taichung-cover-261101053949902.jpeg",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/7326/9835309": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-24T19:03+08:00",
-   "site_name": "聯合新聞網",
-   "description": "近年來萬聖節活動被戲稱為「全台創意設計大賽」，其中，台南海安商圈的萬聖節變裝踩街更成為南部知名朝聖活動，今年商圈團隊不僅直接封街舉辦，更把中式靈堂「幽靈殿堂」架設在現場，挑戰玩家膽識，活動今、明兩天登場，今下午已吸引大批遊客湧入，主辦單位預估兩天人潮將破萬人次。",
-   "cities": {
-    "台南市": 8,
-    "嘉義縣": 6,
-    "雲林縣": 3,
-    "高雄市": 1
-   },
-   "districts": [
-    "海安商圈（台南市）",
-    "關子嶺商圈（台南市）"
-   ],
-   "body_chars": 1891,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451248.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-24",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-24/2505391.html": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-24T17:37+08:00",
-   "site_name": "壹電視",
-   "description": "彰化鹿港小吃業者原本期盼三天連假，遊客逛老街，再衝業績高峰，但颱風帶來強烈風雨，預估來客數，比起去年連假，人潮恐怕減少三成。",
-   "cities": {
-    "彰化縣": 2
-   },
-   "districts": [
-    "鹿港老街商圈（彰化縣）"
-   ],
-   "body_chars": 332,
-   "image": "https://image.nexttv.com.tw/material/news/img/2026/10/b71c287bbeccbd1dc64b0138c150d8a5.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-24",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/realtimenews/20261102001580-260421": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T10:29+08:00",
-   "site_name": "中時新聞網",
-   "description": "桃園市大園區老街溪航心橋上下游兩岸已有完整河岸步道，唯獨左岸上游仍有約100公尺缺口，民眾散步時須上下階梯或繞行道路，影響通行安全。桃園市長張善政今（2）日前往現地視察，市府將投入1756萬元新設人行步道，預",
-   "cities": {
-    "桃園市": 5
-   },
-   "districts": [],
-   "body_chars": 682,
-   "image": "https://images.chinatimes.com/newsphoto/2026-11-02/656/20261102001581.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E9%87%91%E4%B8%89%E8%A7%92%E5%95%86%E5%9C%88%E6%A5%AD%E8%80%85%E5%98%86%E7%94%9F%E6%84%8F%E9%9B%A3%E5%81%9A-%E5%BC%B5%E5%B3%BB%E6%8F%903%E9%9A%8E%E6%AE%B5%E5%BE%A9%E7%94%A6%E6%88%90%E7%AB%8B-%E8%A7%80%E5%85%89%E5%B0%8F%E7%B5%84-034557756.html": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T11:45+08:00",
-   "site_name": "Yahoo News",
-   "description": "CNEWS匯流新聞網記者黃泰宇／花蓮報導 無黨籍花蓮縣長候選人張峻1日在志工陪同下，前往花蓮市金三角商圈徒步拜票，向店家及民眾請託支持。張峻表示，適逢週日，沿途卻見多處店面鐵門深鎖、張貼招租告示，部分營業店家也門庭冷清。他提出3階段復甦方案，並承諾未來會持續調整措施，要將經費用在對的地方，要讓公帑真正幫助業者，帶動產業",
-   "cities": {
-    "花蓮縣": 12,
-    "台北市": 3,
-    "高雄市": 3,
-    "台中市": 2,
-    "新北市": 1
-   },
-   "districts": [
-    "花蓮市形象商圈（花蓮縣）"
-   ],
-   "body_chars": 3844,
-   "image": "https://media.zenfs.com/zh-tw/cnews.com.tw/4d681a0dfb2607144ec98738e18e1678.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.tvbs.com.tw/life/4040643": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-24T16:51+08:00",
-   "site_name": "TVBS新聞網",
-   "description": "薔琵颱風對中部地區的影響逐漸減弱，台中各大百貨購物中心於24日幾乎全面恢復營業，其中漢神洲際百貨適逢週年慶，開門時刻便湧現大批人潮，新光三越、大遠百門口也有不少民眾提早等候，不過鹿港老街的遊客人數則尚未回溫，當地店家表示人潮較以往連假減少約3成。",
-   "cities": {
-    "台中市": 11,
-    "彰化縣": 7,
-    "南投縣": 3,
-    "台北市": 2,
-    "苗栗縣": 1
-   },
-   "districts": [
-    "鹿港老街商圈（彰化縣）"
-   ],
-   "body_chars": 2637,
-   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a16d0a-8826-7063-a947-b8c98a9f9883.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,0,1920,1080",
-   "image_checked": true,
-   "date_hint": "2026-10-24",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ettoday.net/news/20261024/3260171.htm": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-24T12:43+08:00",
-   "site_name": "ETtoday新聞雲",
-   "description": "光復節3天連假遇颱風狂襲，彰化連續停班課，讓鹿港老街周邊店家措手不及。儘管天候不佳，一早仍有店家開門做生意，但大風狂襲將看板吹歪，業者趕忙固定招牌，感嘆連假首日生意難做。雖有零星遊客上門，但有人坦言遇到颱風難掩失望，業者預估來客數短少3成，期盼風雨盡快遠離，讓連假商機回溫。",
-   "cities": {
-    "彰化縣": 3,
-    "高雄市": 2,
-    "台北市": 1
-   },
-   "districts": [
-    "鹿港老街商圈（彰化縣）"
-   ],
-   "body_chars": 1053,
-   "image": "https://cdn2.ettoday.net/images/8980/e8980706.png",
-   "image_checked": true,
-   "date_hint": "2026-10-24",
-   "date_hint_from": "原文時間"
-  },
-  "https://travel.udn.com/travel/story/7205/9833992": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-24T14:25+08:00",
-   "site_name": "旅遊",
-   "description": "牛舌佑介拓展台北市場，規劃進駐永康與中山商圈，台北新據點預計2026年第4季展開試營運規劃，正式開幕待公告。",
-   "cities": {
-    "台北市": 19,
-    "新北市": 8
-   },
-   "districts": [
-    "中山商圈（台北市）",
-    "永康商圈（台北市）"
-   ],
-   "body_chars": 2515,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35449473.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-24",
-   "date_hint_from": "原文時間"
-  },
-  "https://mknews.com.tw/2026/10/1008494/": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-24T08:10+08:00",
-   "site_name": "天天上新聞",
-   "description": "【很角色時報李麗華/高雄報導】位於博愛商圈一處廣告帆布，因不 … Read More",
-   "cities": {
-    "高雄市": 3
-   },
-   "districts": [
-    "博愛商圈（桃園市）"
-   ],
-   "body_chars": 236,
-   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-24",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/7266/9851366": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T11:06+08:00",
-   "site_name": "聯合新聞網",
-   "description": "嘉義食品材料行門口掛出的黑板上寫著「沒有油，油在對面」，其實對面是加油站，語氣充滿無奈且反諷。這個令人哭笑不得的場景，正是當前沙拉油缺貨的荒謬寫照。原本一桶22公升的營業用沙拉油，價格從750元一路漲破千元，甚至有錢也買不到。自助餐、炸物店叫苦連天，這場食用油荒，反映的是小老百姓每天的生計。",
-   "cities": {
-    "嘉義": 2,
-    "台中市": 1
-   },
-   "districts": [],
-   "body_chars": 2533,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35476169.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261102264959": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T10:58+08:00",
-   "site_name": "蕃新聞",
-   "description": "「青山瀑布×嵩山百年梯田」山林展演延期至11月7日舉行，結合步道健行、樂舞演出與手機攝影，邀民眾探索",
-   "cities": {
-    "新北市": 6
-   },
-   "districts": [],
-   "body_chars": 788,
-   "image": "https://ni.yam.com/20261102/20261102105018_25-scaled-1-f2327137992f4fd1.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://travel.ettoday.net/article/3259877.htm": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-23T16:42+08:00",
-   "site_name": "ETtoday旅遊雲",
-   "description": "「牛舌佑介」是乾杯集團去年底推出的炭火牛舌定食專賣店，主打最低500元有找的親民價格，近期該品牌插旗永康商圈，與中山店同樣規劃在今年底前開幕。",
-   "cities": {
-    "台北市": 6,
-    "新竹": 4,
-    "桃園市": 1,
-    "台中市": 1,
-    "基隆市": 1
-   },
-   "districts": [
-    "永康商圈（台北市）"
-   ],
-   "body_chars": 1207,
-   "image": "https://cdn2.ettoday.net/images/8542/e8542612.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-23",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/7324/9851620": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T12:14+08:00",
-   "site_name": "聯合新聞網",
-   "description": "桃園市大園區老街溪航心橋上游左岸約100公尺步道長年未銜接，民眾行經時須繞道、走階梯，甚至與車爭道。市長張善政今早上午前往視察，宣布市府將斥資1756萬元補齊步道缺口，預計明年2月開工、6月完工，串聯既有水岸步道，完善老街溪沿岸休憩動線，也讓長者、孩童及身障者通行更安全。",
-   "cities": {
-    "新竹市": 10,
-    "桃園市": 7,
-    "苗栗縣": 2,
-    "台中市": 1,
-    "花蓮縣": 1
-   },
-   "districts": [],
-   "body_chars": 1986,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35476641.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ebc.net.tw/news/living/578648": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T11:38+08:00",
-   "site_name": "東森新聞",
-   "description": "臺中物調券發放100元變200元，吸引大批民眾排隊搶領，市場、商圈、夜市買氣跟著升溫。不過領到券還得把握時間，使用期限從10月30日到11月5日。",
-   "cities": {
-    "台中市": 8
-   },
-   "districts": [],
-   "body_chars": 476,
-   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/02/1793619322_48322.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/posts/list/article/aGp5a18": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "LINE TODAY",
-   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 自由最大聲》新北選將吳昇翰提「老街觀光再復甦」 發揚土城三鶯歷史底蘊",
-   "cities": {
-    "新北市": 3
-   },
-   "districts": [],
-   "body_chars": 128,
-   "image": "https://today-obs.line-scdn.net/0hX-8ndjSIBwIFFxuCKg14VT1BC3M2cR0LJ3lJMXITDjJ7OxNWOHZUYSBDWy54IkgDJXkdYycXXWYqIxNdag/w1200",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://life.tw/article/%E6%96%B0%E5%8C%97%E6%96%B0%E8%8E%8A%E8%80%81%E8%A1%97%E6%96%B0%E9%A2%A8%E6%99%AF-%E7%AC%AC%E4%B8%80%E5%B8%82%E5%A0%B4%E6%94%B9%E9%80%A0%E5%AE%8C%E6%88%90-50%E5%B9%B4%E8%80%81%E5%B8%82%E5%A0%B4%E8%AE%8A%E7%BE%8E%E4%BA%86-3201112": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T00:00+08:00",
-   "site_name": "LIFE 生活網",
-   "description": "新莊第一零售市場斥資7,035萬元完成改造，從外觀到採買環境全面升級。",
-   "cities": {
-    "新北市": 4
-   },
-   "districts": [
-    "新莊廟街商圈（新北市）"
-   ],
-   "body_chars": 616,
-   "image": "https://taiwan.sharelife.tw/tw-news-img/352215/9508011126051122.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://money.udn.com/money/story/7843/9849718?from=edn_subcatelist_cate": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T10:01+08:00",
-   "site_name": "經濟日報",
-   "description": "魔法咖哩台北站前店自即日起首度推出下午茶，14至17時199元享手作甜點及35種冷熱飲，還可加價50元吃冰淇淋。",
-   "cities": {
-    "台北市": 8
-   },
-   "districts": [],
-   "body_chars": 1267,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35473664.jpg&M=2&s=Y&x=0&y=0&sw=1166&sh=744&sl=W&fw=1050&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://money.udn.com/money/story/7843/9849718": {
-   "checked_at": "2026-11-02T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T10:01+08:00",
-   "site_name": "經濟日報",
-   "description": "魔法咖哩台北站前店自即日起首度推出下午茶，14至17時199元享手作甜點及35種冷熱飲，還可加價50元吃冰淇淋。",
-   "cities": {
-    "台北市": 8
-   },
-   "districts": [],
-   "body_chars": 1267,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35473664.jpg&M=2&s=Y&x=0&y=0&sw=1166&sh=744&sl=W&fw=1050&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
    "date_hint_from": "原文時間"
   },
   "https://www.msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E7%99%BC%E5%A8%81%E6%B7%A1%E6%B0%B4%E6%B2%B3%E5%8F%A3%E6%B0%B4%E4%BD%8D%E9%AB%98%E6%BC%B2%E6%B7%A1%E6%B0%B4%E8%80%81%E8%A1%97%E6%BB%BF%E7%9B%AE%E7%8B%BC%E8%97%89-%E8%8B%B1%E5%B0%88%E8%B7%AF%E6%8B%9B%E7%89%8C%E7%A0%B8%E8%90%BD-%E6%9D%B1%E6%A3%AE%E6%B0%A3%E8%B1%A1%E8%AE%9A/vi-AA2fX9dg": {
@@ -8849,6 +7963,830 @@
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
+  },
+  "https://www.chinatimes.com/realtimenews/20261027001835-260405": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T11:03+08:00",
+   "site_name": "中時新聞網",
+   "description": "台中擁有眾多景點，從熱鬧商圈、特色夜市到公園綠地，都是民眾假日出遊的好去處。根據交通部觀光署統計，今年1至8月，台中最強景點由公益路商圈拿下，8個月吸引超過2309萬人次朝聖，周邊匯集各式餐廳、百貨商場及休",
+   "cities": {
+    "台中市": 13
+   },
+   "districts": [
+    "精明一街商圈（台中市）",
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 900,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-27/656/20261027001840.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://thehubnews.net/archives/677138": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T18:22+08:00",
+   "site_name": "新頭條-TheHubNews",
+   "description": "記者張辰卿/台北報導 繽紛燈車走進街區，蘭雅商圈熱鬧迎萬神節！由台北市蘭雅商圈市場發展協會主辦、臺北市商業處指導的「2026蘭雅一呼百應－萬神節藝閣燈車祭」，將於10月26日（一）登場。活動結合藝閣燈車巡遊與店家消費集點，邀請民眾相揪看燈車...",
+   "cities": {
+    "台北市": 8
+   },
+   "districts": [
+    "蘭雅商圈（台北市）"
+   ],
+   "body_chars": 933,
+   "image": "https://www.thehubnews.net/wp-content/uploads/2026/10/rAlXPSIGIysSUJg8pgZs.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261021588278": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T18:22+08:00",
+   "site_name": "蕃新聞",
+   "description": "記者張辰卿/台北報導繽紛燈車走進街區，蘭雅商圈熱鬧迎萬神節！由台北市蘭雅商圈市場發展協會主辦、臺北市",
+   "cities": {
+    "台北市": 8,
+    "基隆市": 1
+   },
+   "districts": [
+    "蘭雅商圈（台北市）"
+   ],
+   "body_chars": 1056,
+   "image": "https://ni.yam.com/20261021/rAlXPSIGIysSUJg8pgZs-ea71784c2cd49831.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ebc.net.tw/news/living/578648": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T11:38+08:00",
+   "site_name": "東森新聞",
+   "description": "臺中物調券發放100元變200元，吸引大批民眾排隊搶領，市場、商圈、夜市買氣跟著升溫。不過領到券還得把握時間，使用期限從10月30日到11月5日。",
+   "cities": {
+    "台中市": 8
+   },
+   "districts": [],
+   "body_chars": 476,
+   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/02/1793619322_48322.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://life.tw/article/%E6%96%B0%E5%8C%97%E6%96%B0%E8%8E%8A%E8%80%81%E8%A1%97%E6%96%B0%E9%A2%A8%E6%99%AF-%E7%AC%AC%E4%B8%80%E5%B8%82%E5%A0%B4%E6%94%B9%E9%80%A0%E5%AE%8C%E6%88%90-50%E5%B9%B4%E8%80%81%E5%B8%82%E5%A0%B4%E8%AE%8A%E7%BE%8E%E4%BA%86-3201112": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T00:00+08:00",
+   "site_name": "LIFE 生活網",
+   "description": "新莊第一零售市場斥資7,035萬元完成改造，從外觀到採買環境全面升級。",
+   "cities": {
+    "新北市": 4
+   },
+   "districts": [
+    "新莊廟街商圈（新北市）"
+   ],
+   "body_chars": 616,
+   "image": "https://taiwan.sharelife.tw/tw-news-img/352215/9508011126051122.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.scooptw.com/local_news/542842/%e8%98%ad%e9%9b%85%e4%b8%80%e5%91%bc%e7%99%be%e6%87%89%ef%bc%81%e6%84%9f%e5%8f%97%e8%98%ad%e9%9b%85%e5%95%86%e5%9c%88%e7%af%80%e6%85%b6%e9%ad%85%e5%8a%9b-%e8%90%ac%e7%a5%9e%e7%af%80%e8%97%9d/": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T18:22+08:00",
+   "site_name": "獨家報導",
+   "description": "記者張辰卿/台北報導  繽紛燈車走進街區，蘭雅商圈熱鬧迎萬神節！由台北市蘭雅商圈市場發展協會主辦、臺北市商業處指導的「2026蘭雅一呼百應－萬神節藝閣燈車祭」，將於10月26日（一）登場。活動結合藝閣燈車巡遊與店家消費集點，邀請民眾相揪看燈車、逛商圈，體驗蘭雅街區的在地風情。  此次活動以「東方萬神節」為主題，呼應天母",
+   "cities": {
+    "台北市": 10
+   },
+   "districts": [
+    "蘭雅商圈（台北市）"
+   ],
+   "body_chars": 957,
+   "image": "https://secure.gravatar.com/avatar/38056bed663bb3a10c5b52ab451e7f9f025b33708bae1d3c2dca2367f3d0868a?s=96&d=retro&r=g",
+   "image_checked": true,
+   "date_hint": "2026-10-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5615082": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-22T16:04+08:00",
+   "site_name": "自由時報電子報",
+   "description": "因應強颱薔琵來襲，原訂於本週末舉辦的「2026天母搞什麼鬼18」確定延期。主辦單位天母商圈公告，活動調整至下週舉行。調整後時程，暖場「百鬼夜行討糖」改為10月25日（日）晚間19:00出發，路線維持從新光三越台北天母店，經忠誠路二段至大葉高島屋。壓軸主活動園遊會則順延至10月26日（一）13:00至20:00，地點在天",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [
+    "天母商圈（台北市）"
+   ],
+   "body_chars": 563,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/22/php4mdVCT.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-22",
+   "date_hint_from": "原文時間"
+  },
+  "https://applealmond.com/posts/329501": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T09:18+08:00",
+   "site_name": "蘋果仁 - 果仁 iPhone/iOS/好物推薦科技媒體",
+   "description": "2026 天母萬聖節延期 10/26！4500 個南瓜桶、250 家免費討糖、塔麻歌子親子攻略 - 蘋果仁 - 果仁 iPhone/iOS/好物推薦科技媒體",
+   "cities": {
+    "台北市": 6
+   },
+   "districts": [
+    "天母商圈（台北市）"
+   ],
+   "body_chars": 2485,
+   "image": "https://applealmond.com/wp-content/uploads/2026/10/1792545060-0e289d81f9a52b25f54d1c8c16d9346a.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://more-news.tw/752223/": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T23:19+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "臺北市副市長張溫德驚喜變裝親臨現場同樂，為活動帶起最高潮！由臺北市商業處輔導台北市天母商圈發展協會辦理「天母搞 […]",
+   "cities": {
+    "台北市": 11,
+    "嘉義市": 2
+   },
+   "districts": [
+    "天母商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1446,
+   "image": "https://more-news.tw/more-news-media/2026/10/IMG_1076-scaled.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://truemii.chinatimes.com/content/20261024001029-265001": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T11:44+08:00",
+   "site_name": "瘋台灣 - 觸mii",
+   "description": "【旅奇傳媒/編輯部報導】從歷史建築、傳統市場到異國美食與特色老店，「桃園老城」與「中壢舊城」藏著許多值得探索的城市故事。為讓來桃園住宿的旅客不只住一晚，更能深入認識城市的人文風景。「桃園市觀光發展基金",
+   "cities": {
+    "桃園市": 26
+   },
+   "districts": [],
+   "body_chars": 1196,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-24/1024/20261024001030.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261021/3258340.htm": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T11:05+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "受到薔琵颱風逼近影響，原定10月23日至10月24日舉辦的超人氣地方盛事「2026天母搞什麼鬼18」主辦單位「天母商圈」緊急宣布活動將順延至10月 25日與10月26日舉行。",
+   "cities": {
+    "台北市": 2,
+    "高雄市": 2
+   },
+   "districts": [
+    "天母商圈（台北市）"
+   ],
+   "body_chars": 1504,
+   "image": "https://cdn2.ettoday.net/images/8976/e8976819.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.contentplatform.info/articles/558205/%E8%B1%90%E5%8E%9F%E8%90%AC%E8%81%96%E5%98%89%E5%B9%B4%E8%8F%AF%E7%99%BB%E5%A0%B4-%E5%8F%B0%E4%B8%AD%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E5%8F%B0%E7%99%BE%E8%90%AC%E6%B1%BD%E8%BB%8A%E7%94%B1%E5%8C%97/": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T23:51+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "萬聖節奇幻登場！台中市政府經發局10月31日於豐原廟東復興商圈的豐原太平洋百貨舉辦「2026豐原萬聖嘉年華」，安排萬聖變裝比賽、特色市集及戰鬥陀螺競賽等活動，吸引大小朋友變裝同樂，現場還有上百位萌鬼共舞、討糖，充滿節慶氣氛。同場也揭曉台中購物節首台百萬汽車幸運得主，並抽出2張北海道來回機票、週週抽…",
+   "cities": {
+    "台中市": 11
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "豐原廟東復興商圈（台中市）",
+    "谷關商圈（台中市）"
+   ],
+   "body_chars": 1033,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/01133951/taichung-cover-261101053949902.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://travel.udn.com/travel/story/7206/9834487": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T08:00+08:00",
+   "site_name": "旅遊",
+   "description": "【旅奇傳媒/編輯部報導】從歷史建築、傳統市場到異國美食與特色老店，「桃園老城」與「中壢舊城」藏著許多值得探索的城市故事。為讓來桃園住宿的旅客不只住一晚，更能深入認識城市的人文風景。「桃園市觀光發展基金會」以旅宿遊客為主要推廣對象，整合旅宿、城市導覽與商圈資源，推出「一起出發！桃園雙城的日常」城市走讀活動。並結合桃園市政",
+   "cities": {
+    "桃園市": 46,
+    "新竹": 3
+   },
+   "districts": [],
+   "body_chars": 2040,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450012.jpg&M=1&s=Y&x=0&y=0&sw=720&sh=480&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mirrormedia.mg/story/20261020hea03": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-21T10:30+08:00",
+   "site_name": "鏡週刊 Mirror Media",
+   "description": "受到薔琵颱風逼近影響，原定10月23日至10月24日舉辦的超人氣地方盛事「2026天母搞什麼鬼18」主辦單位「天母商圈」緊急宣布活動將順延至10月 25日與10月26日舉行。",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [
+    "天母商圈（台北市）"
+   ],
+   "body_chars": 881,
+   "image": "https://v3-statics.mirrormedia.mg/images/df1b1846-bf8a-41e1-9a32-3cfa87be0c0c-w1600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.nownews.com/news/6886016": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T05:55+08:00",
+   "site_name": "NOWnews今日新聞",
+   "description": "2026年的萬聖節日期為10月31日，本周末全台各地率先推出萬聖節活動，偏又遇上薔琵颱風攪局，本周兩大萬聖節活動包含「天母搞什麼鬼」、「桃園萬聖城」都被迫延期舉辦。...",
+   "cities": {
+    "桃園市": 4,
+    "台北市": 2,
+    "高雄市": 2,
+    "苗栗縣": 1
+   },
+   "districts": [],
+   "body_chars": 804,
+   "image": "https://media.nownews.com/nn_media/thumbnail/2026/10/1792753489984-9f5f9833c8fc4b25b0f1217f6882f719-800x531.webp?unShow=false",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261024303429": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T09:00+08:00",
+   "site_name": "蕃新聞",
+   "description": "整合旅宿、城市導覽與商圈資源，推出「一起出發！桃園雙城的日常」城市走讀活動。　圖：桃園市觀光發展基金",
+   "cities": {
+    "桃園市": 32,
+    "新竹縣": 2
+   },
+   "districts": [],
+   "body_chars": 1555,
+   "image": "https://ni.yam.com/20261024/20261022020232619-aa09f65a81caafce.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.nownews.com/news/6884781": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-19T17:02+08:00",
+   "site_name": "NOWnews今日新聞",
+   "description": "2026天母搞什麼鬼延期了！原訂這周五、周六登場的台北天母年度萬聖節活動，因應薔瑟颱風影響，主辦單位今（19）日宣布調整活動時間，將延期至10月25日、26日，也就是這...",
+   "cities": {
+    "台北市": 2,
+    "宜蘭縣": 2,
+    "新北市": 1,
+    "桃園市": 1,
+    "基隆市": 1
+   },
+   "districts": [],
+   "body_chars": 805,
+   "image": "https://media.nownews.com/nn_media/thumbnail/2025/10/1761820714952-bd0876a206d743e3967b54bfe72a1d03-1200x801.webp?unShow=false",
+   "image_checked": true,
+   "date_hint": "2026-10-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E6%98%9F-%E9%9A%B1%E8%97%8F%E8%80%81%E8%A1%97-%E6%84%8F%E5%A4%96%E7%88%86%E7%B4%85-%E7%B6%B2%E6%8E%A8%E5%A5%BD%E5%90%83%E5%8F%88%E5%A5%BD%E9%80%9B-%E9%A2%A8%E6%99%AF%E8%AA%98%E4%BA%BA-000000045.html": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T08:00+08:00",
+   "site_name": "Yahoo News",
+   "description": "台灣老街各具特色，除了知名的九份、淡水，位於新北市的坪林老街近期在社群平台上引發熱議。一名網友分享當地茶製美食體驗，大讚茶冰淇淋、茶麻糬等點心風味絕佳，貼文吸引上萬人按讚。不少曾造訪的遊客紛紛留言「完",
+   "cities": {
+    "台北市": 12,
+    "新北市": 9,
+    "宜蘭縣": 4,
+    "高雄市": 3,
+    "台中市": 1
+   },
+   "districts": [
+    "南機場商圈（台北市）",
+    "北埔老街商圈（新竹縣）",
+    "鹿港老街商圈（彰化縣）",
+    "太平老街商圈（嘉義縣）"
+   ],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/no/supertaste_tvbs_com_tw_971/7fb58e694bfdb3b579c5ec26f4b76bc8",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ftvnews.com.tw/news/detail/2026A26L03M1": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T20:20+08:00",
+   "site_name": "民視新聞網",
+   "description": "生活中心／綜合報導台北市信義區百貨商圈旁的負壓吸菸室，昨天（25）晚間突然濃煙密布，消防人員獲報緊急到場處理，不過這已經不是第一次，短短5個月內，6處指定吸菸區就發生11起冒煙、悶燒事件，加上最新這一起，就有12起火警通報！讓議員痛批，市府根本是規劃不周、倉促上路！",
+   "cities": {
+    "台北市": 2,
+    "新北市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 820,
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/066eb957-969e-4130-b094-7e934ba835bf.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ftvnews.com.tw/news/detail/2026A26L05M1": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T20:18+08:00",
+   "site_name": "民視新聞網",
+   "description": "生活中心／綜合報導台北市長蔣萬安力推的負壓吸菸室，又出包！信義區一處負壓吸菸室，昨天（25）晚間冒出大量濃煙，消防人員緊急到場處理，沒想到這回出問題的，竟還是市府新設計的熄菸桶。不過短短5個月，全市已經累計12起冒煙、悶燒等事件，議員更痛批，無菸城市政策18次會議，蔣萬安一次都沒出席。",
+   "cities": {
+    "台北市": 9,
+    "新北市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1379,
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/403ed37b-a447-499f-b3b4-68813d68ff0d.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://lifenews.com.tw/604469": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T03:27+08:00",
+   "site_name": "民生電子報",
+   "description": "【記者 江育銓/採訪報導】 為推動萬里地方文化傳承、低碳旅遊、長者關懷與商圈發展，由TTBA臺灣全國觀光暨商圈 […]",
+   "cities": {
+    "新北市": 7
+   },
+   "districts": [
+    "萬里商圈（新北市）",
+    "野柳商圈（新北市）"
+   ],
+   "body_chars": 1821,
+   "image": "https://lifenews.com.tw/wp-content/uploads/2026/10/2034832_0.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5619352": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T18:51+08:00",
+   "site_name": "自由時報電子報",
+   "description": "歷經約1個月打造，台南左鎮老街新增一座竹構造涼亭，除了可作為舉辦活動、體驗課程的空間，內部也展示竹製的家具、花器、淺山地區植物的印染工藝等，將竹帶回日常生活中，展現全竹工藝，後續也將推出竹工藝相關的體驗課程。該棟竹構造涼亭由左鎮竹苑學員合力打造，約有20人陸續參與，也是左鎮竹資源循環示範與環境教育推廣計畫的成果展示，獲",
+   "cities": {
+    "台南市": 5
+   },
+   "districts": [],
+   "body_chars": 651,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/26/5619352_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.contentplatform.info/articles/546796/%E5%8F%B0%E4%B8%AD%E8%90%AC%E8%81%96%E7%AF%80%E6%B4%BB%E5%8B%95%E5%9C%B0%E5%9C%96%E3%80%80%E8%B1%90%E5%8E%9F%E5%95%86%E5%9C%8810-31%E8%A8%8E%E7%B3%96%E5%98%89%E5%B9%B4%E8%8F%AF%E3%80%80%E5%B8%82/": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-23T15:12+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "經發局與豐原廟東復興商圈10/31在豐原太平洋百貨廣場辦萬聖嘉年華，12歲以下兒童逛商圈討糖霧峰以文分館10/31辦親子萬聖變裝大遊行，新社分館同日推萬聖捕夢網手作",
+   "cities": {
+    "台中市": 12
+   },
+   "districts": [
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 909,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/23141258/halloween-art-taichung-1-261023061148189.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-10-23",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%B7%A6%E9%8E%AE%E8%80%81%E8%A1%97%E7%AB%B9%E6%A7%8B%E9%80%A0%E6%B6%BC%E4%BA%AD%E5%AE%8C%E5%B7%A5-%E5%AE%B6%E5%85%B7-%E8%8A%B1%E5%99%A8%E5%85%A8%E7%AB%B9%E5%B7%A5%E8%97%9D%E8%B5%B0%E5%85%A5%E7%94%9F%E6%B4%BB-105128056.html": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T18:51+08:00",
+   "site_name": "Yahoo News",
+   "description": "歷經約1個月打造，台南左鎮老街新增一座竹構造涼亭，除了可作為舉辦活動、體驗課程的空間，內部也展示竹製的家具、花器、淺山地區植物的印染工藝等，將竹帶回日常生活中，展現全竹工藝，後續也將推出竹工藝相關的體驗課程。該棟竹構造涼亭由左鎮竹苑學員合力打造，約有20人陸續參與，也是左鎮竹資源循環示範與環境教育推",
+   "cities": {
+    "台北市": 10,
+    "台南市": 5,
+    "新北市": 1,
+    "桃園市": 1,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 3655,
+   "image": "https://media.zenfs.com/ko/libertytimes_786/4483b210806c0d8a9735d3775dde2202.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261026001942-260405": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T14:30+08:00",
+   "site_name": "中時新聞網",
+   "description": "颱風假加上光復節連假4天，台南市累積破百萬遊客，以傳統老街與商圈景點最吸引人潮，屢奪人潮冠軍的國華友愛新商圈，因連假期間周遭廁所不敷使用，引起遊客怨聲連連，商圈26日控訴文化局管理的公廁在委外經營後始終",
+   "cities": {
+    "台南市": 10
+   },
+   "districts": [
+    "國華友愛新商圈（台南市）",
+    "關子嶺商圈（台南市）"
+   ],
+   "body_chars": 756,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-26/656/20261026001943.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261025273854": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T01:11+08:00",
+   "site_name": "蕃新聞",
+   "description": "（媒角抵加／林忠勳報導）台南海安路萬聖節把中式靈堂搬上封街現場，設置2副棺材與牛頭馬面主題布置，成為",
+   "cities": {
+    "台南市": 8
+   },
+   "districts": [
+    "海安商圈（台南市）"
+   ],
+   "body_chars": 2272,
+   "image": "https://ni.yam.com/20261025/haian-halloween-coffins-20261025-hero-v1-2294fbf5347ebf52.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-25",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E6%A3%BA%E6%9D%90-%E7%89%9B%E9%A0%AD%E9%A6%AC%E9%9D%A2%E4%BB%8A%E6%99%9A%E4%B8%8A%E9%99%A3-%E5%8F%B0%E5%8D%97%E5%95%86%E5%9C%88%E8%90%AC%E8%81%96%E7%AF%80%E4%B8%AD%E5%BC%8F%E9%9D%88%E5%A0%82-%E6%8C%91%E6%88%B0%E8%86%BD%E8%AD%98%E8%A9%95%E5%83%B9%E5%85%A9%E6%A5%B5-141023753.html": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T22:10+08:00",
+   "site_name": "Yahoo News",
+   "description": "近年來萬聖節活動被戲稱為「全台創意設計大賽」，其中，台南海安商圈的萬聖節變裝踩街更成為南部知名朝聖活動，今年商圈團隊不僅直接封街舉辦，更把中式靈堂「幽靈殿堂」架設在現場，挑戰玩家膽識，活動今、明兩天登場，今下午已吸引大批遊客湧入，主辦單位預估兩天人潮將破萬人次。",
+   "cities": {
+    "台北市": 16,
+    "台南市": 6,
+    "高雄市": 3,
+    "新北市": 1,
+    "台中市": 1
+   },
+   "districts": [
+    "南機場商圈（台北市）",
+    "海安商圈（台南市）"
+   ],
+   "body_chars": 3587,
+   "image": "https://media.zenfs.com/ko/udn.com/e789291bd170240e6df7df4d12d57a4b.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261024002810-260421": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T18:55+08:00",
+   "site_name": "中時新聞網",
+   "description": "隨著科技浪潮席捲全球，一句「誰還在看書」將閱讀歸類為次文化，但由小沐屋等3家獨立書店發起的「屏本市：潮海書田」書市集，打破大眾刻板印象，他們不僅邀集南台灣20家書店齊聚屏東縣潮州鎮建基老街，還在1周內募款",
+   "cities": {
+    "屏東縣": 6,
+    "台北市": 1,
+    "桃園市": 1,
+    "台南市": 1,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 1106,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-24/656/20261024002811.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E9%80%A3%E5%81%87%E5%85%A9%E6%A8%A3%E6%83%85-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E5%86%B7%E6%B8%85-%E5%8F%B0%E4%B8%AD%E6%BC%A2%E7%A5%9E%E7%99%BE%E8%B2%A8%E4%BA%BA%E6%BD%AE%E7%88%86%E6%BB%BF-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fX9R7": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.ctee.com.tw/news/20261026700481-431401": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T14:30+08:00",
+   "site_name": "中時即時",
+   "description": "颱風假加上光復節連假4天，台南市累積破百萬遊客，以傳統老街與商圈景點最吸引人潮，屢奪人潮冠軍的國華友愛新商圈，因連假期間周遭廁所不敷使用，引起遊客怨聲連連，商圈26日控訴文化局管理的公廁在委外經營後始終未開放，台南市文化局強調已告知委外業者需提供使用。 台南市光復節連假活動滿檔，包括海安路萬聖節、漁...",
+   "cities": {
+    "台南市": 12
+   },
+   "districts": [
+    "國華友愛新商圈（台南市）",
+    "關子嶺商圈（台南市）"
+   ],
+   "body_chars": 731,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-10-26/1024/20261026700482.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5618433": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T22:48+08:00",
+   "site_name": "自由時報電子報",
+   "description": "屏東縣潮州鎮公所舉辦的「大潮祭」已經行之有年，跨國交流始終不斷，今年邀請印度帕魯爾大學表演系女子團的學生前來表演，異國舞蹈昨今兩天在三山國王廟前直接開演，吸引大批民眾駐足觀賞。「大潮祭」昨天開始建基老街封街，還跨界與在地獨立書店小沐屋書坊策畫「屏本市─潮海書田」主題市集區合辦，建基路加上日式歷史建築文化園區合計多達百攤",
+   "cities": {
+    "屏東縣": 3
+   },
+   "districts": [],
+   "body_chars": 994,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618433_5_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-25",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E7%BA%8C%E6%94%BE%E9%A2%B1%E9%A2%A8%E5%81%87-%E5%8F%B0%E4%B8%AD%E4%BA%BA%E9%96%8B%E9%80%9B%E7%99%BE%E8%B2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E4%BA%BA%E6%BD%AE%E5%B0%913%E6%88%90/ar-AA2fY8ZE": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://udn.com/news/story/7326/9835309": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T19:03+08:00",
+   "site_name": "聯合新聞網",
+   "description": "近年來萬聖節活動被戲稱為「全台創意設計大賽」，其中，台南海安商圈的萬聖節變裝踩街更成為南部知名朝聖活動，今年商圈團隊不僅直接封街舉辦，更把中式靈堂「幽靈殿堂」架設在現場，挑戰玩家膽識，活動今、明兩天登場，今下午已吸引大批遊客湧入，主辦單位預估兩天人潮將破萬人次。",
+   "cities": {
+    "台南市": 12,
+    "嘉義": 9
+   },
+   "districts": [
+    "海安商圈（台南市）",
+    "關子嶺商圈（台南市）"
+   ],
+   "body_chars": 1844,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451248.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-24/2505391.html": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T17:37+08:00",
+   "site_name": "壹電視",
+   "description": "彰化鹿港小吃業者原本期盼三天連假，遊客逛老街，再衝業績高峰，但颱風帶來強烈風雨，預估來客數，比起去年連假，人潮恐怕減少三成。",
+   "cities": {
+    "彰化縣": 2
+   },
+   "districts": [
+    "鹿港老街商圈（彰化縣）"
+   ],
+   "body_chars": 332,
+   "image": "https://image.nexttv.com.tw/material/news/img/2026/10/b71c287bbeccbd1dc64b0138c150d8a5.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261105849112": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T11:23+08:00",
+   "site_name": "蕃新聞",
+   "description": "【記者 潘靖茹／臺北報導】臺北市南昌家具商圈將於115年11月7日及11月8日，兩天內每日10時至1",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 443,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://travel.udn.com/travel/story/7205/9833992": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T14:25+08:00",
+   "site_name": "旅遊",
+   "description": "牛舌佑介拓展台北市場，規劃進駐永康與中山商圈，台北新據點預計2026年第4季展開試營運規劃，正式開幕待公告。",
+   "cities": {
+    "台北市": 16,
+    "新北市": 1
+   },
+   "districts": [
+    "中山商圈（台北市）",
+    "永康商圈（台北市）"
+   ],
+   "body_chars": 1900,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35449473.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261024/3260171.htm": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T12:43+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "光復節3天連假遇颱風狂襲，彰化連續停班課，讓鹿港老街周邊店家措手不及。儘管天候不佳，一早仍有店家開門做生意，但大風狂襲將看板吹歪，業者趕忙固定招牌，感嘆連假首日生意難做。雖有零星遊客上門，但有人坦言遇到颱風難掩失望，業者預估來客數短少3成，期盼風雨盡快遠離，讓連假商機回溫。",
+   "cities": {
+    "彰化縣": 3,
+    "高雄市": 2,
+    "台北市": 1
+   },
+   "districts": [
+    "鹿港老街商圈（彰化縣）"
+   ],
+   "body_chars": 1093,
+   "image": "https://cdn2.ettoday.net/images/8980/e8980706.png",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/7843/9849718": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T10:01+08:00",
+   "site_name": "經濟日報",
+   "description": "魔法咖哩台北站前店自即日起首度推出下午茶，14至17時199元享手作甜點及35種冷熱飲，還可加價50元吃冰淇淋。",
+   "cities": {
+    "台北市": 8
+   },
+   "districts": [],
+   "body_chars": 1347,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35473664.jpg&M=2&s=Y&x=0&y=0&sw=1166&sh=744&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7266/9851366": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T11:06+08:00",
+   "site_name": "聯合新聞網",
+   "description": "嘉義食品材料行門口掛出的黑板上寫著「沒有油，油在對面」，其實對面是加油站，語氣充滿無奈且反諷。這個令人哭笑不得的場景，正是當前沙拉油缺貨的荒謬寫照。原本一桶22公升的營業用沙拉油，價格從750元一路漲破千元，甚至有錢也買不到。自助餐、炸物店叫苦連天，這場食用油荒，反映的是小老百姓每天的生計。",
+   "cities": {
+    "嘉義": 2,
+    "台北市": 1,
+    "桃園市": 1,
+    "基隆市": 1,
+    "宜蘭縣": 1
+   },
+   "districts": [],
+   "body_chars": 2353,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35476169.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://travel.ettoday.net/article/3259877.htm": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-23T16:42+08:00",
+   "site_name": "ETtoday旅遊雲",
+   "description": "「牛舌佑介」是乾杯集團去年底推出的炭火牛舌定食專賣店，主打最低500元有找的親民價格，近期該品牌插旗永康商圈，與中山店同樣規劃在今年底前開幕。",
+   "cities": {
+    "台北市": 7,
+    "新竹": 4,
+    "台南市": 1
+   },
+   "districts": [
+    "永康商圈（台北市）"
+   ],
+   "body_chars": 1202,
+   "image": "https://cdn2.ettoday.net/images/8542/e8542612.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-23",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/life/4040643": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T16:51+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "薔琵颱風對中部地區的影響逐漸減弱，台中各大百貨購物中心於24日幾乎全面恢復營業，其中漢神洲際百貨適逢週年慶，開門時刻便湧現大批人潮，新光三越、大遠百門口也有不少民眾提早等候，不過鹿港老街的遊客人數則尚未回溫，當地店家表示人潮較以往連假減少約3成。",
+   "cities": {
+    "台中市": 11,
+    "彰化縣": 7,
+    "南投縣": 3,
+    "台北市": 2,
+    "苗栗縣": 1
+   },
+   "districts": [
+    "鹿港老街商圈（彰化縣）"
+   ],
+   "body_chars": 2637,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a16d0a-8826-7063-a947-b8c98a9f9883.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,0,1920,1080",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.travel.taipei/zh-tw/news/details/68306": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T00:00+08:00",
+   "site_name": "臺北旅遊網",
+   "description": "由臺北市政府文化局主辦的「2026臺北白晝之夜」於11月1日凌晨圓滿落幕。今年邁入第11屆，以「NIGHT KA SHI 夜卡西」為主題，從臺灣熟悉的那卡西文化汲取靈感，將流動、即興與人群相遇的精神轉化為城市藝術行動。活動場域以圓山為核心，串聯圓山自然景觀公園、花博公園圓山園區，延伸至民族東路及晴光市場周邊，並首度打開",
+   "cities": {
+    "台北市": 23
+   },
+   "districts": [
+    "圓山商圈（台北市）",
+    "至聖花博商圈（台北市）",
+    "大龍峒商圈（台北市）",
+    "中山北路婚紗商圈（台北市）",
+    "中山商圈（台北市）",
+    "晴光商圈（台北市）"
+   ],
+   "body_chars": 2708,
+   "image": "https://www.travel.taipei/content/images/articles/584730/1024x768_articles-image-9ne9_aox20syh2qc9bzdbq.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://mknews.com.tw/2026/10/1008494/": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-10-24T08:10+08:00",
+   "site_name": "天天上新聞",
+   "description": "【很角色時報李麗華/高雄報導】位於博愛商圈一處廣告帆布，因不 … Read More",
+   "cities": {
+    "高雄市": 3
+   },
+   "districts": [
+    "博愛商圈（桃園市）"
+   ],
+   "body_chars": 236,
+   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://hakkanews.tw/2026/11/05/310604/": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T10:27+08:00",
+   "site_name": "客新聞 HakkaNews",
+   "description": "【客庄中心／綜合報導】桃園市政府觀光旅遊局整合大溪、龍潭及石門水庫周邊古道、步道與景點，推出全新步道旅遊品牌「...",
+   "cities": {
+    "桃園市": 8
+   },
+   "districts": [],
+   "body_chars": 1162,
+   "image": "https://gcs.hakkanews.tw/2026/11/2026-11-04-1024x768-attractions-image-ilrywl2wt0iswz-nbztuga.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taichung.gov.tw/3400033/post": {
+   "checked_at": "2026-11-05T12:18+08:00",
+   "status": "error",
+   "error": "The read operation timed out"
   }
  }
 }
