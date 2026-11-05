@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-05T07:17:20+08:00",
+ "fetched_at": "2026-11-05T09:32:14+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 90,
+  "raw": 95,
   "kept": 35,
   "resolved": 35,
   "items": 33,
   "resolve_this_run": {
-   "online": 4
+   "online": 1
   },
   "dropped_old": [
    "捷運三鶯線今起至8/31免費搭 途經老街通車首日湧觀光人潮（原文日期 2026-06-30）",
@@ -57,6 +57,16 @@
    "resolved": true
   },
   {
+   "title": "討論牆 | 鶯歌老街借錢遭拒! 男子搶走4萬元現金落跑 6小時新竹落網",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zbkp2c3NpNFRBUV9YQnRoYW1Gb2RnSlNHbkdWdlFqZjNYMjFZT1h4dTZya21jUzhpNnExbkh3M3RTbVc4NUxmSEJVVDRDZ3pNMFN4TC0tSmJ0UFFRcG9JUXVuVEs?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-04T18:23+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/BEmQrV2",
+   "resolved": true
+  },
+  {
    "title": "全台首創！ 高雄三多商圈設「標線型圓環」事故降低",
    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCWTR3c0R4dXQtMFVfUjB1WWpLU3pyZU45S2NROWlXLWtsR2h0QTZNYVgwcGlVUmNKelFXeUlCYXdUUjRhLS15LXFKYnBRNTJmTlc3Y3R6U2xJUTVVbVFwSg?oc=5",
    "source": "民視新聞網",
@@ -74,6 +84,16 @@
    "published_at": "2026-11-04T16:02+08:00",
    "query": "商圈",
    "url": "https://www.chilling.tw/article/90430",
+   "resolved": true
+  },
+  {
+   "title": "真正的美味藏在巷弄裡！三峽、鶯歌在地人認證5家必吃美食，只逛老街太可惜啦| 台灣旅行小幫手| 風生活",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KSW1UcTZJTkpIZ3EyckV4TTF0dlFPQzZNZkZLQW82WWxpNGxvb1NfMUd4VmY0ZC0xQWhpU1FxQVdYMjc2TDN2cGIta0hVMDBF?oc=5",
+   "source": "風傳媒",
+   "source_site": "https://www.storm.mg",
+   "published_at": "2026-11-04T15:05+08:00",
+   "query": "老街",
+   "url": "https://www.storm.mg/lifestyle/11178443",
    "resolved": true
   },
   {
@@ -147,16 +167,6 @@
    "resolved": true
   },
   {
-   "title": "建商獵地台中三商圈夯- 產業特刊- 工商時報",
-   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wOFN2QjRGbllpREZqRS1BN1BtLUJxMi12X3VFSFRrLURIZlZ0TEhuSmpsbDN4dUNNQnhMaXFFbEhqd1lEeXlaRjJuQW5pb0RvZG5rcWxST0ZNYUZHQ2Q0OWhEbVBOTkVmVDFF?oc=5",
-   "source": "中時新聞網",
-   "source_site": "https://www.chinatimes.com",
-   "published_at": "2026-11-04T04:10+08:00",
-   "query": "商圈",
-   "url": "https://www.chinatimes.com/newspapers/20261104000344-260210",
-   "resolved": true
-  },
-  {
    "title": "舊商圈翻新 永和頂溪公辦都更",
    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVmJwcENmZF9UcVR4ZVczMVZ1cmp6dkRJcWM3Y3hiTXJoeWJES0doM1JWUm9KZGtZM3RaemFzblFnTG9OTkVEM3NES2xwNzJLanFzUkYwdWh6VzF0ZHFnLXhjTV96YkRiQl9F?oc=5",
    "source": "中時新聞網",
@@ -164,6 +174,16 @@
    "published_at": "2026-11-04T04:10+08:00",
    "query": "商圈",
    "url": "https://www.chinatimes.com/newspapers/20261104000643-260107",
+   "resolved": true
+  },
+  {
+   "title": "建商獵地台中三商圈夯- 產業特刊- 工商時報",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wOFN2QjRGbllpREZqRS1BN1BtLUJxMi12X3VFSFRrLURIZlZ0TEhuSmpsbDN4dUNNQnhMaXFFbEhqd1lEeXlaRjJuQW5pb0RvZG5rcWxST0ZNYUZHQ2Q0OWhEbVBOTkVmVDFF?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-04T04:10+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/newspapers/20261104000344-260210",
    "resolved": true
   },
   {
@@ -317,16 +337,6 @@
    "resolved": true
   },
   {
-   "title": "老街溪步道將改善 航心橋上游增百米人行道",
-   "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxME96SzgxLWY2Mi01N09fM2FWMFBQUTdIUDY2cGZXZWc2VEZyZWt5THU3QUl3OXJLbFhVdEhzM2pVaDdqNUdqY19jY2VZSk9Xa1BWcw?oc=5",
-   "source": "新頭條",
-   "source_site": "https://www.thehubnews.net",
-   "published_at": "2026-11-03T13:24+08:00",
-   "query": "老街",
-   "url": "https://www.thehubnews.net/archives/680414",
-   "resolved": true
-  },
-  {
    "title": "高雄2大商圈要變了！黃線聯開案過關 建工商圈將蓋3棟大樓",
    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9leDlNVmVfT1R6SlJPM1RQemNxTnFLcVFNaWoycERQcV9nLVEwTm9ZNFlFLXA1LXdGQ1NUeW5xTF9hbEU1TmNwUUlJbjNCdEc2?oc=5",
    "source": "自由時報",
@@ -334,16 +344,6 @@
    "published_at": "2026-11-03T12:31+08:00",
    "query": "商圈",
    "url": "https://estate.ltn.com.tw/article/29214",
-   "resolved": true
-  },
-  {
-   "title": "日商店街驚傳墜樓！洗窗工6樓高摔落 「穿著安全裝備」砸地爆頭亡",
-   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55WnRtQmJlcERmNkExU19vLXJ0LUY4RjY0SjVqZF9Ca2pKcWl1cV9CcUs0MkkxSWRMT2w2aGdCaUhjXzV4bFBiZjVJTUo1TUk?oc=5",
-   "source": "TVBS新聞網",
-   "source_site": "https://news.tvbs.com.tw",
-   "published_at": "2026-11-03T09:01+08:00",
-   "query": "商店街",
-   "url": "https://news.tvbs.com.tw/world/4044969",
    "resolved": true
   }
  ]

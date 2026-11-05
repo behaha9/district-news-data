@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T07:17:31+08:00",
+ "fetched_at": "2026-11-05T09:32:24+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-11-04T20:51+08:00",
@@ -187,86 +187,6 @@
    ],
    "body_chars": 488,
    "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/01193613/T90052a-20261101152734346-0-1024x907.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.msn.com/zh-tw/news/other/%E7%8D%A8%E5%AE%B6-%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E5%90%8A%E8%BB%8A%E4%B8%80%E8%BD%89-%E6%93%8A%E7%A0%B4%E5%85%AC%E8%BB%8A%E7%8E%BB%E7%92%83-%E5%9A%87%E5%A3%9E%E4%B9%98%E5%AE%A2-2026-10-31-%E6%88%BF%E6%A5%AD%E6%B6%B5%E6%99%9A%E5%A0%B1-newsebc/vi-AA2gtHnb": {
-   "checked_at": "2026-11-02T08:54+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "網址"
-  },
-  "https://www.chinatimes.com/realtimenews/20261029004582-260421": {
-   "checked_at": "2026-11-02T08:54+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T20:53+08:00",
-   "site_name": "中時新聞網",
-   "description": "金價持續走高，台南鹽水商圈卻連年拿黃金當摸彩大獎，讓吃貨也有機會當「金主」！「2026鹽水嘉年華－意暖鹽水 光映月津」將於11月1日登場，今年祭出3錢黃金金元寶，還加碼金戒指，另有iPad、腳踏車及現金獎等好禮。",
-   "cities": {
-    "台南市": 4
-   },
-   "districts": [
-    "鹽水商圈（台南市）"
-   ],
-   "body_chars": 784,
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-29/656/20261029004583.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E7%B6%93%E6%BF%9F%E9%83%A8-%E5%85%A8%E5%8A%9B%E5%8D%94%E5%8A%A9%E6%A5%AD%E8%80%85%E5%A2%9E%E7%94%A2%E5%8F%8A%E5%8A%A0%E9%80%9F%E9%80%B2%E5%8F%A3-093832419.html": {
-   "checked_at": "2026-11-02T08:54+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T17:38+08:00",
-   "site_name": "Yahoo News",
-   "description": "經濟部今（30）日表示，為因應中聯油脂停工對國內沙拉油供應造成的影響，持續受理食品業者用油需求，透過供需媒合、協調增產及鼓勵進口等措施，增加市場供應來源，協助業者取得所需原料。目前經濟部收到各界用油請求，除先前媒合大型業者外，也將協助中小型業者以商圈或夜市自治會為單位，由經濟部進行媒合協助，另外也呼籲地方政府及業者能讓",
-   "cities": {},
-   "districts": [],
-   "body_chars": 3607,
-   "image": "https://media.zenfs.com/ko/ebc__387/13921c2446e4cf9e65507e48cbccef08.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/politics/breakingnews/5624988": {
-   "checked_at": "2026-11-02T08:54+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T16:27+08:00",
-   "site_name": "自由時報電子報",
-   "description": "台北市長蔣萬安今（31日）身體不適後首露面，與太太石舫亘分進合擊。蔣萬安出席電視辯論會後，趕場出席市議員候選人李傅鈺、柳采葳競選總部成立活動，以及同志大遊行；石舫亘則到迪化商圈掃街，立委王鴻薇、台北市議會副議長葉林傳、議員陳炳甫、議員候選人李易儒也陪同拜票。石舫亘今天下午到迪化商圈掃街，適逢霞海城隍廟有活動，人潮不少，",
-   "cities": {
-    "台北市": 5
-   },
-   "districts": [],
-   "body_chars": 629,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/31/5624988_1_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-01/2512936.html": {
-   "checked_at": "2026-11-02T08:54+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T20:15+08:00",
-   "site_name": "壹電視",
-   "description": "西門町商圈有水果攤價格標示不清，還有街頭畫家疑似用AI來作畫誆騙消費者。",
-   "cities": {
-    "台北市": 1
-   },
-   "districts": [
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 272,
-   "image": "https://image.nexttv.com.tw/material/news/img/2026/11/2f65bd307a88ee9146c4c106c9485fbb.jpg",
    "image_checked": true,
    "date_hint": "2026-11-01",
    "date_hint_from": "原文時間"
@@ -7570,7 +7490,7 @@
    "date_hint_from": null
   },
   "https://www.yesmedia.com.tw/%e8%87%ba%e5%8d%97%e8%b3%bc%e7%89%a9%e7%af%80%e6%b6%88%e8%b2%bb%e7%aa%81%e7%a0%b430%e5%84%84%e5%85%83%ef%bc%81%e5%8a%a0%e7%a2%bc%e6%8a%bd%e9%9b%bb%e5%8b%95%e8%bb%8a11%e6%9c%88%e5%95%86%e5%9c%88/": {
-   "checked_at": "2026-11-04T21:37+08:00",
+   "checked_at": "2026-11-05T09:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -8693,6 +8613,242 @@
    "image_checked": true,
    "date_hint": "2026-06-30",
    "date_hint_from": "原文時間"
+  },
+  "https://news.fclnews.com/58462": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.chinatimes.com/realtimenews/20261029004582-260421": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T20:53+08:00",
+   "site_name": "中時新聞網",
+   "description": "金價持續走高，台南鹽水商圈卻連年拿黃金當摸彩大獎，讓吃貨也有機會當「金主」！「2026鹽水嘉年華－意暖鹽水 光映月津」將於11月1日登場，今年祭出3錢黃金金元寶，還加碼金戒指，另有iPad、腳踏車及現金獎等好禮。",
+   "cities": {
+    "台南市": 4
+   },
+   "districts": [
+    "鹽水商圈（台南市）"
+   ],
+   "body_chars": 784,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-29/656/20261029004583.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E8%90%AC%E8%81%96%E7%AF%80%E7%8B%82%E6%AD%A1-%E6%9D%BE%E5%A3%BD%E8%B7%AF%E5%96%AE%E5%A4%9C%E4%BA%BA%E6%B5%81%E7%A0%B4%E8%90%AC%E7%B3%BE%E7%B4%9B%E4%BA%8B%E4%BB%B6%E9%A0%BB%E5%82%B3-091333115.html": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T17:13+08:00",
+   "site_name": "Yahoo News",
+   "description": "社會中心／李豫翰、洪國凱 台北報導適逢萬聖節，台北市信義商圈31號晚間湧入大量扮裝狂歡民眾。警方初步估計，光是松壽路20巷酒吧街一帶，單夜人流就突破萬人。然而，在酒精催化之下，現場也相繼傳出行車糾紛與街頭鬥毆事件。",
+   "cities": {
+    "台北市": 19,
+    "新北市": 3,
+    "高雄市": 3,
+    "桃園市": 2,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 3630,
+   "image": "https://media.zenfs.com/ko/ftvn.com.tw/b3a526204d02daa95ff9f8efc0f9b2a9.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E8%AA%A0%E5%93%81%E5%8F%96%E5%BE%97%E6%8D%B7%E9%81%8B%E4%B8%AD%E5%B1%B1%E7%AB%99%E5%95%86%E9%8B%AA%E4%BD%BF%E7%94%A8%E6%AC%8A-%E4%B8%B2%E9%80%A3%E5%8D%97%E8%A5%BF%E5%95%86%E5%9C%88/ar-AA2gqcVk": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://tw.news.yahoo.com/%E5%B8%82%E5%BA%9C%E4%BB%A3%E5%94%AE%E5%9C%B047%E6%A8%99-%E5%9C%8B%E8%8F%AF%E5%95%86%E5%9C%88%E5%9C%A8%E5%88%97-121737726.html": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T20:17+08:00",
+   "site_name": "Yahoo News",
+   "description": "記者王家林∕台南報導 市府地政局代為標售一一五年度第二批地籍清理未能釐…",
+   "cities": {
+    "台北市": 21,
+    "台南市": 3,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/cdns.com.tw/a98e7afde47ab5ce97aad4a3a2a8d56d.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7241/9847873": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T21:43+08:00",
+   "site_name": "聯合新聞網",
+   "description": "誠品生活持續擴展通路，今天公告取得台北捷運中山站商鋪使用權資產，預計明年第1季改裝完成開幕，未來將串聯誠品生活南西、地下...",
+   "cities": {
+    "台北市": 5,
+    "新北市": 2,
+    "高雄市": 2,
+    "桃園市": 1,
+    "金門縣": 1
+   },
+   "districts": [],
+   "body_chars": 1339,
+   "image": "https://udn.com/static/img/UDN_BABY.png",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E8%90%AC%E8%81%96%E7%AF%80-%E9%A6%AC%E5%85%AC%E5%95%86%E5%9C%88%E8%AE%8A%E8%A3%9D%E8%B8%A9%E8%A1%97%E5%A5%BD%E7%86%B1%E9%AC%A7-1-%E5%9C%96-133949786.html": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T21:39+08:00",
+   "site_name": "Yahoo News",
+   "description": "澎湖縣馬公市31日萬聖節迎來「萌鬼出任務，萬聖踩街趣」活動，大小朋友一同變裝踩街，體驗西洋萬聖節節慶文化，氣氛熱鬧。",
+   "cities": {
+    "台北市": 14,
+    "高雄市": 2,
+    "澎湖縣": 2,
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 3417,
+   "image": "https://media.zenfs.com/zh-tw/cna.com.tw/2fa4a85a384c8ee8bb0a880f79714e9d.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26194": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {
+    "台中市": 8
+   },
+   "districts": [
+    "東海藝術街商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1127,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E7%B6%93%E6%BF%9F%E9%83%A8-%E5%85%A8%E5%8A%9B%E5%8D%94%E5%8A%A9%E6%A5%AD%E8%80%85%E5%A2%9E%E7%94%A2%E5%8F%8A%E5%8A%A0%E9%80%9F%E9%80%B2%E5%8F%A3-093832419.html": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T17:38+08:00",
+   "site_name": "Yahoo News",
+   "description": "經濟部今（30）日表示，為因應中聯油脂停工對國內沙拉油供應造成的影響，持續受理食品業者用油需求，透過供需媒合、協調增產及鼓勵進口等措施，增加市場供應來源，協助業者取得所需原料。目前經濟部收到各界用油請求，除先前媒合大型業者外，也將協助中小型業者以商圈或夜市自治會為單位，由經濟部進行媒合協助，另外也呼籲地方政府及業者能讓",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/cnyes.com.tw/d89ec956a5cc38da20689cb67a59a963.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26167": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {
+    "台中市": 5
+   },
+   "districts": [
+    "美術園道商圈（台中市）"
+   ],
+   "body_chars": 1467,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.ltn.com.tw/news/Tainan/breakingnews/5629855": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T08:43+08:00",
+   "site_name": "自由時報電子報",
+   "description": "首次上稿 06:17更新時間 08:4311月28日九合一選舉投票日，台南市一間私立幼兒園卻安排當天舉辦「耶誕親子運動會」，不僅撞上投票日，家長反映希望校方改期也碰壁，引發網友熱議「選舉日早就知道了，為什麼偏偏選這一天？」更有人虧說耶誕節明明在12月，怎麼提前到11月過？很搞笑！",
+   "cities": {
+    "台南市": 9,
+    "苗栗縣": 1
+   },
+   "districts": [],
+   "body_chars": 1090,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/05/5629855_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-01/2512936.html": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T20:15+08:00",
+   "site_name": "壹電視",
+   "description": "西門町商圈有水果攤價格標示不清，還有街頭畫家疑似用AI來作畫誆騙消費者。",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 272,
+   "image": "https://image.nexttv.com.tw/material/news/img/2026/11/2f65bd307a88ee9146c4c106c9485fbb.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://mknews.com.tw/2026/10/1011343/": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T11:19+08:00",
+   "site_name": "天天上新聞",
+   "description": "圖/邀請全臺民眾在雙11、百貨週年慶前來臺南消費，享旅遊與購 … Read More",
+   "cities": {
+    "台南市": 15
+   },
+   "districts": [
+    "楠西商圈（台南市）"
+   ],
+   "body_chars": 1082,
+   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845319": {
+   "checked_at": "2026-11-05T09:32+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "臺南市政府全球資訊網",
+   "description": null,
+   "cities": {
+    "台南市": 6
+   },
+   "districts": [],
+   "body_chars": 1138,
+   "image": "https://w3fs.tainan.gov.tw/002/FS01/1/relpic/9748/8845319/2a8e626c-b5a7-46c8-8407-e433eda1b21e@710x470.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   }
  }
 }
