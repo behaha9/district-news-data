@@ -343,6 +343,173 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-05T20:54:22+08:00",
+   "added": 1,
+   "merged": 3,
+   "items": [
+    {
+     "id": "20261105-momo-xinyi-1111",
+     "title": "momo攜手台北網紅節，11月7至8日在信義新天地辦雙11品牌嘉年華",
+     "summary": "momo購物網與台北網紅節11月7日至8日在信義新天地香堤大道舉辦雙11品牌嘉年華，集結逾20家品牌與多位網紅。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-05T17:38:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "信義商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/10871/9860042",
+       "published_at": "2026-11-05T17:38:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7241/9860042",
+       "published_at": "2026-11-05T17:37:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261105-chiayi-erton",
+     "title": "嘉義二通商圈老店轉型成觀光亮點，議員促建遮雨遮陽徒步街",
+     "summary": "議員質詢指二通商圈老店轉型、特色店家進駐帶動人潮，建議市府參考日韓商店街模式，評估設置遮雨遮陽徒步街並改善商圈環境。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-05T19:11:00+08:00",
+     "cities": [
+      "嘉義市"
+     ],
+     "districts": [
+      {
+       "name": "二通商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/122328/9859177",
+       "published_at": "2026-11-05T19:11:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7326/9859177",
+       "published_at": "2026-11-05T12:43:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/vote2026/story/7326/9859177",
+       "published_at": "2026-11-05T12:43:00+08:00"
+      }
+     ],
+     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35487956.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
+    },
+    {
+     "id": "20261103-chiayi-county-shopping",
+     "title": "嘉義縣商圈聯合購物節首波大獎開出，休旅車由番路隙頂商圈消費者抽中",
+     "summary": "嘉義縣政府辦理商圈聯合購物節，串聯全縣19大商圈，首波大獎11月3日揭曉，休旅車由番路隙頂商圈消費者抽中。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-04T13:58:00+08:00",
+     "cities": [
+      "嘉義縣"
+     ],
+     "districts": [
+      {
+       "name": "鹿草風華商圈",
+       "priority": true
+      },
+      {
+       "name": "民雄商圈",
+       "priority": true
+      },
+      {
+       "name": "朴子市魅力商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "鹿草風華、民雄、朴子市魅力商圈為115年補助名單，縣府聯合購物節可作為商圈活動推廣參考。",
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261104165597",
+       "published_at": "2026-11-04T13:58:00+08:00"
+      },
+      {
+       "outlet": "Yahoo新聞",
+       "url": "https://tw.news.yahoo.com/%E5%98%89%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E6%B0%91%E7%9C%BE%E5%B9%B8%E9%81%8B%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-123453327.html",
+       "published_at": "2026-11-03T20:34:00+08:00"
+      },
+      {
+       "outlet": "LIFE 生活網",
+       "url": "https://life.tw/article/%E5%98%89%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E6%B0%91%E7%9C%BE%E5%B9%B8%E9%81%8B%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-3203630",
+       "published_at": "2026-11-03T20:34:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261103953803",
+       "published_at": "2026-11-03T18:05:00+08:00"
+      },
+      {
+       "outlet": "Yahoo新聞",
+       "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E5%B9%B8%E9%81%8B%E6%B0%91%E7%9C%BE%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-100508281.html",
+       "published_at": "2026-11-03T18:05:00+08:00"
+      },
+      {
+       "outlet": "樂上新聞網",
+       "url": "https://news111.com.tw/news/51/13588",
+       "published_at": "2026-11-03T17:16:00+08:00"
+      },
+      {
+       "outlet": "中央社",
+       "url": "https://www.cna.com.tw/postwrite/chi/448893",
+       "published_at": "2026-11-03T05:50:00+08:00"
+      }
+     ],
+     "image": "https://ni.yam.com/20261104/chiayi-cover-261104051332117-4b942dbffe4333cd.webp"
+    },
+    {
+     "id": "20261103-xiluo-art-fair",
+     "title": "「阿嬤的家」藝博會12月在雲林西螺登場，西螺老街化身展場",
+     "summary": "首屆「阿嬤的家」當代藝術博覽會12月11日至20日在雲林西螺舉行，標題指西螺老街化身藝術派對。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-05T15:11:00+08:00",
+     "cities": [
+      "雲林縣"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "今周刊",
+       "url": "https://www.businesstoday.com.tw/article/category/183032/post/202611050023/",
+       "published_at": "2026-11-05T15:11:00+08:00"
+      },
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/5637/9854832",
+       "published_at": "2026-11-04T10:00:00+08:00"
+      },
+      {
+       "outlet": "典藏ARTouch.com",
+       "url": "https://artouch.com/art-exhibition/content-271495.html",
+       "published_at": "2026-11-03T21:13:00+08:00"
+      }
+     ],
+     "image": "https://doqvf81n9htmm.cloudfront.net/data/petra_284/110500(1).jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-05T12:19:06+08:00",
+ "updated_at": "2026-11-05T20:54:22+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -117,10 +117,20 @@
    "item": "20261031-magong-halloween",
    "at": "2026-11-04"
   },
+  "https://news.cts.com.tw/cna/money/202610/202610303095800.html": {
+   "decision": "hidden",
+   "reason": "非商圈",
+   "at": "2026-11-05"
+  },
   "https://news.cts.com.tw/cts/politics/202610/202610293095305.html": {
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-04"
+  },
+  "https://news.ebc.net.tw/news/living/579202": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-05"
   },
   "https://news.fclnews.com/58462": {
    "decision": "kept",
@@ -221,6 +231,16 @@
    "decision": "hidden",
    "reason": "房地產",
    "at": "2026-11-04"
+  },
+  "https://www.fountmedia.io/article/441578": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-05"
+  },
+  "https://www.fountmedia.io/article/441608": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-05"
   },
   "https://www.hsnews.com.tw/political-news/dai-yu-wen-ti-zai-zao-jin-san-jiao-ji-hua-yu-zheng-shi-shang-quan-zhuan-xing-wen-ti.html": {
    "decision": "hidden",
