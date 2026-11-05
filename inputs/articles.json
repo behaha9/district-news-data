@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T20:53:02+08:00",
+ "fetched_at": "2026-11-05T23:39:03+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-11-04T20:51+08:00",
@@ -104,7 +104,7 @@
    "error": "'ascii' codec can't encode characters in position 13-23: ordinal not in range(128)"
   },
   "https://news.ebc.net.tw/search/tags/李慶隆/": {
-   "checked_at": "2026-11-05T15:03+08:00",
+   "checked_at": "2026-11-05T23:39+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)"
   },
@@ -137,7 +137,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.fclnews.com/235170/": {
-   "checked_at": "2026-11-05T15:03+08:00",
+   "checked_at": "2026-11-05T23:39+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -191,134 +191,6 @@
    "date_hint": "2026-11-01",
    "date_hint_from": "原文時間"
   },
-  "https://n.yam.com/Article/20261021423424": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-10-21T03:25+08:00",
-   "site_name": "蕃新聞",
-   "description": "百貨週年慶搭上萬聖節消費潮，各項慶祝活動熱鬧滾滾。新光三越天母店於10月22日啟動週慶活動，",
-   "cities": {
-    "台北市": 4,
-    "台中市": 2,
-    "高雄市": 2,
-    "桃園市": 1,
-    "台南市": 1
-   },
-   "districts": [
-    "天母商圈（台北市）"
-   ],
-   "body_chars": 2180,
-   "image": "https://ni.yam.com/20261021/Cardu_6ad77bce6a8e6-c362f899a0238b6b.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-21",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261022189357": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-10-22T09:45+08:00",
-   "site_name": "蕃新聞",
-   "description": "&nbsp;由臺北市古亭商圈發展協會、中華天下父母心關懷促進會共同主辦，西門徒步區街區發展促進會協辦",
-   "cities": {
-    "台北市": 6
-   },
-   "districts": [
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 1464,
-   "image": "https://ni.yam.com/20261022/png-8de5e2324956f6cc.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-22",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261023291312": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-10-23T15:12+08:00",
-   "site_name": "蕃新聞",
-   "description": "快訊摘要【商圈討糖】經發局與豐原廟東復興商圈10/31在豐原太平洋百貨廣場辦萬聖嘉年華，12歲以下兒",
-   "cities": {
-    "台中市": 14
-   },
-   "districts": [
-    "豐原廟東復興商圈（台中市）"
-   ],
-   "body_chars": 992,
-   "image": "https://ni.yam.com/20261023/halloween-art-taichung-1-261023061148189-243c5dce031f58a1.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-23",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261021487705": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-10-22T11:31+08:00",
-   "site_name": "蕃新聞",
-   "description": "【創新聞 記者張溎壕／彰化報導】彰化市永樂街道路改善工程引發工安疑慮，縣議員溫芝樺、市民代表黃稜茹接",
-   "cities": {
-    "彰化縣": 6,
-    "高雄市": 1
-   },
-   "districts": [],
-   "body_chars": 997,
-   "image": "https://ni.yam.com/20261022/SQ10217-5--a29cd055293e19ce.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-22",
-   "date_hint_from": "原文時間"
-  },
-  "https://cmnews.com.tw/article/forumnews-94ce1063-d1d5-11f1-895e-31890c5c87d8": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-10-27T15:11+08:00",
-   "site_name": "CMoney投資網誌",
-   "description": "高端百貨零售市場競爭激烈，台北東區商圈迎來豪宅經濟消費紅利。隨著高資產客群需求改變，新光三越擴增鑽石塔精品與家電陣容，週年慶挑戰全年16億業績。 | CMoney投資網誌",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [
-    "東區商圈（台北市）"
-   ],
-   "body_chars": 2599,
-   "image": "https://image.cmoney.tw/attachment/blog/1793030400/93cbb159-2f90-44ee-9612-70bffad29c83.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-27",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cineplay.co.kr/zh-tw/articles/30557": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T15:49+08:00",
-   "site_name": "电影播放",
-   "description": "打破既有框架，攜手在地商圈共榮，以多樣周邊擄獲粉絲心 「NAVER WEBTOON」將於本月30日至下月29日，在首爾鐘路區「昌信洞文具玩具街」一帶，開設人氣網漫《Maru Is a Puppy》快閃店。 《Maru Is a Puppy》是「NAVER...",
-   "cities": {},
-   "districts": [
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 3140,
-   "image": "https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2026-10-30/8f5f3051-ebe3-4042-89ac-4a394987fa9c.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ebc.net.tw/news/living/578200": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T11:14+08:00",
-   "site_name": "東森新聞",
-   "description": "臺中物調券第二波30日登場！民眾只要拿100元，就能換到200元物調券，這回全市共有107處發放場域，還有369家商圈店家響應加碼優惠。",
-   "cities": {
-    "台中市": 6
-   },
-   "districts": [
-    "自由路商圈（台中市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 616,
-   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/30/1793358676_75962.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
   "https://www.cdns.com.tw/articles/1484196": {
    "checked_at": "2026-11-04T20:51+08:00",
    "status": 200,
@@ -351,105 +223,6 @@
    "date_hint": "2026-11-02",
    "date_hint_from": "原文時間"
   },
-  "https://www.storm.mg/lifestyle/11176683": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T07:30+08:00",
-   "site_name": null,
-   "description": "台中市第二波物調券將於10月30日至11月1日發放，民眾可用100元現金兌換200元物調券，使用期限為7天。台中市經發局表示，全市商圈共有369家店家響應，推出服飾、美食、伴手禮及生活用品等優惠，包括折扣、買一送一、滿額贈及消費加碼等活動，其中天津商圈全商圈8折並送限量福袋、自由路商圈全商圈9折，各商圈好康一次整理。台",
-   "cities": {
-    "台中市": 15
-   },
-   "districts": [
-    "自由路商圈（台中市）",
-    "電子街商圈（台中市）",
-    "自由路五金電料商圈（台中市）",
-    "大隆路商圈（台中市）",
-    "美術園道商圈（台中市）",
-    "精明一街商圈（台中市）"
-   ],
-   "body_chars": 2107,
-   "image": "https://images.storm.mg/cloud/a18e059a4f30582010103f54774c47404644f878.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2159234%2FPnIER7vNimivRzRrvYoZ6vii4zmbLhJPzHQIEDRZ.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.scooptw.com/local_news/546197/%e5%ae%9c%e8%98%ad%e5%8f%8b%e6%84%9b%e7%99%be%e8%b2%a8%e5%82%b3%e6%b1%82%e5%94%ae%ef%bc%81%e5%be%9e%e6%98%94%e6%97%a5%e5%95%86%e6%a5%ad%e5%9c%b0%e6%a8%99%e5%88%b0%e8%bd%89%e5%9e%8b%e5%8d%81%e5%ad%97/": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T17:19+08:00",
-   "site_name": "獨家報導",
-   "description": "（觀傳媒宜蘭新聞）【記者陳俊傑/宜蘭報導】曾經引領宜蘭消費潮流、陪伴無數縣民成長的友愛百貨大樓，近日傳出可能求售的消息，引起地方關注。這棟矗立宜蘭市中心近30年的地標建築，曾經象徵蘭陽平原商業發展的新時代，如今再度站上轉型十字路口。相較於外界關心大樓究竟值多少錢、由誰接手，更值得關注的是，友愛百貨的下一步，能否為逐漸改",
-   "cities": {
-    "宜蘭縣": 38
-   },
-   "districts": [
-    "舊城商圈（高雄市）"
-   ],
-   "body_chars": 1655,
-   "image": "https://secure.gravatar.com/avatar/fc7a6d223cf827549c68122effb53189db61babb32c6dae6459b488227b07d7f?s=96&d=retro&r=g",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E5%81%95%E5%A6%BB%E8%B7%9F%E5%9C%98%E9%81%8A%E5%8F%B0%E9%80%9B%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97-78%E6%AD%B2%E6%97%A5%E7%B1%8D%E7%BF%81-%E8%B5%B0%E6%95%A3-%E7%AB%9F%E5%A4%B1%E8%81%AF-%E9%8F%A1%E6%96%B0%E8%81%9E-102253149.html": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T18:22+08:00",
-   "site_name": "Yahoo News",
-   "description": "九份老街發生一起日本籍老翁走失的事件！10月29日下午，一對日本夫婦跟著旅行團到九份觀光，兩人在阿妹茶樓走散後，老翁就不見蹤影，報警後調閱監視器看到，老翁的最後身影在下午5點12分，出現在基隆山登山步道，研判他可能往山區移動，搜救隊持續展開搜索。",
-   "cities": {
-    "台北市": 7,
-    "桃園市": 6,
-    "台中市": 3,
-    "高雄市": 2,
-    "基隆市": 2
-   },
-   "districts": [
-    "九份老街商圈（新北市）"
-   ],
-   "body_chars": 3610,
-   "image": "https://media.zenfs.com/en/mnews_tw_258/48467d2f5b42e8253d232b3cf8635f98",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.storm.mg/article/11177815": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T17:56+08:00",
-   "site_name": null,
-   "description": "深耕高雄42年的「鄧師傅功夫菜」再拓餐飲版圖！全新家常台菜品牌「復興北 外婆家」繼鳳山文衡店獲得年輕客群青睞後，今年9月正式展店第二家門市，插旗北高雄餐飲一級戰區裕誠商圈。傳承42年功夫菜轉型個人精緻定食 鎖定上班族、小家庭及2至4人聚餐鄧師傅執行長鄧至佑表示，品牌延續「阿嬤怕你沒吃飽」的核心精神，裕誠店有別於首店的大",
-   "cities": {
-    "高雄市": 9
-   },
-   "districts": [],
-   "body_chars": 1994,
-   "image": "https://images.storm.mg/cloud/4c7fe4c8db772b0753ddd30c0dc262e3dfc62720.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2244794%2F8sgZEiEm3hpb43ZQer1BKPuYTgfjOI9t7d6vylIA.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/7241/9852481": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T18:07+08:00",
-   "site_name": "聯合新聞網",
-   "description": "深耕高雄42年的「鄧師傅功夫菜」打造全新家常台菜品牌「復興北 外婆家」，繼鳳山首店廣受高雄新世代年輕客群的喜愛，再拓展第二家門市，插旗北高雄餐飲激戰區「裕誠商圈」，主打個人精緻定食與裕誠店限定的六款「砂鍋濃雞湯定食」，即日起更推出「阿嬤燉銀耳買一送一」超值優惠，以真材實料的暖心滋味溫暖高雄饕客的胃。",
-   "cities": {
-    "高雄市": 12,
-    "台北市": 2,
-    "桃園市": 2,
-    "新北市": 1,
-    "台中市": 1
-   },
-   "districts": [],
-   "body_chars": 2035,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35478102.png&M=1&s=Y&x=1&y=101&sw=1279&sh=853&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
   "https://www.cdns.com.tw/articles/1484010": {
    "checked_at": "2026-11-04T20:51+08:00",
    "status": 200,
@@ -462,130 +235,6 @@
    "districts": [],
    "body_chars": 873,
    "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/02174100/1930248-1024x576.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.nexttv.com.tw/NextTV/News/Home/LocalNews/2026-11-02/2514087.html": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T20:38+08:00",
-   "site_name": "壹電視",
-   "description": "桃園大園老街溪河岸步道將補齊一段百米斷點，預計明年二月開工、六月完工，改善民眾得爬階梯、繞路的不便。",
-   "cities": {
-    "桃園市": 2
-   },
-   "districts": [],
-   "body_chars": 281,
-   "image": "https://image.nexttv.com.tw/material/news/img/2026/11/3c23675346f093bcdbfc692399c1be44.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://money.udn.com/money/story/5612/9852481": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T18:08+08:00",
-   "site_name": "經濟日報",
-   "description": "深耕高雄42年的「鄧師傅功夫菜」打造全新家常台菜品牌「復興北 外婆家」，繼鳳山首店廣受高雄新世代年輕客群的喜愛，再拓展第二家門市，插旗北高雄餐飲激戰區「裕誠商圈」，主打個人精緻定食與裕誠店限定的六款「砂鍋濃雞湯定食」，即日起更推出「阿嬤燉銀耳買一送一」超值優惠，以真材實料的暖心滋味溫暖高雄饕客的胃。",
-   "cities": {
-    "高雄市": 10
-   },
-   "districts": [],
-   "body_chars": 1332,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35478102.png&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.tvbs.com.tw/local/4044769": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T17:52+08:00",
-   "site_name": "TVBS新聞網",
-   "description": "新北市板橋湳雅夜市商圈日前發生一起縱火未遂案件，一名男子持汽油彈進入撞球館企圖縱火，警方獲報後出動10名員警趕往現場，所幸在警方抵達前，男子已被控制行動，未造成人員傷亡。由於事發大樓內設有電影館及老人養護中心，加上撞球館內鋪設地毯易燃，一旦延燒恐釀成嚴重傷亡。",
-   "cities": {
-    "高雄市": 5,
-    "台北市": 3,
-    "新北市": 3,
-    "基隆市": 3,
-    "南投縣": 3
-   },
-   "districts": [
-    "草屯鎮形象商圈（南投縣）"
-   ],
-   "body_chars": 2672,
-   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a19b7e-813d-7032-a00d-e674c2e868fc.jpg?t=16x9&wp=l,t&c=0,0,1010,568&w=1200&h=675",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://taiwanreports.com/archives/1023336": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T17:56+08:00",
-   "site_name": "臺灣導報",
-   "description": "【記者吳峙嵩高雄報導】高雄知名快餐名店「鄧師傅」，第二代鄧至廷與鄧至佑兄弟倆，有感於他們雙親起家於台北復興北路，很懷念幼年時期回外婆家吃好料，特打造全新品 .......繼續閱讀",
-   "cities": {
-    "高雄市": 7,
-    "台北市": 2
-   },
-   "districts": [],
-   "body_chars": 661,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=7256DD6F853DFC8A": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T00:00+08:00",
-   "site_name": "臺北市商業處",
-   "description": null,
-   "cities": {
-    "台北市": 18
-   },
-   "districts": [],
-   "body_chars": 1178,
-   "image": "https://www-ws.gov.taipei/001/Upload/409/relpic/10162/9736242/d552e26b-ecc9-40e0-af1c-41aada63914d@710x470.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://estate.ltn.com.tw/article/29207": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T17:50+08:00",
-   "site_name": "自由時報電子報",
-   "description": "台南市中西區海安路精華商圈近期釋出2筆商業區土地，底價僅189萬元起，仔細一看原登記地主竟然是八仙之一的「呂洞賓」。台南市地政局最新公告的47標地籍清理土地中，這2筆登記在「祠廟呂府仙祖」名下的精華地因產權不清，遭市府依法代標，預計19日開標。",
-   "cities": {
-    "台南市": 14,
-    "高雄市": 2
-   },
-   "districts": [
-    "海安商圈（台南市）"
-   ],
-   "body_chars": 987,
-   "image": "https://img.ltn.com.tw/Upload/house/page/2026/11/02/261102-29207-1111-B2jvu.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=09F9BEB89B559353": {
-   "checked_at": "2026-11-02T20:56+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T00:00+08:00",
-   "site_name": "臺北市商業處",
-   "description": null,
-   "cities": {
-    "台北市": 7
-   },
-   "districts": [
-    "東區商圈（台北市）"
-   ],
-   "body_chars": 1141,
-   "image": "https://www.tcooc.gov.taipei/images/egov.png",
    "image_checked": true,
    "date_hint": "2026-11-02",
    "date_hint_from": "原文時間"
@@ -1036,7 +685,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.yesmedia.com.tw/%E8%97%8F%E8%BA%AB%E6%9D%B1%E6%B5%B7%E5%95%86%E5%9C%88%E7%9A%84%E5%B9%B3%E5%83%B9%E6%B8%AF%E5%BC%8F%E7%BE%8E%E9%A3%9F-%E7%8F%BE%E8%92%B8%E7%9F%B3%E7%A3%A8%E8%85%B8%E7%B2%89%E3%80%81%E6%B2%B3/": {
-   "checked_at": "2026-11-05T15:03+08:00",
+   "checked_at": "2026-11-05T23:39+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -1105,7 +754,7 @@
    "date_hint_from": "原文時間"
   },
   "https://sunmedia.tw/news/finance/走一段路，找回生活的光！2026-微光健走・亞東漫遊熱鬧登場-1793609777075": {
-   "checked_at": "2026-11-05T15:03+08:00",
+   "checked_at": "2026-11-05T23:39+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 18-29: ordinal not in range(128)"
   },
@@ -1857,7 +1506,7 @@
    "date_hint_from": null
   },
   "https://news.pchome.com.tw/travel/sharelife/20261102/index-79357760099": {
-   "checked_at": "2026-11-05T15:03+08:00",
+   "checked_at": "2026-11-05T23:39+08:00",
    "status": 404,
    "error": "HTTP Error 404: Not Found"
   },
@@ -2034,7 +1683,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.yesmedia.com.tw/%e5%ae%9c%e8%98%ad%e5%8f%8b%e6%84%9b%e7%99%be%e8%b2%a8%e5%82%b3%e6%b1%82%e5%94%ae%ef%bc%81%e5%be%9e%e6%98%94%e6%97%a5%e5%95%86%e6%a5%ad%e5%9c%b0%e6%a8%99%e5%88%b0%e8%bd%89%e5%9e%8b%e5%8d%81%e5%ad%97/": {
-   "checked_at": "2026-11-05T15:03+08:00",
+   "checked_at": "2026-11-05T23:39+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3013,7 +2662,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.fclnews.com/235770/": {
-   "checked_at": "2026-11-05T15:03+08:00",
+   "checked_at": "2026-11-05T23:39+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4620,7 +4269,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.juksy.com/article/154111": {
-   "checked_at": "2026-11-05T15:03+08:00",
+   "checked_at": "2026-11-05T23:39+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5679,7 +5328,7 @@
    "date_hint_from": "圖片路徑"
   },
   "https://life.tw/article/%E9%AD%94%E6%B3%95%E5%92%96%E5%93%A9%E7%AB%99%E5%89%8D%E5%BA%97-%E9%A6%96%E5%BA%A6%E8%A7%A3%E9%8E%96%E4%B8%8B%E5%8D%88%E8%8C%B6%E6%99%82%E6%AE%B5199%E8%B6%85%E9%AB%98cp%E5%80%BC%E6%98%AF%E5%8F%B0%E5%8C%97%E8%BB%8A%E7%AB%99-3199107": {
-   "checked_at": "2026-11-05T15:03+08:00",
+   "checked_at": "2026-11-05T23:39+08:00",
    "status": 404,
    "error": "HTTP Error 404: Not Found"
   },
@@ -7684,7 +7333,7 @@
    "date_hint_from": null
   },
   "https://news.housefun.com.tw/news/article/189863490667.html": {
-   "checked_at": "2026-11-05T15:03+08:00",
+   "checked_at": "2026-11-05T23:39+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7977,9 +7626,23 @@
    "date_hint_from": null
   },
   "https://www.scooptw.com/taiwanpost/543560/%e8%b5%b0%e8%a8%aa%e6%a1%83%e5%9c%92%e7%89%b9%e7%b4%84%e5%a5%bd%e5%ba%97%e6%8a%bd%e6%a9%9f%e7%a5%a8%ef%bc%81%e4%b8%b2%e8%81%af%e5%9b%9b%e5%a4%a7%e7%94%9f%e6%b4%bb%e5%95%86%e5%9c%88-%e9%9b%86%e7%ab%a0/": {
-   "checked_at": "2026-11-05T15:03+08:00",
-   "status": "error",
-   "error": "The read operation timed out"
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-10-23T01:12+08:00",
+   "site_name": "獨家報導",
+   "description": "【記者林廷亮／桃園報導】 桃園市政府持續推動桃園市民卡APP成為連結公共服務與在地生活的數位入口。為讓市民卡特約優惠從線上查詢延伸到實際使用，市府將於115年10月25日至12月5日辦理「好店推廣季 好店PICKUP賞」四站巡迴活動，邀請民眾走訪特約店家、消費集章，還有機會抽中日本雙人來回機票。首站將於10月25日在大",
+   "cities": {
+    "桃園市": 18
+   },
+   "districts": [
+    "桃園站前商圈（桃園市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1018,
+   "image": "https://secure.gravatar.com/avatar/715f292b8e1e64a6e744b8367b3575d2248d2f05b48bf71562dba7a77517a076?s=96&d=retro&r=g",
+   "image_checked": true,
+   "date_hint": "2026-10-23",
+   "date_hint_from": "原文時間"
   },
   "https://money.udn.com/money/story/10871/9860042": {
    "checked_at": "2026-11-05T20:53+08:00",
@@ -8483,6 +8146,332 @@
    "checked_at": "2026-11-05T20:53+08:00",
    "status": "error",
    "error": "The read operation timed out"
+  },
+  "https://udn.com/news/story/7241/9852481": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T18:07+08:00",
+   "site_name": "聯合新聞網",
+   "description": "深耕高雄42年的「鄧師傅功夫菜」打造全新家常台菜品牌「復興北 外婆家」，繼鳳山首店廣受高雄新世代年輕客群的喜愛，再拓展第二家門市，插旗北高雄餐飲激戰區「裕誠商圈」，主打個人精緻定食與裕誠店限定的六款「砂鍋濃雞湯定食」，即日起更推出「阿嬤燉銀耳買一送一」超值優惠，以真材實料的暖心滋味溫暖高雄饕客的胃。",
+   "cities": {
+    "高雄市": 10,
+    "新竹": 1
+   },
+   "districts": [],
+   "body_chars": 1899,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35478102.png&M=1&s=Y&x=1&y=101&sw=1279&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/5612/9852481": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T18:08+08:00",
+   "site_name": "經濟日報",
+   "description": "深耕高雄42年的「鄧師傅功夫菜」打造全新家常台菜品牌「復興北 外婆家」，繼鳳山首店廣受高雄新世代年輕客群的喜愛，再拓展第二家門市，插旗北高雄餐飲激戰區「裕誠商圈」，主打個人精緻定食與裕誠店限定的六款「砂鍋濃雞湯定食」，即日起更推出「阿嬤燉銀耳買一送一」超值優惠，以真材實料的暖心滋味溫暖高雄饕客的胃。",
+   "cities": {
+    "高雄市": 10
+   },
+   "districts": [],
+   "body_chars": 1404,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35478102.png&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261023291312": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-10-23T15:12+08:00",
+   "site_name": "蕃新聞",
+   "description": "快訊摘要【商圈討糖】經發局與豐原廟東復興商圈10/31在豐原太平洋百貨廣場辦萬聖嘉年華，12歲以下兒",
+   "cities": {
+    "台中市": 12,
+    "金門縣": 2
+   },
+   "districts": [
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 972,
+   "image": "https://ni.yam.com/20261023/halloween-art-taichung-1-261023061148189-243c5dce031f58a1.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-23",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/article/11177815": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T17:56+08:00",
+   "site_name": null,
+   "description": "深耕高雄42年的「鄧師傅功夫菜」再拓餐飲版圖！全新家常台菜品牌「復興北 外婆家」繼鳳山文衡店獲得年輕客群青睞後，今年9月正式展店第二家門市，插旗北高雄餐飲一級戰區裕誠商圈。傳承42年功夫菜轉型個人精緻定食 鎖定上班族、小家庭及2至4人聚餐鄧師傅執行長鄧至佑表示，品牌延續「阿嬤怕你沒吃飽」的核心精神，裕誠店有別於首店的大",
+   "cities": {
+    "高雄市": 9
+   },
+   "districts": [],
+   "body_chars": 1994,
+   "image": "https://images.storm.mg/cloud/4c7fe4c8db772b0753ddd30c0dc262e3dfc62720.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2244794%2F8sgZEiEm3hpb43ZQer1BKPuYTgfjOI9t7d6vylIA.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://taiwanreports.com/archives/1023336": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T17:56+08:00",
+   "site_name": "臺灣導報",
+   "description": "【記者吳峙嵩高雄報導】高雄知名快餐名店「鄧師傅」，第二代鄧至廷與鄧至佑兄弟倆，有感於他們雙親起家於台北復興北路，很懷念幼年時期回外婆家吃好料，特打造全新品 .......繼續閱讀",
+   "cities": {
+    "高雄市": 7,
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 661,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://estate.ltn.com.tw/article/29207": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T17:50+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台南市中西區海安路精華商圈近期釋出2筆商業區土地，底價僅189萬元起，仔細一看原登記地主竟然是八仙之一的「呂洞賓」。台南市地政局最新公告的47標地籍清理土地中，這2筆登記在「祠廟呂府仙祖」名下的精華地因產權不清，遭市府依法代標，預計19日開標。",
+   "cities": {
+    "台南市": 14,
+    "高雄市": 2
+   },
+   "districts": [
+    "海安商圈（台南市）"
+   ],
+   "body_chars": 987,
+   "image": "https://img.ltn.com.tw/Upload/house/page/2026/11/02/261102-29207-1111-B2jvu.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://cmnews.com.tw/article/forumnews-94ce1063-d1d5-11f1-895e-31890c5c87d8": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-10-27T15:11+08:00",
+   "site_name": "CMoney投資網誌",
+   "description": "高端百貨零售市場競爭激烈，台北東區商圈迎來豪宅經濟消費紅利。隨著高資產客群需求改變，新光三越擴增鑽石塔精品與家電陣容，週年慶挑戰全年16億業績。 | CMoney投資網誌",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 2603,
+   "image": "https://image.cmoney.tw/attachment/blog/1793030400/93cbb159-2f90-44ee-9612-70bffad29c83.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cineplay.co.kr/zh-tw/articles/30557": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T15:49+08:00",
+   "site_name": "电影播放",
+   "description": "打破既有框架，攜手在地商圈共榮，以多樣周邊擄獲粉絲心 「NAVER WEBTOON」將於本月30日至下月29日，在首爾鐘路區「昌信洞文具玩具街」一帶，開設人氣網漫《Maru Is a Puppy》快閃店。 《Maru Is a Puppy》是「NAVER...",
+   "cities": {},
+   "districts": [
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 3192,
+   "image": "https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2026-10-30/8f5f3051-ebe3-4042-89ac-4a394987fa9c.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/lifestyle/11176683": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T07:30+08:00",
+   "site_name": null,
+   "description": "台中市第二波物調券將於10月30日至11月1日發放，民眾可用100元現金兌換200元物調券，使用期限為7天。台中市經發局表示，全市商圈共有369家店家響應，推出服飾、美食、伴手禮及生活用品等優惠，包括折扣、買一送一、滿額贈及消費加碼等活動，其中天津商圈全商圈8折並送限量福袋、自由路商圈全商圈9折，各商圈好康一次整理。台",
+   "cities": {
+    "台中市": 15
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "電子街商圈（台中市）",
+    "自由路五金電料商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "精明一街商圈（台中市）"
+   ],
+   "body_chars": 2107,
+   "image": "https://images.storm.mg/cloud/a18e059a4f30582010103f54774c47404644f878.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2159234%2FPnIER7vNimivRzRrvYoZ6vii4zmbLhJPzHQIEDRZ.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ebc.net.tw/news/living/578200": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T11:14+08:00",
+   "site_name": "東森新聞",
+   "description": "臺中物調券第二波30日登場！民眾只要拿100元，就能換到200元物調券，這回全市共有107處發放場域，還有369家商圈店家響應加碼優惠。",
+   "cities": {
+    "台中市": 6
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 616,
+   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/30/1793358676_75962.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5630982": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T20:51+08:00",
+   "site_name": "自由時報電子報",
+   "description": "民進黨高雄市長候選人賴瑞隆三塊厝後援會今成立，他感謝鄉親力挺之餘，也喊話要跟三塊厝作伙拚，讓老街區迎向新風景！賴瑞隆說，很感謝黃茂竹榮譽會長、伍進昌會長、王文雄副會長、王振風總幹事，及所有里長、幹部和鄉親相挺；特別是伍會長提供空間，讓大家有個聚在一起、為高雄打拚的所在。",
+   "cities": {
+    "高雄市": 5,
+    "新竹市": 2
+   },
+   "districts": [
+    "三鳳中街（高雄市）"
+   ],
+   "body_chars": 820,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/05/5630982_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://house.udn.com/house/story/123589/9856917?from=udn-relatednews_ch1025": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T14:11+08:00",
+   "site_name": "udn房地產",
+   "description": "國家住都中心4日於新北市深坑區舉行「深坑安居」社會住宅新建統包工程動土典禮。本案為中央在新北市動土的第29處社宅，也是深坑區的首處。243戶居住單元預計2029年竣工，總工程經費約14億4,729萬元，由中央全額投資興建。",
+   "cities": {
+    "新北市": 7,
+    "台北市": 1,
+    "台中市": 1,
+    "高雄市": 1,
+    "台東縣": 1
+   },
+   "districts": [],
+   "body_chars": 1659,
+   "image": "https://house.udn.com/img/og.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=09F9BEB89B559353": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T00:00+08:00",
+   "site_name": "臺北市商業處",
+   "description": null,
+   "cities": {
+    "台北市": 7
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 1141,
+   "image": "https://www.tcooc.gov.taipei/images/egov.png",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.scooptw.com/local_news/546197/%e5%ae%9c%e8%98%ad%e5%8f%8b%e6%84%9b%e7%99%be%e8%b2%a8%e5%82%b3%e6%b1%82%e5%94%ae%ef%bc%81%e5%be%9e%e6%98%94%e6%97%a5%e5%95%86%e6%a5%ad%e5%9c%b0%e6%a8%99%e5%88%b0%e8%bd%89%e5%9e%8b%e5%8d%81%e5%ad%97/": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T17:19+08:00",
+   "site_name": "獨家報導",
+   "description": "（觀傳媒宜蘭新聞）【記者陳俊傑/宜蘭報導】曾經引領宜蘭消費潮流、陪伴無數縣民成長的友愛百貨大樓，近日傳出可能求售的消息，引起地方關注。這棟矗立宜蘭市中心近30年的地標建築，曾經象徵蘭陽平原商業發展的新時代，如今再度站上轉型十字路口。相較於外界關心大樓究竟值多少錢、由誰接手，更值得關注的是，友愛百貨的下一步，能否為逐漸改",
+   "cities": {
+    "宜蘭縣": 38
+   },
+   "districts": [
+    "舊城商圈（高雄市）"
+   ],
+   "body_chars": 1655,
+   "image": "https://secure.gravatar.com/avatar/fc7a6d223cf827549c68122effb53189db61babb32c6dae6459b488227b07d7f?s=96&d=retro&r=g",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://taiwanhot.net/news/1152923/%E5%8F%B0%E5%8D%97%E7%99%BE%E8%B2%A8%E7%89%88%E5%9C%96%E9%87%8D%E6%95%B4%EF%BC%81%E9%90%B5%E8%B7%AF%E5%9C%B0%E4%B8%8B%E5%8C%96%E5%B8%B6%E5%8B%95%E7%AB%99%E5%89%8D%E5%95%86%E5%9C%88%E5%86%8D%E7%94%9F+%E5%95%86%E6%A5%AD%E6%8A%95%E8%B3%87%E3%80%81%E5%B0%B1%E6%A5%AD%E4%BA%BA%E5%8F%A3%E7%89%BD%E5%8B%95%E5%91%A8%E9%82%8A%E6%88%BF%E5%B8%82": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "台灣好新聞",
+   "description": "好房網News記者李彥穎／台南報導\t台南百貨商業版圖持續重整，陪伴市民30年的新光三越台南中山店於10月底正式結束營業，但站前商圈並未因此停下發展腳步。台南市政府經發局11月2日表示，原址已有業者評估規劃複合式商業設施，未來可望以不同經營模式延續商業機能。另一方面，鐵路地下化、台南車站站區再開發，",
+   "cities": {
+    "台南市": 35
+   },
+   "districts": [],
+   "body_chars": 1990,
+   "image": "https://taiwanhot.net/cache/1316199/lgnw/medias-20261104-6aea9fcdda4ba.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=7256DD6F853DFC8A": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T00:00+08:00",
+   "site_name": "臺北市商業處",
+   "description": null,
+   "cities": {
+    "台北市": 18
+   },
+   "districts": [],
+   "body_chars": 1178,
+   "image": "https://www-ws.gov.taipei/001/Upload/409/relpic/10162/9736242/d552e26b-ecc9-40e0-af1c-41aada63914d@710x470.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://leho.com.tw/archives/420189": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T09:20+08:00",
+   "site_name": "樂聯網",
+   "description": "圖: 省下來的是荷包；累積起來的是生活的幸福感。(圖/臺中市政府經發局提供) (記者孟倩玉報導) 台中物調券帶 […]",
+   "cities": {
+    "台中市": 12
+   },
+   "districts": [
+    "美術園道商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1423,
+   "image": "https://cdn.yesmedia.com.tw/wp-content/uploads/2026/11/20261105171127_44.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.contentplatform.info/articles/563004/%E5%98%89%E7%BE%A9%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E7%95%AA%E8%B7%AF%E6%B6%88%E8%B2%BB%E6%B0%91%E7%9C%BE%E6%8A%B1%E5%9B%9E/": {
+   "checked_at": "2026-11-05T23:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T13:58+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "嘉義縣政府辦理「115年嘉義縣商圈聯合購物節－嘉尚好禮」，串聯全縣19大商圈及17家觀光工廠，自10月1日開跑以來，持續帶動在地消費熱潮。為回饋民眾熱情參與，於11月3日下午舉辦首波大獎搶先抽直播活動，由縣府經濟發展處長李雅萍抽出5項超人氣大獎，為活動增添高潮。",
+   "cities": {
+    "嘉義縣": 26
+   },
+   "districts": [
+    "鹿草風華商圈（嘉義縣）",
+    "朴子市魅力商圈（嘉義縣）",
+    "民雄商圈（嘉義縣）"
+   ],
+   "body_chars": 1395,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/04131334/chiayi-cover-261104051332117.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
   }
  }
 }
