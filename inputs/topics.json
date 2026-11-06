@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T09:39:58+08:00",
+ "updated_at": "2026-11-06T12:17:26+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,33 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "食用油漲價又缺貨 國民黨點名沈伯洋「本業好好做」",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YSW1IczA4M3Q0STV6al9YWmdqazYwemNQbUNXMUFZRFp2bENHTnVhR0ZPYTVzdm93WDlMRlk5OFU0dVYxREJWUTJRQkJXX3RVeGVzYnlaNGI5YjQ?oc=5",
+     "source": "Newtalk新聞",
+     "published_at": "2026-11-06T11:34+08:00",
+     "url": "https://newtalk.tw/news/view/2026-11-06/1069665",
+     "resolved": true
+    },
+    {
+     "title": "小吃店買不到食用油 藍議員提3訴求 批沈伯洋忙選舉不顧民生",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYckkzdVY0aHJOQ0VWSk80VDBuYnkwZkVBcHVtdlVBMThsZVhXRVc1LUt5M3NCU1p0bW9Zby1lRnJOalVlYlU2akRMaXNkMG1S0gFWQVVfeXFMT3ZBbXFwQjByR2JmMEFuZElzUEx2dFpJYXFKM2dMSmVhcGZJczZMRi14U05Yc3ByaGl1dVdSd3l0S3lLdFgyZlhKMjZMLV80VGJQOGVvSVE?oc=5",
+     "source": "UDN",
+     "published_at": "2026-11-06T11:31+08:00",
+     "url": "https://udn.com/news/story/6656/9861447",
+     "resolved": true
+    },
+    {
+     "title": "食用油缺貨漲價小吃店從南港買到北投才買到一桶國民黨：促政院每週公布到貨進度、讓小吃店叫得到油「沈伯洋立委做不好就趕快辭職！」",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90ZDZmRktRVjQtbkxGdDF4Z2FGWkx5dlBMLVJUdlRmWHpSU0s0dzlDUU9RUy1WUVZCQXdZSUhUMUFOeEVKQ01KU2RyNlRSRGtjeHpFR2dOUEpLck1kTUE?oc=5",
+     "source": "中國國民黨全球資訊網",
+     "published_at": "2026-11-06T11:24+08:00",
+     "url": "https://www.kmt.org.tw/2026/11/blog-post_312.html",
+     "resolved": true
+    },
     {
      "title": "2026 SOGO週年慶開打！超市5分鐘湧300人搶箱購、進口橄欖油下殺半價、保養控帶2萬元掃貨- 消費新聞",
      "kind": "價格動態",
@@ -321,6 +348,15 @@
      "source": "中時新聞網",
      "published_at": "2026-10-30T17:37+08:00",
      "url": "https://www.chinatimes.com/realtimenews/20261030003398-260410",
+     "resolved": true
+    },
+    {
+     "title": "中聯停工引爆沙拉油荒經濟部：缺口仍大協調業者年底擴量- 產業",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SQTV1Q3hKRTFQaGhmZDZUekZDamJnUmtwZ0FNU2RtNkwzV1JJY2hCVXRKLWhfS3MyTTVXd2xQdjU3c2Naa0E5ZVB6UUdVRDFyYnpCa2VvMVlyWk03Sy1B?oc=5",
+     "source": "工商時報",
+     "published_at": "2026-10-30T17:37+08:00",
+     "url": "https://www.ctee.com.tw/news/20261030701749-430503",
      "resolved": true
     },
     {
