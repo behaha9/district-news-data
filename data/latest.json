@@ -1,7 +1,57 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T07:18:47+08:00",
+ "generated_at": "2026-11-06T12:18:37+08:00",
  "items": [
+  {
+   "id": "20261106-longshan-dumpling",
+   "title": "龍山商圈蒸餃店遭爆外帶酸辣湯疑有異物，北市衛生局回應",
+   "summary": "自由時報報導，民眾指在龍山商圈一家蒸餃店外帶酸辣湯發現異物，北市衛生局已回應處理。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-06T11:43:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "龍山商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5631352",
+     "published_at": "2026-11-06T11:43:00+08:00"
+    }
+   ],
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/5631352_1_1.jpg"
+  },
+  {
+   "id": "20261106-guijinbang-zhongshan",
+   "title": "拉麵名店「鬼金棒中山別館」撤出中山商圈，仲介說明店面條件",
+   "summary": "ETtoday報導，位於中山北路一段的拉麵名店中山別館悄悄撤出，在地房仲就店面狀況提出看法。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-06T11:20:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "中山商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "ETtoday房產雲",
+     "url": "https://house.ettoday.net/news/3267224",
+     "published_at": "2026-11-06T11:20:00+08:00"
+    }
+   ],
+   "image": "https://cdn2.ettoday.net/images/9002/e9002441.jpg"
+  },
   {
    "id": "20261105-chifeng-rent",
    "title": "中山商圈赤峰街人潮增加但租金上漲，部分老店撐不住、醫美健身業進駐",
@@ -1818,7 +1868,7 @@
      "published_at": "2026-10-27T11:03:00+08:00"
     }
    ],
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-27/656/20261027001840.jpg"
+   "image": "https://media.nownews.com/nn_media/thumbnail/2025/06/1748776856810-d191e9d5f901446f81eb596c9f84ea3c-1200x697.webp?unShow=false"
   },
   {
    "id": "20261028-daxi-craft-week",
@@ -1904,7 +1954,7 @@
     }
    ],
    "admin_note": "天母商圈為115年補助名單，活動延期可能涉及執行期程或計畫變更。",
-   "image": "https://more-news.tw/more-news-media/2026/10/IMG_1076-scaled.jpeg"
+   "image": "https://ni.yam.com/20261027/taipei-cover-261027070910421-f7117e623fc719de.webp"
   },
   {
    "id": "20261027-daxi-tofu-festival",
@@ -2597,36 +2647,6 @@
     }
    ],
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616219_1_1.jpg"
-  },
-  {
-   "id": "20261023-taichung-cmp-banner-fall",
-   "title": "薔琵強陣風吹襲台中，勤美商圈旁巨型帆布廣告掉落覆蓋公益路車道",
-   "summary": "強風扯落勤美誠品綠園道旁公益路一幅大型帆布廣告，勾住電線並覆蓋雙向車道造成交通癱瘓，報導指未砸中人車、無人傷亡。",
-   "category": "商圈動向",
-   "alert": "商圈受災",
-   "published_at": "2026-10-23T10:23:00+08:00",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    {
-     "name": "勤美商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "TVBS新聞網",
-     "url": "https://news.tvbs.com.tw/local/4040075",
-     "published_at": "2026-10-23T10:23:00+08:00"
-    },
-    {
-     "outlet": "民視新聞",
-     "url": "https://msn.com/zh-tw/news/news/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E5%BC%B7%E9%99%A3%E9%A2%A8%E5%90%B9%E5%8F%B0%E4%B8%AD-%E5%8B%A4%E7%BE%8E%E5%95%86%E5%9C%88%E5%A4%A7%E5%B8%86%E5%B8%83%E5%BB%A3%E5%91%8A%E6%8E%89%E8%90%BD-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fSiGU",
-     "published_at": "2026-10-23T00:31:54+08:00"
-    }
-   ],
-   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1667b-982c-7261-992c-91ed4f3418bf.png?t=16x9&wp=l,t&c=295,228,1575,948&w=1200&h=675"
   }
  ],
  "discussions": []

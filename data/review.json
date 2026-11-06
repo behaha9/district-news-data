@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-06T07:18:48+08:00",
+ "updated_at": "2026-11-06T12:18:37+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -82,6 +82,11 @@
    "reason": "業配遊記",
    "at": "2026-11-05"
   },
+  "https://money.udn.com/money/story/7843/9860750": {
+   "decision": "hidden",
+   "reason": "業配遊記",
+   "at": "2026-11-06"
+  },
   "https://more-news.tw/756114/": {
    "decision": "hidden",
    "reason": "業配遊記",
@@ -152,6 +157,11 @@
    "item": "20261104-luchao-okinawa-mou",
    "at": "2026-11-04"
   },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5631220": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-06"
+  },
   "https://news.tvbs.com.tw/politics/4043062": {
    "decision": "hidden",
    "reason": "選舉",
@@ -162,14 +172,34 @@
    "reason": "國外",
    "at": "2026-11-04"
   },
+  "https://news.twhg.com.tw/re_news_details.php?ojb=61176": {
+   "decision": "hidden",
+   "reason": "房地產",
+   "at": "2026-11-06"
+  },
   "https://news.wearn.com/c2135848.html": {
    "decision": "kept",
    "item": "20261030-eslite-zhongshan-station",
    "at": "2026-11-04"
   },
+  "https://newstaiwan.net/2026/11/06/496066/": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-06"
+  },
+  "https://newtalk.tw/news/view/2026-11-06/1069616": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-06"
+  },
   "https://taiwanhot.net/news/1152923/%E5%8F%B0%E5%8D%97%E7%99%BE%E8%B2%A8%E7%89%88%E5%9C%96%E9%87%8D%E6%95%B4%EF%BC%81%E9%90%B5%E8%B7%AF%E5%9C%B0%E4%B8%8B%E5%8C%96%E5%B8%B6%E5%8B%95%E7%AB%99%E5%89%8D%E5%95%86%E5%9C%88%E5%86%8D%E7%94%9F+%E5%95%86%E6%A5%AD%E6%8A%95%E8%B3%87%E3%80%81%E5%B0%B1%E6%A5%AD%E4%BA%BA%E5%8F%A3%E7%89%BD%E5%8B%95%E5%91%A8%E9%82%8A%E6%88%BF%E5%B8%82": {
    "decision": "kept",
    "item": "20261102-tainan-zhanqian",
+   "at": "2026-11-06"
+  },
+  "https://today.line.me/tw/v3/article/Opl7VvB": {
+   "decision": "hidden",
+   "reason": "選舉",
    "at": "2026-11-06"
   },
   "https://tw.news.yahoo.com/%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E8%90%AC%E8%81%96%E7%AF%80%E7%8B%82%E6%AD%A1-%E6%9D%BE%E5%A3%BD%E8%B7%AF%E5%96%AE%E5%A4%9C%E4%BA%BA%E6%B5%81%E7%A0%B4%E8%90%AC%E7%B3%BE%E7%B4%9B%E4%BA%8B%E4%BB%B6%E9%A0%BB%E5%82%B3-091333115.html": {
@@ -257,6 +287,16 @@
    "reason": "房地產",
    "at": "2026-11-04"
   },
+  "https://www.ctwant.com/amp/article/505472/": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-06"
+  },
+  "https://www.ctwant.com/article/505472/": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-06"
+  },
   "https://www.fountmedia.io/article/441578": {
    "decision": "hidden",
    "reason": "選舉",
@@ -281,6 +321,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-05"
+  },
+  "https://www.mirrormedia.mg/external/mirrordaily_94977": {
+   "decision": "kept",
+   "item": "20261101-xinyi-halloween-crowd",
+   "at": "2026-11-06"
   },
   "https://www.msn.com/zh-tw/money/%E4%B8%BB%E7%AE%A1%E9%A0%98%E5%B0%8E%E8%83%BD%E5%8A%9B%E5%92%8C%E7%AE%A1%E7%90%86/%E5%91%82%E6%94%BF%E7%92%8B%E5%87%BA%E4%BB%BB%E5%A8%81%E7%A7%80%E5%BD%B1%E5%9F%8E%E8%91%A3%E5%BA%A7-%E6%8E%A8%E5%8B%95%E5%95%86%E5%9C%88%E5%85%B1%E6%A6%AE-%E4%BA%BA%E6%BD%AE%E5%85%B1%E4%BA%AB/ar-AA2goBMn": {
    "decision": "hidden",
@@ -332,15 +377,35 @@
    "reason": "治安車禍",
    "at": "2026-11-04"
   },
+  "https://www.scooptw.com/cnews/547770/%e8%8a%b1%e8%93%ae%e9%87%91%e4%b8%89%e8%a7%92%e5%95%86%e5%9c%88%e6%a5%ad%e8%80%85%e5%98%86%e7%94%9f%e6%84%8f%e9%9b%a3%e5%81%9a%e3%80%80%e5%bc%b5%e5%b3%bb%e6%8f%903%e9%9a%8e%e6%ae%b5%e5%be%a9%e7%94%a6/": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-06"
+  },
+  "https://www.sohu.com/a/1097212950_100116740": {
+   "decision": "hidden",
+   "reason": "國外",
+   "at": "2026-11-06"
+  },
   "https://www.stheadline.com/travel/3633822/%E7%BE%85%E6%B9%96%E5%8F%A3%E5%B2%B8%E9%81%8E%E9%97%9C%E7%95%99%E6%84%8F-%E5%85%A8%E6%96%B0%E5%8D%B0%E8%B1%A1%E7%BE%85%E6%B9%96%E6%A9%8B%E9%96%8B%E9%80%9A-5%E5%88%86%E9%90%98%E5%85%8D%E6%B7%8B%E9%9B%A8%E7%9B%B4%E9%81%94%E5%91%A8%E9%82%8A%E5%95%86%E5%9C%88%E5%A4%A7%E5%9E%8B%E5%95%86%E5%A0%B4": {
    "decision": "hidden",
    "reason": "國外",
+   "at": "2026-11-06"
+  },
+  "https://www.taisounds.com/news/content/70/298263": {
+   "decision": "hidden",
+   "reason": "選舉",
    "at": "2026-11-06"
   },
   "https://www.taiwanhot.net/news/1152923/%E5%8F%B0%E5%8D%97%E7%99%BE%E8%B2%A8%E7%89%88%E5%9C%96%E9%87%8D%E6%95%B4%EF%BC%81%E9%90%B5%E8%B7%AF%E5%9C%B0%E4%B8%8B%E5%8C%96%E5%B8%B6%E5%8B%95%E7%AB%99%E5%89%8D%E5%95%86%E5%9C%88%E5%86%8D%E7%94%9F+%E5%95%86%E6%A5%AD%E6%8A%95%E8%B3%87%E3%80%81%E5%B0%B1%E6%A5%AD%E4%BA%BA%E5%8F%A3%E7%89%BD%E5%8B%95%E5%91%A8%E9%82%8A%E6%88%BF%E5%B8%82": {
    "decision": "kept",
    "item": "20261102-tainan-zhanqian",
    "at": "2026-11-05"
+  },
+  "https://www.taiwanhot.net/news/focus/1153198/%E9%80%9A%E5%8B%A4%E5%95%86%E5%9C%88%E5%90%B9%E8%B5%B7%E3%80%8C%E8%B6%8A%E5%BC%8F%E6%97%A5%E5%B8%B8%E9%A4%90%E3%80%8D%E9%A2%A8%E6%BD%AE+%E5%BE%9E%E6%B8%85%E7%88%BD%E6%98%A5%E6%8D%B2%E3%80%81%E9%AD%9A%E9%9C%B2%E7%82%B8%E7%89%A9%E5%88%B0%E9%A3%BD%E8%B6%B3%E8%93%8B%E9%A3%AF%E6%90%B6%E6%94%BB%E5%A4%96%E9%A3%9F%E8%83%83/70/%E7%94%9F%E6%B4%BB": {
+   "decision": "hidden",
+   "reason": "業配遊記",
+   "at": "2026-11-06"
   },
   "https://www.yesmedia.com.tw/%e5%ae%9c%e8%98%ad%e5%8f%8b%e6%84%9b%e7%99%be%e8%b2%a8%e5%82%b3%e6%b1%82%e5%94%ae%ef%bc%81%e5%be%9e%e6%98%94%e6%97%a5%e5%95%86%e6%a5%ad%e5%9c%b0%e6%a8%99%e5%88%b0%e8%bd%89%e5%9e%8b%e5%8d%81%e5%ad%97/": {
    "decision": "kept",

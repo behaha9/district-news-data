@@ -94,6 +94,65 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-06T12:18:37+08:00",
+   "added": 2,
+   "merged": 0,
+   "items": [
+    {
+     "id": "20261106-longshan-dumpling",
+     "title": "龍山商圈蒸餃店遭爆外帶酸辣湯疑有異物，北市衛生局回應",
+     "summary": "自由時報報導，民眾指在龍山商圈一家蒸餃店外帶酸辣湯發現異物，北市衛生局已回應處理。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-06T11:43:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "龍山商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5631352",
+       "published_at": "2026-11-06T11:43:00+08:00"
+      }
+     ],
+     "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/5631352_1_1.jpg"
+    },
+    {
+     "id": "20261106-guijinbang-zhongshan",
+     "title": "拉麵名店「鬼金棒中山別館」撤出中山商圈，仲介說明店面條件",
+     "summary": "ETtoday報導，位於中山北路一段的拉麵名店中山別館悄悄撤出，在地房仲就店面狀況提出看法。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-06T11:20:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "中山商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "ETtoday房產雲",
+       "url": "https://house.ettoday.net/news/3267224",
+       "published_at": "2026-11-06T11:20:00+08:00"
+      }
+     ],
+     "image": "https://cdn2.ettoday.net/images/9002/e9002441.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
