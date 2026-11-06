@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T07:17:43+08:00",
+ "fetched_at": "2026-11-06T09:40:01+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-11-04T20:51+08:00",
@@ -8378,6 +8378,136 @@
    "checked_at": "2026-11-06T07:17+08:00",
    "status": "error",
    "error": "The read operation timed out"
+  },
+  "https://www.ctwant.com/amp/article/505472/": {
+   "checked_at": "2026-11-06T09:40+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T07:30+08:00",
+   "site_name": "CTWANT",
+   "description": "2026高雄市長選戰進入倒數，民進黨高雄市長候選人賴瑞隆昨（5）日透過臉書分享走訪三民西區的行程，回顧當地近年鐵路地下化、綠園道及三鳳中街改造等建設成果，並提出未來持續改善高雄車站轉乘接駁、推動老街區",
+   "cities": {
+    "高雄市": 14
+   },
+   "districts": [
+    "三鳳中街（高雄市）"
+   ],
+   "body_chars": 1031,
+   "image": "https://static.ctwant.com/images/cover/72/505472/lg-298c1221dfc9874444a0ff9eb20747be.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ctwant.com/article/505472/": {
+   "checked_at": "2026-11-06T09:40+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T07:30+08:00",
+   "site_name": "CTWANT",
+   "description": "2026高雄市長選戰進入倒數，民進黨高雄市長候選人賴瑞隆昨（5）日透過臉書分享走訪三民西區的行程，回顧當地近年鐵路地下化、綠園道及三鳳中街改造等建設成果，並提出未來持續改善高雄車站轉乘接駁、推動老街區...",
+   "cities": {
+    "高雄市": 14
+   },
+   "districts": [
+    "三鳳中街（高雄市）"
+   ],
+   "body_chars": 1050,
+   "image": "https://static.ctwant.com/images/cover/72/505472/lg-298c1221dfc9874444a0ff9eb20747be.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E8%B3%B4%E7%91%9E%E9%9A%86%E8%B5%B0%E8%A8%AA%E4%B8%89%E6%B0%91%E8%A5%BF%E5%8D%80%E8%AB%87%E8%80%81%E5%9F%8E%E5%86%8D%E7%94%9F-%E6%8F%90%E8%BB%8A%E7%AB%99%E8%BD%89%E4%B9%98%E6%94%B9%E5%96%84-%E4%B8%B2%E8%81%AF%E5%95%86%E5%9C%88%E5%B8%B6%E5%8B%95%E8%A7%80%E5%85%89%E4%BA%BA%E6%BD%AE-233031239.html": {
+   "checked_at": "2026-11-06T09:40+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T07:30+08:00",
+   "site_name": "Yahoo News",
+   "description": "賴瑞隆在貼文中表示，此次來到三民西區，受到當地鄉親熱情接待，並感謝黃茂竹榮譽會長、伍進昌會長、王文雄副會長、王振風總幹事，以及地方里長、幹部與居民的支持。他也特別感謝伍進昌提供活動空間，讓地方人士能夠聚在一起交流，討論高雄未來發展。談到三民西區近年的改變...",
+   "cities": {
+    "台北市": 20,
+    "高雄市": 16,
+    "新北市": 2,
+    "基隆市": 1,
+    "彰化縣": 1
+   },
+   "districts": [
+    "三鳳中街（高雄市）"
+   ],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/ctwant_com_582/b7ad8dc54f0ca18e917004e58ac3bc1b.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://house.udn.com/house/story/123589/9856917": {
+   "checked_at": "2026-11-06T09:40+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T14:11+08:00",
+   "site_name": "udn房地產",
+   "description": "國家住都中心4日於新北市深坑區舉行「深坑安居」社會住宅新建統包工程動土典禮。本案為中央在新北市動土的第29處社宅，也是深坑區的首處。243戶居住單元預計2029年竣工，總工程經費約14億4,729萬元，由中央全額投資興建。",
+   "cities": {
+    "新北市": 7,
+    "台北市": 1,
+    "台中市": 1,
+    "台南市": 1,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 1659,
+   "image": "https://house.udn.com/img/og.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5631220": {
+   "checked_at": "2026-11-06T09:40+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T09:06+08:00",
+   "site_name": "自由時報電子報",
+   "description": "不用出國，就能在高雄體驗道地的東南亞風情！民進黨高雄市長候選人賴瑞隆今（6）日發布短影音，他化身「南國體驗員」，在新住民朋友熱情陪同下，走訪高雄車站周邊的南國商圈，感受異國文化魅力。賴瑞隆更挑戰以越南語、印尼語介紹美食，獲得現場熱情鼓勵，眾人最後以不同母語齊聲高喊「當選」，氣氛熱絡。",
+   "cities": {
+    "高雄市": 17,
+    "新竹縣": 1
+   },
+   "districts": [],
+   "body_chars": 969,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/5631220_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5631220": {
+   "checked_at": "2026-11-06T09:40+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T09:06+08:00",
+   "site_name": "自由時報電子報",
+   "description": "不用出國，就能在高雄體驗道地的東南亞風情！民進黨高雄市長候選人賴瑞隆今（6）日發布短影音，他化身「南國體驗員」，在新住民朋友熱情陪同下，走訪高雄車站周邊的南國商圈，感受異國文化魅力。賴瑞隆更挑戰以越南語、印尼語介紹美食，獲得現場熱情鼓勵，眾人最後以不同母語齊聲高喊「當選」，氣氛熱絡。",
+   "cities": {
+    "高雄市": 18,
+    "新竹縣": 1
+   },
+   "districts": [],
+   "body_chars": 969,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/5631220_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/Opl7VvB": {
+   "checked_at": "2026-11-06T09:40+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T07:30+08:00",
+   "site_name": "LINE TODAY",
+   "description": "2026高雄市長選戰進入倒數，民進黨高雄市長候選人賴瑞隆昨（5）日透過臉書分享走訪三民西區的行程，回顧當地近年鐵路地下化、綠園道及三鳳中街改...",
+   "cities": {
+    "高雄市": 11
+   },
+   "districts": [
+    "三鳳中街（高雄市）"
+   ],
+   "body_chars": 970,
+   "image": "https://today-obs.line-scdn.net/0hdTBtFyw9O3t_DSfxZhtELEdbNwpMayFyXWMgT1JYZR4HISwvE2toGFpZZ1dbOS4tXzt8GlNZNk1bO3V4EA/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
   }
  }
 }
