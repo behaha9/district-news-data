@@ -1,7 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T20:58:16+08:00",
+ "generated_at": "2026-11-07T07:18:51+08:00",
  "items": [
+  {
+   "id": "20261106-dongqu-anniv",
+   "title": "北市東區周年慶登場，140多家店家推消費滿額抽獎",
+   "summary": "東區周年慶即日起登場，串聯逾140家商圈店家、百貨與餐飲業者，單筆滿300元可獲抽獎券；市長出席啟動儀式並談商圈建設經費。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-07T04:10:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "東區商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "中時新聞網",
+     "url": "https://www.chinatimes.com/newspapers/20261107000524-260107",
+     "published_at": "2026-11-07T04:10:00+08:00"
+    },
+    {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/761941/",
+     "published_at": "2026-11-06T22:46:00+08:00"
+    }
+   ],
+   "admin_note": "東區商圈為115年補助名單，商圈聯合促銷活動可作為執行成效與佐證參考。",
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-07/656/B09A00_P_01_02.jpg"
+  },
+  {
+   "id": "20261106-xinhua-newyear-street",
+   "title": "2027新化年貨大街籌備啟動，盼第16屆重返高峰帶動商圈",
+   "summary": "視傳媒報導，2027新化年貨大街將啟動，主辦方期盼第16屆能重返高峰、帶動地方商圈繁榮。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-06T22:17:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "視傳媒",
+     "url": "https://www.nvns.net/news_view.php?new_sn=148670&new_csn=1467",
+     "published_at": "2026-11-06T22:17:00+08:00"
+    }
+   ],
+   "image": "https://uploads.posu.tw/73/738/b2026110622171280.jpg"
+  },
+  {
+   "id": "20261106-taoyuan-district-feature",
+   "title": "桃園市舉辦商圈特色亮點形塑成果發表，市長盼深化一商圈一特色",
+   "summary": "桃園市政府發表商圈特色亮點形塑成果，市長表示將深化一商圈一特色、提升地方產業競爭力。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-06T21:48:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "桃園市政府",
+     "url": "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1957392",
+     "published_at": "2026-11-06T21:48:00+08:00"
+    }
+   ]
+  },
   {
    "id": "20261106-taoyuan-kitchen-waste",
    "title": "桃園擴大商用廚餘機補助，商圈與傳統市場管理機構可申請",
@@ -56,6 +126,11 @@
      "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261106722077",
      "published_at": "2026-11-06T16:51:00+08:00"
+    },
+    {
+     "outlet": "經濟部",
+     "url": "https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124495",
+     "published_at": "2026-11-06T16:00:00+08:00"
     },
     {
      "outlet": "經濟部商業發展署",
@@ -1711,7 +1786,7 @@
      "published_at": "2026-10-28T11:30:00+08:00"
     }
    ],
-   "image": "https://media.zenfs.com/ko/gotv_ctitv_com_tw_678/ce7e8144df97398c7f9552e4a91d276c.jpg"
+   "image": "https://images.storm.mg/cloud/09e22e70abb1fcdb87955cb5fffe5163d85dbc4d.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2158708%2F8loGCdRW9Ow3ugF67LfzV9520Sv5yfj498xjv82n.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
   },
   {
    "id": "20261029-chengda-station-traffic",
@@ -1783,7 +1858,7 @@
      "published_at": "2026-10-28T04:14:00+08:00"
     }
    ],
-   "image": "https://news.pchome.com.tw/newsdata/living/1111news/20261029/79323649560105358009_original.jpg"
+   "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261028/00448211.202610281272560176M.jpg"
   },
   {
    "id": "20261028-kaohsiung-crispy-chicken",
@@ -1875,7 +1950,7 @@
     }
    ],
    "admin_note": "蘭雅商圈為115年補助名單，10/26活動適逢颱風前後，可留意是否如期辦理。",
-   "image": "https://ni.yam.com/20261028/2026102812-07ecb522a61bfa16.webp"
+   "image": "https://secure.gravatar.com/avatar/38056bed663bb3a10c5b52ab451e7f9f025b33708bae1d3c2dca2367f3d0868a?s=96&d=retro&r=g"
   },
   {
    "id": "20261028-luchao-fenghua-concert",
@@ -2605,71 +2680,6 @@
     }
    ],
    "image": "https://images.storm.mg/cloud/69b5f4e70d84b5521248f74a42422f94a9e88e6c.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2238597%2F1EZMNwy8cCRIE5sHQsPqz3mpUuQRrOg2dRFBF9DG.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
-  },
-  {
-   "id": "20261023-kaohsiung-south-districts",
-   "title": "新堀江、三多商圈人潮銳減，消費重心北移、南高雄商圈苦撐",
-   "summary": "報導指新堀江、三多商圈人潮都明顯減少，消費重心北移，南高雄商圈處境艱困。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-10-24T06:06:00+08:00",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    {
-     "name": "新堀江商圈",
-     "priority": true
-    },
-    {
-     "name": "三多商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "新堀江、三多商圈為115年補助名單，報導指人潮銳減，可留意活動成效與KPI達成。",
-   "sources": [
-    {
-     "outlet": "Yahoo奇摩新聞",
-     "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%A0%80%E6%B1%9F-%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E4%BA%BA%E6%BD%AE%E9%83%BD%E9%8A%B3%E6%B8%9B-%E6%B6%88%E8%B2%BB%E9%87%8D%E5%BF%83%E5%8C%97%E7%A7%BB-%E5%8D%97%E9%AB%98%E9%9B%84%E5%95%86%E5%9C%88%E8%8B%A6%E6%92%90-220638610.html",
-     "published_at": "2026-10-24T06:06:00+08:00"
-    },
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7327/9834112",
-     "published_at": "2026-10-23T00:00:00+08:00"
-    }
-   ],
-   "image": "https://media.zenfs.com/ko/udn.com/be60501b9c3331826a097388d62481f6.jpg"
-  },
-  {
-   "id": "20261024-tamsui-old-street-damage",
-   "title": "薔琵颱風衝擊淡水老街，河口水位高漲、英專路招牌砸落",
-   "summary": "報導指薔琵颱風使淡水河口水位高漲，淡水老街一帶滿目狼藉，英專路有招牌砸落、帆布碎片四散。",
-   "category": "商圈動向",
-   "alert": "商圈受災",
-   "published_at": "2026-10-24T00:00:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [
-    {
-     "name": "淡水老街商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "淡水老街商圈為115年補助名單，颱風造成街區受損，可能影響活動執行與營運，可留意後續復原情形。",
-   "sources": [
-    {
-     "outlet": "東森新聞",
-     "url": "https://www.msn.com/zh-tw/news/other/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E7%99%BC%E5%A8%81%E6%B7%A1%E6%B0%B4%E6%B2%B3%E5%8F%A3%E6%B0%B4%E4%BD%8D%E9%AB%98%E6%BC%B2%E6%B7%A1%E6%B0%B4%E8%80%81%E8%A1%97%E6%BB%BF%E7%9B%AE%E7%8B%BC%E8%97%89-%E8%8B%B1%E5%B0%88%E8%B7%AF%E6%8B%9B%E7%89%8C%E7%A0%B8%E8%90%BD-%E6%9D%B1%E6%A3%AE%E6%B0%A3%E8%B1%A1%E8%AE%9A/vi-AA2fX9dg",
-     "published_at": "2026-10-24T00:00:00+08:00"
-    },
-    {
-     "outlet": "東森新聞",
-     "url": "https://www.msn.com/zh-tw/lifestyle/other/%E6%9C%80%E6%96%B0-%E8%96%94%E7%90%B5%E8%82%86%E8%99%90%E6%B7%A1%E6%B0%B4%E8%80%81%E8%A1%97-%E5%B8%86%E5%B8%83%E7%A2%8E%E7%89%87%E5%9B%9B%E6%95%A3-newsebc/vi-AA2fWOQY",
-     "published_at": "2026-10-24T00:00:00+08:00"
-    }
-   ]
   }
  ],
  "discussions": []

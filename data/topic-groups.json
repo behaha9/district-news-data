@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-06T21:10:00+08:00",
+  "updated_at": "2026-11-07T07:30:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -180,6 +180,14 @@
           "representative": "https://www.nexttv.com.tw/NextTV/News/Home/Finance/2026-11-06/2517803.html",
           "urls": [
             "https://www.nexttv.com.tw/NextTV/News/Home/Finance/2026-11-06/2517803.html"
+          ]
+        },
+        {
+          "id": "20261103-fushou-release",
+          "representative": "https://www.ctee.com.tw/news/20261103701444-431401",
+          "note": "福壽1205公噸油品解封上架，沙拉油缺貨有望緩解",
+          "urls": [
+            "https://www.ctee.com.tw/news/20261103701444-431401"
           ]
         }
       ],
