@@ -3,6 +3,7 @@
 「商圈觀測」網站 AI 精選頁（/curated）的資料來源。
 
 - `data/latest.json`：網站讀取的資料（近 14 天，schema_version 1）
+- `inputs/homepage-archive.json`：首頁 7 天累積清單（Actions 每次抓首頁清單時併入，給 AI 審查與網站補齊首頁）
 - `data/review.json`：首頁審查紀錄（網站首頁近 7 天每篇的 AI 結論：收錄／併入／隱藏與原因，保留 14 天）
 - `data/archive/`：每日整理紀錄
 - `inputs/`：GitHub Actions 每天 05:23–16:23 每小時自動抓取的網站候選清單（整理前也會即時重抓）

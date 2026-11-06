@@ -23,6 +23,7 @@ from urllib.request import Request, urlopen
 TAIPEI = timezone(timedelta(hours=8))
 URL = "https://business-district-monitor.behaha.chatgpt.site/api/public/v1/homepage-articles"
 OUT = "inputs/homepage.json"
+ARCHIVE = "inputs/homepage-archive.json"
 UA = "district-news-data-fetcher/1.0 (+https://github.com/behaha9/district-news-data)"
 ATTEMPTS = 4
 WAIT = 20
@@ -96,7 +97,51 @@ def main():
     with open(OUT, "w", encoding="utf-8") as fh:
         json.dump(doc, fh, ensure_ascii=False, indent=1)
     print(f"首頁清單：{doc['event_count']} 件事件／{len(out)} 篇")
+    total, added = update_archive(out, doc["fetched_at"])
+    print(f"7 天累積清單：{total} 篇（本次新增 {added}）")
     return 0
+
+
+def window_start(now):
+    """首頁「近 7 天」＝今天與前六個臺北日期（與網站 homeDateGroups 相同）。"""
+    return (now.astimezone(TAIPEI).date() - timedelta(days=6)).isoformat()
+
+
+def update_archive(items, fetched_at, path=ARCHIVE):
+    """把這次首頁清單併進 7 天累積清單（v58c）。
+
+    網站首頁清單只暫存在各機房快取，文章會消失又出現；累積清單記下 7 個臺北日期內
+    曾出現在首頁的每一篇，給 AI 審查（review.py）與網站補齊首頁用。
+    已在清單的文章更新欄位與 last_seen_at；超出 7 個臺北日期的移除。
+    """
+    try:
+        with open(path, encoding="utf-8") as fh:
+            archive = json.load(fh)
+    except (FileNotFoundError, ValueError):
+        archive = {}
+    by_url = {a["url"]: a for a in archive.get("items", []) if a.get("url")}
+    added = 0
+    for it in items:
+        old = by_url.get(it["url"])
+        row = dict(it)
+        row["first_seen_at"] = old.get("first_seen_at", fetched_at) if old else fetched_at
+        row["last_seen_at"] = fetched_at
+        if not old:
+            added += 1
+        by_url[it["url"]] = row
+    start = window_start(datetime.fromisoformat(fetched_at))
+    keep = [a for a in by_url.values() if str(a.get("published_at", ""))[:10] >= start]
+    keep.sort(key=lambda a: (a.get("published_at", ""), a["url"]), reverse=True)
+    doc = {
+        "schema_version": 1,
+        "updated_at": fetched_at,
+        "window_start": start,
+        "article_count": len(keep),
+        "items": keep,
+    }
+    with open(path, "w", encoding="utf-8") as fh:
+        json.dump(doc, fh, ensure_ascii=False, indent=1)
+    return len(keep), added
 
 
 if __name__ == "__main__":

@@ -39,6 +39,7 @@ sys.dont_write_bytecode = True
 TAIPEI = timezone(timedelta(hours=8))
 REVIEW = "data/review.json"
 HOMEPAGE = "inputs/homepage.json"
+ARCHIVE = "inputs/homepage-archive.json"  # 7 天累積清單：7 個臺北日期內曾出現在首頁的每一篇
 LATEST = "data/latest.json"
 ARTICLES = "inputs/articles.json"
 KEEP_DAYS = 14
@@ -154,6 +155,12 @@ def main(new_path=None):
                 stale = f"首頁清單是 {age.total_seconds() / 3600:.0f} 小時前抓的（超過 {STALE_HOURS} 小時）"
         except Exception:
             stale = "首頁清單缺 fetched_at"
+    current_count = len(home_items)
+    archive = load(ARCHIVE, None)
+    if archive and isinstance(archive.get("items"), list) and archive["items"]:
+        # 審查 7 天累積清單（首頁清單會消失又出現；曾出現過的都要審，AI 才不會漏看）
+        seen = {h["url"] for h in home_items}
+        home_items = home_items + [a for a in archive["items"] if a.get("url") and a["url"] not in seen]
     on_home = {h["url"] for h in home_items}
 
     auto = 0
@@ -200,7 +207,7 @@ def main(new_path=None):
                 errors.append(f"kept 不可有 reason：{url}")
             if e.get("item") not in item_ids:
                 msg = f"kept 指向的 AI 新聞 id 不存在：{e.get('item')!r}｜{url}"
-                (errors if url in on_home else notes).append(msg + ("" if url in on_home else "（已不在首頁，不影響網站）"))
+                (errors if url in on_home else notes).append(msg + ("" if url in on_home else "（已不在 7 天累積清單，不影響網站）"))
         if not DATE_RE.match(str(e.get("at", ""))):
             errors.append(f"at 必須是 YYYY-MM-DD：{url}")
 
@@ -251,7 +258,7 @@ def main(new_path=None):
         return 3
 
     hid = "、".join(f"{k} {v}" for k, v in sorted(reasons.items(), key=lambda kv: -kv[1]))
-    print(f"首頁 {len(home_items)} 篇（{homepage.get('event_count')} 件）｜在 AI sources {counts['sources']}"
+    print(f"7 天累積 {len(home_items)} 篇（首頁目前 {current_count} 篇）｜在 AI sources {counts['sources']}"
           f"｜kept {counts['kept']}｜隱藏 {counts['hidden']}" + (f"（{hid}）" if hid else "") + f"｜未審查 {len(pending)}")
     articles = load(ARTICLES, {}).get("articles", {})
     for h in sorted(pending, key=lambda x: x.get("published_at", ""), reverse=True):
