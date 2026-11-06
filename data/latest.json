@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T16:50:28+08:00",
+ "generated_at": "2026-11-06T20:58:16+08:00",
  "items": [
   {
    "id": "20261106-taoyuan-kitchen-waste",
@@ -8,12 +8,17 @@
    "summary": "桃園市政府將商圈、傳統市場等管理機構納入商用廚餘機補助範圍，以減輕業者負擔並擴大減量效益。",
    "category": "營運與政策",
    "alert": null,
-   "published_at": "2026-11-06T14:58:00+08:00",
+   "published_at": "2026-11-06T18:30:00+08:00",
    "cities": [
     "桃園市"
    ],
    "districts": [],
    "sources": [
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5631966",
+     "published_at": "2026-11-06T18:30:00+08:00"
+    },
     {
      "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261106399888",
@@ -28,9 +33,37 @@
      "outlet": "中時新聞網",
      "url": "https://www.chinatimes.com/realtimenews/20261106002611-260405",
      "published_at": "2026-11-06T13:06:00+08:00"
+    },
+    {
+     "outlet": "中華新聞雲",
+     "url": "https://www.cdns.com.tw/articles/1486194",
+     "published_at": "2026-11-06T00:00:00+08:00"
     }
    ],
-   "image": "https://ni.yam.com/20261106/medias-20261106-6aed74db394a2-0a85a40fb39a94a9.webp"
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/5631966_1_1.jpg"
+  },
+  {
+   "id": "20261106-moea-district-to-market-design",
+   "title": "商業署以設計加值，從商圈到市場帶動地方創新",
+   "summary": "經濟部商業發展署6日發布消息，說明以設計加值方式，從商圈延伸到市場，帶動地方創新。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-06T16:51:00+08:00",
+   "cities": [],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261106722077",
+     "published_at": "2026-11-06T16:51:00+08:00"
+    },
+    {
+     "outlet": "經濟部商業發展署",
+     "url": "https://www.aoc.gov.tw/showPublic/811",
+     "published_at": "2026-11-06T00:00:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261106/00449248.202611061747671363m-b600e9dbc170cc4a.webp"
   },
   {
    "id": "20261105-taichung-wudiao-ranking",
@@ -2637,36 +2670,6 @@
      "published_at": "2026-10-24T00:00:00+08:00"
     }
    ]
-  },
-  {
-   "id": "20261023-houzhan-station",
-   "title": "台南鐵路地下化新車站啟用，過去的「後站」大學路商圈迎轉機",
-   "summary": "台南鐵路地下化第一階段通車，新車站出入口改變旅客動線，過去被視為後站的大學路商圈與東區餐飲、旅宿業者可望迎來消費人潮。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-10-23T18:55:00+08:00",
-   "cities": [
-    "台南市"
-   ],
-   "districts": [
-    {
-     "name": "大學路商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "Yahoo奇摩新聞",
-     "url": "https://tw.news.yahoo.com/%E6%96%B0%E8%BB%8A%E7%AB%99%E5%90%B8%E5%AE%A2-%E5%BE%8C%E7%AB%99%E5%95%86%E5%9C%88%E8%BF%8E%E8%BD%89%E6%A9%9F-105521557.html",
-     "published_at": "2026-10-23T18:55:00+08:00"
-    },
-    {
-     "outlet": "中華新聞雲",
-     "url": "https://www.cdns.com.tw/articles/1479279",
-     "published_at": "2026-10-23T00:00:00+08:00"
-    }
-   ],
-   "image": "https://media.zenfs.com/ko/cdns.com.tw/7e31941d3562cd06e5516937fff0fc10.jpg"
   }
  ],
  "discussions": []
