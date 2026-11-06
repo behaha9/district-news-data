@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T15:04:19+08:00",
+ "fetched_at": "2026-11-06T15:19:51+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-11-04T20:51+08:00",
@@ -8847,6 +8847,121 @@
    "checked_at": "2026-11-06T15:04+08:00",
    "status": "error",
    "error": "The read operation timed out"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%89%B5-%E9%AB%98%E9%9B%84%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E8%A8%AD-%E6%A8%99%E7%B7%9A%E5%9E%8B%E5%9C%93%E7%92%B0-%E4%BA%8B%E6%95%85%E5%A4%A7%E6%B8%9B-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2gIlv4": {
+   "checked_at": "2026-11-06T15:19+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://n.yam.com/Article/20261106399888": {
+   "checked_at": "2026-11-06T15:19+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T14:58+08:00",
+   "site_name": "蕃新聞",
+   "description": "記者葉志成／桃園報導桃園市政府率全國之先推出「商用廚餘機補助計畫」，獲得團膳業、餐飲業者一致好評。",
+   "cities": {
+    "桃園市": 5
+   },
+   "districts": [],
+   "body_chars": 902,
+   "image": "https://ni.yam.com/20261106/medias-20261106-6aed74db394a2-0a85a40fb39a94a9.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taisounds.com/news/content/133/298263": {
+   "checked_at": "2026-11-06T15:19+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T11:22+08:00",
+   "site_name": "太報 TaiSounds",
+   "description": "選戰倒數，民進黨高雄市長候選人賴瑞隆持續深入地方爭取支持，今（11/6）走訪高雄火車站周邊南國商圈，與新住民朋友互動，化身「南國體驗員」挑戰越南語、印尼語介紹美食，品嘗異國料理，也分享高雄在地農產與東南亞風味的結合，現場新住民朋友更以不同語言高喊「當選」，為選戰增添多元族群交流話題。",
+   "cities": {
+    "高雄市": 5
+   },
+   "districts": [],
+   "body_chars": 212,
+   "image": "https://cdn.taisounds.com/newsimages/img/2026/1106/35e84eb2fc134e0eb3181ae35ab593c3.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261106002611-260405": {
+   "checked_at": "2026-11-06T15:19+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T13:06+08:00",
+   "site_name": "中時新聞網",
+   "description": "桃園市政府率全國之先推出「商用廚餘機補助計畫」，獲得團膳業、餐飲業者一致好評。市府為進一步減輕中小型餐飲業者的負擔並擴大減量效益，特將商圈、傳統市場及夜市管理機構納入補助範圍，並將設備設計處理量增加50",
+   "cities": {
+    "桃園市": 5
+   },
+   "districts": [],
+   "body_chars": 852,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-06/656/20261106002612.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.contentplatform.info/articles/565534/%E5%8F%B0%E4%B8%AD%E7%89%A9%E8%AA%BF%E5%88%B8%E4%BA%BA%E6%B0%A3%E5%A0%B4%E5%9F%9F%E6%8F%AD%E6%9B%89%E3%80%80%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E5%A5%AA%E5%86%A0%E3%80%81%E9%80%A2%E7%94%B2%E5%A4%9C/": {
+   "checked_at": "2026-11-06T15:19+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T13:25+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "台中物調券帶動市集買氣，民眾好評持續延燒！市府經濟發展局日前於官方粉絲專頁發起物調券心得分享活動，短短4日吸引民眾及攤商踴躍留言，分享消費優惠與營收成長的實際感受。經發局統計，網友最推薦的消費場域由一中商圈奪冠，逢甲觀光夜市及清水五權夜市分居第二、第三名。從傳統市場到商圈、夜市，物調券不僅讓民眾享…",
+   "cities": {
+    "台中市": 7
+   },
+   "districts": [
+    "美術園道商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1125,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/06123955/taichung-cover-261106043953107.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/ChiayiCounty/breakingnews/5628919": {
+   "checked_at": "2026-11-06T15:19+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T12:25+08:00",
+   "site_name": "自由時報電子報",
+   "description": "嘉義縣鹿草風華特色文化商圈發展協會推廣台灣特產，日前到日本沖繩與社團法人琉球台灣工商協會簽署合作意向書（MOU），雙方將在特色農產與加工食品推廣、商業通路媒合、文化觀光及會員互訪進行合作，而鹿草商圈特色伴手禮如紅心土芭樂米餅、果乾、蜂蜜、產銷履歷米等商品將於今年12月在沖繩台灣餐館「Mr.WU台湾屋台丸」專櫃上架，讓沖",
+   "cities": {
+    "嘉義縣": 17,
+    "台南市": 1,
+    "高雄市": 1
+   },
+   "districts": [
+    "鹿草風華商圈（嘉義縣）"
+   ],
+   "body_chars": 1115,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/04/5628919_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.kinliu.hk/news/%E6%9C%80%E7%86%B1/%E7%B4%85%E4%B8%8D%E9%81%8E%E7%BE%85%E6%B9%96%EF%BC%9F-%E5%A7%9C%E6%BF%A4%E5%B7%A8%E5%B9%85%E5%BB%A3%E5%91%8A%E7%99%BB%E9%99%B8%E5%8C%97%E4%BA%AC%E9%A0%82%E7%B4%9A%E5%95%86%E5%9C%88%E5%B7%A8%E5%B1%8F-%E6%AF%8F%E6%97%A5%E6%B5%81%E9%87%8F300%E8%90%AC%E4%BA%BA%E6%AC%A1/452892.html?id=94&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F": {
+   "checked_at": "2026-11-06T15:19+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T10:08+08:00",
+   "site_name": null,
+   "description": "姜濤被內地網民嘲「紅不過羅湖」，惟其為《Figaro》拍攝的巨幅廣告昨日登上北京東三環京信大廈LED大屏，引起「姜糖」網上騷動，認為他已紅到北京。該處屬頂級商圈，廣告屏高42.36米，每日車流65萬架次、人流374萬人次，但廣告只播放一天。姜濤去年亦曾在順德萬象匯有廣告，宣傳他8月澳門演唱會；他當時稱只要有表演，哪裡都",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1014,
+   "image": "https://img.kinliu.hk/data/article/2026-11-06/WhatsApp%20Image%202026-11-06%20at%209.16.17%20AM%20(1)-16x9.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
   }
  }
 }

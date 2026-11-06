@@ -1,15 +1,13 @@
 {
- "fetched_at": "2026-11-06T15:04:07+08:00",
+ "fetched_at": "2026-11-06T15:19:41+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 105,
-  "kept": 42,
-  "resolved": 42,
-  "items": 42,
-  "resolve_this_run": {
-   "online": 6
-  }
+  "raw": 102,
+  "kept": 39,
+  "resolved": 39,
+  "items": 39,
+  "resolve_this_run": {}
  },
  "items": [
   {
@@ -60,16 +58,6 @@
    "published_at": "2026-11-06T11:06+08:00",
    "query": "商圈",
    "url": "https://newtalk.tw/news/view/2026-11-06/1069616",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 巴威逼近九份老街冷清！ 韓日遊客「震驚又害怕」",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91R0hIdG5kUUtDLUpLRHJMSDFKblU5RVItdTBjUzFMTUNDVU55V3ZDbE0yQkdFaXRrNU9qSGIzLS1ibUU4MEo1WndpN1pTZUV3ZlI3MGVCa2dZOE5BNDIyQmM5SnU?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-06T11:00+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/kEKDBaJ",
    "resolved": true
   },
   {
@@ -374,12 +362,12 @@
   },
   {
    "title": "台南百貨版圖重整！鐵路地下化帶動站前商圈再生 商業投資、就業人口牽動周邊房市",
-   "google_url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPaHlCcHB4NmdiQmx5MDhwOFVBNFNEb0UyU1dJX214bnlLeDN5aFFtODgtUW5lbDF0RnF1Ty1FMW84OUxDR3FYVEdlSm02M0F3UVpia1drb3ZDeFNpcDBwRFhVWDhrVG5IZnhXd1dyMVRwMWhXRDFyel9tS2s5Yjl4SktNZmVXR09CNWc4eDVuYVVKZjV2T1RxMFBNZ2xmcGdYc2tpWnJOM0Fyc0lzME5ocWpJNndqenZPQ0dJUHBkdFYtZVlYYmk3RF9haXZoWGFkb0N4SkpQaVJGeU1tU3hRNTNLZjJ2bzJhdFZwdGtiTlotUWJEdGdpS3ZlTWVzS2c1S1BFZkR6aXdSUGlSSW9TcDc4aVFidEktREp3SnZxZTNQd1NQYkdnak9zb1ZOdlc2b0tXN244UTdYekVoSE1NTF9lbERWUDI2MzduaGRFZ3NpVFFZWEE2RXlHQ0pCdnBPeEF1UEJWTlVKUm84bXlGTmtiY3VMYUYwQUJ4aF9tTTJtOFRkS3Y4XzJCbVByTDgwRXMyczJ5YWFBNUM0RzBNVWxFMzRONzNHTDdZb1NLWlEwbEpHU0lBUjhndTVvNkJaMV81MW9IQThPc0Rza2g2VDVtc3NhQ3ZVV2hSZ3UwZkRQUnZfcW1tWVNOUFRpbGx2dHFSc1lfRi1yaF9CbFBwMFlvYzNHd0xf?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOTlJrNElSQmlFbk51ZFk2MUFWcEE5NFRPNFBqX2lTb3Mwb09UdVBBMTlfNzVLdW5GV1NCUzZpREtwUG1jb0NUVFRIRnowUE1HNXFJOWJLUVhmOW1MRDNmLTdHc05JeVV1LVV2SjlMVkVrM2VndkdWRnVpbjNQdzRzSGVXY1QwZkM1VnhfYlh2cTVCQkJmVWVxZThheUphSF92akMxODVwb0dBUXBVRnhIWkdKekFEUU5WRTVkemVwQS15amt4R1BXS2JpWTRpTl9fZmpITFdObmdoMjBLbFprdUd0UENla25NaHNfR2RwaUw2NENUTEVhazBENVZiNllWUjJxUFMxSHBleXBSZmR0SUYwcXBQWnJqSUkyTTE4WjJqRHBKMjQ2YjBUT1o2M1djbFRBOGRJRDcxdV9OTGQ3X1JTUjJHRlVSTnRMbWRqWEFiMk1qTjdnY0ljV1lmYkVSd18waFJZT3NPaXNKbjZnRkZ3Zm9lOXBHMlltdS1iSVV3WEZPbEdscUFnYXpENWl5LWJOc0hfcHcyc1JGSlBhWHFkYmpHRHR5UlZxeTBLUkFwYTlMU3RfY1hyMEJkQmF5RmJHR21QTi1XZE9naTBtcHZ2eUZOZEhSalNaTFBhQlN1QkxQZll6elZEVDdITjk4cEI2SWtjNkFOeUYyNGZHNDRjTmZ1Zm9TcnNfQTl3?oc=5",
    "source": "台灣好新聞",
-   "source_site": "https://taiwanhot.net",
+   "source_site": "https://www.taiwanhot.net",
    "published_at": "2026-11-04T18:44+08:00",
    "query": "商圈",
-   "url": "https://taiwanhot.net/news/1152923/%E5%8F%B0%E5%8D%97%E7%99%BE%E8%B2%A8%E7%89%88%E5%9C%96%E9%87%8D%E6%95%B4%EF%BC%81%E9%90%B5%E8%B7%AF%E5%9C%B0%E4%B8%8B%E5%8C%96%E5%B8%B6%E5%8B%95%E7%AB%99%E5%89%8D%E5%95%86%E5%9C%88%E5%86%8D%E7%94%9F+%E5%95%86%E6%A5%AD%E6%8A%95%E8%B3%87%E3%80%81%E5%B0%B1%E6%A5%AD%E4%BA%BA%E5%8F%A3%E7%89%BD%E5%8B%95%E5%91%A8%E9%82%8A%E6%88%BF%E5%B8%82",
+   "url": "https://www.taiwanhot.net/news/1152923/%E5%8F%B0%E5%8D%97%E7%99%BE%E8%B2%A8%E7%89%88%E5%9C%96%E9%87%8D%E6%95%B4%EF%BC%81%E9%90%B5%E8%B7%AF%E5%9C%B0%E4%B8%8B%E5%8C%96%E5%B8%B6%E5%8B%95%E7%AB%99%E5%89%8D%E5%95%86%E5%9C%88%E5%86%8D%E7%94%9F+%E5%95%86%E6%A5%AD%E6%8A%95%E8%B3%87%E3%80%81%E5%B0%B1%E6%A5%AD%E4%BA%BA%E5%8F%A3%E7%89%BD%E5%8B%95%E5%91%A8%E9%82%8A%E6%88%BF%E5%B8%82",
    "resolved": true
   },
   {
@@ -410,26 +398,6 @@
    "published_at": "2026-11-04T16:58+08:00",
    "query": "商圈",
    "url": "https://www.ftvnews.com.tw/news/detail/2026B04U05M1",
-   "resolved": true
-  },
-  {
-   "title": "新北深坑首座社宅243戶動土！住都中心：散步就到老街 | Newtalk",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZcjM0a09pcjdMWGlIR0xJS2tBc0t3eW5FSVZPVU8wNWhmcGNXekJmNlFpaWJObWpCNFJTTWVBTUVobUdqS3d6N0RveXVTamlpWTlrNm93?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-04T15:15+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/article/OplM8WV",
-   "resolved": true
-  },
-  {
-   "title": "真正的美味藏在巷弄裡！三峽、鶯歌在地人認證5家必吃美食，只逛老街太可惜啦| 台灣旅行小幫手| 風生活",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KSW1UcTZJTkpIZ3EyckV4TTF0dlFPQzZNZkZLQW82WWxpNGxvb1NfMUd4VmY0ZC0xQWhpU1FxQVdYMjc2TDN2cGIta0hVMDBF?oc=5",
-   "source": "風傳媒",
-   "source_site": "https://www.storm.mg",
-   "published_at": "2026-11-04T15:05+08:00",
-   "query": "老街",
-   "url": "https://www.storm.mg/lifestyle/11178443",
    "resolved": true
   }
  ]
