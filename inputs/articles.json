@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T20:51:48+08:00",
+ "fetched_at": "2026-11-06T23:12:40+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-11-04T20:51+08:00",
@@ -132,7 +132,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.fclnews.com/235170/": {
-   "checked_at": "2026-11-06T15:04+08:00",
+   "checked_at": "2026-11-06T23:12+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -235,17 +235,17 @@
    "date_hint_from": "原文時間"
   },
   "https://www.yesmedia.com.tw/%E8%97%8F%E8%BA%AB%E6%9D%B1%E6%B5%B7%E5%95%86%E5%9C%88%E7%9A%84%E5%B9%B3%E5%83%B9%E6%B8%AF%E5%BC%8F%E7%BE%8E%E9%A3%9F-%E7%8F%BE%E8%92%B8%E7%9F%B3%E7%A3%A8%E8%85%B8%E7%B2%89%E3%80%81%E6%B2%B3/": {
-   "checked_at": "2026-11-06T15:04+08:00",
+   "checked_at": "2026-11-06T23:12+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://sunmedia.tw/news/finance/走一段路，找回生活的光！2026-微光健走・亞東漫遊熱鬧登場-1793609777075": {
-   "checked_at": "2026-11-06T15:04+08:00",
+   "checked_at": "2026-11-06T23:12+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 18-29: ordinal not in range(128)"
   },
   "https://news.pchome.com.tw/travel/sharelife/20261102/index-79357760099": {
-   "checked_at": "2026-11-06T15:04+08:00",
+   "checked_at": "2026-11-06T23:12+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -265,7 +265,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.fclnews.com/235770/": {
-   "checked_at": "2026-11-06T15:04+08:00",
+   "checked_at": "2026-11-06T23:12+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -1872,7 +1872,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.juksy.com/article/154111": {
-   "checked_at": "2026-11-06T15:04+08:00",
+   "checked_at": "2026-11-06T23:12+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4936,7 +4936,7 @@
    "date_hint_from": null
   },
   "https://news.housefun.com.tw/news/article/189863490667.html": {
-   "checked_at": "2026-11-06T15:04+08:00",
+   "checked_at": "2026-11-06T23:12+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5372,7 +5372,7 @@
    "date_hint_from": null
   },
   "https://www.yesmedia.com.tw/%e5%bc%b5%e6%96%87%e8%88%88%e9%a0%98%e8%bb%8d%e8%90%ac%e8%81%96%e7%af%80%e8%a6%aa%e5%ad%90%e8%ae%8a%e8%a3%9d%e8%b8%a9%e8%a1%97-%e5%82%b3%e6%89%bf%e5%b9%b8%e7%a6%8f%e5%9b%9e%e6%86%b6%e5%b8%b6%e5%8b%95/": {
-   "checked_at": "2026-11-06T15:04+08:00",
+   "checked_at": "2026-11-06T23:12+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5590,7 +5590,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.yesmedia.com.tw/%e4%b8%ad%e5%b8%82%e7%89%a9%e8%aa%bf%e5%88%b8%e4%ba%ba%e6%b0%a3%e5%a0%b4%e5%9f%9f%e6%8f%ad%e6%9b%89%ef%bc%81%e4%b8%80%e4%b8%ad%e5%95%86%e5%9c%88%e5%a5%aa%e5%86%a0%e3%80%81%e9%80%a2%e7%94%b2%e5%a4%9c/": {
-   "checked_at": "2026-11-06T15:04+08:00",
+   "checked_at": "2026-11-06T23:12+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6730,7 +6730,7 @@
    "date_hint_from": "原文時間"
   },
   "https://mknews.com.tw/2026/10/1011290/": {
-   "checked_at": "2026-11-06T15:04+08:00",
+   "checked_at": "2026-11-06T23:12+08:00",
    "status": "error",
    "error": "The read operation timed out"
   },
@@ -7398,7 +7398,7 @@
    "date_hint_from": null
   },
   "https://news.ebc.net.tw/search/tags/度小月/": {
-   "checked_at": "2026-11-06T15:04+08:00",
+   "checked_at": "2026-11-06T23:12+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)"
   },
@@ -7694,9 +7694,27 @@
    "date_hint_from": null
   },
   "https://www.taichung.gov.tw/3401276/post": {
-   "checked_at": "2026-11-06T15:04+08:00",
-   "status": "error",
-   "error": "The read operation timed out"
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "臺中市政府全球資訊網",
+   "description": "台中第二波物調券369家商圈店家響應！天津商圈8折、自由路9折再加碼優惠",
+   "cities": {
+    "台中市": 11
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "繼光商圈（台中市）",
+    "大隆路商圈（台中市）",
+    "美術園道商圈（台中市）",
+    "太平樹孝商圈（台中市）",
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 1542,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   },
   "https://www.msn.com/zh-tw/news/other/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%89%B5-%E9%AB%98%E9%9B%84%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E8%A8%AD-%E6%A8%99%E7%B7%9A%E5%9E%8B%E5%9C%93%E7%92%B0-%E4%BA%8B%E6%95%85%E5%A4%A7%E6%B8%9B-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2gIlv4": {
    "checked_at": "2026-11-06T15:19+08:00",
@@ -8977,6 +8995,341 @@
    "image_checked": true,
    "date_hint": "2026-11-06",
    "date_hint_from": "原文時間"
+  },
+  "https://www.setn.com/news/1934829": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T06:16+08:00",
+   "site_name": "三立新聞網",
+   "description": "台北市長蔣萬安日前赴東區商圈掃街，意外踏入懸掛民進黨對手支持文宣的甜點店，不僅大方握手致意，展現跨黨派風度。店家事後在社群幽默喊話「心有所屬」，釣出蔣萬安暖心回應台北市都是一家人，徐巧芯與羅智強等藍營要角也相繼留言互動，這場充滿溫度的良性對話化解了選戰煙硝味，傳為民主佳話。",
+   "cities": {
+    "台北市": 11,
+    "台南市": 2,
+    "高雄市": 2
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 1471,
+   "image": "https://attach.setn.com/newsimages/2026/11/05/5776517-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E6%8B%9C%E7%A5%A8-1-%E5%9C%96-112149468.html": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T19:21+08:00",
+   "site_name": "Yahoo News",
+   "description": "爭取連任的台北市長蔣萬安（中右）6日晚間到東區商圈掃街拜票，沿路向民眾握手問候，全力催票。",
+   "cities": {
+    "台北市": 26,
+    "高雄市": 3,
+    "台中市": 1,
+    "基隆市": 1,
+    "彰化縣": 1
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 2693,
+   "image": "https://media.zenfs.com/zh-tw/cna.com.tw/145b3af7757a8c1db11855a69ff1f8d2.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ftnn.com.tw/news/593583": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T22:26+08:00",
+   "site_name": "FTNN 新聞網",
+   "description": "記者鄧宇婷／台北報導2026台北市長選戰進入最後階段，國民黨候選人、現任市長蔣萬安今（6）日傍晚前往東區商圈掃街拜票，途中遇到店內擺滿民進黨對手沈伯洋「洋流」文宣的商家，仍主動上前握手。店家事後在Threads發文感謝蔣萬安到訪，卻也笑稱「可惜我已經有喜歡的人了」，沒想到意外釣出蔣萬安本人留言，暖心...",
+   "cities": {
+    "台北市": 9,
+    "桃園市": 1
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 1823,
+   "image": "https://i01.ftnn.com.tw/a/26/309/26309222645927229b499d.png",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://more-news.tw/761941/": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T22:46+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "臺北市長蔣萬安今（6）日晚間出席「東區周年慶啟動儀式」，與遠東SOGO百貨董事長黃晴雯及在地商圈代表共同為活動 […]",
+   "cities": {
+    "台北市": 4,
+    "嘉義市": 2
+   },
+   "districts": [
+    "東區商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 757,
+   "image": "https://more-news.tw/more-news-media/2026/11/027f2aeb-97f0-44ce-9d0b-4517cb85d3ca.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://ctinews.com/news/items/byWjJkEbWY": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T21:54+08:00",
+   "site_name": "中天新聞網",
+   "description": "台北市長蔣萬安今天（6日）前往東區商圈掃街拜票，途中遇到擺有「洋流」標語的店家，他走進店內與店員握手致意，引發關注。事後業者在社群平台發文感謝蔣萬安蒞臨，但也表示「可惜我已經有喜歡的人了」，蔣萬安也留言回應。",
+   "cities": {
+    "台北市": 7
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 755,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pchome.com.tw/public/taipei/20261106/index-79396742038585126016.html": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://udn.com/news/amp/story/124652/9862677": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T20:04+08:00",
+   "site_name": "聯合新聞網",
+   "description": "台北市長蔣萬安下午參加東區周年慶啟動儀式，接著前往東區商圈走街，有店家擺著「洋流」標語，蔣萬安仍爭取跟對方握手；蔣萬安也遇上女性粉絲，送上一大束鮮花，表達支持，因民眾太熱情，走街行程緩慢，原本下一場的遼寧夜市拜票也延後。",
+   "cities": {
+    "台北市": 6
+   },
+   "districts": [
+    "東區商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 559,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493678.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.nextapple.com/life/20261106/9279030F537F9A63BEA01214D4BE1C7A": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T20:48+08:00",
+   "site_name": "壹蘋新聞網",
+   "description": "今天開獎大樂透、49樂合彩、今彩539、39樂合彩、三星彩、四星彩。獎號如有誤植，請以開獎單位公告為準。",
+   "cities": {
+    "台北市": 8,
+    "新北市": 3,
+    "桃園市": 1,
+    "台中市": 1,
+    "高雄市": 1
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 2840,
+   "image": "https://static-cdn.nextapple.tw/prod/2026-11/9279030F537F9A63BEA01214D4BE1C7A/c1634697862f86cad91921864c516c13_1280.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pts.org.tw/article/834684": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T20:26+08:00",
+   "site_name": "公視新聞 PNN",
+   "description": "雙北選戰競爭激烈，國民黨李四川今（6）日合體新北市長侯友宜車掃，主打市政一棒接一棒，民進黨蘇巧慧晚間也將與沈伯洋合體出席戒慎恐懼之夜活動，雙北連線、拉抬選情。而在台北市，市長蔣萬安下午則到東區商圈走街，繼昨（5）日沈伯洋之後，今日也前往拜會前台北市議長陳健治。",
+   "cities": {
+    "台北市": 8,
+    "新北市": 7
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 661,
+   "image": "https://news-data.pts.org.tw/media/301002/conversions/bonEGB1Hi57iQ0TkkUNemdLYTEa6mO0cF7oqo6Vj-og_jpg.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/amp/news/politics/breakingnews/5631220": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T09:06+08:00",
+   "site_name": "自由時報電子報",
+   "description": "不用出國，就能在高雄體驗道地的東南亞風情！民進黨高雄市長候選人賴瑞隆今（6）日發布短影音，他化身「南國體驗員」，在新住民朋友熱情陪同下，走訪高雄車站周邊的南國商圈，感受異國文化魅力。賴瑞隆更挑戰以越南語、印尼語介紹美食，獲得現場熱情鼓勵，眾人最後以不同母語齊聲高喊「當選」，氣氛熱絡。",
+   "cities": {
+    "高雄市": 19,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 1161,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/5631220_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://rise-mediacorp.com/archives/158202": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.ettoday.net/news/20261106/3267809.htm": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T21:07+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "台北市長蔣萬安今天傍晚到東區商圈走街，碰到掛著「洋流」海報的店家，仍上前握手，表達善意。該店家事後在Threads上表示，謝謝蔣萬安市長蒞臨！可惜我已經有喜歡的人了」。蔣萬安也留言回應，「謝謝你，無論喜歡誰，我們都希望讓台北更好，台北市的每一位都是一家人」。",
+   "cities": {
+    "台北市": 12,
+    "高雄市": 2,
+    "新北市": 1
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 1074,
+   "image": "https://cdn2.ettoday.net/images/9004/e9004090.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E6%8E%A5%E5%8A%9B%E6%8E%83%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88-%E9%81%BC%E5%AF%A7%E5%A4%9C%E5%B8%82-%E8%94%A3%E8%90%AC%E5%AE%89%E5%85%A9%E5%BA%A6%E6%8C%BA%E9%80%B2-%E6%B4%8B%E6%B5%81-%E5%BA%97%E5%AE%B6%E6%8F%A1%E6%89%8B%E8%87%B4%E6%84%8F-131700767.html": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T21:17+08:00",
+   "site_name": "Yahoo News",
+   "description": "距離九合一大選倒數22天，民進黨籍候選人沈伯洋今天（6日）晚間盛大舉辦社群派對「戒慎恐懼之夜」，台北市長蔣萬安則是接力前往東區商圈掃街，並回防本命區遼寧夜市沿途拜票，一路上有不少民眾搶合照。值得注意的是，蔣萬安在掃街途中兩度經過貼著「洋流」海報的店家，他也主動走進去握手致意。",
+   "cities": {
+    "台北市": 34,
+    "新北市": 4,
+    "桃園市": 2,
+    "台中市": 2,
+    "高雄市": 1
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/mirrordaily_390/795d80d0eb0c0e06a9d56a9fe945d629.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.org.tw/%E4%B8%8D%E7%8E%A9%E8%99%9B%E7%9A%84%EF%BC%81%E6%9E%97%E6%8F%9A%E5%BA%AD%E5%BE%9E%E6%80%A5%E9%9B%A3%E6%95%91%E5%8A%A9%E3%80%81%E5%AF%B5%E7%89%A9%E5%81%A5%E6%AA%A2%E5%88%B0%E5%95%86%E5%9C%88%E4%BC%81/": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T16:34+08:00",
+   "site_name": "索引新聞 INDEX News",
+   "description": "走過地方基層與大街小巷，林揚庭以踏實腳步落實急難救助、寵物健檢與商圈企業發展，透過真實記錄與前瞻願景，讓更多人看見士林北投在地深耕的點滴與用心。",
+   "cities": {
+    "嘉義市": 2,
+    "台北市": 1,
+    "新北市": 1
+   },
+   "districts": [
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1765,
+   "image": "https://news.org.tw/wp-content/uploads/2026/11/502808.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-11-06/2517992.html": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T19:01+08:00",
+   "site_name": "壹電視",
+   "description": "近期掀起洋流熱潮，不只支持者戴上飄帶表態，現在更一路從台北市飄到外縣市，新北淡水出現巨型洋流飄帶。",
+   "cities": {
+    "台北市": 3,
+    "新北市": 2,
+    "台中市": 1
+   },
+   "districts": [
+    "淡水老街商圈（新北市）"
+   ],
+   "body_chars": 268,
+   "image": "https://image.nexttv.com.tw/material/news/img/2026/11/61473220a5c04b84fcfdccc928ee3bd9.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.moneyweekly.com.tw/ArticleData/Info/Article/260469": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T14:58+08:00",
+   "site_name": null,
+   "description": null,
+   "cities": {
+    "桃園市": 3
+   },
+   "districts": [],
+   "body_chars": 834,
+   "image": "https://taiwanhot.net/cache/1316737/lg/medias-20261106-6aed74db394a2.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/news/aipl/202611060356.aspx": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T22:49+08:00",
+   "site_name": "中央社 CNA",
+   "description": "台北市長蔣萬安傍晚前往東區商圈掃街，接著再趕至遼寧街夜市拜票，選務行程緊湊；蔣萬安妻子石舫亘則同步拜訪景美夜市，2人分頭爭取選民支持，盼催出更多選票。",
+   "cities": {
+    "台北市": 5
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 858,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261106/1024x768_wmky_0_C20261106000257.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.tcpttw.com/local/2026/11/06/327954/": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T21:24+08:00",
+   "site_name": "警政時報",
+   "description": "熱血傳遞愛不延期！生命之愛「11/7烏日福德祠」再出發 邀民眾挽袖捐血傳愛 一袋熱血、一份希望，讓愛在風雨過後持續傳遞！生命之愛志工團隊原訂於2026年10月24日舉辦的愛心捐血活動，因颱風影響延期，經重新安排後，確定於11月7日（星期六）上午9時至下午4時，在臺中市烏日區烏日福德祠（烏日區五光路971號）熱情登場。主",
+   "cities": {
+    "台中市": 5,
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 1096,
+   "image": "https://www.tcpttw.com/wp-content/uploads/2026/11/1487125.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.nvns.net/news_view.php?new_sn=148670&new_csn=1467": {
+   "checked_at": "2026-11-06T23:12+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "視傳媒-新興網路媒體，目前各縣市均有記者發稿，有多位資深也有很多充滿活力的記者，一起拿起筆桿來為民眾出聲。",
+   "cities": {
+    "台南市": 2
+   },
+   "districts": [],
+   "body_chars": 417,
+   "image": "https://uploads.posu.tw/73/738/b2026110622171280.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   }
  }
 }

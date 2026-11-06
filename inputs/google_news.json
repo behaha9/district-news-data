@@ -1,17 +1,47 @@
 {
- "fetched_at": "2026-11-06T20:51:38+08:00",
+ "fetched_at": "2026-11-06T23:12:28+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 110,
-  "kept": 44,
-  "resolved": 44,
-  "items": 44,
+  "raw": 121,
+  "kept": 49,
+  "resolved": 49,
+  "items": 49,
   "resolve_this_run": {
-   "online": 11
+   "online": 7
   }
  },
  "items": [
+  {
+   "title": "蔣萬安出席東區周年慶 承諾商圈建設經費「只會多、不會少」",
+   "google_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0tcWNkNVZTbmVVQTFvd2xhaXVTa0R3bmp2ZUtXbmtyZFBCeW03UU5fU0UzQjBXT2M4RzJHQkMwZGtVUQ?oc=5",
+   "source": "墨新聞-MORE News",
+   "source_site": "https://more-news.tw",
+   "published_at": "2026-11-06T22:46+08:00",
+   "query": "商圈",
+   "url": "https://more-news.tw/761941/",
+   "resolved": true
+  },
+  {
+   "title": "2027新化年貨大街將啟動！余柷青盼第16屆重返高峰、帶動地方商圈繁榮",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzbGoyR3NhR0tmVEZDVUdqTi1fVDdlMjVUUDRLemFVV0RlTUNfd05fRzdiNzByOENFZFRnekJ3TUo0MzJURUswMm9EUE1lZHNuR09BZUlKelFJSThXRy1TNHdJUXFIbmFqd1RRQXl3?oc=5",
+   "source": "視傳媒",
+   "source_site": "https://www.nvns.net",
+   "published_at": "2026-11-06T22:17+08:00",
+   "query": "商圈",
+   "url": "https://www.nvns.net/news_view.php?new_sn=148670&new_csn=1467",
+   "resolved": true
+  },
+  {
+   "title": "東區商圈掃街遇「洋流」 蔣萬安展現大氣：我們都希望讓台北更好| 2026九合一選舉",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95am5HWXN6bmQtN00tNGlReHo1TGd6Yl9QWUhMQjFUNU9WTjVwV1NKRU9FaXQ3SkZDaUxLZFVHVk83ZUZxOEhFdG5UQVRuZFljRmc1Skt1bjc?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
+   "published_at": "2026-11-06T22:04+08:00",
+   "query": "商圈",
+   "url": "https://udn.com/vote2026/story/124652/9862677",
+   "resolved": true
+  },
   {
    "title": "賴瑞隆走訪南國商圈掀熱潮！首推「幸福川計畫」打造多元友善高雄",
    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11UmhoOEhPYldCc3ZPWG5SWXRzeEJCRzZnc0JKYXlGUGV4ZGNZV041QXlKWGxtbndxdzk2cjZaZVpURkdacHg0ODU1RTJWVHQxd2c?oc=5",
@@ -28,18 +58,18 @@
    "source": "放言Fount Media",
    "source_site": "https://www.fountmedia.io",
    "published_at": "2026-11-06T20:08+08:00",
-   "query": "商圈",
+   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
    "url": "https://www.fountmedia.io/article/442101",
    "resolved": true
   },
   {
-   "title": "東區商圈掃街遇「洋流」 蔣萬安展現大氣：我們都希望讓台北更好| 2026九合一選舉",
-   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95am5HWXN6bmQtN00tNGlReHo1TGd6Yl9QWUhMQjFUNU9WTjVwV1NKRU9FaXQ3SkZDaUxLZFVHVk83ZUZxOEhFdG5UQVRuZFljRmc1Skt1bjc?oc=5",
+   "title": "東區商圈掃街遇「洋流」 蔣萬安展現大氣：我們都希望讓台北更好",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56dHhyU3dCV0Q5LWN2T2R0OEF5bGlBMEhtMTlHYUxwVHJoSGhUc29qY0N4QmhTMmhwajdPbWpoUlprOTNmNHhQbUJTZTd5M2VMT2FUaWdUbG_SAVhBVV95cUxOenR4clN3QldEOS1jdk9kdDhBeWxpQTBIbTE5R2FMcFRyaEhoVHNvamNDeEJoUzJocGo3T21qaFJaazkzZjR4UG1CU2U3eTNlTE9hVGlnVGxv?oc=5",
    "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-11-06T20:04+08:00",
    "query": "商圈",
-   "url": "https://udn.com/vote2026/story/124652/9862677",
+   "url": "https://udn.com/news/amp/story/124652/9862677",
    "resolved": true
   },
   {
@@ -50,6 +80,26 @@
    "published_at": "2026-11-06T18:23+08:00",
    "query": "商圈",
    "url": "https://www.tristarnews.com.tw/news_ii.html?ID=39000",
+   "resolved": true
+  },
+  {
+   "title": "賴瑞隆與新住民拍片推商圈改造柯志恩MV破百萬觀看| 政治",
+   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YSzlEUUlra3dCS2JPZXYwQlVpSXhrRlZKNWo5b3JKbmFlc1UxR3RTZkNMUVdNY0xhd3U4b0RzaVJ6V1BkNDhrYUY2Q2o4NV82bUxZbklVZFktdkpoYnZB?oc=5",
+   "source": "中央社 CNA",
+   "source_site": "https://www.cna.com.tw",
+   "published_at": "2026-11-06T17:58+08:00",
+   "query": "商圈",
+   "url": "https://www.cna.com.tw/news/aipl/202611060266.aspx",
+   "resolved": true
+  },
+  {
+   "title": "淡水老街驚見「巨型洋流飄帶」 民眾大讚：有創意",
+   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3hnYm5IWFQ5bjBfN3hjNmlCeEFvWV96c1MxQ2xuYnFYdFZsSERYWGVoWlo3YkFDTnptUDMySl9LSnY3Q09vS2F2aF9WX1FIV182SWlQODlsWVRDVjNTN1lyc3NfWVU0M25YdENGSmVyTS1nZjlyakRUMGViYkJXVg?oc=5",
+   "source": "壹電視",
+   "source_site": "https://www.nexttv.com.tw",
+   "published_at": "2026-11-06T17:51+08:00",
+   "query": "老街",
+   "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-11-06/2517992.html",
    "resolved": true
   },
   {
@@ -74,12 +124,12 @@
   },
   {
    "title": "不玩虛的！林揚庭從急難救助、寵物健檢到商圈企業發展：用最真誠的行動，為士林北投點一盞溫暖的燈",
-   "google_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MUUZGdXlmNzlCdFY5N2JRVUpKVHQ4ZzAwbHZKUVk1TVJuQmxpMVlZQWNZYzdSeG1XUUtyLWR2a0Z0dw?oc=5",
-   "source": "墨新聞-MORE News",
-   "source_site": "https://more-news.tw",
-   "published_at": "2026-11-06T16:59+08:00",
+   "google_url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPSktmdFdJUWotbWo3XzVmeEZQcE1uRlNreEYzRTAxZzlLU2FmZkRKVTNQSjVJV1pxd1VZMHYycDV5SWRpcWRXYXp0T3RhbU9PdW5xLVVzdElDeTZ4VU1XZHFBa1QtU1U1SVA2UTJ3dDJwNXNHdVVLU2J6YnNhVFJkV0tQdHpTd0VaMUV2Z0lhZmt0WFlrYjlRY19ocjBEZWVfN21FVUgtQzQ5VHA2VHNWRGRYeEs2VEdFbnZxZHNDb0pVOTJ5UnJNU0M4YWZVZmstTzliaDZpTFFkdnJYdmRpSzNqby1ZZ2xfamhvbTF3WHN5c0tPdVE5cnZ6U2JpWjZ4NjlIa1k1XzBvZnBhSlFRc2NabFh1aE12N1d3aVVKR1g2eFBERURxQ212a3Itb2k1NG5RTDEzam04LWlIYVlWOQ?oc=5",
+   "source": "索引新聞",
+   "source_site": "https://news.org.tw",
+   "published_at": "2026-11-06T16:34+08:00",
    "query": "商圈",
-   "url": "https://more-news.tw/761603/",
+   "url": "https://news.org.tw/%E4%B8%8D%E7%8E%A9%E8%99%9B%E7%9A%84%EF%BC%81%E6%9E%97%E6%8F%9A%E5%BA%AD%E5%BE%9E%E6%80%A5%E9%9B%A3%E6%95%91%E5%8A%A9%E3%80%81%E5%AF%B5%E7%89%A9%E5%81%A5%E6%AA%A2%E5%88%B0%E5%95%86%E5%9C%88%E4%BC%81/",
    "resolved": true
   },
   {
@@ -214,12 +264,12 @@
   },
   {
    "title": "新住民熱情助陣 賴瑞隆走訪南國商圈掀熱潮",
-   "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LSzFtdmZCNlJxWjBVUmVEZHd4VTAyZWtBNGk0SnRyWWdYNmFac0dSN0VTN2dsalhvTjJORU0wRHRPd0JuNVhNSkFDYzNONjF4UEtLeTVYZ0N1LUJ1ZWZVMktLOEtxUjdVNHfSAW9BVV95cUxOemd3a2xKc2U3OEVCZWJZSTA5THRsemVydjg2eEFJY0I3bWxTd0ladTJZYkIzTm1SNXdkQUx0aEJUbEh1LWVIMFdqZDdYZk9SSV9zU09MbHVodlJXOFVRWGZVOXhocDBNMEwxdG9QSVU?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56Z3drbEpzZTc4RUJlYllJMDlMdGx6ZXJ2ODZ4QUljQjdtbFN3SVp1MlliQjNObVI1d2RBTHRoQlRsSHUtZUgwV2pkN1hmT1JJX3NTT0xsdWh2Ulc4VVFYZlU5eGhwME0wTDF0b1BJVdIBb0FVX3lxTE56Z3drbEpzZTc4RUJlYllJMDlMdGx6ZXJ2ODZ4QUljQjdtbFN3SVp1MlliQjNObVI1d2RBTHRoQlRsSHUtZUgwV2pkN1hmT1JJX3NTT0xsdWh2Ulc4VVFYZlU5eGhwME0wTDF0b1BJVQ?oc=5",
    "source": "自由時報",
    "source_site": "https://news.ltn.com.tw",
    "published_at": "2026-11-06T09:06+08:00",
    "query": "商圈",
-   "url": "https://news.ltn.com.tw/news/politics/breakingnews/5631220",
+   "url": "https://news.ltn.com.tw/amp/news/politics/breakingnews/5631220",
    "resolved": true
   },
   {

@@ -1,10 +1,82 @@
 {
- "fetched_at": "2026-11-06T20:51:34+08:00",
- "generated_at": "2026-11-06T20:51:33+08:00",
+ "fetched_at": "2026-11-06T23:12:23+08:00",
+ "generated_at": "2026-11-06T23:12:22+08:00",
  "window": "7d",
- "event_count": 76,
- "article_count": 112,
+ "event_count": 84,
+ "article_count": 120,
  "items": [
+  {
+   "url": "https://n.yam.com/Article/20261106399142",
+   "title": "賴瑞隆走訪南國商圈掀熱潮!首推「幸福川計畫」打造多元友善高雄",
+   "source": "蕃新聞",
+   "published_at": "2026-11-06T20:14:00+08:00",
+   "event_key": "art:b226fa734f2cc7ef67e72cd8eb2d4fbab53d7700b9c9d5b7520f2e331c0c1248",
+   "primary": true,
+   "cities": [
+    "高雄市"
+   ]
+  },
+  {
+   "url": "https://www.fountmedia.io/article/442101",
+   "title": "賴瑞隆與新住民拍片推商圈改造 柯志恩MV破百萬觀看",
+   "source": "放言Fount Media",
+   "published_at": "2026-11-06T20:08:00+08:00",
+   "event_key": "art:74bcc9e1c0ee216fef44f89bb73ec78b523ccda9d4995a458843f842ec5d64bd",
+   "primary": true
+  },
+  {
+   "url": "https://www.tristarnews.com.tw/news_ii.html?ID=39000",
+   "title": "亞灣商圈大遠百週年慶 搶攻百億商機大餅 低門檻高回饋",
+   "source": "三星傳媒",
+   "published_at": "2026-11-06T18:23:00+08:00",
+   "event_key": "art:a29fad557e9a90c15a88c7be7a9e1e9288263e316351f00c1d7d47f3a07347b0",
+   "primary": true
+  },
+  {
+   "url": "https://www.cna.com.tw/news/aipl/202611060266.aspx",
+   "title": "賴瑞隆與新住民拍片推商圈改造 柯志恩MV破百萬觀看",
+   "source": "中央通訊社・地方",
+   "published_at": "2026-11-06T17:58:53+08:00",
+   "event_key": "art:74bcc9e1c0ee216fef44f89bb73ec78b523ccda9d4995a458843f842ec5d64bd",
+   "primary": false
+  },
+  {
+   "url": "https://more-news.tw/761603/",
+   "title": "不玩虛的!林揚庭從急難救助、寵物健檢到商圈企業發展:用最真誠的行動,為士林北投點一盞溫暖的燈",
+   "source": "墨新聞-MORE News",
+   "published_at": "2026-11-06T16:59:00+08:00",
+   "event_key": "art:b60e500cfbd917c6f2e28180d4837fbd3abd3b495b790626b4ab67a63e704328",
+   "primary": true
+  },
+  {
+   "url": "https://money.udn.com/money/story/5720/9861439",
+   "title": "ITF 桃園館繪出老街與星空 消費即贈好禮、滿額再加碼 | 運動休旅 | 商情",
+   "source": "經濟日報",
+   "published_at": "2026-11-06T16:00:00+08:00",
+   "event_key": "art:27fe77df79562bb93a2ce4c37322d691ff83f2f3d1775094fb0174c97accb7f0",
+   "primary": true,
+   "cities": [
+    "桃園市"
+   ]
+  },
+  {
+   "url": "https://more-news.tw/761941/",
+   "title": "蔣萬安出席東區周年慶 承諾商圈建設經費「只會多、不會少」",
+   "source": "more-news",
+   "published_at": "2026-11-06T14:46:00+08:00",
+   "event_key": "art:993574a2a504f269f1935b5f3059e043a103abbcf52f6773691535e896097811",
+   "primary": true,
+   "summary": "臺北市長蔣萬安今(6)日晚間出席「東區周年慶啟動儀式」,與遠東SOGO百貨董事長黃晴雯及在地商圈代表共同為活動揭開序幕。蔣萬安表示,東區商圈近年持續展現發展活力,市府也積極投入資源,改善商圈環境、帶動地方經濟。他更承諾,未來投入商圈發展的建設經費「只會多、不會少」,將持續透過公私協力,讓東區更加繁榮。 蔣萬安感性回憶,",
+   "date_only": true
+  },
+  {
+   "url": "https://www.nownews.com/news/6889920",
+   "title": "賴瑞隆走訪南國商圈掀熱潮!新住民助陣母語喊「當選」",
+   "source": "NOWnews今日新聞",
+   "published_at": "2026-11-06T14:31:00+08:00",
+   "event_key": "art:b13fda45bd8c515c9f05de6b79458ea878ab9c937a6d466454c72fae8eaa461d",
+   "primary": true
+  },
   {
    "url": "https://udn.com/vote2026/story/124652/9861704",
    "title": "爭取新住民支持 賴瑞隆走訪南國商圈落東南亞語「搏感情」",
@@ -22,12 +94,38 @@
    "primary": false
   },
   {
+   "url": "https://news.ltn.com.tw/news/life/breakingnews/5631352",
+   "title": "獨家》外帶酸辣湯驚見小強!北市龍山商圈蒸餃店被控「當面倒湯滅證」",
+   "source": "自由時報",
+   "published_at": "2026-11-06T11:43:00+08:00",
+   "event_key": "art:3bbcddb3f9a013c439ab0a9a50d577bdabde2991981bca770aa2af0df5a17af0",
+   "primary": true
+  },
+  {
+   "url": "https://www.taisounds.com/news/content/70/298263",
+   "title": "選戰布局鎖定新住民!賴瑞隆走訪南國商圈 端「新高雄一家人」政策",
+   "source": "太報 TaiSounds",
+   "published_at": "2026-11-06T11:22:00+08:00",
+   "event_key": "art:b57375ae687b7a5f0080f0ea1800becd2b1fdc836954e2aa63d328d037b05564",
+   "primary": true,
+   "summary": "選戰倒數,民進黨高雄市長候選人賴瑞隆持續深入地方爭取支持,今(11/6)走訪高雄火車站周邊南國商圈,與新住民朋友互動,化身「南國體驗員」挑戰越南語、印尼語介紹美食,品嘗異國料理,也分享高雄在地農產與東南亞風味的結合,現場新住民朋友更以不同語言高喊「當選」,為選戰增添多元族群交流話題。",
+   "cities": [
+    "高雄市"
+   ],
+   "date_only": true
+  },
+  {
    "url": "https://www.taisounds.com/news/content/71/298263",
    "title": "選戰布局鎖定新住民!賴瑞隆走訪南國商圈 端「新高雄一家人」政策",
    "source": "太報 TaiSounds",
    "published_at": "2026-11-06T11:22:00+08:00",
-   "event_key": "archive:1961085f09350f70",
-   "primary": true
+   "event_key": "art:b57375ae687b7a5f0080f0ea1800becd2b1fdc836954e2aa63d328d037b05564",
+   "primary": false,
+   "summary": "選戰倒數,民進黨高雄市長候選人賴瑞隆持續深入地方爭取支持,今(11/6)走訪高雄火車站周邊南國商圈,與新住民朋友互動,化身「南國體驗員」挑戰越南語、印尼語介紹美食,品嘗異國料理,也分享高雄在地農產與東南亞風味的結合,現場新住民朋友更以不同語言高喊「當選」,為選戰增添多元族群交流話題。",
+   "cities": [
+    "高雄市"
+   ],
+   "date_only": true
   },
   {
    "url": "https://house.ettoday.net/news/3267224",
@@ -54,14 +152,6 @@
    "source": "理財周刊",
    "published_at": "2026-11-06T10:59:00+08:00",
    "event_key": "art:5ee419d88ca4c10e2fea2cc4a5934d7cc8d8e4cca321310926da5ae5ac9d9875",
-   "primary": true
-  },
-  {
-   "url": "https://news.ltn.com.tw/news/life/breakingnews/5631352",
-   "title": "獨家》外帶酸辣湯驚見小強!北市龍山商圈蒸餃店被控「當面倒湯滅證」",
-   "source": "自由時報",
-   "published_at": "2026-11-06T10:49:00+08:00",
-   "event_key": "art:3bbcddb3f9a013c439ab0a9a50d577bdabde2991981bca770aa2af0df5a17af0",
    "primary": true
   },
   {
@@ -116,16 +206,6 @@
    "primary": false
   },
   {
-   "url": "https://newstaiwan.net/2026/11/06/496066/",
-   "title": "新住民用母語喊「當選」 賴瑞隆南國商圈短片揭「幸福川計畫」",
-   "source": "台灣好報",
-   "published_at": "2026-11-06T00:00:00+08:00",
-   "event_key": "art:e57d9a9a0d19c377b8cd11f54674609e05c02f98b692a951db392fdd4f62084e",
-   "primary": true,
-   "summary": "【記者 王苡蘋╱高雄 報導】民進黨高雄市長候選人賴瑞隆今(6)日發布短影音,記錄他在新住民陪同下走訪高雄車站周邊的南國商圈,並提出「幸福川計畫」,規劃改善水環境、步行空間與街區景觀,搭配商圈輔導、品牌行銷及多語導覽,協助新住民店家拓展客源。 ▲賴瑞隆(中)在新住民友人陪同下走訪高雄車站周邊的南國商圈。他提出「幸福川計畫",
-   "date_only": true
-  },
-  {
    "url": "https://money.udn.com/money/story/7843/9860750",
    "title": "星龍鳳玩轉新中華料理 日式飲食美學揉合經典中菜 台北永康商圈挑動饕客味蕾",
    "source": "經濟日報",
@@ -142,6 +222,16 @@
    "date_only": true
   },
   {
+   "url": "https://newstaiwan.net/2026/11/06/496066/",
+   "title": "新住民用母語喊「當選」 賴瑞隆南國商圈短片揭「幸福川計畫」",
+   "source": "台灣好報",
+   "published_at": "2026-11-06T00:00:00+08:00",
+   "event_key": "archive:b6073f4d44985564",
+   "primary": true,
+   "summary": "【記者 王苡蘋╱高雄 報導】民進黨高雄市長候選人賴瑞隆今(6)日發布短影音,記錄他在新住民陪同下走訪高雄車站周邊的南國商圈,並提出「幸福川計畫」,規劃改善水環境、步行空間與街區景觀,搭配商圈輔導、品牌行銷及多語導覽,協助新住民店家拓展客源。 ▲賴瑞隆(中)在新住民友人陪同下走訪高雄車站周邊的南國商圈。他提出「幸福川計畫",
+   "date_only": true
+  },
+  {
    "url": "https://udn.com/news/story/124652/9861704",
    "title": "爭取新住民支持 賴瑞隆走訪南國商圈落東南亞語「搏感情」",
    "source": "聯合新聞網",
@@ -152,25 +242,12 @@
    "date_only": true
   },
   {
-   "url": "https://www.taisounds.com/news/content/70/298263",
-   "title": "選戰布局鎖定新住民!賴瑞隆走訪南國商圈 端「新高雄一家人」政策",
-   "source": "太報 TaiSounds",
-   "published_at": "2026-11-05T21:22:00+08:00",
-   "event_key": "art:b57375ae687b7a5f0080f0ea1800becd2b1fdc836954e2aa63d328d037b05564",
-   "primary": true,
-   "summary": "選戰倒數,民進黨高雄市長候選人賴瑞隆持續深入地方爭取支持,今(11/6)走訪高雄火車站周邊南國商圈,與新住民朋友互動,化身「南國體驗員」挑戰越南語、印尼語介紹美食,品嘗異國料理,也分享高雄在地農產與東南亞風味的結合,現場新住民朋友更以不同語言高喊「當選」,為選戰增添多元族群交流話題。",
-   "cities": [
-    "高雄市"
-   ],
-   "date_only": true
-  },
-  {
    "url": "https://www.taisounds.com/news/content/133/298263",
    "title": "選戰布局鎖定新住民!賴瑞隆走訪南國商圈 端「新高雄一家人」政策",
    "source": "太報 TaiSounds",
    "published_at": "2026-11-05T21:22:00+08:00",
-   "event_key": "art:b57375ae687b7a5f0080f0ea1800becd2b1fdc836954e2aa63d328d037b05564",
-   "primary": false,
+   "event_key": "art:759af719b63d0fa19af5b8712552fb724641ea571b26c91b3af3f77212a8d2b0",
+   "primary": true,
    "summary": "選戰倒數,民進黨高雄市長候選人賴瑞隆持續深入地方爭取支持,今(11/6)走訪高雄火車站周邊南國商圈,與新住民朋友互動,化身「南國體驗員」挑戰越南語、印尼語介紹美食,品嘗異國料理,也分享高雄在地農產與東南亞風味的結合,現場新住民朋友更以不同語言高喊「當選」,為選戰增添多元族群交流話題。",
    "cities": [
     "高雄市"
@@ -211,7 +288,7 @@
    "title": "羅湖口岸過關留意! 全新印象羅湖橋開通 5分鐘免淋雨直達周邊商圈+大型商場",
    "source": "星島頭條",
    "published_at": "2026-11-05T15:47:00+08:00",
-   "event_key": "art:e447ff81412e943f2b07a24005c98cf96df53a8ffbb8842ee36cd7f362916551",
+   "event_key": "archive:a113a23ed7b53a01",
    "primary": true
   },
   {
@@ -300,7 +377,7 @@
    "title": "永樂商圈施工挨批導致店家、居民不便 (圖)",
    "source": "Yahoo新聞",
    "published_at": "2026-11-04T19:20:00+08:00",
-   "event_key": "art:e1a2b1edcaa344c083aeaf04da16b0a5b901d5e85924e02d38482b475cd78e45",
+   "event_key": "archive:7359728541602c",
    "primary": true
   },
   {
@@ -308,35 +385,23 @@
    "title": "台南百貨版圖重整!鐵路地下化帶動站前商圈再生 商業投資、就業人口牽動周邊房市",
    "source": "台灣好新聞",
    "published_at": "2026-11-04T18:44:00+08:00",
-   "event_key": "art:887cf103439ba2fd00ca4420d843e2a0b2a8ccc46fafca987e10345f29523800",
-   "primary": true,
-   "cities": [
-    "台南市"
-   ],
-   "districts": [
-    "站前商圈"
-   ]
+   "event_key": "archive:972068c0efc1903c",
+   "primary": true
   },
   {
    "url": "https://taiwanhot.net/news/1152923/%E5%8F%B0%E5%8D%97%E7%99%BE%E8%B2%A8%E7%89%88%E5%9C%96%E9%87%8D%E6%95%B4%EF%BC%81%E9%90%B5%E8%B7%AF%E5%9C%B0%E4%B8%8B%E5%8C%96%E5%B8%B6%E5%8B%95%E7%AB%99%E5%89%8D%E5%95%86%E5%9C%88%E5%86%8D%E7%94%9F+%E5%95%86%E6%A5%AD%E6%8A%95%E8%B3%87%E3%80%81%E5%B0%B1%E6%A5%AD%E4%BA%BA%E5%8F%A3%E7%89%BD%E5%8B%95%E5%91%A8%E9%82%8A%E6%88%BF%E5%B8%82",
    "title": "台南百貨版圖重整!鐵路地下化帶動站前商圈再生 商業投資、就業人口牽動周邊房市",
    "source": "台灣好新聞",
    "published_at": "2026-11-04T18:44:00+08:00",
-   "event_key": "art:887cf103439ba2fd00ca4420d843e2a0b2a8ccc46fafca987e10345f29523800",
-   "primary": false,
-   "cities": [
-    "台南市"
-   ],
-   "districts": [
-    "站前商圈"
-   ]
+   "event_key": "archive:972068c0efc1903c",
+   "primary": false
   },
   {
    "url": "https://www.cna.com.tw/news/aloc/202611040292.aspx",
    "title": "彰市永樂商圈施工店家不便吳韋達促縣府監督協助| 地方",
    "source": "中央社 CNA",
    "published_at": "2026-11-04T18:26:00+08:00",
-   "event_key": "art:48a4ddc6c7133c8561f1387ad2369ddc6cedbec43a329cd34e1bb07cdaa55b56",
+   "event_key": "archive:1c47402b7e03df25",
    "primary": true
   },
   {
@@ -344,7 +409,7 @@
    "title": "潮州商圈里乐购“潮州味道”,老字号市集11月7日见",
    "source": "搜狐",
    "published_at": "2026-11-04T18:09:00+08:00",
-   "event_key": "art:48b1c279a3ea3f5e50bb5b3acfab7d560e3887e2978d91b20e06214da4abc5ce",
+   "event_key": "archive:21ac724287139399",
    "primary": true,
    "summary": "“双11”的快乐,不一定在手机上、在购物车里,也可以在--2026潮州市“潮购双十一 乐享本地惠”全城商圈嘉年华! 11月7日,这场燃动全城商圈的消费热潮将在潮州财富中心B区启动,并开摆“潮味老字号市集”,15家商户集中展销,涵盖凉果蜜饯、工夫茶叶、古法米酒、休闲食品、非遗手作等。现场还将推出折扣、试饮试吃、打卡赠礼等",
    "date_only": true
@@ -354,14 +419,8 @@
    "title": "全台首創! 高雄三多商圈設「標線型圓環」事故降低",
    "source": "民視新聞網",
    "published_at": "2026-11-04T16:58:00+08:00",
-   "event_key": "art:48a5e50101a5f28f0b472b4223e7119b0d0f0163a984cf5dadf0499a0f7b8cee",
-   "primary": true,
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    "三多商圈"
-   ]
+   "event_key": "archive:cf388b9c2bb7ab03",
+   "primary": true
   },
   {
    "url": "https://www.chilling.tw/article/90430",
@@ -429,12 +488,9 @@
    "title": "建商獵地 台中三商圈夯",
    "source": "台灣房屋",
    "published_at": "2026-11-04T10:01:00+08:00",
-   "event_key": "art:ebea792a7af9bf567340dfd37c93d88d90428b163e6050eb4fb0b70d27cbe553",
-   "primary": false,
+   "event_key": "archive:108c80ac83ca748e",
+   "primary": true,
    "summary": "台中崇德、草悟、七期商圈建商高價購地台中產業經濟活絡、人口持續移入,帶動商圈擴張與城市更新,北屯崇德、西區草悟、西屯七期等三大指標商圈,更憑藉成熟生活機能、高自住客群認同度與區域發展潛力,吸引建商積極搶地布局,指標新案房價也接連改寫區域行情。",
-   "cities": [
-    "台中市"
-   ],
    "date_only": true
   },
   {
@@ -442,28 +498,16 @@
    "title": "全台首創! 高雄三多商圈設\"標線型圓環\" 事故降低",
    "source": "民視新聞網",
    "published_at": "2026-11-04T08:58:59+08:00",
-   "event_key": "art:48a5e50101a5f28f0b472b4223e7119b0d0f0163a984cf5dadf0499a0f7b8cee",
-   "primary": false,
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    "三多商圈"
-   ]
+   "event_key": "archive:cf388b9c2bb7ab03",
+   "primary": false
   },
   {
    "url": "https://www.msn.com/zh-tw/news/other/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%89%B5-%E9%AB%98%E9%9B%84%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E8%A8%AD%E6%A8%99%E7%B7%9A%E5%9E%8B%E5%9C%93%E7%92%B0-%E4%BA%8B%E6%95%85%E9%99%8D%E4%BD%8E/ar-AA2gJ3Gb",
    "title": "全台首創! 高雄三多商圈設\"標線型圓環\" 事故降低",
    "source": "民視新聞網",
    "published_at": "2026-11-04T08:58:59+08:00",
-   "event_key": "art:48a5e50101a5f28f0b472b4223e7119b0d0f0163a984cf5dadf0499a0f7b8cee",
-   "primary": false,
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    "三多商圈"
-   ]
+   "event_key": "archive:cf388b9c2bb7ab03",
+   "primary": false
   },
   {
    "url": "https://www.chinesedaily.com/article/detail-711508.html",
@@ -478,35 +522,15 @@
    "title": "全台首創! 高雄三多商圈設「標線型圓環」事故大減-民視新聞",
    "source": "FTV 民視新聞",
    "published_at": "2026-11-04T05:52:23+08:00",
-   "event_key": "art:48a5e50101a5f28f0b472b4223e7119b0d0f0163a984cf5dadf0499a0f7b8cee",
-   "primary": false,
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    "三多商圈"
-   ]
+   "event_key": "archive:cf388b9c2bb7ab03",
+   "primary": false
   },
   {
    "url": "https://www.msn.com/zh-tw/news/other/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%89%B5-%E9%AB%98%E9%9B%84%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E8%A8%AD-%E6%A8%99%E7%B7%9A%E5%9E%8B%E5%9C%93%E7%92%B0-%E4%BA%8B%E6%95%85%E5%A4%A7%E6%B8%9B-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2gIlv4",
    "title": "全台首創! 高雄三多商圈設「標線型圓環」事故大減-民視新聞",
    "source": "FTV 民視新聞",
    "published_at": "2026-11-04T05:49:47+08:00",
-   "event_key": "art:48a5e50101a5f28f0b472b4223e7119b0d0f0163a984cf5dadf0499a0f7b8cee",
-   "primary": false,
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    "三多商圈"
-   ]
-  },
-  {
-   "url": "https://www.chinatimes.com/newspapers/20261104000643-260107",
-   "title": "舊商圈翻新 永和頂溪公辦都更",
-   "source": "中時新聞網",
-   "published_at": "2026-11-04T04:10:00+08:00",
-   "event_key": "archive:2a19e63e9cf47edd",
+   "event_key": "archive:cf388b9c2bb7ab03",
    "primary": false
   },
   {
@@ -514,12 +538,9 @@
    "title": "建商獵地台中三商圈夯- 產業特刊- 工商時報",
    "source": "中時新聞網",
    "published_at": "2026-11-04T04:10:00+08:00",
-   "event_key": "art:ebea792a7af9bf567340dfd37c93d88d90428b163e6050eb4fb0b70d27cbe553",
+   "event_key": "archive:108c80ac83ca748e",
    "primary": false,
    "summary": "台中崇德、草悟、七期商圈建商高價購地台中產業經濟活絡、人口持續移入,帶動商圈擴張與城市更新,北屯崇德、西區草悟、西屯七期等三大指標商圈,更憑藉成熟生活機能、高自住客群認同度與區域發展潛力,吸引建商積極搶地布局,指標新案房價也接連改寫區域行情。",
-   "cities": [
-    "台中市"
-   ],
    "date_only": true
   },
   {
@@ -527,14 +548,18 @@
    "title": "台南百貨版圖重整! 鐵路地下化帶動站前商圈再生 商業投資、就業人口牽動周邊房市",
    "source": "好房網News",
    "published_at": "2026-11-04T02:39:56+08:00",
-   "event_key": "art:887cf103439ba2fd00ca4420d843e2a0b2a8ccc46fafca987e10345f29523800",
+   "event_key": "archive:972068c0efc1903c",
+   "primary": false
+  },
+  {
+   "url": "https://www.ctee.com.tw/news/20261104700181-439901",
+   "title": "建商獵地 台中三商圈夯",
+   "source": "工商時報",
+   "published_at": "2026-11-04T00:00:00+08:00",
+   "event_key": "archive:108c80ac83ca748e",
    "primary": false,
-   "cities": [
-    "台南市"
-   ],
-   "districts": [
-    "站前商圈"
-   ]
+   "summary": "台中崇德、草悟、七期商圈建商高價購地台中產業經濟活絡、人口持續移入,帶動商圈擴張與城市更新,北屯崇德、西區草悟、西屯七期等三大指標商圈,更憑藉成熟生活機能、高自住客群認同度與區域發展潛力,吸引建商積極搶地布局,指標新案房價也接連改寫區域行情。",
+   "date_only": true
   },
   {
    "url": "https://n.yam.com/Article/20261104165597",
@@ -546,19 +571,6 @@
    "summary": "嘉義縣政府辦理「115年嘉義縣商圈聯合購物節-嘉尚好禮」,串聯全縣19大商圈及17家觀光工廠,自10月1日開跑以來,持續帶動在地消費熱潮。為回饋民眾熱情參與,於11月3日下午舉辦首波大獎搶先抽直播活動,由縣府經濟發展處長李雅萍抽出5項超人氣大獎,為活動增添高潮。",
    "cities": [
     "嘉義縣"
-   ],
-   "date_only": true
-  },
-  {
-   "url": "https://www.ctee.com.tw/news/20261104700181-439901",
-   "title": "建商獵地 台中三商圈夯",
-   "source": "工商時報",
-   "published_at": "2026-11-04T00:00:00+08:00",
-   "event_key": "art:ebea792a7af9bf567340dfd37c93d88d90428b163e6050eb4fb0b70d27cbe553",
-   "primary": true,
-   "summary": "台中崇德、草悟、七期商圈建商高價購地台中產業經濟活絡、人口持續移入,帶動商圈擴張與城市更新,北屯崇德、西區草悟、西屯七期等三大指標商圈,更憑藉成熟生活機能、高自住客群認同度與區域發展潛力,吸引建商積極搶地布局,指標新案房價也接連改寫區域行情。",
-   "cities": [
-    "台中市"
    ],
    "date_only": true
   },
@@ -580,6 +592,16 @@
    "event_key": "art:2e3d49cddad4fa6843d760d04c38cb83fc344f73343bde7fe817d809bbaddb51",
    "primary": false,
    "summary": "民進黨高雄市長侯選人賴瑞隆1日赴三民區三鳳宮造勢,市長陳其邁站台相挺,但賴瑞隆致詞時,台下卻出現支持者提前離席、空椅畫面,引發熱議,更被拿來對比韓國瑜2018年造勢盛況。賴瑞隆今(11/5)受訪未正面回應,僅強調活動展現高雄團結。 位於新北市蘆洲市場的網路名店「幸福麻糬 ...",
+   "date_only": true
+  },
+  {
+   "url": "https://www.chinatimes.com/newspapers/20261104000643-260107",
+   "title": "舊商圈翻新 永和頂溪公辦都更",
+   "source": "中時新聞網",
+   "published_at": "2026-11-03T20:10:00+08:00",
+   "event_key": "art:8c7e3eaf02f35ef54fbf46b6a57a3a4b853df818ff813523819213c4cbbfe529",
+   "primary": true,
+   "summary": "新北市永和區開發較早,面臨建物老舊、巷道狹窄等問題,新北市府積極推動大面積公辦都更。頂溪捷運周邊公辦都更案(A區)3日舉行簽約儀式,在市長侯友宜見證下,由新北住都中心董事代表劉和然與獲選實施者簽約,預計興建4棟28至35層高樓,並規畫市民活動中心、公共托老及社福空間,改善居住環境,提升公共服務品質。",
    "date_only": true
   },
   {
@@ -685,7 +707,7 @@
    "title": "「2026天光威購節」天光大市集11/7、11/8連2日登場*免費領取「好客威購卡」串聯市集與商圈 優惠一路至12月20日",
    "source": "fclnews",
    "published_at": "2026-11-03T12:49:00+08:00",
-   "event_key": "art:85b13918b37a13b184a19d1c8f241f26e708de325a1555bb2644c2ccf0bbda74",
+   "event_key": "archive:980f5e69baa5868",
    "primary": true,
    "summary": "-台灣新聞雲報提供台灣最中立最公正最即時的各類型新聞報導,包括政治新聞、焦點新聞、社會新聞、國際新聞、地方新聞、娛樂新聞、科技新聞、專訪新聞、政黨新聞、藝文活動、美食推廣、體育賽事等相關新聞報導。歡迎各界好友踴躍贊助推廣。",
    "date_only": true
@@ -782,9 +804,9 @@
    "title": "市府代售地47標 國華商圈在列",
    "source": "Yahoo奇摩新聞",
    "published_at": "2026-11-02T20:17:37+08:00",
-   "event_key": "art:a04802e9ef5fe33c8fc80ed3a8ae81adcd41288d1533715754c755a350552df2",
-   "primary": true,
-   "summary": "本次共計推出四十七標,其中坐落於熱門核心商段的海安路與國華街商圈中西區普濟段商業區土地(第四、五標)最受矚目,而底價最高、達一千二百八十五萬五千二百元的善化區茄拔段鄉村區乙種建築用地(第二標)也同樣吸睛,兩大精華地段皆成為本批標案中市場高度關注的矚目焦點。",
+   "event_key": "art:bcbae22dd9eecbdcb1729ab30a52b6bf37c4c80721b0291774185879871177df",
+   "primary": false,
+   "summary": "記者王家林∕台南報導 市府地政局代為標售一一五年度第二批地籍清理未能釐清權屬土地,自二0二六年十一月一日起至十一月十八日止受理投標,預計於十一月十九日正式開標。 本次共計推出四十七標,其中坐落於熱門核心商段的海安路與國華街商圈中西區普濟段商業區土地(第四、五標)最受矚目,而底價最高、達一千二百八十五萬五千二百元的善化區",
    "date_only": true
   },
   {
@@ -821,12 +843,9 @@
    "title": "花蓮金三角商圈業者嘆生意難做 張峻提3階段復甦成立「觀光小組」",
    "source": "SCOOP",
    "published_at": "2026-11-02T12:35:00+08:00",
-   "event_key": "art:c9e5d87972324955030482cd02604b0046f8d6210d84f60b34d3acaf9b7c278d",
+   "event_key": "archive:e9d35e1b310c38c6",
    "primary": true,
    "summary": "CNEWS匯流新聞網記者黃泰宇/花蓮報導 無黨籍花蓮縣長候選人張峻1日在志工陪同下,前往花蓮市金三角商圈徒步拜票,向店家及民眾請託支持。張峻表示,適逢週日,沿途卻見多處店面鐵門深鎖、張貼招租告示,部分營業店家也門庭冷清。他提出3階段復甦方案,並承諾未來會持續調整措施,要將經費用在對的地方,要讓公帑真正幫助業者,帶動產業",
-   "cities": [
-    "花蓮縣"
-   ],
    "date_only": true
   },
   {
@@ -834,9 +853,9 @@
    "title": "市府代售地47標 國華商圈在列",
    "source": "中華新聞雲",
    "published_at": "2026-11-02T12:17:00+08:00",
-   "event_key": "art:a04802e9ef5fe33c8fc80ed3a8ae81adcd41288d1533715754c755a350552df2",
-   "primary": false,
-   "summary": "本次共計推出四十七標,其中坐落於熱門核心商段的海安路與國華街商圈中西區普濟段商業區土地(第四、五標)最受矚目,而底價最高、達一千二百八十五萬五千二百元的善化區茄拔段鄉村區乙種建築用地(第二標)也同樣吸睛,兩大精華地段皆成為本批標案中市場高度關注的矚目焦點。",
+   "event_key": "art:bcbae22dd9eecbdcb1729ab30a52b6bf37c4c80721b0291774185879871177df",
+   "primary": true,
+   "summary": "記者王家林∕台南報導 市府地政局代為標售一一五年度第二批地籍清理未能釐清權屬土地,自二0二六年十一月一日起至十一月十八日止受理投標,預計於十一月十九日正式開標。 本次共計推出四十七標,其中坐落於熱門核心商段的海安路與國華街商圈中西區普濟段商業區土地(第四、五標)最受矚目,而底價最高、達一千二百八十五萬五千二百元的善化區",
    "date_only": true
   },
   {
@@ -854,7 +873,7 @@
    "title": "張文興領軍萬聖節親子變裝踩街 傳承幸福回憶帶動在地商圈交流",
    "source": "蕃新聞",
    "published_at": "2026-11-02T00:00:00+08:00",
-   "event_key": "art:4706cd70707a6f47f2100c6283406e6d93a2f0b80be6f10393139ee49fed6ebe",
+   "event_key": "archive:dd981a892cdc4323",
    "primary": true,
    "summary": "「不給糖,就搗蛋!」新竹市關埔地區一年一度的萬聖節變裝踩街活動,今年以「海盜」為主題,由協會理事長、同時也是新竹市東區市議員14號參選人張文興,化身海盜船長,與眾多親子家庭走上街頭。現場小小海盜、蜘蛛人、公主、巫師及各式卡通人物齊聚,大小朋友創意變裝、歡笑不斷,讓關埔街頭洋溢濃濃的萬聖節氣氛。",
    "date_only": true
@@ -864,7 +883,7 @@
    "title": "信義商圈萬聖節狂歡 松壽路單夜人流破萬糾紛事件頻傳",
    "source": "Yahoo奇摩新聞",
    "published_at": "2026-11-01T17:13:33+08:00",
-   "event_key": "art:80a37bba77afe996362f1af4970653cfbb13dbd71418128d1f3ff6aff0ce95e6",
+   "event_key": "archive:6afca1498adbe164",
    "primary": true,
    "summary": "適逢萬聖節,台北市信義商圈31號晚間湧入大量扮裝狂歡民眾。警方初步估計,光是松壽路20巷酒吧街一帶,單夜人流就突破萬人。然而,在酒精催化之下,現場也相繼傳出行車糾紛與街頭鬥毆事件。",
    "date_only": true
@@ -904,7 +923,7 @@
    "title": "信義商圈吊車一轉「擊破公車玻璃」 嚇壞乘客#shorts",
    "source": "EBC 東森新聞",
    "published_at": "2026-11-01T07:02:54+08:00",
-   "event_key": "art:d69f05d9afb41bb84ecf010780ae972ad585719fea723ff291eaff06ab70e83c",
+   "event_key": "archive:17c73a1ad5796c83",
    "primary": true,
    "summary": "訂閱【東森新聞】現在就加入》[內部路徑已隱去] ...",
    "date_only": true
@@ -924,15 +943,9 @@
    "title": "幽靈、女巫、怪獸出沒東海藝術街!台中東海商圈萬聖搞怪趴熱鬧登場",
    "source": "天天上新聞",
    "published_at": "2026-11-01T01:00:00+08:00",
-   "event_key": "art:5bc5f1ce4a6ac43d53388d89859f355a09d80a905eb30da27b5a639f19972b5b",
+   "event_key": "archive:1158a641468e1f43",
    "primary": true,
    "summary": "從幽靈、女巫到怪獸與動漫角色,東海藝術街真正成為一座開放的萬聖節舞台。變裝不只是個人創意的展現,更是台中市東海藝術街商圈共同營造的集體記憶;舞台上的啦啦舞、泡泡秀、動漫歌聲、寶萊塢舞步與管樂演奏,則讓藝術真正走入日常生活。十三年來,這場萬聖搞怪趴已從單純的變裝活動,逐漸發展成結合藝文表演、在地消費與城市行銷的綜合性節慶",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    "東海藝術街商圈"
-   ],
    "date_only": true
   },
   {
@@ -983,7 +996,7 @@
    "title": "萬聖節 馬公商圈變裝踩街好熱鬧(1) (圖)",
    "source": "Yahoo奇摩新聞",
    "published_at": "2026-10-31T21:39:49+08:00",
-   "event_key": "art:6850a292acd2fa14e2226a44dbd1fc7177863e9b211e3a4acc3641c449f51c6a",
+   "event_key": "archive:4a6075a9dab8b5a1",
    "primary": true,
    "summary": "將 Yahoo 設為首選來源,在 Google 上查看更多我們的精彩報導 加入首選來源(另開新視窗) 澎湖縣馬公市31日萬聖節迎來「萌鬼出任務,萬聖踩街趣」活動,大小朋友一同變裝踩街,體驗西洋萬聖節節慶文化,氣氛熱鬧。 中央社 115年10月31日 萬聖節馬公商圈變裝踩街好熱鬧(1) 澎湖縣馬公市31日萬聖節迎來「萌鬼",
    "date_only": true
@@ -1013,7 +1026,7 @@
    "title": "獨家》信義商圈吊車一轉「擊破公車玻璃」 嚇壞乘客 2026/10/31 【房業涵晚報】@newsebc",
    "source": "EBC 東森新聞",
    "published_at": "2026-10-31T14:30:10+08:00",
-   "event_key": "archive:bde481e12a3ff9ce",
+   "event_key": "art:d2d44cff0c665e84003acfbe0335e57a96df8a330ca5f73b395d49186498a749",
    "primary": true,
    "summary": "18歲駕駛疑疲勞駕車 溪頭下山一路偏移衝邊坡獨家》信義商圈吊車一轉「擊破公車玻璃」 嚇壞乘客詭!24歲男騎車闖國1 棄車墜7樓高架橋身亡剛錄取新工作!24歲兒離奇墜亡 父心碎落淚機械車位驚魂!住戶剛要駛出 遭鄰「強制下樓」訂閱【東森新聞】現在就加入》[內部路徑已隱去] ...",
    "date_only": true
@@ -1023,7 +1036,7 @@
    "title": "獨家》信義商圈吊車一轉「擊破公車玻璃」 嚇壞乘客@newsebc",
    "source": "EBC 東森新聞",
    "published_at": "2026-10-31T11:27:38+08:00",
-   "event_key": "art:1ed0e0d857b6a33a87a18ba25ac622e0a4af9e1d22c80f7b21fd299191584ce3",
+   "event_key": "archive:1704e6b6e45cce7e",
    "primary": true,
    "summary": "一輛吊車在信義區松忍路進行吊掛作業時,因為工程人員未計算好距離,導致轉盤擊中停在紅燈處的公車玻璃,讓車上乘客驚慌失措。事故造成公車玻璃破損成蜘蛛網狀,吊車公司將面臨求償。儘管乘客未受傷,但警方將根據道交條例對吊車開罰。",
    "date_only": true
@@ -1033,12 +1046,9 @@
    "title": "臺南購物節消費突破30億元!加碼抽電動車11月商圈活動接力登場",
    "source": "LIFE 生活網",
    "published_at": "2026-10-31T11:23:00+08:00",
-   "event_key": "art:aed15964494edfed43496e21614f4f6928a8209922adbca1cd0e56eb11c5a369",
+   "event_key": "archive:3979e852158af2b7",
    "primary": true,
    "summary": "圖/邀請全臺民眾在雙11、百貨週年慶前來臺南消費,享旅遊與購物節「百貨量販加碼抽」的雙 【點傳媒/記者張淑慧報導】「2026臺南購物節」自9月7日開跑以來,消費熱度持續攀升,累計消費登錄金額正式突破30億元!隨著雙11購物檔期及百貨週年慶陸續登場,臺南市政府再推出加碼抽獎活動,消費滿足登錄資格,就有機會把宏佳騰智慧電車",
-   "cities": [
-    "台南市"
-   ],
    "date_only": true
   },
   {
@@ -1046,8 +1056,8 @@
    "title": "萌鬼變裝踩街趣 花蓮親子同樂串聯商圈活力",
    "source": "news.fclnews.com",
    "published_at": "2026-10-31T11:03:00+08:00",
-   "event_key": "art:dc1bb17c739966b39fe411361fefc4b3c717a8a5a4eedf548977bd61cc2d4fa5",
-   "primary": true,
+   "event_key": "art:c42fa98d5c3248ac59f532f33c4a72cb389939eaa2bd31f59d7056eeb21c7cb9",
+   "primary": false,
    "summary": "2026「萌鬼返校日」萬聖節活動一連兩天在花蓮市登場,小朋友化身南瓜、童話公主、超級英雄及小巫師,還有熱門動漫《鬼滅之刃》及影集《魷魚遊戲》的人物造型,讓花蓮街頭洋溢童趣。31日下午,親子家庭在花蓮市公所一樓廣場集合,沿著林森路前往遠百花蓮店和平廣場,透過變裝遊行、沿途討糖及趣味互動,共度歡樂的萬聖節時光。 活動由花蓮",
    "cities": [
     "花蓮縣"
@@ -1069,8 +1079,8 @@
    "title": "萌鬼變裝踩街趣 花蓮親子同樂串聯商圈活力",
    "source": "more-news",
    "published_at": "2026-10-31T10:58:00+08:00",
-   "event_key": "art:dc1bb17c739966b39fe411361fefc4b3c717a8a5a4eedf548977bd61cc2d4fa5",
-   "primary": false,
+   "event_key": "art:c42fa98d5c3248ac59f532f33c4a72cb389939eaa2bd31f59d7056eeb21c7cb9",
+   "primary": true,
    "summary": "2026「萌鬼返校日」萬聖節活動一連兩天在花蓮市登場,小朋友化身南瓜、童話公主、超級英雄及小巫師,還有熱門動漫《鬼滅之刃》及影集《魷魚遊戲》的人物造型,讓花蓮街頭洋溢童趣。31日下午,親子家庭在花蓮市公所一樓廣場集合,沿著林森路前往遠百花蓮店和平廣場,透過變裝遊行、沿途討糖及趣味互動,共度歡樂的萬聖節時光。 活動由花蓮",
    "cities": [
     "花蓮縣"
@@ -1082,12 +1092,9 @@
    "title": "台南購物節登錄破30億元 11月商圈活動、聖誕點燈接力",
    "source": "報新聞",
    "published_at": "2026-10-31T10:33:00+08:00",
-   "event_key": "art:3e60f999b38ed42ae108af4605ae781a139cf9bf197763eac14517d59f75c602",
+   "event_key": "archive:677bf8c2bf969542",
    "primary": true,
    "summary": "「2026臺南購物節」自9月7日開跑以來,民眾參與熱度持續升溫,累計消費登錄金額已突破30億元!隨著雙11購物檔期及百貨週年慶陸續登場,11月臺南還有一系列精彩商圈活動、聖誕點燈及文化展演接力登場。臺南秋冬氣候宜人,少了夏日的炙熱,多了適合漫步街巷的愜意,正是出遊走訪臺南的極佳時機!臺南市政府邀請... ...",
-   "cities": [
-    "台南市"
-   ],
    "date_only": true
   },
   {
@@ -1095,7 +1102,7 @@
    "title": "萌鬼變裝踩街趣 花蓮親子同樂串聯商圈活力",
    "source": "fclnews",
    "published_at": "2026-10-31T10:19:00+08:00",
-   "event_key": "art:dc1bb17c739966b39fe411361fefc4b3c717a8a5a4eedf548977bd61cc2d4fa5",
+   "event_key": "art:c42fa98d5c3248ac59f532f33c4a72cb389939eaa2bd31f59d7056eeb21c7cb9",
    "primary": false,
    "summary": "2026「萌鬼返校日」萬聖節活動一連兩天在花蓮市登場,小朋友化身南瓜、童話公主、超級英雄及小巫師,還有熱門動漫《鬼滅之刃》及影集《魷魚遊戲》的人物造型,讓花蓮街頭洋溢童趣。31日下午,親子家庭在花蓮市公所一樓廣場集合,沿著林森路前往遠百花蓮店和平廣場,透過變裝遊行、沿途討糖及趣味互動,共度歡樂的萬聖節時光。 活動由花蓮",
    "cities": [
@@ -1114,29 +1121,23 @@
    "date_only": true
   },
   {
-   "url": "https://mknews.com.tw/2026/10/1011343/",
-   "title": "臺南購物節消費突破30億元!加碼抽電動車11月商圈活動接力登場",
-   "source": "天天上新聞",
-   "published_at": "2026-10-31T01:00:00+08:00",
-   "event_key": "art:aed15964494edfed43496e21614f4f6928a8209922adbca1cd0e56eb11c5a369",
-   "primary": false,
-   "summary": "圖/邀請全臺民眾在雙11、百貨週年慶前來臺南消費,享旅遊與購物節「百貨量販加碼抽」的雙 【點傳媒/記者張淑慧報導】「2026臺南購物節」自9月7日開跑以來,消費熱度持續攀升,累計消費登錄金額正式突破30億元!隨著雙11購物檔期及百貨週年慶陸續登場,臺南市政府再推出加碼抽獎活動,消費滿足登錄資格,就有機會把宏佳騰智慧電車",
-   "cities": [
-    "台南市"
-   ],
-   "date_only": true
-  },
-  {
    "url": "https://www.yesmedia.com.tw/%e8%87%ba%e5%8d%97%e8%b3%bc%e7%89%a9%e7%af%80%e6%b6%88%e8%b2%bb%e7%aa%81%e7%a0%b430%e5%84%84%e5%85%83%ef%bc%81%e5%8a%a0%e7%a2%bc%e6%8a%bd%e9%9b%bb%e5%8b%95%e8%bb%8a11%e6%9c%88%e5%95%86%e5%9c%88/",
    "title": "臺南購物節消費突破30億元!加碼抽電動車11月商圈活動接力登場",
    "source": "是新聞",
    "published_at": "2026-10-31T01:00:00+08:00",
-   "event_key": "art:aed15964494edfed43496e21614f4f6928a8209922adbca1cd0e56eb11c5a369",
+   "event_key": "archive:3979e852158af2b7",
    "primary": false,
    "summary": "圖/邀請全臺民眾在雙11、百貨週年慶前來臺南消費,享旅遊與購物節「百貨量販加碼抽」的雙 【點傳媒/記者張淑慧報導】「2026臺南購物節」自9月7日開跑以來,消費熱度持續攀升,累計消費登錄金額正式突破30億元!隨著雙11購物檔期及百貨週年慶陸續登場,臺南市政府再推出加碼抽獎活動,消費滿足登錄資格,就有機會把宏佳騰智慧電車",
-   "cities": [
-    "台南市"
-   ],
+   "date_only": true
+  },
+  {
+   "url": "https://mknews.com.tw/2026/10/1011343/",
+   "title": "臺南購物節消費突破30億元!加碼抽電動車11月商圈活動接力登場",
+   "source": "天天上新聞",
+   "published_at": "2026-10-31T01:00:00+08:00",
+   "event_key": "archive:3979e852158af2b7",
+   "primary": false,
+   "summary": "圖/邀請全臺民眾在雙11、百貨週年慶前來臺南消費,享旅遊與購物節「百貨量販加碼抽」的雙 【點傳媒/記者張淑慧報導】「2026臺南購物節」自9月7日開跑以來,消費熱度持續攀升,累計消費登錄金額正式突破30億元!隨著雙11購物檔期及百貨週年慶陸續登場,臺南市政府再推出加碼抽獎活動,消費滿足登錄資格,就有機會把宏佳騰智慧電車",
    "date_only": true
   },
   {
@@ -1157,15 +1158,9 @@
    "title": "幽靈、女巫、怪獸出沒東海藝術街!台中東海商圈萬聖搞怪趴熱鬧登場",
    "source": "cleaner.epb.taichung.gov.tw",
    "published_at": "2026-10-31T01:00:00+08:00",
-   "event_key": "art:44386c70a1082eb26652784144f75834780bc3361118f19dfaecdebedb9751c9",
+   "event_key": "archive:b71c561081878e6a",
    "primary": true,
    "summary": "經發局補充,2026台中購物節也在10月24日正式起跑!民眾只要下載「台中通TCPASS」APP,登錄消費發票或收據,就有機會天天抽3,000元、週週抽10萬元、隔週抽汽車、月月抽百萬元,還有精品好宅等大獎。歡迎民眾走訪台中特色商圈、品味在地美食,感受節慶魅力、享受購物樂趣,一起挺商圈、拚經濟!",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    "東海藝術街商圈"
-   ],
    "date_only": true
   },
   {
@@ -1173,22 +1168,9 @@
    "title": "台南購物節登錄破30億元 11月商圈活動、聖誕點燈接力",
    "source": "蕃新聞",
    "published_at": "2026-10-31T00:00:00+08:00",
-   "event_key": "art:3e60f999b38ed42ae108af4605ae781a139cf9bf197763eac14517d59f75c602",
+   "event_key": "archive:677bf8c2bf969542",
    "primary": false,
    "summary": "「2026臺南購物節」自9月7日開跑以來,民眾參與熱度持續升溫,累計消費登錄金額已突破30億元!隨著雙11購物檔期及百貨週年慶陸續登場,11月臺南還有一系列精彩商圈活動、聖誕點燈及文化展演接力登場。臺南秋冬氣候宜人,少了夏日的炙熱,多了適合漫步街巷的愜意,正是出遊走訪臺南的極佳時機!臺南市政府邀請... ...",
-   "cities": [
-    "台南市"
-   ],
-   "date_only": true
-  },
-  {
-   "url": "https://www.storm.mg/article/11177269",
-   "title": "北市府攜手木柵農會推廣在地茶產業 鐵觀音跨界餐飲進駐信義商圈",
-   "source": "風傳媒",
-   "published_at": "2026-10-31T00:00:00+08:00",
-   "event_key": "art:29dcc496bd0e82815fd45392a8de49b6ac6835737c489c7bfc832bdadb377292",
-   "primary": true,
-   "summary": "臺北市不只有繁華商圈,也保有深厚的茶產業文化。為讓更多民眾認識文山區特色農業,臺北市政府產業發展局攜手臺北市木柵區農會,於10月30日至11月1日在信義威秀行人廣場舉辦「木柵小茶館.萬聖茶微醺」活動,將木柵鐵觀音、特色茶飲及農產加工成果帶入信義商圈,透過農產品展售、食農教育及跨產業合作,拓展地方農業與都市消費市場的交流",
    "date_only": true
   },
   {
@@ -1202,6 +1184,16 @@
    "cities": [
     "台中市"
    ],
+   "date_only": true
+  },
+  {
+   "url": "https://www.storm.mg/article/11177269",
+   "title": "北市府攜手木柵農會推廣在地茶產業 鐵觀音跨界餐飲進駐信義商圈",
+   "source": "風傳媒",
+   "published_at": "2026-10-31T00:00:00+08:00",
+   "event_key": "archive:c15ad48ef5dfb1f4",
+   "primary": true,
+   "summary": "臺北市不只有繁華商圈,也保有深厚的茶產業文化。為讓更多民眾認識文山區特色農業,臺北市政府產業發展局攜手臺北市木柵區農會,於10月30日至11月1日在信義威秀行人廣場舉辦「木柵小茶館.萬聖茶微醺」活動,將木柵鐵觀音、特色茶飲及農產加工成果帶入信義商圈,透過農產品展售、食農教育及跨產業合作,拓展地方農業與都市消費市場的交流",
    "date_only": true
   }
  ]
