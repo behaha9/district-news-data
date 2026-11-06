@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-06T12:30:00+08:00",
+  "updated_at": "2026-11-06T17:00:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -164,6 +164,14 @@
             "https://udn.com/news/story/6656/9861447",
             "https://newtalk.tw/news/view/2026-11-06/1069665",
             "https://www.kmt.org.tw/2026/11/blog-post_312.html"
+          ]
+        },
+        {
+          "id": "20261106-tainan-bulk-oil",
+          "note": "台南市府消保官協調上游增供桶裝沙拉油，回應店家缺貨",
+          "representative": "https://udn.com/news/story/7266/9861923",
+          "urls": [
+            "https://udn.com/news/story/7266/9861923"
           ]
         }
       ],

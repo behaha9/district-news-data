@@ -1,7 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T12:18:37+08:00",
+ "generated_at": "2026-11-06T16:50:28+08:00",
  "items": [
+  {
+   "id": "20261106-taoyuan-kitchen-waste",
+   "title": "桃園擴大商用廚餘機補助，商圈與傳統市場管理機構可申請",
+   "summary": "桃園市政府將商圈、傳統市場等管理機構納入商用廚餘機補助範圍，以減輕業者負擔並擴大減量效益。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-06T14:58:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261106399888",
+     "published_at": "2026-11-06T14:58:00+08:00"
+    },
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261106701166-431401",
+     "published_at": "2026-11-06T13:06:00+08:00"
+    },
+    {
+     "outlet": "中時新聞網",
+     "url": "https://www.chinatimes.com/realtimenews/20261106002611-260405",
+     "published_at": "2026-11-06T13:06:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261106/medias-20261106-6aed74db394a2-0a85a40fb39a94a9.webp"
+  },
+  {
+   "id": "20261105-taichung-wudiao-ranking",
+   "title": "台中物調券人氣場域揭曉，一中商圈居冠、逢甲居次",
+   "summary": "台中市物調券使用場域排名公布，一中商圈奪冠，攤商表示買氣旺。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-06T13:25:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    {
+     "name": "一中商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "報新聞",
+     "url": "https://www.contentplatform.info/articles/565534/%E5%8F%B0%E4%B8%AD%E7%89%A9%E8%AA%BF%E5%88%B8%E4%BA%BA%E6%B0%A3%E5%A0%B4%E5%9F%9F%E6%8F%AD%E6%9B%89%E3%80%80%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E5%A5%AA%E5%86%A0%E3%80%81%E9%80%A2%E7%94%B2%E5%A4%9C/",
+     "published_at": "2026-11-06T13:25:00+08:00"
+    },
+    {
+     "outlet": "天天上新聞",
+     "url": "https://mknews.com.tw/2026/11/1013681/",
+     "published_at": "2026-11-05T18:14:00+08:00"
+    },
+    {
+     "outlet": "more-news",
+     "url": "https://more-news.tw/760564/",
+     "published_at": "2026-11-05T16:08:00+08:00"
+    },
+    {
+     "outlet": "是新聞",
+     "url": "https://www.yesmedia.com.tw/%e4%b8%ad%e5%b8%82%e7%89%a9%e8%aa%bf%e5%88%b8%e4%ba%ba%e6%b0%a3%e5%a0%b4%e5%9f%9f%e6%8f%ad%e6%9b%89%ef%bc%81%e4%b8%80%e4%b8%ad%e5%95%86%e5%9c%88%e5%a5%aa%e5%86%a0%e3%80%81%e9%80%a2%e7%94%b2%e5%a4%9c/",
+     "published_at": "2026-11-05T00:00:00+08:00"
+    }
+   ],
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/06123955/taichung-cover-261106043953107.jpeg"
+  },
   {
    "id": "20261106-longshan-dumpling",
    "title": "龍山商圈蒸餃店遭爆外帶酸辣湯疑有異物，北市衛生局回應",
@@ -51,6 +121,52 @@
     }
    ],
    "image": "https://cdn2.ettoday.net/images/9002/e9002441.jpg"
+  },
+  {
+   "id": "20261102-east-district-vacancy",
+   "title": "臺北市商業處：大巨蛋帶動東區商機，空店率降至8.85%，振興計畫持續推動",
+   "summary": "北市商業處表示大巨蛋串聯帶動忠孝東區商機，東區商圈空店率降至8.85%，並持續推動軟硬體升級的振興計畫。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-06T10:26:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "東區商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "鉅聞天下",
+     "url": "https://www.bigmedia.com.tw/article/1793934006057",
+     "published_at": "2026-11-06T10:26:00+08:00"
+    },
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/paper/1777014",
+     "published_at": "2026-11-03T05:30:00+08:00"
+    },
+    {
+     "outlet": "PChome Online新聞",
+     "url": "https://news.pchome.com.tw/public/taipei/20261102/index-79361600023397126016.html",
+     "published_at": "2026-11-02T18:40:00+08:00"
+    },
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5626673",
+     "published_at": "2026-11-02T15:47:00+08:00"
+    },
+    {
+     "outlet": "臺北市商業處",
+     "url": "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=09F9BEB89B559353",
+     "published_at": "2026-11-02T00:00:00+08:00"
+    }
+   ],
+   "admin_note": "東區商圈為115年補助名單，空店率與振興計畫進度可留意計畫成效與KPI對照。",
+   "image": "https://p1-news.hfcdn.com/p1-news/MTQwNDIzMzhuZXdz/573beae0bd7c4f38_1600x1200.jpg"
   },
   {
    "id": "20261105-chifeng-rent",
@@ -171,36 +287,6 @@
     }
    ],
    "image": "https://images.chinatimes.com/newsphoto/2026-11-05/656/20261105004025.jpg"
-  },
-  {
-   "id": "20261105-taichung-wudiao-ranking",
-   "title": "台中物調券人氣場域揭曉，一中商圈居冠、逢甲居次",
-   "summary": "台中市物調券使用場域排名公布，一中商圈奪冠，攤商表示買氣旺。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-05T16:08:00+08:00",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    {
-     "name": "一中商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "more-news",
-     "url": "https://more-news.tw/760564/",
-     "published_at": "2026-11-05T16:08:00+08:00"
-    },
-    {
-     "outlet": "是新聞",
-     "url": "https://www.yesmedia.com.tw/%e4%b8%ad%e5%b8%82%e7%89%a9%e8%aa%bf%e5%88%b8%e4%ba%ba%e6%b0%a3%e5%a0%b4%e5%9f%9f%e6%8f%ad%e6%9b%89%ef%bc%81%e4%b8%80%e4%b8%ad%e5%95%86%e5%9c%88%e5%a5%aa%e5%86%a0%e3%80%81%e9%80%a2%e7%94%b2%e5%a4%9c/",
-     "published_at": "2026-11-05T00:00:00+08:00"
-    }
-   ],
-   "image": "https://more-news.tw/more-news-media/2026/11/1-38.jpg"
   },
   {
    "id": "20261103-xiluo-art-fair",
@@ -629,47 +715,6 @@
    ],
    "admin_note": "新莊廟街商圈為115年補助名單，報導指人潮流失，可留意活動成效與KPI達成。",
    "image": "https://images.storm.mg/cloud/516807246ed878e25b6d303aee038fcc605a72e2.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2067564%2FnQSd1L9tN7LYQx4BBvWWL1lOQ5MFp4WgENNMJGUU.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
-  },
-  {
-   "id": "20261102-east-district-vacancy",
-   "title": "臺北市商業處：大巨蛋帶動東區商機，空店率降至8.85%，振興計畫持續推動",
-   "summary": "北市商業處表示大巨蛋串聯帶動忠孝東區商機，東區商圈空店率降至8.85%，並持續推動軟硬體升級的振興計畫。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-03T05:30:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "東區商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/paper/1777014",
-     "published_at": "2026-11-03T05:30:00+08:00"
-    },
-    {
-     "outlet": "PChome Online新聞",
-     "url": "https://news.pchome.com.tw/public/taipei/20261102/index-79361600023397126016.html",
-     "published_at": "2026-11-02T18:40:00+08:00"
-    },
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5626673",
-     "published_at": "2026-11-02T15:47:00+08:00"
-    },
-    {
-     "outlet": "臺北市商業處",
-     "url": "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=09F9BEB89B559353",
-     "published_at": "2026-11-02T00:00:00+08:00"
-    }
-   ],
-   "admin_note": "東區商圈為115年補助名單，空店率與振興計畫進度可留意計畫成效與KPI對照。",
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/03/93.jpg"
   },
   {
    "id": "20261102-tainan-zhanqian",
@@ -2622,31 +2667,6 @@
     }
    ],
    "image": "https://media.zenfs.com/ko/cdns.com.tw/7e31941d3562cd06e5516937fff0fc10.jpg"
-  },
-  {
-   "id": "20261023-kaohsiung-sail-banner",
-   "title": "高雄左營巨蛋商圈旁大帆布遭強風吹斷纜繩，氣象站發布強風特報",
-   "summary": "強風吹斷左營區巨蛋商圈旁一塊大帆布的部分纜繩，帆布在空中飄動驚嚇路人，報導未提到店家受損或人員受傷。",
-   "category": "商圈動向",
-   "alert": "商圈受災",
-   "published_at": "2026-10-23T12:40:00+08:00",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    {
-     "name": "巨蛋商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5616219",
-     "published_at": "2026-10-23T12:40:00+08:00"
-    }
-   ],
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616219_1_1.jpg"
   }
  ],
  "discussions": []
