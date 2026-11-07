@@ -1,171 +1,15 @@
 {
- "fetched_at": "2026-11-07T20:50:11+08:00",
+ "fetched_at": "2026-11-07T21:21:02+08:00",
  "articles": {
-  "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-22T21:20+08:00",
-   "site_name": "華視新聞網",
-   "description": "鹿港老街颳十級強風　百年老磚牆轟然倒塌",
-   "cities": {
-    "彰化縣": 3
-   },
-   "districts": [
-    "鹿港老街商圈（彰化縣）"
-   ],
-   "body_chars": 515,
-   "image": "https://www.cts.com.tw/data/news/photo/cts/202610/202610223092981.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-22",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cdns.com.tw/articles/1479279": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-23T18:55+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者林怡孜∕台南報導 台南鐵路地下化第一階段十七日正式通車，嶄新的下沉式車站出入口成為熱門話題，也讓過去被視為「後站」的大學路商圈迎來發展契機。隨著旅客進出動線改變，鄰近的台南大遠百、遠東香格里拉飯店及東區餐飲、旅宿業者，有機會迎接新一波消費人潮。 新車站二號出入口位於大學西路與前鋒路口，挑高十四公尺的頂棚搭配開闊的出",
-   "cities": {
-    "台南市": 12
-   },
-   "districts": [
-    "後站商圈（台北市）"
-   ],
-   "body_chars": 673,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/10/23185509/1018%E5%8F%B0%E5%8D%97%E6%96%B0%E8%BB%8A%E7%AB%99%E5%B8%B6%E4%BE%86%E6%96%B0%E5%95%86%E6%A9%9F-145806-1024x576.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-23",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cdns.com.tw/articles/1479710": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-24T21:03+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者林雪娟∕台南報導 台南海安萬聖活動二十四、二十五日登場，目前萬聖節活動，變裝已是基本款，團隊今年發揮創意，直接封街，將整座中式靈堂「幽靈殿堂」擺設在活動現場，內部甚至有兩副棺材在其中，驚嚇指數破百！加上孟婆橋、日式靈異公車站等設施，更是挑戰民眾膽識，雖然先前預告時，已引發網友兩極化爭議，然愈晚愈美麗，估計人潮破萬。",
-   "cities": {
-    "台南市": 6
-   },
-   "districts": [
-    "海安商圈（台南市）"
-   ],
-   "body_chars": 601,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/10/24210303/73360a-20261024161030071-0-1024x576.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-24",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T16:40+08:00",
-   "site_name": "華視新聞網",
-   "description": "【台語新聞】台南海安商圈萬聖變裝派對　民怨：垃圾成堆　主辦致歉",
-   "cities": {
-    "台南市": 7
-   },
-   "districts": [
-    "海安商圈（台南市）"
-   ],
-   "body_chars": 788,
-   "image": "https://www.cts.com.tw/data/images/f8/d5/e3/b2/f8d5e3b2047d6572aa03511d5e4c7884.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
   "https://news.ebc.net.tw/search/tags/李慶隆/": {
    "checked_at": "2026-11-05T23:39+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)"
   },
-  "https://www.watchmedia01.com/archives/564050": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T17:19+08:00",
-   "site_name": "觀傳媒",
-   "description": "（觀傳媒宜蘭新聞）【記者陳俊傑/宜蘭報導】曾經引領宜蘭消費潮流、陪伴無數縣民成長的友愛百貨大樓，近日傳出可能求 […]",
-   "cities": {
-    "宜蘭縣": 23
-   },
-   "districts": [
-    "舊城商圈（高雄市）"
-   ],
-   "body_chars": 1402,
-   "image": "https://i0.wp.com/www.watchmedia01.com/wp-content/uploads/2026/10/20261029171901_0_c179e4.jpeg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
   "https://www.fclnews.com/235170/": {
    "checked_at": "2026-11-07T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://www.cdns.com.tw/articles/1482837": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T21:12+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "本報綜合報導 中聯停工影響國內沙拉油供應。經濟部三十日表示，持續透過供需媒合、協調國內業者增產及鼓勵進口等方式增加供應，截至十月中旬合計已協助八十九家食品業者取得共一千八百四十二噸沙拉油，另已協調油品進口商第四季擴大進口五千噸，後續也將協助中小型業者以商圈或夜市自治會為單位進行媒合。 經濟部指出，國內供給方面，先前已協",
-   "cities": {},
-   "districts": [],
-   "body_chars": 689,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/10/30211209/81003a-20260818185256015-0_copy1-1024x659.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.cts.com.tw/cts/politics/202611/202611013096051.html": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T08:40+08:00",
-   "site_name": "華視新聞網",
-   "description": "週末陸戰！　蔣出席「白晝之夜」　再赴晴光商圈掃街",
-   "cities": {
-    "台北市": 3
-   },
-   "districts": [
-    "晴光商圈（台北市）"
-   ],
-   "body_chars": 655,
-   "image": "https://www.cts.com.tw/data/news/photo/cts/202611/202611013096051.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cdns.com.tw/articles/1483649": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T19:36+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者林怡孜∕台南報導 萬聖節不只有鬼怪與糖果，連街頭變電箱也能成為心理健康宣導的主角。日前成大商圈舉辦萬聖節活動，關廟區社區心理衛生工作人員發揮創意，將變電箱、電線桿變成逗趣的萬聖節造型，搭配情緒圖卡及互動遊戲，吸引大小朋友在歡樂氣氛中學習認識情緒、紓解壓力。 這場「心衛出任務 攏來萬聖節」變裝遊行，最吸睛的莫過於工作",
-   "cities": {
-    "台南市": 2
-   },
-   "districts": [
-    "成大商圈（台南市）"
-   ],
-   "body_chars": 488,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/01193613/T90052a-20261101152734346-0-1024x907.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cdns.com.tw/articles/1484196": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T20:17+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者王家林∕台南報導 市府地政局代為標售一一五年度第二批地籍清理未能釐清權屬土地，自二０二六年十一月一日起至十一月十八日止受理投標，預計於十一月十九日正式開標。 本次共計推出四十七標，其中坐落於熱門核心商段的海安路與國華街商圈中西區普濟段商業區土地（第四、五標）最受矚目，而底價最高、達一千二百八十五萬五千二百元的善化區",
-   "cities": {
-    "台南市": 4
-   },
-   "districts": [],
-   "body_chars": 568,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/02201721/T90053a-20261102154015173-0-1024x771.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1484068": {
    "checked_at": "2026-11-04T21:37+08:00",
@@ -179,22 +23,6 @@
    "districts": [],
    "body_chars": 629,
    "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/02183053/77005a-20261102143954794-0-1024x659.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cdns.com.tw/articles/1484010": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T17:41+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者林雪娟／台南報導 陪伴市民三十年的新光三越中山店十月底正式結束營業，雖然傳出有企業接手，然許多人擔心站前商圈恐因而沒落。經發局表示，雖因租賃契約期滿及該企業整體營運布局調整而結束營業，然原有商業空間仍具發展潛力，未來可望透過不同經營模式與業態組合，持續發揮其位處台南交通門戶及舊城核心的區位優勢。 經發局表示，新光三",
-   "cities": {
-    "台南市": 24
-   },
-   "districts": [],
-   "body_chars": 873,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/02174100/1930248-1024x576.jpg",
    "image_checked": true,
    "date_hint": "2026-11-02",
    "date_hint_from": "原文時間"
@@ -234,483 +62,10 @@
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://ccss3172.blogspot.com/2026/10/blog-post_74.html": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T19:31+08:00",
-   "site_name": "Blogger",
-   "description": null,
-   "cities": {
-    "台中市": 6
-   },
-   "districts": [
-    "豐原廟東復興商圈（台中市）"
-   ],
-   "body_chars": 556,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.setn.com/news/1933229": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T18:27+08:00",
-   "site_name": "三立新聞網",
-   "description": "人氣生活雜貨品牌3COINS台灣第2間門市於11月5日在誠品生活南西正式開幕，除鎖定中山商圈客群外，更全新引進追星收藏、寵物用品與毛線手作等商品，社群熱議的一鍵按壓式製冰盒也同步開賣。另一方面，IKEA則搶先迎接聖誕節，推出充滿玩心創意與北歐經典風格的全新裝飾系列，將熱狗堡與冰淇淋變身聖誕樹吊飾，為居家生活與節慶佈置帶",
-   "cities": {
-    "桃園市": 1
-   },
-   "districts": [
-    "中山商圈（台北市）"
-   ],
-   "body_chars": 2069,
-   "image": "https://attach.setn.com/newsimages/2026/11/04/5774460-PH.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.msn.com/zh-tw/news/other/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%89%B5-%E9%AB%98%E9%9B%84%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E8%A8%AD-%E6%A8%99%E7%B7%9A%E5%9E%8B%E5%9C%93%E7%92%B0-%E4%BA%8B%E6%95%85%E5%A4%A7%E6%B8%9B-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2gIFX6": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://tw.news.yahoo.com/%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E6%96%BD%E5%B7%A5%E6%8C%A8%E6%89%B9%E5%B0%8E%E8%87%B4%E5%BA%97%E5%AE%B6-%E5%B1%85%E6%B0%91%E4%B8%8D%E4%BE%BF-%E5%9C%96-112049290.html": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T19:20+08:00",
-   "site_name": "Yahoo News",
-   "description": "民眾黨彰化縣議員吳韋達4日針對彰化市永樂商圈道路改善工程提出質疑，他指出，工程開挖後發生店家住戶只能鋪木板跨越側溝進出狀況，部分工區護欄也不完整，要求縣府積極協助受損店家與居民。",
-   "cities": {
-    "台北市": 17,
-    "彰化縣": 6,
-    "高雄市": 3,
-    "桃園市": 2,
-    "台中市": 2
-   },
-   "districts": [
-    "永樂商圈（台北市）",
-    "永樂商圈（彰化縣）"
-   ],
-   "body_chars": 3607,
-   "image": "https://media.zenfs.com/ko/cna.com.tw/12368c67b96e006736ffce220426d27e.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://star.setn.com/news/1933606": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T03:30+08:00",
-   "site_name": "三立娛樂星聞",
-   "description": "日本創作歌手藤井風結束高雄演唱會後，無預警於YouTube釋出《青春病高雄版》完整版MV。影片結合演唱會現場音源與復古質感，記錄他造訪果貿社區、三鳳中街及蓮池潭北極亭等在地景點，與長輩親切互動的溫馨畫面。MV上架即引爆全球粉絲熱議，不僅勾起高雄人的在地記憶，更讓大批海內外歌迷大讚其完美融入當地文化的超強親和力，為高雄行",
-   "cities": {
-    "高雄市": 14
-   },
-   "districts": [
-    "三鳳中街（高雄市）",
-    "蓮池潭商圈（高雄市）"
-   ],
-   "body_chars": 978,
-   "image": "https://attach.setn.com/newsimages/2026/11/04/5775365-PH.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
   "https://www.juksy.com/article/154111": {
    "checked_at": "2026-11-07T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://www.setn.com/news/1933606": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T03:30+08:00",
-   "site_name": "三立新聞網",
-   "description": "日本創作歌手藤井風結束高雄演唱會後，無預警於YouTube釋出《青春病高雄版》完整版MV。影片結合演唱會現場音源與復古質感，記錄他造訪果貿社區、三鳳中街及蓮池潭北極亭等在地景點，與長輩親切互動的溫馨畫面。MV上架即引爆全球粉絲熱議，不僅勾起高雄人的在地記憶，更讓大批海內外歌迷大讚其完美融入當地文化的超強親和力，為高雄行",
-   "cities": {
-    "高雄市": 13,
-    "台北市": 2
-   },
-   "districts": [
-    "三鳳中街（高雄市）",
-    "蓮池潭商圈（高雄市）"
-   ],
-   "body_chars": 1577,
-   "image": "https://attach.setn.com/newsimages/2026/11/04/5775365-PH.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%89%B5-%E9%AB%98%E9%9B%84%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E8%A8%AD-%E6%A8%99%E7%B7%9A%E5%9E%8B%E5%9C%93%E7%92%B0-%E4%BA%8B%E6%95%85%E9%99%8D%E4%BD%8E-085859719.html": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T16:58+08:00",
-   "site_name": "Yahoo News",
-   "description": "南部中心／曾依翔 廖錦雄 鄧山田 高雄市報導百貨公司或是菜市場附近的多叉路口，常會擦撞車禍，高雄市交通局在三多百貨商圈首創全台首個標線型圓環，另外也在肉豆公傳統菜市場，完成標線型圓環，附近攤商很有感，直呼事故真的有減少，交通局統計，標線型圓環設置後，事故意外降了三分之二。",
-   "cities": {
-    "台北市": 14,
-    "高雄市": 14,
-    "新竹市": 9,
-    "台南市": 3,
-    "台中市": 2
-   },
-   "districts": [
-    "三多商圈（高雄市）"
-   ],
-   "body_chars": 4000,
-   "image": "https://media.zenfs.com/ko/ftvn.com.tw/5a9d8741941bfafac8e6f7c7506b18ad.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.cts.com.tw/cna/local/202611/202611043097404.html": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T18:26+08:00",
-   "site_name": "華視新聞網",
-   "description": "彰市永樂商圈施工店家不便  吳韋達促縣府監督協助",
-   "cities": {
-    "彰化縣": 7
-   },
-   "districts": [
-    "永樂商圈（台北市）",
-    "永樂商圈（彰化縣）"
-   ],
-   "body_chars": 627,
-   "image": "https://www.cts.com.tw/data/images/news/photo/cna/202611/202611043097404.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/7320/9857576": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T18:15+08:00",
-   "site_name": "聯合新聞網",
-   "description": "台北市中山商圈今下午有1名男子在商家舉辦活動時刻意碰撞現場紅絨柱，引發工作人員不滿，2人爆發肢體衝突，男子遭工作人員壓制在地，引發民眾關注並報警；警方表示，員警獲報介入時現場已無衝突情事，後續已將滋事男子帶返調查。",
-   "cities": {
-    "台北市": 4,
-    "彰化縣": 3,
-    "新竹縣": 2,
-    "新北市": 1,
-    "台中市": 1
-   },
-   "districts": [
-    "中山商圈（台北市）"
-   ],
-   "body_chars": 1581,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35485643.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chilling.tw/article/90433": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T17:05+08:00",
-   "site_name": "潮癮CHILLING",
-   "description": "韓國人氣品牌 aeae 日前正式宣布將於 11 月 11 日正式在台北中山商圈迎來「全台首間旗艦店」盛大開幕，這個將標誌性 Y2K 復古美學與街頭風格完美結合的人氣品牌，本次隆重進駐台北中山，除了完整呈現品牌世界觀外，更將全面上架與首爾同步的最新 2026 秋冬系列與經典熱銷款式。",
-   "cities": {
-    "台北市": 9
-   },
-   "districts": [
-    "中山商圈（台北市）"
-   ],
-   "body_chars": 652,
-   "image": "https://img.chilling.tw/images/a/Lui/Lui%202026/aeae%20%E4%B8%AD%E5%B1%B1%E6%97%97%E8%89%A6%E5%BA%97%2033.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chilling.tw/article/90430": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T16:02+08:00",
-   "site_name": "潮癮CHILLING",
-   "description": "台灣設計品牌 ANOWHEREMAN 日前曝光與品牌 WTNC (When The Night Comes) 合作的首度聯名系列，全系列不但將推出 7 款新品，也將在 11 月 6 日登陸中山商圈新興空間 ANOTHEROOM 展開實體快閃店，除了將獨家搶先發售本次聯名外，雙方也將帶來各自人氣品項和折扣活動。",
-   "cities": {
-    "台北市": 1
-   },
-   "districts": [
-    "赤峰街商圈（台北市）",
-    "中山商圈（台北市）"
-   ],
-   "body_chars": 977,
-   "image": "https://img.chilling.tw/images/a/Lui/Lui%202026/101698053.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.msn.com/zh-tw/travel/%E4%B8%80%E8%88%AC/2026%E5%8F%B0%E5%8C%97%E7%99%BD%E6%99%9D%E4%B9%8B%E5%A4%9C%E5%9C%A8%E5%9C%93%E5%B1%B1-6%E5%A4%A7%E5%B1%95%E5%8D%80%E5%85%8D%E8%B2%BB%E6%8B%8D%E5%88%B0%E5%87%8C%E6%99%A82%E9%BB%9E-%E7%BE%8E%E9%A3%9F%E5%B8%82%E9%9B%86-%E4%BA%A4%E9%80%9A%E7%AE%A1%E5%88%B6%E5%85%88%E7%9C%8B/ar-AA2gzcT7": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://newstaiwan.net/2026/10/28/492661/": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  "https://3kingtw.com/4007/": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-03T06:18+08:00",
-   "site_name": "鑫台灣財經網",
-   "description": "鑫台灣財經網／王崇如／台南報導",
-   "cities": {
-    "台南市": 15
-   },
-   "districts": [],
-   "body_chars": 862,
-   "image": "https://3kingtw.com/wp-content/uploads/2026/11/e5a8a74fc7ea777.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-03",
-   "date_hint_from": "原文時間"
-  },
-  "https://wantrich.chinatimes.com/news/20261104900468-420501": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T18:09+08:00",
-   "site_name": "旺得富理財網",
-   "description": "中聯油脂因致癌油停工，3成缺口引爆近期營業通路沙拉油荒。國營事業台糖今(4)日報喜訊，上次採購3000噸粗油進口流標，今日重新招標後，由大統益得標。預計本月中開始交貨，台糖將分4個月精煉，每月至少產出500噸沙拉油，合計可多提供市面2000噸食用沙拉油，對紓解油荒有一定助益。但是粗油成本上揚，台糖三...",
-   "cities": {},
-   "districts": [],
-   "body_chars": 819,
-   "image": "https://wr-images.chinatimes.com/newsphoto/2026-11-04/1024/20261104900469.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cdns.com.tw/articles/1483996": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T17:34+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者陳建興／台北報導 日本銷量第一眼鏡品牌JINS持續以實際行動回饋社會，為台北街頭帶來滿滿的溫暖與歡樂！一向致力於推動多元與平權的JINS，不僅連續第二年大力贊助臺灣同志遊行，緊接著於台北市中山商圈舉辦「JINS GO」公益巡迴活動。JINS透過暖心的服務，期盼照顧大眾視力健康的同時，也能向社會傳遞「勇敢做自己」的正",
-   "cities": {
-    "台北市": 6
-   },
-   "districts": [
-    "中山商圈（台北市）"
-   ],
-   "body_chars": 975,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/02173352/13-1024x699.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ftvnews.com.tw/news/detail/2026B04U05M1": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T16:58+08:00",
-   "site_name": "民視新聞網",
-   "description": "南部中心／曾依翔　廖錦雄　鄧山田　高雄市報導百貨公司或是菜市場附近的多叉路口，常會擦撞車禍，高雄市交通局在三多百貨商圈首創全台首個標線型圓環，另外也在肉豆公傳統菜市場，完成標線型圓環，附近攤商很有感，直呼事故真的有減少，交通局統計，標線型圓環設置後，事故意外降了三分之二。",
-   "cities": {
-    "高雄市": 11,
-    "新北市": 1
-   },
-   "districts": [
-    "三多商圈（高雄市）"
-   ],
-   "body_chars": 1053,
-   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/112bc4d6-d875-440e-8d57-b1aa58b573bc.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://fashion.ettoday.net/news/3265139": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T20:22+08:00",
-   "site_name": "ET Fashion",
-   "description": "日本生活雜貨品牌 3COINS 繼台北西門町首店落腳後，台灣第 2 間門市正式宣布進駐中山商圈「誠品生活南西」地下一樓，預計 11／5 下午 2 點半正式對外開幕，除延續熱銷的日常生活雜貨，更進一步擴充寵物用品、公仔收藏收納與毛線手作三大品類，在網路上熱烈討論的「一鍵按壓式製冰盒」新品也正式登場，開幕首兩日消費前 50",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [
-    "中山商圈（台北市）",
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 1473,
-   "image": "https://cdn2.ettoday.net/images/8997/e8997103.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.msn.com/zh-tw/news/other/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%89%B5-%E9%AB%98%E9%9B%84%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E8%A8%AD-%E6%A8%99%E7%B7%9A%E5%9E%8B%E5%9C%93%E7%92%B0-%E4%BA%8B%E6%95%85%E9%99%8D%E4%BD%8E/ar-AA2gJ3Gb": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.cna.com.tw/news/aloc/202611040292.aspx": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T18:26+08:00",
-   "site_name": "中央社 CNA",
-   "description": "民眾黨彰化縣議員吳韋達今天針對彰化市永樂商圈道路改善工程，質疑工程開挖後，發生店家住戶只能鋪木板跨越側溝進出，部分工區護欄也不完整，要求縣府協助受損店家與居民。",
-   "cities": {
-    "彰化縣": 9
-   },
-   "districts": [
-    "永樂商圈（台北市）",
-    "永樂商圈（彰化縣）"
-   ],
-   "body_chars": 801,
-   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261104/576x1024_wmky_0_C20261104000207.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://money.udn.com/money/story/5637/9854832": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T10:00+08:00",
-   "site_name": "經濟日報",
-   "description": "全新藝術博覽會《阿嬤的家 A Ma De Jia 2026》將於2026年12月11日至20日在雲林西螺登場。不同於傳統藝博會集中於大型展館與制式展位，首屆《阿嬤的家》以西螺延平老街為核心，串聯九處老屋及特色空間，邀請來自台灣及海外的畫廊與藝術家進駐，讓藝術作品直接與地方建築、歷史及居民生活產生對話。希望重新思考藝術博",
-   "cities": {
-    "雲林縣": 5,
-    "台北市": 3,
-    "台中市": 2,
-    "台南市": 2
-   },
-   "districts": [
-    "雲林縣西螺鎮延平老街商圈（雲林縣）"
-   ],
-   "body_chars": 2443,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/03/35481533.jpg&M=1&s=Y&x=0&y=0&sw=1114&sh=1633&sl=W&fw=1050&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://money.udn.com/money/story/122328/9856799": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T13:44+08:00",
-   "site_name": "經濟日報",
-   "description": "明華園戲劇總團旗艦大戲「貓神」定14日周末晚間7時，在嘉義市東區舊燈會區（空軍市場）戶外演出，由「無敵小生」孫翠鳳領銜主演。這齣經典大戲原訂演出2度受到颱風影響延期，經文化局與劇團積極協調，終於敲定重新登場，將以華麗舞台、精湛演技及奇幻劇情，帶給嘉義市民一場歌仔戲藝術盛宴。",
-   "cities": {
-    "嘉義市": 21
-   },
-   "districts": [],
-   "body_chars": 1516,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35484368.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=720&sl=W&fw=1050&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261104165597": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T13:58+08:00",
-   "site_name": "蕃新聞",
-   "description": "報新聞/編輯部嘉義縣政府辦理「115年嘉義縣商圈聯合購物節－嘉尚好禮」，串聯全縣19大商圈及17家觀",
-   "cities": {
-    "嘉義縣": 26
-   },
-   "districts": [
-    "鹿草風華商圈（嘉義縣）",
-    "朴子市魅力商圈（嘉義縣）",
-    "民雄商圈（嘉義縣）"
-   ],
-   "body_chars": 1484,
-   "image": "https://ni.yam.com/20261104/chiayi-cover-261104051332117-4b942dbffe4333cd.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://ec.ltn.com.tw/article/breakingnews/5629681": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T19:58+08:00",
-   "site_name": "自由時報電子報",
-   "description": "〔編譯盧永山／綜合報導〕在美國總統川普政府的施壓下，美國軟體巨擘甲骨文（Oracle）已取消與中國騰訊（Tencent）簽署的價值70億美元（新台幣2297.5億元）晶片租賃合約，顯示美國雲端服",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1036,
-   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/04/5629681_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261103295942": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-03T17:50+08:00",
-   "site_name": "蕃新聞",
-   "description": "(中央社訊息服務20261103 17:51:30)嘉義縣政府辦理「115年嘉義縣商圈聯",
-   "cities": {
-    "嘉義縣": 26
-   },
-   "districts": [
-    "鹿草風華商圈（嘉義縣）",
-    "朴子市魅力商圈（嘉義縣）",
-    "民雄商圈（嘉義縣）"
-   ],
-   "body_chars": 1488,
-   "image": "https://ni.yam.com/20261103/00448893.20261103153870817m-9d09fc3708186101.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-03",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=29BDAFF1CB525A99": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T00:00+08:00",
-   "site_name": "臺北市商業處",
-   "description": null,
-   "cities": {
-    "台北市": 18
-   },
-   "districts": [],
-   "body_chars": 1275,
-   "image": "https://www-ws.gov.taipei/001/Upload/409/relpic/10162/9737745/83f3e042-d25d-40ab-be00-033b9ed493f5@710x470.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.storm.mg/lifestyle/11178443": {
-   "checked_at": "2026-11-04T20:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T15:05+08:00",
-   "site_name": null,
-   "description": "隨著捷運三鶯線開通，搭捷運就能輕鬆直達三峽與鶯歌，這條路線絕對是全新崛起的「三鶯線美食」集散地！不論是隱身鶯歌巷弄、湯頭濃郁香辣的「大媽牛肉麵」，還是三峽老街旁人氣爆棚、口感Q彈的「古伯手工米苔目」，每一家都是在地人從小吃到大的心頭好；當然，買爆外皮酥脆的「金三峽牛角」更是不可少的經典行程。準備好你的胃了嗎？跟著這份名",
-   "cities": {
-    "新北市": 5
-   },
-   "districts": [],
-   "body_chars": 2227,
-   "image": "https://images.storm.mg/cloud/c3c3290d9ea8e877cb7931be0ce35fc3c125b772.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2246186%2FKUwJzpdH0K10lyyX9GE9xW0CwQDhqj9MkRARTi2a.jpeg&g=sm&h=900&resize=fill&w=1600&format=jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
   },
   "https://www.msn.com/zh-tw/news/other/%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E5%90%8A%E8%BB%8A%E4%B8%80%E8%BD%89-%E6%93%8A%E7%A0%B4%E5%85%AC%E8%BB%8A%E7%8E%BB%E7%92%83-%E5%9A%87%E5%A3%9E%E4%B9%98%E5%AE%A2-shorts/vi-AA2gvX6Y": {
    "checked_at": "2026-11-04T21:37+08:00",
@@ -10429,6 +9784,529 @@
    "checked_at": "2026-11-07T20:50+08:00",
    "status": "error",
    "error": "The read operation timed out"
+  },
+  "https://news.cts.com.tw/cna/local/202611/202611043097404.html": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://money.udn.com/money/story/5637/9854832": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T10:00+08:00",
+   "site_name": "經濟日報",
+   "description": "全新藝術博覽會《阿嬤的家 A Ma De Jia 2026》將於2026年12月11日至20日在雲林西螺登場。不同於傳統藝博會集中於大型展館與制式展位，首屆《阿嬤的家》以西螺延平老街為核心，串聯九處老屋及特色空間，邀請來自台灣及海外的畫廊與藝術家進駐，讓藝術作品直接與地方建築、歷史及居民生活產生對話。希望重新思考藝術博",
+   "cities": {
+    "雲林縣": 5,
+    "台北市": 3,
+    "台中市": 2,
+    "台南市": 2
+   },
+   "districts": [
+    "雲林縣西螺鎮延平老街商圈（雲林縣）"
+   ],
+   "body_chars": 2443,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/03/35481533.jpg&M=1&s=Y&x=0&y=0&sw=1114&sh=1633&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.setn.com/news/1933229": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T17:30+08:00",
+   "site_name": "三立新聞網",
+   "description": "人氣生活雜貨品牌3COINS台灣第2間門市於11月5日在誠品生活南西正式開幕，除鎖定中山商圈客群外，更全新引進追星收藏、寵物用品與毛線手作等商品，社群熱議的一鍵按壓式製冰盒也同步開賣。另一方面，IKEA則搶先迎接聖誕節，推出充滿玩心創意與北歐經典風格的全新裝飾系列，將熱狗堡與冰淇淋變身聖誕樹吊飾，為居家生活與節慶佈置帶",
+   "cities": {
+    "桃園市": 2
+   },
+   "districts": [
+    "中山商圈（台北市）"
+   ],
+   "body_chars": 2061,
+   "image": "https://attach.setn.com/newsimages/2026/11/04/5774460-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%89%B5-%E9%AB%98%E9%9B%84%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E8%A8%AD-%E6%A8%99%E7%B7%9A%E5%9E%8B%E5%9C%93%E7%92%B0-%E4%BA%8B%E6%95%85%E9%99%8D%E4%BD%8E/ar-AA2gJ3Gb": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://tw.news.yahoo.com/%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E6%96%BD%E5%B7%A5%E6%8C%A8%E6%89%B9%E5%B0%8E%E8%87%B4%E5%BA%97%E5%AE%B6-%E5%B1%85%E6%B0%91%E4%B8%8D%E4%BE%BF-%E5%9C%96-112049290.html": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T19:20+08:00",
+   "site_name": "Yahoo News",
+   "description": "民眾黨彰化縣議員吳韋達4日針對彰化市永樂商圈道路改善工程提出質疑，他指出，工程開挖後發生店家住戶只能鋪木板跨越側溝進出狀況，部分工區護欄也不完整，要求縣府積極協助受損店家與居民。",
+   "cities": {
+    "台北市": 18,
+    "彰化縣": 4,
+    "桃園市": 3,
+    "高雄市": 3,
+    "宜蘭縣": 2
+   },
+   "districts": [
+    "永樂商圈（台北市）",
+    "永樂商圈（彰化縣）"
+   ],
+   "body_chars": 2531,
+   "image": "https://media.zenfs.com/ko/cna.com.tw/12368c67b96e006736ffce220426d27e.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chilling.tw/article/90433": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T17:05+08:00",
+   "site_name": "潮癮CHILLING",
+   "description": "韓國人氣品牌 aeae 日前正式宣布將於 11 月 11 日正式在台北中山商圈迎來「全台首間旗艦店」盛大開幕，這個將標誌性 Y2K 復古美學與街頭風格完美結合的人氣品牌，本次隆重進駐台北中山，除了完整呈現品牌世界觀外，更將全面上架與首爾同步的最新 2026 秋冬系列與經典熱銷款式。",
+   "cities": {
+    "台北市": 9
+   },
+   "districts": [
+    "中山商圈（台北市）"
+   ],
+   "body_chars": 652,
+   "image": "https://img.chilling.tw/images/a/Lui/Lui%202026/aeae%20%E4%B8%AD%E5%B1%B1%E6%97%97%E8%89%A6%E5%BA%97%2033.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%89%B5-%E9%AB%98%E9%9B%84%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E8%A8%AD-%E6%A8%99%E7%B7%9A%E5%9E%8B%E5%9C%93%E7%92%B0-%E4%BA%8B%E6%95%85%E9%99%8D%E4%BD%8E-085859719.html": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T16:58+08:00",
+   "site_name": "Yahoo News",
+   "description": "南部中心／曾依翔 廖錦雄 鄧山田 高雄市報導百貨公司或是菜市場附近的多叉路口，常會擦撞車禍，高雄市交通局在三多百貨商圈首創全台首個標線型圓環，另外也在肉豆公傳統菜市場，完成標線型圓環，附近攤商很有感，直呼事故真的有減少，交通局統計，標線型圓環設置後，事故意外降了三分之二。",
+   "cities": {
+    "高雄市": 15,
+    "台北市": 14,
+    "桃園市": 3,
+    "宜蘭縣": 2,
+    "新北市": 1
+   },
+   "districts": [
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 3210,
+   "image": "https://media.zenfs.com/ko/ftvn.com.tw/5a9d8741941bfafac8e6f7c7506b18ad.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.cts.com.tw/cts/local/202610/202610263094022.html": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.watchmedia01.com/archives/564050": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.msn.com/zh-tw/%E6%8A%80%E8%A1%93/iot/%E4%B8%AD%E5%B8%827%E6%9C%9F%E5%95%86%E5%9C%88%E8%A8%AD%E6%99%BA%E6%85%A7%E8%AD%A6%E7%A4%BA%E7%B3%BB%E7%B5%B1-%E6%8F%90%E9%86%92%E9%A7%95%E9%A7%9B%E4%BA%BA%E6%8F%90%E9%AB%98%E8%AD%A6%E8%A6%BA/ar-AA2gWtBC": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.ftvnews.com.tw/news/detail/2026B04U05M1": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T16:58+08:00",
+   "site_name": "民視新聞網",
+   "description": "南部中心／曾依翔　廖錦雄　鄧山田　高雄市報導百貨公司或是菜市場附近的多叉路口，常會擦撞車禍，高雄市交通局在三多百貨商圈首創全台首個標線型圓環，另外也在肉豆公傳統菜市場，完成標線型圓環，附近攤商很有感，直呼事故真的有減少，交通局統計，標線型圓環設置後，事故意外降了三分之二。",
+   "cities": {
+    "高雄市": 11,
+    "新北市": 1
+   },
+   "districts": [
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 1053,
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/112bc4d6-d875-440e-8d57-b1aa58b573bc.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cdns.com.tw/articles/1483649": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.cdns.com.tw/articles/1484010": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%89%B5-%E9%AB%98%E9%9B%84%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E8%A8%AD-%E6%A8%99%E7%B7%9A%E5%9E%8B%E5%9C%93%E7%92%B0-%E4%BA%8B%E6%95%85%E5%A4%A7%E6%B8%9B-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2gIFX6": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.cdns.com.tw/articles/1479710": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%89%B5-%E9%AB%98%E9%9B%84%E4%B8%89%E5%A4%9A%E5%95%86%E5%9C%88%E8%A8%AD%E6%A8%99%E7%B7%9A%E5%9E%8B%E5%9C%93%E7%92%B0-%E4%BA%8B%E6%95%85%E5%A4%A7%E6%B8%9B-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2gIlv4": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://n.yam.com/Article/20261104165597": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T13:58+08:00",
+   "site_name": "蕃新聞",
+   "description": "報新聞/編輯部嘉義縣政府辦理「115年嘉義縣商圈聯合購物節－嘉尚好禮」，串聯全縣19大商圈及17家觀",
+   "cities": {
+    "嘉義縣": 26
+   },
+   "districts": [
+    "鹿草風華商圈（嘉義縣）",
+    "朴子市魅力商圈（嘉義縣）",
+    "民雄商圈（嘉義縣）"
+   ],
+   "body_chars": 1476,
+   "image": "https://ni.yam.com/20261104/chiayi-cover-261104051332117-4b942dbffe4333cd.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chilling.tw/article/90430": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T16:02+08:00",
+   "site_name": "潮癮CHILLING",
+   "description": "台灣設計品牌 ANOWHEREMAN 日前曝光與品牌 WTNC (When The Night Comes) 合作的首度聯名系列，全系列不但將推出 7 款新品，也將在 11 月 6 日登陸中山商圈新興空間 ANOTHEROOM 展開實體快閃店，除了將獨家搶先發售本次聯名外，雙方也將帶來各自人氣品項和折扣活動。",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [
+    "赤峰街商圈（台北市）",
+    "中山商圈（台北市）"
+   ],
+   "body_chars": 977,
+   "image": "https://img.chilling.tw/images/a/Lui/Lui%202026/101698053.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://fashion.ettoday.net/news/3265139": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T20:22+08:00",
+   "site_name": "ET Fashion",
+   "description": "日本生活雜貨品牌 3COINS 繼台北西門町首店落腳後，台灣第 2 間門市正式宣布進駐中山商圈「誠品生活南西」地下一樓，預計 11／5 下午 2 點半正式對外開幕，除延續熱銷的日常生活雜貨，更進一步擴充寵物用品、公仔收藏收納與毛線手作三大品類，在網路上熱烈討論的「一鍵按壓式製冰盒」新品也正式登場，開幕首兩日消費前 50",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [
+    "中山商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1473,
+   "image": "https://cdn2.ettoday.net/images/8997/e8997103.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cdns.com.tw/articles/1484196": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://news.cts.com.tw/cts/politics/202611/202611013096051.html": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.setn.com/news/1933606": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T03:30+08:00",
+   "site_name": "三立新聞網",
+   "description": "日本創作歌手藤井風結束高雄演唱會後，無預警於YouTube釋出《青春病高雄版》完整版MV。影片結合演唱會現場音源與復古質感，記錄他造訪果貿社區、三鳳中街及蓮池潭北極亭等在地景點，與長輩親切互動的溫馨畫面。MV上架即引爆全球粉絲熱議，不僅勾起高雄人的在地記憶，更讓大批海內外歌迷大讚其完美融入當地文化的超強親和力，為高雄行",
+   "cities": {
+    "高雄市": 15,
+    "台北市": 2
+   },
+   "districts": [
+    "三鳳中街（高雄市）",
+    "蓮池潭商圈（高雄市）"
+   ],
+   "body_chars": 1582,
+   "image": "https://attach.setn.com/newsimages/2026/11/04/5775365-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://3kingtw.com/4007/": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T06:18+08:00",
+   "site_name": "鑫台灣財經網",
+   "description": "鑫台灣財經網／王崇如／台南報導",
+   "cities": {
+    "台南市": 15
+   },
+   "districts": [],
+   "body_chars": 862,
+   "image": "https://3kingtw.com/wp-content/uploads/2026/11/e5a8a74fc7ea777.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/travel/%E4%B8%80%E8%88%AC/2026%E5%8F%B0%E5%8C%97%E7%99%BD%E6%99%9D%E4%B9%8B%E5%A4%9C%E5%9C%A8%E5%9C%93%E5%B1%B1-6%E5%A4%A7%E5%B1%95%E5%8D%80%E5%85%8D%E8%B2%BB%E6%8B%8D%E5%88%B0%E5%87%8C%E6%99%A82%E9%BB%9E-%E7%BE%8E%E9%A3%9F%E5%B8%82%E9%9B%86-%E4%BA%A4%E9%80%9A%E7%AE%A1%E5%88%B6%E5%85%88%E7%9C%8B/ar-AA2gzcT7": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://star.setn.com/news/1933606": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T03:30+08:00",
+   "site_name": "三立娛樂星聞",
+   "description": "日本創作歌手藤井風結束高雄演唱會後，無預警於YouTube釋出《青春病高雄版》完整版MV。影片結合演唱會現場音源與復古質感，記錄他造訪果貿社區、三鳳中街及蓮池潭北極亭等在地景點，與長輩親切互動的溫馨畫面。MV上架即引爆全球粉絲熱議，不僅勾起高雄人的在地記憶，更讓大批海內外歌迷大讚其完美融入當地文化的超強親和力，為高雄行",
+   "cities": {
+    "高雄市": 14
+   },
+   "districts": [
+    "三鳳中街（高雄市）",
+    "蓮池潭商圈（高雄市）"
+   ],
+   "body_chars": 973,
+   "image": "https://attach.setn.com/newsimages/2026/11/04/5775365-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261103295942": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T17:50+08:00",
+   "site_name": "蕃新聞",
+   "description": "(中央社訊息服務20261103 17:51:30)嘉義縣政府辦理「115年嘉義縣商圈聯",
+   "cities": {
+    "嘉義縣": 26
+   },
+   "districts": [
+    "鹿草風華商圈（嘉義縣）",
+    "朴子市魅力商圈（嘉義縣）",
+    "民雄商圈（嘉義縣）"
+   ],
+   "body_chars": 1493,
+   "image": "https://ni.yam.com/20261103/00448893.20261103153870817m-9d09fc3708186101.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://ccss3172.blogspot.com/2026/10/blog-post_74.html": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T19:31+08:00",
+   "site_name": "Blogger",
+   "description": null,
+   "cities": {
+    "台中市": 6
+   },
+   "districts": [
+    "豐原廟東復興商圈（台中市）"
+   ],
+   "body_chars": 556,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cdns.com.tw/articles/1483996": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://news.pchome.com.tw/society/ctinews/20261107/index-79405341552430309002.html": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.cna.com.tw/news/aloc/202611040292.aspx": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T18:26+08:00",
+   "site_name": "中央社 CNA",
+   "description": "民眾黨彰化縣議員吳韋達今天針對彰化市永樂商圈道路改善工程，質疑工程開挖後，發生店家住戶只能鋪木板跨越側溝進出，部分工區護欄也不完整，要求縣府協助受損店家與居民。",
+   "cities": {
+    "彰化縣": 9
+   },
+   "districts": [
+    "永樂商圈（台北市）",
+    "永樂商圈（彰化縣）"
+   ],
+   "body_chars": 789,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261104/576x1024_wmky_0_C20261104000207.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/money/%E4%B8%80%E8%88%AC/%E8%A5%BF%E9%96%80%E7%94%BA2%E6%99%9A6%E4%BA%BA%E6%88%BF4%E5%8D%83%E5%85%83%E9%81%AD%E5%8F%96%E6%B6%88-%E6%88%BF%E5%AE%A2-%E7%95%B6%E8%A1%97%E8%BF%BD%E6%8D%95%E8%90%BD%E8%B7%91%E6%A5%AD%E8%80%85-%E6%8E%A7%E6%83%A1%E6%84%8F%E7%A0%8D%E4%BE%BF%E5%AE%9C%E8%A8%82%E5%96%AE-%E6%B0%91%E6%80%A8%E8%AA%BF%E6%9F%A5%E5%B1%80/vi-AA2gX1hb": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://yuanfengmedia.tw/detail.php?type=gallery&id=62913": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "https://www.yuanfengmedia.tw/「台北安可」西門商圈吸抽室不夠？",
+   "cities": {
+    "台北市": 24,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 1855,
+   "image": "https://yuanfengmedia.tw/uploadfiles/l/20261107172750_91539.jpeg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://udn.com/news/story/7320/9857576": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T18:15+08:00",
+   "site_name": "聯合新聞網",
+   "description": "台北市中山商圈今下午有1名男子在商家舉辦活動時刻意碰撞現場紅絨柱，引發工作人員不滿，2人爆發肢體衝突，男子遭工作人員壓制在地，引發民眾關注並報警；警方表示，員警獲報介入時現場已無衝突情事，後續已將滋事男子帶返調查。",
+   "cities": {
+    "台北市": 5,
+    "台中市": 4,
+    "桃園市": 1,
+    "台南市": 1,
+    "雲林縣": 1
+   },
+   "districts": [
+    "中山商圈（台北市）"
+   ],
+   "body_chars": 1486,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35485643.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cdns.com.tw/articles/1482837": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://wantrich.chinatimes.com/news/20261104900468-420501": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T18:09+08:00",
+   "site_name": "旺得富理財網",
+   "description": "中聯油脂因致癌油停工，3成缺口引爆近期營業通路沙拉油荒。國營事業台糖今(4)日報喜訊，上次採購3000噸粗油進口流標，今日重新招標後，由大統益得標。預計本月中開始交貨，台糖將分4個月精煉，每月至少產出500噸沙拉油，合計可多提供市面2000噸食用沙拉油，對紓解油荒有一定助益。但是粗油成本上揚，台糖三...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 819,
+   "image": "https://wr-images.chinatimes.com/newsphoto/2026-11-04/1024/20261104900469.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.damanwoo.com/node/98122": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T09:10+08:00",
+   "site_name": "大人物",
+   "description": "經濟部商業發展署與台灣設計研究院跨域合作，啟動「商圈及傳統市場設計加值計畫」，透過設計導入「人、場、服務」三大面向，為台灣在地商圈與傳統市場注入新活力，提升整體競爭力與消費體驗。",
+   "cities": {
+    "台北市": 1,
+    "台中市": 1,
+    "屏東縣": 1,
+    "宜蘭縣": 1
+   },
+   "districts": [
+    "在地商圈（南投縣）",
+    "南方澳商圈（宜蘭縣）"
+   ],
+   "body_chars": 859,
+   "image": "https://cms.damanwoo.com/assets/ed008376-bf5b-4401-a7ba-0f498efa059e.jpg?format=jpg&quality=90",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/Opl7Gp6": {
+   "checked_at": "2026-11-07T21:21+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T20:51+08:00",
+   "site_name": "LINE TODAY",
+   "description": "〔記者王榮祥／高雄報導〕民進黨高雄市長候選人賴瑞隆三塊厝後援會今成立，他感謝鄉親力挺之餘，也喊話要跟三塊厝作伙拚，讓老街區迎向新風景！ 賴瑞...",
+   "cities": {
+    "高雄市": 6
+   },
+   "districts": [
+    "三鳳中街（高雄市）"
+   ],
+   "body_chars": 578,
+   "image": "https://today-obs.line-scdn.net/0hYCAvyXuuBmx8DxrmKg55O0RZCh1PaRxlXmpBWF4MUV1RIxU_RD5VD1oPXUBYaxVoXD5JA1APXl1ZPEY-FA/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
   }
  }
 }
