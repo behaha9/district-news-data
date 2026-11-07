@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-07T21:00:00+08:00",
+  "updated_at": "2026-11-08T07:30:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -198,7 +198,8 @@
           "urls": [
             "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845683",
             "https://udn.com/news/story/7326/9863687",
-            "https://n.yam.com/Article/20261107302950"
+            "https://n.yam.com/Article/20261107302950",
+            "https://udn.com/news/story/7326/9864300"
           ]
         },
         {
@@ -214,7 +215,8 @@
           "note": "豬油價格飆漲、小吃業者成本增",
           "representative": "https://news.tvbs.com.tw/life/4047271",
           "urls": [
-            "https://news.tvbs.com.tw/life/4047271"
+            "https://news.tvbs.com.tw/life/4047271",
+            "https://today.line.me/tw/v3/posts/list/article/3N1PVpr"
           ]
         },
         {

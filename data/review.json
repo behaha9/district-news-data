@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-07T20:56:29+08:00",
+ "updated_at": "2026-11-08T07:23:35+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -226,6 +226,11 @@
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-05"
+  },
+  "https://news.ebc.net.tw/news/society/579578": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-08"
   },
   "https://news.fclnews.com/58462": {
    "decision": "kept",
@@ -646,6 +651,16 @@
    "decision": "kept",
    "item": "20261031-tainan-shopping-30b",
    "at": "2026-11-04"
+  },
+  "https://yuanfengmedia.tw/detail.php?type=gallery&id=62913": {
+   "decision": "hidden",
+   "reason": "非商圈",
+   "at": "2026-11-08"
+  },
+  "https://yuanfengmedia.tw/detail.php?type=lastest&id=62913": {
+   "decision": "hidden",
+   "reason": "非商圈",
+   "at": "2026-11-08"
   }
  }
 }
