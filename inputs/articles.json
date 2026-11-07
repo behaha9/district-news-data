@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T14:16:41+08:00",
+ "fetched_at": "2026-11-07T16:50:38+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-11-04T20:51+08:00",
@@ -250,340 +250,6 @@
    "image": null,
    "image_checked": true,
    "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://newtalk.tw/news/view/2026-11-04/1069242": {
-   "checked_at": "2026-11-04T14:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T14:25+08:00",
-   "site_name": "Newtalk新聞",
-   "description": "國家住都中心今（4）日於新北市深坑區舉行「深坑安居」社會住宅新建統包工程動土典禮。該案為中央在新北市動土的第29處社宅，也是深坑區的首處，共計243戶居住單元，預計於2029年竣工，總工程經費約14億4,729萬元，由中央全額投資興建。「深坑安居」位於新北市深坑區文化街昇高橋旁，鄰近深坑國中、深坑國",
-   "cities": {
-    "新北市": 8,
-    "台北市": 1
-   },
-   "districts": [
-    "深坑老街商圈（新北市）"
-   ],
-   "body_chars": 667,
-   "image": "https://s.newtalk.tw/album/news/1070/6aeacf49649a0.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.pchome.com.tw/living/1111news/20261029/index-79323649560105358009.html": {
-   "checked_at": "2026-11-04T14:44+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T09:14+08:00",
-   "site_name": "PChome Online 新聞",
-   "description": "崑山科大於海安商圈舉行第五屆綠色永續市集，現場人潮湧現。（圖／崑山科大提供） 崑山科技大學積極落實大學社會責任（USR），深耕在地產業與環境永續發揮影響力， 10月24日至25日在海安商圈隆重舉辦「第",
-   "cities": {},
-   "districts": [
-    "海安商圈（台南市）"
-   ],
-   "body_chars": 272,
-   "image": "https://news.pchome.com.tw/newsdata/living/1111news/20261029/79323649560105358009_original.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/7241/9856917": {
-   "checked_at": "2026-11-04T14:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T14:11+08:00",
-   "site_name": "聯合新聞網",
-   "description": "國家住都中心4日於新北市深坑區舉行「深坑安居」社會住宅新建統包工程動土典禮。本案為中央在新北市動土的第29處社宅，也是深坑區的首處。243戶居住單元預計2029年竣工，總工程經費約14億4,729萬元，由中央全額投資興建。",
-   "cities": {
-    "新北市": 10,
-    "台中市": 2,
-    "台北市": 1,
-    "台南市": 1
-   },
-   "districts": [],
-   "body_chars": 1818,
-   "image": "https://udn.com/static/img/UDN_BABY.png",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/amp/story/7326/9856210": {
-   "checked_at": "2026-11-04T14:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T11:00+08:00",
-   "site_name": "聯合新聞網",
-   "description": "嘉義市中山路設置8組科技執法，針對並排停車、臨停等取締，累計取締1萬1300件，每月違規件數從460件大幅降至20件，交通順暢。不過，市議員上午質詢，科技執法雖改善交通，卻衝擊商圈擊，車水馬龍景象消失，店家門可羅雀，至少20間店面出租、閒置或出售，人潮不再，要求市府研議兼顧交通安全與商業繁榮作法。警局長陳明志答詢，會檢",
-   "cities": {
-    "嘉義市": 4
-   },
-   "districts": [],
-   "body_chars": 698,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35483446.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=800&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/society/breakingnews/5629065": {
-   "checked_at": "2026-11-04T14:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T14:22+08:00",
-   "site_name": "自由時報電子報",
-   "description": "新竹縣湖口鄉台灣松下多層材料公司今（4日）凌晨發生嚴重工廠火警，衝擊波威力驚人，附近有民宅和其他公司的玻璃門窗被震碎，整扇門變形、天花板掉落，滿地玻璃碎片，回想當時連二接三的爆炸聲響，讓周邊居民心有餘悸。這起火警已造成5名員工受傷送醫，另有2名員工失聯，消防人員持續灌救及搜救。湖口鄉長吳淑君表示，台灣松下公司承諾全權負",
-   "cities": {
-    "新竹縣": 6,
-    "桃園市": 1
-   },
-   "districts": [],
-   "body_chars": 1323,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/04/5629065_1_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5628919": {
-   "checked_at": "2026-11-04T14:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T12:25+08:00",
-   "site_name": "自由時報電子報",
-   "description": "嘉義縣鹿草風華特色文化商圈發展協會推廣台灣特產，日前到日本沖繩與社團法人琉球台灣工商協會簽署合作意向書（MOU），雙方將在特色農產與加工食品推廣、商業通路媒合、文化觀光及會員互訪進行合作，而鹿草商圈特色伴手禮如紅心土芭樂米餅、果乾、蜂蜜、產銷履歷米等商品將於今年12月在沖繩台灣餐館「Mr.WU台湾屋台丸」專櫃上架，讓沖",
-   "cities": {
-    "嘉義縣": 15,
-    "台南市": 1,
-    "高雄市": 1
-   },
-   "districts": [
-    "鹿草風華商圈（嘉義縣）"
-   ],
-   "body_chars": 1115,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/04/5628919_2_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/7326/9856799": {
-   "checked_at": "2026-11-04T14:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T13:34+08:00",
-   "site_name": "聯合新聞網",
-   "description": "明華園戲劇總團旗艦大戲「貓神」定14日周末晚間7時，在嘉義市東區舊燈會區（空軍市場）戶外演出，由「無敵小生」孫翠鳳領銜主演。這齣經典大戲原訂演出2度受到颱風影響延期，經文化局與劇團積極協調，終於敲定重新登場，將以華麗舞台、精湛演技及奇幻劇情，帶給嘉義市民一場歌仔戲藝術盛宴。",
-   "cities": {
-    "嘉義市": 26,
-    "台南市": 2,
-    "新北市": 1
-   },
-   "districts": [],
-   "body_chars": 2254,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35484368.jpg&M=1&s=Y&x=0&y=0&sw=1081&sh=720&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://nownews.com/news/6885475": {
-   "checked_at": "2026-11-04T14:44+08:00",
-   "status": 200,
-   "published_at": "2026-10-22T09:18+08:00",
-   "site_name": "NOWnews今日新聞",
-   "description": "強颱薔琵（國際命名：CHAMPI）已逐漸逼近，根據中央氣象署預報，週五（10月23日）至週六（10月24日）上半天是薔琵颱風影響台灣最明顯的時候。本周末多個活動將延期或取...",
-   "cities": {
-    "桃園市": 2,
-    "苗栗縣": 2
-   },
-   "districts": [],
-   "body_chars": 830,
-   "image": "https://media.nownews.com/nn_media/thumbnail/2026/10/1792631604606-8b9564e3de334f3986ab2d052773c968-1200x675.webp?unShow=false",
-   "image_checked": true,
-   "date_hint": "2026-10-22",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.msn.com/zh-tw/news/other/%E9%80%A3%E8%B7%91%E5%85%A9%E6%94%A4%E5%B8%82%E6%94%BF%E8%A1%8C%E7%A8%8B-%E8%94%A3%E8%90%AC%E5%AE%89%E7%99%BD%E6%99%9D%E4%B9%8B%E5%A4%9C%E9%9A%A8%E9%9B%BB%E9%9F%B3%E7%86%B1%E8%88%9E-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gvd7o": {
-   "checked_at": "2026-11-04T16:50+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://udn.com/news/story/7332/9849847": {
-   "checked_at": "2026-11-04T16:50+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T10:48+08:00",
-   "site_name": "聯合新聞網",
-   "description": "昨天萬聖節台北天母商圈、圓山花博等地都有相關活動，即便有人藉變裝諷刺時政或政治人物，民眾對此也多一笑置之，但中國大陸多地警方在萬聖節這天卻是如臨大敵，主要是因在新冠疫情解封後的2023年，上海街頭湧現大批頗具創意的角色扮演（Cosplay），許多年輕人藉由變裝隱晦表達不滿，自此萬聖節在中國就變成敏感節日。",
-   "cities": {
-    "台北市": 2,
-    "新竹市": 2,
-    "新北市": 1
-   },
-   "districts": [
-    "天母商圈（台北市）"
-   ],
-   "body_chars": 2155,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35473843.jpg&M=1&s=Y&x=0&y=0&sw=903&sh=602&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.taisounds.com/news/content/109/297162": {
-   "checked_at": "2026-11-04T16:50+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T18:38+08:00",
-   "site_name": "太報 TaiSounds",
-   "description": "一年一度的台北白晝之夜今（10/31）晚在圓山自然景觀公園登場，台北市長蔣萬安致詞時也宣布，明年巴黎白晝之夜將有台灣優秀藝術家前往展出，讓在地優秀藝術家作品，可以在巴黎展出，這是第一次有這樣的機會。",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [],
-   "body_chars": 216,
-   "image": "https://cdn.taisounds.com/newsimages/img/2026/1031/777e5c797ade4b7c83437af4ad860cf3.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261101496401": {
-   "checked_at": "2026-11-04T16:50+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T14:26+08:00",
-   "site_name": "蕃新聞",
-   "description": "報新聞/編輯部為活絡商圈發展並形塑商圈特色，臺北市商業處輔導台北後站批發商圈發展促進會辦理「第18屆",
-   "cities": {
-    "台北市": 11,
-    "基隆市": 1
-   },
-   "districts": [
-    "後站商圈（台北市）"
-   ],
-   "body_chars": 1404,
-   "image": "https://ni.yam.com/20261101/taipei-cover-261101045321191-bbd8451a50dd0f26.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/amp/news/life/breakingnews/5628919": {
-   "checked_at": "2026-11-04T16:50+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T12:25+08:00",
-   "site_name": "自由時報電子報",
-   "description": "嘉義縣鹿草風華特色文化商圈發展協會推廣台灣特產，日前到日本沖繩與社團法人琉球台灣工商協會簽署合作意向書（MOU），雙方將在特色農產與加工食品推廣、商業通路媒合、文化觀光及會員互訪進行合作，而鹿草商圈特色伴手禮如紅心土芭樂米餅、果乾、蜂蜜、產銷履歷米等商品將於今年12月在沖繩台灣餐館「Mr.WU台湾屋台丸」專櫃上架，讓沖",
-   "cities": {
-    "嘉義縣": 16,
-    "台東縣": 1
-   },
-   "districts": [
-    "鹿草風華商圈（嘉義縣）"
-   ],
-   "body_chars": 1270,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/04/5628919_2_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/vote2026/story/7241/9856917": {
-   "checked_at": "2026-11-04T16:50+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T14:11+08:00",
-   "site_name": "聯合新聞網",
-   "description": "國家住都中心4日於新北市深坑區舉行「深坑安居」社會住宅新建統包工程動土典禮。本案為中央在新北市動土的第29處社宅，也是深坑區的首處。243戶居住單元預計2029年竣工，總工程經費約14億4,729萬元，由中央全額投資興建。",
-   "cities": {
-    "新北市": 10,
-    "台中市": 2,
-    "台北市": 1,
-    "台南市": 1
-   },
-   "districts": [],
-   "body_chars": 1823,
-   "image": "https://udn.com/static/img/UDN_BABY.png",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ftnn.com.tw/news/591958": {
-   "checked_at": "2026-11-04T16:50+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T14:20+08:00",
-   "site_name": "FTNN 新聞網",
-   "description": "記者林欣愉／綜合報導適逢萬聖節，台北市信義商圈昨（31）日舉行「古今穿越變裝派對」活動，吸引許多民眾變裝參與，歡度節日。然而，商圈周邊卻接連傳出衝突事件。信義區松壽路20巷口有2名男子各自駕車，疑因變換車道問題發生行車糾紛；約2小時後，同一巷弄又傳出肢體衝突，相關影片在社群媒體流傳。警方表示，第二起...",
-   "cities": {
-    "台北市": 3,
-    "屏東縣": 1
-   },
-   "districts": [],
-   "body_chars": 1474,
-   "image": "https://i01.ftnn.com.tw/a/26/304/26304142449279617e3a98.png",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.mnews.tw/story/20261101sot1122001": {
-   "checked_at": "2026-11-04T16:50+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T11:22+08:00",
-   "site_name": "鏡新聞",
-   "description": "台北市長蔣萬安昨天（31日）才參加電視辯論，下午又接連參加同志大遊行，以及晚間的白晝之夜活動，由於現場有電子舞曲播放，他也短暫隨著音樂跳舞擺動；結束市政行程後，他又馬不停蹄，前往晴光商圈拜票，而這也是他掛病號，第一個掃街行程，現場還有攤商送上知名豬腳，他不忘前幾天「代夫出征」的妻子石舫亘，立馬說，要帶回去給老婆吃；不過",
-   "cities": {
-    "台北市": 2
-   },
-   "districts": [
-    "晴光商圈（台北市）"
-   ],
-   "body_chars": 391,
-   "image": "https://statics.mnews.tw/images/91169f2f-a250-407e-9c9f-3dc8843038bb-w1600.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/Taichung/breakingnews/5629280": {
-   "checked_at": "2026-11-04T16:50+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T16:14+08:00",
-   "site_name": "自由時報電子報",
-   "description": "信民協會3日公布台中市長民調，前立委沈富雄昨天在少康戰情室節目表示，國民黨的民調從雙北到台中懸崖式掉落，災情將非常慘重，民進黨台中市長何欣純表示，台中市這幾年接連發生很多問題，治安、公安、兒虐、校安到非洲豬瘟及跟今年中聯油品食安問題，市民看不到市府拿出解方，因此民調可看對國民黨的不滿。何欣純今天在推出新競選影片受訪回應",
-   "cities": {
-    "台中市": 19
-   },
-   "districts": [],
-   "body_chars": 848,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/04/5629280_1_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ebc.net.tw/news/living/578529": {
-   "checked_at": "2026-11-04T16:50+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T16:32+08:00",
-   "site_name": "東森新聞",
-   "description": "年底尾牙、年菜旺季將至，中聯油遭勒令停工造成沙拉油、耐炸油缺貨，價格漲幅接近2成，飯店業者預估桌菜價格恐調漲約5％。",
-   "cities": {},
-   "districts": [],
-   "body_chars": 719,
-   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/01/1793547351_82023.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E8%80%81%E8%A1%97%E6%BA%AA%E8%88%AA%E5%BF%83%E6%A9%8B%E4%B8%8A%E6%B8%B8%E6%AD%A5%E9%81%93%E6%98%8E%E5%B9%B42%E6%9C%88%E5%8B%95%E5%B7%A5-132231577.html": {
-   "checked_at": "2026-11-04T16:50+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T21:22+08:00",
-   "site_name": "Yahoo News",
-   "description": "桃園市長張善政昨（二）日前往大園區，視察「老街溪航心橋上游左岸新設人行步道工程」。張善政表示，航心橋上游步道長度雖僅約一百公尺，卻是串聯老街溪兩岸步道系統的核心關鍵節點。市府現已完成全盤規劃，預計一一六年二月正式動工、六月竣工，期盼有效改善人車交織狀況，提供市民更安全便利的親水環境。張善政指出，該段步道完工後，將能順暢",
-   "cities": {
-    "台北市": 14,
-    "桃園市": 14,
-    "新竹市": 11,
-    "台中市": 2,
-    "新北市": 1
-   },
-   "districts": [],
-   "body_chars": 4000,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-11-02",
    "date_hint_from": "原文時間"
   },
   "https://www.setn.com/news/1933229": {
@@ -8969,7 +8635,7 @@
    "date_hint_from": "原文時間"
   },
   "https://life.tw/article/經濟部改造全台四大商圈市場-導入設計改善動線與消費環境-3207568": {
-   "checked_at": "2026-11-07T08:59+08:00",
+   "checked_at": "2026-11-07T16:50+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 13-25: ordinal not in range(128)"
   },
@@ -10029,6 +9695,375 @@
    "districts": [],
    "body_chars": 1327,
    "image": "https://cdn2.ettoday.net/images/9004/e9004702.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/amp/story/7326/9856210": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T11:00+08:00",
+   "site_name": "聯合新聞網",
+   "description": "嘉義市中山路設置8組科技執法，針對並排停車、臨停等取締，累計取締1萬1300件，每月違規件數從460件大幅降至20件，交通順暢。不過，市議員上午質詢，科技執法雖改善交通，卻衝擊商圈擊，車水馬龍景象消失，店家門可羅雀，至少20間店面出租、閒置或出售，人潮不再，要求市府研議兼顧交通安全與商業繁榮作法。警局長陳明志答詢，會檢",
+   "cities": {
+    "嘉義市": 4
+   },
+   "districts": [],
+   "body_chars": 698,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35483446.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pchome.com.tw/living/1111news/20261029/index-79323649560105358009.html": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E9%80%A3%E8%B7%91%E5%85%A9%E6%94%A4%E5%B8%82%E6%94%BF%E8%A1%8C%E7%A8%8B-%E8%94%A3%E8%90%AC%E5%AE%89%E7%99%BD%E6%99%9D%E4%B9%8B%E5%A4%9C%E9%9A%A8%E9%9B%BB%E9%9F%B3%E7%86%B1%E8%88%9E-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gvd7o": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://n.yam.com/Article/20261101496401": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T14:26+08:00",
+   "site_name": "蕃新聞",
+   "description": "報新聞/編輯部為活絡商圈發展並形塑商圈特色，臺北市商業處輔導台北後站批發商圈發展促進會辦理「第18屆",
+   "cities": {
+    "台北市": 11
+   },
+   "districts": [
+    "後站商圈（台北市）"
+   ],
+   "body_chars": 1403,
+   "image": "https://ni.yam.com/20261101/taipei-cover-261101045321191-bbd8451a50dd0f26.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ftnn.com.tw/news/591958": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T14:20+08:00",
+   "site_name": "FTNN 新聞網",
+   "description": "記者林欣愉／綜合報導適逢萬聖節，台北市信義商圈昨（31）日舉行「古今穿越變裝派對」活動，吸引許多民眾變裝參與，歡度節日。然而，商圈周邊卻接連傳出衝突事件。信義區松壽路20巷口有2名男子各自駕車，疑因變換車道問題發生行車糾紛；約2小時後，同一巷弄又傳出肢體衝突，相關影片在社群媒體流傳。警方表示，第二起...",
+   "cities": {
+    "台北市": 4,
+    "台東縣": 2,
+    "台南市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1452,
+   "image": "https://i01.ftnn.com.tw/a/26/304/26304142449279617e3a98.png",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7332/9849847": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T10:48+08:00",
+   "site_name": "聯合新聞網",
+   "description": "昨天萬聖節台北天母商圈、圓山花博等地都有相關活動，即便有人藉變裝諷刺時政或政治人物，民眾對此也多一笑置之，但中國大陸多地警方在萬聖節這天卻是如臨大敵，主要是因在新冠疫情解封後的2023年，上海街頭湧現大批頗具創意的角色扮演（Cosplay），許多年輕人藉由變裝隱晦表達不滿，自此萬聖節在中國就變成敏感節日。",
+   "cities": {
+    "台北市": 2,
+    "新竹市": 2,
+    "新北市": 1
+   },
+   "districts": [
+    "天母商圈（台北市）"
+   ],
+   "body_chars": 2078,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35473843.jpg&M=1&s=Y&x=0&y=0&sw=903&sh=602&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261107394074": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T13:54+08:00",
+   "site_name": "蕃新聞",
+   "description": "日本神戶市小松副市長及高四代總會長等一行前往桃園市政府拜訪張善政市長合影。(圖/主辦 提供)【警政時",
+   "cities": {
+    "桃園市": 26,
+    "台北市": 1
+   },
+   "districts": [
+    "中壢車站商圈（桃園市）",
+    "藝文商圈（桃園市）",
+    "角板山商圈（桃園市）",
+    "枕頭山商圈（桃園市）"
+   ],
+   "body_chars": 1907,
+   "image": "https://ni.yam.com/20261107/145649-4e69a7ea93283ade.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taisounds.com/news/content/109/297162": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T18:38+08:00",
+   "site_name": "太報 TaiSounds",
+   "description": "一年一度的台北白晝之夜今（10/31）晚在圓山自然景觀公園登場，台北市長蔣萬安致詞時也宣布，明年巴黎白晝之夜將有台灣優秀藝術家前往展出，讓在地優秀藝術家作品，可以在巴黎展出，這是第一次有這樣的機會。",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 216,
+   "image": "https://cdn.taisounds.com/newsimages/img/2026/1031/777e5c797ade4b7c83437af4ad860cf3.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5628919": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T12:25+08:00",
+   "site_name": "自由時報電子報",
+   "description": "嘉義縣鹿草風華特色文化商圈發展協會推廣台灣特產，日前到日本沖繩與社團法人琉球台灣工商協會簽署合作意向書（MOU），雙方將在特色農產與加工食品推廣、商業通路媒合、文化觀光及會員互訪進行合作，而鹿草商圈特色伴手禮如紅心土芭樂米餅、果乾、蜂蜜、產銷履歷米等商品將於今年12月在沖繩台灣餐館「Mr.WU台湾屋台丸」專櫃上架，讓沖",
+   "cities": {
+    "嘉義縣": 15
+   },
+   "districts": [
+    "鹿草風華商圈（嘉義縣）"
+   ],
+   "body_chars": 1059,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/04/5628919_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.contentplatform.info/articles/566359/%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E7%89%B9%E8%89%B2%E4%BA%AE%E9%BB%9E%E5%BD%A2%E5%A1%91%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E3%80%80%E5%BC%B5%E5%96%84%E6%94%BF%EF%BC%9A%E6%B7%B1%E5%8C%96%E4%B8%80/": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T09:20+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "桃園市長張善政6日晚間前往桃園區，出席「115年桃園市商圈特色亮點形塑成果發表會」。張市長表示，桃園商圈涵蓋山區、濱海及都會地帶，各具文化底蘊與產業特色，市府將持續推動「一商圈一特色」，整合經發、文化及農業等跨局處資源，協助商圈發掘在地特色、強化品牌行銷，讓桃園特色商圈走向全臺，進一步提升地方產業…",
+   "cities": {
+    "桃園市": 19
+   },
+   "districts": [],
+   "body_chars": 926,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/07091951/31136e66-723a-4335-a5cd-22fc8476d46f-scaled.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mnews.tw/story/20261101sot1122001": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T11:22+08:00",
+   "site_name": "鏡新聞",
+   "description": "台北市長蔣萬安昨天（31日）才參加電視辯論，下午又接連參加同志大遊行，以及晚間的白晝之夜活動，由於現場有電子舞曲播放，他也短暫隨著音樂跳舞擺動；結束市政行程後，他又馬不停蹄，前往晴光商圈拜票，而這也是他掛病號，第一個掃街行程，現場還有攤商送上知名豬腳，他不忘前幾天「代夫出征」的妻子石舫亘，立馬說，要帶回去給老婆吃；不過",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [
+    "晴光商圈（台北市）"
+   ],
+   "body_chars": 391,
+   "image": "https://statics.mnews.tw/images/91169f2f-a250-407e-9c9f-3dc8843038bb-w1600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=649709": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "青年日報",
+   "description": "記者張益銘／臺中報導 中市府交通局為行人安全再添科技助力！近來很多到新光三越、大遠百商圈周邊消費、觀光的民眾，發現台灣大道與惠來路口地面也會發出紅綠燈訊號。市府交通局長葉昭甫今（7）日表示，這套「智慧行人安全警示系統」，結合AI智慧攝影機、地嵌式警示燈及投射式紅綠燈，建置辨識人車動態的智慧小幫手，在行人停留於穿越道時主",
+   "cities": {
+    "台中市": 2
+   },
+   "districts": [],
+   "body_chars": 1164,
+   "image": "https://www.ydn.com.tw/api/ugc_imagehandler.ashx?NFID=1064529",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://n.yam.com/Article/20261106692970": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T11:21+08:00",
+   "site_name": "蕃新聞",
+   "description": "【記者 王苡蘋╱高雄 報導】民進黨高雄市長候選人賴瑞隆今（6）日發布短影音，記錄他在新住民陪同下走訪",
+   "cities": {
+    "高雄市": 11
+   },
+   "districts": [],
+   "body_chars": 653,
+   "image": "https://ni.yam.com/20261106/9ade2f26420528c16a606852b72e6e3b-a762d6dc10d1d43e.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261107302950": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T14:07+08:00",
+   "site_name": "蕃新聞",
+   "description": "臺南市政府經濟發展局11月6日發布新聞稿指出，近期部分餐飲業者與傳統市場攤商反映桶裝沙拉油供應不足、",
+   "cities": {
+    "台南市": 6
+   },
+   "districts": [],
+   "body_chars": 1060,
+   "image": "https://ni.yam.com/20261107/tainan-cooking-oil-supply-44a14bdbde64daf2.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.scooptw.com/taiwanpost/551064/%E5%95%86%E5%9C%88%E6%A3%8B%E7%89%8C%E7%A4%BE%E6%9A%97%E7%87%9F%E9%BA%BB%E5%B0%87%E8%B3%AD%E5%A0%B4-%E8%90%AC%E8%8F%AF%E8%AD%A6%E7%B2%BE%E6%BA%96%E4%BD%88%E7%BD%B2%E4%B8%80%E7%B6%B2%E6%89%93/": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T12:13+08:00",
+   "site_name": "獨家報導",
+   "description": "圖說：發言人臺北市萬華分局西門町派出所長陳韋勳。 【民眾網編輯方笙楠臺北報導】臺北市萬華分局西門町派出所日前接獲線報，指中華路一段有棋牌社佯裝合法經營，實則暗營非法職業賭場，分局獲報立即組成專案小組監控蒐證，掌握不法事證後，115年11月3日持臺灣臺北地方法院核發搜索票執行查緝，當場查獲現場負責人1人、工作人員1人、賭",
+   "cities": {
+    "台北市": 7
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 485,
+   "image": "https://img.pressunion.net/wp-content/uploads/2026/11/MEITU_20261107_121107328-300x169.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taichung.gov.tw/3409037/post": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "臺中市政府全球資訊網",
+   "description": "行人安全大禮包、地面也會亮紅燈！中市交通局7期商圈設置智慧行人安全警示系統",
+   "cities": {
+    "台中市": 2
+   },
+   "districts": [],
+   "body_chars": 1316,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.ltn.com.tw/amp/news/life/breakingnews/5628919": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T12:25+08:00",
+   "site_name": "自由時報電子報",
+   "description": "嘉義縣鹿草風華特色文化商圈發展協會推廣台灣特產，日前到日本沖繩與社團法人琉球台灣工商協會簽署合作意向書（MOU），雙方將在特色農產與加工食品推廣、商業通路媒合、文化觀光及會員互訪進行合作，而鹿草商圈特色伴手禮如紅心土芭樂米餅、果乾、蜂蜜、產銷履歷米等商品將於今年12月在沖繩台灣餐館「Mr.WU台湾屋台丸」專櫃上架，讓沖",
+   "cities": {
+    "嘉義縣": 16,
+    "台中市": 1,
+    "台南市": 1,
+    "雲林縣": 1
+   },
+   "districts": [
+    "鹿草風華商圈（嘉義縣）"
+   ],
+   "body_chars": 1285,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/04/5628919_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://nownews.com/news/6885475": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-10-22T09:18+08:00",
+   "site_name": "NOWnews今日新聞",
+   "description": "強颱薔琵（國際命名：CHAMPI）已逐漸逼近，根據中央氣象署預報，週五（10月23日）至週六（10月24日）上半天是薔琵颱風影響台灣最明顯的時候。本周末多個活動將延期或取...",
+   "cities": {
+    "桃園市": 2,
+    "苗栗縣": 2,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 828,
+   "image": "https://media.nownews.com/nn_media/thumbnail/2026/10/1792631604606-8b9564e3de334f3986ab2d052773c968-1200x675.webp?unShow=false",
+   "image_checked": true,
+   "date_hint": "2026-10-22",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mirrormedia.mg/external/mirrordaily_96265": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T21:17+08:00",
+   "site_name": "鏡週刊 Mirror Media",
+   "description": "距離九合一大選倒數22天，民進黨籍候選人沈伯洋今天（6日）晚間盛大舉辦社群派對「戒慎恐懼之夜」，台北市長蔣萬安則是接力前往東區商圈掃街，並回防本命區遼寧夜市沿途拜票，一路上有不少民眾搶合照。值得注意的是，蔣萬安在掃街途中兩度經過貼著「洋流」海報的店家，他也主動走進去握手致意。",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 656,
+   "image": "https://statics-prod.mirrordaily.news/images/bf5776de-82d4-474c-906b-64c1d9b781a0-w1600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taiwanhot.net/news/focus/1153238/%E6%A1%83%E5%B8%82%E5%BA%9C%E6%93%B4%E5%A4%A7%E5%95%86%E7%94%A8%E5%BB%9A%E9%A4%98%E6%A9%9F%E8%A3%9C%E5%8A%A9%E9%96%80%E6%AA%BB+%E5%95%86%E5%9C%88%E3%80%81%E5%A4%9C%E5%B8%82%E3%80%81%E5%B8%82%E5%A0%B4%E7%9A%86%E5%8F%AF%E7%94%B3%E8%AB%8B%E8%A3%9C%E5%8A%A9/77/%E6%A1%83%E5%9C%92": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "台灣好新聞",
+   "description": "桃園市政府率全國之先推出「商用廚餘機補助計畫」，獲得團膳業、餐飲業者一致好評。市府為進一步減輕中小型餐飲業者的負擔並擴大減量效益，特將商圈、傳統市場及夜市管理機構納入補助範圍，並將設備設計處理量增加100公斤至50公斤機型，同時展延申請期限至116年8月31日，藉以鼓勵更多業者投入廚餘及廢油脂回收，",
+   "cities": {
+    "桃園市": 6
+   },
+   "districts": [],
+   "body_chars": 1312,
+   "image": "https://www.taiwanhot.net/cache/1316737/lg/medias-20261106-6aed74db394a2.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://news.ebc.net.tw/news/living/578529": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T16:32+08:00",
+   "site_name": "東森新聞",
+   "description": "年底尾牙、年菜旺季將至，中聯油遭勒令停工造成沙拉油、耐炸油缺貨，價格漲幅接近2成，飯店業者預估桌菜價格恐調漲約5％。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 729,
+   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/01/1793547351_82023.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://woman.udn.com/woman/amp/story/123162/9863693": {
+   "checked_at": "2026-11-07T16:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T13:39+08:00",
+   "site_name": "udn 女子漾",
+   "description": "【台灣好行795木柵平溪線】台北平溪一日遊推薦！貓空纜車、菁桐老街、十分瀑布、天燈祈願一日遊行程",
+   "cities": {
+    "台北市": 3,
+    "新北市": 2
+   },
+   "districts": [],
+   "body_chars": 2048,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35495126.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=900&sl=W&fw=800&exp=3600",
    "image_checked": true,
    "date_hint": "2026-11-07",
    "date_hint_from": "原文時間"
