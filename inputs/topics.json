@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T21:20:59+08:00",
+ "updated_at": "2026-11-08T07:17:13+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,24 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "桶裝沙拉油大缺貨、價飆破千…台南小吃業者喊苦 市府協調供應查囤貨",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WTnVfbzlodzQ0aXVrcVctVlZmdGxLZTZsbWxWblJCemhKaUF3Snk3MkRIVDFOQ0JMVkZBVVVXRXBVTW9UM3dQdGdsM0RvNUVo0gFWQVVfeXFMUGl6WVdvV3A0X1ZpY3ZNMUVSR1ptaEUyV09qUUU5Z0hlOFU2UUNDTjhwbHZrWk1LVnlhRnRYbkV4OWNqWVo5QmNqSG41VU0tbG9JQV9ScHc?oc=5",
+     "source": "UDN",
+     "published_at": "2026-11-08T00:00+08:00",
+     "url": "https://udn.com/news/story/7326/9864300",
+     "resolved": true
+    },
+    {
+     "title": "討論牆 | 補油缺口！豬油價格飆漲4成 小吃業者每月成本多花3千",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BamVCbzMydTh3bE5lNllKc2YzbTVVcmMtMU5lUWFlajlVVTdfWVl2UmRDMUpzUEgwNzJxMXFVcUxtYzZNTTVrWms1cVRGLWlULXc0Y3k4RGNDSmkyR21BSlZmSXE?oc=5",
+     "source": "LINE TODAY",
+     "published_at": "2026-11-07T21:18+08:00",
+     "url": "https://today.line.me/tw/v3/posts/list/article/3N1PVpr",
+     "resolved": true
+    },
     {
      "title": "補油缺口！豬油價格飆漲4成 小吃業者每月成本多花3千",
      "kind": "店家相關",
