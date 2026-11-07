@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-07T07:18:51+08:00",
+ "generated_at": "2026-11-07T12:18:54+08:00",
  "items": [
   {
    "id": "20261106-dongqu-anniv",
@@ -32,6 +32,30 @@
    ],
    "admin_note": "東區商圈為115年補助名單，商圈聯合促銷活動可作為執行成效與佐證參考。",
    "image": "https://images.chinatimes.com/newsphoto/2026-11-07/656/B09A00_P_01_02.jpg"
+  },
+  {
+   "id": "20261107-yizhong-illegal-shop",
+   "title": "台中一中商圈黃金角店月租68萬，被指為違建占巷影響出入",
+   "summary": "影音報導指一中商圈一處黃金角店月租達68萬元，但被指為違建、占用巷道並擋住出入。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-07T00:00:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    {
+     "name": "一中街商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "東森新聞",
+     "url": "https://www.msn.com/zh-tw/news/news/%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E9%BB%83%E9%87%91%E8%A7%92%E5%BA%97-%E6%9C%88%E7%A7%9F68%E8%90%AC-%E6%98%AF%E5%A4%A7%E9%81%95%E5%BB%BA-%E5%8D%A0%E5%B7%B7%E6%93%8B%E5%87%BA%E5%85%A5-shorts/vi-AA2gWavA",
+     "published_at": "2026-11-07T00:00:00+08:00"
+    }
+   ]
   },
   {
    "id": "20261106-xinhua-newyear-street",
@@ -1786,7 +1810,7 @@
      "published_at": "2026-10-28T11:30:00+08:00"
     }
    ],
-   "image": "https://images.storm.mg/cloud/09e22e70abb1fcdb87955cb5fffe5163d85dbc4d.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2158708%2F8loGCdRW9Ow3ugF67LfzV9520Sv5yfj498xjv82n.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
+   "image": "https://media.zenfs.com/ko/gotv_ctitv_com_tw_678/ce7e8144df97398c7f9552e4a91d276c.jpg"
   },
   {
    "id": "20261029-chengda-station-traffic",
@@ -1858,7 +1882,7 @@
      "published_at": "2026-10-28T04:14:00+08:00"
     }
    ],
-   "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261028/00448211.202610281272560176M.jpg"
+   "image": "https://news.pchome.com.tw/newsdata/living/1111news/20261029/79323649560105358009_original.jpg"
   },
   {
    "id": "20261028-kaohsiung-crispy-chicken",
@@ -1950,7 +1974,7 @@
     }
    ],
    "admin_note": "蘭雅商圈為115年補助名單，10/26活動適逢颱風前後，可留意是否如期辦理。",
-   "image": "https://secure.gravatar.com/avatar/38056bed663bb3a10c5b52ab451e7f9f025b33708bae1d3c2dca2367f3d0868a?s=96&d=retro&r=g"
+   "image": "https://ni.yam.com/20261028/2026102812-07ecb522a61bfa16.webp"
   },
   {
    "id": "20261028-luchao-fenghua-concert",
@@ -2640,46 +2664,6 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35449473.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
-  },
-  {
-   "id": "20261023-boai-banner-removed",
-   "title": "博愛商圈廣告帆布遭強風吹襲鬆脫，高市府違建大隊完成卸除",
-   "summary": "報導指博愛商圈廣告帆布因強風鬆脫，高雄市政府違建大隊已完成卸除。",
-   "category": "商圈動向",
-   "alert": "商圈受災",
-   "published_at": "2026-10-24T08:10:00+08:00",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    {
-     "name": "博愛商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "天天上新聞",
-     "url": "https://mknews.com.tw/2026/10/1008494/",
-     "published_at": "2026-10-24T08:10:00+08:00"
-    },
-    {
-     "outlet": "風傳媒",
-     "url": "https://www.storm.mg/article/11175460",
-     "published_at": "2026-10-23T20:17:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261023816049",
-     "published_at": "2026-10-23T15:15:00+08:00"
-    },
-    {
-     "outlet": "今傳媒",
-     "url": "https://focusnews.com.tw/2026/10/727280/",
-     "published_at": "2026-10-23T00:00:00+08:00"
-    }
-   ],
-   "image": "https://images.storm.mg/cloud/69b5f4e70d84b5521248f74a42422f94a9e88e6c.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2238597%2F1EZMNwy8cCRIE5sHQsPqz3mpUuQRrOg2dRFBF9DG.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
   }
  ],
  "discussions": []

@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-07T07:18:56+08:00",
+ "updated_at": "2026-11-07T12:18:54+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -47,6 +47,11 @@
    "reason": "房地產",
    "at": "2026-11-07"
   },
+  "https://house.udn.com/house/story/123590/9862676?form=udn_ch2_common3_cate": {
+   "decision": "hidden",
+   "reason": "房地產",
+   "at": "2026-11-07"
+  },
   "https://keelungplay.com/commercialdistrict-2/": {
    "decision": "hidden",
    "reason": "業配遊記",
@@ -56,6 +61,11 @@
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-06"
+  },
+  "https://life.tw/article/%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%B8%B6%E5%8B%95%E6%9D%B1%E5%8D%80%E4%BA%BA%E6%BD%AE-%E8%94%A3%E8%90%AC%E5%AE%89%E6%89%BF%E8%AB%BE%E5%95%86%E5%9C%88%E5%BB%BA%E8%A8%AD%E7%B6%93%E8%B2%BB-%E5%8F%AA%E6%9C%83%E5%A4%9A-%E4%B8%8D%E6%9C%83%E5%B0%91-3208039": {
+   "decision": "kept",
+   "item": "20261106-dongqu-anniv",
+   "at": "2026-11-07"
   },
   "https://life.tw/article/%E8%87%BA%E5%8D%97%E8%B3%BC%E7%89%A9%E7%AF%80%E6%B6%88%E8%B2%BB%E7%AA%81%E7%A0%B430%E5%84%84%E5%85%83-%E5%8A%A0%E7%A2%BC%E6%8A%BD%E9%9B%BB%E5%8B%95%E8%BB%8A11%E6%9C%88%E5%95%86%E5%9C%88%E6%B4%BB%E5%8B%95%E6%8E%A5%E5%8A%9B%E7%99%BB-3199478": {
    "decision": "kept",
@@ -67,6 +77,11 @@
    "reason": "業配遊記",
    "at": "2026-11-05"
   },
+  "https://media.posu.tw/uninews_view.php?new_sn=148670": {
+   "decision": "kept",
+   "item": "20261106-xinhua-newyear-street",
+   "at": "2026-11-07"
+  },
   "https://mknews.com.tw/2026/10/1011343/": {
    "decision": "kept",
    "item": "20261031-tainan-shopping-30b",
@@ -76,6 +91,11 @@
    "decision": "kept",
    "item": "20261031-donghai-halloween",
    "at": "2026-11-04"
+  },
+  "https://mknews.com.tw/2026/11/1014448/": {
+   "decision": "kept",
+   "item": "20261106-taoyuan-district-feature",
+   "at": "2026-11-07"
   },
   "https://money.udn.com/money/story/5612/9860042": {
    "decision": "kept",
@@ -142,7 +162,27 @@
    "item": "20261103-chiayi-county-shopping",
    "at": "2026-11-05"
   },
+  "https://n.yam.com/Article/20261106229950": {
+   "decision": "kept",
+   "item": "20261106-dongqu-anniv",
+   "at": "2026-11-07"
+  },
+  "https://n.yam.com/Article/20261106392418": {
+   "decision": "kept",
+   "item": "20261106-dongqu-anniv",
+   "at": "2026-11-07"
+  },
   "https://n.yam.com/Article/20261106399142": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-07"
+  },
+  "https://n.yam.com/Article/20261107129736": {
+   "decision": "kept",
+   "item": "20261106-taoyuan-district-feature",
+   "at": "2026-11-07"
+  },
+  "https://n.yam.com/Article/20261107489569": {
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-07"
@@ -187,6 +227,11 @@
    "reason": "選舉",
    "at": "2026-11-07"
   },
+  "https://news.ltn.com.tw/amp/news/politics/paper/1777571": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-07"
+  },
   "https://news.ltn.com.tw/news/ChiayiCounty/breakingnews/5628919": {
    "decision": "kept",
    "item": "20261104-luchao-okinawa-mou",
@@ -211,6 +256,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-06"
+  },
+  "https://news.ltn.com.tw/news/politics/paper/1777571": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-07"
   },
   "https://news.org.tw/%E4%B8%8D%E7%8E%A9%E8%99%9B%E7%9A%84%EF%BC%81%E6%9E%97%E6%8F%9A%E5%BA%AD%E5%BE%9E%E6%80%A5%E9%9B%A3%E6%95%91%E5%8A%A9%E3%80%81%E5%AF%B5%E7%89%A9%E5%81%A5%E6%AA%A2%E5%88%B0%E5%95%86%E5%9C%88%E4%BC%81/": {
    "decision": "hidden",
@@ -267,6 +317,11 @@
    "reason": "房地產",
    "at": "2026-11-05"
   },
+  "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E6%8E%A8%E5%8B%95-%E5%95%86%E5%9C%88-%E7%89%B9%E8%89%B2-%E7%88%AD%E5%8F%962300%E8%90%AC%E8%A3%9C%E5%8A%A9%E8%BC%94%E5%B0%8E%E7%87%9F%E9%81%8B-012457212.html": {
+   "decision": "kept",
+   "item": "20261106-taoyuan-district-feature",
+   "at": "2026-11-07"
+  },
   "https://tw.news.yahoo.com/%E8%90%AC%E8%81%96%E7%AF%80-%E9%A6%AC%E5%85%AC%E5%95%86%E5%9C%88%E8%AE%8A%E8%A3%9D%E8%B8%A9%E8%A1%97%E5%A5%BD%E7%86%B1%E9%AC%A7-1-%E5%9C%96-133949786.html": {
    "decision": "kept",
    "item": "20261031-magong-halloween",
@@ -321,6 +376,11 @@
    "decision": "hidden",
    "reason": "房地產",
    "at": "2026-11-04"
+  },
+  "https://www.chinatimes.com/newspapers/20261107000414-260204": {
+   "decision": "hidden",
+   "reason": "房地產",
+   "at": "2026-11-07"
   },
   "https://www.chinatimes.com/realtimenews/20261103002965-260421": {
    "decision": "hidden",
@@ -412,6 +472,11 @@
    "reason": "業配遊記",
    "at": "2026-11-06"
   },
+  "https://www.msn.cn/zh-cn/lifestyle/lifestyle/%E6%BD%AE%E5%B7%9E-%E5%8F%8C11-%E5%85%A8%E5%9F%8E%E5%95%86%E5%9C%88%E5%98%89%E5%B9%B4%E5%8D%8E%E6%9D%A5%E4%BA%86-7%E5%A4%A7%E5%95%86%E5%9C%88%E4%BC%98%E6%83%A0-%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82/ar-AA2gFzJV": {
+   "decision": "hidden",
+   "reason": "國外",
+   "at": "2026-11-07"
+  },
   "https://www.msn.cn/zh-cn/travel/%E5%95%86%E5%9F%8E%E5%92%8C%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83/%E5%88%AB%E9%94%99%E8%BF%87-%E6%BD%AE%E5%B7%9E-%E5%8F%8C11-%E5%85%A8%E5%9F%8E%E5%95%86%E5%9C%88%E5%98%89%E5%B9%B4%E5%8D%8E-%E7%A5%A8%E6%A0%B9%E8%83%BD%E6%89%93%E6%8A%98-%E9%93%B6%E8%81%94%E5%86%8D%E7%AB%8B%E5%87%8F/ar-AA2gwPWV": {
    "decision": "hidden",
    "reason": "國外",
@@ -461,6 +526,11 @@
    "decision": "hidden",
    "reason": "企業人事",
    "at": "2026-11-05"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E5%BD%B0%E5%B8%82%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E6%96%BD%E5%B7%A5%E5%BA%97%E5%AE%B6%E4%B8%8D%E4%BE%BF-%E5%90%B3%E9%9F%8B%E9%81%94%E4%BF%83%E7%B8%A3%E5%BA%9C%E7%9B%A3%E7%9D%A3%E5%8D%94%E5%8A%A9/ar-AA2gJ282": {
+   "decision": "kept",
+   "item": "20261104-yongle-construction-inconvenience",
+   "at": "2026-11-07"
   },
   "https://www.msn.com/zh-tw/news/other/%E6%B6%88%E8%B2%BB%E6%8B%9A%E5%A5%BD%E9%81%8B-%E5%98%89%E7%BE%A9%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E6%B0%91%E7%9C%BE%E5%B9%B8%E9%81%8B%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A/ar-AA2gEz4U": {
    "decision": "kept",
