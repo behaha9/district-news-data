@@ -1,17 +1,27 @@
 {
- "fetched_at": "2026-11-07T07:17:20+08:00",
+ "fetched_at": "2026-11-07T08:59:30+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 125,
+  "raw": 124,
   "kept": 53,
   "resolved": 53,
   "items": 53,
   "resolve_this_run": {
-   "online": 10
+   "online": 2
   }
  },
  "items": [
+  {
+   "title": "媒角／三鶯文創、土樹工業園區 呂家愷：促進新北28商圈夜經濟",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZNlM2RTVMVUNuZjFuakZESldmT1d0WUtrbEFSb0l1UDdqdnQwbGllNXU0cnRPaUV6S0dnb09veDMwU0hpVEYxTHQ1TFh1eEg1Vmc?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-07T07:29+08:00",
+   "query": "商圈",
+   "url": "https://n.yam.com/Article/20261107489569",
+   "resolved": true
+  },
   {
    "title": "漏網鏡頭》蔣萬安東區商圈掃街拜票 強碰「洋流」了 | 自由電子報",
    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQVzc3R09KcDVpV1c4Y1pkX09pZnVBSzRTejUtX0xZUy0zc1JTRDRSZC1ZYUxWYnY1aFMtdmN1dGpEdDFialBfdmN4VHpTX0JaS0ZIRndB?oc=5",
@@ -34,12 +44,12 @@
   },
   {
    "title": "店面掛招租 蔣稱東區商圈活起來",
-   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwMWlPeHdWS29CSm1lT3VObERld3ljS0lEQ2N6OU56V3p3SDMxZXhxSjhyeTJ4dG9VQzhvUHF2NW9NV1F3TU4tMExTdG8yQXZ3eEJudENpREJYRW8xdG5Qb9IBZkFVX3lxTE5kbUFiaFd4YUdyWnlsS0EtY2ZvSkk0bFg4SkdWNjVXREpJcE01R3FFUGYtUEJVamVTWXZhV01WS1ZyOUVUbnlHUnlrQzNoOC10NFlXa0JnMmllbE5HUUlaX3E5TnRxUQ?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kbUFiaFd4YUdyWnlsS0EtY2ZvSkk0bFg4SkdWNjVXREpJcE01R3FFUGYtUEJVamVTWXZhV01WS1ZyOUVUbnlHUnlrQzNoOC10NFlXa0JnMmllbE5HUUlaX3E5TnRxUdIBZkFVX3lxTE5kbUFiaFd4YUdyWnlsS0EtY2ZvSkk0bFg4SkdWNjVXREpJcE01R3FFUGYtUEJVamVTWXZhV01WS1ZyOUVUbnlHUnlrQzNoOC10NFlXa0JnMmllbE5HUUlaX3E5TnRxUQ?oc=5",
    "source": "自由時報",
    "source_site": "https://news.ltn.com.tw",
    "published_at": "2026-11-07T05:30+08:00",
    "query": "商圈",
-   "url": "https://news.ltn.com.tw/news/politics/paper/1777571",
+   "url": "https://news.ltn.com.tw/amp/news/politics/paper/1777571",
    "resolved": true
   },
   {
@@ -368,18 +378,8 @@
    "source": "LINE TODAY",
    "source_site": "https://today.line.me",
    "published_at": "2026-11-06T08:05+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/article/Opl7VvB",
-   "resolved": true
-  },
-  {
-   "title": "賴瑞隆走訪三民西區談老城再生 提車站轉乘改善、串聯商圈帶動觀光人潮",
-   "google_url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPUHFNV3NmLVJEblNXeFozVlplOG1MdmY5aW1fcDhNOW10d3VUMkpQNnE0c1FraTA3Yk9LV1FFV3oyYzVCVDd3RTZ4MEY4ZXVZZkhrYzhUNy0wanQ5ZjZCVHFTbWtXX0NKbTZJd3RXSlhrSlNvbzRqcGg2ckNjQTVtd3RNUkt4SmtGeVA0ZXdudU1oUVJfbm5POVRUakJmMzd6YWdTNnNwb2duOTk2VEVkSUZsbWhrVFE5b0dYT0NsOGpZMTVQdll2YzZyRTltZDBXZDQyOWlGRVpkYzVRQ0dtQ1h4VVNXbzUtaWZGRmRaTHZEUk0yNkRhVlk1UktyU1I3TjFISXY5eVZjT2ZUTU1vSXlCLXYtazEzTFFKSFN4UlJVMVRTcldEbGpxbTUxNEU3VjJDVHBsWUhqcU1BREFTRzM2ck5Iblh2YnJJbEJMSEFXdkoydHhqRzhxUkd1M05SU3hJUWRUU1NwVzhZb21JVFlnY1hJSHRjbFJ3eS1pTGFTczhpZlFjWVFTbTdGbGk5RDNHZWdiN0d1bTk2cVVxcXp0SzJLNFNGN0JsZUlkd2xWZjRsa1I0RHJKTEROQlNWT25Mc1ZHN3JjQQ?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-06T07:30+08:00",
    "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E8%B3%B4%E7%91%9E%E9%9A%86%E8%B5%B0%E8%A8%AA%E4%B8%89%E6%B0%91%E8%A5%BF%E5%8D%80%E8%AB%87%E8%80%81%E5%9F%8E%E5%86%8D%E7%94%9F-%E6%8F%90%E8%BB%8A%E7%AB%99%E8%BD%89%E4%B9%98%E6%94%B9%E5%96%84-%E4%B8%B2%E8%81%AF%E5%95%86%E5%9C%88%E5%B8%B6%E5%8B%95%E8%A7%80%E5%85%89%E4%BA%BA%E6%BD%AE-233031239.html",
+   "url": "https://today.line.me/tw/v3/article/Opl7VvB",
    "resolved": true
   },
   {
@@ -463,6 +463,16 @@
    "resolved": true
   },
   {
+   "title": "何欣純、蔡英文同台賀台中商業總會80週年！力推會展中心二期建設串聯觀光商圈、讓國際商機帶旺百工百業",
+   "google_url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxPQ3NqSjBPZnNldUZ6Vk8yeHN5eDZEME53LWxYM3hJV1VMV1duNjhmdW1KZnV1QlhpVG1kNjRvZ1lUSlJhRVJ0NmpIMTdPQWQwaWJ4NTBlLWdpWG1naG40a3l0T0p6VG54RWppODBFc3pnQlVqQ2VycG5teFE2YXFLRXRSRmN0SVhYT19SS3NPNE9MOFl4YVJQVEo2ajdIY1FYMW1ZT2NzbVdONWtCcUpINWF1Ymo1cTNNNUNBdjhsMVRnQTBScmRobEtibFdaeWJ5enNnT01qTzZ6U1RSUEJQeXN6akFDTTdzcXhMVkdzcWZBR3lWM2RocVU5Q2xxOS1tZ3JWak1uWUtUaE1zR2RrRHFqbFNWV1FHTk1qaFY5ZDNhcnBXWmJIckVSSTlDeHB1UFZ2U055SWJDaTB4RGZOb2o1ckRQR0pkbFZHLTFrejd5RmRmNGhsN1RqUGRiRTdSZElTMGJ0UExPWF9HUWt5Y0VMdlNmRjcxcjg4SUo1LTl5c3dSZ0EybE9sT0U1bDJZenRGeC15c1otV3d5aXAxMnR6S0pueWIzRl8ta01Rc0tUQy0zX0FGWUJWTGtCOTZ4MndEUGoyQzhJVXhUTGJLZ1lOR04wNEY3N3hHa0t2MnA0dXdDOWN0SzF0TUlFT1hFdWpoUENXMDQ4b3ZQa0RqWm85SXN1LUpvNzYwVWR6bUM4YW9TS1pSbXdzWVVQbTRaNDRyZVRNUFZxMWdCZkNBWTBJYlFRbGVlYTRJejJxcUJ3WjVJOHVYbHRHaUlRMkZ3eUVhLWR1akJmWGpMZVN0OWVGSmJkTUlPajRV?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-05T16:13+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E4%BD%95%E6%AC%A3%E7%B4%94-%E8%94%A1%E8%8B%B1%E6%96%87%E5%90%8C%E5%8F%B0%E8%B3%80%E5%8F%B0%E4%B8%AD%E5%95%86%E6%A5%AD%E7%B8%BD%E6%9C%8380%E9%80%B1%E5%B9%B4-%E5%8A%9B%E6%8E%A8%E6%9C%83%E5%B1%95%E4%B8%AD%E5%BF%83%E4%BA%8C%E6%9C%9F%E5%BB%BA%E8%A8%AD-%E4%B8%B2%E8%81%AF%E8%A7%80%E5%85%89%E5%95%86%E5%9C%88-%E8%AE%93%E5%9C%8B%E9%9A%9B%E5%95%86%E6%A9%9F%E5%B8%B6%E6%97%BA%E7%99%BE%E5%B7%A5%E7%99%BE%E6%A5%AD-074005034.html",
+   "resolved": true
+  },
+  {
    "title": "信義商圈「琵琶演奏」驚魂！男貼近表演者",
    "google_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPREkzMmN3RzRMdnNOSWt2cHRsVWk2aVlsYWF2RGpyU0dtUGhoTlBKZXUtb3d5dnRXY1JhTFkxMERobE4tRWkxOHFzSlRTcmdZSGdRbDZXR0N4WDZuOWRXVFBDd1p4SW1PZzJva2lxQzcxRHdHMGd6NDY0YUd0TGFhZGhqNjdwam1LUEF4OHBOZ3g3WmQ2M3pLZzVuV3FRSHR6aGlIY2I0SFl2YXZ0SkM4RE4tYk1NS3dvb0diUkZzTERmZTIwUUlYN0llQ1MxN1ZFOENhbWRlRnBhenRfTGJBVVhwYkR1U1duX1BlRkJNaTNNM2lWRTA5ZVpBN25kaDdZS3Iwakw1U05BdXlGSFBiYjZYVVRXTlE?oc=5",
    "source": "Yahoo新聞",
@@ -470,16 +480,6 @@
    "published_at": "2026-11-05T16:09+08:00",
    "query": "商圈",
    "url": "https://tw.news.yahoo.com/%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88-%E7%90%B5%E7%90%B6%E6%BC%94%E5%A5%8F-%E9%A9%9A%E9%AD%82-%E7%94%B7%E8%B2%BC%E8%BF%91%E8%A1%A8%E6%BC%94%E8%80%85-080900873.html",
-   "resolved": true
-  },
-  {
-   "title": "何欣純、蔡英文同台賀台中商業總會80週年！力推會展中心二期建設串聯觀光商圈、讓國際商機帶旺百工百業",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qUExzaGoxUFhfcXEwcTVJc1pCVmVPWVFjTFBNZWdLNlBCNUFrUUpnaGZGckVFM3dLX1Jmd0FyZVJGU1RIOTJGT0RsUk9vdXExcXc?oc=5",
-   "source": "放言Fount Media",
-   "source_site": "https://www.fountmedia.io",
-   "published_at": "2026-11-05T15:45+08:00",
-   "query": "商圈",
-   "url": "https://www.fountmedia.io/article/441608",
    "resolved": true
   },
   {

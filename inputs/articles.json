@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T07:17:30+08:00",
+ "fetched_at": "2026-11-07T08:59:42+08:00",
  "articles": {
   "https://news.cts.com.tw/cts/general/202610/202610223092981.html": {
    "checked_at": "2026-11-04T20:51+08:00",
@@ -9406,6 +9406,331 @@
    "checked_at": "2026-11-07T07:17+08:00",
    "status": 308,
    "error": "HTTP Error 308: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error messag"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E5%BD%B0%E5%B8%82%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E6%96%BD%E5%B7%A5%E5%BA%97%E5%AE%B6%E4%B8%8D%E4%BE%BF-%E5%90%B3%E9%9F%8B%E9%81%94%E4%BF%83%E7%B8%A3%E5%BA%9C%E7%9B%A3%E7%9D%A3%E5%8D%94%E5%8A%A9/ar-AA2gJ282": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://n.yam.com/Article/20261107489569": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T07:29+08:00",
+   "site_name": "蕃新聞",
+   "description": "（媒角抵加總主筆李彥謀／專訪）新北市樹林鶯歌區的立委是蘇巧慧，土城三峽的立委是吳琪銘，都是民進黨，看",
+   "cities": {
+    "新北市": 12,
+    "台中市": 1,
+    "台南市": 1,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 1726,
+   "image": "https://ni.yam.com/20261107/20261106-1---1ea735c9a6cc2f73.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261107000881-260407": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T07:54+08:00",
+   "site_name": "中時新聞網",
+   "description": "選戰進入最後階段階段，台北市長蔣萬安妻子石舫亘近期積極代夫掃街，蔣昨（6日）到東區商圈、遼寧夜市拜票掃街，石晚間則在景美夜市拜票，兩人分進合擊。曾和石一起在市場拜票的國民黨台北市議員鍾沛君透露，最讓她",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 687,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-04/656/20261104003657.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261106229950": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T23:57+08:00",
+   "site_name": "蕃新聞",
+   "description": "【互傳媒／記者 謝忠義／台北 報導】臺北市長蔣萬安今（6）日晚間出席「東區周年慶啟動儀式」，與遠東S",
+   "cities": {
+    "台北市": 6
+   },
+   "districts": [
+    "東區商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 882,
+   "image": "https://ni.yam.com/20261106/8eda124fb936072c7c6590a0e84aee55-081f9352b3b7ca5e.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://life.tw/article/經濟部改造全台四大商圈市場-導入設計改善動線與消費環境-3207568": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": "error",
+   "error": "'ascii' codec can't encode characters in position 13-25: ordinal not in range(128)"
+  },
+  "https://n.yam.com/Article/20261106392418": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T22:46+08:00",
+   "site_name": "蕃新聞",
+   "description": "墨新聞｜記者鄭富鈺／綜合報導臺北市長蔣萬安今（6）日晚間出席「東區周年慶啟動儀式」，與遠東SOGO百",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [
+    "東區商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 904,
+   "image": "https://ni.yam.com/20261106/027f2aeb-97f0-44ce-9d0b-4517cb85d3ca-b6b9a01f620aae84.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.cn/zh-cn/lifestyle/lifestyle/%E6%BD%AE%E5%B7%9E-%E5%8F%8C11-%E5%85%A8%E5%9F%8E%E5%95%86%E5%9C%88%E5%98%89%E5%B9%B4%E5%8D%8E%E6%9D%A5%E4%BA%86-7%E5%A4%A7%E5%95%86%E5%9C%88%E4%BC%98%E6%83%A0-%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82/ar-AA2gFzJV": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://life.tw/article/%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%B8%B6%E5%8B%95%E6%9D%B1%E5%8D%80%E4%BA%BA%E6%BD%AE-%E8%94%A3%E8%90%AC%E5%AE%89%E6%89%BF%E8%AB%BE%E5%95%86%E5%9C%88%E5%BB%BA%E8%A8%AD%E7%B6%93%E8%B2%BB-%E5%8F%AA%E6%9C%83%E5%A4%9A-%E4%B8%8D%E6%9C%83%E5%B0%91-3208039": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T23:47+08:00",
+   "site_name": "LIFE 生活網",
+   "description": "臺北市長蔣萬安出席東區周年慶活動，承諾未來商圈建設經費將持續增加。",
+   "cities": {
+    "台北市": 9
+   },
+   "districts": [
+    "東區商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1238,
+   "image": "https://hoomedia.com.tw/wp-content/uploads/2026/11/8eda124fb936072c7c6590a0e84aee55.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/124652/9862977": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T00:00+08:00",
+   "site_name": "聯合新聞網",
+   "description": "選戰倒數，台北市長蔣萬安利用小周末下班尖峰時段開啟「超級陸戰」行程，先在東區商圈走街，晚上到立委本命區掃遼寧夜市；妻子石舫亘到西寧市場和景美夜市，夫妻分進合擊，競總規畫掃街行程持續到選前。沈伯洋則選擇挺進深藍的安居市場，吸引粉絲追隨。",
+   "cities": {
+    "台北市": 11,
+    "新北市": 6,
+    "台東縣": 2,
+    "高雄市": 1,
+    "彰化縣": 1
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 1987,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35494128.jpg&M=1&s=Y&x=0&y=127&sw=1249&sh=833&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taisounds.com/news/content/89/297162": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T18:38+08:00",
+   "site_name": "太報 TaiSounds",
+   "description": "一年一度的台北白晝之夜今（10/31）晚在圓山自然景觀公園登場，台北市長蔣萬安致詞時也宣布，明年巴黎白晝之夜將有台灣優秀藝術家前往展出，讓在地優秀藝術家作品，可以在巴黎展出，這是第一次有這樣的機會。",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 216,
+   "image": "https://cdn.taisounds.com/newsimages/img/2026/1031/777e5c797ade4b7c83437af4ad860cf3.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E6%BC%8F%E7%B6%B2%E9%8F%A1%E9%A0%AD-%E8%94%A3%E8%90%AC%E5%AE%89%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E6%8E%83%E8%A1%97%E6%8B%9C%E7%A5%A8-%E5%BC%B7%E7%A2%B0-%E6%B4%8B%E6%B5%81-%E4%BA%86-215805539.html": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T05:58+08:00",
+   "site_name": "Yahoo News",
+   "description": "台北市長蔣萬安6日下午出席東區周年慶啟動儀式，參觀攤位，接著從頂好廣場出發在商圈掃街拜票，再轉往忠孝東路騎樓、巷弄，逐一與商家、民眾握手或合照、簽名。有店家玻璃櫃上貼著「洋流」標語，他舉手請託、爭取握手。",
+   "cities": {
+    "台北市": 26,
+    "新北市": 5,
+    "高雄市": 5,
+    "桃園市": 2,
+    "台中市": 1
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 3502,
+   "image": "https://media.zenfs.com/en/libertytimes_786/233afc6b0efa396d0077146f325697e5.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E6%A1%83%E5%B8%82%E6%93%B4%E5%A4%A7%E5%95%86%E7%94%A8%E5%BB%9A%E9%A4%98%E6%A9%9F%E8%A3%9C%E5%8A%A9-%E5%A4%9C%E5%B8%82%E5%95%86%E5%9C%88%E7%B4%8D%E5%85%A5%E4%B8%A6%E5%B1%95%E5%BB%B6%E6%9C%9F%E9%99%90-101548834.html": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T18:15+08:00",
+   "site_name": "Yahoo News",
+   "description": "記者陳華興／桃園報導 桃園市政府率全國之先推出「商用廚餘機補助計畫」，獲得團膳業、餐…",
+   "cities": {
+    "台北市": 8,
+    "桃園市": 6,
+    "新竹": 1
+   },
+   "districts": [],
+   "body_chars": 3827,
+   "image": "https://media.zenfs.com/ko/cdns.com.tw/47a7e4882cb9827dae1e32b05af5b7a3.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%B8%B6%E5%8B%95%E6%9D%B1%E5%8D%80%E4%BA%BA%E6%BD%AE-%E8%94%A3%E8%90%AC%E5%AE%89%E6%89%BF%E8%AB%BE%E5%95%86%E5%9C%88%E5%BB%BA%E8%A8%AD%E7%B6%93%E8%B2%BB-%E5%8F%AA%E6%9C%83%E5%A4%9A-%E4%B8%8D%E6%9C%83%E5%B0%91-154707948.html": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T23:47+08:00",
+   "site_name": "Yahoo News",
+   "description": "【互傳媒／記者 謝忠義／台北 報導】臺北市長蔣萬安今（6）日晚間出席「東區周年慶啟動儀式」，與遠東SOGO百貨",
+   "cities": {
+    "台北市": 24,
+    "高雄市": 3,
+    "桃園市": 2,
+    "新北市": 1,
+    "台中市": 1
+   },
+   "districts": [
+    "東區商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 3510,
+   "image": "https://media.zenfs.com/ko/hoomedia_675/2c250f9a3ed03a75eeae58461faf77b5.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://life.tw/article/%E7%B6%93%E6%BF%9F%E9%83%A8%E6%94%B9%E9%80%A0%E5%85%A8%E5%8F%B0%E5%9B%9B%E5%A4%A7%E5%95%86%E5%9C%88%E5%B8%82%E5%A0%B4-%E5%B0%8E%E5%85%A5%E8%A8%AD%E8%A8%88%E6%94%B9%E5%96%84%E5%8B%95%E7%B7%9A%E8%88%87%E6%B6%88%E8%B2%BB%E7%92%B0%E5%A2%83-3207568": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T17:29+08:00",
+   "site_name": "LIFE 生活網",
+   "description": "經濟部商業發展署推動「商圈及傳統市場設計加值計畫」，已完成臺北水源市場、臺中第二市場、屏東勝利商圈及宜蘭南方澳商圈的改造。",
+   "cities": {
+    "台北市": 9,
+    "屏東縣": 8,
+    "台中市": 7,
+    "宜蘭縣": 5
+   },
+   "districts": [
+    "南方澳商圈（宜蘭縣）"
+   ],
+   "body_chars": 2128,
+   "image": "https://www.twcn.com.tw/uploads/2026/11/0d5da3d256bdfc366a2b12589459a90d.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://mknews.com.tw/2026/11/1014357/": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T06:05+08:00",
+   "site_name": "天天上新聞",
+   "description": "【今傳媒/記者李祖東報導】高雄市議員何權峰感謝黃茂竹榮譽會長 … Read More",
+   "cities": {
+    "高雄市": 5
+   },
+   "districts": [
+    "三鳳中街（高雄市）"
+   ],
+   "body_chars": 324,
+   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/topic/newstopic/5056.aspx": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-08-08T09:03+08:00",
+   "site_name": "中央社 CNA",
+   "description": "2026年九合一選舉於11月28日登場，涵蓋22縣市首長與地方民代等多項公職。選舉結果牽動各縣市執政版圖，是民意對地方施政成果的關鍵檢驗，也被視為2028年總統大選前哨戰。讓中央社帶您掌握選情動態與關鍵焦點。",
+   "cities": {
+    "嘉義市": 12,
+    "台北市": 8,
+    "新北市": 8,
+    "台中市": 6,
+    "桃園市": 5
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 2157,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/newstopic/202609/800x600_088529201395.jpg",
+   "image_checked": true,
+   "date_hint": "2026-08-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/amp/news/politics/paper/1777571": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T05:30+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台北市長蔣萬安日前在電視辯論會上說，「大巨蛋讓東區商圈活起來，店面出租率超過九成」，部分當地店家體感有別，蔣萬安昨利用出席「東區週年慶」活動之便，安排東區掃街，受到商家歡迎。此外，蔣萬安於昨天中午訪視成淵高中之前，一早也先出席在建中舉辦的「台北國際青年科學論壇（TIYSF）」，以全英語致詞，一洗之前陰霾。知名DJ林哲儀",
+   "cities": {
+    "台北市": 5
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 710,
+   "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/Taipei/breakingnews/5632137": {
+   "checked_at": "2026-11-07T08:59+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T05:58+08:00",
+   "site_name": "自由時報電子報",
+   "description": "首次上稿 11-06 23:20更新時間 11-07 05:58台北市長蔣萬安6日下午出席東區周年慶啟動儀式，參觀攤位，接著從頂好廣場出發在商圈掃街拜票，再轉往忠孝東路騎樓、巷弄，逐一與商家、民眾握手或合照、簽名。有店家玻璃櫃上貼著「洋流」標語，他舉手請託、爭取握手。",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 602,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/5632137_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
   }
  }
 }
