@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T16:50:35+08:00",
+ "updated_at": "2026-11-07T20:50:08+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,24 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "補油缺口！豬油價格飆漲4成 小吃業者每月成本多花3千",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UNVpnaG9kVjRUX2U5bWRSVHVhd3gtSFMzdFNheFltMk9TMG1NY2szeGd5N0lnWTQ3anA5UnFCdlIwRjRURUlwMVlZYzZsQQ?oc=5",
+     "source": "TVBS新聞網",
+     "published_at": "2026-11-07T18:33+08:00",
+     "url": "https://news.tvbs.com.tw/life/4047271",
+     "resolved": true
+    },
+    {
+     "title": "經發局會同消保官針對桶裝沙拉油供應展開稽查",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOLXBzZ21XTlBpSUNxcEZtR2ljY2FZaWFHVGplZjhBYjZmOUZwd3JJLVd1YTl1VlpyZHR5ejRJMjdCdUVDam50WUNLWWhmVWlKSVA1SEpiVTh4OWRrTEhYcWdSNk0xZzE1S1YwTk5UbTBvTEtUazJQc2pzSjE4MTdIZFF5M2dZZVdkSTNOa19iWGUxT0RsOWNqZEpHMFYxQWxaYWdVb2ZPZXlkQ2N6MXlvTWNXZXNMcXpHaHpDa0J6WXBCQ1NzUnlkaWdGUUVRbnh2ak1vUlp2REVLdzdjcTFMb1BKd0wyRzNHSXc1c2h4dGllUG5ZS3Z4TGF3TXhhV3pnREljWGR0N3VoYnVkV2xZWWp2MVFUU3VHX2JWU3o1Q0xHZFVZLTRhY09yb3l5SndPUW5FcVVmWFVUR3M2OE9icG4wb0lsT0xhYzdjVW83VQ?oc=5",
+     "source": "Yahoo新聞",
+     "published_at": "2026-11-07T18:24+08:00",
+     "url": "https://tw.news.yahoo.com/%E7%B6%93%E7%99%BC%E5%B1%80%E6%9C%83%E5%90%8C%E6%B6%88%E4%BF%9D%E5%AE%98%E9%87%9D%E5%B0%8D%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E4%BE%9B%E6%87%89%E5%B1%95%E9%96%8B%E7%A8%BD%E6%9F%A5-102423969.html",
+     "resolved": true
+    },
     {
      "title": "中聯油脂沙拉油案懶人包：問題油、退貨、罰款與供應一次看",
      "kind": "價格動態",
@@ -114,6 +132,15 @@
      "source": "旺得富理財網",
      "published_at": "2026-11-04T18:39+08:00",
      "url": "https://wantrich.chinatimes.com/news/20261104900468-420501",
+     "resolved": true
+    },
+    {
+     "title": "食用油價格頻繁變動 食材供應商導入接單系統 提升訂單確認與對帳效率",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOMUF4RGMzV0hpeXVmWVhIZEVKSU5SVzIzSEtDWnMwQTJHalRYdzh0akdNdU1IRlpQLTJ5VWVaeno2TldNQWJ2UnZOTDFoODREZVBhQXh3YUtST1p3Q1cySUJqUTRMVEg0Q2ZMZmtiamZRM0lZUnFmMlZRZXVBS3dYRGh1UjRSMXdKelV2UzdUUFZESzlnWDNuaG1aQ0tHSkRJQkRMRXFjWkxPQnN2cThldjdZZ2JiWHZid081a29VZG14cnZiOVJMMGJuRDMzeDQyNHVpUk9KTFVfSUd1SzR0cG9PRUxWVlozRTI4RWhYaEVDa2RKY1JHd0JjZjFQbWhPbG50ZXN6UFpHMDhkVzJNaTI2UHZrZ3JlVVA5UXlZS2pNTUFTZmlpUHYzTi03Z0todE12WkM2ZEc1TnZPOGxhRFJ2d3VpR1gxbGljZW1yc0dvVTF6TWJVXzdKNmxPOUZRNk1ldGdOTkVoMUk0aVZKZmNFbWJRTzRrN3NfYk1fenNVaEsxclpISlctdkp4QWJTTWhsR0UtMl9jTnVGX05qSGloX1JWekVnUV8tYmZXWnNGZXd2VEwwMUFWclRKMW5aV0hidlJIUE5Ldw?oc=5",
+     "source": "Yahoo新聞",
+     "published_at": "2026-11-04T16:00+08:00",
+     "url": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E5%83%B9%E6%A0%BC%E9%A0%BB%E7%B9%81%E8%AE%8A%E5%8B%95-%E9%A3%9F%E6%9D%90%E4%BE%9B%E6%87%89%E5%95%86%E5%B0%8E%E5%85%A5%E6%8E%A5%E5%96%AE%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E8%A8%82%E5%96%AE%E7%A2%BA%E8%AA%8D%E8%88%87%E5%B0%8D%E5%B8%B3%E6%95%88%E7%8E%87-031608325.html",
      "resolved": true
     },
     {
