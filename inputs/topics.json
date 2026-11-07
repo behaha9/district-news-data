@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T12:17:49+08:00",
+ "updated_at": "2026-11-07T14:16:38+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,33 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "中聯油脂沙拉油案懶人包：問題油、退貨、罰款與供應一次看",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zVXNvRDJnYU42YW02MXdKSGxQRi1EM2pZU1BoZk1HaUF6OXpnalY5ZjdWaGIxUWVYQVhheXJtNkF0MkJGcTRCNFhWWHYyRlViUVE?oc=5",
+     "source": "蕃新聞",
+     "published_at": "2026-11-07T14:07+08:00",
+     "url": "https://n.yam.com/Article/20261107578129",
+     "resolved": true
+    },
+    {
+     "title": "桶裝沙拉油缺貨且一桶700喊到1450元 台南小吃業喊苦！南市府嚴查囤貨",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54LV9PMXpxUjZNVWo2M2JUMnp2VG5EZG5Id2JIN1FZcEtmZDc5c2FaSHFZV0RTZkpXUVJrbVRwM3dCRHVJYmlKd09nRGRQdlRT0gFWQVVfeXFMT09tTW9vNVlVM3ZBdGJwVE84cm5Id1gtTEE5SEN6TUg4bUxfb1Q5eGpUeUxROW9HWGloQUcxUTNWVEljR1k5YVk1c3RONHM4cVZWQjg5aEE?oc=5",
+     "source": "UDN",
+     "published_at": "2026-11-07T13:36+08:00",
+     "url": "https://udn.com/news/story/7326/9863687",
+     "resolved": true
+    },
+    {
+     "title": "南市府主動訪查業者 穩定食用油供應 確保供貨順暢",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kNmx5alRMckd6NnpDeDhQYWJhLVhtOU1mTzJtMVJncTg3ckU1bC1ZYzdRVnVsWWtDbmFULVFWVzgtZ0JYNFdHVWZXLUhwbWd4Q2FNQVVwMTg0c0RLMk5zWVJLQzUwWmZQcXJwdHZB?oc=5",
+     "source": "臺南市政府全球資訊網",
+     "published_at": "2026-11-07T13:34+08:00",
+     "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845683",
+     "resolved": true
+    },
     {
      "title": "沙拉油大缺貨 南市府介入嚴查囤貨、穩定供應",
      "kind": "價格動態",
