@@ -1,7 +1,72 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-07T16:51:49+08:00",
+ "generated_at": "2026-11-07T20:56:23+08:00",
  "items": [
+  {
+   "id": "20261107-shalu-monkey",
+   "title": "台中沙鹿成衣商圈獼猴出沒，農業局架設誘捕籠",
+   "summary": "沙鹿成衣商圈近日有獼猴出沒、闖入後巷，居民3天內兩度目擊；農業局指非棲地，疑為民眾違規飼養，已架設誘捕籠。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-07T18:40:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "鏡新聞",
+     "url": "https://www.mnews.tw/story/20261107sot1840001",
+     "published_at": "2026-11-07T18:40:00+08:00"
+    },
+    {
+     "outlet": "公視新聞網",
+     "url": "https://news.pts.org.tw/article/834774",
+     "published_at": "2026-11-07T18:39:00+08:00"
+    }
+   ],
+   "image": "https://statics.mnews.tw/images/69c24ab8-4b13-47e2-bf64-84f0aca2ff82-w1600.jpg"
+  },
+  {
+   "id": "20261106-taoyuan-district-feature",
+   "title": "桃園市舉辦商圈特色亮點形塑成果發表，市長盼深化一商圈一特色",
+   "summary": "桃園市政府發表商圈特色亮點形塑成果，市長表示將深化一商圈一特色、提升地方產業競爭力。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-07T18:14:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "Yahoo奇摩新聞",
+     "url": "https://tw.news.yahoo.com/%E5%BC%B5%E5%96%84%E6%94%BF%E5%87%BA%E5%B8%AD%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8-%E6%8E%A8-%E5%95%86%E5%9C%88-%E7%89%B9%E8%89%B2%E5%8D%87%E7%B4%9A-101443673.html",
+     "published_at": "2026-11-07T18:14:00+08:00"
+    },
+    {
+     "outlet": "桃園電子報",
+     "url": "https://tyenews.com/2026/11/1426951/",
+     "published_at": "2026-11-07T09:24:00+08:00"
+    },
+    {
+     "outlet": "報新聞",
+     "url": "https://www.contentplatform.info/articles/566359/%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E7%89%B9%E8%89%B2%E4%BA%AE%E9%BB%9E%E5%BD%A2%E5%A1%91%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E3%80%80%E5%BC%B5%E5%96%84%E6%94%BF%EF%BC%9A%E6%B7%B1%E5%8C%96%E4%B8%80/",
+     "published_at": "2026-11-07T09:20:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261107876344",
+     "published_at": "2026-11-07T00:00:00+08:00"
+    },
+    {
+     "outlet": "桃園市政府",
+     "url": "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1957392",
+     "published_at": "2026-11-06T21:48:00+08:00"
+    }
+   ],
+   "image": "https://media.zenfs.com/ko/cdns.com.tw/4e080f1720e4e6265f04379766b68eca.jpg"
+  },
   {
    "id": "20261107-taichung-7th-warning",
    "title": "臺中7期商圈設智慧警示系統，路口地面顯示紅綠燈提醒駕駛",
@@ -18,39 +83,34 @@
      "outlet": "青年日報",
      "url": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=649709",
      "published_at": "2026-11-07T16:43:00+08:00"
+    },
+    {
+     "outlet": "臺中市政府全球資訊網",
+     "url": "https://www.taichung.gov.tw/3409037/post",
+     "published_at": "2026-11-07T10:20:00+08:00"
     }
    ],
    "image": "https://www.ydn.com.tw/api/ugc_imagehandler.ashx?NFID=1064529"
   },
   {
-   "id": "20261106-taoyuan-district-feature",
-   "title": "桃園市舉辦商圈特色亮點形塑成果發表，市長盼深化一商圈一特色",
-   "summary": "桃園市政府發表商圈特色亮點形塑成果，市長表示將深化一商圈一特色、提升地方產業競爭力。",
-   "category": "營運與政策",
+   "id": "20261107-taoyuan-kobe-sister",
+   "title": "桃園龍岡商圈與日本神戶商圈交流，2027龍岡米干節將締結姊妹商圈",
+   "summary": "神戶市副市長及商圈總會長一行拜會桃園市長，雙方商圈深化交流，2027年龍岡米干節將締結姊妹商圈。",
+   "category": "活動與街區",
    "alert": null,
-   "published_at": "2026-11-07T09:24:00+08:00",
+   "published_at": "2026-11-07T13:54:00+08:00",
    "cities": [
     "桃園市"
    ],
    "districts": [],
    "sources": [
     {
-     "outlet": "桃園電子報",
-     "url": "https://tyenews.com/2026/11/1426951/",
-     "published_at": "2026-11-07T09:24:00+08:00"
-    },
-    {
-     "outlet": "報新聞",
-     "url": "https://www.contentplatform.info/articles/566359/%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E7%89%B9%E8%89%B2%E4%BA%AE%E9%BB%9E%E5%BD%A2%E5%A1%91%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E3%80%80%E5%BC%B5%E5%96%84%E6%94%BF%EF%BC%9A%E6%B7%B1%E5%8C%96%E4%B8%80/",
-     "published_at": "2026-11-07T09:20:00+08:00"
-    },
-    {
-     "outlet": "桃園市政府",
-     "url": "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1957392",
-     "published_at": "2026-11-06T21:48:00+08:00"
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261107394074",
+     "published_at": "2026-11-07T13:54:00+08:00"
     }
    ],
-   "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2026/11/dd02f331-a6ee-4785-ac97-ed0e8e4ae744_result.webp"
+   "image": "https://ni.yam.com/20261107/145649-4e69a7ea93283ade.webp"
   },
   {
    "id": "20261106-dongqu-anniv",
@@ -58,7 +118,7 @@
    "summary": "東區周年慶即日起登場，串聯逾140家商圈店家、百貨與餐飲業者，單筆滿300元可獲抽獎券；市長出席啟動儀式並談商圈建設經費。",
    "category": "活動與街區",
    "alert": null,
-   "published_at": "2026-11-07T04:10:00+08:00",
+   "published_at": "2026-11-07T12:09:00+08:00",
    "cities": [
     "台北市"
    ],
@@ -70,9 +130,19 @@
    ],
    "sources": [
     {
+     "outlet": "壹電視",
+     "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-07/2518391.html",
+     "published_at": "2026-11-07T12:09:00+08:00"
+    },
+    {
      "outlet": "中時新聞網",
      "url": "https://www.chinatimes.com/newspapers/20261107000524-260107",
      "published_at": "2026-11-07T04:10:00+08:00"
+    },
+    {
+     "outlet": "Yahoo奇摩新聞",
+     "url": "https://tw.news.yahoo.com/%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%B8%B6%E5%8B%95%E6%9D%B1%E5%8D%80%E4%BA%BA%E6%BD%AE-%E8%94%A3%E8%90%AC%E5%AE%89%E6%89%BF%E8%AB%BE%E5%95%86%E5%9C%88%E5%BB%BA%E8%A8%AD%E7%B6%93%E8%B2%BB-%E5%8F%AA%E6%9C%83%E5%A4%9A-%E4%B8%8D%E6%9C%83%E5%B0%91-154707948.html",
+     "published_at": "2026-11-06T23:47:00+08:00"
     },
     {
      "outlet": "墨新聞",
@@ -81,7 +151,7 @@
     }
    ],
    "admin_note": "東區商圈為115年補助名單，商圈聯合促銷活動可作為執行成效與佐證參考。",
-   "image": "https://images.chinatimes.com/newsphoto/2026-11-07/656/B09A00_P_01_02.jpg"
+   "image": "https://image.nexttv.com.tw/material/news/img/2026/11/20261107120548o3um.jpg"
   },
   {
    "id": "20261107-yizhong-illegal-shop",
@@ -2598,72 +2668,6 @@
     }
    ],
    "image": "https://ni.yam.com/20261025/haian-halloween-coffins-20261025-hero-v1-2294fbf5347ebf52.webp"
-  },
-  {
-   "id": "20261024-chaozhou-book-market",
-   "title": "屏東潮州老街辦「潮海書田」書市集，20家書店齊聚、一週募款20萬",
-   "summary": "獨立書店在屏東潮州老街舉辦書市集，邀集南臺灣20家書店參與，一週募得約20萬元捐助學生。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-24T18:55:00+08:00",
-   "cities": [
-    "屏東縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "中時新聞網",
-     "url": "https://www.chinatimes.com/realtimenews/20261024002810-260421",
-     "published_at": "2026-10-24T18:55:00+08:00"
-    }
-   ],
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-24/656/20261024002811.jpg"
-  },
-  {
-   "id": "20261024-lukang-holiday-business-drop",
-   "title": "連假遇薔琵颱風，鹿港老街生意掉三成，強風吹歪看板店家急修招牌",
-   "summary": "光復節連假遇薔琵颱風，彰化連續停班課，鹿港老街店家表示生意約掉三成，強風吹歪看板，業者忙著固定招牌。",
-   "category": "商圈動向",
-   "alert": "商圈受災",
-   "published_at": "2026-10-24T17:37:00+08:00",
-   "cities": [
-    "彰化縣"
-   ],
-   "districts": [
-    {
-     "name": "鹿港老街商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "鹿港老街商圈為115年補助名單，連假受颱風影響生意下滑約三成，可留意後續活動與人潮成效。",
-   "sources": [
-    {
-     "outlet": "壹電視",
-     "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-24/2505391.html",
-     "published_at": "2026-10-24T17:37:00+08:00"
-    },
-    {
-     "outlet": "TVBS新聞網",
-     "url": "https://news.tvbs.com.tw/life/4040643",
-     "published_at": "2026-10-24T16:51:00+08:00"
-    },
-    {
-     "outlet": "ETtoday新聞雲",
-     "url": "https://www.ettoday.net/news/20261024/3260171.htm",
-     "published_at": "2026-10-24T12:43:00+08:00"
-    },
-    {
-     "outlet": "民視新聞",
-     "url": "https://www.msn.com/zh-tw/news/other/%E9%80%A3%E5%81%87%E5%85%A9%E6%A8%A3%E6%83%85-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E5%86%B7%E6%B8%85-%E5%8F%B0%E4%B8%AD%E6%BC%A2%E7%A5%9E%E7%99%BE%E8%B2%A8%E4%BA%BA%E6%BD%AE%E7%88%86%E6%BB%BF-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2fX9R7",
-     "published_at": "2026-10-24T00:00:00+08:00"
-    },
-    {
-     "outlet": "TVBS新聞網",
-     "url": "https://www.msn.com/zh-tw/news/other/%E7%BA%8C%E6%94%BE%E9%A2%B1%E9%A2%A8%E5%81%87-%E5%8F%B0%E4%B8%AD%E4%BA%BA%E9%96%8B%E9%80%9B%E7%99%BE%E8%B2%A8-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E4%BA%BA%E6%BD%AE%E5%B0%913%E6%88%90/ar-AA2fY8ZE",
-     "published_at": "2026-10-24T00:00:00+08:00"
-    }
-   ],
-   "image": "https://image.nexttv.com.tw/material/news/img/2026/10/b71c287bbeccbd1dc64b0138c150d8a5.jpg"
   }
  ],
  "discussions": []

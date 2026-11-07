@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-07T17:00:00+08:00",
+  "updated_at": "2026-11-07T21:00:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -207,6 +207,30 @@
           "representative": "https://n.yam.com/Article/20261107578129",
           "urls": [
             "https://n.yam.com/Article/20261107578129"
+          ]
+        },
+        {
+          "id": "20261107-lard-price",
+          "note": "豬油價格飆漲、小吃業者成本增",
+          "representative": "https://news.tvbs.com.tw/life/4047271",
+          "urls": [
+            "https://news.tvbs.com.tw/life/4047271"
+          ]
+        },
+        {
+          "id": "20261107-oil-inspection",
+          "note": "經發局會同消保官稽查桶裝沙拉油供應",
+          "representative": "https://tw.news.yahoo.com/%E7%B6%93%E7%99%BC%E5%B1%80%E6%9C%83%E5%90%8C%E6%B6%88%E4%BF%9D%E5%AE%98%E9%87%9D%E5%B0%8D%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E4%BE%9B%E6%87%89%E5%B1%95%E9%96%8B%E7%A8%BD%E6%9F%A5-102423969.html",
+          "urls": [
+            "https://tw.news.yahoo.com/%E7%B6%93%E7%99%BC%E5%B1%80%E6%9C%83%E5%90%8C%E6%B6%88%E4%BF%9D%E5%AE%98%E9%87%9D%E5%B0%8D%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E4%BE%9B%E6%87%89%E5%B1%95%E9%96%8B%E7%A8%BD%E6%9F%A5-102423969.html"
+          ]
+        },
+        {
+          "id": "20261104-supplier-order-system",
+          "note": "食材供應商導入接單系統因應油價變動",
+          "representative": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E5%83%B9%E6%A0%BC%E9%A0%BB%E7%B9%81%E8%AE%8A%E5%8B%95-%E9%A3%9F%E6%9D%90%E4%BE%9B%E6%87%89%E5%95%86%E5%B0%8E%E5%85%A5%E6%8E%A5%E5%96%AE%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E8%A8%82%E5%96%AE%E7%A2%BA%E8%AA%8D%E8%88%87%E5%B0%8D%E5%B8%B3%E6%95%88%E7%8E%87-031608325.html",
+          "urls": [
+            "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E5%83%B9%E6%A0%BC%E9%A0%BB%E7%B9%81%E8%AE%8A%E5%8B%95-%E9%A3%9F%E6%9D%90%E4%BE%9B%E6%87%89%E5%95%86%E5%B0%8E%E5%85%A5%E6%8E%A5%E5%96%AE%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E8%A8%82%E5%96%AE%E7%A2%BA%E8%AA%8D%E8%88%87%E5%B0%8D%E5%B8%B3%E6%95%88%E7%8E%87-031608325.html"
           ]
         }
       ],

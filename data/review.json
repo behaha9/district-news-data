@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-07T16:51:49+08:00",
+ "updated_at": "2026-11-07T20:56:29+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -21,6 +21,11 @@
    "decision": "kept",
    "item": "20261031-donghai-halloween",
    "at": "2026-11-05"
+  },
+  "https://ctinews.com/news/items/yDa2G5RbxK": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-07"
   },
   "https://estate.ltn.com.tw/article/29207": {
    "decision": "hidden",
@@ -178,6 +183,11 @@
    "at": "2026-11-07"
   },
   "https://n.yam.com/Article/20261106399142": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-07"
+  },
+  "https://n.yam.com/Article/20261106692970": {
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-07"
@@ -537,6 +547,11 @@
    "item": "20261104-yongle-construction-inconvenience",
    "at": "2026-11-07"
   },
+  "https://www.msn.com/zh-tw/news/other/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gXe6B": {
+   "decision": "kept",
+   "item": "20261107-shalu-monkey",
+   "at": "2026-11-07"
+  },
   "https://www.msn.com/zh-tw/news/other/%E6%B6%88%E8%B2%BB%E6%8B%9A%E5%A5%BD%E9%81%8B-%E5%98%89%E7%BE%A9%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E6%B0%91%E7%9C%BE%E5%B9%B8%E9%81%8B%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A/ar-AA2gEz4U": {
    "decision": "kept",
    "item": "20261103-chiayi-county-shopping",
@@ -567,11 +582,6 @@
    "reason": "房地產",
    "at": "2026-11-07"
   },
-  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-07/2518391.html": {
-   "decision": "kept",
-   "item": "20261106-dongqu-anniv",
-   "at": "2026-11-07"
-  },
   "https://www.nownews.com/news/6889920": {
    "decision": "hidden",
    "reason": "選舉",
@@ -581,6 +591,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-06"
+  },
+  "https://www.scooptw.com/taiwanpost/551064/%E5%95%86%E5%9C%88%E6%A3%8B%E7%89%8C%E7%A4%BE%E6%9A%97%E7%87%9F%E9%BA%BB%E5%B0%87%E8%B3%AD%E5%A0%B4-%E8%90%AC%E8%8F%AF%E8%AD%A6%E7%B2%BE%E6%BA%96%E4%BD%88%E7%BD%B2%E4%B8%80%E7%B6%B2%E6%89%93/": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-07"
   },
   "https://www.sohu.com/a/1097212950_100116740": {
    "decision": "hidden",
