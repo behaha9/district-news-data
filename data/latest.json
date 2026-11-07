@@ -1,7 +1,57 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-07T12:18:54+08:00",
+ "generated_at": "2026-11-07T16:51:49+08:00",
  "items": [
+  {
+   "id": "20261107-taichung-7th-warning",
+   "title": "臺中7期商圈設智慧警示系統，路口地面顯示紅綠燈提醒駕駛",
+   "summary": "臺中市交通局在新光三越、大遠百商圈周邊的臺灣大道與惠來路口設地面燈號警示系統，提醒駕駛注意行人。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-07T16:43:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "青年日報",
+     "url": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=649709",
+     "published_at": "2026-11-07T16:43:00+08:00"
+    }
+   ],
+   "image": "https://www.ydn.com.tw/api/ugc_imagehandler.ashx?NFID=1064529"
+  },
+  {
+   "id": "20261106-taoyuan-district-feature",
+   "title": "桃園市舉辦商圈特色亮點形塑成果發表，市長盼深化一商圈一特色",
+   "summary": "桃園市政府發表商圈特色亮點形塑成果，市長表示將深化一商圈一特色、提升地方產業競爭力。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-07T09:24:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "桃園電子報",
+     "url": "https://tyenews.com/2026/11/1426951/",
+     "published_at": "2026-11-07T09:24:00+08:00"
+    },
+    {
+     "outlet": "報新聞",
+     "url": "https://www.contentplatform.info/articles/566359/%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E7%89%B9%E8%89%B2%E4%BA%AE%E9%BB%9E%E5%BD%A2%E5%A1%91%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E3%80%80%E5%BC%B5%E5%96%84%E6%94%BF%EF%BC%9A%E6%B7%B1%E5%8C%96%E4%B8%80/",
+     "published_at": "2026-11-07T09:20:00+08:00"
+    },
+    {
+     "outlet": "桃園市政府",
+     "url": "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1957392",
+     "published_at": "2026-11-06T21:48:00+08:00"
+    }
+   ],
+   "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2026/11/dd02f331-a6ee-4785-ac97-ed0e8e4ae744_result.webp"
+  },
   {
    "id": "20261106-dongqu-anniv",
    "title": "北市東區周年慶登場，140多家店家推消費滿額抽獎",
@@ -76,25 +126,6 @@
     }
    ],
    "image": "https://uploads.posu.tw/73/738/b2026110622171280.jpg"
-  },
-  {
-   "id": "20261106-taoyuan-district-feature",
-   "title": "桃園市舉辦商圈特色亮點形塑成果發表，市長盼深化一商圈一特色",
-   "summary": "桃園市政府發表商圈特色亮點形塑成果，市長表示將深化一商圈一特色、提升地方產業競爭力。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-06T21:48:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "桃園市政府",
-     "url": "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1957392",
-     "published_at": "2026-11-06T21:48:00+08:00"
-    }
-   ]
   },
   {
    "id": "20261106-taoyuan-kitchen-waste",
@@ -2633,37 +2664,6 @@
     }
    ],
    "image": "https://image.nexttv.com.tw/material/news/img/2026/10/b71c287bbeccbd1dc64b0138c150d8a5.jpg"
-  },
-  {
-   "id": "20261023-yongkang-gyutan",
-   "title": "牛舌佑介插旗台北永康商圈，中山店同步規劃年底前開幕",
-   "summary": "乾杯旗下「牛舌佑介」進駐台北永康商圈，另規劃中山店於年底前開幕。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-10-24T14:25:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "永康商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "永康商圈為115年補助名單，新店進駐可能帶動人潮，可留意店家動態。",
-   "sources": [
-    {
-     "outlet": "旅遊頻道 udn",
-     "url": "https://travel.udn.com/travel/story/7205/9833992",
-     "published_at": "2026-10-24T14:25:00+08:00"
-    },
-    {
-     "outlet": "ETtoday旅遊雲",
-     "url": "https://travel.ettoday.net/article/3259877.htm",
-     "published_at": "2026-10-23T00:00:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35449473.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
   }
  ],
  "discussions": []
