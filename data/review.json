@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-08T12:19:08+08:00",
+ "updated_at": "2026-11-08T16:51:49+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -202,6 +202,11 @@
    "reason": "選舉",
    "at": "2026-11-07"
   },
+  "https://n.yam.com/Article/20261106947182": {
+   "decision": "hidden",
+   "reason": "業配遊記",
+   "at": "2026-11-08"
+  },
   "https://n.yam.com/Article/20261107129736": {
    "decision": "kept",
    "item": "20261106-taoyuan-district-feature",
@@ -215,6 +220,11 @@
   "https://n.yam.com/Article/20261107704049": {
    "decision": "kept",
    "item": "20261106-taoyuan-district-feature",
+   "at": "2026-11-08"
+  },
+  "https://n.yam.com/Article/20261108880730": {
+   "decision": "hidden",
+   "reason": "業配遊記",
    "at": "2026-11-08"
   },
   "https://news.cnyes.com/news/id/6640627": {
@@ -456,6 +466,11 @@
    "decision": "kept",
    "item": "20261103-chiayi-county-shopping",
    "at": "2026-11-06"
+  },
+  "https://www.contentplatform.info/articles/567777/%E6%B7%B1%E8%80%95%E5%8F%B0%E5%8C%97%E8%90%AC%E8%8F%AF%E8%89%8B%E8%88%BA%E6%AD%B7%E5%8F%B2%E6%9C%8D%E9%A3%BE%E5%95%86%E5%9C%88%EF%BC%81%E7%9B%9B%E6%98%8C%E5%85%A7%E8%A1%A3%E8%A1%8C%E4%BB%A5%E5%A4%9A/": {
+   "decision": "hidden",
+   "reason": "業配遊記",
+   "at": "2026-11-08"
   },
   "https://www.ctee.com.tw/news/20261103700028-430805": {
    "decision": "hidden",

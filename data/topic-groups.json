@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-08T12:40:00+08:00",
+  "updated_at": "2026-11-08T17:05:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -172,7 +172,8 @@
           "representative": "https://udn.com/news/story/7266/9861923",
           "urls": [
             "https://udn.com/news/story/7266/9861923",
-            "https://news.ltn.com.tw/news/life/breakingnews/5632539"
+            "https://news.ltn.com.tw/news/life/breakingnews/5632539",
+            "https://money.udn.com/money/story/7307/9861923?from=edn_newest_index"
           ]
         },
         {
@@ -232,7 +233,45 @@
           "note": "食材供應商導入接單系統因應油價變動",
           "representative": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E5%83%B9%E6%A0%BC%E9%A0%BB%E7%B9%81%E8%AE%8A%E5%8B%95-%E9%A3%9F%E6%9D%90%E4%BE%9B%E6%87%89%E5%95%86%E5%B0%8E%E5%85%A5%E6%8E%A5%E5%96%AE%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E8%A8%82%E5%96%AE%E7%A2%BA%E8%AA%8D%E8%88%87%E5%B0%8D%E5%B8%B3%E6%95%88%E7%8E%87-031608325.html",
           "urls": [
-            "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E5%83%B9%E6%A0%BC%E9%A0%BB%E7%B9%81%E8%AE%8A%E5%8B%95-%E9%A3%9F%E6%9D%90%E4%BE%9B%E6%87%89%E5%95%86%E5%B0%8E%E5%85%A5%E6%8E%A5%E5%96%AE%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E8%A8%82%E5%96%AE%E7%A2%BA%E8%AA%8D%E8%88%87%E5%B0%8D%E5%B8%B3%E6%95%88%E7%8E%87-031608325.html"
+            "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E5%83%B9%E6%A0%BC%E9%A0%BB%E7%B9%81%E8%AE%8A%E5%8B%95-%E9%A3%9F%E6%9D%90%E4%BE%9B%E6%87%89%E5%95%86%E5%B0%8E%E5%85%A5%E6%8E%A5%E5%96%AE%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E8%A8%82%E5%96%AE%E7%A2%BA%E8%AA%8D%E8%88%87%E5%B0%8D%E5%B8%B3%E6%95%88%E7%8E%87-031608325.html",
+            "https://news.pchome.com.tw/living/thehubnews/20261105/index-79384856854895306009.html"
+          ]
+        },
+        {
+          "id": "20261108-tainan-hoarding",
+          "note": "台南市嚴查囤貨，桶裝沙拉油價格飆破千元，店家喊苦",
+          "representative": "https://news.tvbs.com.tw/life/4047464",
+          "urls": [
+            "https://news.tvbs.com.tw/life/4047464",
+            "https://news.tvbs.com.tw/videos/7lErIChG_2U",
+            "https://www.ftvnews.com.tw/shortvideo/detail/OYVHjNJbrWk",
+            "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-08/2519581.html"
+          ]
+        },
+        {
+          "id": "20261108-taichung-oil-measures",
+          "note": "台中市府協調擴產、促進口、加強稽查以解沙拉油缺口",
+          "representative": "https://www.taichung.gov.tw/3409455/post",
+          "urls": [
+            "https://www.taichung.gov.tw/3409455/post",
+            "https://n.yam.com/Article/20261108273505"
+          ]
+        },
+        {
+          "id": "20261108-kaohsiung-chicken-price",
+          "note": "沙拉油大缺貨，高雄雞排喊漲、台糖緊急加工",
+          "representative": "https://www.chinatimes.com/realtimenews/20261108002020-260405",
+          "urls": [
+            "https://www.chinatimes.com/realtimenews/20261108002020-260405"
+          ]
+        },
+        {
+          "id": "20261108-price-surge-restaurants",
+          "note": "中聯油脂勒令停工後桶裝沙拉油缺貨，每桶破千元餐飲業者哀嚎",
+          "representative": "https://news.cts.com.tw/cts/society/202611/202611083098664.html",
+          "urls": [
+            "https://news.cts.com.tw/cts/society/202611/202611083098664.html",
+            "http://news.ftv.com.tw/news/detail/2026B08U03M1"
           ]
         }
       ],
