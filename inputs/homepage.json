@@ -1,16 +1,32 @@
 {
- "fetched_at": "2026-11-08T20:50:12+08:00",
- "generated_at": "2026-11-08T20:50:11+08:00",
+ "fetched_at": "2026-11-08T21:44:34+08:00",
+ "generated_at": "2026-11-08T21:44:32+08:00",
  "window": "7d",
  "event_count": 96,
- "article_count": 161,
+ "article_count": 166,
  "items": [
+  {
+   "url": "https://video.ltn.com.tw/article/SUOr-mu1K4w/PLI7xntdRxhw1gDu9DJwSWvhyraLk-de62",
+   "title": "沈伯洋7日提港湖政見大秘寶 緩解塞車住工合一、商圈振興及縫合",
+   "source": "自由時報",
+   "published_at": "2026-11-08T18:00:00+08:00",
+   "event_key": "archive:afa180e0b4696589",
+   "primary": false
+  },
   {
    "url": "https://www.ctwant.com/article/505834/",
    "title": "網紅成促進商圈經濟重要角色 每年帶動收益粗估2.39億美元 | 社會 | CTWANT",
    "source": "CTWANT",
    "published_at": "2026-11-08T15:25:00+08:00",
    "event_key": "art:487fbf841dff23d1fd08d7dbcd6a93f49f221d08e5e8b79b9e82d84acd3f0f9f",
+   "primary": true
+  },
+  {
+   "url": "https://n.yam.com/Article/20261108449966",
+   "title": "地面也會亮紅燈 中市7期商圈路口設智慧行人安全警示系統",
+   "source": "蕃新聞",
+   "published_at": "2026-11-08T13:16:00+08:00",
+   "event_key": "art:7a6fc3f2bd73ee519a420f6ec37ff2d7d2b65100a699ca4df7013144146b9035",
    "primary": true
   },
   {
@@ -89,7 +105,7 @@
    "title": "府中商圈旁! 2騎士路中開打 扔安全帽險砸車 #shorts",
    "source": "EBC 東森新聞",
    "published_at": "2026-11-08T06:47:39+08:00",
-   "event_key": "art:28bb0bc87a1ff6e4a08131b82020e2a0ad43e29eef60889bbeb8480437de606e",
+   "event_key": "archive:60d7fa2443c6798f",
    "primary": true,
    "summary": "訂閱【東森新聞】現在就加入》[內部路徑已隱去] ...",
    "date_only": true
@@ -222,16 +238,20 @@
    "title": "中市7期商圈設智慧警示系統 提醒駕駛人提高警覺 | 青年日報",
    "source": "LINE TODAY",
    "published_at": "2026-11-07T17:10:00+08:00",
-   "event_key": "art:c6364d1f043537893017ce3c34acccbb77954abe401739f7d8752d79f563a884",
-   "primary": true
+   "event_key": "art:fd0e2cadc5be9f0f7615472e21beeb3102e52827c43611c5958b2cdaec33d455",
+   "primary": false,
+   "summary": "中市府交通局為行人安全再添科技助力!近來很多到新光三越、大遠百商圈周邊消費、觀光的民眾,發現台灣大道與惠來路口地面也會發出紅綠燈訊號。市府交通局長葉昭甫今(7)日表示,這套「智慧行人安全警示系統」,結合AI智慧攝影機、地嵌式警示燈及投射式紅綠燈,建置辨識人車動態的智慧小幫手,在行人停留於穿越道時主動發出警示,駕駛人得以",
+   "date_only": true
   },
   {
    "url": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=649709",
    "title": "中市7期商圈設智慧警示系統 提醒駕駛人提高警覺",
    "source": "青年日報・生活",
    "published_at": "2026-11-07T16:43:00+08:00",
-   "event_key": "art:c6364d1f043537893017ce3c34acccbb77954abe401739f7d8752d79f563a884",
-   "primary": false
+   "event_key": "art:fd0e2cadc5be9f0f7615472e21beeb3102e52827c43611c5958b2cdaec33d455",
+   "primary": false,
+   "summary": "中市府交通局為行人安全再添科技助力!近來很多到新光三越、大遠百商圈周邊消費、觀光的民眾,發現台灣大道與惠來路口地面也會發出紅綠燈訊號。市府交通局長葉昭甫今(7)日表示,這套「智慧行人安全警示系統」,結合AI智慧攝影機、地嵌式警示燈及投射式紅綠燈,建置辨識人車動態的智慧小幫手,在行人停留於穿越道時主動發出警示,駕駛人得以",
+   "date_only": true
   },
   {
    "url": "https://n.yam.com/Article/20261107394074",
@@ -368,8 +388,10 @@
    "title": "中市7期商圈設智慧警示系統 提醒駕駛人提高警覺",
    "source": "青年日報",
    "published_at": "2026-11-07T08:43:00+08:00",
-   "event_key": "art:c6364d1f043537893017ce3c34acccbb77954abe401739f7d8752d79f563a884",
-   "primary": false
+   "event_key": "art:fd0e2cadc5be9f0f7615472e21beeb3102e52827c43611c5958b2cdaec33d455",
+   "primary": true,
+   "summary": "中市府交通局為行人安全再添科技助力!近來很多到新光三越、大遠百商圈周邊消費、觀光的民眾,發現台灣大道與惠來路口地面也會發出紅綠燈訊號。市府交通局長葉昭甫今(7)日表示,這套「智慧行人安全警示系統」,結合AI智慧攝影機、地嵌式警示燈及投射式紅綠燈,建置辨識人車動態的智慧小幫手,在行人停留於穿越道時主動發出警示,駕駛人得以",
+   "date_only": true
   },
   {
    "url": "https://n.yam.com/Article/20261107489569",
@@ -396,49 +418,28 @@
    "date_only": true
   },
   {
-   "url": "https://news.ltn.com.tw/news/Taipei/paper/1777571",
-   "title": "店面掛招租 蔣稱東區商圈活起來",
-   "source": "自由時報・地方",
-   "published_at": "2026-11-07T05:30:00+08:00",
-   "event_key": "art:e68a6fa180ccb2c793ad2a3c5bb041b254c2607f00800e99cafce58528d88e8d",
-   "primary": true,
-   "summary": "〔記者何玉華/台北報導〕台北市長蔣萬安日前在電視辯論會上說,「大巨蛋讓東區商圈活起來,店面出租率超過九成」,部分當地店家體感有別,蔣萬安昨利用出席「東區週年慶」活動之便,安排東區掃街,受到商家歡迎。此外,蔣萬安於昨天中午訪視成淵高中之前,一早也先出席在建中舉辦的「台北國際青年科學論壇(TIYSF)」...",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    "東區商圈"
-   ]
-  },
-  {
    "url": "https://news.ltn.com.tw/news/politics/paper/1777571",
    "title": "店面掛招租 蔣稱東區商圈活起來",
    "source": "自由時報",
    "published_at": "2026-11-07T05:30:00+08:00",
-   "event_key": "art:e68a6fa180ccb2c793ad2a3c5bb041b254c2607f00800e99cafce58528d88e8d",
-   "primary": false,
-   "summary": "〔記者何玉華/台北報導〕台北市長蔣萬安日前在電視辯論會上說,「大巨蛋讓東區商圈活起來,店面出租率超過九成」,部分當地店家體感有別,蔣萬安昨利用出席「東區週年慶」活動之便,安排東區掃街,受到商家歡迎。此外,蔣萬安於昨天中午訪視成淵高中之前,一早也先出席在建中舉辦的「台北國際青年科學論壇(TIYSF)」...",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    "東區商圈"
-   ]
+   "event_key": "art:d19aae13e3e0d8075bb43e0a8cd13d451e34056644f87e61d4ccb241162c6d13",
+   "primary": true
+  },
+  {
+   "url": "https://news.ltn.com.tw/news/Taipei/paper/1777571",
+   "title": "店面掛招租 蔣稱東區商圈活起來",
+   "source": "自由時報・地方",
+   "published_at": "2026-11-07T05:30:00+08:00",
+   "event_key": "art:d19aae13e3e0d8075bb43e0a8cd13d451e34056644f87e61d4ccb241162c6d13",
+   "primary": false
   },
   {
    "url": "https://news.ltn.com.tw/amp/news/politics/paper/1777571",
    "title": "店面掛招租 蔣稱東區商圈活起來",
    "source": "自由時報",
    "published_at": "2026-11-07T05:30:00+08:00",
-   "event_key": "art:e68a6fa180ccb2c793ad2a3c5bb041b254c2607f00800e99cafce58528d88e8d",
-   "primary": false,
-   "summary": "〔記者何玉華/台北報導〕台北市長蔣萬安日前在電視辯論會上說,「大巨蛋讓東區商圈活起來,店面出租率超過九成」,部分當地店家體感有別,蔣萬安昨利用出席「東區週年慶」活動之便,安排東區掃街,受到商家歡迎。此外,蔣萬安於昨天中午訪視成淵高中之前,一早也先出席在建中舉辦的「台北國際青年科學論壇(TIYSF)」...",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    "東區商圈"
-   ]
+   "event_key": "art:d19aae13e3e0d8075bb43e0a8cd13d451e34056644f87e61d4ccb241162c6d13",
+   "primary": false
   },
   {
    "url": "https://www.chinatimes.com/newspapers/20261107000414-260204",
@@ -467,7 +468,7 @@
    "title": "板橋重慶商圈機能性佳| 區域觀測站",
    "source": "udn房地產",
    "published_at": "2026-11-07T02:48:00+08:00",
-   "event_key": "art:96eed5327ce1a207e3cd6a568e0c76fe8716e8851e29d217b1e448911a763332",
+   "event_key": "art:7ed30f6b3a8ec251bf6ce9939455c727cc883f7939174df02c02b9493c413a74",
    "primary": false
   },
   {
@@ -475,24 +476,39 @@
    "title": "一中商圈黃金角店「月租68萬」是大違建 占巷擋出入#shorts",
    "source": "EBC 東森新聞",
    "published_at": "2026-11-07T01:54:21+08:00",
-   "event_key": "art:83cfb0d2bc318186939b02a0b43914f5ab54358a20c94f11a3413cd3603b44c7",
+   "event_key": "archive:f1eaf5dbb2e74c97",
    "primary": true,
    "summary": "訂閱【東森新聞】現在就加入》[內部路徑已隱去] ...",
+   "date_only": true
+  },
+  {
+   "url": "https://www.yesmedia.com.tw/%e6%a1%83%e5%9c%92%e6%8e%a8%e5%8b%95%e4%b8%80%e5%95%86%e5%9c%88%e4%b8%80%e7%89%b9%e8%89%b2-%e7%88%ad%e5%8f%962300%e8%90%ac%e8%a3%9c%e5%8a%a9%e8%bc%94%e5%b0%8e%e7%87%9f%e9%81%8b/",
+   "title": "桃園推動一商圈一特色 爭取2300萬補助輔導營運",
+   "source": "是新聞",
+   "published_at": "2026-11-07T01:25:00+08:00",
+   "event_key": "art:3fc95597531cb1e3386a9271f7bf041810136e4d1dc158109734c53f7d5cf781",
+   "primary": false,
+   "summary": "桃園市長張善政昨(6)日晚間前往桃園區,出席「115年桃園市商圈特色亮點形塑成果發表會」。張善政表示,桃園商圈涵蓋山區、濱海及都會地帶,各具文化底蘊與產業特色,市府將持續推動「一商圈一特色」,整合經發、文化及農業等跨局處資源,協助商圈發掘在地特色、強化品牌行銷,讓桃園特色商圈走向全台,進一步提升地方產業競爭力。 張善政",
    "cities": [
-    "台中市"
-   ],
-   "districts": [
-    "一中街商圈"
+    "桃園市"
    ],
    "date_only": true
+  },
+  {
+   "url": "https://house.udn.com/house/story/123590/9862676?list_ch2_index",
+   "title": "板橋重慶商圈機能性佳| 區域觀測站",
+   "source": "udn房地產",
+   "published_at": "2026-11-07T01:16:00+08:00",
+   "event_key": "art:7ed30f6b3a8ec251bf6ce9939455c727cc883f7939174df02c02b9493c413a74",
+   "primary": true
   },
   {
    "url": "https://house.udn.com/house/story/123590/9862676",
    "title": "板橋重慶商圈機能性佳| 區域觀測站",
    "source": "udn房地產",
    "published_at": "2026-11-07T01:16:00+08:00",
-   "event_key": "art:96eed5327ce1a207e3cd6a568e0c76fe8716e8851e29d217b1e448911a763332",
-   "primary": true
+   "event_key": "art:7ed30f6b3a8ec251bf6ce9939455c727cc883f7939174df02c02b9493c413a74",
+   "primary": false
   },
   {
    "url": "https://n.yam.com/Article/20261107704049",
@@ -615,12 +631,23 @@
    ]
   },
   {
+   "url": "https://mknews.com.tw/2026/11/1014299/",
+   "title": "賴瑞隆走訪南國商圈掀熱潮!首推「幸福川計畫」打造多元友善高雄",
+   "source": "天天上新聞",
+   "published_at": "2026-11-06T21:05:00+08:00",
+   "event_key": "art:042f61340edd82ec7853f1e81f4e31c7e7afc4dadb330ff5bb0b29cfad8a5cb7",
+   "primary": true,
+   "cities": [
+    "高雄市"
+   ]
+  },
+  {
    "url": "https://n.yam.com/Article/20261106399142",
    "title": "賴瑞隆走訪南國商圈掀熱潮!首推「幸福川計畫」打造多元友善高雄",
    "source": "蕃新聞",
    "published_at": "2026-11-06T20:14:00+08:00",
-   "event_key": "art:b226fa734f2cc7ef67e72cd8eb2d4fbab53d7700b9c9d5b7520f2e331c0c1248",
-   "primary": true,
+   "event_key": "art:042f61340edd82ec7853f1e81f4e31c7e7afc4dadb330ff5bb0b29cfad8a5cb7",
+   "primary": false,
    "cities": [
     "高雄市"
    ]
@@ -630,32 +657,32 @@
    "title": "賴瑞隆與新住民拍片推商圈改造 柯志恩MV破百萬觀看",
    "source": "放言Fount Media",
    "published_at": "2026-11-06T20:08:00+08:00",
-   "event_key": "art:d8fc400889cd103462b15f943de588335605bf6cf10e4c80030399bebae1bd42",
-   "primary": false
+   "event_key": "archive:29eb893f755a812f",
+   "primary": true
   },
   {
    "url": "https://www.tristarnews.com.tw/news_ii.html?ID=39000",
    "title": "亞灣商圈大遠百週年慶 搶攻百億商機大餅 低門檻高回饋",
    "source": "三星傳媒",
    "published_at": "2026-11-06T18:23:00+08:00",
-   "event_key": "art:d359a4c2c2494d2a16d4de904f91ed9fde8887063f63e58a69b8462a74cb339b",
-   "primary": false
+   "event_key": "archive:96038eec12bc5b3c",
+   "primary": true
   },
   {
    "url": "https://n.yam.com/Article/20261106947182",
    "title": "亞灣商圈大遠百週年慶 搶攻百億商機大餅 低門檻高回饋",
    "source": "蕃新聞",
    "published_at": "2026-11-06T18:17:00+08:00",
-   "event_key": "art:d359a4c2c2494d2a16d4de904f91ed9fde8887063f63e58a69b8462a74cb339b",
-   "primary": true
+   "event_key": "archive:96038eec12bc5b3c",
+   "primary": false
   },
   {
    "url": "https://www.cna.com.tw/news/aipl/202611060266.aspx",
    "title": "賴瑞隆與新住民拍片推商圈改造柯志恩MV破百萬觀看| 政治",
    "source": "中央社 CNA",
    "published_at": "2026-11-06T17:58:00+08:00",
-   "event_key": "art:d8fc400889cd103462b15f943de588335605bf6cf10e4c80030399bebae1bd42",
-   "primary": true
+   "event_key": "archive:29eb893f755a812f",
+   "primary": false
   },
   {
    "url": "https://more-news.tw/761603/",
@@ -678,7 +705,7 @@
    "title": "賴瑞隆走訪南國商圈掀熱潮!新住民助陣母語喊「當選」",
    "source": "NOWnews今日新聞",
    "published_at": "2026-11-06T14:31:00+08:00",
-   "event_key": "art:b13fda45bd8c515c9f05de6b79458ea878ab9c937a6d466454c72fae8eaa461d",
+   "event_key": "archive:ebebebf8c589053a",
    "primary": true,
    "summary": "高雄市長候選人賴瑞隆今(6)日發布短影音,化身「南國體驗員」,在新住民朋友熱情陪同下,走訪高雄車站周邊的南國商圈,感受異國文化魅力。賴瑞隆更挑戰以越南語、印尼語介紹美食,獲得現場熱情鼓勵,眾人最後以不同母語齊聲高喊「當選」。賴瑞隆表示,他已提出「新高雄一家人」新住民五大政策,協助新住民店家發展,一起看見高雄的豐富面貌。",
    "date_only": true
@@ -781,9 +808,15 @@
    "title": "獨家》一中商圈黃金角店「月租68萬」是大違建 占巷擋出入@newsebc",
    "source": "EBC 東森新聞",
    "published_at": "2026-11-06T11:09:32+08:00",
-   "event_key": "archive:e7a3c870e66b9766",
+   "event_key": "art:2bbdaffce39654518912f4e650b373a85d4c6bfaa3a99f0a608f16bb491e3eb9",
    "primary": true,
    "summary": "台中一中商圈,位在一中街跟太平路的黃金角間店面,過去仁愛眼鏡租了超過20年,現在傳出有公仔店,以每個月68萬的租金承租下來,不過最近才裝潢到一半,卻被住戶指控,占用後面防火巷違法增建,導致出入不方便,更擔心發生火警,影響逃生,住戶向都發局檢舉,結果一查才發現,整棟都是違建,等於房東違法收租至少超過30年。",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    "一中街商圈"
+   ],
    "date_only": true
   },
   {
@@ -914,19 +947,6 @@
    "primary": false
   },
   {
-   "url": "https://money.udn.com/money/story/5720/9861439",
-   "title": "ITF 桃園館繪出老街與星空 消費即贈好禮、滿額再加碼",
-   "source": "經濟日報",
-   "published_at": "2026-11-06T00:00:00+08:00",
-   "event_key": "art:27fe77df79562bb93a2ce4c37322d691ff83f2f3d1775094fb0174c97accb7f0",
-   "primary": true,
-   "summary": "「2026台灣國際旅展」(ITF)即起日至9日在台北南港展覽館一館登場,桃園館將「2026大溪豆干旅遊節」、「大龍門古道」及「拉拉山國際暗空勝地」三大秋冬旅遊亮點融入展館設計,以繪畫風格呈現老街、古道與星空特色,並集結住宿、餐券及特色伴手禮等多項旅展限定優惠,現場消費就送實用好禮,滿額再加碼。",
-   "cities": [
-    "桃園市"
-   ],
-   "date_only": true
-  },
-  {
    "url": "https://money.udn.com/money/story/7843/9860750",
    "title": "星龍鳳玩轉新中華料理 日式飲食美學揉合經典中菜 台北永康商圈挑動饕客味蕾",
    "source": "經濟日報",
@@ -940,6 +960,16 @@
    "districts": [
     "永康商圈"
    ],
+   "date_only": true
+  },
+  {
+   "url": "https://money.udn.com/money/story/5720/9861439",
+   "title": "ITF 桃園館繪出老街與星空 消費即贈好禮、滿額再加碼",
+   "source": "經濟日報",
+   "published_at": "2026-11-06T00:00:00+08:00",
+   "event_key": "archive:ae485ab74504720d",
+   "primary": true,
+   "summary": "「2026台灣國際旅展」(ITF)即起日至9日在台北南港展覽館一館登場,桃園館將「2026大溪豆干旅遊節」、「大龍門古道」及「拉拉山國際暗空勝地」三大秋冬旅遊亮點融入展館設計,以繪畫風格呈現老街、古道與星空特色,並集結住宿、餐券及特色伴手禮等多項旅展限定優惠,現場消費就送實用好禮,滿額再加碼。",
    "date_only": true
   },
   {
@@ -1125,15 +1155,9 @@
    "title": "全台首創! 高雄三多商圈設「標線型圓環」事故降低",
    "source": "民視新聞網",
    "published_at": "2026-11-04T16:58:00+08:00",
-   "event_key": "art:877ef8a5fcbba1b6c06b5ab66faa83d3bd4dc6a713690c9810acf94c6a97c34f",
-   "primary": false,
+   "event_key": "archive:cf388b9c2bb7ab03",
+   "primary": true,
    "summary": "南部中心/曾依翔 廖錦雄 鄧山田 高雄市報導 百貨公司或是菜市場附近的多叉路口,常會擦撞車禍,高雄市交通局在三多百貨商圈首創全台首個標線型圓環,另外也在肉豆公傳統菜市場,完成標線型圓環,附近攤商很有感,直呼事故真的有減少,交通局統計,標線型圓環設置後,事故意外降了三分之二。",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    "三多商圈"
-   ],
    "date_only": true
   },
   {
@@ -1255,15 +1279,9 @@
    "title": "全台首創! 高雄三多商圈設\"標線型圓環\" 事故降低",
    "source": "民視新聞網",
    "published_at": "2026-11-04T08:58:59+08:00",
-   "event_key": "art:877ef8a5fcbba1b6c06b5ab66faa83d3bd4dc6a713690c9810acf94c6a97c34f",
-   "primary": true,
+   "event_key": "archive:cf388b9c2bb7ab03",
+   "primary": false,
    "summary": "南部中心/曾依翔 廖錦雄 鄧山田 高雄市報導 百貨公司或是菜市場附近的多叉路口,常會擦撞車禍,高雄市交通局在三多百貨商圈首創全台首個標線型圓環,另外也在肉豆公傳統菜市場,完成標線型圓環,附近攤商很有感,直呼事故真的有減少,交通局統計,標線型圓環設置後,事故意外降了三分之二。",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    "三多商圈"
-   ],
    "date_only": true
   },
   {
@@ -1271,15 +1289,9 @@
    "title": "全台首創! 高雄三多商圈設\"標線型圓環\" 事故降低",
    "source": "民視新聞網",
    "published_at": "2026-11-04T08:58:59+08:00",
-   "event_key": "art:877ef8a5fcbba1b6c06b5ab66faa83d3bd4dc6a713690c9810acf94c6a97c34f",
+   "event_key": "archive:cf388b9c2bb7ab03",
    "primary": false,
    "summary": "南部中心/曾依翔 廖錦雄 鄧山田 高雄市報導 百貨公司或是菜市場附近的多叉路口,常會擦撞車禍,高雄市交通局在三多百貨商圈首創全台首個標線型圓環,另外也在肉豆公傳統菜市場,完成標線型圓環,附近攤商很有感,直呼事故真的有減少,交通局統計,標線型圓環設置後,事故意外降了三分之二。",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    "三多商圈"
-   ],
    "date_only": true
   },
   {
@@ -1295,15 +1307,9 @@
    "title": "全台首創! 高雄三多商圈設「標線型圓環」事故大減-民視新聞",
    "source": "FTV 民視新聞",
    "published_at": "2026-11-04T05:52:23+08:00",
-   "event_key": "art:c440680d145e7cb0595f40fef2275d67bf7f595772f21b4bb9c6585704e59705",
-   "primary": true,
-   "summary": "【民視即時新聞】百貨公司或是菜市場附近的多叉路口,常會擦撞車禍,高雄市交通局在三多百貨商圈首創全台首個標線型圓環,另外也在肉豆公傳統菜市場,完成標線型圓環,附近攤商很有感,直呼事故真的有減少,交通局統計,標線型圓環設置後,事故意外降了三分之二。#台灣新聞 #TaiwanNews #民視新聞 #FTV新聞 #Taiwan",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    "三多商圈"
-   ],
+   "event_key": "archive:cf388b9c2bb7ab03",
+   "primary": false,
+   "summary": "南部中心/曾依翔 廖錦雄 鄧山田 高雄市報導 百貨公司或是菜市場附近的多叉路口,常會擦撞車禍,高雄市交通局在三多百貨商圈首創全台首個標線型圓環,另外也在肉豆公傳統菜市場,完成標線型圓環,附近攤商很有感,直呼事故真的有減少,交通局統計,標線型圓環設置後,事故意外降了三分之二。",
    "date_only": true
   },
   {
@@ -1311,15 +1317,9 @@
    "title": "全台首創! 高雄三多商圈設「標線型圓環」事故大減-民視新聞",
    "source": "FTV 民視新聞",
    "published_at": "2026-11-04T05:49:47+08:00",
-   "event_key": "art:c440680d145e7cb0595f40fef2275d67bf7f595772f21b4bb9c6585704e59705",
+   "event_key": "archive:cf388b9c2bb7ab03",
    "primary": false,
-   "summary": "【民視即時新聞】百貨公司或是菜市場附近的多叉路口,常會擦撞車禍,高雄市交通局在三多百貨商圈首創全台首個標線型圓環,另外也在肉豆公傳統菜市場,完成標線型圓環,附近攤商很有感,直呼事故真的有減少,交通局統計,標線型圓環設置後,事故意外降了三分之二。#台灣新聞 #TaiwanNews #民視新聞 #FTV新聞 #Taiwan",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    "三多商圈"
-   ],
+   "summary": "南部中心/曾依翔 廖錦雄 鄧山田 高雄市報導 百貨公司或是菜市場附近的多叉路口,常會擦撞車禍,高雄市交通局在三多百貨商圈首創全台首個標線型圓環,另外也在肉豆公傳統菜市場,完成標線型圓環,附近攤商很有感,直呼事故真的有減少,交通局統計,標線型圓環設置後,事故意外降了三分之二。",
    "date_only": true
   },
   {
@@ -1396,7 +1396,7 @@
    "title": "舊商圈翻新 永和頂溪公辦都更",
    "source": "中時新聞網",
    "published_at": "2026-11-03T20:10:00+08:00",
-   "event_key": "archive:d1c09a286e784731",
+   "event_key": "art:8c7e3eaf02f35ef54fbf46b6a57a3a4b853df818ff813523819213c4cbbfe529",
    "primary": true,
    "summary": "新北市永和區開發較早,面臨建物老舊、巷道狹窄等問題,新北市府積極推動大面積公辦都更。頂溪捷運周邊公辦都更案(A區)3日舉行簽約儀式,在市長侯友宜見證下,由新北住都中心董事代表劉和然與獲選實施者簽約,預計興建4棟28至35層高樓,並規畫市民活動中心、公共托老及社福空間,改善居住環境,提升公共服務品質。",
    "date_only": true
@@ -1504,7 +1504,7 @@
    "title": "「2026天光威購節」天光大市集11/7、11/8連2日登場*免費領取「好客威購卡」串聯市集與商圈 優惠一路至12月20日",
    "source": "fclnews",
    "published_at": "2026-11-03T12:49:00+08:00",
-   "event_key": "art:85b13918b37a13b184a19d1c8f241f26e708de325a1555bb2644c2ccf0bbda74",
+   "event_key": "archive:980f5e69baa5868",
    "primary": true,
    "summary": "-台灣新聞雲報提供台灣最中立最公正最即時的各類型新聞報導,包括政治新聞、焦點新聞、社會新聞、國際新聞、地方新聞、娛樂新聞、科技新聞、專訪新聞、政黨新聞、藝文活動、美食推廣、體育賽事等相關新聞報導。歡迎各界好友踴躍贊助推廣。",
    "date_only": true
@@ -1514,7 +1514,7 @@
    "title": "潮州“双11”全城商圈嘉年华来了! 7大商圈优惠,一次看懂",
    "source": "MSN",
    "published_at": "2026-11-03T12:39:00+08:00",
-   "event_key": "art:27d4d7df2f5847d24adfa0ae9f971b55f7d3db381b738a3b7640146477dd98fd",
+   "event_key": "archive:cf159baec57f7e26",
    "primary": true,
    "summary": "11月7日至12月7日,2026潮州市“潮购双十一 乐享本地惠”全城商圈嘉年华将举行。本次活动以潮州财富中心为主阵地,串联牌坊街百货大楼、奎元广场、东宝广场、潮人公园、唐商广场、莱美 ...",
    "date_only": true
@@ -1611,9 +1611,9 @@
    "title": "市府代售地47標 國華商圈在列",
    "source": "Yahoo奇摩新聞",
    "published_at": "2026-11-02T20:17:37+08:00",
-   "event_key": "art:a04802e9ef5fe33c8fc80ed3a8ae81adcd41288d1533715754c755a350552df2",
-   "primary": true,
-   "summary": "本次共計推出四十七標,其中坐落於熱門核心商段的海安路與國華街商圈中西區普濟段商業區土地(第四、五標)最受矚目,而底價最高、達一千二百八十五萬五千二百元的善化區茄拔段鄉村區乙種建築用地(第二標)也同樣吸睛,兩大精華地段皆成為本批標案中市場高度關注的矚目焦點。",
+   "event_key": "art:bcbae22dd9eecbdcb1729ab30a52b6bf37c4c80721b0291774185879871177df",
+   "primary": false,
+   "summary": "記者王家林∕台南報導 市府地政局代為標售一一五年度第二批地籍清理未能釐清權屬土地,自二0二六年十一月一日起至十一月十八日止受理投標,預計於十一月十九日正式開標。 本次共計推出四十七標,其中坐落於熱門核心商段的海安路與國華街商圈中西區普濟段商業區土地(第四、五標)最受矚目,而底價最高、達一千二百八十五萬五千二百元的善化區",
    "date_only": true
   },
   {
@@ -1650,12 +1650,9 @@
    "title": "花蓮金三角商圈業者嘆生意難做 張峻提3階段復甦成立「觀光小組」",
    "source": "SCOOP",
    "published_at": "2026-11-02T12:35:00+08:00",
-   "event_key": "art:c9e5d87972324955030482cd02604b0046f8d6210d84f60b34d3acaf9b7c278d",
+   "event_key": "archive:e9d35e1b310c38c6",
    "primary": true,
    "summary": "CNEWS匯流新聞網記者黃泰宇/花蓮報導 無黨籍花蓮縣長候選人張峻1日在志工陪同下,前往花蓮市金三角商圈徒步拜票,向店家及民眾請託支持。張峻表示,適逢週日,沿途卻見多處店面鐵門深鎖、張貼招租告示,部分營業店家也門庭冷清。他提出3階段復甦方案,並承諾未來會持續調整措施,要將經費用在對的地方,要讓公帑真正幫助業者,帶動產業",
-   "cities": [
-    "花蓮縣"
-   ],
    "date_only": true
   },
   {
@@ -1663,9 +1660,9 @@
    "title": "市府代售地47標 國華商圈在列",
    "source": "中華新聞雲",
    "published_at": "2026-11-02T12:17:00+08:00",
-   "event_key": "art:a04802e9ef5fe33c8fc80ed3a8ae81adcd41288d1533715754c755a350552df2",
-   "primary": false,
-   "summary": "本次共計推出四十七標,其中坐落於熱門核心商段的海安路與國華街商圈中西區普濟段商業區土地(第四、五標)最受矚目,而底價最高、達一千二百八十五萬五千二百元的善化區茄拔段鄉村區乙種建築用地(第二標)也同樣吸睛,兩大精華地段皆成為本批標案中市場高度關注的矚目焦點。",
+   "event_key": "art:bcbae22dd9eecbdcb1729ab30a52b6bf37c4c80721b0291774185879871177df",
+   "primary": true,
+   "summary": "記者王家林∕台南報導 市府地政局代為標售一一五年度第二批地籍清理未能釐清權屬土地,自二0二六年十一月一日起至十一月十八日止受理投標,預計於十一月十九日正式開標。 本次共計推出四十七標,其中坐落於熱門核心商段的海安路與國華街商圈中西區普濟段商業區土地(第四、五標)最受矚目,而底價最高、達一千二百八十五萬五千二百元的善化區",
    "date_only": true
   },
   {
@@ -1703,12 +1700,9 @@
    "title": "花蓮金三角商圈業者嘆生意難做 張峻提3階段復甦成立「觀光小組」",
    "source": "蕃新聞",
    "published_at": "2026-11-02T00:00:00+08:00",
-   "event_key": "art:c9e5d87972324955030482cd02604b0046f8d6210d84f60b34d3acaf9b7c278d",
+   "event_key": "archive:e9d35e1b310c38c6",
    "primary": false,
    "summary": "CNEWS匯流新聞網記者黃泰宇/花蓮報導 無黨籍花蓮縣長候選人張峻1日在志工陪同下,前往花蓮市金三角商圈徒步拜票,向店家及民眾請託支持。張峻表示,適逢週日,沿途卻見多處店面鐵門深鎖、張貼招租告示,部分營業店家也門庭冷清。他提出3階段復甦方案,並承諾未來會持續調整措施,要將經費用在對的地方,要讓公帑真正幫助業者,帶動產業",
-   "cities": [
-    "花蓮縣"
-   ],
    "date_only": true
   },
   {
@@ -1716,7 +1710,7 @@
    "title": "張文興領軍萬聖節親子變裝踩街 傳承幸福回憶帶動在地商圈交流",
    "source": "蕃新聞",
    "published_at": "2026-11-02T00:00:00+08:00",
-   "event_key": "art:4706cd70707a6f47f2100c6283406e6d93a2f0b80be6f10393139ee49fed6ebe",
+   "event_key": "archive:dd981a892cdc4323",
    "primary": true,
    "summary": "「不給糖,就搗蛋!」新竹市關埔地區一年一度的萬聖節變裝踩街活動,今年以「海盜」為主題,由協會理事長、同時也是新竹市東區市議員14號參選人張文興,化身海盜船長,與眾多親子家庭走上街頭。現場小小海盜、蜘蛛人、公主、巫師及各式卡通人物齊聚,大小朋友創意變裝、歡笑不斷,讓關埔街頭洋溢濃濃的萬聖節氣氛。",
    "date_only": true

@@ -1,15 +1,13 @@
 {
- "fetched_at": "2026-11-08T20:50:16+08:00",
+ "fetched_at": "2026-11-08T21:44:38+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
   "raw": 104,
-  "kept": 40,
-  "resolved": 40,
-  "items": 40,
-  "resolve_this_run": {
-   "online": 8
-  }
+  "kept": 39,
+  "resolved": 39,
+  "items": 39,
+  "resolve_this_run": {}
  },
  "items": [
   {
@@ -324,12 +322,12 @@
   },
   {
    "title": "漏網鏡頭》蔣萬安東區商圈掃街拜票 強碰「洋流」了",
-   "google_url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOcVo5TU9VR0xHQ1RSd0lyNjl6bFRzUy1BSUh6YVVKX040VGhNWGlzUmFIZXhqQmFidXlwY214ZlVXZUlFdGxGR3hTb0YwMUp0b0l3cFFrTVhWc19fbmthVnhYS2xZeHc3Z0cwZFpGSDBmZTA3VkhoZWh5NlV6WWloVlpINWtXNmg2c1p2MHJBTDcxUmlsMzkteVJyQ0xsdmYtYm1TZEJGWmhRaUd4NXFKZV9mWTNyRXBiZjlMdkRQcXZXLTd0WGtfdFp6N0VVM2dLQUZKRDB2ZFhSNm80OGwzQU5QSUlGZlRmSlludXRjOE9lSmN4T1NGcVJGT2tPd0h4OUtMRUJUTlBjMlNGeG5iWVF4Uy1hczFmQWJJYUZPS2NkMmktd0RRSDRBWGxqQkVyUzBMRk9RZ3A2c2g4T0w4NDBQNWxWVTJm?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
+   "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LNlhWQlJITzhMOHpuRGJDeU1TYVdLTU1TUjJlM1YwZFlWZzdOa2J3SVpvNjZBcHA2cS0tTEllUVlQaUdmaHF4UlZBUWdfWnl6ZG12TzR1OGJ5RmRlS1ZTOFVqZGw4Y0ZmSkHSAW9BVV95cUxOZE9sd3RJTFlmaGxJVTFpRzN2dXpMN0RWR2hPeVFQYzN5dXF0cUxlMktTU2JTdkFEck9ZREtfaDhudDY3Vnc1R1VvaXhFM1RqX09sdlpwdXRGOENpYjNsVmVKODc0VW1BTEFkNDhDYWM?oc=5",
+   "source": "自由時報",
+   "source_site": "https://news.ltn.com.tw",
    "published_at": "2026-11-07T05:58+08:00",
    "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E6%BC%8F%E7%B6%B2%E9%8F%A1%E9%A0%AD-%E8%94%A3%E8%90%AC%E5%AE%89%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E6%8E%83%E8%A1%97%E6%8B%9C%E7%A5%A8-%E5%BC%B7%E7%A2%B0-%E6%B4%8B%E6%B5%81-%E4%BA%86-215805539.html",
+   "url": "https://news.ltn.com.tw/news/politics/breakingnews/5632137",
    "resolved": true
   },
   {
@@ -364,12 +362,12 @@
   },
   {
    "title": "板橋重慶商圈機能性佳| 區域觀測站",
-   "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04WklfRXZtSjhOQ2pNcWJZTVhmOXBJN0NGeDA2ajJ6NFp1ZW5KWWZrNXExck1YTVhLUFRCdEdEbmRrdDNnYWwzeS1KaW1aankwUmF2UWpYVmdlLTlta0luTkY2N3FvS0lySzh4ejBnQTA?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VWWt5QlJub3pFTmJyXzd3TVl3NDVvb1BUd3F2TFRVcEw2U2wxV2U3bFhWdFJXbndQMmxKMG1vMHQyUTdkYjVHbnkwUV9UZlBWTDAzcERSdlptTGRZ?oc=5",
    "source": "udn房地產",
    "source_site": "https://house.udn.com",
    "published_at": "2026-11-07T01:16+08:00",
    "query": "商圈",
-   "url": "https://house.udn.com/house/story/123590/9862676?list_ch2_index",
+   "url": "https://house.udn.com/house/story/123590/9862676",
    "resolved": true
   },
   {
@@ -400,16 +398,6 @@
    "published_at": "2026-11-06T21:48+08:00",
    "query": "商圈",
    "url": "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1957392",
-   "resolved": true
-  },
-  {
-   "title": "賴瑞隆走訪南國商圈掀熱潮！首推「幸福川計畫」打造多元友善高雄",
-   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SWlBhUUdibkEtd2hqYXhIeXV1UXh0dDlqQ25uRjZhQUtUTWpER3phREM4eVo0RUZ6OU1HT0dIQkx6U21fMU1lWHB3b1pCOG8?oc=5",
-   "source": "天天上新聞",
-   "source_site": "https://mknews.com.tw",
-   "published_at": "2026-11-06T21:05+08:00",
-   "query": "商圈",
-   "url": "https://mknews.com.tw/2026/11/1014299/",
    "resolved": true
   }
  ]
