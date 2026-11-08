@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T14:22:24+08:00",
+ "updated_at": "2026-11-08T16:50:51+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,51 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "沙拉油大缺貨高雄雞排喊漲「1片100元」 台糖緊急加工- 生活",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93ZGFiQ0Y1UVRza05PN0F0TG95cGFHMTJQdFdVWVJIVU1YT01QLV9XcVpwU2ZXWnc4TU5FZGM1aWZuN1k4akM1dHVlUjlZYkcwNmNoUjFtU0JDODdrWmlCdTEwVUI5Y21hcnZZaHVB?oc=5",
+     "source": "中時新聞網",
+     "published_at": "2026-11-08T16:02+08:00",
+     "url": "https://www.chinatimes.com/realtimenews/20261108002020-260405",
+     "resolved": true
+    },
+    {
+     "title": "臺中市政府應對沙拉油供應危機 採取多項措施保障市場穩定",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52elFnWXBfNnhGNllmYmNGMG84cXlLand5akNoX19VbTN3ZWRKd0hMazRGcGc4c095OERmek41YlJTMTNCSHVXWnVyclo2a1VFRGc?oc=5",
+     "source": "蕃新聞",
+     "published_at": "2026-11-08T15:15+08:00",
+     "url": "https://n.yam.com/Article/20261108273505",
+     "resolved": true
+    },
+    {
+     "title": "【新聞一點靈】入秋最強冷空氣即將報到 專家示警：低溫恐下探15度 桶裝沙拉油大缺貨價飆破千 台南小吃業苦撐",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jSHFOR3h2d1JlMGxZRnVhRnlPd0tCQmh2MDVVVXE5QWhFMHdGS19UVUhkNHh0MG95ZVdnWDBRbnVveUtCYTdqc3ZMU3VOSTZ1b2VPZEtaMUFTTm5YdnU0SXV4MUFDU1hJSG5fREt1RXJRX0FpV3UzdFhJOA?oc=5",
+     "source": "壹電視",
+     "published_at": "2026-11-08T14:54+08:00",
+     "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-08/2519581.html",
+     "resolved": true
+    },
+    {
+     "title": "中市府解沙拉油缺口！協調擴產、促進口、加強稽查 嚴格把關合格油品重新上架",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHYmIwTlFOUEZra00tMDg3cHl3R0RwcDlCZUpucGEtS2FMOTZUbXBvcmVNN0pySVZacmdHSVBIWFpPRi1ONFZVOURaLVVmX0ZvNHc?oc=5",
+     "source": "臺中市政府全球資訊網",
+     "published_at": "2026-11-08T14:53+08:00",
+     "url": "https://www.taichung.gov.tw/3409455/post",
+     "resolved": true
+    },
+    {
+     "title": "中聯油脂勒令停工！ 國內桶裝沙拉油缺貨價格飆漲",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42ZUNKZXFoVFpMVFBsSnFvNzUwSWk4OThiSEZQdzBvdGlhMEF1ZHNkRElPY0FCa2VtbjRIUVJVcURnNi13cnp2T2UtUUx5LXN3dDhjdlliMENlb2M?oc=5",
+     "source": "民視新聞網",
+     "published_at": "2026-11-08T14:50+08:00",
+     "url": "http://news.ftv.com.tw/news/detail/2026B08U03M1",
+     "resolved": true
+    },
     {
      "title": "影音／食用油缺貨「暴漲破千元」店家喊苦！ 南市嚴查囤貨",
      "kind": "店家相關",
@@ -24,6 +69,15 @@
      "source": "TVBS新聞網",
      "published_at": "2026-11-08T12:41+08:00",
      "url": "https://news.tvbs.com.tw/videos/7lErIChG_2U",
+     "resolved": true
+    },
+    {
+     "title": "中聯致癌油風波\"沙拉油缺貨飆漲\" 台南市府:查緝.禁囤貨－民視新聞- 民視新聞網",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAteFpzTGtqRjlKNmtRdzZDa01BNmJ3ckMwQnlneXFla0dxYmZfSllJYkZReUtSd3loazR5Yk9jZGszTlFfRlNiQkw2RGZyd0kzUWVycE5sVXk1WW15LTVUOEtFbVlnUnM?oc=5",
+     "source": "民視新聞網",
+     "published_at": "2026-11-08T12:29+08:00",
+     "url": "https://www.ftvnews.com.tw/shortvideo/detail/OYVHjNJbrWk",
      "resolved": true
     },
     {
@@ -126,6 +180,15 @@
      "resolved": true
     },
     {
+     "title": "桶裝沙拉油爆缺貨衝擊店家 南市府消保官出手 協調上游增供、媒合貨源 | 政經焦點 | 要聞",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JYXN6emhTb1VOYkVNOTdNZUpraDdsOFAyZ3dkWm14WkZBVjUtWDdzRktVeENMdHh5U1lTdDZzaDRHVTlSb0ZXNmxORDc3RDVKQlBaTHVnb0lOc3Z1TTNEbjRuSGtaMDlYQjJVZTRCOER4bTk3eFd3?oc=5",
+     "source": "經濟日報",
+     "published_at": "2026-11-06T14:14+08:00",
+     "url": "https://money.udn.com/money/story/7307/9861923?from=edn_newest_index",
+     "resolved": true
+    },
+    {
      "title": "桶裝沙拉油爆缺貨衝擊店家 南市府消保官出手 協調上游增供、媒合貨源",
      "kind": "店家相關",
      "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WNmY0RzRFV2RGamVnMXVZQkpZNkMzR2tIS2gwNG9ibkE2SkhST0dMWVRPOWM2cVZDSEZWdzhzYmdPWGFZWnlhTzh0dk9MVjNM0gFWQVVfeXFMTnFDTDc2UlVCcV9mMmlWUXhPdkxFbFBTM1V3Qlg3T1I3Z1J1VTgtTEtrajJEOHAzRm9SRGx5X0dlRGxHb1pjdHgySFJhazRYS0NGWTJydkE?oc=5",
@@ -177,6 +240,15 @@
      "source": "PChome Online 新聞",
      "published_at": "2026-11-05T11:16+08:00",
      "url": "https://news.pchome.com.tw/society/thehubnews/20261105/index-79384856854895306009.html",
+     "resolved": true
+    },
+    {
+     "title": "食用油價格頻繁變動食材供應商導入接單系統提升訂單確認與對帳效率- 生活新聞",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdm9qZTBEdWhDR2hwSUxpNXJkdXJ6UjJ1UjE2UE1tM1pweWRlaUhZSld5V00zZU52X2IzQTBuc2plMEljUDhwdHNLY3VUWE50OVJSMEFsME9zdmRFSWFxaWZ6RjhUZ1VzSVZScFlLdjRGellDQTAwdjN5MGFJWkM1cExWZ1BOdEcwOEJyWnV3?oc=5",
+     "source": "PChome Online 新聞",
+     "published_at": "2026-11-05T11:16+08:00",
+     "url": "https://news.pchome.com.tw/living/thehubnews/20261105/index-79384856854895306009.html",
      "resolved": true
     },
     {

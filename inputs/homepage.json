@@ -1,18 +1,17 @@
 {
- "fetched_at": "2026-11-08T14:22:11+08:00",
- "generated_at": "2026-11-08T14:22:11+08:00",
+ "fetched_at": "2026-11-08T16:50:39+08:00",
+ "generated_at": "2026-11-08T16:50:38+08:00",
  "window": "7d",
  "event_count": 92,
- "article_count": 154,
+ "article_count": 156,
  "items": [
   {
    "url": "https://www.ettoday.net/news/20261108/3268358.htm",
    "title": "一中商圈黃金店面竟是30年大違建 玩具店剛要進場恐面臨拆除",
-   "source": "ETtoday新聞雲・社會",
+   "source": "ETtoday新聞雲",
    "published_at": "2026-11-08T11:34:00+08:00",
    "event_key": "art:a28a91e6a5e415a5328402dfbd43e29b72aa67c4a12fefd990bf231d17715aa6",
    "primary": true,
-   "summary": "台中一中商圈一間3層樓三角黃金店面,近日才因為經營超過20年的眼鏡行歇業引發話題,近日有公仔盲盒店以60多萬承租,裝潢期間卻傳出遭人檢舉違法增建,都發局更查出,該棟建物是超過30年大違建,將進行專案拆除。 《詳全文...》",
    "cities": [
     "台中市"
    ],
@@ -21,12 +20,23 @@
    ]
   },
   {
+   "url": "https://www.contentplatform.info/articles/567777/%E6%B7%B1%E8%80%95%E5%8F%B0%E5%8C%97%E8%90%AC%E8%8F%AF%E8%89%8B%E8%88%BA%E6%AD%B7%E5%8F%B2%E6%9C%8D%E9%A3%BE%E5%95%86%E5%9C%88%EF%BC%81%E7%9B%9B%E6%98%8C%E5%85%A7%E8%A1%A3%E8%A1%8C%E4%BB%A5%E5%A4%9A/",
+   "title": "深耕台北萬華艋舺歷史服飾商圈!盛昌內衣行以多元貼身衣物與實惠品質,坤品商城開創傳統服飾電商新契機",
+   "source": "報新聞 Mega News",
+   "published_at": "2026-11-08T10:08:00+08:00",
+   "event_key": "art:de66a480ab2f81917f8b38a81130b9affe2f42d5c9ef5aba461d0bb633078e67",
+   "primary": true,
+   "cities": [
+    "台北市"
+   ]
+  },
+  {
    "url": "https://n.yam.com/Article/20261108880730",
    "title": "深耕台北萬華艋舺歷史服飾商圈!盛昌內衣行以多元貼身衣物與實惠品質,坤品商城開創傳統服飾電商新契機",
    "source": "蕃新聞",
    "published_at": "2026-11-08T10:08:00+08:00",
-   "event_key": "art:06aa60bcbf2bce91051fba70f8763bb74befdab9cd8910cbf5174aa3b0ddd1b8",
-   "primary": true,
+   "event_key": "art:de66a480ab2f81917f8b38a81130b9affe2f42d5c9ef5aba461d0bb633078e67",
+   "primary": false,
    "cities": [
     "台北市"
    ]
@@ -541,15 +551,23 @@
    "title": "賴瑞隆與新住民拍片推商圈改造 柯志恩MV破百萬觀看",
    "source": "放言Fount Media",
    "published_at": "2026-11-06T20:08:00+08:00",
-   "event_key": "art:74bcc9e1c0ee216fef44f89bb73ec78b523ccda9d4995a458843f842ec5d64bd",
-   "primary": true
+   "event_key": "art:d8fc400889cd103462b15f943de588335605bf6cf10e4c80030399bebae1bd42",
+   "primary": false
   },
   {
    "url": "https://www.tristarnews.com.tw/news_ii.html?ID=39000",
    "title": "亞灣商圈大遠百週年慶 搶攻百億商機大餅 低門檻高回饋",
    "source": "三星傳媒",
    "published_at": "2026-11-06T18:23:00+08:00",
-   "event_key": "archive:96038eec12bc5b3c",
+   "event_key": "art:d359a4c2c2494d2a16d4de904f91ed9fde8887063f63e58a69b8462a74cb339b",
+   "primary": false
+  },
+  {
+   "url": "https://n.yam.com/Article/20261106947182",
+   "title": "亞灣商圈大遠百週年慶 搶攻百億商機大餅 低門檻高回饋",
+   "source": "蕃新聞",
+   "published_at": "2026-11-06T18:17:00+08:00",
+   "event_key": "art:d359a4c2c2494d2a16d4de904f91ed9fde8887063f63e58a69b8462a74cb339b",
    "primary": true
   },
   {
@@ -557,8 +575,8 @@
    "title": "賴瑞隆與新住民拍片推商圈改造柯志恩MV破百萬觀看| 政治",
    "source": "中央社 CNA",
    "published_at": "2026-11-06T17:58:00+08:00",
-   "event_key": "art:74bcc9e1c0ee216fef44f89bb73ec78b523ccda9d4995a458843f842ec5d64bd",
-   "primary": false
+   "event_key": "art:d8fc400889cd103462b15f943de588335605bf6cf10e4c80030399bebae1bd42",
+   "primary": true
   },
   {
    "url": "https://more-news.tw/761603/",
@@ -704,11 +722,16 @@
   },
   {
    "url": "https://newtalk.tw/news/view/2026-11-06/1069616",
-   "title": "走訪高雄南國商圈賴瑞隆「幸福川計畫」打造多元友善城市| 政治",
+   "title": "走訪高雄南國商圈 賴瑞隆「幸福川計畫」打造多元友善城市",
    "source": "Newtalk新聞",
    "published_at": "2026-11-06T11:06:00+08:00",
-   "event_key": "archive:598e35d8dcac1f3e",
-   "primary": true
+   "event_key": "art:16856bc9a1f442815c774def86d0391e7cc7fe724681bac65a40e56191c2a649",
+   "primary": true,
+   "summary": "不用出國就能在高雄體驗道地的東南亞風情,高雄市長候選人賴瑞隆今(6)日發布短影音,化身「南國體驗員」在新住民朋友熱情陪同下,走訪高雄車站周邊的南國商圈,感受異國文化魅力。賴瑞隆更進一步接地氣,挑戰以越南語、印尼語介紹美食,獲得現場新住民熱情鼓勵,並以不同母語齊聲高喊「當選」,氣氛相當熱絡。近年逐漸成 ...",
+   "cities": [
+    "高雄市"
+   ],
+   "date_only": true
   },
   {
    "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/260395",
