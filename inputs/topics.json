@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T21:44:45+08:00",
+ "updated_at": "2026-11-09T07:17:05+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,24 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "橄欖大豐收…西班牙橄欖油卻遭下令減供強制調節措施引發業者反彈| 全球財經| 全球",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QOXp2S2hWUXMyMnJuaUEtMVotUXA3bVc0MVM5WDRJQ05KdHdGSllPejV6SGVLelNEQmlrTWVKdnZYUUp2b2NtVndDMnV5LTVW?oc=5",
+     "source": "UDN",
+     "published_at": "2026-11-09T01:50+08:00",
+     "url": "https://udn.com/news/story/6811/9865666",
+     "resolved": true
+    },
+    {
+     "title": "橄欖大豐收 西班牙橄欖油卻遭下令減供 強制調節措施引發業者反彈",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83VXpwMTJrTmpLeUZSV25NSDNsUWxJNWtkcnJ3ZmJQMUlDRl80WGQ4blhqRTAxRjJKSlBQT25sRFVqN2JjS0FiTWNYU0NJNllVZ0swX1NKNDJoQlhVN08w0gFfQVVfeXFMTzdVenAxMmtOakt5RlJXbk1IM2xRbEk1a2RycndmYlAxSUNGXzRYZDhuWGpFMDFGMkpKUFBPbmxEVWo3YmNLQWJNY1hTQ0k2WVVnSzBfU0o0MmhCWFU3TzA?oc=5",
+     "source": "經濟日報",
+     "published_at": "2026-11-09T01:50+08:00",
+     "url": "https://money.udn.com/money/amp/story/5599/9865666",
+     "resolved": true
+    },
     {
      "title": "中市府多管齊下解沙拉油缺口 核准合格油品重上架",
      "kind": "價格動態",
@@ -42,6 +60,15 @@
      "source": "LINE TODAY",
      "published_at": "2026-11-08T16:53+08:00",
      "url": "https://today.line.me/tw/v3/hotspot/xWm69",
+     "resolved": true
+    },
+    {
+     "title": "討論牆 | 食用油缺貨「暴漲破千元」店家喊苦！ 南市嚴查囤貨",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wb3o5MkVsRi03ZEVRWkx2VzgzSXZ2dXQ1Q0toNVhUVFJEVmRLUHZ2ZXJWR1Y0RzZIWHVqTzZlMWZROUtZeDFvRUVYRl8yejJfckFsdzNKUi1VYkJIZTNMRWlfcmc?oc=5",
+     "source": "LINE TODAY",
+     "published_at": "2026-11-08T16:06+08:00",
+     "url": "https://today.line.me/tw/v3/posts/list/article/3N1PXeE",
      "resolved": true
     },
     {
