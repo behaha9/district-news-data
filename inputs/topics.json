@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T16:50:51+08:00",
+ "updated_at": "2026-11-08T20:50:24+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,33 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "食用油缺貨「暴漲破千元」，餐飲店家嘆「有錢也難買」…為何突然鬧油荒？年菜價格會變貴？經濟部出手了",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUdGYUVhUGNDcHJhRXJGazFIaVh3UktiLWg3VXMwMjlQbzJkOUViUmJpZHlwc0V0N05YZnJSNjlCck5ySG41cHdreW9QS2w0Snd6WEJJSzVoNDBQYmxCUE83dG0ydWJHekY3OThHR2RMMXpnMXY3bDFGcGNnOGdiSA?oc=5",
+     "source": "今周刊",
+     "published_at": "2026-11-08T18:30+08:00",
+     "url": "https://www.businesstoday.com.tw/article/category/183030/post/202611080011/",
+     "resolved": true
+    },
+    {
+     "title": "西班牙下令儲存188,000噸橄欖油以支撐價格",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rMXczaHROMGJvb3lXRWZNMW9NQkE3azdxTmVDMXE3V21CNk1fbU9sWUJfcmlPTU9MNGx0bGxYbkJzQ0hGUE1qT1c4VDY1aGRwR184Tkt4SlRob0FDRzFxV205dnRmc2ZhRGdBazNrNVQzMjQyYnBlTE9B?oc=5",
+     "source": "BigGo 財經",
+     "published_at": "2026-11-08T17:05+08:00",
+     "url": "https://finance.biggo.com.tw/news/22214231-b904-4b11-a74d-4fc0cb686ebf",
+     "resolved": true
+    },
+    {
+     "title": "全台餐飲業叫苦！食用油荒起因一次看| 話重點",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84d0ptdG5QaVAtUTVHUnBrZUw3bEQwNG8zM0hrdjRzNlp1dkEtS081MFA0X3hqdkFKaFhjS3FtUUYxWFZrRFN3QWZ5dFpCMXJGaXZR?oc=5",
+     "source": "LINE TODAY",
+     "published_at": "2026-11-08T16:53+08:00",
+     "url": "https://today.line.me/tw/v3/hotspot/xWm69",
+     "resolved": true
+    },
     {
      "title": "沙拉油大缺貨高雄雞排喊漲「1片100元」 台糖緊急加工- 生活",
      "kind": "店家相關",
