@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T07:17:16+08:00",
+ "fetched_at": "2026-11-08T08:47:47+08:00",
  "articles": {
   "https://news.ebc.net.tw/search/tags/李慶隆/": {
    "checked_at": "2026-11-05T23:39+08:00",
@@ -8596,9 +8596,20 @@
    "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261107318985": {
-   "checked_at": "2026-11-07T20:50+08:00",
-   "status": 503,
-   "error": "HTTP Error 503: Service Unavailable"
+   "checked_at": "2026-11-08T08:47+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T15:26+08:00",
+   "site_name": "蕃新聞",
+   "description": "【記者 王苡蘋╱高雄 報導】握手、合照邀請接連不斷，六合夜市選戰氣氛熱絡！高雄市長候選人賴瑞隆6日晚",
+   "cities": {
+    "高雄市": 5
+   },
+   "districts": [],
+   "body_chars": 770,
+   "image": "https://ni.yam.com/20261107/6e7121a2f7a71f3b261b23b3eca12d2a-e5d0a7f0f6eb1f29.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
   },
   "https://newtalk.tw/news/view/2026-11-07/1069866": {
    "checked_at": "2026-11-07T20:50+08:00",
@@ -8617,9 +8628,20 @@
    "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261107158170": {
-   "checked_at": "2026-11-07T20:50+08:00",
-   "status": 503,
-   "error": "HTTP Error 503: Service Unavailable"
+   "checked_at": "2026-11-08T08:47+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T07:00+08:00",
+   "site_name": "蕃新聞",
+   "description": "地方中心／宜蘭報導（圖／宜蘭縣府財政稅務局）為維護租稅公平，宜蘭縣政府財政稅務局定期辦理身心障礙者",
+   "cities": {
+    "宜蘭縣": 7
+   },
+   "districts": [],
+   "body_chars": 761,
+   "image": "https://ni.yam.com/20261107/medias-20261106-6aed8bd9c7389-cff914ea959456df.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261107592163": {
    "checked_at": "2026-11-08T07:17+08:00",
@@ -9851,6 +9873,158 @@
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493050.png&M=1&s=Y&x=0&y=0&sw=1280&sh=739&sl=W&fw=800&exp=3600",
    "image_checked": true,
    "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/124652/9864251": {
+   "checked_at": "2026-11-08T08:47+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T21:57+08:00",
+   "site_name": "聯合新聞網",
+   "description": "民進黨台北市長候選人沈伯洋掀起的「洋流」全台串聯看板熱潮。民眾黨「小草女神」台中市西屯區市議員候選人劉芩妤逆風在逢甲商圈亮起「台中不需要洋流」電子看板、發放貼紙。劉芩妤說，她公開反對政治造神，號召全台在野黨候選人共同響應，讓選舉回歸政策競爭，讓政治回歸人民手中。",
+   "cities": {
+    "台中市": 18,
+    "台北市": 7,
+    "高雄市": 4,
+    "新竹縣": 4
+   },
+   "districts": [
+    "逢甲商圈（台中市）"
+   ],
+   "body_chars": 1717,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35495977.png&M=2&s=Y&x=0&y=0&sw=1206&sh=881&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/money/%E4%B8%80%E8%88%AC/%E5%85%AD%E5%90%88%E5%A4%9C%E5%B8%82%E6%8E%83%E8%A1%97%E4%BA%BA%E6%BD%AE%E7%88%86%E6%BB%BF-%E5%B8%82%E5%A0%B4%E4%B9%8B%E5%AD%90%E8%B3%B4%E7%91%9E%E9%9A%86%E6%8E%A8%E5%95%86%E5%9C%88%E7%B6%93%E6%BF%9F2-0%E6%8C%BA%E6%94%A4%E5%95%86/ar-AA2gWOGy": {
+   "checked_at": "2026-11-08T08:47+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://n.yam.com/Article/20261107704049": {
+   "checked_at": "2026-11-08T08:47+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T09:24+08:00",
+   "site_name": "蕃新聞",
+   "description": "桃園市長張善政出席「115年桃園市商圈特色亮點形塑成果發表會」。圖：市府提供桃園市長張善政昨（6）日",
+   "cities": {
+    "桃園市": 16
+   },
+   "districts": [],
+   "body_chars": 829,
+   "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2026/11/dd02f331-a6ee-4785-ac97-ed0e8e4ae744_result.webp?fit=1024%2C536&ssl=1",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/124652/9864251?list_ch2_index": {
+   "checked_at": "2026-11-08T08:47+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T21:57+08:00",
+   "site_name": "聯合新聞網",
+   "description": "民進黨台北市長候選人沈伯洋掀起的「洋流」全台串聯看板熱潮。民眾黨「小草女神」台中市西屯區市議員候選人劉芩妤逆風在逢甲商圈亮起「台中不需要洋流」電子看板、發放貼紙。劉芩妤說，她公開反對政治造神，號召全台在野黨候選人共同響應，讓選舉回歸政策競爭，讓政治回歸人民手中。",
+   "cities": {
+    "台中市": 18,
+    "台北市": 7,
+    "高雄市": 4,
+    "新竹縣": 4
+   },
+   "districts": [
+    "逢甲商圈（台中市）"
+   ],
+   "body_chars": 1717,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35495977.png&M=2&s=Y&x=0&y=0&sw=1206&sh=881&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/news/%E8%94%A3%E8%90%AC%E5%AE%89%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E6%8E%83%E8%A1%97%E9%81%87-%E6%B4%8B%E6%B5%81-%E5%BA%97%E5%AE%B6%E8%84%86%E4%B8%8A%E5%96%8A-%E5%8F%AF%E6%83%9C%E6%88%91%E5%B7%B2%E6%9C%89%E5%96%9C%E6%AD%A1%E7%9A%84%E4%BA%BA-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2gVqeH": {
+   "checked_at": "2026-11-08T08:47+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5633209": {
+   "checked_at": "2026-11-08T08:47+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T07:18+08:00",
+   "site_name": "自由時報電子報",
+   "description": "首次上稿 11-08 01:47更新時間 11-08 07:16民進黨籍台北市長候選人沈伯洋7日於「台北大洋流」內湖、南港場公布包含增設托育、交通順起來、多元共融及顧好公務員等4個政見大秘寶，緩解內湖塞車、執行住工合一，還要做第3條文化徑路線，將山林徑、文化徑結合商圈振興，讓市民從南港展覽館走出來後，還有好多地方可去。",
+   "cities": {
+    "台北市": 10
+   },
+   "districts": [],
+   "body_chars": 2258,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/08/phpgfulWj.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mnews.tw/external/tyenews_1426951": {
+   "checked_at": "2026-11-08T08:47+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T09:24+08:00",
+   "site_name": "鏡新聞",
+   "description": "桃園市長張善政昨（6）日晚間前往桃園區，出席「115年桃園市商圈特色亮點形塑成果發表會」。張善政表示，桃園商圈涵蓋山區、濱海及都會地帶，各具文化底蘊與產業特色，市府將持續推動「一商圈一特色」，整合經發、文化及農業等跨局處資源，協助商圈發掘在地特色、強化品牌行銷，讓桃園特色商圈走向全台，進一步提升地方產業競爭力。 張善政",
+   "cities": {
+    "桃園市": 22
+   },
+   "districts": [],
+   "body_chars": 1024,
+   "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2026/11/dd02f331-a6ee-4785-ac97-ed0e8e4ae744_result.webp?w=696&ssl=1",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/oqKDR05": {
+   "checked_at": "2026-11-08T08:47+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 巴威攪局！鹿港老街人潮瞬間消失　網友：難得一見",
+   "cities": {},
+   "districts": [
+    "鹿港老街商圈（彰化縣）"
+   ],
+   "body_chars": 117,
+   "image": "https://today-obs.line-scdn.net/0hOnb1vz23EEFfSAx0dRVvFmceHDBsLgpIfXpdcHJAGSR7ZFUQYC9DIn8dHm17cAQSf3xXIX5PGSEhfAJAYg/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://today.line.me/tw/v3/article/Opl7VvB?view=topic&referral=TOPIC-Election": {
+   "checked_at": "2026-11-08T08:47+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T07:30+08:00",
+   "site_name": "LINE TODAY",
+   "description": "2026高雄市長選戰進入倒數，民進黨高雄市長候選人賴瑞隆昨（5）日透過臉書分享走訪三民西區的行程，回顧當地近年鐵路地下化、綠園道及三鳳中街改...",
+   "cities": {
+    "高雄市": 11
+   },
+   "districts": [
+    "三鳳中街（高雄市）"
+   ],
+   "body_chars": 970,
+   "image": "https://today-obs.line-scdn.net/0hdTBtFyw9O3t_DSfxZhtELEdbNwpMayFyXWMgT1JYZR4HISwvE2toGFpZZ1dbOS4tXzt8GlNZNk1bO3V4EA/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
    "date_hint_from": "原文時間"
   }
  }
