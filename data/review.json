@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-08T07:23:35+08:00",
+ "updated_at": "2026-11-08T12:19:08+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -87,6 +87,11 @@
    "reason": "業配遊記",
    "at": "2026-11-05"
   },
+  "https://lifenews.com.tw/611028": {
+   "decision": "kept",
+   "item": "20261106-taoyuan-district-feature",
+   "at": "2026-11-08"
+  },
   "https://media.posu.tw/uninews_view.php?new_sn=148670": {
    "decision": "kept",
    "item": "20261106-xinhua-newyear-street",
@@ -167,6 +172,11 @@
    "reason": "選舉",
    "at": "2026-11-05"
   },
+  "https://n.yam.com/Article/20261102788075": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-08"
+  },
   "https://n.yam.com/Article/20261103295942": {
    "decision": "kept",
    "item": "20261103-chiayi-county-shopping",
@@ -201,6 +211,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-07"
+  },
+  "https://n.yam.com/Article/20261107704049": {
+   "decision": "kept",
+   "item": "20261106-taoyuan-district-feature",
+   "at": "2026-11-08"
   },
   "https://news.cnyes.com/news/id/6640627": {
    "decision": "hidden",
@@ -277,6 +292,11 @@
    "reason": "選舉",
    "at": "2026-11-06"
   },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5633209": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-08"
+  },
   "https://news.ltn.com.tw/news/politics/paper/1777571": {
    "decision": "hidden",
    "reason": "選舉",
@@ -327,6 +347,11 @@
    "reason": "選舉",
    "at": "2026-11-06"
   },
+  "https://today.line.me/tw/v3/article/Opl7VvB?view=topic": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-08"
+  },
   "https://tw.news.yahoo.com/%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E8%90%AC%E8%81%96%E7%AF%80%E7%8B%82%E6%AD%A1-%E6%9D%BE%E5%A3%BD%E8%B7%AF%E5%96%AE%E5%A4%9C%E4%BA%BA%E6%B5%81%E7%A0%B4%E8%90%AC%E7%B3%BE%E7%B4%9B%E4%BA%8B%E4%BB%B6%E9%A0%BB%E5%82%B3-091333115.html": {
    "decision": "kept",
    "item": "20261101-xinyi-halloween-crowd",
@@ -336,6 +361,11 @@
    "decision": "hidden",
    "reason": "房地產",
    "at": "2026-11-05"
+  },
+  "https://tw.news.yahoo.com/%E5%BD%B1-%E8%A5%BF%E9%96%80%E7%94%BA%E5%95%86%E5%9C%88%E6%A3%8B%E7%89%8C%E7%A4%BE%E8%97%8F%E8%81%B7%E6%A5%AD%E8%B3%AD%E5%A0%B4-%E8%AD%A6%E7%AA%81%E8%A5%B2%E6%94%BB%E5%A0%85%E9%80%AE38%E4%BA%BA-121015081.html": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-08"
   },
   "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E6%8E%A8%E5%8B%95-%E5%95%86%E5%9C%88-%E7%89%B9%E8%89%B2-%E7%88%AD%E5%8F%962300%E8%90%AC%E8%A3%9C%E5%8A%A9%E8%BC%94%E5%B0%8E%E7%87%9F%E9%81%8B-012457212.html": {
    "decision": "kept",
@@ -487,6 +517,11 @@
    "item": "20261101-xinyi-halloween-crowd",
    "at": "2026-11-06"
   },
+  "https://www.mnews.tw/external/tyenews_1426951": {
+   "decision": "kept",
+   "item": "20261106-taoyuan-district-feature",
+   "at": "2026-11-08"
+  },
   "https://www.moneyweekly.com.tw/ArticleData/Info/Article/260395": {
    "decision": "hidden",
    "reason": "業配遊記",
@@ -601,6 +636,11 @@
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-07"
+  },
+  "https://www.scooptw.com/tyenews/551009/%e6%a1%83%e5%9c%92%e6%8e%a8%e5%8b%95%e4%b8%80%e5%95%86%e5%9c%88%e4%b8%80%e7%89%b9%e8%89%b2-%e7%88%ad%e5%8f%962300%e8%90%ac%e8%a3%9c%e5%8a%a9%e8%bc%94%e5%b0%8e%e7%87%9f%e9%81%8b/": {
+   "decision": "kept",
+   "item": "20261106-taoyuan-district-feature",
+   "at": "2026-11-08"
   },
   "https://www.sohu.com/a/1097212950_100116740": {
    "decision": "hidden",
