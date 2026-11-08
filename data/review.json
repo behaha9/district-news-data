@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-08T16:51:49+08:00",
+ "updated_at": "2026-11-08T20:56:13+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -362,6 +362,11 @@
    "reason": "選舉",
    "at": "2026-11-08"
   },
+  "https://today.line.me/tw/v3/article/WBpRGaa": {
+   "decision": "kept",
+   "item": "20261107-taichung-7th-warning",
+   "at": "2026-11-08"
+  },
   "https://tw.news.yahoo.com/%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E8%90%AC%E8%81%96%E7%AF%80%E7%8B%82%E6%AD%A1-%E6%9D%BE%E5%A3%BD%E8%B7%AF%E5%96%AE%E5%A4%9C%E4%BA%BA%E6%B5%81%E7%A0%B4%E8%90%AC%E7%B3%BE%E7%B4%9B%E4%BA%8B%E4%BB%B6%E9%A0%BB%E5%82%B3-091333115.html": {
    "decision": "kept",
    "item": "20261101-xinyi-halloween-crowd",
@@ -411,6 +416,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-06"
+  },
+  "https://video.ltn.com.tw/article/SUOr-mu1K4w/PLI7xntdRxhw1rpX3OIi9nX4jeQoPimc9q": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-08"
   },
   "https://www.allnews.tw/news/96519": {
    "decision": "kept",
@@ -496,6 +506,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-06"
+  },
+  "https://www.ctwant.com/article/505834/": {
+   "decision": "hidden",
+   "reason": "非商圈",
+   "at": "2026-11-08"
   },
   "https://www.fountmedia.io/article/441578": {
    "decision": "hidden",
@@ -597,6 +612,11 @@
    "reason": "企業人事",
    "at": "2026-11-05"
   },
+  "https://www.msn.com/zh-tw/news/other/%E5%BA%9C%E4%B8%AD%E5%95%86%E5%9C%88%E6%97%81-2%E9%A8%8E%E5%A3%AB%E8%B7%AF%E4%B8%AD%E9%96%8B%E6%89%93-%E6%89%94%E5%AE%89%E5%85%A8%E5%B8%BD%E9%9A%AA%E7%A0%B8%E8%BB%8A-shorts/vi-AA2gYyBE": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-08"
+  },
   "https://www.msn.com/zh-tw/news/other/%E5%BD%B0%E5%B8%82%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E6%96%BD%E5%B7%A5%E5%BA%97%E5%AE%B6%E4%B8%8D%E4%BE%BF-%E5%90%B3%E9%9F%8B%E9%81%94%E4%BF%83%E7%B8%A3%E5%BA%9C%E7%9B%A3%E7%9D%A3%E5%8D%94%E5%8A%A9/ar-AA2gJ282": {
    "decision": "kept",
    "item": "20261104-yongle-construction-inconvenience",
@@ -611,6 +631,11 @@
    "decision": "kept",
    "item": "20261103-chiayi-county-shopping",
    "at": "2026-11-04"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E7%8D%A8%E5%AE%B6-%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E8%B3%8A%E6%BD%9B%E5%BE%8C%E9%96%80%E8%A1%8C%E7%AB%8A-30%E7%A7%92%E5%85%A7%E5%81%B7%E5%8C%85%E5%BE%97%E6%89%8B5%E8%90%AC-newsebc/vi-AA2h0xcG": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-08"
   },
   "https://www.msn.com/zh-tw/news/other/%E7%8D%A8%E5%AE%B6-%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E5%90%8A%E8%BB%8A%E4%B8%80%E8%BD%89-%E6%93%8A%E7%A0%B4%E5%85%AC%E8%BB%8A%E7%8E%BB%E7%92%83-%E5%9A%87%E5%A3%9E%E4%B9%98%E5%AE%A2-2026-10-31-%E6%88%BF%E6%A5%AD%E6%B6%B5%E6%99%9A%E5%A0%B1-newsebc/vi-AA2gtHnb": {
    "decision": "kept",

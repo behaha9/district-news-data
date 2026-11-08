@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-08T17:05:00+08:00",
+  "updated_at": "2026-11-08T20:58:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -271,7 +271,9 @@
           "representative": "https://news.cts.com.tw/cts/society/202611/202611083098664.html",
           "urls": [
             "https://news.cts.com.tw/cts/society/202611/202611083098664.html",
-            "http://news.ftv.com.tw/news/detail/2026B08U03M1"
+            "http://news.ftv.com.tw/news/detail/2026B08U03M1",
+            "https://www.businesstoday.com.tw/article/category/183030/post/202611080011/",
+            "https://today.line.me/tw/v3/hotspot/xWm69"
           ]
         }
       ],
@@ -295,6 +297,10 @@
         {
           "url": "https://news.pchome.com.tw/society/thehubnews/20261105/index-79384856854895306009.html",
           "reason": "業者導入接單系統的宣傳稿，與食用油供應議題無關"
+        },
+        {
+          "url": "https://finance.biggo.com.tw/news/22214231-b904-4b11-a74d-4fc0cb686ebf",
+          "reason": "國外新聞（西班牙橄欖油）"
         }
       ]
     }
