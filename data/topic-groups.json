@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-08T20:58:00+08:00",
+  "updated_at": "2026-11-09T07:40:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -245,7 +245,8 @@
             "https://news.tvbs.com.tw/life/4047464",
             "https://news.tvbs.com.tw/videos/7lErIChG_2U",
             "https://www.ftvnews.com.tw/shortvideo/detail/OYVHjNJbrWk",
-            "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-08/2519581.html"
+            "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-08/2519581.html",
+            "https://today.line.me/tw/v3/posts/list/article/3N1PXeE"
           ]
         },
         {
@@ -254,7 +255,8 @@
           "representative": "https://www.taichung.gov.tw/3409455/post",
           "urls": [
             "https://www.taichung.gov.tw/3409455/post",
-            "https://n.yam.com/Article/20261108273505"
+            "https://n.yam.com/Article/20261108273505",
+            "https://www.cdns.com.tw/articles/1487373"
           ]
         },
         {
@@ -300,6 +302,14 @@
         },
         {
           "url": "https://finance.biggo.com.tw/news/22214231-b904-4b11-a74d-4fc0cb686ebf",
+          "reason": "國外新聞（西班牙橄欖油）"
+        },
+        {
+          "url": "https://udn.com/news/story/6811/9865666",
+          "reason": "國外新聞（西班牙橄欖油）"
+        },
+        {
+          "url": "https://money.udn.com/money/amp/story/5599/9865666",
           "reason": "國外新聞（西班牙橄欖油）"
         }
       ]

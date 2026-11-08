@@ -1,7 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-08T20:56:13+08:00",
+ "generated_at": "2026-11-09T07:23:30+08:00",
  "items": [
+  {
+   "id": "20261108-taipei-influencer-fest",
+   "title": "2026臺北國際網紅節登場，網紅帶路逛商圈並頒發網紅獎",
+   "summary": "臺北市商業處輔導的網紅節11月7至8日在信義區香堤大道舉辦，由網紅帶領民眾逛商圈，報導並提到網紅對商圈經濟的帶動。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-08T22:18:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "Yahoo奇摩新聞",
+     "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E7%B6%B2%E7%B4%85%E7%AF%80%E7%99%BB%E5%A0%B4-131%E7%B5%84%E5%89%B5%E4%BD%9C%E8%80%85%E8%A7%92%E9%80%90ty-star%E7%B6%B2%E7%B4%85%E7%8D%8E-28%E4%BD%8D%E7%B6%B2%E7%B4%85%E5%B8%B6%E8%B7%AF%E9%80%9B%E5%95%86%E5%9C%88-141817222.html",
+     "published_at": "2026-11-08T22:18:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261108761466",
+     "published_at": "2026-11-08T21:43:00+08:00"
+    },
+    {
+     "outlet": "CTWANT",
+     "url": "https://www.ctwant.com/article/505834/",
+     "published_at": "2026-11-08T15:25:00+08:00"
+    }
+   ],
+   "image": "https://media.zenfs.com/ko/hoomedia_675/a66ee8c9f88719f53ec13cdd513e122d.jpg"
+  },
+  {
+   "id": "20261107-taichung-7th-warning",
+   "title": "臺中7期商圈設智慧警示系統，路口地面顯示紅綠燈提醒駕駛",
+   "summary": "臺中市交通局在新光三越、大遠百商圈周邊的臺灣大道與惠來路口設地面燈號警示系統，提醒駕駛注意行人。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-08T13:16:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261108449966",
+     "published_at": "2026-11-08T13:16:00+08:00"
+    },
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5633249",
+     "published_at": "2026-11-08T09:06:00+08:00"
+    },
+    {
+     "outlet": "青年日報",
+     "url": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=649709",
+     "published_at": "2026-11-07T16:43:00+08:00"
+    },
+    {
+     "outlet": "臺中市政府全球資訊網",
+     "url": "https://www.taichung.gov.tw/3409037/post",
+     "published_at": "2026-11-07T10:20:00+08:00"
+    },
+    {
+     "outlet": "青年日報",
+     "url": "https://www.msn.com/zh-tw/%E6%8A%80%E8%A1%93/iot/%E4%B8%AD%E5%B8%827%E6%9C%9F%E5%95%86%E5%9C%88%E8%A8%AD%E6%99%BA%E6%85%A7%E8%AD%A6%E7%A4%BA%E7%B3%BB%E7%B5%B1-%E6%8F%90%E9%86%92%E9%A7%95%E9%A7%9B%E4%BA%BA%E6%8F%90%E9%AB%98%E8%AD%A6%E8%A6%BA/ar-AA2gWtBC",
+     "published_at": "2026-11-07T08:43:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261108/taichung-cover-261108043217761-7dd2d5bb9b76c17a.webp"
+  },
   {
    "id": "20261107-yizhong-illegal-shop",
    "title": "台中一中商圈黃金角店月租68萬，被指為違建占巷影響出入",
@@ -36,41 +106,6 @@
     }
    ],
    "image": "https://cdn2.ettoday.net/images/9006/e9006067.jpg"
-  },
-  {
-   "id": "20261107-taichung-7th-warning",
-   "title": "臺中7期商圈設智慧警示系統，路口地面顯示紅綠燈提醒駕駛",
-   "summary": "臺中市交通局在新光三越、大遠百商圈周邊的臺灣大道與惠來路口設地面燈號警示系統，提醒駕駛注意行人。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-11-08T09:06:00+08:00",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5633249",
-     "published_at": "2026-11-08T09:06:00+08:00"
-    },
-    {
-     "outlet": "青年日報",
-     "url": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=649709",
-     "published_at": "2026-11-07T16:43:00+08:00"
-    },
-    {
-     "outlet": "臺中市政府全球資訊網",
-     "url": "https://www.taichung.gov.tw/3409037/post",
-     "published_at": "2026-11-07T10:20:00+08:00"
-    },
-    {
-     "outlet": "青年日報",
-     "url": "https://www.msn.com/zh-tw/%E6%8A%80%E8%A1%93/iot/%E4%B8%AD%E5%B8%827%E6%9C%9F%E5%95%86%E5%9C%88%E8%A8%AD%E6%99%BA%E6%85%A7%E8%AD%A6%E7%A4%BA%E7%B3%BB%E7%B5%B1-%E6%8F%90%E9%86%92%E9%A7%95%E9%A7%9B%E4%BA%BA%E6%8F%90%E9%AB%98%E8%AD%A6%E8%A6%BA/ar-AA2gWtBC",
-     "published_at": "2026-11-07T08:43:00+08:00"
-    }
-   ],
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/08/5633249_1_1.jpg"
   },
   {
    "id": "20261107-shalu-monkey",
@@ -184,6 +219,11 @@
      "outlet": "報新聞",
      "url": "https://www.contentplatform.info/articles/566359/%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E7%89%B9%E8%89%B2%E4%BA%AE%E9%BB%9E%E5%BD%A2%E5%A1%91%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E3%80%80%E5%BC%B5%E5%96%84%E6%94%BF%EF%BC%9A%E6%B7%B1%E5%8C%96%E4%B8%80/",
      "published_at": "2026-11-07T09:20:00+08:00"
+    },
+    {
+     "outlet": "是新聞",
+     "url": "https://www.yesmedia.com.tw/%e6%a1%83%e5%9c%92%e6%8e%a8%e5%8b%95%e4%b8%80%e5%95%86%e5%9c%88%e4%b8%80%e7%89%b9%e8%89%b2-%e7%88%ad%e5%8f%962300%e8%90%ac%e8%a3%9c%e5%8a%a9%e8%bc%94%e5%b0%8e%e7%87%9f%e9%81%8b/",
+     "published_at": "2026-11-07T01:25:00+08:00"
     },
     {
      "outlet": "蕃新聞",
@@ -1647,7 +1687,7 @@
      "published_at": "2026-10-27T14:36:00+08:00"
     }
    ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472313.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
+   "image": "https://static.kmedia.com.tw/prd/2026/1027/A1C6ACFFE99CF850ABB28DDDA5CBA34E/8ed8d37169790d08716669fe6b838ddc.jpg"
   },
   {
    "id": "20261031-tainan-shopping-30b",
@@ -1720,7 +1760,7 @@
      "published_at": "2026-10-30T19:54:00+08:00"
     }
    ],
-   "image": "https://ni.yam.com/20261031/img-9835-1500x1125-f142edf20fec20d6.webp"
+   "image": "https://ni.yam.com/20261030/taichung-3403297-2-scaled-16c0381efc344a56.webp"
   },
   {
    "id": "20261030-eslite-zhongshan-station",
@@ -1761,7 +1801,7 @@
      "published_at": "2026-10-30T20:41:00+08:00"
     }
    ],
-   "image": "https://attach.setn.com/newsimages/2026/10/30/5769367-XXL.jpg"
+   "image": "https://images.ctee.com.tw/newsphoto/2026-10-30/1024/20261030701906.jpg"
   },
   {
    "id": "20261030-xinyi-muzha-tea",
@@ -2673,26 +2713,6 @@
     }
    ],
    "image": "https://images.chinatimes.com/newsphoto/2026-10-26/656/20261026001943.jpg"
-  },
-  {
-   "id": "20261025-chaozhou-dachaoji",
-   "title": "潮州「大潮祭」結合藝文推動老街再生，印度大學女子團異國舞蹈登場",
-   "summary": "屏東潮州鎮公所舉辦大潮祭，今年邀請印度大學表演系女子團在三山國王廟前演出，吸引民眾駐足，並以藝文活動推動老街再生。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-25T22:48:00+08:00",
-   "cities": [
-    "屏東縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5618433",
-     "published_at": "2026-10-25T22:48:00+08:00"
-    }
-   ],
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/5618433_5_1.jpg"
   }
  ],
  "discussions": []
