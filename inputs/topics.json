@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T12:17:55+08:00",
+ "updated_at": "2026-11-08T14:22:24+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,33 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "影音／食用油缺貨「暴漲破千元」店家喊苦！ 南市嚴查囤貨",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mUmNMdTBFOWNQRDB5RjR6WGJyZmZtZjJJLVRJNUppdTRpRlBUOHo0SHhpc1VjNXV4QklnOVotNVRkY1B0NlBBcVptQTd6dw?oc=5",
+     "source": "TVBS新聞網",
+     "published_at": "2026-11-08T14:14+08:00",
+     "url": "https://news.tvbs.com.tw/life/4047464",
+     "resolved": true
+    },
+    {
+     "title": "食用油缺貨「暴漲破千元」店家喊苦! 南市嚴查囤貨｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01QjFOV2stdDhGVVVkVmxkTjJDS21nQkFEYlZ1LXpoRmFlTWFqODM5NHpJQl9VN25JYlJkNmpXUkJtTXYzM1FyVHNTMFB0OTlOQUR2bkpR?oc=5",
+     "source": "TVBS新聞網",
+     "published_at": "2026-11-08T12:41+08:00",
+     "url": "https://news.tvbs.com.tw/videos/7lErIChG_2U",
+     "resolved": true
+    },
+    {
+     "title": "沙拉油漲價每桶破千餐飲業者哀嚎：缺油危機- 社會",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1heDdsMHJ2d2VaRVE2YkFObGFXWGNTVkZDMlpjX1d4QUZtLVgySnZPNVVXN3d1OFViaVNtRVExb0ZSb1ZfUkVGZmROMVlYRjNhdERDRHNKOEo1MzM0UVNQUGdiZjZrU0RIVzQ1T1o5Wm0?oc=5",
+     "source": "華視新聞網",
+     "published_at": "2026-11-08T12:20+08:00",
+     "url": "https://news.cts.com.tw/cts/society/202611/202611083098664.html",
+     "resolved": true
+    },
     {
      "title": "桶裝沙拉油大缺貨、價飆破千…台南小吃業者喊苦 市府協調供應查囤貨",
      "kind": "店家相關",
