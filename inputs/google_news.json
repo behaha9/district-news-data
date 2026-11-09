@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-09T12:17:23+08:00",
+ "fetched_at": "2026-11-09T14:55:26+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 109,
-  "kept": 38,
-  "resolved": 38,
-  "items": 36,
+  "raw": 112,
+  "kept": 42,
+  "resolved": 42,
+  "items": 40,
   "resolve_this_run": {
-   "online": 4
+   "online": 6
   },
   "dropped_old": [
    "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）",
@@ -16,6 +16,66 @@
   ]
  },
  "items": [
+  {
+   "title": "不只大佛、肉圓與鹿港老街！《彰化，豐藏百味》從土地到生活，尋訪彰化的永續百味",
+   "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zdlFIdEVHMW9abzlNWUM2d0ZEVzZuX1EwVGJIWEppdlhLdlNhX0I0amVYaW9PQnl3dGRjUjlqeHUyTXdMOG9pUTQwaHA2R1ZuVVg5UA?oc=5",
+   "source": "微笑台灣",
+   "source_site": "https://smiletaiwan.cw.com.tw",
+   "published_at": "2026-11-09T14:43+08:00",
+   "query": "老街",
+   "url": "https://smiletaiwan.cw.com.tw/article/9560",
+   "resolved": true
+  },
+  {
+   "title": "黃仁勳出軌︱對象黃樂在上海浙江商圈人脈廣 外媒質疑履歷稱曾任記者再轉戰金融 (14:00) - 20261109 - 熱點",
+   "google_url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxQdW9VbzRoVmNlbXJHaHUwR1VJNTMyV2hTbFhVMEdXdEhFRFhqUllXVTFGeUxJNldYMnlnLVh3S015Rll3Skladnp2aWs1cWhwT0lFNlRKeVJHSUo2MGJZelpXMXZDVzJ1MXIzeTNRRGZvaFAxYXhSb3ZEd0ZLUVZ2c2U5eUdJUnlVSXV6M3FXMExJelVfQ0IwcDNzTU9Tb3Z5WmQ1V2V1M0E0WHYxNDY4SkFSUTl6UkhFS0QwUlI3S0ExQTNuR2lGdkZzazlsb1A2TUJUS0R5WWd5dU1aV2hxM3p5anEyWS1lbzZPb3REWFBkd2lzVVd2VXVIZmltVkwwYnFJbnBQTzQ2MEZKQUNzWGJoU3dDY05GcmoxLVp2bjFNcGx2UVk4TUJ5WTNMcHMxV1hpVHFxdEdHYjRmMnZFYVhUZUFlVWExbHZZV01iMW5rY1BXTjRRTUV6YkVJXzRzMjVIXzFqejdMMXViYVNoaFN2QXNOTlVKZWR1QXREYi1hb1k0c3lyVkkxUFRWQWVnOHhwbzBIaFlkcVpfOUxoUE5neGFZcEhFWi1zb2M5SHNXS1dqYjBjY2QtRjZlTk1qbFhzdG5IcGY0d2czMmphaVpGNWVxdlZYZUFjSndfdnRuSTYxMVVES3Bna1dZOXVJRGNrX092ZEQ2UEEwWVp3VmtmNWpvUHo2OWE3VGpoN1lBMElvaVppOHhrN2tiYnpnUWNzeFZ2VWs0emlWbTFhTjBBRzRFUQ?oc=5",
+   "source": "明報新聞網",
+   "source_site": "https://news.mingpao.com",
+   "published_at": "2026-11-09T14:00+08:00",
+   "query": "商圈",
+   "url": "https://news.mingpao.com/ins/%E7%86%B1%E9%BB%9E/article/20261109/s00024/1794199985269/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%B0%8D%E8%B1%A1%E9%BB%83%E6%A8%82%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%B5%99%E6%B1%9F%E5%95%86%E5%9C%88%E4%BA%BA%E8%84%88%E5%BB%A3-%E5%A4%96%E5%AA%92%E8%B3%AA%E7%96%91%E5%B1%A5%E6%AD%B7%E7%A8%B1%E6%9B%BE%E4%BB%BB%E8%A8%98%E8%80%85%E5%86%8D%E8%BD%89%E6%88%B0%E9%87%91%E8%9E%8D",
+   "resolved": true
+  },
+  {
+   "title": "市府攜手東區商圈組織　串聯店家好禮大放送　消費滿額抽千項好禮",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KM3JXYTNfUFdzQ2Vqc3pCMThIZGFXSDlvRG9STkJtVUU1WHFtSjBkVnUwS1lrWGgyb09sQzZOeEUwUTl4dmphbGdxN1QyOE1yTFBIamNGZjdwZlU0a3VnV3k2X0VYLU5aTXc00gFwQVVfeXFMTTNkU1liWTZsMDFtQTBIX0VlQjg4SWtmaFNnM0RJM3FWYmVfcFFsYWdrRDBrVjNvTkp3QTMzUU9fTmowdEpzT0FjdHN2NGJQMDdtcEpuRndLdXloajhPUjgzZjhCaUxQdTRvVDNPYjVIZw?oc=5",
+   "source": "好房網News",
+   "source_site": "https://news.housefun.com.tw",
+   "published_at": "2026-11-09T13:47+08:00",
+   "query": "商圈",
+   "url": "https://news.housefun.com.tw/news/article/135094490873.html",
+   "resolved": true
+  },
+  {
+   "title": "不只黃仁勳！中共美人計鎖定美日政商圈 安倍反遇「美男」陷阱",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JaEl5eUQzcjNLaFBxVUhqVmRkSUw3VGtVckhZMGhDa0NKcW1qVkJ5bW03VmpkT2w4bUdZX09pVG5DNEU3T2RuR1YxdW93S0FHOTFyaDNjUk5uV1NU?oc=5",
+   "source": "太報 TaiSounds",
+   "source_site": "https://www.taisounds.com",
+   "published_at": "2026-11-09T13:39+08:00",
+   "query": "商圈",
+   "url": "https://www.taisounds.com/news/content/84/298719",
+   "resolved": true
+  },
+  {
+   "title": "東海商圈停車糾紛變全武行！疑臨停擋店門 駕駛、老闆當街互毆",
+   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JWE8zME9WLVdpN2ZTeDBPdnNiT1FXVnFOLUw5MEx6NEFhQnRBY3lCZzlRVWxYbUlUU0NZTzZqaWhveEZ3Qlg1SG9UNW5FRk0?oc=5",
+   "source": "TVBS新聞網",
+   "source_site": "https://news.tvbs.com.tw",
+   "published_at": "2026-11-09T13:24+08:00",
+   "query": "商圈",
+   "url": "https://news.tvbs.com.tw/local/4047865",
+   "resolved": true
+  },
+  {
+   "title": "4處市場商圈完成改造 設計處理找路與步行需求",
+   "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SdFd2dUJwOEVpeXJiWmw0QzU2SFpDY0g0RURyR3NLdUQ0VjNSMzZaTXRxa0RKN0xwX2VYQ2FaT2VzWjNZaVVFbnZn?oc=5",
+   "source": "立報傳媒",
+   "source_site": "https://www.limedia.tw",
+   "published_at": "2026-11-09T12:25+08:00",
+   "query": "商圈",
+   "url": "https://www.limedia.tw/comm/75372/",
+   "resolved": true
+  },
   {
    "title": "一中商圈金店面被爆違建收租20年都沒事 都發局：何時能拆無法預測",
    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04bndKYVJNSmZtX1plNEdqX0lNdS1lNHNlOFVweUVOazY2cHpfbldnRnE1bExZMnluazNDQjZUb3ZGeE1fUTVfcW9DU1FrSGx4UTdUd1NR0gFWQVVfeXFMTThud0phUk1KZm1fWmU0R2pfSU11LWU0c2U4VXB5RU5rNjZwel9uV2dGcTVsTFkyeW5rM0NCNlRvdkZ4TV9RNV9xb0NTUWtIbHhRN1R3U1E?oc=5",
@@ -137,6 +197,16 @@
    "resolved": true
   },
   {
+   "title": "板橋府中商圈爆發行車糾紛 老少騎士當街追逐300米後互毆全遭送辦",
+   "google_url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPdWowczMtUm5mY0pBWjlpcmNocTJlVzlqYTQxTHc1Z1FwT1UyMXA3alBvcEVlMWpyM3c3RTdnay1XbjdEZDljWjZSeWFOaUxXMm1kNXV3MnZNNFl6amc2QVY3OWRxT1V6RDRNYjdwUnVlNDVxZko3SnBRbFRoRzM5TnlxM0IwT3F3ajdraG5TbW90UlI4LWh6bHh3QnJQb3pmeWljbWF4TlFzS3hJZ0R5b19uS0tvRTItUGlmVXZKYXpzQ2QwUXo4TW9ReFk2N0hKYWl0UEo5R3V0dVVDSDhoaWx6Ny1DTEtyME16VVlGMTc3Vmh6MHRXOHRuMU9MdVJ5QURvRXVZblFFS0lMOXFQWGRtVGM0dGhKNld0TlhsRkxhNVFUZjNabktXQmI3d2pMMnpZMTk3dExKb1dhZ2QtQmJjVE5odUNqNU1RS3NzV2hkWlhtbkF1eHdsdHVFRjRkRFVITktHamdxRnhOaVA2SHZGWjJ4S2dKN2dDc0RjNUlIYVBlWVJVNVBUX3lERmV4NkhiWUxMVTVONmtwQVdzYndFX3pWeXRa?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-08T12:31+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%95%86%E5%9C%88%E7%88%86%E7%99%BC%E8%A1%8C%E8%BB%8A%E7%B3%BE%E7%B4%9B-%E8%80%81%E5%B0%91%E9%A8%8E%E5%A3%AB%E7%95%B6%E8%A1%97%E8%BF%BD%E9%80%90300%E7%B1%B3%E5%BE%8C%E4%BA%92%E6%AF%86%E5%85%A8%E9%81%AD%E9%80%81%E8%BE%A6-042700605.html",
+   "resolved": true
+  },
+  {
    "title": "板橋府中商圈爆發行車糾紛 老少騎士當街追逐300米後互毆全遭送辦 | 三立新聞網",
    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XUGVCTGtDWFVFSVUzREdmTlhiUXUtbUVmdUxubzRTd3NLeXhPRUdYMkFMSlg1S19zYlRrQXJXLTdaTTItaTRySWdKcUlNMHpldHFaY1l3?oc=5",
    "source": "LINE TODAY",
@@ -144,16 +214,6 @@
    "published_at": "2026-11-08T12:23+08:00",
    "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
    "url": "https://today.line.me/tw/v3/article/1DPllOz",
-   "resolved": true
-  },
-  {
-   "title": "板橋府中商圈爆發行車糾紛　老少騎士當街追逐300米後互毆全遭送辦",
-   "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jM2xUN1lDcmRFTWN1Mll1aUNUUldRN2E5dmZHZkhYRGpzY1AxNldGVk9jV2N1Mm9WTVhGblc3azdCX2p2dlZjddIBTEFVX3lxTE1xb2Y2QzkzZWIyYVhkU3NSWGJqaGl1UmhnX212cUtuWTlER3d1T2VMalBaQzJFOXgzNHpCYTU5c2s3UWNfaTN3bDZLYnM?oc=5",
-   "source": "三立新聞網SETN.com",
-   "source_site": "https://www.setn.com",
-   "published_at": "2026-11-08T12:22+08:00",
-   "query": "商圈",
-   "url": "https://www.setn.com/news/1935435",
    "resolved": true
   },
   {
@@ -347,33 +407,13 @@
    "resolved": true
   },
   {
-   "title": "蔣萬安出席東區周年慶啟動 承諾商圈建設經費只增不減",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkRGxySVJ0RndPaFNCOEI4a19rLU1HT0w0RVhXTzV4elhRRzc1ZXowTjlJb1VfTUFTNzQtQnJkSk40VFhGWkRUTUlrSW9FOURCRFE?oc=5",
+   "title": "桃園、神戶商圈攜手深化台日文化交流 2027龍岡米干節締結姊妹商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGYmJlU2ZSN1JSdVhRekZMZmVrdm1RdjIxZFA1SEcyY0hoOHBHUVJrdGR5Q3JhTk1XWDJjbmg3Mi1MVWZyVjZPN2NWUm0zUTZYbkE?oc=5",
    "source": "蕃新聞",
    "source_site": "https://n.yam.com",
-   "published_at": "2026-11-07T14:15+08:00",
+   "published_at": "2026-11-07T15:57+08:00",
    "query": "商圈",
-   "url": "https://n.yam.com/Article/20261107503381",
-   "resolved": true
-  },
-  {
-   "title": "桃園、神戶商圈攜手深化台日文化交流 2027龍岡米干節締結姊妹商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vTDh6MlpzcDZfbEhCdi1Qbld6T2U0Vl9saHdOSEhOejg0MnJCV3NDcWRvNkswcG8wQ3dUTmdwVEl0aG5CLS1EX05JelBDazU0SFFRd2V5bjNmUQ?oc=5",
-   "source": "警政時報",
-   "source_site": "https://www.tcpttw.com",
-   "published_at": "2026-11-07T13:54+08:00",
-   "query": "商圈",
-   "url": "https://www.tcpttw.com/life/2026/11/07/328057/",
-   "resolved": true
-  },
-  {
-   "title": "【台灣好行795木柵平溪線】台北平溪一日遊推薦！貓空纜車、菁桐老街、十分瀑布、天燈祈願一日遊行程",
-   "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jdTllU2xjUUV3a2dvWnY2ZTNmM2oxSFFZNm9jal8tSGxQTVViNk9oZm9kQy1NM1VDNjFmTHVpd2tiV21pb2U2VEtFVGxlaHVXcnltbjJfY1RPaGFoVE93MnN4bw?oc=5",
-   "source": "FashionGuide 華人時尚專業評鑑",
-   "source_site": "https://fgblog.fashionguide.com.tw",
-   "published_at": "2026-11-07T13:30+08:00",
-   "query": "老街",
-   "url": "https://fgblog.fashionguide.com.tw/14492/posts/458703",
+   "url": "https://n.yam.com/Article/20261107394074",
    "resolved": true
   }
  ]
