@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T14:55:33+08:00",
+ "updated_at": "2026-11-09T20:53:20+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -9,12 +9,102 @@
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
     {
+     "title": "穩供沙拉油經部：協調業者增產、降關稅額外進口5千噸| 產經",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5SVFmUG5DVDkyZ2p3UFdja1czSkVvblhWUk9oNzNPbURpWGJ5Z05naU45WTdUWWd2Y1l4ZmVMenJrdXJXdDAwYzY4eEFiOFpMY2htdHd0XzJpMVhVSkE?oc=5",
+     "source": "中央社 CNA",
+     "published_at": "2026-11-09T18:55+08:00",
+     "url": "https://www.cna.com.tw/news/afe/202611090240.aspx",
+     "resolved": true
+    },
+    {
+     "title": "中聯油脂停工釀沙拉油缺口 經部協調三廠增產、年底前補足1.5萬噸",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sSjFmdkVvYTJzRXM1a1JZQUJvc1hyX1NCdk5lTUxPb3JJU01EcTFvLWlVajh5aWNMcFczVU5VTUR5N3pJc0VpWXVGdjg5ZDlhWkRGaVh6ODNGX204X2RHaUZ2Y2NGbUxaM01BZ2NkODB5ZTFzYUlEeldn?oc=5",
+     "source": "BigGo 財經",
+     "published_at": "2026-11-09T18:36+08:00",
+     "url": "https://finance.biggo.com.tw/news/2e139476-3e35-4b4f-9ce1-81e662e9eb78",
+     "resolved": true
+    },
+    {
+     "title": "補國內沙拉油缺口 龔明鑫：年底前增加供應逾1.5萬噸",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80YTl6WE1XeHRiZy00U0JILWVELWNYYWFpaklYZkxBRmo1UDRJbHdRUkRFR3VFenBZLWdMNXNNMElwR3huQlFiU0lVeFo5eE5jY3hSdzRQRQ?oc=5",
+     "source": "Rti 中央廣播電臺",
+     "published_at": "2026-11-09T18:06+08:00",
+     "url": "https://www.rti.org.tw/news?uid=3&pid=990616",
+     "resolved": true
+    },
+    {
+     "title": "三大業者齊增產！龔明鑫多管道調度 保證1.5萬噸沙拉油年底前到位",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WNnZCbHdwSl8ySjFMdXVDaHdId2tTeHpieGVULXlKTjVpZlYxaU1jdXhYaHZfbEpCMEg0dFJ5c1gtb21JVFE2cUJUOHprUHc?oc=5",
+     "source": "鉅亨網",
+     "published_at": "2026-11-09T18:01+08:00",
+     "url": "https://news.cnyes.com/news/id/6653524",
+     "resolved": true
+    },
+    {
+     "title": "沙拉油短缺 經長：台糖等廠每月增產4400噸補足市場需求",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45djdmQ3g2SVlVX1AxV2FOVTdtdXZQX3ZPM1BSUFR2ZndMaGI5VDN3YzN1ckFBd2tDcG1LT1RLc3V4UWRCam5nQUEzQWZDTmxPODhmamdSY253TXRMTmUwVW1ubErSAWRBVV95cUxOOXY3ZkN4NklZVV9QMVdhTlU3bXV2UF92TzNQUlBUdmZ3TGhiOVQzd2MzdXJBQXdrQ3BtS09US3N1eFFkQmpuZ0FBM0FmQ05sTzg4ZmpnUmNud010TE5lMFVtbmxK?oc=5",
+     "source": "自由財經",
+     "published_at": "2026-11-09T17:43+08:00",
+     "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5634802",
+     "resolved": true
+    },
+    {
+     "title": "1桶暴漲到1200元…沙拉油爆缺貨危機 經濟部頒獎時安撫企業",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZM3FWSFc3Z0xoR1k1ZjVIYzdMa3NNbzZ0M0IwRjhJc3lRblN5VWNPMHYxQkZCTWNaZFphZ0Y3RzJ1Z01QRGxQcG5HWkRJSTFx?oc=5",
+     "source": "UDN",
+     "published_at": "2026-11-09T17:25+08:00",
+     "url": "https://udn.com/news/story/7266/9867222",
+     "resolved": true
+    },
+    {
+     "title": "市場急缺沙拉油 龔明鑫說話了！",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaGlEUVEwZTBWcjJZTTN0VURqMFh1YWJ4dDNQdFhwTE43NkhWT2NxSzMxWmNMM2ZIaHppTHB6by0wNEIyNXdQVmxhd2k3bk8xdlk4MFY5dEJ6N0hoeU0wcThqWjQwdlJ0WS1JM3Azd1ZuWENEVE0wMUJFVXBTRTVGbm52X0RPU01vV0tqNnZNbk9vMkJRdlJnUUJvb0VCVHBYYWNhb2cwaGpwVDN6MWUyT1pRdjZtck5CUE5SczNaMUtOTl9VQXdncHFERTYyYi1jajhKVGNKcWxobzh3dUw5bFNsRVZ2SDVjRzVBeFB4d1Q?oc=5",
+     "source": "Yahoo新聞",
+     "published_at": "2026-11-09T17:10+08:00",
+     "url": "https://tw.news.yahoo.com/%E5%B8%82%E5%A0%B4%E6%80%A5%E7%BC%BA%E6%B2%99%E6%8B%89%E6%B2%B9-%E9%BE%94%E6%98%8E%E9%91%AB%E8%AA%AA%E8%A9%B1%E4%BA%86-091000197.html",
+     "resolved": true
+    },
+    {
+     "title": "市場喊缺沙拉油！龔明鑫：增產、降稅下年底增加逾1.5萬噸",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWZ3lqWDNVRTg0b1pCZll5TW1LWmdfdUxGYWZLWXpqSnhWM29razZ0ZTU1UGNJTTNYUjkzV01EYUlwVjhfd0NHekRPM3fSAVJBVV95cUxOSXhXVDJsaXo3LUJoY3RBbXFqYTJYMVNtY0JmWGFCVjBLaERhd0ljcnFHWEVlUF9qN1drb1I5YTZVY3RSM2x0UC1hS0Fyam4teFNn?oc=5",
+     "source": "NOWnews今日新聞",
+     "published_at": "2026-11-09T16:56+08:00",
+     "url": "https://www.nownews.com/news/6890755",
+     "resolved": true
+    },
+    {
      "title": "致癌油風波害全台鬧油荒！沙拉油價暴漲逾7成…網憂「南部雞排100元時代」快來了",
      "kind": "店家相關",
      "google_url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNZ211QlRlaXNSMFFZeV8xajR2Qy1hYTBnblY0dG5nUUUzWlduSkhxMWFfUGNYamlnUnFqOXRZa3ppLXFXaUZmOVhfNW0yMlhCaGZZOG5CRkdISF9HTTRHMkZFYkZXdkctbEJZX2RUOTFPaEw3aFFpbU81R19pcm5CbTVMR2hOV2VJQ1d6QlUxbWxSVnRXb2E2U3lPb0NmRlc4NS1XU21FcTRBS2diV2pKaGhQY0RlVzJ5clRabWhtbi1WZklEcmlzSGxGTXRPVVB0ZV9xRWs5NENodlFmZHJoMTB4dDFLd2VCNWpINnlzZ3Nmc3VMS0RFUERGSEpoWlhBakpCd3MwaHpHMV9TcUlqTFBzX3hEUEFrTjNwNWZrY0EtaTUwWG9yREZaX0hQSlViclVqRUtJTmExejJxV3ZoOVFRREd4UTViS2k0aVRrOXY3amJZS1h5T19VS0dIWkVVSklpOWREWnhCSlFBUTRualJwRXltZklXeWZPVDJrTG9tT29jYWhocDU5Mzg4NDMwaGdBaWlITnlxTGg1SnhkTmlVTnd4aDBhN2xCM05McWt4VUhkYmlxNGJ5OHJDY0F0RC1WU2N6aV9SWjRRN3JNbFR3?oc=5",
      "source": "Yahoo新聞",
      "published_at": "2026-11-09T14:48+08:00",
      "url": "https://tw.news.yahoo.com/%E8%87%B4%E7%99%8C%E6%B2%B9%E9%A2%A8%E6%B3%A2%E5%AE%B3%E5%85%A8%E5%8F%B0%E9%AC%A7%E6%B2%B9%E8%8D%92-%E6%B2%99%E6%8B%89%E6%B2%B9%E5%83%B9%E6%9A%B4%E6%BC%B2%E9%80%BE7%E6%88%90-%E7%B6%B2%E6%86%82-%E5%8D%97%E9%83%A8%E9%9B%9E%E6%8E%92100%E5%85%83%E6%99%82%E4%BB%A3-%E5%BF%AB%E4%BE%86%E4%BA%86-055200296.html",
+     "resolved": true
+    },
+    {
+     "title": "《生活一把罩》沙拉油價格狂飆！1桶油「從800漲破1300」業者哀號",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQUmhyXzI2d1lCYW1DVWtSVlpCMzFieUhQeHdnbHRfUmpBNzhqeFJsRmFNYTdUcF92aF9CcXZWVG9fTHpPT3R1OUxYWDF2MEhPZkhyZ2w5d25IMFdLNGF4REhTTEgxcllaR3VDZTJBMU5ITjNYcC1KckdSblQ4M0JVbDY3UnBQLXdlRFdwRUdMMXdPUGxqZmNPdUZ1SUJlM3RlMkd6ckwzMXhvWTdIMnJyQk11YWhqa2ZVX0JWWHNqTVhpbjhWdHctSjhSTzJrSTZoWVlzNHFhV09OYU1HV0xFaHh6QVVfNW91NmpJdVBCd2dhM1BmYmNWbVlCSTVtMTI5WVhrYVctYXFSSDlhR3RxVGZFLWRjSVZCZHphb0NCNXJnTXlQaVBuX1hJOXJCSXZoeW0tZHlEdlI4dDV3Zk5XcWxSa0hoME9aWWRZcGZLWk5BdTQ?oc=5",
+     "source": "中視全球資訊網",
+     "published_at": "2026-11-09T09:55+08:00",
+     "url": "https://www.ctv.com.tw/Article/-%E7%94%9F%E6%B4%BB%E4%B8%80%E6%8A%8A%E7%BD%A9-%E6%B2%99%E6%8B%89%E6%B2%B9%E5%83%B9%E6%A0%BC%E7%8B%82%E9%A3%86-1%E6%A1%B6%E6%B2%B9-%E5%BE%9E800%E6%BC%B2%E7%A0%B41300-%E6%A5%AD%E8%80%85%E5%93%80%E8%99%9F",
+     "resolved": true
+    },
+    {
+     "title": "【新新聞】一桶沙拉油從800漲到1200元！小吃店成本全面失控老闆嘆：100元便當賣50個還在賠錢| 張瀞文 | 新聞",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VT25lbjRSMHh6VzZhY0J0bzBCZUpITS1KSFBvdDdCWjFkdkcwajJ2aXZYUGNUcGVxYkZscTFRWFhMd3FFdDRvbVAxclQ?oc=5",
+     "source": "風傳媒",
+     "published_at": "2026-11-09T08:10+08:00",
+     "url": "https://www.storm.mg/article/5571914",
      "resolved": true
     },
     {
