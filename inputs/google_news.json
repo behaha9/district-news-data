@@ -1,19 +1,18 @@
 {
- "fetched_at": "2026-11-10T01:41:20+08:00",
+ "fetched_at": "2026-11-10T07:17:01+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 112,
-  "kept": 39,
-  "resolved": 39,
-  "items": 36,
+  "raw": 108,
+  "kept": 35,
+  "resolved": 35,
+  "items": 33,
   "resolve_this_run": {
-   "online": 3
+   "online": 2
   },
   "dropped_old": [
    "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）",
-   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
-   "獨家／垃圾車尖峰時段衝窄巷 直擊九份老街「人車爭道」（原文日期 2016-03-04）"
+   "中壢站前商圈轉型！「中壢嗨！南洋奶茶生活節」9/12熱鬧登場（原文日期 2026-09-10）"
   ]
  },
  "items": [
@@ -89,12 +88,12 @@
   },
   {
    "title": "東區週年慶盛大開跑 永慶房產集團力挺商圈振興注入人潮",
-   "google_url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNdWpsUFkyWExnMXJ1YmVja2pHeWRnQ0xiY3FVcDIzOTRncmJsR2llTVQ4WjFRVUIzZUdRdTI1VkVhaDNNRzhuTlJmYlFMakdaVUw5azBITi0xWkU4NkExV1VPa09GcV80YWQ1aHlCWXdwRjEzQWNyaFBXQXRWU0l5OVV2cG1pcmlKd2VfaTBFeFhlbXE1b0h1dDdzM0lzRFhBNHBjVktHU3Y0d0tUeW5UOTg4emc4QzJ0eWVtenpwdm02NjhrR1NhejlVU2NGWVlyQzVqd0V0MEtHejF6ckY3N2dQdWY2VkVUYlpqOXVTWUh3eDg5OHZCVXhPbzRUZHNUeV9ZU0h6T09zZ01vSDFhRENXdm5mUVNIUURRSjJPei1VbVNUOVJpWXZqUkRHTDFvRmVLT1NXZC1YVHJSa0lUd2FZZEQzdFFLUnhuMHdrbWRVZzYzd0tpdncxdlU0c0dRX1doNDROY245NURBeUM1Yk5iQ1JuYnFSVmdTbXlBSUY?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-09T16:05+08:00",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wWUU3LVZXY2pYNDY2MGQ0QXBoQUdndERwWVhObzc3XzRUbGw1M1dwV0dXR3QyQWcya1hSTzZiUzFnNjRoaVF4R2pVUG8waGZxbnc?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-09T16:12+08:00",
    "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91-%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88%E6%B3%A8%E5%85%A5%E4%BA%BA%E6%BD%AE-080541170.html",
+   "url": "https://n.yam.com/Article/20261109355042",
    "resolved": true
   },
   {
@@ -345,36 +344,6 @@
    "published_at": "2026-11-08T09:06+08:00",
    "query": "商圈",
    "url": "https://news.ltn.com.tw/news/life/breakingnews/5633249",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 巴威攪局！鹿港老街人潮瞬間消失 網友：難得一見",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkWFVHOEdURW1ORFNFc0oxWDBtaGp1YU9sa3VoeU5iRTM2MklSVmhOdkNSLW1CS1VCYU1nLVZyVi0zWXFfOXRSS0xLaldNNUJRTTFPNXNmazdfUEdsQWVvVEdMaFg?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-08T07:07+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/oqKDR05",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 現身陶藝市集 蘇巧慧：推「老街觀光券」讓新北29區持續發光",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50WVIydWlOMDBiaFFSLVRjdHkyY1RDS2Rza21pbk1GLXN5VDBRak1sUTl3TVR2YzdZdGhPZTczcktWTG9ZOVdlWlFHbk13Q2tTZzZNa1pkUy1VQnN1NHNCUlB5Zlo?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-08T05:15+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/WBpkYzE",
-   "resolved": true
-  },
-  {
-   "title": "社區專家／站前商圈＋愛河景觀 永義房屋朱弘鈞推「國泰頤河」全新3房",
-   "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxTGEzWG1zaWVxbTdTWWZ3RVRqV2pQWk9jYV9ndE1xWHpNYWc4QTVwRmJoQmJ4cnJtcFFKLVNtdDNVSmZlaW1sdw?oc=5",
-   "source": "5168實價登錄比價王",
-   "source_site": "https://news.houseprice.tw",
-   "published_at": "2026-11-08T02:35+08:00",
-   "query": "商圈",
-   "url": "https://news.houseprice.tw/12782/",
    "resolved": true
   }
  ]
