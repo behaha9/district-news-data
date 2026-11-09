@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T20:54:19+08:00",
+ "generated_at": "2026-11-10T07:18:41+08:00",
  "items": [
   {
    "id": "20261109-shuishang-xiancao",
@@ -48,9 +48,49 @@
      "outlet": "聯合新聞網",
      "url": "https://udn.com/news/story/7325/9867344",
      "published_at": "2026-11-09T17:53:00+08:00"
+    },
+    {
+     "outlet": "udn房地產",
+     "url": "https://house.udn.com/house/story/123590/9867344",
+     "published_at": "2026-11-09T17:53:00+08:00"
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35500653.jpg&M=1&s=Y&x=1&y=409&sw=1107&sh=738&exp=3600"
+  },
+  {
+   "id": "20261103-xiluo-art-fair",
+   "title": "「阿嬤的家」藝博會12月在雲林西螺登場，西螺老街化身展場",
+   "summary": "首屆「阿嬤的家」當代藝術博覽會12月11日至20日在雲林西螺舉行，標題指西螺老街化身藝術派對。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-09T16:35:00+08:00",
+   "cities": [
+    "雲林縣"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "財訊",
+     "url": "https://www.wealth.com.tw/articles/dff80091-be7a-4cc1-bf52-3e680712a8ce",
+     "published_at": "2026-11-09T16:35:00+08:00"
+    },
+    {
+     "outlet": "今周刊",
+     "url": "https://www.businesstoday.com.tw/article/category/183032/post/202611050023/",
+     "published_at": "2026-11-05T15:11:00+08:00"
+    },
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/5637/9854832",
+     "published_at": "2026-11-04T10:00:00+08:00"
+    },
+    {
+     "outlet": "典藏ARTouch.com",
+     "url": "https://artouch.com/art-exhibition/content-271495.html",
+     "published_at": "2026-11-03T21:13:00+08:00"
+    }
+   ],
+   "image": "https://doqvf81n9htmm.cloudfront.net/data/petra_284/110500(1).jpg"
   },
   {
    "id": "20261106-dongqu-anniv",
@@ -73,6 +113,16 @@
      "outlet": "好房網News",
      "url": "https://news.housefun.com.tw/news/article/135094490873.html",
      "published_at": "2026-11-09T13:47:00+08:00"
+    },
+    {
+     "outlet": "中央社",
+     "url": "https://www.cna.com.tw/business/chinese/449440",
+     "published_at": "2026-11-09T03:06:00+08:00"
+    },
+    {
+     "outlet": "匯流新聞網",
+     "url": "https://cnews.com.tw/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91%E3%80%80%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88/",
+     "published_at": "2026-11-09T00:00:00+08:00"
     },
     {
      "outlet": "蕃新聞",
@@ -106,7 +156,7 @@
     }
    ],
    "admin_note": "東區商圈為115年補助名單，商圈聯合促銷活動可作為執行成效與佐證參考。",
-   "image": "https://ni.yam.com/20261107/taipei-5E9C939DC9E7D3B5-1-3d8f8109273d2be1.webp"
+   "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261109/00449440.202611092129510448M.jpg"
   },
   {
    "id": "20261106-moea-district-to-market-design",
@@ -121,6 +171,11 @@
     {
      "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261109609802",
+     "published_at": "2026-11-09T12:25:00+08:00"
+    },
+    {
+     "outlet": "立報傳媒",
+     "url": "https://www.limedia.tw/comm/75372/",
      "published_at": "2026-11-09T12:25:00+08:00"
     },
     {
@@ -165,6 +220,31 @@
     }
    ],
    "image": "https://ni.yam.com/20261109/20261109-619513d93ed8a62a.webp"
+  },
+  {
+   "id": "20261109-kaohsiung-bts-coupon",
+   "title": "高雄市府為BTS演唱會歌迷推出50元優惠券，可於商圈與特色店家使用",
+   "summary": "高雄市府推出優惠券，歌迷憑指定演唱會門票可兌換，供在高雄商圈及特色店家消費。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-09T11:56:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "樂聯網",
+     "url": "https://leho.com.tw/archives/422802",
+     "published_at": "2026-11-09T11:56:00+08:00"
+    },
+    {
+     "outlet": "華視新聞網",
+     "url": "https://news.cts.com.tw/cts/life/202611/202611093098880.html",
+     "published_at": "2026-11-08T00:00:00+08:00"
+    }
+   ],
+   "image": "https://ssno1.net/images/newsimg/small/20261109115616.jpg"
   },
   {
    "id": "20261107-yizhong-illegal-shop",
@@ -277,6 +357,36 @@
    "image": "https://ni.yam.com/20261108/taichung-cover-261108043217761-7dd2d5bb9b76c17a.webp"
   },
   {
+   "id": "20261107-taoyuan-kobe-sister",
+   "title": "桃園龍岡商圈與日本神戶商圈交流，2027龍岡米干節將締結姊妹商圈",
+   "summary": "神戶市副市長及商圈總會長一行拜會桃園市長，雙方商圈深化交流，2027年龍岡米干節將締結姊妹商圈。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-08T00:55:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "記者爆料網",
+     "url": "https://new-reporter.com/news/332862/",
+     "published_at": "2026-11-08T00:55:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261107394074",
+     "published_at": "2026-11-07T13:54:00+08:00"
+    },
+    {
+     "outlet": "警政時報",
+     "url": "https://www.tcpttw.com/life/2026/11/07/328057/",
+     "published_at": "2026-11-07T13:54:00+08:00"
+    }
+   ],
+   "image": "https://www.tcpttw.com/wp-content/uploads/2026/11/145649.jpg"
+  },
+  {
    "id": "20261107-shalu-monkey",
    "title": "台中沙鹿成衣商圈獼猴出沒，農業局架設誘捕籠",
    "summary": "沙鹿成衣商圈近日有獼猴出沒、闖入後巷，居民3天內兩度目擊；農業局指非棲地，疑為民眾違規飼養，已架設誘捕籠。",
@@ -302,6 +412,11 @@
      "outlet": "公視新聞網",
      "url": "https://news.pts.org.tw/article/834774",
      "published_at": "2026-11-07T18:39:00+08:00"
+    },
+    {
+     "outlet": "雅虎體育香港",
+     "url": "https://hk.sports.yahoo.com/tv/mnews/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E-114753534.html",
+     "published_at": "2026-11-07T12:04:00+08:00"
     }
    ],
    "image": "https://media.zenfs.com/en/mnews_tw_258/38710c41986413a8acd2151a54bfe3eb"
@@ -360,31 +475,6 @@
     }
    ],
    "image": "https://media.zenfs.com/ko/cdns.com.tw/4e080f1720e4e6265f04379766b68eca.jpg"
-  },
-  {
-   "id": "20261107-taoyuan-kobe-sister",
-   "title": "桃園龍岡商圈與日本神戶商圈交流，2027龍岡米干節將締結姊妹商圈",
-   "summary": "神戶市副市長及商圈總會長一行拜會桃園市長，雙方商圈深化交流，2027年龍岡米干節將締結姊妹商圈。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-07T13:54:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261107394074",
-     "published_at": "2026-11-07T13:54:00+08:00"
-    },
-    {
-     "outlet": "警政時報",
-     "url": "https://www.tcpttw.com/life/2026/11/07/328057/",
-     "published_at": "2026-11-07T13:54:00+08:00"
-    }
-   ],
-   "image": "https://ni.yam.com/20261107/145649-4e69a7ea93283ade.webp"
   },
   {
    "id": "20261106-xinhua-newyear-street",
@@ -701,36 +791,6 @@
     }
    ],
    "image": "https://images.chinatimes.com/newsphoto/2026-11-05/656/20261105004025.jpg"
-  },
-  {
-   "id": "20261103-xiluo-art-fair",
-   "title": "「阿嬤的家」藝博會12月在雲林西螺登場，西螺老街化身展場",
-   "summary": "首屆「阿嬤的家」當代藝術博覽會12月11日至20日在雲林西螺舉行，標題指西螺老街化身藝術派對。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-05T15:11:00+08:00",
-   "cities": [
-    "雲林縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "今周刊",
-     "url": "https://www.businesstoday.com.tw/article/category/183032/post/202611050023/",
-     "published_at": "2026-11-05T15:11:00+08:00"
-    },
-    {
-     "outlet": "經濟日報",
-     "url": "https://money.udn.com/money/story/5637/9854832",
-     "published_at": "2026-11-04T10:00:00+08:00"
-    },
-    {
-     "outlet": "典藏ARTouch.com",
-     "url": "https://artouch.com/art-exhibition/content-271495.html",
-     "published_at": "2026-11-03T21:13:00+08:00"
-    }
-   ],
-   "image": "https://doqvf81n9htmm.cloudfront.net/data/petra_284/110500(1).jpg"
   },
   {
    "id": "20261105-nanchang-furniture-fair",
@@ -2610,32 +2670,6 @@
     }
    ],
    "image": "https://media.zenfs.com/no/supertaste_tvbs_com_tw_971/7fb58e694bfdb3b579c5ec26f4b76bc8"
-  },
-  {
-   "id": "20261027-wanli-banquet",
-   "title": "萬里千歲宴試辦，結合礦坑文化與古早味辦桌推廣商圈",
-   "summary": "萬里試辦千歲宴，由全國觀光暨商圈相關團體推動，結合礦坑文化、低碳旅遊與長者關懷。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-27T03:27:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [
-    {
-     "name": "萬里商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "萬里商圈為115年補助名單，試辦活動可作為執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "民生電子報",
-     "url": "https://lifenews.com.tw/604469",
-     "published_at": "2026-10-27T03:27:00+08:00"
-    }
-   ],
-   "image": "https://lifenews.com.tw/wp-content/uploads/2026/10/2034832_0.jpg"
   }
  ],
  "discussions": []

@@ -1,0 +1,298 @@
+{
+ "date": "2026-11-10",
+ "runs": [
+  {
+   "at": "2026-11-10T07:18:41+08:00",
+   "added": 1,
+   "merged": 6,
+   "items": [
+    {
+     "id": "20261109-yizhong-illegal-shop",
+     "title": "台中一中商圈黃金角店被指為違建，都發局說明查報與拆除進度",
+     "summary": "一中商圈太平路黃金三角窗店面被爆為30多年既存違建，台中市都發局表示未申請執照部分已交區公所查報，拆除時程難預測。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-09T17:53:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "一中街商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7325/9867344",
+       "published_at": "2026-11-09T17:53:00+08:00"
+      },
+      {
+       "outlet": "udn房地產",
+       "url": "https://house.udn.com/house/story/123590/9867344",
+       "published_at": "2026-11-09T17:53:00+08:00"
+      }
+     ],
+     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35500653.jpg&M=1&s=Y&x=1&y=409&sw=1107&sh=738&exp=3600"
+    },
+    {
+     "id": "20261106-dongqu-anniv",
+     "title": "北市東區周年慶登場，140多家店家推消費滿額抽獎",
+     "summary": "東區周年慶即日起登場，串聯逾140家商圈店家、百貨與餐飲業者，單筆滿300元可獲抽獎券；市長出席啟動儀式並談商圈建設經費。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-09T13:47:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "東區商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "好房網News",
+       "url": "https://news.housefun.com.tw/news/article/135094490873.html",
+       "published_at": "2026-11-09T13:47:00+08:00"
+      },
+      {
+       "outlet": "中央社",
+       "url": "https://www.cna.com.tw/business/chinese/449440",
+       "published_at": "2026-11-09T03:06:00+08:00"
+      },
+      {
+       "outlet": "匯流新聞網",
+       "url": "https://cnews.com.tw/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91%E3%80%80%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88/",
+       "published_at": "2026-11-09T00:00:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261107592163",
+       "published_at": "2026-11-07T19:19:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261107503381",
+       "published_at": "2026-11-07T14:15:00+08:00"
+      },
+      {
+       "outlet": "壹電視",
+       "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-07/2518391.html",
+       "published_at": "2026-11-07T12:09:00+08:00"
+      },
+      {
+       "outlet": "中時新聞網",
+       "url": "https://www.chinatimes.com/newspapers/20261107000524-260107",
+       "published_at": "2026-11-07T04:10:00+08:00"
+      },
+      {
+       "outlet": "Yahoo奇摩新聞",
+       "url": "https://tw.news.yahoo.com/%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%B8%B6%E5%8B%95%E6%9D%B1%E5%8D%80%E4%BA%BA%E6%BD%AE-%E8%94%A3%E8%90%AC%E5%AE%89%E6%89%BF%E8%AB%BE%E5%95%86%E5%9C%88%E5%BB%BA%E8%A8%AD%E7%B6%93%E8%B2%BB-%E5%8F%AA%E6%9C%83%E5%A4%9A-%E4%B8%8D%E6%9C%83%E5%B0%91-154707948.html",
+       "published_at": "2026-11-06T23:47:00+08:00"
+      },
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/761941/",
+       "published_at": "2026-11-06T22:46:00+08:00"
+      }
+     ],
+     "admin_note": "東區商圈為115年補助名單，商圈聯合促銷活動可作為執行成效與佐證參考。",
+     "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261109/00449440.202611092129510448M.jpg"
+    },
+    {
+     "id": "20261106-moea-district-to-market-design",
+     "title": "商業署以設計加值，從商圈到市場帶動地方創新",
+     "summary": "經濟部商業發展署6日發布消息，說明以設計加值方式，從商圈延伸到市場，帶動地方創新。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-09T12:25:00+08:00",
+     "cities": [],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261109609802",
+       "published_at": "2026-11-09T12:25:00+08:00"
+      },
+      {
+       "outlet": "立報傳媒",
+       "url": "https://www.limedia.tw/comm/75372/",
+       "published_at": "2026-11-09T12:25:00+08:00"
+      },
+      {
+       "outlet": "報新聞",
+       "url": "https://www.contentplatform.info/articles/567498/jaya567498/",
+       "published_at": "2026-11-07T18:57:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261107884916",
+       "published_at": "2026-11-07T18:57:00+08:00"
+      },
+      {
+       "outlet": "PeoPo 公民新聞",
+       "url": "https://www.peopo.org/news/863090",
+       "published_at": "2026-11-07T18:36:00+08:00"
+      },
+      {
+       "outlet": "大人物",
+       "url": "https://www.damanwoo.com/node/98122",
+       "published_at": "2026-11-07T09:10:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261106722077",
+       "published_at": "2026-11-06T16:51:00+08:00"
+      },
+      {
+       "outlet": "經濟部",
+       "url": "https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124495",
+       "published_at": "2026-11-06T16:00:00+08:00"
+      },
+      {
+       "outlet": "經濟部商業發展署",
+       "url": "https://www.aoc.gov.tw/showPublic/811",
+       "published_at": "2026-11-06T00:00:00+08:00"
+      },
+      {
+       "outlet": "LIFE 生活網",
+       "url": "https://life.tw/article/經濟部改造全台四大商圈市場-導入設計改善動線與消費環境-3207568",
+       "published_at": "2026-11-06T00:00:00+08:00"
+      }
+     ],
+     "image": "https://ni.yam.com/20261109/20261109-619513d93ed8a62a.webp"
+    },
+    {
+     "id": "20261103-xiluo-art-fair",
+     "title": "「阿嬤的家」藝博會12月在雲林西螺登場，西螺老街化身展場",
+     "summary": "首屆「阿嬤的家」當代藝術博覽會12月11日至20日在雲林西螺舉行，標題指西螺老街化身藝術派對。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-09T16:35:00+08:00",
+     "cities": [
+      "雲林縣"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "財訊",
+       "url": "https://www.wealth.com.tw/articles/dff80091-be7a-4cc1-bf52-3e680712a8ce",
+       "published_at": "2026-11-09T16:35:00+08:00"
+      },
+      {
+       "outlet": "今周刊",
+       "url": "https://www.businesstoday.com.tw/article/category/183032/post/202611050023/",
+       "published_at": "2026-11-05T15:11:00+08:00"
+      },
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/5637/9854832",
+       "published_at": "2026-11-04T10:00:00+08:00"
+      },
+      {
+       "outlet": "典藏ARTouch.com",
+       "url": "https://artouch.com/art-exhibition/content-271495.html",
+       "published_at": "2026-11-03T21:13:00+08:00"
+      }
+     ],
+     "image": "https://doqvf81n9htmm.cloudfront.net/data/petra_284/110500(1).jpg"
+    },
+    {
+     "id": "20261107-taoyuan-kobe-sister",
+     "title": "桃園龍岡商圈與日本神戶商圈交流，2027龍岡米干節將締結姊妹商圈",
+     "summary": "神戶市副市長及商圈總會長一行拜會桃園市長，雙方商圈深化交流，2027年龍岡米干節將締結姊妹商圈。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-08T00:55:00+08:00",
+     "cities": [
+      "桃園市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "記者爆料網",
+       "url": "https://new-reporter.com/news/332862/",
+       "published_at": "2026-11-08T00:55:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261107394074",
+       "published_at": "2026-11-07T13:54:00+08:00"
+      },
+      {
+       "outlet": "警政時報",
+       "url": "https://www.tcpttw.com/life/2026/11/07/328057/",
+       "published_at": "2026-11-07T13:54:00+08:00"
+      }
+     ],
+     "image": "https://www.tcpttw.com/wp-content/uploads/2026/11/145649.jpg"
+    },
+    {
+     "id": "20261107-shalu-monkey",
+     "title": "台中沙鹿成衣商圈獼猴出沒，農業局架設誘捕籠",
+     "summary": "沙鹿成衣商圈近日有獼猴出沒、闖入後巷，居民3天內兩度目擊；農業局指非棲地，疑為民眾違規飼養，已架設誘捕籠。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-07T19:47:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "Yahoo新聞",
+       "url": "https://tw.news.yahoo.com/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E-114753534.html",
+       "published_at": "2026-11-07T19:47:00+08:00"
+      },
+      {
+       "outlet": "鏡新聞",
+       "url": "https://www.mnews.tw/story/20261107sot1840001",
+       "published_at": "2026-11-07T18:40:00+08:00"
+      },
+      {
+       "outlet": "公視新聞網",
+       "url": "https://news.pts.org.tw/article/834774",
+       "published_at": "2026-11-07T18:39:00+08:00"
+      },
+      {
+       "outlet": "雅虎體育香港",
+       "url": "https://hk.sports.yahoo.com/tv/mnews/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E-114753534.html",
+       "published_at": "2026-11-07T12:04:00+08:00"
+      }
+     ],
+     "image": "https://media.zenfs.com/en/mnews_tw_258/38710c41986413a8acd2151a54bfe3eb"
+    },
+    {
+     "id": "20261109-kaohsiung-bts-coupon",
+     "title": "高雄市府為BTS演唱會歌迷推出50元優惠券，可於商圈與特色店家使用",
+     "summary": "高雄市府推出優惠券，歌迷憑指定演唱會門票可兌換，供在高雄商圈及特色店家消費。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-09T11:56:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "樂聯網",
+       "url": "https://leho.com.tw/archives/422802",
+       "published_at": "2026-11-09T11:56:00+08:00"
+      },
+      {
+       "outlet": "華視新聞網",
+       "url": "https://news.cts.com.tw/cts/life/202611/202611093098880.html",
+       "published_at": "2026-11-08T00:00:00+08:00"
+      }
+     ],
+     "image": "https://ssno1.net/images/newsimg/small/20261109115616.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
+  }
+ ]
+}

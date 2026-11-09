@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-09T20:54:22+08:00",
+ "updated_at": "2026-11-10T07:18:58+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -457,6 +457,11 @@
    "item": "20261107-yizhong-illegal-shop",
    "at": "2026-11-09"
   },
+  "https://udn.com/news/amp/story/7325/9867344": {
+   "decision": "kept",
+   "item": "20261109-yizhong-illegal-shop",
+   "at": "2026-11-10"
+  },
   "https://udn.com/news/story/124652/9861704": {
    "decision": "hidden",
    "reason": "選舉",
@@ -561,6 +566,11 @@
    "decision": "hidden",
    "reason": "房地產",
    "at": "2026-11-07"
+  },
+  "https://www.ctee.com.tw/news/20261109701492-431206": {
+   "decision": "hidden",
+   "reason": "房地產",
+   "at": "2026-11-10"
   },
   "https://www.ctwant.com/amp/article/505472/": {
    "decision": "hidden",
@@ -681,6 +691,11 @@
    "decision": "kept",
    "item": "20261104-yongle-construction-inconvenience",
    "at": "2026-11-07"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gXe6B": {
+   "decision": "kept",
+   "item": "20261107-shalu-monkey",
+   "at": "2026-11-10"
   },
   "https://www.msn.com/zh-tw/news/other/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gXe6B": {
    "decision": "kept",

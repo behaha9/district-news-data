@@ -1,343 +1,347 @@
 {
- "schema_version": 1,
- "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
- "updated_at": "2026-11-09T21:00:00+08:00",
- "topics": {
-  "cooking-oil": {
-   "groups": [
-    {
-     "id": "20261101-yearend-banquet",
-     "note": "沙拉油荒恐衝擊尾牙、年菜並帶動價格上漲",
-     "representative": "https://news.ebc.net.tw/news/living/578529",
-     "urls": [
-      "https://news.ebc.net.tw/news/living/578529",
-      "https://today.line.me/tw/v3/article/PGz70O8",
-      "https://today.line.me/tw/v3/posts/list/article/1DPngD9",
-      "https://www.mirrormedia.mg/story/20261103-181fin-164851"
-     ]
-    },
-    {
-     "id": "20261101-taisugar-tender",
-     "note": "台糖粗油採購案流標",
-     "representative": "https://tw.news.yahoo.com/%E5%8F%B0%E7%B3%96%E7%B2%97%E6%B2%B9%E6%8E%A1%E8%B3%BC%E6%A1%88%E6%B5%81%E6%A8%99-%E5%B8%82%E5%A0%B4%E5%90%83%E7%B7%8A-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E9%9B%A3%E8%A3%9C-223229348.html",
-     "urls": [
-      "https://tw.news.yahoo.com/%E5%8F%B0%E7%B3%96%E7%B2%97%E6%B2%B9%E6%8E%A1%E8%B3%BC%E6%A1%88%E6%B5%81%E6%A8%99-%E5%B8%82%E5%A0%B4%E5%90%83%E7%B7%8A-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E9%9B%A3%E8%A3%9C-223229348.html",
-      "https://today.line.me/tw/v3/article/Kw7mLrN",
-      "https://today.line.me/tw/v3/posts/list/article/Kw7mLrN"
-     ]
-    },
-    {
-     "id": "20261031-snack-shops-no-oil",
-     "note": "桶裝沙拉油破千、小吃店買不到",
-     "representative": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8%E5%8F%88%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E5%B0%8F%E5%90%83%E5%BA%97%E5%93%80%E8%99%9F%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%BF%AB%E6%AF%94%E7%99%BB%E5%A4%A9%E9%9B%A3-095050772.html",
-     "urls": [
-      "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8%E5%8F%88%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E5%B0%8F%E5%90%83%E5%BA%97%E5%93%80%E8%99%9F%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%BF%AB%E6%AF%94%E7%99%BB%E5%A4%A9%E9%9B%A3-095050772.html",
-      "https://today.line.me/tw/v3/posts/list/article/oqp7WNy",
-      "https://www.merit-times.com.tw/NewsPage.aspx?unid=945504",
-      "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9-%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E9%82%84%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%B0%8F%E5%90%83%E6%A5%AD%E8%80%85%E5%96%8A%E8%8B%A6-002139363.html",
-      "https://udn.com/news/amp/story/7266/9849473",
-      "https://news.ebc.net.tw/news/living/578875"
-     ]
-    },
-    {
-     "id": "20261030-moea-import-gap",
-     "note": "經濟部：缺口仍大，第4季擴大進口",
-     "representative": "https://www.cna.com.tw/news/afe/202610300234.aspx",
-     "urls": [
-      "https://www.cna.com.tw/news/afe/202610300234.aspx",
-      "https://today.line.me/tw/v3/posts/list/article/zNM1E2j",
-      "https://www.cdns.com.tw/articles/1482837",
-      "https://today.line.me/tw/v3/posts/list/article/MLBYa8M",
-      "https://tw.news.yahoo.com/%E5%9C%8B%E5%85%A7%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35-000%E5%99%B8-121221255.html",
-      "https://www.chinatimes.com/realtimenews/20261030003398-260410",
-      "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%8D%94%E8%AA%BF%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35000%E5%99%B8-090547595.html",
-      "https://udn.com/news/amp/story/7238/9847358",
-      "https://money.udn.com/money/amp/story/7307/9847302",
-      "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E7%B6%93%E6%BF%9F%E9%83%A8-%E5%85%A8%E5%8A%9B%E5%8D%94%E5%8A%A9%E6%A5%AD%E8%80%85%E5%A2%9E%E7%94%A2%E5%8F%8A%E5%8A%A0%E9%80%9F%E9%80%B2%E5%8F%A3-093832419.html",
-      "https://today.line.me/tw/v3/posts/list/article/eLp89lG",
-      "https://www.ctee.com.tw/news/20261030701749-430503"
-     ]
-    },
-    {
-     "id": "20261028-fried-chicken-vendors",
-     "note": "鹹酥雞業者有錢買嘸油",
-     "representative": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-28/2509249.html",
-     "urls": [
-      "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-28/2509249.html"
-     ]
-    },
-    {
-     "id": "20261028-carcinogen-inspection",
-     "note": "中聯沙拉油致癌物超標，北市衛生局查核業者",
-     "representative": "https://today.line.me/tw/v3/posts/list/article/zNWLga6",
-     "urls": [
-      "https://today.line.me/tw/v3/posts/list/article/zNWLga6"
-     ]
-    },
-    {
-     "id": "20261026-chunglien-resume-denied",
-     "note": "中聯油脂兩度申請復工遭駁回",
-     "representative": "https://news.pts.org.tw/article/833042",
-     "urls": [
-      "https://news.pts.org.tw/article/833042",
-      "https://news.pts.org.tw/video/22788"
-     ]
-    },
-    {
-     "id": "20261026-school-lunch",
-     "note": "油荒波及校園午餐、每人限買1桶",
-     "representative": "https://news.tvbs.com.tw/life/4041024",
-     "urls": [
-      "https://news.tvbs.com.tw/life/4041024",
-      "https://udn.com/news/story/7266/9835468"
-     ]
-    },
-    {
-     "id": "20261025-moea-q4-import",
-     "note": "經濟部：第四季可擴大進口5千噸",
-     "representative": "https://udn.com/news/story/7266/9835478",
-     "urls": [
-      "https://udn.com/news/story/7266/9835478"
-     ]
-    },
-    {
-     "id": "20261101-zheng-campaign",
-     "note": "國民黨主席鄭麗文為候選人站台時提到沙拉油荒",
-     "representative": "https://udn.com/news/story/124652/9850563",
-     "urls": [
-      "https://udn.com/news/story/124652/9850563",
-      "https://udn.com/vote2026/story/124652/9850563",
-      "https://udn.com/news/story/7266/9851366"
-     ]
-    },
-    {
-     "id": "20261102-affected-brands",
-     "representative": "https://today.line.me/tw/v3/posts/list/article/QwBWXR0",
-     "note": "致癌物超標油外流擴大，晶華、王品等餐飲品牌受影響",
-     "urls": [
-      "https://today.line.me/tw/v3/posts/list/article/QwBWXR0"
-     ]
-    },
-    {
-     "id": "20261103-moea-output-tariff",
-     "note": "經濟部11/3說明：每月增產4,400噸、第4季擴大進口5,000噸、進口關稅降為零，福壽部分油品解封上架",
-     "representative": "https://money.udn.com/money/amp/story/10869/9855133",
-     "urls": [
-      "https://money.udn.com/money/amp/story/10869/9855133",
-      "https://www.nownews.com/news/6889076",
-      "https://life.tw/article/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5%E8%A1%9D%E6%93%8A%E6%B2%99%E6%8B%89%E6%B2%B9%E4%BE%9B%E6%87%89-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%8D%94%E8%AA%BF%E5%A2%9E%E7%94%A2-%E9%80%B2%E5%8F%A3%E8%A3%9C%E8%B6%B3%E7%BC%BA%E5%8F%A3-3203169",
-      "https://ec.ltn.com.tw/amp/article/breakingnews/5627970",
-      "https://www.chinatimes.com/realtimenews/20261103003217-260405"
-     ]
-    },
-    {
-     "id": "20261104-feed-supply",
-     "note": "中聯油脂停工影響豆粕供應，農業部稱年底前飼料原料無虞",
-     "representative": "https://www.cna.com.tw/news/ahel/202611040041.aspx",
-     "urls": [
-      "https://www.cna.com.tw/news/ahel/202611040041.aspx",
-      "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5%E8%A1%9D%E6%93%8A%E8%B1%86%E7%B2%95%E4%BE%9B%E6%87%89-%E9%99%B3%E9%A7%BF%E5%AD%A3-%E5%B9%B4%E5%BA%95%E5%89%8D%E9%A3%BC%E6%96%99%E5%8E%9F%E6%96%99%E7%84%A1%E8%99%9E-030325147.html"
-     ]
-    },
-    {
-     "id": "20261104-kmt-price-control",
-     "note": "國民黨團就沙拉油與便當漲價要求物價穩定小組行動",
-     "representative": "https://www.chinatimes.com/realtimenews/20261104001830-260407",
-     "urls": [
-      "https://www.chinatimes.com/realtimenews/20261104001830-260407",
-      "https://n.yam.com/Article/20261104928718"
-     ]
-    },
-    {
-     "id": "20261104-taisugar-tender-success",
-     "representative": "https://wantrich.chinatimes.com/news/20261104900468-420501",
-     "note": "台糖第二次粗油招標成功，至少多供2000噸",
-     "urls": [
-      "https://wantrich.chinatimes.com/news/20261104900468-420501"
-     ]
-    },
-    {
-     "id": "20261106-kmt-snack-oil",
-     "note": "國民黨議員與黨部就小吃店買不到食用油，要求政院每週公布到貨進度",
-     "representative": "https://udn.com/news/story/6656/9861447",
-     "urls": [
-      "https://udn.com/news/story/6656/9861447",
-      "https://newtalk.tw/news/view/2026-11-06/1069665",
-      "https://www.kmt.org.tw/2026/11/blog-post_312.html"
-     ]
-    },
-    {
-     "id": "20261106-tainan-bulk-oil",
-     "note": "台南市府消保官協調上游增供桶裝沙拉油，回應店家缺貨",
-     "representative": "https://udn.com/news/story/7266/9861923",
-     "urls": [
-      "https://udn.com/news/story/7266/9861923",
-      "https://news.ltn.com.tw/news/life/breakingnews/5632539",
-      "https://money.udn.com/money/story/7307/9861923?from=edn_newest_index"
-     ]
-    },
-    {
-     "id": "20261106-lunchbox-cost",
-     "note": "沙拉油價漲約五成，雞豬魚蛋與便當成本全面上漲",
-     "representative": "https://www.nexttv.com.tw/NextTV/News/Home/Finance/2026-11-06/2517803.html",
-     "urls": [
-      "https://www.nexttv.com.tw/NextTV/News/Home/Finance/2026-11-06/2517803.html"
-     ]
-    },
-    {
-     "id": "20261103-fushou-release",
-     "representative": "https://www.ctee.com.tw/news/20261103701444-431401",
-     "note": "福壽1205公噸油品解封上架，沙拉油缺貨有望緩解",
-     "urls": [
-      "https://www.ctee.com.tw/news/20261103701444-431401"
-     ]
-    },
-    {
-     "id": "20261107-tainan-oil-supply",
-     "note": "臺南市府訪查業者、協調貨源並查處囤貨，桶裝沙拉油缺貨喊價",
-     "representative": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845683",
-     "urls": [
-      "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845683",
-      "https://udn.com/news/story/7326/9863687",
-      "https://n.yam.com/Article/20261107302950",
-      "https://udn.com/news/story/7326/9864300"
-     ]
-    },
-    {
-     "id": "20261107-chunglien-faq",
-     "note": "中聯油脂沙拉油案懶人包（問題油、退貨、罰款）",
-     "representative": "https://n.yam.com/Article/20261107578129",
-     "urls": [
-      "https://n.yam.com/Article/20261107578129"
-     ]
-    },
-    {
-     "id": "20261107-lard-price",
-     "note": "豬油價格飆漲、小吃業者成本增",
-     "representative": "https://news.tvbs.com.tw/life/4047271",
-     "urls": [
-      "https://news.tvbs.com.tw/life/4047271",
-      "https://today.line.me/tw/v3/posts/list/article/3N1PVpr"
-     ]
-    },
-    {
-     "id": "20261107-oil-inspection",
-     "note": "經發局會同消保官稽查桶裝沙拉油供應",
-     "representative": "https://tw.news.yahoo.com/%E7%B6%93%E7%99%BC%E5%B1%80%E6%9C%83%E5%90%8C%E6%B6%88%E4%BF%9D%E5%AE%98%E9%87%9D%E5%B0%8D%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E4%BE%9B%E6%87%89%E5%B1%95%E9%96%8B%E7%A8%BD%E6%9F%A5-102423969.html",
-     "urls": [
-      "https://tw.news.yahoo.com/%E7%B6%93%E7%99%BC%E5%B1%80%E6%9C%83%E5%90%8C%E6%B6%88%E4%BF%9D%E5%AE%98%E9%87%9D%E5%B0%8D%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E4%BE%9B%E6%87%89%E5%B1%95%E9%96%8B%E7%A8%BD%E6%9F%A5-102423969.html"
-     ]
-    },
-    {
-     "id": "20261104-supplier-order-system",
-     "note": "食材供應商導入接單系統因應油價變動",
-     "representative": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E5%83%B9%E6%A0%BC%E9%A0%BB%E7%B9%81%E8%AE%8A%E5%8B%95-%E9%A3%9F%E6%9D%90%E4%BE%9B%E6%87%89%E5%95%86%E5%B0%8E%E5%85%A5%E6%8E%A5%E5%96%AE%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E8%A8%82%E5%96%AE%E7%A2%BA%E8%AA%8D%E8%88%87%E5%B0%8D%E5%B8%B3%E6%95%88%E7%8E%87-031608325.html",
-     "urls": [
-      "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E5%83%B9%E6%A0%BC%E9%A0%BB%E7%B9%81%E8%AE%8A%E5%8B%95-%E9%A3%9F%E6%9D%90%E4%BE%9B%E6%87%89%E5%95%86%E5%B0%8E%E5%85%A5%E6%8E%A5%E5%96%AE%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E8%A8%82%E5%96%AE%E7%A2%BA%E8%AA%8D%E8%88%87%E5%B0%8D%E5%B8%B3%E6%95%88%E7%8E%87-031608325.html",
-      "https://news.pchome.com.tw/living/thehubnews/20261105/index-79384856854895306009.html"
-     ]
-    },
-    {
-     "id": "20261108-tainan-hoarding",
-     "note": "台南市嚴查囤貨，桶裝沙拉油價格飆破千元，店家喊苦",
-     "representative": "https://news.tvbs.com.tw/life/4047464",
-     "urls": [
-      "https://news.tvbs.com.tw/life/4047464",
-      "https://news.tvbs.com.tw/videos/7lErIChG_2U",
-      "https://www.ftvnews.com.tw/shortvideo/detail/OYVHjNJbrWk",
-      "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-08/2519581.html",
-      "https://today.line.me/tw/v3/posts/list/article/3N1PXeE"
-     ]
-    },
-    {
-     "id": "20261108-taichung-oil-measures",
-     "note": "台中市府協調擴產、促進口、加強稽查以解沙拉油缺口",
-     "representative": "https://www.taichung.gov.tw/3409455/post",
-     "urls": [
-      "https://www.taichung.gov.tw/3409455/post",
-      "https://n.yam.com/Article/20261108273505",
-      "https://www.cdns.com.tw/articles/1487373"
-     ]
-    },
-    {
-     "id": "20261108-kaohsiung-chicken-price",
-     "note": "沙拉油大缺貨，高雄雞排喊漲、台糖緊急加工",
-     "representative": "https://www.chinatimes.com/realtimenews/20261108002020-260405",
-     "urls": [
-      "https://www.chinatimes.com/realtimenews/20261108002020-260405",
-      "https://tw.news.yahoo.com/%E8%87%B4%E7%99%8C%E6%B2%B9%E9%A2%A8%E6%B3%A2%E5%AE%B3%E5%85%A8%E5%8F%B0%E9%AC%A7%E6%B2%B9%E8%8D%92-%E6%B2%99%E6%8B%89%E6%B2%B9%E5%83%B9%E6%9A%B4%E6%BC%B2%E9%80%BE7%E6%88%90-%E7%B6%B2%E6%86%82-%E5%8D%97%E9%83%A8%E9%9B%9E%E6%8E%92100%E5%85%83%E6%99%82%E4%BB%A3-%E5%BF%AB%E4%BE%86%E4%BA%86-055200296.html"
-     ]
-    },
-    {
-     "id": "20261108-price-surge-restaurants",
-     "note": "中聯油脂勒令停工後桶裝沙拉油缺貨，每桶破千元餐飲業者哀嚎",
-     "representative": "https://news.cts.com.tw/cts/society/202611/202611083098664.html",
-     "urls": [
-      "https://news.cts.com.tw/cts/society/202611/202611083098664.html",
-      "http://news.ftv.com.tw/news/detail/2026B08U03M1",
-      "https://www.businesstoday.com.tw/article/category/183030/post/202611080011/",
-      "https://today.line.me/tw/v3/hotspot/xWm69"
-     ]
-    },
-    {
-     "id": "20261109-minister-supply",
-     "note": "經濟部長說明年底前增產、降關稅額外進口，補足沙拉油逾1.5萬噸缺口",
-     "representative": "https://www.cna.com.tw/news/afe/202611090240.aspx",
-     "urls": [
-      "https://www.cna.com.tw/news/afe/202611090240.aspx",
-      "https://finance.biggo.com.tw/news/2e139476-3e35-4b4f-9ce1-81e662e9eb78",
-      "https://www.rti.org.tw/news?uid=3&pid=990616",
-      "https://news.cnyes.com/news/id/6653524",
-      "https://ec.ltn.com.tw/amp/article/breakingnews/5634802",
-      "https://udn.com/news/story/7266/9867222",
-      "https://tw.news.yahoo.com/%E5%B8%82%E5%A0%B4%E6%80%A5%E7%BC%BA%E6%B2%99%E6%8B%89%E6%B2%B9-%E9%BE%94%E6%98%8E%E9%91%AB%E8%AA%AA%E8%A9%B1%E4%BA%86-091000197.html",
-      "https://www.nownews.com/news/6890755"
-     ]
-    },
-    {
-     "id": "20261109-price-surge-vendors",
-     "note": "桶裝沙拉油漲破千元，小吃店成本失控",
-     "representative": "https://www.ctv.com.tw/Article/-%E7%94%9F%E6%B4%BB%E4%B8%80%E6%8A%8A%E7%BD%A9-%E6%B2%99%E6%8B%89%E6%B2%B9%E5%83%B9%E6%A0%BC%E7%8B%82%E9%A3%86-1%E6%A1%B6%E6%B2%B9-%E5%BE%9E800%E6%BC%B2%E7%A0%B41300-%E6%A5%AD%E8%80%85%E5%93%80%E8%99%9F",
-     "urls": [
-      "https://www.ctv.com.tw/Article/-%E7%94%9F%E6%B4%BB%E4%B8%80%E6%8A%8A%E7%BD%A9-%E6%B2%99%E6%8B%89%E6%B2%B9%E5%83%B9%E6%A0%BC%E7%8B%82%E9%A3%86-1%E6%A1%B6%E6%B2%B9-%E5%BE%9E800%E6%BC%B2%E7%A0%B41300-%E6%A5%AD%E8%80%85%E5%93%80%E8%99%9F",
-      "https://www.storm.mg/article/5571914"
-     ]
+  "schema_version": 1,
+  "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
+  "updated_at": "2026-11-10T07:30:00+08:00",
+  "topics": {
+    "cooking-oil": {
+      "groups": [
+        {
+          "id": "20261101-yearend-banquet",
+          "note": "沙拉油荒恐衝擊尾牙、年菜並帶動價格上漲",
+          "representative": "https://news.ebc.net.tw/news/living/578529",
+          "urls": [
+            "https://news.ebc.net.tw/news/living/578529",
+            "https://today.line.me/tw/v3/article/PGz70O8",
+            "https://today.line.me/tw/v3/posts/list/article/1DPngD9",
+            "https://www.mirrormedia.mg/story/20261103-181fin-164851"
+          ]
+        },
+        {
+          "id": "20261101-taisugar-tender",
+          "note": "台糖粗油採購案流標",
+          "representative": "https://tw.news.yahoo.com/%E5%8F%B0%E7%B3%96%E7%B2%97%E6%B2%B9%E6%8E%A1%E8%B3%BC%E6%A1%88%E6%B5%81%E6%A8%99-%E5%B8%82%E5%A0%B4%E5%90%83%E7%B7%8A-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E9%9B%A3%E8%A3%9C-223229348.html",
+          "urls": [
+            "https://tw.news.yahoo.com/%E5%8F%B0%E7%B3%96%E7%B2%97%E6%B2%B9%E6%8E%A1%E8%B3%BC%E6%A1%88%E6%B5%81%E6%A8%99-%E5%B8%82%E5%A0%B4%E5%90%83%E7%B7%8A-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E9%9B%A3%E8%A3%9C-223229348.html",
+            "https://today.line.me/tw/v3/article/Kw7mLrN",
+            "https://today.line.me/tw/v3/posts/list/article/Kw7mLrN"
+          ]
+        },
+        {
+          "id": "20261031-snack-shops-no-oil",
+          "note": "桶裝沙拉油破千、小吃店買不到",
+          "representative": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8%E5%8F%88%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E5%B0%8F%E5%90%83%E5%BA%97%E5%93%80%E8%99%9F%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%BF%AB%E6%AF%94%E7%99%BB%E5%A4%A9%E9%9B%A3-095050772.html",
+          "urls": [
+            "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8%E5%8F%88%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E5%B0%8F%E5%90%83%E5%BA%97%E5%93%80%E8%99%9F%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%BF%AB%E6%AF%94%E7%99%BB%E5%A4%A9%E9%9B%A3-095050772.html",
+            "https://today.line.me/tw/v3/posts/list/article/oqp7WNy",
+            "https://www.merit-times.com.tw/NewsPage.aspx?unid=945504",
+            "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9-%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E9%82%84%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%B0%8F%E5%90%83%E6%A5%AD%E8%80%85%E5%96%8A%E8%8B%A6-002139363.html",
+            "https://udn.com/news/amp/story/7266/9849473",
+            "https://news.ebc.net.tw/news/living/578875"
+          ]
+        },
+        {
+          "id": "20261030-moea-import-gap",
+          "note": "經濟部：缺口仍大，第4季擴大進口",
+          "representative": "https://www.cna.com.tw/news/afe/202610300234.aspx",
+          "urls": [
+            "https://www.cna.com.tw/news/afe/202610300234.aspx",
+            "https://today.line.me/tw/v3/posts/list/article/zNM1E2j",
+            "https://www.cdns.com.tw/articles/1482837",
+            "https://today.line.me/tw/v3/posts/list/article/MLBYa8M",
+            "https://tw.news.yahoo.com/%E5%9C%8B%E5%85%A7%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35-000%E5%99%B8-121221255.html",
+            "https://www.chinatimes.com/realtimenews/20261030003398-260410",
+            "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%8D%94%E8%AA%BF%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35000%E5%99%B8-090547595.html",
+            "https://udn.com/news/amp/story/7238/9847358",
+            "https://money.udn.com/money/amp/story/7307/9847302",
+            "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E7%B6%93%E6%BF%9F%E9%83%A8-%E5%85%A8%E5%8A%9B%E5%8D%94%E5%8A%A9%E6%A5%AD%E8%80%85%E5%A2%9E%E7%94%A2%E5%8F%8A%E5%8A%A0%E9%80%9F%E9%80%B2%E5%8F%A3-093832419.html",
+            "https://today.line.me/tw/v3/posts/list/article/eLp89lG",
+            "https://www.ctee.com.tw/news/20261030701749-430503"
+          ]
+        },
+        {
+          "id": "20261028-fried-chicken-vendors",
+          "note": "鹹酥雞業者有錢買嘸油",
+          "representative": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-28/2509249.html",
+          "urls": [
+            "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-28/2509249.html"
+          ]
+        },
+        {
+          "id": "20261028-carcinogen-inspection",
+          "note": "中聯沙拉油致癌物超標，北市衛生局查核業者",
+          "representative": "https://today.line.me/tw/v3/posts/list/article/zNWLga6",
+          "urls": [
+            "https://today.line.me/tw/v3/posts/list/article/zNWLga6"
+          ]
+        },
+        {
+          "id": "20261026-chunglien-resume-denied",
+          "note": "中聯油脂兩度申請復工遭駁回",
+          "representative": "https://news.pts.org.tw/article/833042",
+          "urls": [
+            "https://news.pts.org.tw/article/833042",
+            "https://news.pts.org.tw/video/22788"
+          ]
+        },
+        {
+          "id": "20261026-school-lunch",
+          "note": "油荒波及校園午餐、每人限買1桶",
+          "representative": "https://news.tvbs.com.tw/life/4041024",
+          "urls": [
+            "https://news.tvbs.com.tw/life/4041024",
+            "https://udn.com/news/story/7266/9835468"
+          ]
+        },
+        {
+          "id": "20261025-moea-q4-import",
+          "note": "經濟部：第四季可擴大進口5千噸",
+          "representative": "https://udn.com/news/story/7266/9835478",
+          "urls": [
+            "https://udn.com/news/story/7266/9835478"
+          ]
+        },
+        {
+          "id": "20261101-zheng-campaign",
+          "note": "國民黨主席鄭麗文為候選人站台時提到沙拉油荒",
+          "representative": "https://udn.com/news/story/124652/9850563",
+          "urls": [
+            "https://udn.com/news/story/124652/9850563",
+            "https://udn.com/vote2026/story/124652/9850563",
+            "https://udn.com/news/story/7266/9851366"
+          ]
+        },
+        {
+          "id": "20261102-affected-brands",
+          "representative": "https://today.line.me/tw/v3/posts/list/article/QwBWXR0",
+          "note": "致癌物超標油外流擴大，晶華、王品等餐飲品牌受影響",
+          "urls": [
+            "https://today.line.me/tw/v3/posts/list/article/QwBWXR0"
+          ]
+        },
+        {
+          "id": "20261103-moea-output-tariff",
+          "note": "經濟部11/3說明：每月增產4,400噸、第4季擴大進口5,000噸、進口關稅降為零，福壽部分油品解封上架",
+          "representative": "https://money.udn.com/money/amp/story/10869/9855133",
+          "urls": [
+            "https://money.udn.com/money/amp/story/10869/9855133",
+            "https://www.nownews.com/news/6889076",
+            "https://life.tw/article/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5%E8%A1%9D%E6%93%8A%E6%B2%99%E6%8B%89%E6%B2%B9%E4%BE%9B%E6%87%89-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%8D%94%E8%AA%BF%E5%A2%9E%E7%94%A2-%E9%80%B2%E5%8F%A3%E8%A3%9C%E8%B6%B3%E7%BC%BA%E5%8F%A3-3203169",
+            "https://ec.ltn.com.tw/amp/article/breakingnews/5627970",
+            "https://www.chinatimes.com/realtimenews/20261103003217-260405"
+          ]
+        },
+        {
+          "id": "20261104-feed-supply",
+          "note": "中聯油脂停工影響豆粕供應，農業部稱年底前飼料原料無虞",
+          "representative": "https://www.cna.com.tw/news/ahel/202611040041.aspx",
+          "urls": [
+            "https://www.cna.com.tw/news/ahel/202611040041.aspx",
+            "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5%E8%A1%9D%E6%93%8A%E8%B1%86%E7%B2%95%E4%BE%9B%E6%87%89-%E9%99%B3%E9%A7%BF%E5%AD%A3-%E5%B9%B4%E5%BA%95%E5%89%8D%E9%A3%BC%E6%96%99%E5%8E%9F%E6%96%99%E7%84%A1%E8%99%9E-030325147.html"
+          ]
+        },
+        {
+          "id": "20261104-kmt-price-control",
+          "note": "國民黨團就沙拉油與便當漲價要求物價穩定小組行動",
+          "representative": "https://www.chinatimes.com/realtimenews/20261104001830-260407",
+          "urls": [
+            "https://www.chinatimes.com/realtimenews/20261104001830-260407",
+            "https://n.yam.com/Article/20261104928718"
+          ]
+        },
+        {
+          "id": "20261104-taisugar-tender-success",
+          "representative": "https://wantrich.chinatimes.com/news/20261104900468-420501",
+          "note": "台糖第二次粗油招標成功，至少多供2000噸",
+          "urls": [
+            "https://wantrich.chinatimes.com/news/20261104900468-420501"
+          ]
+        },
+        {
+          "id": "20261106-kmt-snack-oil",
+          "note": "國民黨議員與黨部就小吃店買不到食用油，要求政院每週公布到貨進度",
+          "representative": "https://udn.com/news/story/6656/9861447",
+          "urls": [
+            "https://udn.com/news/story/6656/9861447",
+            "https://newtalk.tw/news/view/2026-11-06/1069665",
+            "https://www.kmt.org.tw/2026/11/blog-post_312.html"
+          ]
+        },
+        {
+          "id": "20261106-tainan-bulk-oil",
+          "note": "台南市府消保官協調上游增供桶裝沙拉油，回應店家缺貨",
+          "representative": "https://udn.com/news/story/7266/9861923",
+          "urls": [
+            "https://udn.com/news/story/7266/9861923",
+            "https://news.ltn.com.tw/news/life/breakingnews/5632539",
+            "https://money.udn.com/money/story/7307/9861923?from=edn_newest_index"
+          ]
+        },
+        {
+          "id": "20261106-lunchbox-cost",
+          "note": "沙拉油價漲約五成，雞豬魚蛋與便當成本全面上漲",
+          "representative": "https://www.nexttv.com.tw/NextTV/News/Home/Finance/2026-11-06/2517803.html",
+          "urls": [
+            "https://www.nexttv.com.tw/NextTV/News/Home/Finance/2026-11-06/2517803.html"
+          ]
+        },
+        {
+          "id": "20261103-fushou-release",
+          "representative": "https://www.ctee.com.tw/news/20261103701444-431401",
+          "note": "福壽1205公噸油品解封上架，沙拉油缺貨有望緩解",
+          "urls": [
+            "https://www.ctee.com.tw/news/20261103701444-431401"
+          ]
+        },
+        {
+          "id": "20261107-tainan-oil-supply",
+          "note": "臺南市府訪查業者、協調貨源並查處囤貨，桶裝沙拉油缺貨喊價",
+          "representative": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845683",
+          "urls": [
+            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845683",
+            "https://udn.com/news/story/7326/9863687",
+            "https://n.yam.com/Article/20261107302950",
+            "https://udn.com/news/story/7326/9864300"
+          ]
+        },
+        {
+          "id": "20261107-chunglien-faq",
+          "note": "中聯油脂沙拉油案懶人包（問題油、退貨、罰款）",
+          "representative": "https://n.yam.com/Article/20261107578129",
+          "urls": [
+            "https://n.yam.com/Article/20261107578129"
+          ]
+        },
+        {
+          "id": "20261107-lard-price",
+          "note": "豬油價格飆漲、小吃業者成本增",
+          "representative": "https://news.tvbs.com.tw/life/4047271",
+          "urls": [
+            "https://news.tvbs.com.tw/life/4047271",
+            "https://today.line.me/tw/v3/posts/list/article/3N1PVpr"
+          ]
+        },
+        {
+          "id": "20261107-oil-inspection",
+          "note": "經發局會同消保官稽查桶裝沙拉油供應",
+          "representative": "https://tw.news.yahoo.com/%E7%B6%93%E7%99%BC%E5%B1%80%E6%9C%83%E5%90%8C%E6%B6%88%E4%BF%9D%E5%AE%98%E9%87%9D%E5%B0%8D%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E4%BE%9B%E6%87%89%E5%B1%95%E9%96%8B%E7%A8%BD%E6%9F%A5-102423969.html",
+          "urls": [
+            "https://tw.news.yahoo.com/%E7%B6%93%E7%99%BC%E5%B1%80%E6%9C%83%E5%90%8C%E6%B6%88%E4%BF%9D%E5%AE%98%E9%87%9D%E5%B0%8D%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E4%BE%9B%E6%87%89%E5%B1%95%E9%96%8B%E7%A8%BD%E6%9F%A5-102423969.html"
+          ]
+        },
+        {
+          "id": "20261104-supplier-order-system",
+          "note": "食材供應商導入接單系統因應油價變動",
+          "representative": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E5%83%B9%E6%A0%BC%E9%A0%BB%E7%B9%81%E8%AE%8A%E5%8B%95-%E9%A3%9F%E6%9D%90%E4%BE%9B%E6%87%89%E5%95%86%E5%B0%8E%E5%85%A5%E6%8E%A5%E5%96%AE%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E8%A8%82%E5%96%AE%E7%A2%BA%E8%AA%8D%E8%88%87%E5%B0%8D%E5%B8%B3%E6%95%88%E7%8E%87-031608325.html",
+          "urls": [
+            "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E5%83%B9%E6%A0%BC%E9%A0%BB%E7%B9%81%E8%AE%8A%E5%8B%95-%E9%A3%9F%E6%9D%90%E4%BE%9B%E6%87%89%E5%95%86%E5%B0%8E%E5%85%A5%E6%8E%A5%E5%96%AE%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E8%A8%82%E5%96%AE%E7%A2%BA%E8%AA%8D%E8%88%87%E5%B0%8D%E5%B8%B3%E6%95%88%E7%8E%87-031608325.html",
+            "https://news.pchome.com.tw/living/thehubnews/20261105/index-79384856854895306009.html"
+          ]
+        },
+        {
+          "id": "20261108-tainan-hoarding",
+          "note": "台南市嚴查囤貨，桶裝沙拉油價格飆破千元，店家喊苦",
+          "representative": "https://news.tvbs.com.tw/life/4047464",
+          "urls": [
+            "https://news.tvbs.com.tw/life/4047464",
+            "https://news.tvbs.com.tw/videos/7lErIChG_2U",
+            "https://www.ftvnews.com.tw/shortvideo/detail/OYVHjNJbrWk",
+            "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-08/2519581.html",
+            "https://today.line.me/tw/v3/posts/list/article/3N1PXeE"
+          ]
+        },
+        {
+          "id": "20261108-taichung-oil-measures",
+          "note": "台中市府協調擴產、促進口、加強稽查以解沙拉油缺口",
+          "representative": "https://www.taichung.gov.tw/3409455/post",
+          "urls": [
+            "https://www.taichung.gov.tw/3409455/post",
+            "https://n.yam.com/Article/20261108273505",
+            "https://www.cdns.com.tw/articles/1487373"
+          ]
+        },
+        {
+          "id": "20261108-kaohsiung-chicken-price",
+          "note": "沙拉油大缺貨，高雄雞排喊漲、台糖緊急加工",
+          "representative": "https://www.chinatimes.com/realtimenews/20261108002020-260405",
+          "urls": [
+            "https://www.chinatimes.com/realtimenews/20261108002020-260405",
+            "https://tw.news.yahoo.com/%E8%87%B4%E7%99%8C%E6%B2%B9%E9%A2%A8%E6%B3%A2%E5%AE%B3%E5%85%A8%E5%8F%B0%E9%AC%A7%E6%B2%B9%E8%8D%92-%E6%B2%99%E6%8B%89%E6%B2%B9%E5%83%B9%E6%9A%B4%E6%BC%B2%E9%80%BE7%E6%88%90-%E7%B6%B2%E6%86%82-%E5%8D%97%E9%83%A8%E9%9B%9E%E6%8E%92100%E5%85%83%E6%99%82%E4%BB%A3-%E5%BF%AB%E4%BE%86%E4%BA%86-055200296.html"
+          ]
+        },
+        {
+          "id": "20261108-price-surge-restaurants",
+          "note": "中聯油脂勒令停工後桶裝沙拉油缺貨，每桶破千元餐飲業者哀嚎",
+          "representative": "https://news.cts.com.tw/cts/society/202611/202611083098664.html",
+          "urls": [
+            "https://news.cts.com.tw/cts/society/202611/202611083098664.html",
+            "http://news.ftv.com.tw/news/detail/2026B08U03M1",
+            "https://www.businesstoday.com.tw/article/category/183030/post/202611080011/",
+            "https://today.line.me/tw/v3/hotspot/xWm69"
+          ]
+        },
+        {
+          "id": "20261109-minister-supply",
+          "note": "經濟部長說明年底前增產、降關稅額外進口，補足沙拉油逾1.5萬噸缺口",
+          "representative": "https://www.cna.com.tw/news/afe/202611090240.aspx",
+          "urls": [
+            "https://www.cna.com.tw/news/afe/202611090240.aspx",
+            "https://finance.biggo.com.tw/news/2e139476-3e35-4b4f-9ce1-81e662e9eb78",
+            "https://www.rti.org.tw/news?uid=3&pid=990616",
+            "https://news.cnyes.com/news/id/6653524",
+            "https://ec.ltn.com.tw/amp/article/breakingnews/5634802",
+            "https://udn.com/news/story/7266/9867222",
+            "https://tw.news.yahoo.com/%E5%B8%82%E5%A0%B4%E6%80%A5%E7%BC%BA%E6%B2%99%E6%8B%89%E6%B2%B9-%E9%BE%94%E6%98%8E%E9%91%AB%E8%AA%AA%E8%A9%B1%E4%BA%86-091000197.html",
+            "https://www.nownews.com/news/6890755"
+          ]
+        },
+        {
+          "id": "20261109-price-surge-vendors",
+          "note": "桶裝沙拉油漲破千元，小吃店成本失控",
+          "representative": "https://www.ctv.com.tw/Article/-%E7%94%9F%E6%B4%BB%E4%B8%80%E6%8A%8A%E7%BD%A9-%E6%B2%99%E6%8B%89%E6%B2%B9%E5%83%B9%E6%A0%BC%E7%8B%82%E9%A3%86-1%E6%A1%B6%E6%B2%B9-%E5%BE%9E800%E6%BC%B2%E7%A0%B41300-%E6%A5%AD%E8%80%85%E5%93%80%E8%99%9F",
+          "urls": [
+            "https://www.ctv.com.tw/Article/-%E7%94%9F%E6%B4%BB%E4%B8%80%E6%8A%8A%E7%BD%A9-%E6%B2%99%E6%8B%89%E6%B2%B9%E5%83%B9%E6%A0%BC%E7%8B%82%E9%A3%86-1%E6%A1%B6%E6%B2%B9-%E5%BE%9E800%E6%BC%B2%E7%A0%B41300-%E6%A5%AD%E8%80%85%E5%93%80%E8%99%9F",
+            "https://www.storm.mg/article/5571914"
+          ]
+        }
+      ],
+      "exclude": [
+        {
+          "url": "https://www.crntt.tw/doc/docDetail.jsp?coluid=92&kindid=0&docid=160282749",
+          "reason": "非臺灣媒體（中評社）"
+        },
+        {
+          "url": "https://udn.com/news/ai/answer/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-59279377",
+          "reason": "聯合新聞網 AI 問答頁，非新聞報導"
+        },
+        {
+          "url": "https://udn.com/news/ai/answer/%E7%B6%93%E6%BF%9F%E9%83%A8%E5%A6%82%E4%BD%95%E6%87%89-59271827",
+          "reason": "聯合新聞網 AI 問答頁，非新聞報導"
+        },
+        {
+          "url": "https://news.pchome.com.tw/expense/m00361/20261105/index-79385610973985361013.html",
+          "reason": "SOGO 週年慶促銷，與食用油荒議題無關"
+        },
+        {
+          "url": "https://news.pchome.com.tw/society/thehubnews/20261105/index-79384856854895306009.html",
+          "reason": "業者導入接單系統的宣傳稿，與食用油供應議題無關"
+        },
+        {
+          "url": "https://finance.biggo.com.tw/news/22214231-b904-4b11-a74d-4fc0cb686ebf",
+          "reason": "國外新聞（西班牙橄欖油）"
+        },
+        {
+          "url": "https://udn.com/news/story/6811/9865666",
+          "reason": "國外新聞（西班牙橄欖油）"
+        },
+        {
+          "url": "https://money.udn.com/money/amp/story/5599/9865666",
+          "reason": "國外新聞（西班牙橄欖油）"
+        },
+        {
+          "url": "https://news.tvbs.com.tw/life/4048047",
+          "reason": "橄欖油挑選的生活資訊，與食用油荒議題無關"
+        }
+      ]
     }
-   ],
-   "exclude": [
-    {
-     "url": "https://www.crntt.tw/doc/docDetail.jsp?coluid=92&kindid=0&docid=160282749",
-     "reason": "非臺灣媒體（中評社）"
-    },
-    {
-     "url": "https://udn.com/news/ai/answer/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-59279377",
-     "reason": "聯合新聞網 AI 問答頁，非新聞報導"
-    },
-    {
-     "url": "https://udn.com/news/ai/answer/%E7%B6%93%E6%BF%9F%E9%83%A8%E5%A6%82%E4%BD%95%E6%87%89-59271827",
-     "reason": "聯合新聞網 AI 問答頁，非新聞報導"
-    },
-    {
-     "url": "https://news.pchome.com.tw/expense/m00361/20261105/index-79385610973985361013.html",
-     "reason": "SOGO 週年慶促銷，與食用油荒議題無關"
-    },
-    {
-     "url": "https://news.pchome.com.tw/society/thehubnews/20261105/index-79384856854895306009.html",
-     "reason": "業者導入接單系統的宣傳稿，與食用油供應議題無關"
-    },
-    {
-     "url": "https://finance.biggo.com.tw/news/22214231-b904-4b11-a74d-4fc0cb686ebf",
-     "reason": "國外新聞（西班牙橄欖油）"
-    },
-    {
-     "url": "https://udn.com/news/story/6811/9865666",
-     "reason": "國外新聞（西班牙橄欖油）"
-    },
-    {
-     "url": "https://money.udn.com/money/amp/story/5599/9865666",
-     "reason": "國外新聞（西班牙橄欖油）"
-    }
-   ]
   }
- }
 }
