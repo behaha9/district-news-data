@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-09T16:50:19+08:00",
+ "updated_at": "2026-11-09T20:54:22+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -773,6 +773,11 @@
    "at": "2026-11-06"
   },
   "https://www.taisounds.com/news/content/83/298719": {
+   "decision": "hidden",
+   "reason": "非商圈",
+   "at": "2026-11-09"
+  },
+  "https://www.taisounds.com/news/content/84/298719": {
    "decision": "hidden",
    "reason": "非商圈",
    "at": "2026-11-09"
