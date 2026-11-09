@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T07:17:08+08:00",
+ "fetched_at": "2026-11-09T09:02:09+08:00",
  "articles": {
   "https://www.fclnews.com/235170/": {
    "checked_at": "2026-11-09T07:17+08:00",
@@ -9775,6 +9775,36 @@
    "image_checked": true,
    "date_hint": "2026-11-04",
    "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E6%9C%80%E6%96%B0-%E8%A5%BF%E9%96%80%E7%94%BA%E6%A3%8B%E7%89%8C%E7%A4%BE%E8%97%8F%E9%BA%BB%E5%B0%87%E8%B3%AD%E5%A0%B4-%E9%96%80%E5%A4%96%E8%A3%9D8%E9%9B%BB%E7%9C%BC%E8%BA%B2%E8%AD%A6-newsebc/vi-AA2gW7AO": {
+   "checked_at": "2026-11-09T09:02+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://focusnews.com.tw/2026/11/729963/": {
+   "checked_at": "2026-11-09T09:02+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "今傳媒 JNEWS",
+   "description": "【今傳媒/記者李祖東報導】 不用出國，就能在高雄體驗道地的東南亞風情！高雄市長候選人賴瑞隆今（6）日發布短影音 […]",
+   "cities": {
+    "高雄市": 17
+   },
+   "districts": [],
+   "body_chars": 807,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   }
  }
 }

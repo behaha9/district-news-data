@@ -1,18 +1,15 @@
 {
- "fetched_at": "2026-11-09T07:16:56+08:00",
+ "fetched_at": "2026-11-09T09:01:59+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 112,
-  "kept": 40,
-  "resolved": 40,
-  "items": 39,
+  "raw": 108,
+  "kept": 37,
+  "resolved": 37,
+  "items": 37,
   "resolve_this_run": {
-   "online": 12
-  },
-  "dropped_old": [
-   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
-  ]
+   "online": 1
+  }
  },
  "items": [
   {
@@ -47,12 +44,12 @@
   },
   {
    "title": "獨家／一中商圈賊潛後台行竊！30秒內偷包得手5萬",
-   "google_url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQdkhZUlZmeGxySklkRDFNN2NsX3ltbTRvdUFpbjZNYW1TX19EcGJwdXpPOVAxdFFWUTNNN3dfa3ItV01zQ2dSQkpTcGN2VHJlSmd4MVo2M1hxOXkzY0RSaXJLWDR4aFRmeXhGWmNad0Jlb1ptZTFDd1NoTzdTY2tjaTJjSXZfZWJxSWwxX1plaklGdkVYX1ZwaWlzdE02OU00V0lqSWN5bk5mZVMySjBrWlh1bWlsaloxeGlVelA1c3BOSElRNkZuUllDemxCQmpzVVhfRzh6WXh3Y1pMbl9ETVM2OVVnY1dqVGo2Q3JJZksyWTR3ejJBSHpDSlZwWVlIRno2R2VuaHBkWUMzM0dianphS0VvT0M0bVFGVmRjYzROWC1pVHJVQXRLYVppTDZyR3c?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wX3JOSFIwbzI5MF9EVkJPMW45X01uY2dXcm9pb09vUnAwYWh0UEk1LUVsWEU4TkJPcmQyQzNfdUR3SFdXUm4tYlBOdFNFSU16bUR3OUZn?oc=5",
+   "source": "東森新聞",
+   "source_site": "https://news.ebc.net.tw",
    "published_at": "2026-11-08T21:47+08:00",
    "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E4%B8%AD%E5%95%86%E5%9C%88%E8%B3%8A%E6%BD%9B%E5%BE%8C%E5%8F%B0%E8%A1%8C%E7%AB%8A-30%E7%A7%92%E5%85%A7%E5%81%B7%E5%8C%85%E5%BE%97%E6%89%8B5%E8%90%AC-134700153.html",
+   "url": "https://news.ebc.net.tw/news/society/579726",
    "resolved": true
   },
   {
@@ -383,26 +380,6 @@
    "published_at": "2026-11-07T09:24+08:00",
    "query": "商圈",
    "url": "https://tyenews.com/2026/11/1426951/",
-   "resolved": true
-  },
-  {
-   "title": "漏網鏡頭》蔣萬安東區商圈掃街拜票 強碰「洋流」了 | 自由電子報",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQVzc3R09KcDVpV1c4Y1pkX09pZnVBSzRTejUtX0xZUy0zc1JTRDRSZC1ZYUxWYnY1aFMtdmN1dGpEdDFialBfdmN4VHpTX0JaS0ZIRndB?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-07T08:10+08:00",
-   "query": "商圈",
-   "url": "https://today.line.me/tw/v3/article/EXwOV3O",
-   "resolved": true
-  },
-  {
-   "title": "媒角／三鶯文創、土樹工業園區 呂家愷：促進新北28商圈夜經濟",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZNlM2RTVMVUNuZjFuakZESldmT1d0WUtrbEFSb0l1UDdqdnQwbGllNXU0cnRPaUV6S0dnb09veDMwU0hpVEYxTHQ1TFh1eEg1Vmc?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-07T07:29+08:00",
-   "query": "商圈",
-   "url": "https://n.yam.com/Article/20261107489569",
    "resolved": true
   }
  ]
