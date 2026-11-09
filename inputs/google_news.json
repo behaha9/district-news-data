@@ -1,17 +1,41 @@
 {
- "fetched_at": "2026-11-09T09:01:59+08:00",
+ "fetched_at": "2026-11-09T12:17:23+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 108,
-  "kept": 37,
-  "resolved": 37,
-  "items": 37,
+  "raw": 109,
+  "kept": 38,
+  "resolved": 38,
+  "items": 36,
   "resolve_this_run": {
-   "online": 1
-  }
+   "online": 4
+  },
+  "dropped_old": [
+   "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）",
+   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
+  ]
  },
  "items": [
+  {
+   "title": "一中商圈金店面被爆違建收租20年都沒事 都發局：何時能拆無法預測",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04bndKYVJNSmZtX1plNEdqX0lNdS1lNHNlOFVweUVOazY2cHpfbldnRnE1bExZMnluazNDQjZUb3ZGeE1fUTVfcW9DU1FrSGx4UTdUd1NR0gFWQVVfeXFMTThud0phUk1KZm1fWmU0R2pfSU11LWU0c2U4VXB5RU5rNjZwel9uV2dGcTVsTFkyeW5rM0NCNlRvdkZ4TV9RNV9xb0NTUWtIbHhRN1R3U1E?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
+   "published_at": "2026-11-09T09:59+08:00",
+   "query": "商圈",
+   "url": "https://udn.com/news/amp/story/7325/9866142",
+   "resolved": true
+  },
+  {
+   "title": "何欣純蔡其昌合體掃逢甲 聽取業者心聲活絡商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGlWOGhtSGNhMXZ5dm5aYWlVY3dDMG9VQ0dqVzZDSVVzNXlqcTRMYTdXTGw3b2VIZkVndXU3aGp3MHpMT2FjcE8yNGljenFjSHMxUE83WjFlcWFrYjUySXMxOUdRWS1Mbmx4Y2VlcDJheHFoVkc5S2xpVFFmLWVIMg?oc=5",
+   "source": "壹電視",
+   "source_site": "https://www.nexttv.com.tw",
+   "published_at": "2026-11-09T09:17+08:00",
+   "query": "商圈",
+   "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-11-09/2520165.html",
+   "resolved": true
+  },
   {
    "title": "東海商圈爆街頭衝突！轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43Yzc4MEMzSnNmTzE1VFNFR3VzVi10b0ppSlVmTVZaTFpBUm5idU1qQjBhbDlWRHBMb2pCLVRBLXZnUml6ZlNXRkRRcHF0Zw?oc=5",
@@ -44,12 +68,12 @@
   },
   {
    "title": "獨家／一中商圈賊潛後台行竊！30秒內偷包得手5萬",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wX3JOSFIwbzI5MF9EVkJPMW45X01uY2dXcm9pb09vUnAwYWh0UEk1LUVsWEU4TkJPcmQyQzNfdUR3SFdXUm4tYlBOdFNFSU16bUR3OUZn?oc=5",
-   "source": "東森新聞",
-   "source_site": "https://news.ebc.net.tw",
+   "google_url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQdkhZUlZmeGxySklkRDFNN2NsX3ltbTRvdUFpbjZNYW1TX19EcGJwdXpPOVAxdFFWUTNNN3dfa3ItV01zQ2dSQkpTcGN2VHJlSmd4MVo2M1hxOXkzY0RSaXJLWDR4aFRmeXhGWmNad0Jlb1ptZTFDd1NoTzdTY2tjaTJjSXZfZWJxSWwxX1plaklGdkVYX1ZwaWlzdE02OU00V0lqSWN5bk5mZVMySjBrWlh1bWlsaloxeGlVelA1c3BOSElRNkZuUllDemxCQmpzVVhfRzh6WXh3Y1pMbl9ETVM2OVVnY1dqVGo2Q3JJZksyWTR3ejJBSHpDSlZwWVlIRno2R2VuaHBkWUMzM0dianphS0VvT0M0bVFGVmRjYzROWC1pVHJVQXRLYVppTDZyR3c?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
    "published_at": "2026-11-08T21:47+08:00",
    "query": "商圈",
-   "url": "https://news.ebc.net.tw/news/society/579726",
+   "url": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E4%B8%AD%E5%95%86%E5%9C%88%E8%B3%8A%E6%BD%9B%E5%BE%8C%E5%8F%B0%E8%A1%8C%E7%AB%8A-30%E7%A7%92%E5%85%A7%E5%81%B7%E5%8C%85%E5%BE%97%E6%89%8B5%E8%90%AC-134700153.html",
    "resolved": true
   },
   {
@@ -100,6 +124,16 @@
    "published_at": "2026-11-08T15:25+08:00",
    "query": "商圈",
    "url": "https://www.ctwant.com/article/505834/",
+   "resolved": true
+  },
+  {
+   "title": "地面也會亮紅燈 中市7期商圈路口設智慧行人安全警示系統",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRmFOUUI0dUJyT2hTczRNWDZ2UnVLQ0Exc2w1cGJybERmTDc3cXp6R0JwbGRkVFB5N1BocVV1ZTRYejFYZ1R2cExDQk9NeUZfQkE?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-08T13:16+08:00",
+   "query": "商圈",
+   "url": "https://n.yam.com/Article/20261108449966",
    "resolved": true
   },
   {
@@ -293,6 +327,16 @@
    "resolved": true
   },
   {
+   "title": "張善政出席桃園商圈成果發表 推一商圈一特色升級",
+   "google_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSlVhVUdTcGdkUmZNMlRwRDB2Tmx2eTlOVHNNUHpFOGZZV0ZuLTRCak5lYlVqc2RJLWpHdHFfYXFib3hnemk3cXJnSnhWXzZrbnhocVBnYWdmSnFFRTZ6cTY5UTVIQWhFaEhkSXpoRENsWXpnRDY3V1ZEWm1FQjFJVVNKNU5SSHgtcGd3eDZrQmtlRi1GNWwwSGJBWDFxRVZ6eVZmM0hQZmxuMU50QnFGYzVjeU5RRHpjZllWd1FZNl9JZFhETFZMRk5vLXZmZHcyaUQ4YzlnODhFX3o4bHg0dTlyMlR1V0czT25WT1hPbkM1RXJCSnQydGcyQUw1ZXJRRVpyM1Zycmg0djNVMnNGVE5peHlrRHIyWkVyNGUwOFdVaXdwQlhndjZyMW8wVXdWaklPQ1oySnlEQ21nQVB0clpMUHJXVWM?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-07T18:14+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E5%BC%B5%E5%96%84%E6%94%BF%E5%87%BA%E5%B8%AD%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8-%E6%8E%A8-%E5%95%86%E5%9C%88-%E7%89%B9%E8%89%B2%E5%8D%87%E7%B4%9A-101443673.html",
+   "resolved": true
+  },
+  {
    "title": "「台北安可」西門商圈吸抽室不夠？",
    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1acDB3cFF3RlhBQ0FROXAxVHFHVDdrUExfRTd0NWd0TGw1UVZ1cm9TcDUzOFRjXzlsalVMTS1jS3BOWDBqM2xWY3ZMM2g3dnFGLVVEck51MzRoVmhTRmNCaUJfNDN0TXZB?oc=5",
    "source": "元丰傳媒",
@@ -330,56 +374,6 @@
    "published_at": "2026-11-07T13:30+08:00",
    "query": "老街",
    "url": "https://fgblog.fashionguide.com.tw/14492/posts/458703",
-   "resolved": true
-  },
-  {
-   "title": "出席東區週年慶 蔣萬安力挺商圈振興帶動400億商機",
-   "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRc1Y4UVo2LXlCNXYwUEQ4QXZBbXJsVml1ZjVlWGIxUG1pNzg3XzRURXM5TVlkY0pKZHN1WDMxbmZsNm1BNG12Q2xvU3FSQy1aYWZmOUMwUlVUckpOaTFUdm05aUhPandMSy16TmdnelJTcEpXcjlENzZyYw?oc=5",
-   "source": "壹電視",
-   "source_site": "https://www.nexttv.com.tw",
-   "published_at": "2026-11-07T12:09+08:00",
-   "query": "商圈",
-   "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-07/2518391.html",
-   "resolved": true
-  },
-  {
-   "title": "行人安全大禮包、地面也會亮紅燈！中市交通局7期商圈設置智慧行人安全警示系統",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56TEd1R0w5YjhlT0l6N05FYmpDdFVTYVpzT1JuSVlSU1ZSczRSWWMxU01PMjNBZ0gydWM1X0N4ZXVnMU5QSnNUX3VqaFppODc4UkE?oc=5",
-   "source": "臺中市政府全球資訊網",
-   "source_site": "https://www.taichung.gov.tw",
-   "published_at": "2026-11-07T10:20+08:00",
-   "query": "商圈",
-   "url": "https://www.taichung.gov.tw/3409037/post",
-   "resolved": true
-  },
-  {
-   "title": "天母美校商圈 公寓5字頭入手",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4dHA1bzR0aFRuZU50VHpMUU56SFhqR1JEdms3bEloY2V0dnd5T2N0RGVwV0djQXBmRTBNN0h3b3gzazVkNHZZU0FRdHk3NDdxZnhyUXFiRHRpV1g5ZVAtd0wyYnE?oc=5",
-   "source": "台灣房屋",
-   "source_site": "https://news.twhg.com.tw",
-   "published_at": "2026-11-07T09:36+08:00",
-   "query": "商圈",
-   "url": "https://news.twhg.com.tw/re_news_details.php?ojb=61197",
-   "resolved": true
-  },
-  {
-   "title": "明年捷運萬大線通車 板橋重慶商圈長線看好",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xQ3Q3ZUlLd1JnejkxeW1iQk0xdmZMSnJTR3JULURieV9xUHZ2R2ZMa1ZzR29Qbko3TUdDenBvdzE0cHB4VGZrX0RBUUxVa0g2VVFpWWw4cVlmeDRxWnFMZWJQRlU?oc=5",
-   "source": "台灣房屋",
-   "source_site": "https://news.twhg.com.tw",
-   "published_at": "2026-11-07T09:36+08:00",
-   "query": "商圈",
-   "url": "https://news.twhg.com.tw/re_news_details.php?ojb=61198",
-   "resolved": true
-  },
-  {
-   "title": "桃園推動一商圈一特色 爭取2300萬補助輔導營運",
-   "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tRFhRZ2RPNU5WVEVzNjJfLUhGQ3pfb3NXOXFIa0pCWFowTUJLWmFVM28yYmh2cExHeVlfMEdUZXdoc0lfYWhXLXRjcWM?oc=5",
-   "source": "桃園電子報",
-   "source_site": "https://tyenews.com",
-   "published_at": "2026-11-07T09:24+08:00",
-   "query": "商圈",
-   "url": "https://tyenews.com/2026/11/1426951/",
    "resolved": true
   }
  ]

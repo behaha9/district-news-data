@@ -1,8 +1,9 @@
-01:01:53 attempt=1 code=200 url=https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d bytes=207005
-首頁清單：95 件事件／167 篇
-7 天累積清單：167 篇（本次新增 8）
-重點商圈查詢：第 225–324 處（共 281 處），新增 5 則，失敗 11 處；目前保留 81 則
-Google 新聞：查詢 5／5，原始 108 則，標題相關 37 則，保留 37 則，已還原原文網址 37 則；本次還原 {'online': 1}；錯誤 []
+04:17:18 attempt=1 code=200 url=https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d bytes=203527
+首頁清單：98 件事件／169 篇
+7 天累積清單：169 篇（本次新增 2）
+重點商圈查詢：第 44–143 處（共 281 處），新增 6 則，失敗 0 處；目前保留 83 則
+Google 新聞：查詢 5／5，原始 109 則，標題相關 38 則，保留 38 則，已還原原文網址 38 則；本次還原 {'online': 4}；錯誤 []
 關注議題：食用油：Google 125 則，新增 3 則，保留 88 則 {'店家相關': 37, '價格動態': 51}
-原文預抓：新抓 2／2，成功 2；快取共 594 篇；縮圖 687 張
-01:02:12 filter_candidates exit=0
+Google 新聞移除舊聞： 8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）；台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）
+原文預抓：新抓 31／31，成功 29；快取共 594 篇；縮圖 698 張
+04:17:40 filter_candidates exit=0
