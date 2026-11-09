@@ -1,7 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T07:23:30+08:00",
+ "generated_at": "2026-11-09T12:23:44+08:00",
  "items": [
+  {
+   "id": "20261107-yizhong-illegal-shop",
+   "title": "台中一中商圈黃金角店月租68萬，被指為違建占巷影響出入",
+   "summary": "影音報導指一中商圈一處黃金角店月租達68萬元，但被指為違建、占用巷道並擋住出入。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-09T09:59:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    {
+     "name": "一中街商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "聯合新聞網・地方",
+     "url": "https://udn.com/news/story/7325/9866142",
+     "published_at": "2026-11-09T09:59:00+08:00"
+    },
+    {
+     "outlet": "ETtoday新聞雲",
+     "url": "https://www.ettoday.net/news/20261108/3268358.htm",
+     "published_at": "2026-11-08T11:34:00+08:00"
+    },
+    {
+     "outlet": "東森新聞",
+     "url": "https://www.msn.com/zh-tw/news/news/%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E9%BB%83%E9%87%91%E8%A7%92%E5%BA%97-%E6%9C%88%E7%A7%9F68%E8%90%AC-%E6%98%AF%E5%A4%A7%E9%81%95%E5%BB%BA-%E5%8D%A0%E5%B7%B7%E6%93%8B%E5%87%BA%E5%85%A5-shorts/vi-AA2gWavA",
+     "published_at": "2026-11-07T00:00:00+08:00"
+    },
+    {
+     "outlet": "東森新聞",
+     "url": "https://www.msn.com/zh-tw/money/%E4%B8%80%E8%88%AC/%E7%8D%A8%E5%AE%B6-%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E9%BB%83%E9%87%91%E8%A7%92%E5%BA%97-%E6%9C%88%E7%A7%9F68%E8%90%AC-%E6%98%AF%E5%A4%A7%E9%81%95%E5%BB%BA-%E5%8D%A0%E5%B7%B7%E6%93%8B%E5%87%BA%E5%85%A5-newsebc/vi-AA2gSII3",
+     "published_at": "2026-11-06T11:09:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35498745.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600"
+  },
   {
    "id": "20261108-taipei-influencer-fest",
    "title": "2026臺北國際網紅節登場，網紅帶路逛商圈並頒發網紅獎",
@@ -73,41 +113,6 @@
    "image": "https://ni.yam.com/20261108/taichung-cover-261108043217761-7dd2d5bb9b76c17a.webp"
   },
   {
-   "id": "20261107-yizhong-illegal-shop",
-   "title": "台中一中商圈黃金角店月租68萬，被指為違建占巷影響出入",
-   "summary": "影音報導指一中商圈一處黃金角店月租達68萬元，但被指為違建、占用巷道並擋住出入。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-11-08T11:34:00+08:00",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    {
-     "name": "一中街商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "ETtoday新聞雲",
-     "url": "https://www.ettoday.net/news/20261108/3268358.htm",
-     "published_at": "2026-11-08T11:34:00+08:00"
-    },
-    {
-     "outlet": "東森新聞",
-     "url": "https://www.msn.com/zh-tw/news/news/%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E9%BB%83%E9%87%91%E8%A7%92%E5%BA%97-%E6%9C%88%E7%A7%9F68%E8%90%AC-%E6%98%AF%E5%A4%A7%E9%81%95%E5%BB%BA-%E5%8D%A0%E5%B7%B7%E6%93%8B%E5%87%BA%E5%85%A5-shorts/vi-AA2gWavA",
-     "published_at": "2026-11-07T00:00:00+08:00"
-    },
-    {
-     "outlet": "東森新聞",
-     "url": "https://www.msn.com/zh-tw/money/%E4%B8%80%E8%88%AC/%E7%8D%A8%E5%AE%B6-%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E9%BB%83%E9%87%91%E8%A7%92%E5%BA%97-%E6%9C%88%E7%A7%9F68%E8%90%AC-%E6%98%AF%E5%A4%A7%E9%81%95%E5%BB%BA-%E5%8D%A0%E5%B7%B7%E6%93%8B%E5%87%BA%E5%85%A5-newsebc/vi-AA2gSII3",
-     "published_at": "2026-11-06T11:09:00+08:00"
-    }
-   ],
-   "image": "https://cdn2.ettoday.net/images/9006/e9006067.jpg"
-  },
-  {
    "id": "20261107-shalu-monkey",
    "title": "台中沙鹿成衣商圈獼猴出沒，農業局架設誘捕籠",
    "summary": "沙鹿成衣商圈近日有獼猴出沒、闖入後巷，居民3天內兩度目擊；農業局指非棲地，疑為民眾違規飼養，已架設誘捕籠。",
@@ -158,6 +163,11 @@
      "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261107592163",
      "published_at": "2026-11-07T19:19:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261107503381",
+     "published_at": "2026-11-07T14:15:00+08:00"
     },
     {
      "outlet": "壹電視",
@@ -254,6 +264,11 @@
      "published_at": "2026-11-07T18:57:00+08:00"
     },
     {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261107884916",
+     "published_at": "2026-11-07T18:57:00+08:00"
+    },
+    {
      "outlet": "PeoPo 公民新聞",
      "url": "https://www.peopo.org/news/863090",
      "published_at": "2026-11-07T18:36:00+08:00"
@@ -276,6 +291,11 @@
     {
      "outlet": "經濟部商業發展署",
      "url": "https://www.aoc.gov.tw/showPublic/811",
+     "published_at": "2026-11-06T00:00:00+08:00"
+    },
+    {
+     "outlet": "LIFE 生活網",
+     "url": "https://life.tw/article/經濟部改造全台四大商圈市場-導入設計改善動線與消費環境-3207568",
      "published_at": "2026-11-06T00:00:00+08:00"
     }
    ],
@@ -1687,7 +1707,7 @@
      "published_at": "2026-10-27T14:36:00+08:00"
     }
    ],
-   "image": "https://static.kmedia.com.tw/prd/2026/1027/A1C6ACFFE99CF850ABB28DDDA5CBA34E/8ed8d37169790d08716669fe6b838ddc.jpg"
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472313.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
   },
   {
    "id": "20261031-tainan-shopping-30b",
@@ -1760,7 +1780,7 @@
      "published_at": "2026-10-30T19:54:00+08:00"
     }
    ],
-   "image": "https://ni.yam.com/20261030/taichung-3403297-2-scaled-16c0381efc344a56.webp"
+   "image": "https://ni.yam.com/20261031/img-9835-1500x1125-f142edf20fec20d6.webp"
   },
   {
    "id": "20261030-eslite-zhongshan-station",
@@ -1801,7 +1821,7 @@
      "published_at": "2026-10-30T20:41:00+08:00"
     }
    ],
-   "image": "https://images.ctee.com.tw/newsphoto/2026-10-30/1024/20261030701906.jpg"
+   "image": "https://attach.setn.com/newsimages/2026/10/30/5769367-XXL.jpg"
   },
   {
    "id": "20261030-xinyi-muzha-tea",
