@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-09T12:23:48+08:00",
+ "updated_at": "2026-11-09T16:50:19+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -452,6 +452,11 @@
    "reason": "非商圈",
    "at": "2026-11-04"
   },
+  "https://udn.com/news/amp/story/7325/9866142": {
+   "decision": "kept",
+   "item": "20261107-yizhong-illegal-shop",
+   "at": "2026-11-09"
+  },
   "https://udn.com/news/story/124652/9861704": {
    "decision": "hidden",
    "reason": "選舉",
@@ -766,6 +771,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-06"
+  },
+  "https://www.taisounds.com/news/content/83/298719": {
+   "decision": "hidden",
+   "reason": "非商圈",
+   "at": "2026-11-09"
   },
   "https://www.taiwanhot.net/news/1152923/%E5%8F%B0%E5%8D%97%E7%99%BE%E8%B2%A8%E7%89%88%E5%9C%96%E9%87%8D%E6%95%B4%EF%BC%81%E9%90%B5%E8%B7%AF%E5%9C%B0%E4%B8%8B%E5%8C%96%E5%B8%B6%E5%8B%95%E7%AB%99%E5%89%8D%E5%95%86%E5%9C%88%E5%86%8D%E7%94%9F+%E5%95%86%E6%A5%AD%E6%8A%95%E8%B3%87%E3%80%81%E5%B0%B1%E6%A5%AD%E4%BA%BA%E5%8F%A3%E7%89%BD%E5%8B%95%E5%91%A8%E9%82%8A%E6%88%BF%E5%B8%82": {
    "decision": "kept",
