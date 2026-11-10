@@ -1,40 +1,14 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T20:53:51+08:00",
+ "generated_at": "2026-11-11T07:18:19+08:00",
  "items": [
-  {
-   "id": "20261110-ruifang-oldstreet-facade",
-   "title": "瑞芳老街入口閒置邊坡改造，門面更新打造文化亮點",
-   "summary": "瑞芳街連接明燈路、鄰近平交道的閒置邊坡是進入瑞芳老街的重要出入口，正進行門面改造以改善環境觀瞻。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-10T19:12:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [
-    {
-     "name": "瑞芳老街商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "瑞芳老街商圈為115年補助名單，入口環境改造可留意與計畫執行成效的關聯。",
-   "sources": [
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7323/9869885",
-     "published_at": "2026-11-10T19:12:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/10/35504322.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600"
-  },
   {
    "id": "20261110-kaohsiung-xmas-fest",
    "title": "高雄聖誕生活節13日在中央公園登場，連5個週末市集與音樂串聯商圈",
    "summary": "高雄市經發局公布聖誕生活節13日起在中央公園舉辦，連5個週末推主題市集、音樂演出與燈飾，並串聯商圈帶動歲末消費。",
    "category": "活動與街區",
    "alert": null,
-   "published_at": "2026-11-10T17:52:00+08:00",
+   "published_at": "2026-11-10T21:41:00+08:00",
    "cities": [
     "高雄市"
    ],
@@ -46,6 +20,11 @@
    ],
    "admin_note": "中央公園商圈為115年補助名單，市府聖誕活動串聯商圈，可留意與商圈自辦活動的銜接。",
    "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261110673921",
+     "published_at": "2026-11-10T21:41:00+08:00"
+    },
     {
      "outlet": "墨新聞",
      "url": "https://more-news.tw/764883/",
@@ -77,7 +56,7 @@
      "published_at": "2026-11-10T00:00:00+08:00"
     }
    ],
-   "image": "https://more-news.tw/more-news-media/2026/11/IMG_5705.jpeg"
+   "image": "https://ni.yam.com/20261110/1379510-1500x962-d5e5fbeae7ec17d2.webp"
   },
   {
    "id": "20261110-moea-excellent-district-award",
@@ -85,10 +64,20 @@
    "summary": "經濟部長在全國卓越商圈獎頒獎典禮表揚20個商圈，並宣布116年起每年再加碼投入25.5億元支持商圈發展。",
    "category": "營運與政策",
    "alert": null,
-   "published_at": "2026-11-10T17:19:00+08:00",
+   "published_at": "2026-11-10T20:55:00+08:00",
    "cities": [],
    "districts": [],
    "sources": [
+    {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/765073/",
+     "published_at": "2026-11-10T20:55:00+08:00"
+    },
+    {
+     "outlet": "鉅亨網",
+     "url": "https://m.cnyes.com/news/id/6656699",
+     "published_at": "2026-11-10T20:15:00+08:00"
+    },
     {
      "outlet": "中央廣播電臺",
      "url": "https://www.rti.org.tw/news?uid=3&pid=1050641",
@@ -99,7 +88,34 @@
      "url": "https://news.cnyes.com/news/id/6656699",
      "published_at": "2026-11-10T06:15:00+08:00"
     }
-   ]
+   ],
+   "image": "https://more-news.tw/more-news-media/2026/11/IMG_7329.jpeg"
+  },
+  {
+   "id": "20261110-ruifang-oldstreet-facade",
+   "title": "瑞芳老街入口閒置邊坡改造，門面更新打造文化亮點",
+   "summary": "瑞芳街連接明燈路、鄰近平交道的閒置邊坡是進入瑞芳老街的重要出入口，正進行門面改造以改善環境觀瞻。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-10T19:12:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [
+    {
+     "name": "瑞芳老街商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "瑞芳老街商圈為115年補助名單，入口環境改造可留意與計畫執行成效的關聯。",
+   "sources": [
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7323/9869885",
+     "published_at": "2026-11-10T19:12:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/10/35504322.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600"
   },
   {
    "id": "20261110-yunlin-huwei-dounan-award",
@@ -2557,26 +2573,6 @@
     }
    ],
    "image": "https://media.nownews.com/nn_media/thumbnail/2025/06/1748776856810-d191e9d5f901446f81eb596c9f84ea3c-1200x697.webp?unShow=false"
-  },
-  {
-   "id": "20261028-daxi-craft-week",
-   "title": "2026大溪工藝周10/31起兩周登場，以兩大主題邀民眾遊老街",
-   "summary": "大溪工藝周自10月31日起為期兩周，分兩大主題辦理活動，大溪木藝生態博物館也以老街建築推出主題商品。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-28T04:10:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "中時新聞網",
-     "url": "https://www.chinatimes.com/newspapers/20261028000596-260107",
-     "published_at": "2026-10-28T04:10:00+08:00"
-    }
-   ],
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-28/656/B20A00_P_04_02.jpg"
   }
  ],
  "discussions": []

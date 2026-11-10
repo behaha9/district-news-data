@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-10T20:53:51+08:00",
+ "updated_at": "2026-11-11T07:18:25+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -41,6 +41,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-09"
+  },
+  "https://forum.ettoday.net/news/3269471": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-11"
   },
   "https://hao.cnyes.com/post/275232": {
    "decision": "hidden",
@@ -551,6 +556,11 @@
    "decision": "hidden",
    "reason": "國外",
    "at": "2026-11-10"
+  },
+  "https://www.chinatimes.com/realtimenews/20261110003364-260405": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-11"
   },
   "https://www.chinesedaily.com/article/detail-711508.html": {
    "decision": "hidden",
