@@ -412,6 +412,149 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-10T20:53:51+08:00",
+   "added": 3,
+   "merged": 1,
+   "items": [
+    {
+     "id": "20261110-kaohsiung-xmas-fest",
+     "title": "高雄聖誕生活節13日在中央公園登場，連5個週末市集與音樂串聯商圈",
+     "summary": "高雄市經發局公布聖誕生活節13日起在中央公園舉辦，連5個週末推主題市集、音樂演出與燈飾，並串聯商圈帶動歲末消費。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-10T17:52:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [
+      {
+       "name": "中央公園商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "中央公園商圈為115年補助名單，市府聖誕活動串聯商圈，可留意與商圈自辦活動的銜接。",
+     "sources": [
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/764883/",
+       "published_at": "2026-11-10T17:52:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7327/9868803",
+       "published_at": "2026-11-10T12:19:00+08:00"
+      },
+      {
+       "outlet": "中央社",
+       "url": "https://www.cna.com.tw/news/aloc/202611100088.aspx",
+       "published_at": "2026-11-10T11:56:00+08:00"
+      },
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/life/breakingnews/5635399",
+       "published_at": "2026-11-10T11:25:00+08:00"
+      },
+      {
+       "outlet": "華視新聞網",
+       "url": "https://news.cts.com.tw/cna/local/202611/202611103099295.html",
+       "published_at": "2026-11-10T00:00:00+08:00"
+      },
+      {
+       "outlet": "中央社(MSN)",
+       "url": "https://www.msn.com/zh-tw/news/national/%E9%AB%98%E9%9B%84%E8%81%96%E8%AA%95%E7%94%9F%E6%B4%BB%E7%AF%80-13%E6%97%A5%E7%99%BB%E5%A0%B4-%E5%B8%82%E9%9B%86-%E9%9F%B3%E6%A8%82%E9%BB%9E%E4%BA%AE%E5%95%86%E5%9C%88/ar-AA2h7abz",
+       "published_at": "2026-11-10T00:00:00+08:00"
+      }
+     ],
+     "image": "https://more-news.tw/more-news-media/2026/11/IMG_5705.jpeg"
+    },
+    {
+     "id": "20261110-ruifang-oldstreet-facade",
+     "title": "瑞芳老街入口閒置邊坡改造，門面更新打造文化亮點",
+     "summary": "瑞芳街連接明燈路、鄰近平交道的閒置邊坡是進入瑞芳老街的重要出入口，正進行門面改造以改善環境觀瞻。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-10T19:12:00+08:00",
+     "cities": [
+      "新北市"
+     ],
+     "districts": [
+      {
+       "name": "瑞芳老街商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "瑞芳老街商圈為115年補助名單，入口環境改造可留意與計畫執行成效的關聯。",
+     "sources": [
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7323/9869885",
+       "published_at": "2026-11-10T19:12:00+08:00"
+      }
+     ],
+     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/10/35504322.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600"
+    },
+    {
+     "id": "20261110-moea-excellent-district-award",
+     "title": "全國卓越商圈獎頒獎，經濟部宣布明年起每年加碼25.5億輔導商圈",
+     "summary": "經濟部長在全國卓越商圈獎頒獎典禮表揚20個商圈，並宣布116年起每年再加碼投入25.5億元支持商圈發展。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-10T17:19:00+08:00",
+     "cities": [],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "中央廣播電臺",
+       "url": "https://www.rti.org.tw/news?uid=3&pid=1050641",
+       "published_at": "2026-11-10T17:19:00+08:00"
+      },
+      {
+       "outlet": "Anue鉅亨",
+       "url": "https://news.cnyes.com/news/id/6656699",
+       "published_at": "2026-11-10T06:15:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261110-yunlin-huwei-dounan-award",
+     "title": "雲林虎尾鎮魅力商圈、斗南商圈獲全國卓越商圈獎肯定",
+     "summary": "雲林縣虎尾鎮魅力商圈與斗南商圈在經濟部商業發展署主辦的全國卓越商圈評選中獲獎。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-10T15:32:00+08:00",
+     "cities": [
+      "雲林縣"
+     ],
+     "districts": [
+      {
+       "name": "虎尾鎮魅力商圈",
+       "priority": true
+      },
+      {
+       "name": "斗南商圈",
+       "priority": false
+      }
+     ],
+     "admin_note": "虎尾鎮魅力商圈為115年補助名單，獲獎可作為執行成效的參考。",
+     "sources": [
+      {
+       "outlet": "雲林縣政府",
+       "url": "https://www.yunlin.gov.tw/News_Content.aspx?n=1244&s=613563",
+       "published_at": "2026-11-10T15:32:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261110662902",
+       "published_at": "2026-11-10T00:00:00+08:00"
+      }
+     ],
+     "image": "https://ni.yam.com/20261110/20261110183950-85f61a13a7e33737.webp"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
