@@ -1,7 +1,32 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T07:18:41+08:00",
+ "generated_at": "2026-11-10T12:17:29+08:00",
  "items": [
+  {
+   "id": "20261110-taichung-port-imported",
+   "title": "臺中港舶來品商圈推出「拾光補帖」白露茶席活動，結合漢方食補",
+   "summary": "臺中港舶來品商圈持續辦年度特色活動，今年推出白露節氣的「拾光補帖」茶席，邀民眾品味秋日時光。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-10T11:29:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    {
+     "name": "臺中港舶來品商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261110138610",
+     "published_at": "2026-11-10T11:29:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261110/1794280257917-1024x771-220cd9d51d460cf1.webp"
+  },
   {
    "id": "20261109-shuishang-xiancao",
    "title": "水上商圈協會辦仙草料理競賽，結合特產帶動商圈經濟",
@@ -2620,56 +2645,6 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35457868.jpg&M=1&s=Y&x=0&y=1&sw=1279&sh=853&exp=3600"
-  },
-  {
-   "id": "20261024-taoyuan-map-walk",
-   "title": "桃園推出雙城走讀地圖，串聯老街、古蹟與商場",
-   "summary": "報導指一張地圖串聯桃園雙城的老街、古蹟與商場，提供城市漫遊的新體驗。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-27T08:00:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "UDN",
-     "url": "https://travel.udn.com/travel/story/7206/9834487",
-     "published_at": "2026-10-27T08:00:00+08:00"
-    },
-    {
-     "outlet": "中時新聞網",
-     "url": "https://truemii.chinatimes.com/content/20261024001029-265001",
-     "published_at": "2026-10-24T00:00:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261024303429",
-     "published_at": "2026-10-24T00:00:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450012.jpg&M=1&s=Y&x=0&y=0&sw=720&sh=480&exp=3600"
-  },
-  {
-   "id": "20261027-pinglin-old-street",
-   "title": "新北坪林老街因網友分享茶製點心在社群爆紅",
-   "summary": "報導指坪林老街近期因網友分享茶冰淇淋、茶麻糬等體驗，在社群平台引發討論。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-27T08:00:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "Yahoo新聞",
-     "url": "https://tw.news.yahoo.com/%E6%98%9F-%E9%9A%B1%E8%97%8F%E8%80%81%E8%A1%97-%E6%84%8F%E5%A4%96%E7%88%86%E7%B4%85-%E7%B6%B2%E6%8E%A8%E5%A5%BD%E5%90%83%E5%8F%88%E5%A5%BD%E9%80%9B-%E9%A2%A8%E6%99%AF%E8%AA%98%E4%BA%BA-000000045.html",
-     "published_at": "2026-10-27T08:00:00+08:00"
-    }
-   ],
-   "image": "https://media.zenfs.com/no/supertaste_tvbs_com_tw_971/7fb58e694bfdb3b579c5ec26f4b76bc8"
   }
  ],
  "discussions": []
