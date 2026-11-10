@@ -1,17 +1,36 @@
 {
- "fetched_at": "2026-11-11T00:29:18+08:00",
- "generated_at": "2026-11-11T00:29:18+08:00",
+ "fetched_at": "2026-11-11T07:17:03+08:00",
+ "generated_at": "2026-11-11T07:17:02+08:00",
  "window": "7d",
- "event_count": 88,
- "article_count": 150,
+ "event_count": 89,
+ "article_count": 152,
  "items": [
+  {
+   "url": "https://n.yam.com/Article/20261110673921",
+   "title": "2026高雄聖誕生活節11/13浪漫登場! 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
+   "source": "蕃新聞",
+   "published_at": "2026-11-10T21:41:00+08:00",
+   "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
+   "primary": true,
+   "cities": [
+    "高雄市"
+   ]
+  },
+  {
+   "url": "https://m.cnyes.com/news/id/6656699",
+   "title": "每年加碼25.5億升級!龔明鑫表彰20大卓越商圈 推動跨部會獎勵行銷",
+   "source": "鉅亨網",
+   "published_at": "2026-11-10T20:15:00+08:00",
+   "event_key": "art:1ebc0000467155b1623d3ccc00ac9da422c874cc2ada97f15db5ab970ea15fa3",
+   "primary": true
+  },
   {
    "url": "https://news.cnyes.com/news/id/6656699",
    "title": "每年加碼25.5億升級!龔明鑫表彰20大卓越商圈 推動跨部會獎勵行銷",
    "source": "鉅亨網",
    "published_at": "2026-11-10T20:15:00+08:00",
-   "event_key": "art:40d08a3658cf909d30d0db7015052e61b14f1a02e7a1d370d66620cadf9e74e2",
-   "primary": true
+   "event_key": "art:1ebc0000467155b1623d3ccc00ac9da422c874cc2ada97f15db5ab970ea15fa3",
+   "primary": false
   },
   {
    "url": "https://tw.news.yahoo.com/%E8%AC%9D%E5%9C%8B%E6%A8%91%E7%B6%93%E6%BF%9F%E7%99%BC%E5%B1%95%E6%96%B0%E8%97%8D%E5%9C%96-%E4%BA%94%E5%A0%B5%E6%99%BA%E6%85%A7%E7%A7%91%E6%8A%80%E5%9C%92%E5%8D%80-ai%E7%94%A2%E6%A5%AD%E5%8F%8A%E6%9D%B1%E5%B2%B8%E5%95%86%E5%9C%88%E5%B8%B6%E5%8B%95%E5%9F%BA%E9%9A%86%E8%BD%89%E5%9E%8B-111254487.html",
@@ -54,8 +73,8 @@
    "title": "2026高雄聖誕生活節11/13浪漫登場五週末「耶誕小鎮」接力開逛9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
    "source": "墨新聞-MORE News",
    "published_at": "2026-11-10T17:52:00+08:00",
-   "event_key": "art:ac512d02e30ea4d06ce11f30f5edfc102354a85961c3301510bc5b419d2f5e33",
-   "primary": true,
+   "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
+   "primary": false,
    "cities": [
     "高雄市"
    ]
@@ -78,6 +97,19 @@
    "cities": [
     "高雄市"
    ]
+  },
+  {
+   "url": "https://forum.ettoday.net/news/3269471",
+   "title": "請教下一任新北市長 如何讓中小微服務業與商圈擴大在地經濟效益?",
+   "source": "ETtoday新聞雲 - 雲論",
+   "published_at": "2026-11-10T16:00:00+08:00",
+   "event_key": "art:88fcc140df1467e900f072996772b9fc635d7c6d843b537320b76874eabd1a61",
+   "primary": true,
+   "summary": "新北市不僅人口居全臺之冠,根據經濟部《2025中小企業白皮書》,2024年新北市中小企業超過27萬家,家數亦居全國之首;按行業別觀察,服務業約占四分之三,批發零售業就超過12萬家。這些深入城市日常的企業,正是地方就業與經濟活力的重要基礎。",
+   "cities": [
+    "新北市"
+   ],
+   "date_only": true
   },
   {
    "url": "https://www.yunlin.gov.tw/News_Content.aspx?n=1244&s=613563",
@@ -178,17 +210,6 @@
    ]
   },
   {
-   "url": "https://n.yam.com/Article/20261110673921",
-   "title": "2026高雄聖誕生活節11/13浪漫登場! 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
-   "source": "蕃新聞",
-   "published_at": "2026-11-10T00:00:00+08:00",
-   "event_key": "art:ac512d02e30ea4d06ce11f30f5edfc102354a85961c3301510bc5b419d2f5e33",
-   "primary": false,
-   "cities": [
-    "高雄市"
-   ]
-  },
-  {
    "url": "https://storystudio.tw/article/gushi/the-story-of-nanfang-ao",
    "title": "宜蘭南方澳商圈:海味之外的風景,老港町吹起的新海風",
    "source": "故事 StoryStudio",
@@ -285,16 +306,16 @@
    "title": "東區週年慶盛大開跑 永慶房產集團力挺商圈振興注入人潮",
    "source": "蕃新聞",
    "published_at": "2026-11-09T16:12:00+08:00",
-   "event_key": "archive:6ac9fdfd86ce07b6",
-   "primary": true
+   "event_key": "art:b58d4b29408bd87df082c4e80fe8b30a536742c9fb9e55dfe9d9801c0e7c222b",
+   "primary": false
   },
   {
    "url": "https://cnews.com.tw/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91%E3%80%80%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88/",
    "title": "東區週年慶盛大開跑 永慶房產集團力挺商圈振興注入人潮",
    "source": "匯流新聞網",
    "published_at": "2026-11-09T16:05:00+08:00",
-   "event_key": "archive:6ac9fdfd86ce07b6",
-   "primary": false
+   "event_key": "art:b58d4b29408bd87df082c4e80fe8b30a536742c9fb9e55dfe9d9801c0e7c222b",
+   "primary": true
   },
   {
    "url": "https://www.taisounds.com/news/content/84/298719",
@@ -305,11 +326,11 @@
    "primary": true
   },
   {
-   "url": "https://udn.com/news/amp/story/7325/9866142",
+   "url": "https://udn.com/news/story/7325/9866142",
    "title": "一中商圈金店面被爆違建收租20年都沒事 都發局:何時能拆無法預測",
    "source": "UDN",
    "published_at": "2026-11-09T09:59:00+08:00",
-   "event_key": "art:e6ca37a625a6baf78a38646b6de53107899500f5c5078a860c3bab5aa54d7c23",
+   "event_key": "art:b33fa376526cbf945c050d8346edf98e2bf1ea6ec361dcd5647155afee5acc84",
    "primary": true,
    "cities": [
     "台中市"
@@ -319,11 +340,11 @@
    ]
   },
   {
-   "url": "https://udn.com/news/story/7325/9866142",
+   "url": "https://udn.com/news/amp/story/7325/9866142",
    "title": "一中商圈金店面被爆違建收租20年都沒事 都發局:何時能拆無法預測",
-   "source": "聯合新聞網・地方",
+   "source": "UDN",
    "published_at": "2026-11-09T09:59:00+08:00",
-   "event_key": "art:e6ca37a625a6baf78a38646b6de53107899500f5c5078a860c3bab5aa54d7c23",
+   "event_key": "art:b33fa376526cbf945c050d8346edf98e2bf1ea6ec361dcd5647155afee5acc84",
    "primary": false,
    "cities": [
     "台中市"
@@ -353,7 +374,7 @@
    "title": "竹南科通勤買房怎麼選?頭份「群悅泱漫」坐落建國國中明星商圈",
    "source": "工商時報",
    "published_at": "2026-11-09T00:00:00+08:00",
-   "event_key": "archive:c6bdf6039cd2b58a",
+   "event_key": "art:08fc163faeb251191e089a297e09da9da18659d39fcb0c7508af560776a06d3d",
    "primary": true,
    "summary": "夫妻一人在竹南科學園區上班,另一人每天北上新竹科學園區,早上還要送孩子到校,家買在哪裡比較順路?頭份預售屋「群悅泱漫」位於建國國中第一排,從基地走平面道路到台積電竹南先進封測廠,行車距離約3.5公里。往竹科上班的家人,則可從約700公尺外的國道一號頭份交流道北上。對正在頭份、竹南看房的雙薪家庭來說, ...",
    "date_only": true
@@ -373,53 +394,32 @@
    "title": "獨家/一中商圈賊潛後台行竊!30秒內偷包得手5萬 | EBC 東森新聞",
    "source": "LINE TODAY",
    "published_at": "2026-11-08T22:53:00+08:00",
-   "event_key": "art:b05fdcbee72dda1b48526b54ee98e3d8d6ba6ff60cc21dcb4a4503e2bdff497d",
-   "primary": true,
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    "一中街商圈"
-   ]
+   "event_key": "archive:7360744c676b3b69",
+   "primary": true
   },
   {
    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E7%B6%B2%E7%B4%85%E7%AF%80%E7%99%BB%E5%A0%B4-131%E7%B5%84%E5%89%B5%E4%BD%9C%E8%80%85%E8%A7%92%E9%80%90ty-star%E7%B6%B2%E7%B4%85%E7%8D%8E-28%E4%BD%8D%E7%B6%B2%E7%B4%85%E5%B8%B6%E8%B7%AF%E9%80%9B%E5%95%86%E5%9C%88-141817222.html",
    "title": "台北國際網紅節登場!131組創作者角逐TY Star網紅獎 28位網紅帶路逛商圈",
    "source": "Yahoo新聞",
    "published_at": "2026-11-08T22:18:00+08:00",
-   "event_key": "art:edf54dad4e673b31dfeb91cf094598034d97837001b6618fe020dc0b1ed67d68",
-   "primary": true,
-   "cities": [
-    "台北市"
-   ]
-  },
-  {
-   "url": "https://news.ebc.net.tw/news/society/579726",
-   "title": "獨家/一中商圈賊潛後台行竊!30秒內偷包得手5萬",
-   "source": "東森新聞",
-   "published_at": "2026-11-08T21:47:00+08:00",
-   "event_key": "art:b05fdcbee72dda1b48526b54ee98e3d8d6ba6ff60cc21dcb4a4503e2bdff497d",
-   "primary": false,
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    "一中街商圈"
-   ]
+   "event_key": "archive:ee0c3f3e3b4bd727",
+   "primary": true
   },
   {
    "url": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E4%B8%AD%E5%95%86%E5%9C%88%E8%B3%8A%E6%BD%9B%E5%BE%8C%E5%8F%B0%E8%A1%8C%E7%AB%8A-30%E7%A7%92%E5%85%A7%E5%81%B7%E5%8C%85%E5%BE%97%E6%89%8B5%E8%90%AC-134700153.html",
    "title": "獨家/一中商圈賊潛後台行竊!30秒內偷包得手5萬",
    "source": "Yahoo新聞",
    "published_at": "2026-11-08T21:47:00+08:00",
-   "event_key": "art:b05fdcbee72dda1b48526b54ee98e3d8d6ba6ff60cc21dcb4a4503e2bdff497d",
-   "primary": false,
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    "一中街商圈"
-   ]
+   "event_key": "archive:7360744c676b3b69",
+   "primary": false
+  },
+  {
+   "url": "https://news.ebc.net.tw/news/society/579726",
+   "title": "獨家/一中商圈賊潛後台行竊!30秒內偷包得手5萬",
+   "source": "東森新聞",
+   "published_at": "2026-11-08T21:47:00+08:00",
+   "event_key": "archive:7360744c676b3b69",
+   "primary": false
   },
   {
    "url": "https://n.yam.com/Article/20261108761466",

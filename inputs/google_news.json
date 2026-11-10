@@ -1,38 +1,48 @@
 {
- "fetched_at": "2026-11-11T00:29:23+08:00",
+ "fetched_at": "2026-11-11T07:17:08+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 101,
-  "kept": 38,
-  "resolved": 38,
-  "items": 37,
+  "raw": 102,
+  "kept": 40,
+  "resolved": 40,
+  "items": 39,
   "resolve_this_run": {
    "online": 4
   },
   "dropped_old": [
-   "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）"
+   "高市府砸10億大改造旗山老街再現巴洛克風華| 生活（原文日期 2015-09-24）"
   ]
  },
  "items": [
   {
-   "title": "2026高雄聖誕生活節11/13浪漫登場！ 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IdnE0WWwxR2Z3SC1FSy15MWdZZmdpckRhek9lbU5lVXNwREJvS2hJZjFaZzdVX3pGbDZxSy1mOFRuWDloNTEwYVVxOXA0d2hQR0E?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-10T21:41+08:00",
+   "title": "請教下一任新北市長　如何讓中小微服務業與商圈擴大在地經濟效益？",
+   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aUDVtYmRwQ1Q1cWJ6QkMyZlY3S09tOWdZSFIzaVpPRUt5dEFGc1VSZmE0UzJLZFp5bnJnZXRkdjlrbjEzbGNoZkx2dDlUTVHSAU5BVV95cUxNQkd2REdqOUtlQkNwQ2VFQkp3NlNVbTdrcElQUXcxMlZJck1rcEtZMExleTlZNDJrTmVDdjdqOFB0ZUxMLVh2blF3SDFCWVE?oc=5",
+   "source": "ETtoday新聞雲",
+   "source_site": "https://forum.ettoday.net",
+   "published_at": "2026-11-11T06:00+08:00",
    "query": "商圈",
-   "url": "https://n.yam.com/Article/20261110673921",
+   "url": "https://forum.ettoday.net/news/3269471",
+   "resolved": true
+  },
+  {
+   "title": "2026全國卓越商圈獎揭曉！20處商圈獲獎 展現臺灣在地特色與商業活力",
+   "google_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA4NWRneDBPS3MwckxGVjVTSW9xeXNKTm43Z2Y2MFRkWWtFTU94LXRXT1JHN09fRWcyalA2MHA5VjQ3dw?oc=5",
+   "source": "墨新聞-MORE News",
+   "source_site": "https://more-news.tw",
+   "published_at": "2026-11-10T20:55+08:00",
+   "query": "商圈",
+   "url": "https://more-news.tw/765073/",
    "resolved": true
   },
   {
    "title": "每年加碼25.5億升級！龔明鑫表彰20大卓越商圈 推動跨部會獎勵行銷",
-   "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JSllZMG4tY0RjZDQ2bGR4dW5OVmJuRm9lOWRScU9iQ0VlNnpycW5kZDhBemFDWlc5VU9zWjloUUNvc3VkVnZhRXB3UQ?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9veFAwMDZyMC1fLV9EajRXRDFqczcxQy1jMlRKMUpraXdXekVTUnMxS0YwOUJsU3g0M2l0X2VtTnlUYmNlbnNBN3U1OHl1UTg?oc=5",
    "source": "鉅亨網",
-   "source_site": "https://m.cnyes.com",
+   "source_site": "https://news.cnyes.com",
    "published_at": "2026-11-10T20:15+08:00",
    "query": "商圈",
-   "url": "https://m.cnyes.com/news/id/6656699",
+   "url": "https://news.cnyes.com/news/id/6656699",
    "resolved": true
   },
   {
@@ -53,6 +63,16 @@
    "published_at": "2026-11-10T18:39+08:00",
    "query": "商圈",
    "url": "https://n.yam.com/Article/20261110662902",
+   "resolved": true
+  },
+  {
+   "title": "2026高雄聖誕生活節11/13浪漫登場五週末「耶誕小鎮」接力開逛9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
+   "google_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ya1NkNVgwY054R0dOa1ZLanlqdUNsZFZZSHZkcG5samFycmM5Z2YyTXpjNHVvV2JheFEtRjhOaEJ6QQ?oc=5",
+   "source": "墨新聞-MORE News",
+   "source_site": "https://more-news.tw",
+   "published_at": "2026-11-10T17:52+08:00",
+   "query": "商圈",
+   "url": "https://more-news.tw/764883/",
    "resolved": true
   },
   {
@@ -96,6 +116,16 @@
    "resolved": true
   },
   {
+   "title": "新北議員選將陳俊諺推「古今板橋文化生活圈」 串聯林家花園與府中商圈 | 自由電子報",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfWWpGRTJ4bXFyUmdYd29Dck1rbmNYVmRRVzgyYzE2MlNLMzNJVjZTX25NUlZPREJjaHJ6clFQbjVGT0tPRno3RXhSNTB6eHliWU5tUExB?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-10T16:25+08:00",
+   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
+   "url": "https://today.line.me/tw/v3/article/nXpzvZJ",
+   "resolved": true
+  },
+  {
    "title": "新北議員選將陳俊諺推「古今板橋文化生活圈」 串聯林家花園與府中商圈",
    "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pSk9rRG8wUjZCc25JOUVlM3ppT0xpWmt5OEd5NjdKUjZXWTZhdjVoYmVLUEU0TXQwYkRXMnhaYnIzQ1lJM0FxZTd6Y3pMWVFRWm1vdU8wdUc1QlVZMEQ3TEhCeXNNSlo1Q3fSAW9BVV95cUxPN1hNOXpwWTJXODN4N05kQlFrZkY2TWVCMHltZGQwVkFtSFFTSnNuakNzS1BGSFZzdWx3QTk0NzFNVUVuRFJiN01KYTA3UklIcHlTYVVlREV5dDVvN1V2aU5iN0tybWpvQjhBLTZrT2M?oc=5",
    "source": "自由時報",
@@ -106,21 +136,11 @@
    "resolved": true
   },
   {
-   "title": "【建案分享】松山區小巨蛋旁「敦北序」－輕鬆入主敦北商圈、雙星學區房！",
-   "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pNjBldlZSMi1mNHRtWFdhY3hQdjkxb05lTFpzSmZjZ3lFTHRPQWJNTVhZQ3RuTGdNcFVlQk1xMHl1VFVVZGRKT0lQT2tuME5sZFdIXzl1R2h6cFNqUHdFTm9PeEFkdGM?oc=5",
-   "source": "Mobile01",
-   "source_site": "https://www.mobile01.com",
-   "published_at": "2026-11-10T16:00+08:00",
-   "query": "商圈",
-   "url": "https://www.mobile01.com/topicdetail.php?f=454&t=7314816",
-   "resolved": true
-  },
-  {
    "title": "北海岸鮮美海味 金山老街吹起海鮮小吃新風潮",
    "google_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNV2s0amV2QzhoLXQyblpMU0NkNjBEaFJwblRIeGRYMFJudXlQZEUzWFF0YUtWTFYybGdzallZYmNsZ3pLVVJlTS1CUTNHckZHTkVPbWZNQ2VIQVI5bFRvLW1GQ29pRDk1NVZ1TVBzTjBRdTJFZFRkVDRUQzNBaVJETDBUejlWMXcyRmhKWmp4blZTbzVqamZ0ZmNsOFJlMWZXWlZlQXhGT1hLamt4eFN3eWNuNGZfdWs3dVlKbng3eWY1LXRHb0tQLXR0NzJ5U1ZaSU9XNHE3RWNpdzVtWW9BamItVWgzRWNzblk4blQ5aWdwalh5NnhOSFhGeUZWdXo2MUg0dHF4NENnYnB5Z2ZvaXc0R2pPZ3VwR2VDeVJSQXZMcTFuUDNYdXJYN2VuVWZNWmc1UTRMMkhsaG9WanhRTURWMTg?oc=5",
    "source": "Yahoo新聞",
    "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-10T15:45+08:00",
+   "published_at": "2026-11-10T15:35+08:00",
    "query": "老街",
    "url": "https://tw.news.yahoo.com/%E5%8C%97%E6%B5%B7%E5%B2%B8%E9%AE%AE%E7%BE%8E%E6%B5%B7%E5%91%B3-%E9%87%91%E5%B1%B1%E8%80%81%E8%A1%97%E5%90%B9%E8%B5%B7%E6%B5%B7%E9%AE%AE%E5%B0%8F%E5%90%83%E6%96%B0%E9%A2%A8%E6%BD%AE-073534611.html",
    "resolved": true
@@ -256,16 +276,6 @@
    "resolved": true
   },
   {
-   "title": "黃仁勳出軌︱對象黃樂在上海浙江商圈人脈廣 外媒質疑履歷稱曾任記者再轉戰金融【短片】 (14:00) - 20261109 - 熱點",
-   "google_url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxNTEN4RV93OEJVbGdJT3lWQW5UbFJfZEItbDViRjJTNDhKSVYtXzVkMFl3d0lSY0N1T2otY010aWZONWQ1WTZpU2RET2VnS2hUV1ZMU0R4OGo5aFIwMzFjSkxRczhVVTJMcXNCUGVQcWNnNlZTY0FQR1p5TWlQTkJGRXpXcF9Ba3cyM2dpck15ZDhiZXBVekRWbE1oOWtpcDIyUEt2LTk0eHBWVTlQTmpTck1IeTVlOGJadzkwbmd6aXZvQlN6eGh3YTIzWG9TbnBKck1XRkpSNWotakRrZlB5dEcwOUU5TXUwZk45SkNpVzY5OUhRWVJ5dlhUNW14UnFWa3NSMFZRRFFPeWhSdHA4TFJ3SHB0UHdDMDVydFM1MnJfQkI5OHlPZFdLSTZkT2p0WUc1ZEhJZXh0Q1RCdmJhMVdEeVVneVlhbE9KOVRnb3BobVFCaDY4YWI5d3ZxVjh1UHB3Tm1ZTDBPTDBYRHNtaUQ4WjFjbE1tUmo0V2cwTWRoejVPektlTlc2dEQyZDJTWENoQzB0RkR6cGN5QlQ1dTZKZVRTdlZDWGYyMjRiS1JRTER0WFNiWFFfVnB4NTdEU0t6SG02aHdHa0R6QjM4d2JVOUMxX0hoTmpCMnJGU0VqeGFSZDlDMkQydTFpQlBoNmhzVXZxSHNpbFpIb0tEZmVWZWZWUTdDMVZ5clBwZHQwM1lMMlpYbzZLQkZuMDdXNUthbm1uSXI2TlpBLXNEWE9JUXB0aEJycEZvOXhpNWNSa0FRWkxVSkZ2VGMwOG5nS0c0ZjFNeWxJR042QnpfbUN0MUtLQQ?oc=5",
-   "source": "明報新聞網",
-   "source_site": "https://news.mingpao.com",
-   "published_at": "2026-11-09T16:36+08:00",
-   "query": "商圈",
-   "url": "https://news.mingpao.com/ins/%E7%86%B1%E9%BB%9E/article/20261109/s00024/1794199985269/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%B0%8D%E8%B1%A1%E9%BB%83%E6%A8%82%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%B5%99%E6%B1%9F%E5%95%86%E5%9C%88%E4%BA%BA%E8%84%88%E5%BB%A3-%E5%A4%96%E5%AA%92%E8%B3%AA%E7%96%91%E5%B1%A5%E6%AD%B7%E7%A8%B1%E6%9B%BE%E4%BB%BB%E8%A8%98%E8%80%85%E5%86%8D%E8%BD%89%E6%88%B0%E9%87%91%E8%9E%8D%E3%80%90%E7%9F%AD%E7%89%87%E3%80%91",
-   "resolved": true
-  },
-  {
    "title": "雲林孫女謝盈盈返鄉策展！串聯16家畫廊 讓藝術走進西螺老街",
    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10RUYwVF9BQVduMWxsR1ZiY3ppNXdhYTdqTXJjRDI2YWVJbFBBOUM4SzZ3cnFManJ2d25CcUJSdVN3cVB2NzVrN3ZOMTFjbUlUYVhkUnhJaUlrckJfaTFtbHZyWWhWZEk4bVVBUEZvV3Qwa2J5NnFYVm5Tcw?oc=5",
    "source": "財訊",
@@ -277,12 +287,12 @@
   },
   {
    "title": "東區週年慶盛大開跑 永慶房產集團力挺商圈振興注入人潮",
-   "google_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQWkpSNmEwcE5OZ1J1YmdrQ1NWcWhRbEkwOG1vQ3pyUGc1Rm1kUHl2MHdJX0hsQ1l2WERBaWl3Y29FMGZHLVN4eHh5R1NOTWsyODZqbld1aGxaVTg1aXpTLXN5NzR6U0lKRXRCeURKM2hVZWdPbDBRcnB4eXNCM0lUZVk4MHRnTF9jQ05tMmpWdDhWd1VBWF9JRlFqWHdXT1RxQkFMU3JhZTRKQnBjT2ZweEpGOXV3SHh1LXl0UGNvWTVYaHdDVXYxMkcwVUFxQTFfN1RPUHFKeEtTbzRKSDFyOTQ3WjhLT1k4Ry1lcFZ0Mi1UY2Z5WEJfZi1BZE1HTUtnSk5vODE3NWUyb3lYWk4zQnFZblZXQW9jYlZtbE1pQkRCN0Y2dFNNZFJqd3AwV3dULVpvcXRmV3V2Mmg4OS01Z3RB?oc=5",
-   "source": "匯流新聞網",
-   "source_site": "https://cnews.com.tw",
+   "google_url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNdWpsUFkyWExnMXJ1YmVja2pHeWRnQ0xiY3FVcDIzOTRncmJsR2llTVQ4WjFRVUIzZUdRdTI1VkVhaDNNRzhuTlJmYlFMakdaVUw5azBITi0xWkU4NkExV1VPa09GcV80YWQ1aHlCWXdwRjEzQWNyaFBXQXRWU0l5OVV2cG1pcmlKd2VfaTBFeFhlbXE1b0h1dDdzM0lzRFhBNHBjVktHU3Y0d0tUeW5UOTg4emc4QzJ0eWVtenpwdm02NjhrR1NhejlVU2NGWVlyQzVqd0V0MEtHejF6ckY3N2dQdWY2VkVUYlpqOXVTWUh3eDg5OHZCVXhPbzRUZHNUeV9ZU0h6T09zZ01vSDFhRENXdm5mUVNIUURRSjJPei1VbVNUOVJpWXZqUkRHTDFvRmVLT1NXZC1YVHJSa0lUd2FZZEQzdFFLUnhuMHdrbWRVZzYzd0tpdncxdlU0c0dRX1doNDROY245NURBeUM1Yk5iQ1JuYnFSVmdTbXlBSUY?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
    "published_at": "2026-11-09T16:05+08:00",
    "query": "商圈",
-   "url": "https://cnews.com.tw/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91%E3%80%80%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88/",
+   "url": "https://tw.news.yahoo.com/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91-%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88%E6%B3%A8%E5%85%A5%E4%BA%BA%E6%BD%AE-080541170.html",
    "resolved": true
   },
   {
@@ -303,6 +313,16 @@
    "published_at": "2026-11-09T15:19+08:00",
    "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
    "url": "https://n.yam.com/Article/20261109696507",
+   "resolved": true
+  },
+  {
+   "title": "黃仁勳出軌︱對象黃樂在上海浙江商圈人脈廣 外媒質疑履歷稱曾任記者再轉戰金融【短片】 (14:00) - 20261109 - 熱點",
+   "google_url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxNTEN4RV93OEJVbGdJT3lWQW5UbFJfZEItbDViRjJTNDhKSVYtXzVkMFl3d0lSY0N1T2otY010aWZONWQ1WTZpU2RET2VnS2hUV1ZMU0R4OGo5aFIwMzFjSkxRczhVVTJMcXNCUGVQcWNnNlZTY0FQR1p5TWlQTkJGRXpXcF9Ba3cyM2dpck15ZDhiZXBVekRWbE1oOWtpcDIyUEt2LTk0eHBWVTlQTmpTck1IeTVlOGJadzkwbmd6aXZvQlN6eGh3YTIzWG9TbnBKck1XRkpSNWotakRrZlB5dEcwOUU5TXUwZk45SkNpVzY5OUhRWVJ5dlhUNW14UnFWa3NSMFZRRFFPeWhSdHA4TFJ3SHB0UHdDMDVydFM1MnJfQkI5OHlPZFdLSTZkT2p0WUc1ZEhJZXh0Q1RCdmJhMVdEeVVneVlhbE9KOVRnb3BobVFCaDY4YWI5d3ZxVjh1UHB3Tm1ZTDBPTDBYRHNtaUQ4WjFjbE1tUmo0V2cwTWRoejVPektlTlc2dEQyZDJTWENoQzB0RkR6cGN5QlQ1dTZKZVRTdlZDWGYyMjRiS1JRTER0WFNiWFFfVnB4NTdEU0t6SG02aHdHa0R6QjM4d2JVOUMxX0hoTmpCMnJGU0VqeGFSZDlDMkQydTFpQlBoNmhzVXZxSHNpbFpIb0tEZmVWZWZWUTdDMVZ5clBwZHQwM1lMMlpYbzZLQkZuMDdXNUthbm1uSXI2TlpBLXNEWE9JUXB0aEJycEZvOXhpNWNSa0FRWkxVSkZ2VGMwOG5nS0c0ZjFNeWxJR042QnpfbUN0MUtLQQ?oc=5",
+   "source": "明報新聞網",
+   "source_site": "https://news.mingpao.com",
+   "published_at": "2026-11-09T15:14+08:00",
+   "query": "商圈",
+   "url": "https://news.mingpao.com/ins/%E7%86%B1%E9%BB%9E/article/20261109/s00024/1794199985269/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%B0%8D%E8%B1%A1%E9%BB%83%E6%A8%82%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%B5%99%E6%B1%9F%E5%95%86%E5%9C%88%E4%BA%BA%E8%84%88%E5%BB%A3-%E5%A4%96%E5%AA%92%E8%B3%AA%E7%96%91%E5%B1%A5%E6%AD%B7%E7%A8%B1%E6%9B%BE%E4%BB%BB%E8%A8%98%E8%80%85%E5%86%8D%E8%BD%89%E6%88%B0%E9%87%91%E8%9E%8D%E3%80%90%E7%9F%AD%E7%89%87%E3%80%91",
    "resolved": true
   },
   {
@@ -336,16 +356,6 @@
    "resolved": true
   },
   {
-   "title": "清洗老舊地標！楊秀玉盼從細節著手 逐步改善正光商圈環境",
-   "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUVhYb3NIUlZpOXBfek9sUDZWQ2V5UEktbTM1ZDVFWF9CWm11TnAyQlVuVkZEcmplcGlQYWVXNkVQTXprRTRTQUFubjRzRTdnVWppYXdSYldQVnlvdnIxLWJSeG43XzFscEJMUWxvcmFtMTgwOUowbVlIYzlmN0xLMElGWQ?oc=5",
-   "source": "壹蘋新聞網",
-   "source_site": "https://news.nextapple.com",
-   "published_at": "2026-11-09T13:07+08:00",
-   "query": "商圈",
-   "url": "https://news.nextapple.com/politics/20261109/28B021764E591CBE58D86662FB125DF6",
-   "resolved": true
-  },
-  {
    "title": "大阪梅田商圈驚傳隨機砍人！23歲店員遭菜刀刺傷 嫌犯認對社會有恨意",
    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Pa3F4M1RZaVlobU0tMndwTU9iM0ZkNjBWQ0FEb2dzRlVSQU1ZbnFFdldYWG4tal9OOFBtdXVwRVlQbGxWLVVoUEUtbUZYQmJqdHNjejFIUklmb3daQkJubkJRaTc?oc=5",
    "source": "民視健康長照網",
@@ -368,7 +378,7 @@
   {
    "title": "一中商圈金店面被爆違建收租20年都沒事 都發局：何時能拆無法預測",
    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tQUIwWjNVaWJ5ZkNFQzU5MS1iYmIxaTJNUHRLZjhyUUduWF9ER0dWYXdfZU1VNXhxOXJ3RFFTM0hGVnp5YXNxVWp1eXdNRUpL0gFWQVVfeXFMTThud0phUk1KZm1fWmU0R2pfSU11LWU0c2U4VXB5RU5rNjZwel9uV2dGcTVsTFkyeW5rM0NCNlRvdkZ4TV9RNV9xb0NTUWtIbHhRN1R3U1E?oc=5",
-   "source": "UDN",
+   "source": "udn",
    "source_site": "https://udn.com",
    "published_at": "2026-11-09T09:59+08:00",
    "query": "商圈",
@@ -383,6 +393,16 @@
    "published_at": "2026-11-09T09:17+08:00",
    "query": "商圈",
    "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-11-09/2520165.html",
+   "resolved": true
+  },
+  {
+   "title": "蔣萬安出席東區周年慶啟動儀式 承諾商圈建設經費只增不減 公私協力再現東區繁華",
+   "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0RlQ2FWQ3ZGWVZBRUV4b2hFWmtLVVFvZGJ5cmpMSzRJd2JMYUJaOVNYSEtfcFdxX2dWdDZsUjNiakxQX1h3UUROSVhyV3A5bUdqUTU4WjJGVkJDcndFOWprWHdxTDVMdG1yeVNLa29QTkt6cUpHb2hnTUtsd3hZdVBrYWg?oc=5",
+   "source": "臺北市政府全球資訊網",
+   "source_site": "https://www.gov.taipei",
+   "published_at": "2026-11-09T09:02+08:00",
+   "query": "商圈",
+   "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=5E9C939DC9E7D3B5",
    "resolved": true
   }
  ]
