@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T12:17:29+08:00",
+ "generated_at": "2026-11-10T16:50:38+08:00",
  "items": [
   {
    "id": "20261110-taichung-port-imported",
@@ -8,7 +8,7 @@
    "summary": "臺中港舶來品商圈持續辦年度特色活動，今年推出白露節氣的「拾光補帖」茶席，邀民眾品味秋日時光。",
    "category": "活動與街區",
    "alert": null,
-   "published_at": "2026-11-10T11:29:00+08:00",
+   "published_at": "2026-11-10T15:06:00+08:00",
    "cities": [
     "台中市"
    ],
@@ -21,11 +21,62 @@
    "sources": [
     {
      "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261110582544",
+     "published_at": "2026-11-10T15:06:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261110138610",
      "published_at": "2026-11-10T11:29:00+08:00"
     }
    ],
-   "image": "https://ni.yam.com/20261110/1794280257917-1024x771-220cd9d51d460cf1.webp"
+   "image": "https://ni.yam.com/20261110/b5dd7b6a42309b6-85d1d93da675336c.webp"
+  },
+  {
+   "id": "20261110-kaohsiung-xmas-fest",
+   "title": "高雄聖誕生活節13日在中央公園登場，連5個週末市集與音樂串聯商圈",
+   "summary": "高雄市經發局公布聖誕生活節13日起在中央公園舉辦，連5個週末推主題市集、音樂演出與燈飾，並串聯商圈帶動歲末消費。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-10T12:19:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [
+    {
+     "name": "中央公園商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "中央公園商圈為115年補助名單，市府聖誕活動串聯商圈，可留意與商圈自辦活動的銜接。",
+   "sources": [
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7327/9868803",
+     "published_at": "2026-11-10T12:19:00+08:00"
+    },
+    {
+     "outlet": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611100088.aspx",
+     "published_at": "2026-11-10T11:56:00+08:00"
+    },
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5635399",
+     "published_at": "2026-11-10T11:25:00+08:00"
+    },
+    {
+     "outlet": "華視新聞網",
+     "url": "https://news.cts.com.tw/cna/local/202611/202611103099295.html",
+     "published_at": "2026-11-10T00:00:00+08:00"
+    },
+    {
+     "outlet": "中央社(MSN)",
+     "url": "https://www.msn.com/zh-tw/news/national/%E9%AB%98%E9%9B%84%E8%81%96%E8%AA%95%E7%94%9F%E6%B4%BB%E7%AF%80-13%E6%97%A5%E7%99%BB%E5%A0%B4-%E5%B8%82%E9%9B%86-%E9%9F%B3%E6%A8%82%E9%BB%9E%E4%BA%AE%E5%95%86%E5%9C%88/ar-AA2h7abz",
+     "published_at": "2026-11-10T00:00:00+08:00"
+    }
+   ],
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261110/1152x768_wmkn_0_C20261110000052.jpg"
   },
   {
    "id": "20261109-shuishang-xiancao",
@@ -2599,52 +2650,6 @@
     }
    ],
    "image": "https://imgcloud.cardu.com.tw/201910/20261025/Cardu_6adda32b23f41.jpg"
-  },
-  {
-   "id": "20261027-dongqu-skm-anniv",
-   "title": "豪宅經濟助攻台北東區商圈，新光三越鑽石塔週年慶拚16億業績",
-   "summary": "報導指東區商圈受惠高資產客群消費，新光三越擴增鑽石塔精品與家電陣容，週年慶目標全年16億業績。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-10-27T15:11:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "東區商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "東區商圈為115年補助名單，百貨週年慶帶動人潮，可留意商圈整體買氣與活動成效。",
-   "sources": [
-    {
-     "outlet": "CMoney投資網誌",
-     "url": "https://cmnews.com.tw/article/forumnews-94ce1063-d1d5-11f1-895e-31890c5c87d8",
-     "published_at": "2026-10-27T15:11:00+08:00"
-    }
-   ],
-   "image": "https://image.cmoney.tw/attachment/blog/1793030400/93cbb159-2f90-44ee-9612-70bffad29c83.jpg"
-  },
-  {
-   "id": "20261027-tainan-holiday-districts",
-   "title": "光復連假台南累計吸引逾121萬人次，市區商圈吸客逾71萬",
-   "summary": "台南市觀旅局統計連假各景點人潮，市區商圈、古蹟園區及購物商場最受歡迎，累計逾71萬人次，老街街區也吸引不少遊客。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-10-27T12:19:00+08:00",
-   "cities": [
-    "台南市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7326/9839466",
-     "published_at": "2026-10-27T12:19:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35457868.jpg&M=1&s=Y&x=0&y=1&sw=1279&sh=853&exp=3600"
   }
  ],
  "discussions": []

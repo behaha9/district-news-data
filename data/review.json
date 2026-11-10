@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-10T12:17:30+08:00",
+ "updated_at": "2026-11-10T16:50:38+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -86,6 +86,11 @@
    "decision": "kept",
    "item": "20261106-dongqu-anniv",
    "at": "2026-11-07"
+  },
+  "https://life.tw/article/%E5%AA%92%E8%A7%92%E4%B8%89%E9%B6%AF%E6%96%87%E5%89%B5-%E5%9C%9F%E6%A8%B9%E5%B7%A5%E6%A5%AD%E5%9C%92%E5%8D%80-%E5%91%82%E5%AE%B6%E6%84%B7-%E4%BF%83%E9%80%B2%E6%96%B0%E5%8C%9728%E5%95%86%E5%9C%88%E5%A4%9C%E7%B6%93%E6%BF%9F-3208126": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-10"
   },
   "https://life.tw/article/%E8%87%BA%E5%8D%97%E8%B3%BC%E7%89%A9%E7%AF%80%E6%B6%88%E8%B2%BB%E7%AA%81%E7%A0%B430%E5%84%84%E5%85%83-%E5%8A%A0%E7%A2%BC%E6%8A%BD%E9%9B%BB%E5%8B%95%E8%BB%8A11%E6%9C%88%E5%95%86%E5%9C%88%E6%B4%BB%E5%8B%95%E6%8E%A5%E5%8A%9B%E7%99%BB-3199478": {
    "decision": "kept",

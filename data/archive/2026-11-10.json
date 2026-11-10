@@ -327,6 +327,91 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-10T16:50:38+08:00",
+   "added": 1,
+   "merged": 1,
+   "items": [
+    {
+     "id": "20261110-kaohsiung-xmas-fest",
+     "title": "高雄聖誕生活節13日在中央公園登場，連5個週末市集與音樂串聯商圈",
+     "summary": "高雄市經發局公布聖誕生活節13日起在中央公園舉辦，連5個週末推主題市集、音樂演出與燈飾，並串聯商圈帶動歲末消費。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-10T12:19:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [
+      {
+       "name": "中央公園商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "中央公園商圈為115年補助名單，市府聖誕活動串聯商圈，可留意與商圈自辦活動的銜接。",
+     "sources": [
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7327/9868803",
+       "published_at": "2026-11-10T12:19:00+08:00"
+      },
+      {
+       "outlet": "中央社",
+       "url": "https://www.cna.com.tw/news/aloc/202611100088.aspx",
+       "published_at": "2026-11-10T11:56:00+08:00"
+      },
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/life/breakingnews/5635399",
+       "published_at": "2026-11-10T11:25:00+08:00"
+      },
+      {
+       "outlet": "華視新聞網",
+       "url": "https://news.cts.com.tw/cna/local/202611/202611103099295.html",
+       "published_at": "2026-11-10T00:00:00+08:00"
+      },
+      {
+       "outlet": "中央社(MSN)",
+       "url": "https://www.msn.com/zh-tw/news/national/%E9%AB%98%E9%9B%84%E8%81%96%E8%AA%95%E7%94%9F%E6%B4%BB%E7%AF%80-13%E6%97%A5%E7%99%BB%E5%A0%B4-%E5%B8%82%E9%9B%86-%E9%9F%B3%E6%A8%82%E9%BB%9E%E4%BA%AE%E5%95%86%E5%9C%88/ar-AA2h7abz",
+       "published_at": "2026-11-10T00:00:00+08:00"
+      }
+     ],
+     "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261110/1152x768_wmkn_0_C20261110000052.jpg"
+    },
+    {
+     "id": "20261110-taichung-port-imported",
+     "title": "臺中港舶來品商圈推出「拾光補帖」白露茶席活動，結合漢方食補",
+     "summary": "臺中港舶來品商圈持續辦年度特色活動，今年推出白露節氣的「拾光補帖」茶席，邀民眾品味秋日時光。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-10T15:06:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "臺中港舶來品商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261110582544",
+       "published_at": "2026-11-10T15:06:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261110138610",
+       "published_at": "2026-11-10T11:29:00+08:00"
+      }
+     ],
+     "image": "https://ni.yam.com/20261110/b5dd7b6a42309b6-85d1d93da675336c.webp"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
