@@ -1,29 +1,38 @@
 {
- "fetched_at": "2026-11-10T20:52:23+08:00",
+ "fetched_at": "2026-11-11T00:29:23+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 100,
-  "kept": 42,
-  "resolved": 42,
-  "items": 40,
+  "raw": 101,
+  "kept": 38,
+  "resolved": 38,
+  "items": 37,
   "resolve_this_run": {
-   "online": 15
+   "online": 4
   },
   "dropped_old": [
-   "高市府砸10億大改造旗山老街再現巴洛克風華| 生活（原文日期 2015-09-24）",
    "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）"
   ]
  },
  "items": [
   {
+   "title": "2026高雄聖誕生活節11/13浪漫登場！ 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IdnE0WWwxR2Z3SC1FSy15MWdZZmdpckRhek9lbU5lVXNwREJvS2hJZjFaZzdVX3pGbDZxSy1mOFRuWDloNTEwYVVxOXA0d2hQR0E?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-10T21:41+08:00",
+   "query": "商圈",
+   "url": "https://n.yam.com/Article/20261110673921",
+   "resolved": true
+  },
+  {
    "title": "每年加碼25.5億升級！龔明鑫表彰20大卓越商圈 推動跨部會獎勵行銷",
-   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9veFAwMDZyMC1fLV9EajRXRDFqczcxQy1jMlRKMUpraXdXekVTUnMxS0YwOUJsU3g0M2l0X2VtTnlUYmNlbnNBN3U1OHl1UTg?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JSllZMG4tY0RjZDQ2bGR4dW5OVmJuRm9lOWRScU9iQ0VlNnpycW5kZDhBemFDWlc5VU9zWjloUUNvc3VkVnZhRXB3UQ?oc=5",
    "source": "鉅亨網",
-   "source_site": "https://news.cnyes.com",
+   "source_site": "https://m.cnyes.com",
    "published_at": "2026-11-10T20:15+08:00",
    "query": "商圈",
-   "url": "https://news.cnyes.com/news/id/6656699",
+   "url": "https://m.cnyes.com/news/id/6656699",
    "resolved": true
   },
   {
@@ -47,13 +56,13 @@
    "resolved": true
   },
   {
-   "title": "2026高雄聖誕生活節11/13浪漫登場五週末「耶誕小鎮」接力開逛9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
-   "google_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ya1NkNVgwY054R0dOa1ZLanlqdUNsZFZZSHZkcG5samFycmM5Z2YyTXpjNHVvV2JheFEtRjhOaEJ6QQ?oc=5",
-   "source": "墨新聞-MORE News",
-   "source_site": "https://more-news.tw",
-   "published_at": "2026-11-10T17:52+08:00",
+   "title": "萬聖節親子同樂！永慶房屋熱情參與浮洲合宜社區、天母商圈活動",
+   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OVVVOd0RlZ0pjU0hTVUFJZncteGRrWHRRRWRkTXZiM2RibDJIMlNSbThkcGhiaVdtVW1FMWUyMExhbWIwQUZ1bG84akR2SFYyYkVDR1pxOEd0OW9WR0E?oc=5",
+   "source": "鉅聞天下",
+   "source_site": "https://www.bigmedia.com.tw",
+   "published_at": "2026-11-10T17:30+08:00",
    "query": "商圈",
-   "url": "https://more-news.tw/764883/",
+   "url": "https://www.bigmedia.com.tw/article/1794303066561",
    "resolved": true
   },
   {
@@ -268,12 +277,12 @@
   },
   {
    "title": "東區週年慶盛大開跑 永慶房產集團力挺商圈振興注入人潮",
-   "google_url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNdWpsUFkyWExnMXJ1YmVja2pHeWRnQ0xiY3FVcDIzOTRncmJsR2llTVQ4WjFRVUIzZUdRdTI1VkVhaDNNRzhuTlJmYlFMakdaVUw5azBITi0xWkU4NkExV1VPa09GcV80YWQ1aHlCWXdwRjEzQWNyaFBXQXRWU0l5OVV2cG1pcmlKd2VfaTBFeFhlbXE1b0h1dDdzM0lzRFhBNHBjVktHU3Y0d0tUeW5UOTg4emc4QzJ0eWVtenpwdm02NjhrR1NhejlVU2NGWVlyQzVqd0V0MEtHejF6ckY3N2dQdWY2VkVUYlpqOXVTWUh3eDg5OHZCVXhPbzRUZHNUeV9ZU0h6T09zZ01vSDFhRENXdm5mUVNIUURRSjJPei1VbVNUOVJpWXZqUkRHTDFvRmVLT1NXZC1YVHJSa0lUd2FZZEQzdFFLUnhuMHdrbWRVZzYzd0tpdncxdlU0c0dRX1doNDROY245NURBeUM1Yk5iQ1JuYnFSVmdTbXlBSUY?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
+   "google_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQWkpSNmEwcE5OZ1J1YmdrQ1NWcWhRbEkwOG1vQ3pyUGc1Rm1kUHl2MHdJX0hsQ1l2WERBaWl3Y29FMGZHLVN4eHh5R1NOTWsyODZqbld1aGxaVTg1aXpTLXN5NzR6U0lKRXRCeURKM2hVZWdPbDBRcnB4eXNCM0lUZVk4MHRnTF9jQ05tMmpWdDhWd1VBWF9JRlFqWHdXT1RxQkFMU3JhZTRKQnBjT2ZweEpGOXV3SHh1LXl0UGNvWTVYaHdDVXYxMkcwVUFxQTFfN1RPUHFKeEtTbzRKSDFyOTQ3WjhLT1k4Ry1lcFZ0Mi1UY2Z5WEJfZi1BZE1HTUtnSk5vODE3NWUyb3lYWk4zQnFZblZXQW9jYlZtbE1pQkRCN0Y2dFNNZFJqd3AwV3dULVpvcXRmV3V2Mmg4OS01Z3RB?oc=5",
+   "source": "匯流新聞網",
+   "source_site": "https://cnews.com.tw",
    "published_at": "2026-11-09T16:05+08:00",
    "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91-%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88%E6%B3%A8%E5%85%A5%E4%BA%BA%E6%BD%AE-080541170.html",
+   "url": "https://cnews.com.tw/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91%E3%80%80%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88/",
    "resolved": true
   },
   {
@@ -358,12 +367,12 @@
   },
   {
    "title": "一中商圈金店面被爆違建收租20年都沒事 都發局：何時能拆無法預測",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04bndKYVJNSmZtX1plNEdqX0lNdS1lNHNlOFVweUVOazY2cHpfbldnRnE1bExZMnluazNDQjZUb3ZGeE1fUTVfcW9DU1FrSGx4UTdUd1NR0gFWQVVfeXFMTThud0phUk1KZm1fWmU0R2pfSU11LWU0c2U4VXB5RU5rNjZwel9uV2dGcTVsTFkyeW5rM0NCNlRvdkZ4TV9RNV9xb0NTUWtIbHhRN1R3U1E?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tQUIwWjNVaWJ5ZkNFQzU5MS1iYmIxaTJNUHRLZjhyUUduWF9ER0dWYXdfZU1VNXhxOXJ3RFFTM0hGVnp5YXNxVWp1eXdNRUpL0gFWQVVfeXFMTThud0phUk1KZm1fWmU0R2pfSU11LWU0c2U4VXB5RU5rNjZwel9uV2dGcTVsTFkyeW5rM0NCNlRvdkZ4TV9RNV9xb0NTUWtIbHhRN1R3U1E?oc=5",
    "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-11-09T09:59+08:00",
    "query": "商圈",
-   "url": "https://udn.com/news/amp/story/7325/9866142",
+   "url": "https://udn.com/news/story/7325/9866142",
    "resolved": true
   },
   {
@@ -374,46 +383,6 @@
    "published_at": "2026-11-09T09:17+08:00",
    "query": "商圈",
    "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-11-09/2520165.html",
-   "resolved": true
-  },
-  {
-   "title": "不只大佛、肉圓與鹿港老街！《彰化，豐藏百味》從土地到生活，尋訪彰化的永續百味",
-   "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zdlFIdEVHMW9abzlNWUM2d0ZEVzZuX1EwVGJIWEppdlhLdlNhX0I0amVYaW9PQnl3dGRjUjlqeHUyTXdMOG9pUTQwaHA2R1ZuVVg5UA?oc=5",
-   "source": "微笑台灣",
-   "source_site": "https://smiletaiwan.cw.com.tw",
-   "published_at": "2026-11-09T00:00+08:00",
-   "query": "老街",
-   "url": "https://smiletaiwan.cw.com.tw/article/9560",
-   "resolved": true
-  },
-  {
-   "title": "獨家／一中商圈賊潛後台行竊！30秒內偷包得手5萬 | EBC 東森新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02WDcwd2puRU5UdGJ6by0xN0xSZVl5QmZ5d2JKb1hiQm9OaFNhbXBXUkZtOW4tc3NzTzNKbFFWWUltVUgtSF93RXdlOTVZdzJvYkhscnJR?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-08T22:53+08:00",
-   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
-   "url": "https://today.line.me/tw/v3/article/peppEz6",
-   "resolved": true
-  },
-  {
-   "title": "台北國際網紅節登場！131組創作者角逐TY Star網紅獎 28位網紅帶路逛商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMingNBVV95cUxPTWNva3Bubk1uS21tME1jSmtMcGZPOUdLbENmOEc3MGpwd09Bb3llV0p2LXhtWWk0NDEyNHhtOGtPNTAtXzlnS0RRTFN3Wk05d08yT2dnci1JNFkwTnBxUjNhMGFyVDRZdmtmTHlaeVVnYU5zYnVpYWV2ZjNvMkJwaWliTlNSdmxzdEpZb0FydzdQNGJjSmFxWDRIdXBuNEN4TVpiaXJncWxtcDcxZWNUcV9jTVg4UmdkSVA5MVVTZE9qUnEwTy1xZXlHSnZZWnhSNDhraHJTemxFcWtEamNROGw3X3dybWlLR09vZ0NiaDZaejBwVEpfZmNjZE9BOVBaWGphVGYwV2tvYmxnb09RaGVscTZrM0pXODV2R1luMFd3N1kwb1podVI5ZHFOSE01LW9pNkFiRHJtNnE0b2lvd2pETlI3dUx2OVpVVl8xT0o3LXJfM0Zad0ZpUFMyTXBrNDVlMTE2MDFFUXZ0X3pwdjhGdGxHbFNDOVpDcGVPRDlLd0Y1UTE3c1Y3QUtUNndzeHEtZ3E3Ymw3bWM1Wnc?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-08T22:18+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E7%B6%B2%E7%B4%85%E7%AF%80%E7%99%BB%E5%A0%B4-131%E7%B5%84%E5%89%B5%E4%BD%9C%E8%80%85%E8%A7%92%E9%80%90ty-star%E7%B6%B2%E7%B4%85%E7%8D%8E-28%E4%BD%8D%E7%B6%B2%E7%B4%85%E5%B8%B6%E8%B7%AF%E9%80%9B%E5%95%86%E5%9C%88-141817222.html",
-   "resolved": true
-  },
-  {
-   "title": "獨家／一中商圈賊潛後台行竊！30秒內偷包得手5萬",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wX3JOSFIwbzI5MF9EVkJPMW45X01uY2dXcm9pb09vUnAwYWh0UEk1LUVsWEU4TkJPcmQyQzNfdUR3SFdXUm4tYlBOdFNFSU16bUR3OUZn?oc=5",
-   "source": "東森新聞",
-   "source_site": "https://news.ebc.net.tw",
-   "published_at": "2026-11-08T21:47+08:00",
-   "query": "商圈",
-   "url": "https://news.ebc.net.tw/news/society/579726",
    "resolved": true
   }
  ]
