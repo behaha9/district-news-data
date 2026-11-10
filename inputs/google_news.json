@@ -1,28 +1,70 @@
 {
- "fetched_at": "2026-11-10T11:39:34+08:00",
+ "fetched_at": "2026-11-10T15:32:10+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 103,
-  "kept": 33,
-  "resolved": 33,
-  "items": 32,
+  "raw": 96,
+  "kept": 34,
+  "resolved": 34,
+  "items": 31,
   "resolve_this_run": {
-   "online": 2
+   "online": 8
   },
   "dropped_old": [
-   "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）"
+   "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）",
+   "中壢站前商圈轉型！「中壢嗨！南洋奶茶生活節」9/12熱鬧登場（原文日期 2026-09-10）",
+   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
   ]
  },
  "items": [
   {
-   "title": "臺中港舶來品商圈「拾光補帖」暖心登場 白露茶席融入漢方食補邀民眾品味秋日好時光！",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmUTVucnJSU3dTOXF4Unc0WUszZ3d5RjFtOVBVTGN1THhMMmEwaVNlVVNMUlNmcm04cjA5emo0UUtJUnNUTWpPNndrYlpRaHJtQ3c?oc=5",
+   "title": "拾光補帖登場 臺中港舶來品商圈白露茶席融入漢方食補邀民眾品味！",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tdFZMV2JKNUx6S1pwWWg0M3MwcTRDT3pSci1Jc2N3Qi10X2k2ZjJsQUI4UjU3Rksxb0pXTHg2VEhvUmdnc0F3SmhTSmdsZWo5dlE?oc=5",
    "source": "蕃新聞",
    "source_site": "https://n.yam.com",
-   "published_at": "2026-11-10T11:29+08:00",
+   "published_at": "2026-11-10T15:06+08:00",
    "query": "商圈",
-   "url": "https://n.yam.com/Article/20261110138610",
+   "url": "https://n.yam.com/Article/20261110582544",
+   "resolved": true
+  },
+  {
+   "title": "討論牆 | 暢遊名古屋近郊 再逛土岐PREMIUM OUTLETS®！結合老街、購物、名城完美行程",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96ZWprQkw3TDFuVEszQ2REQ091Q0NXYi1Cc1QzWU9JSXRqTVJzQjI0S3dtNEdXZHJJZmFEU2lnRFB6TC1UZDFLdEJYRjBtOW1OSE16d1dRV19JWnVlekkzcE1ubUI?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-10T13:14+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/qoK5RXw",
+   "resolved": true
+  },
+  {
+   "title": "從貓咪藝術到特色商圈 南京喵喵街探索文旅新模式",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13UG9GT1pReEQyMVczWTVuaUZRaS1nMHFnOF9LR3ZLVE1aUmtHZk94UHlUdzJPNHVqalktWkQyN1RpVjZlbTFxLXBHWGhtcVdQdVY5VTQ0Z083Z01WdWFTcW52XzZxbzJVM1p4djJ3?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-10T13:00+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/realtimenews/20261110000009-260409",
+   "resolved": true
+  },
+  {
+   "title": "「高雄聖誕生活節」13日登場市集、音樂點亮商圈| 地方",
+   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01b0wyM01FUzRaS3dEYUtQRlJYamNuVWFhYzA1Ql9XblB5LUVsSi1mT3NBM2l6WE5jUERHWjRFbWJCSjB6ZHZ5WFhpalc3U3E1T0h3eVA5Smt2VE1zckxv?oc=5",
+   "source": "中央社 CNA",
+   "source_site": "https://www.cna.com.tw",
+   "published_at": "2026-11-10T11:56+08:00",
+   "query": "商圈",
+   "url": "https://www.cna.com.tw/news/aloc/202611100088.aspx",
+   "resolved": true
+  },
+  {
+   "title": "占用騎樓遭限期拆除！一中商圈黃金店面爆整棟違建　台中都發局發聲了",
+   "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MSFJXV2NrVHRqWUxIRVNkSGE3ZHlpcFJHZnpwOUtBeXZ5ZVc5aTZZemt0bU9YcHdsTm1tdU1pWE1yQUo1T2xWT0tyN3VBbUJraU9YQzVqUDBLLXdtQXpkalAxdzlfT0dqcDFMdUgtelXSAXBBVV95cUxNTEhSV1dja1R0allMSEVTZEhhN2R5aXBSR2Z6cDlLQXl2eWVXOWk2WXprdG1PWHB3bE5tbXVNaVhNckFKNU9sVk9Lcjd1QW1Ca2lPWEM1alAwSy13bUF6ZGpQMXc5X09HanAxTHVILXpV?oc=5",
+   "source": "好房網News",
+   "source_site": "https://news.housefun.com.tw",
+   "published_at": "2026-11-10T09:30+08:00",
+   "query": "商圈",
+   "url": "https://news.housefun.com.tw/news/article/amp/170107490902.html",
    "resolved": true
   },
   {
@@ -66,23 +108,13 @@
    "resolved": true
   },
   {
-   "title": "占用騎樓遭限期拆除！一中商圈黃金店面爆整棟違建 台中都發局發聲了",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zT1ByMXJCNG4xQmNSZks2Q2ZRTUxFYWtIZnhNWHh4MWZqR2FTWlJQWWtKNGpyQTBXSjNVYVp6Mkx5cVFobV95bzVna2JvY2tBWjNsMTFn0gFWQVVfeXFMTjNPUHIxckI0bjFCY1JmSzZDZlFNTEVha0hmeE1YeHgxZmpHYVNaUlBZa0o0anJBMFdKM1VhWnoyTHlxUWhtX3lvNWdrYm9ja0FaM2wxMWc?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
-   "published_at": "2026-11-09T17:53+08:00",
-   "query": "商圈",
-   "url": "https://udn.com/news/amp/story/7325/9867344",
-   "resolved": true
-  },
-  {
    "title": "「叫你移車」竟變全武行！ 東海商圈店家、駕駛互毆雙掛彩- 社會",
-   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fUHNKR2ZTNmVnLW0yc1JuTmloaWJhc09IX2NVUjA5eXlUVHAwLV9WM2NjMmtLS0RmMkxHcURyYV85a0w4Y25DUTZEYVR4VEJVYjhnb3BsYVpEUURLTjBCU0txR2NqNnlaV2pQMkR3?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0Z3NzY4Q3pBNUo3SmNteFZaWmxFcnRvZkZvSmZxVGxsNmlZclVyQ0NRVmh2N21NMTkyNzhucWs2dVJEdFV3b2lFRnJNMm1LSUtidHo3SWlYZWVWaVAydWJEbXA4dVNIZUlWYS1jVnNNbHdvckd1Q2tFdnloTFUzS1N2RWt0UUMtNEhUa1dUbw?oc=5",
    "source": "中時新聞網",
    "source_site": "https://www.chinatimes.com",
    "published_at": "2026-11-09T17:33+08:00",
    "query": "商圈",
-   "url": "https://www.chinatimes.com/realtimenews/20261109003636-260402",
+   "url": "https://www.chinatimes.com/realtimenews/20261109003636-260402?ctrack=pc_main_recmd_p06",
    "resolved": true
   },
   {
@@ -107,12 +139,12 @@
   },
   {
    "title": "東區週年慶盛大開跑 永慶房產集團力挺商圈振興注入人潮",
-   "google_url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNdWpsUFkyWExnMXJ1YmVja2pHeWRnQ0xiY3FVcDIzOTRncmJsR2llTVQ4WjFRVUIzZUdRdTI1VkVhaDNNRzhuTlJmYlFMakdaVUw5azBITi0xWkU4NkExV1VPa09GcV80YWQ1aHlCWXdwRjEzQWNyaFBXQXRWU0l5OVV2cG1pcmlKd2VfaTBFeFhlbXE1b0h1dDdzM0lzRFhBNHBjVktHU3Y0d0tUeW5UOTg4emc4QzJ0eWVtenpwdm02NjhrR1NhejlVU2NGWVlyQzVqd0V0MEtHejF6ckY3N2dQdWY2VkVUYlpqOXVTWUh3eDg5OHZCVXhPbzRUZHNUeV9ZU0h6T09zZ01vSDFhRENXdm5mUVNIUURRSjJPei1VbVNUOVJpWXZqUkRHTDFvRmVLT1NXZC1YVHJSa0lUd2FZZEQzdFFLUnhuMHdrbWRVZzYzd0tpdncxdlU0c0dRX1doNDROY245NURBeUM1Yk5iQ1JuYnFSVmdTbXlBSUY?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
+   "google_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQWkpSNmEwcE5OZ1J1YmdrQ1NWcWhRbEkwOG1vQ3pyUGc1Rm1kUHl2MHdJX0hsQ1l2WERBaWl3Y29FMGZHLVN4eHh5R1NOTWsyODZqbld1aGxaVTg1aXpTLXN5NzR6U0lKRXRCeURKM2hVZWdPbDBRcnB4eXNCM0lUZVk4MHRnTF9jQ05tMmpWdDhWd1VBWF9JRlFqWHdXT1RxQkFMU3JhZTRKQnBjT2ZweEpGOXV3SHh1LXl0UGNvWTVYaHdDVXYxMkcwVUFxQTFfN1RPUHFKeEtTbzRKSDFyOTQ3WjhLT1k4Ry1lcFZ0Mi1UY2Z5WEJfZi1BZE1HTUtnSk5vODE3NWUyb3lYWk4zQnFZblZXQW9jYlZtbE1pQkRCN0Y2dFNNZFJqd3AwV3dULVpvcXRmV3V2Mmg4OS01Z3RB?oc=5",
+   "source": "匯流新聞網",
+   "source_site": "https://cnews.com.tw",
    "published_at": "2026-11-09T16:05+08:00",
    "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91-%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88%E6%B3%A8%E5%85%A5%E4%BA%BA%E6%BD%AE-080541170.html",
+   "url": "https://cnews.com.tw/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91%E3%80%80%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88/",
    "resolved": true
   },
   {
@@ -276,16 +308,6 @@
    "resolved": true
   },
   {
-   "title": "沈伯洋7日提港湖政見大秘寶 緩解塞車住工合一、商圈振興及縫合",
-   "google_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU1VnUVZ2UUFOU1NveGN1UjZsS0ZCdDhxU2dfcGU1M2JEbm9kWENyMV9nZFUzdVZ1QlhrNHpUTUR4MGJUZGE4MVlyNWJUaGtELUxmRUFWWkIxNzRnUWxaR3FfLWlraVRhVkYxYWtxcl94alJ2d2xYaURJNHpmbTI1aUVMYnZqQQ?oc=5",
-   "source": "自由時報",
-   "source_site": "https://video.ltn.com.tw",
-   "published_at": "2026-11-08T18:00+08:00",
-   "query": "商圈",
-   "url": "https://video.ltn.com.tw/article/SUOr-mu1K4w/PLI7xntdRxhw1gDu9DJwSWvhyraLk-de62",
-   "resolved": true
-  },
-  {
    "title": "大阪梅田商圈驚傳隨機砍人！23歲店員遭菜刀刺傷　嫌犯認對社會有恨意 | 國際 | CTWANT",
    "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56c2w1VFkyY1Z3N1FIVnZVU0tnLU1UdVhCcm50TDBXZlRfWEFxYlZlMDFpTDllUmFxc1V6dEphRWF0dDM3UHRycFRIRFc3elXSAVRBVV95cUxPaVhkaUNVTkxDT2hhZ2t2Rk9Qbnh3YnNmYUtFM1lYVTI2RGV5M1Nib1k1ZjE5eWxjV2dBV0V2enV6MWJqTm1RSTRIZmFGYUFQT2FZd0M?oc=5",
    "source": "CTWANT",
@@ -296,43 +318,13 @@
    "resolved": true
   },
   {
-   "title": "板橋府中商圈爆發行車糾紛 老少騎士當街追逐300米後互毆全遭送辦 | 三立新聞網",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XUGVCTGtDWFVFSVUzREdmTlhiUXUtbUVmdUxubzRTd3NLeXhPRUdYMkFMSlg1S19zYlRrQXJXLTdaTTItaTRySWdKcUlNMHpldHFaY1l3?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-08T15:28+08:00",
-   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
-   "url": "https://today.line.me/tw/v3/article/1DPllOz",
-   "resolved": true
-  },
-  {
-   "title": "網紅成促進商圈經濟重要角色　每年帶動收益粗估2.39億美元 | 社會 | CTWANT",
-   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14ZkNneHQ4T01UbTVDaVk4VUtjZWJyWHNYLWd2bWdyZDJPTlBDVGlLdEJxeVlDQWRJcjRTNWotSEtxQVBSRFBNejVqUjJMY0XSAVRBVV95cUxQYVBldXlPTGczTWZxSzJ4RmhpYjRuaHBWUlZqNzQ4NG5JWkJmX3VEcWJEZU9UNVJIbVdXTC02M1Z6S2dNSGQyRmxUMXJES2h4anFpdGI?oc=5",
-   "source": "CTWANT",
-   "source_site": "https://www.ctwant.com",
-   "published_at": "2026-11-08T15:25+08:00",
-   "query": "商圈",
-   "url": "https://www.ctwant.com/article/505834/",
-   "resolved": true
-  },
-  {
-   "title": "地面也會亮紅燈 中市7期商圈路口設智慧行人安全警示系統",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRmFOUUI0dUJyT2hTczRNWDZ2UnVLQ0Exc2w1cGJybERmTDc3cXp6R0JwbGRkVFB5N1BocVV1ZTRYejFYZ1R2cExDQk9NeUZfQkE?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-08T13:16+08:00",
-   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
-   "url": "https://n.yam.com/Article/20261108449966",
-   "resolved": true
-  },
-  {
-   "title": "板橋府中商圈爆發行車糾紛 老少騎士當街追逐300米後互毆全遭送辦",
-   "google_url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPdWowczMtUm5mY0pBWjlpcmNocTJlVzlqYTQxTHc1Z1FwT1UyMXA3alBvcEVlMWpyM3c3RTdnay1XbjdEZDljWjZSeWFOaUxXMm1kNXV3MnZNNFl6amc2QVY3OWRxT1V6RDRNYjdwUnVlNDVxZko3SnBRbFRoRzM5TnlxM0IwT3F3ajdraG5TbW90UlI4LWh6bHh3QnJQb3pmeWljbWF4TlFzS3hJZ0R5b19uS0tvRTItUGlmVXZKYXpzQ2QwUXo4TW9ReFk2N0hKYWl0UEo5R3V0dVVDSDhoaWx6Ny1DTEtyME16VVlGMTc3Vmh6MHRXOHRuMU9MdVJ5QURvRXVZblFFS0lMOXFQWGRtVGM0dGhKNld0TlhsRkxhNVFUZjNabktXQmI3d2pMMnpZMTk3dExKb1dhZ2QtQmJjVE5odUNqNU1RS3NzV2hkWlhtbkF1eHdsdHVFRjRkRFVITktHamdxRnhOaVA2SHZGWjJ4S2dKN2dDc0RjNUlIYVBlWVJVNVBUX3lERmV4NkhiWUxMVTVONmtwQVdzYndFX3pWeXRa?oc=5",
+   "title": "網紅成促進商圈經濟重要角色 每年帶動收益粗估2.39億美元",
+   "google_url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNMmRMLW9vZGZsRFhKbXA4dHREWjVKbWVmT0FFdFhGTENQRnRzR2MxTmdVZkdnSHZ5emNhd2hHM3RBNFNaMVcwd1M5M0dDZ2c4ZnVKaVFvUUdfaG9XMkZ3THF4NnBVcy1IbGg5cnZuSDNVRXp5aldLZTVtWnRTM3BhZnI4Vi16eWdsd0FVd3MxZnFVOE9VTHdnNG9VVkRwdE5xYlZlN2VIVmQ4ODJKUUFhVksxU1J5dHl5R3ExRjdJZnB3S24wc0M0TVNiSlZfcHNrcWhreTR6QXVuSmg1R19tR1g5YzJ0ZmEySDNPdFRBSU13RHBUV0p1QTliRlRiN0Z1bENlZkZTSllxRWVLYm14X2xLLU8tbjlRLTM4bElsQ1dSOENfYWVVbk5yT25YcERqaUwyZWduazJVdTdURG1jeDJNN3liNkRid0RWSS15SGN1aFYwNDJhNkRXa0hDT3JLZjdHZ0h5RkJnV2FFYVE0VnpYSC10eFp2S3c?oc=5",
    "source": "Yahoo新聞",
    "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-08T12:31+08:00",
+   "published_at": "2026-11-08T15:40+08:00",
    "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%95%86%E5%9C%88%E7%88%86%E7%99%BC%E8%A1%8C%E8%BB%8A%E7%B3%BE%E7%B4%9B-%E8%80%81%E5%B0%91%E9%A8%8E%E5%A3%AB%E7%95%B6%E8%A1%97%E8%BF%BD%E9%80%90300%E7%B1%B3%E5%BE%8C%E4%BA%92%E6%AF%86%E5%85%A8%E9%81%AD%E9%80%81%E8%BE%A6-042700605.html",
+   "url": "https://tw.news.yahoo.com/%E7%B6%B2%E7%B4%85%E6%88%90%E4%BF%83%E9%80%B2%E5%95%86%E5%9C%88%E7%B6%93%E6%BF%9F%E9%87%8D%E8%A6%81%E8%A7%92%E8%89%B2-%E6%AF%8F%E5%B9%B4%E5%B8%B6%E5%8B%95%E6%94%B6%E7%9B%8A%E7%B2%97%E4%BC%B02-39%E5%84%84%E7%BE%8E%E5%85%83-072534345.html",
    "resolved": true
   }
  ]
