@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T09:19:31+08:00",
+ "fetched_at": "2026-11-11T12:17:27+08:00",
  "articles": {
   "https://www.fclnews.com/235170/": {
    "checked_at": "2026-11-11T07:17+08:00",
@@ -156,44 +156,6 @@
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://www.chinatimes.com/realtimenews/20261029004582-260421": {
-   "checked_at": "2026-11-08T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-10-29T20:53+08:00",
-   "site_name": "中時新聞網",
-   "description": "金價持續走高，台南鹽水商圈卻連年拿黃金當摸彩大獎，讓吃貨也有機會當「金主」！「2026鹽水嘉年華－意暖鹽水 光映月津」將於11月1日登場，今年祭出3錢黃金金元寶，還加碼金戒指，另有iPad、腳踏車及現金獎等好禮。",
-   "cities": {
-    "台南市": 4
-   },
-   "districts": [
-    "鹽水商圈（台南市）"
-   ],
-   "body_chars": 814,
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-29/656/20261029004583.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E5%B8%82%E5%BA%9C%E4%BB%A3%E5%94%AE%E5%9C%B047%E6%A8%99-%E5%9C%8B%E8%8F%AF%E5%95%86%E5%9C%88%E5%9C%A8%E5%88%97-121737726.html": {
-   "checked_at": "2026-11-08T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T20:17+08:00",
-   "site_name": "Yahoo News",
-   "description": "記者王家林∕台南報導 市府地政局代為標售一一五年度第二批地籍清理未能釐…",
-   "cities": {
-    "台北市": 9,
-    "台南市": 3,
-    "宜蘭縣": 2,
-    "新北市": 1,
-    "高雄市": 1
-   },
-   "districts": [],
-   "body_chars": 3219,
-   "image": "https://media.zenfs.com/ko/cdns.com.tw/a98e7afde47ab5ce97aad4a3a2a8d56d.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
   "https://n.yam.com/Article/20261108880730": {
    "checked_at": "2026-11-08T12:18+08:00",
    "status": 200,
@@ -231,73 +193,6 @@
    "date_hint": "2026-11-02",
    "date_hint_from": "原文時間"
   },
-  "https://today.line.me/tw/v3/article/Opl7VvB?view=topic": {
-   "checked_at": "2026-11-08T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-06T07:30+08:00",
-   "site_name": "LINE TODAY",
-   "description": "2026高雄市長選戰進入倒數，民進黨高雄市長候選人賴瑞隆昨（5）日透過臉書分享走訪三民西區的行程，回顧當地近年鐵路地下化、綠園道及三鳳中街改...",
-   "cities": {
-    "高雄市": 11
-   },
-   "districts": [
-    "三鳳中街（高雄市）"
-   ],
-   "body_chars": 970,
-   "image": "https://today-obs.line-scdn.net/0hdTBtFyw9O3t_DSfxZhtELEdbNwpMayFyXWMgT1JYZR4HISwvE2toGFpZZ1dbOS4tXzt8GlNZNk1bO3V4EA/w1200",
-   "image_checked": true,
-   "date_hint": "2026-11-06",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5633249": {
-   "checked_at": "2026-11-08T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T09:06+08:00",
-   "site_name": "自由時報電子報",
-   "description": "面對台中新光三越商圈逢假日就湧現車潮人流，台中市政府交通局在商圈旁的台灣大道與惠來路口「智慧行人安全警示系統」，地面上投射紅色及綠燈光線，來示警行人及車輛。交通局指出，此一系統結合AI智慧攝影機、地嵌式警示燈及投射式紅綠燈，建置辨識人車動態的智慧設備，在行人停留於穿越道時主動發出警示，駕駛人得以提高警覺。",
-   "cities": {
-    "台中市": 7,
-    "嘉義縣": 2
-   },
-   "districts": [],
-   "body_chars": 819,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/08/5633249_1_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.scooptw.com/tyenews/551009/%e6%a1%83%e5%9c%92%e6%8e%a8%e5%8b%95%e4%b8%80%e5%95%86%e5%9c%88%e4%b8%80%e7%89%b9%e8%89%b2-%e7%88%ad%e5%8f%962300%e8%90%ac%e8%a3%9c%e5%8a%a9%e8%bc%94%e5%b0%8e%e7%87%9f%e9%81%8b/": {
-   "checked_at": "2026-11-08T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-07T09:24+08:00",
-   "site_name": "獨家報導",
-   "description": "桃園市長張善政出席「115年桃園市商圈特色亮點形塑成果發表會」。圖：市府提供 桃園市長張善政昨（6）日晚間前往桃園區，出席「115年桃園市商圈特色亮點形塑成果發表會」。張善政表示，桃園商圈涵蓋山區、濱海及都會地帶，各具文化底蘊與產業特色，市府將持續推動「一商圈一特色」，整合經發、文化及農業等跨局處資源，協助商圈發掘在地",
-   "cities": {
-    "桃園市": 21
-   },
-   "districts": [],
-   "body_chars": 649,
-   "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2026/11/dd02f331-a6ee-4785-ac97-ed0e8e4ae744_result.webp?w=696&ssl=1",
-   "image_checked": true,
-   "date_hint": "2026-11-07",
-   "date_hint_from": "原文時間"
-  },
-  "https://lifenews.com.tw/611028": {
-   "checked_at": "2026-11-08T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-07T13:51+08:00",
-   "site_name": "民生電子報",
-   "description": "桃園市長張善政出席「115年桃園市商圈特色亮點形塑成果發表會」。圖：市府提供 桃園市長張善政昨（6）日晚間前往 […]",
-   "cities": {
-    "桃園市": 14
-   },
-   "districts": [],
-   "body_chars": 627,
-   "image": "https://twline365.com/wp-content/uploads/dd02f331-a6ee-4785-ac97-ed0e8e4ae744_result.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-07",
-   "date_hint_from": "原文時間"
-  },
   "https://news.pchome.com.tw/society/thehubnews/20261105/index-79384856854895306009.html": {
    "checked_at": "2026-11-11T07:17+08:00",
    "status": 403,
@@ -307,43 +202,6 @@
    "checked_at": "2026-11-08T12:18+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://www.ettoday.net/news/20261108/3268358.htm": {
-   "checked_at": "2026-11-08T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T11:34+08:00",
-   "site_name": "ETtoday新聞雲",
-   "description": "台中一中商圈一間3層樓三角黃金店面，近日才因為經營超過20年的眼鏡行歇業引發話題，近日有公仔盲盒店以60多萬承租，裝潢期間卻傳出遭人檢舉違法增建，都發局更查出，該棟建物是超過30年大違建，將進行專案拆除。",
-   "cities": {
-    "台中市": 6,
-    "高雄市": 2
-   },
-   "districts": [
-    "一中街商圈（台中市）"
-   ],
-   "body_chars": 1158,
-   "image": "https://cdn2.ettoday.net/images/9006/e9006067.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-01/2512936.html": {
-   "checked_at": "2026-11-08T12:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T20:15+08:00",
-   "site_name": "壹電視",
-   "description": "西門町商圈有水果攤價格標示不清，還有街頭畫家疑似用AI來作畫誆騙消費者。",
-   "cities": {
-    "台北市": 1
-   },
-   "districts": [
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 272,
-   "image": "https://image.nexttv.com.tw/material/news/img/2026/11/2f65bd307a88ee9146c4c106c9485fbb.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261106932468": {
    "checked_at": "2026-11-08T12:18+08:00",
@@ -10758,6 +10616,315 @@
    "image_checked": true,
    "date_hint": "2026-11-07",
    "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261029004582-260421": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-29T20:53+08:00",
+   "site_name": "中時新聞網",
+   "description": "金價持續走高，台南鹽水商圈卻連年拿黃金當摸彩大獎，讓吃貨也有機會當「金主」！「2026鹽水嘉年華－意暖鹽水 光映月津」將於11月1日登場，今年祭出3錢黃金金元寶，還加碼金戒指，另有iPad、腳踏車及現金獎等好禮。",
+   "cities": {
+    "台南市": 4
+   },
+   "districts": [
+    "鹽水商圈（台南市）"
+   ],
+   "body_chars": 814,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-29/656/20261029004583.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5633249": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T09:06+08:00",
+   "site_name": "自由時報電子報",
+   "description": "面對台中新光三越商圈逢假日就湧現車潮人流，台中市政府交通局在商圈旁的台灣大道與惠來路口「智慧行人安全警示系統」，地面上投射紅色及綠燈光線，來示警行人及車輛。交通局指出，此一系統結合AI智慧攝影機、地嵌式警示燈及投射式紅綠燈，建置辨識人車動態的智慧設備，在行人停留於穿越道時主動發出警示，駕駛人得以提高警覺。",
+   "cities": {
+    "台中市": 7
+   },
+   "districts": [],
+   "body_chars": 789,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/08/5633249_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.scooptw.com/tyenews/551009/%e6%a1%83%e5%9c%92%e6%8e%a8%e5%8b%95%e4%b8%80%e5%95%86%e5%9c%88%e4%b8%80%e7%89%b9%e8%89%b2-%e7%88%ad%e5%8f%962300%e8%90%ac%e8%a3%9c%e5%8a%a9%e8%bc%94%e5%b0%8e%e7%87%9f%e9%81%8b/": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T09:24+08:00",
+   "site_name": "獨家報導",
+   "description": "桃園市長張善政出席「115年桃園市商圈特色亮點形塑成果發表會」。圖：市府提供 桃園市長張善政昨（6）日晚間前往桃園區，出席「115年桃園市商圈特色亮點形塑成果發表會」。張善政表示，桃園商圈涵蓋山區、濱海及都會地帶，各具文化底蘊與產業特色，市府將持續推動「一商圈一特色」，整合經發、文化及農業等跨局處資源，協助商圈發掘在地",
+   "cities": {
+    "桃園市": 21
+   },
+   "districts": [],
+   "body_chars": 649,
+   "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2026/11/dd02f331-a6ee-4785-ac97-ed0e8e4ae744_result.webp?w=696&ssl=1",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://tyenews.com/2026/11/1428580/": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T10:41+08:00",
+   "site_name": "桃園電子報",
+   "description": "經發局提到，今年桃園市三大商圈表現亮眼，經濟部商業發展署長蘇文玲親自頒發感謝狀，肯定各縣市府長期以來在推動商圈發展與地方共榮上的積極耕耘，桃園市府由經發局長張誠出席領取，展現對商圈振興及輔導轉型的重視。",
+   "cities": {
+    "桃園市": 22
+   },
+   "districts": [
+    "魅力金三角商圈（桃園市）"
+   ],
+   "body_chars": 1256,
+   "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2026/11/s__357605385_0_result.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-01/2512936.html": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T20:15+08:00",
+   "site_name": "壹電視",
+   "description": "西門町商圈有水果攤價格標示不清，還有街頭畫家疑似用AI來作畫誆騙消費者。",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 272,
+   "image": "https://image.nexttv.com.tw/material/news/img/2026/11/2f65bd307a88ee9146c4c106c9485fbb.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
+  },
+  "https://lifenews.com.tw/611028": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T13:51+08:00",
+   "site_name": "民生電子報",
+   "description": "桃園市長張善政出席「115年桃園市商圈特色亮點形塑成果發表會」。圖：市府提供 桃園市長張善政昨（6）日晚間前往 […]",
+   "cities": {
+    "桃園市": 14
+   },
+   "districts": [],
+   "body_chars": 627,
+   "image": "https://twline365.com/wp-content/uploads/dd02f331-a6ee-4785-ac97-ed0e8e4ae744_result.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/Opl7VvB?view=topic": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T07:30+08:00",
+   "site_name": "LINE TODAY",
+   "description": "2026高雄市長選戰進入倒數，民進黨高雄市長候選人賴瑞隆昨（5）日透過臉書分享走訪三民西區的行程，回顧當地近年鐵路地下化、綠園道及三鳳中街改...",
+   "cities": {
+    "高雄市": 11
+   },
+   "districts": [
+    "三鳳中街（高雄市）"
+   ],
+   "body_chars": 970,
+   "image": "https://today-obs.line-scdn.net/0hdTBtFyw9O3t_DSfxZhtELEdbNwpMayFyXWMgT1JYZR4HISwvE2toGFpZZ1dbOS4tXzt8GlNZNk1bO3V4EA/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261111/3270142.htm": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T11:55+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "輝達執行長黃仁勳捲入中國間諜疑雲，讓中國疑似利用「美人計」蒐集美國情報的手法再度受到關注。從美國聯邦調查局（FBI）幹員與中國雙面間諜發展婚外情、國防承包商向中國女友洩漏軍事機密，到美國國會議員及外交官遭中國女子接近，多起案件揭露中國情報滲透美國政商圈的不同手段。",
+   "cities": {
+    "高雄市": 2,
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 1997,
+   "image": "https://cdn2.ettoday.net/images/9008/e9008191.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261108/3268358.htm": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T11:34+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "台中一中商圈一間3層樓三角黃金店面，近日才因為經營超過20年的眼鏡行歇業引發話題，近日有公仔盲盒店以60多萬承租，裝潢期間卻傳出遭人檢舉違法增建，都發局更查出，該棟建物是超過30年大違建，將進行專案拆除。",
+   "cities": {
+    "台中市": 6,
+    "高雄市": 2,
+    "台北市": 1
+   },
+   "districts": [
+    "一中街商圈（台中市）"
+   ],
+   "body_chars": 1176,
+   "image": "https://cdn2.ettoday.net/images/9006/e9006067.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/11799/9870234": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T10:09+08:00",
+   "site_name": "經濟日報",
+   "description": "「2026全國卓越商圈獎」昨(10)日舉辦頒獎典禮，今年共有20處商圈獲得肯定，由經濟部長龔明鑫到場授獎給予肯定。從彰化田尾的花卉園藝、臺南鹽水的百年文化，到平溪天燈與小琉球海洋觀光，各地商圈以不同的產業特色、文化底蘊及服務體驗，展現臺灣地方商業的多元風貌。 商業署表示，每一處商圈都有自己的故事，可能來自世代傳承的歷史",
+   "cities": {
+    "台南市": 4,
+    "彰化縣": 4,
+    "新北市": 2,
+    "嘉義縣": 2,
+    "台北市": 1
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）",
+    "縣府太子商圈（嘉義縣）",
+    "鹽水商圈（台南市）",
+    "小琉球商圈（屏東縣）"
+   ],
+   "body_chars": 1562,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/10/35504759.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://travel.udn.com/travel/story/7205/9866166": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T10:01+08:00",
+   "site_name": "旅遊",
+   "description": "【FunTime小編群】位於新北市的鶯歌除了保存著上個世紀的建築風韻，更留下許多過去窯廠繁榮光景的痕跡，裡匯聚了許多老建築及各式鶯歌美食，趁著週休不妨跟著FunTime小編一起走訪台灣的在地文化吧！",
+   "cities": {
+    "新北市": 16,
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 2551,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35498940.jpg&M=1&s=Y&x=0&y=139&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.aoc.gov.tw/showPublic/815": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://woman.udn.com/woman/story/123162/9870699": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T09:00+08:00",
+   "site_name": "udn 女子漾",
+   "description": "⟪全冠手工花生麥芽糖⟫\n\n傳承了60年的手藝，使用溫熱麥芽糖融入豐厚的花生粉中，經過揉糖、拉糖與切塊的傳統作法，約十分鐘的傳統手工製作過程。\n\n特色\n⒈口感香濃軟糯、微甜微鹹、完全不黏牙\n⒉成分純淨：純麥芽糖（零添加糖）、台灣花生，微量鹽提味",
+   "cities": {
+    "台北市": 4,
+    "桃園市": 4,
+    "高雄市": 2,
+    "嘉義": 2
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/11/35505280.jpg&M=1&s=Y&x=0&y=0&sw=798&sh=532&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E7%B6%93%E6%BF%9F%E9%83%A8-%E6%AF%8F%E5%B9%B4%E5%86%8D%E5%8A%A0%E7%A2%BC25-5%E5%84%84%E5%85%83-%E6%94%AF%E6%8C%81%E5%95%86%E5%9C%88-%E5%A4%9C%E5%B8%82%E6%8B%9A%E8%A7%80%E5%85%89-134539907.html": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-10T21:45+08:00",
+   "site_name": "Yahoo News",
+   "description": "經濟部商業署指出，為進一步擴大對商圈的支持力道，未來經濟部將透過「支持及壯大中小微企業方案」，自116年起每年再加碼投入25.5億元，持續支持商圈、傳統市場及夜市發展。商業署今（10）日在台北凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」，由經濟部長龔明鑫親自頒獎。商業署表示，經濟部自2024年辦",
+   "cities": {
+    "台北市": 11,
+    "台中市": 3,
+    "嘉義縣": 3,
+    "新北市": 2,
+    "桃園市": 1
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）",
+    "縣府太子商圈（嘉義縣）",
+    "鹽水商圈（台南市）",
+    "小琉球商圈（屏東縣）"
+   ],
+   "body_chars": 3909,
+   "image": "https://media.zenfs.com/ko/libertytimes_786/768435bbcee347cb9296d2b79249b5c8.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-10",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261111/3270026.htm": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T09:59+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "高雄鳳山一處正在整修中的民宅，日前接連遭竊，屋內冷氣銅管被人剪走，損失金額約4萬5000元。警方追查後，鎖定43歲黃姓男子與28歲洪姓男子涉案，兩人日前已被查緝到案，警詢後依加重竊盜罪嫌移送高雄地檢署偵辦。",
+   "cities": {
+    "高雄市": 9,
+    "台北市": 1,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 1117,
+   "image": "https://cdn2.ettoday.net/images/9009/e9009910.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://edbkcg.kcg.gov.tw/News_Content.aspx?n=FA86438944BB37E5&sms=4773608F226124D4&s=A01042EBCC09F769": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-10T00:00+08:00",
+   "site_name": "高雄市政府經濟發展局",
+   "description": null,
+   "cities": {
+    "高雄市": 20
+   },
+   "districts": [
+    "在地商圈（南投縣）",
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 1231,
+   "image": "https://orgws.kcg.gov.tw/001/KcgOrgUploadFiles/334/RelPic/69492/543999/17e47b01-ebb5-4245-bb5a-8391c7c70a18@710x470.jpg?rt=1151111121735",
+   "image_checked": true,
+   "date_hint": "2026-11-10",
+   "date_hint_from": "原文時間"
+  },
+  "https://edbkcg.kcg.gov.tw/News_Content.aspx?n=FA86438944BB37E5&sms=4773608F226124D4&s=7C224305814F46AB": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-09T00:00+08:00",
+   "site_name": "高雄市政府經濟發展局",
+   "description": null,
+   "cities": {
+    "高雄市": 18
+   },
+   "districts": [
+    "在地商圈（南投縣）",
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 1347,
+   "image": "https://orgws.kcg.gov.tw/001/KcgOrgUploadFiles/334/RelPic/69492/543797/3a2b0394-0012-4e15-b0d4-6dcb7a265053@710x470.jpg?rt=1151111121734",
+   "image_checked": true,
+   "date_hint": "2026-11-09",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261110927080": {
+   "checked_at": "2026-11-11T12:17+08:00",
+   "status": "error",
+   "error": "The read operation timed out"
   }
  }
 }

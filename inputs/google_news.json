@@ -1,20 +1,70 @@
 {
- "fetched_at": "2026-11-11T09:19:22+08:00",
+ "fetched_at": "2026-11-11T12:17:16+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 97,
-  "kept": 38,
-  "resolved": 38,
-  "items": 37,
+  "raw": 99,
+  "kept": 39,
+  "resolved": 39,
+  "items": 38,
   "resolve_this_run": {
-   "online": 1
+   "online": 5
   },
   "dropped_old": [
    "高市府砸10億大改造旗山老街再現巴洛克風華| 生活（原文日期 2015-09-24）"
   ]
  },
  "items": [
+  {
+   "title": "不只黃仁勳！中國「美人計」滲透美政商圈 FBI幹員、軍火商都中招",
+   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTy1IS2RKYzZwczhUcmhTcExybVJyR1A0dUo3ekpJMnpCdnVFaUJFV2JVSHRQcmhueVlFeVFON1lMR2U2Sld0SXE5M21WNVU4RXVWVU10VkRPcW51enc?oc=5",
+   "source": "ETtoday新聞雲",
+   "source_site": "https://www.ettoday.net",
+   "published_at": "2026-11-11T11:55+08:00",
+   "query": "商圈",
+   "url": "https://www.ettoday.net/news/20261111/3270142.htm",
+   "resolved": true
+  },
+  {
+   "title": "桃園3大商圈獲中央肯定 經發局：持續投入振興與轉型資源",
+   "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jeDRVa2M0Z1huY0pBSnlaMVUwSm8wa0drYy1YM3p0VzBmdkozUVotQXRpRkRsUjdrNHUxTVBuc0xacVIwWHVFcWtXTXY?oc=5",
+   "source": "桃園電子報",
+   "source_site": "https://tyenews.com",
+   "published_at": "2026-11-11T10:41+08:00",
+   "query": "商圈",
+   "url": "https://tyenews.com/2026/11/1428580/",
+   "resolved": true
+  },
+  {
+   "title": "2026高雄聖誕生活節11/13浪漫登場五週末「耶誕小鎮」接力開逛9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nT1IxZDBiUXg2Q1pLQndsREhzaFRhWHRfYkY0aTl4S0dURUd4YmYtOWFaYzlDTEdmQ2Y4VHd6VEk0Zmt2QTN6bFUtQjI0eUZUaGc?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-11T10:34+08:00",
+   "query": "商圈",
+   "url": "https://n.yam.com/Article/20261110927080",
+   "resolved": true
+  },
+  {
+   "title": "全國20處卓越商圈出爐 從田尾花園、鹽水老街到平溪天燈展現地方魅力 | 產業動態 | 商情",
+   "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xdUR5TzZqVjNjRWhCLVYxdlRna2psZFVDeW5EM3FDWFNTZGFncmVFeV94T1JtWHlCTzRINENVTXVsRjJWVjJWd2Z5SFZ1eXpkVVBYRzJBY3F1Qk0?oc=5",
+   "source": "經濟日報",
+   "source_site": "https://money.udn.com",
+   "published_at": "2026-11-11T10:09+08:00",
+   "query": "商圈",
+   "url": "https://money.udn.com/money/story/11799/9870234",
+   "resolved": true
+  },
+  {
+   "title": "全家大小一起玩！鶯歌老街、陶瓷博物館與手作DIY一日遊",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iSFFDa09uaGI0OTBibF9jX0FKQUprVDBZRnA1MHZPYkFKUi1zQkZJaGM3OFh6bFBIZnFZNVRranpSUHJPRlA2V3l5YVk1SUxNRUZ4ZUdxbHBOXzd1?oc=5",
+   "source": "UDN",
+   "source_site": "https://travel.udn.com",
+   "published_at": "2026-11-11T10:01+08:00",
+   "query": "老街",
+   "url": "https://travel.udn.com/travel/story/7205/9866166",
+   "resolved": true
+  },
   {
    "title": "美食探店：內行推薦桃園大溪老街必吃必買伴手禮【全冠手工花生麥芽糖】",
    "google_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yMWJKQmtxZWpUMHdjZ2NBd3BPYUh3TnMyWWxNWWNmVlR2eUphWUtYOWU5Q213MVFjQmRYZTFTTW1NejMyZmhKTlNsT1VjMEQxR3laaXhuY3h4bmpvOXUwMzBjVjliWmp5VEFOYWx5dXpEMGNpNENXUDRCcEdlZ9IBYkFVX3lxTE5yWmNfOHF2OGdYRVMzWHNRVU0tYjJBeEtFQWE1NVRVTjFEdG5fMkhITENTS21aQ1poODNqLTJNNU9zTUVXWDNrQ2R0RGhfQ2dpcWh3U01jakFfZUdpbzkwcHdR?oc=5",
@@ -46,7 +96,7 @@
    "resolved": true
   },
   {
-   "title": "每年加碼25.5億升級！龔明鑫表彰20大卓越商圈 推動跨部會獎勵行銷",
+   "title": "每年加碼25.5億升級！龔明鑫表彰20大卓越商圈 將推動跨部會獎勵行銷",
    "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9veFAwMDZyMC1fLV9EajRXRDFqczcxQy1jMlRKMUpraXdXekVTUnMxS0YwOUJsU3g0M2l0X2VtTnlUYmNlbnNBN3U1OHl1UTg?oc=5",
    "source": "鉅亨網",
    "source_site": "https://news.cnyes.com",
@@ -58,7 +108,7 @@
   {
    "title": "瑞芳老街門面改造進行中變身文化新亮點| 大台北| 地方",
    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtNkV6MVFvS25uMl9ZQXBFNUhBVlFyd1prNWJUOTdEYnVFRzJ1cEhXNnZrdHZsc2hTRmROYjU5Qk5sdFV3Sk1vcFljX1FSTWxS?oc=5",
-   "source": "udn",
+   "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-11-10T19:12+08:00",
    "query": "老街",
@@ -73,16 +123,6 @@
    "published_at": "2026-11-10T18:39+08:00",
    "query": "商圈",
    "url": "https://n.yam.com/Article/20261110662902",
-   "resolved": true
-  },
-  {
-   "title": "2026高雄聖誕生活節11/13浪漫登場五週末「耶誕小鎮」接力開逛9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
-   "google_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ya1NkNVgwY054R0dOa1ZLanlqdUNsZFZZSHZkcG5samFycmM5Z2YyTXpjNHVvV2JheFEtRjhOaEJ6QQ?oc=5",
-   "source": "墨新聞-MORE News",
-   "source_site": "https://more-news.tw",
-   "published_at": "2026-11-10T17:52+08:00",
-   "query": "商圈",
-   "url": "https://more-news.tw/764883/",
    "resolved": true
   },
   {
@@ -150,7 +190,7 @@
    "google_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNV2s0amV2QzhoLXQyblpMU0NkNjBEaFJwblRIeGRYMFJudXlQZEUzWFF0YUtWTFYybGdzallZYmNsZ3pLVVJlTS1CUTNHckZHTkVPbWZNQ2VIQVI5bFRvLW1GQ29pRDk1NVZ1TVBzTjBRdTJFZFRkVDRUQzNBaVJETDBUejlWMXcyRmhKWmp4blZTbzVqamZ0ZmNsOFJlMWZXWlZlQXhGT1hLamt4eFN3eWNuNGZfdWs3dVlKbng3eWY1LXRHb0tQLXR0NzJ5U1ZaSU9XNHE3RWNpdzVtWW9BamItVWgzRWNzblk4blQ5aWdwalh5NnhOSFhGeUZWdXo2MUg0dHF4NENnYnB5Z2ZvaXc0R2pPZ3VwR2VDeVJSQXZMcTFuUDNYdXJYN2VuVWZNWmc1UTRMMkhsaG9WanhRTURWMTg?oc=5",
    "source": "Yahoo新聞",
    "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-10T15:35+08:00",
+   "published_at": "2026-11-10T15:45+08:00",
    "query": "老街",
    "url": "https://tw.news.yahoo.com/%E5%8C%97%E6%B5%B7%E5%B2%B8%E9%AE%AE%E7%BE%8E%E6%B5%B7%E5%91%B3-%E9%87%91%E5%B1%B1%E8%80%81%E8%A1%97%E5%90%B9%E8%B5%B7%E6%B5%B7%E9%AE%AE%E5%B0%8F%E5%90%83%E6%96%B0%E9%A2%A8%E6%BD%AE-073534611.html",
    "resolved": true
@@ -326,16 +366,6 @@
    "resolved": true
   },
   {
-   "title": "不只黃仁勳！中共美人計鎖定美日政商圈 安倍反遇「美男」陷阱",
-   "google_url": "https://news.google.com/rss/articles/CBMihANBVV95cUxONGxVdkkyYU1HcDZOZUFvSjgweXk2Q3RuUFk5OHUwLXoyek8zSlc1c2ZQR1RGa2lnVE9Nd3NSWVZMTmh6Mnl5R3JodHEybEppWllYOHdzem8zQktDYlZoNjkzRVpZbW9aVjVPV2FjR1UxbWpCaGhiN2tUWUdZQTc3RktNTlZEWE9PekhvdE5NNWU4RkRXWlRIaldqZzFfV2xIWGN0d28zWno3U0pJODhNdExiZUxFT0d4SXhSeTRUc0lwWjdwZldLVEZrb3RmQUZZNFUzaHI4R29XZzI5WjQ4VUZaRGJ1M0wzX2JsczRxcGpvVXNNcmN4RmFIUFBtYkp0c1d6RUJGZXNJVjZ6c1MxSkV1QzNxUWJmWDlBR1lPY1N2aDdUMlhzOFJ6OTVSUDJOR2NKZjRqVUVyeWpvamREOWl0SDZ3dVlwdWxfSXBXWXZoVFhVcDNtZWkyZHF5N3dFLWFtWkI0MXB5eVhZdjk3emx2LUwxT2xxeUVqdmcwaFF3b1Vx?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-09T14:25+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%8F%AA%E9%BB%83%E4%BB%81%E5%8B%B3-%E4%B8%AD%E5%85%B1%E7%BE%8E%E4%BA%BA%E8%A8%88%E9%8E%96%E5%AE%9A%E7%BE%8E%E6%97%A5%E6%94%BF%E5%95%86%E5%9C%88-%E5%AE%89%E5%80%8D%E5%8F%8D%E9%81%87-%E7%BE%8E%E7%94%B7-%E9%99%B7%E9%98%B1-053923645.html",
-   "resolved": true
-  },
-  {
    "title": "市府攜手東區商圈組織　串聯店家好禮大放送　消費滿額抽千項好禮",
    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zZFNZYlk2bDAxbUEwSF9FZUI4OElrZmhTZzNESTNxVmJlX3BRbGFna0Qwa1Yzb05Kd0EzM1FPX05qMHRKc09BY3RzdjRiUDA3bXBKbkZ3S3V5aGo4T1I4M2Y4QmlMUHU0b1QzT2I1SGfSAXBBVV95cUxNM2RTWWJZNmwwMW1BMEhfRWVCODhJa2ZoU2czREkzcVZiZV9wUWxhZ2tEMGtWM29OSndBMzNRT19OajB0SnNPQWN0c3Y0YlAwN21wSm5Gd0t1eWhqOE9SODNmOEJpTFB1NG9UM09iNUhn?oc=5",
    "source": "好房網News",
@@ -346,6 +376,16 @@
    "resolved": true
   },
   {
+   "title": "不只黃仁勳！中共美人計鎖定美日政商圈 安倍反遇「美男」陷阱",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JaEl5eUQzcjNLaFBxVUhqVmRkSUw3VGtVckhZMGhDa0NKcW1qVkJ5bW03VmpkT2w4bUdZX09pVG5DNEU3T2RuR1YxdW93S0FHOTFyaDNjUk5uV1NU?oc=5",
+   "source": "太報 TaiSounds",
+   "source_site": "https://www.taisounds.com",
+   "published_at": "2026-11-09T13:39+08:00",
+   "query": "商圈",
+   "url": "https://www.taisounds.com/news/content/84/298719",
+   "resolved": true
+  },
+  {
    "title": "東海商圈停車糾紛變全武行！疑臨停擋店門 駕駛、老闆當街互毆",
    "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JWE8zME9WLVdpN2ZTeDBPdnNiT1FXVnFOLUw5MEx6NEFhQnRBY3lCZzlRVWxYbUlUU0NZTzZqaWhveEZ3Qlg1SG9UNW5FRk0?oc=5",
    "source": "TVBS新聞網",
@@ -353,36 +393,6 @@
    "published_at": "2026-11-09T13:24+08:00",
    "query": "商圈",
    "url": "https://news.tvbs.com.tw/local/4047865",
-   "resolved": true
-  },
-  {
-   "title": "大阪梅田商圈驚傳隨機砍人！23歲店員遭菜刀刺傷 嫌犯認對社會有恨意",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Pa3F4M1RZaVlobU0tMndwTU9iM0ZkNjBWQ0FEb2dzRlVSQU1ZbnFFdldYWG4tal9OOFBtdXVwRVlQbGxWLVVoUEUtbUZYQmJqdHNjejFIUklmb3daQkJubkJRaTc?oc=5",
-   "source": "民視健康長照網",
-   "source_site": "https://health.ftvnews.com.tw",
-   "published_at": "2026-11-09T11:21+08:00",
-   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
-   "url": "https://health.ftvnews.com.tw/news/detail/2026B08W0489",
-   "resolved": true
-  },
-  {
-   "title": "合肥市廬陽區：青年創意繪老街 合瓦文脈煥新聲",
-   "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMktKNGR3djJVRzA5UVJnQWxNYThkbDNuLWJ6Y041QkJRcWE2cjg3bG93LW5Lc1I5TXNEMWNPcnBpMWJyOTN3V1U4UU9ZRnNDNERGTS1maEZtWGlyZ1BJbnloS1N3ZTZ0SHJBWHBHTFM?oc=5",
-   "source": "人民网－安徽频道",
-   "source_site": "http://ah.people.com.cn",
-   "published_at": "2026-11-09T11:19+08:00",
-   "query": "老街",
-   "url": "http://ah.people.com.cn/BIG5/n2/2026/1109/c374164-41745596.html",
-   "resolved": true
-  },
-  {
-   "title": "一中商圈金店面被爆違建收租20年都沒事 都發局：何時能拆無法預測",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tQUIwWjNVaWJ5ZkNFQzU5MS1iYmIxaTJNUHRLZjhyUUduWF9ER0dWYXdfZU1VNXhxOXJ3RFFTM0hGVnp5YXNxVWp1eXdNRUpL0gFWQVVfeXFMTThud0phUk1KZm1fWmU0R2pfSU11LWU0c2U4VXB5RU5rNjZwel9uV2dGcTVsTFkyeW5rM0NCNlRvdkZ4TV9RNV9xb0NTUWtIbHhRN1R3U1E?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
-   "published_at": "2026-11-09T09:59+08:00",
-   "query": "商圈",
-   "url": "https://udn.com/news/story/7325/9866142",
    "resolved": true
   }
  ]
