@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-11T21:05:00+08:00",
+  "updated_at": "2026-11-12T07:30:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -325,6 +325,25 @@
           "representative": "https://www.chinatimes.com/realtimenews/20261111003218-260405",
           "urls": [
             "https://www.chinatimes.com/realtimenews/20261111003218-260405"
+          ]
+        },
+        {
+          "id": "20261112-tainan-hoarding-check",
+          "note": "台南查核沙拉油囤貨，桶裝油漲5％但查無囤貨",
+          "representative": "https://tw.news.yahoo.com/%E6%9D%9C%E7%B5%95%E5%93%84%E6%8A%AC-%E9%98%B2%E6%B2%99%E6%8B%89%E6%B2%B9%E4%B9%8B%E4%BA%82-%E5%8F%B0%E5%8D%97%E6%9F%A5%E5%9B%A4%E8%B2%A8-223259992.html",
+          "urls": [
+            "https://tw.news.yahoo.com/%E6%9D%9C%E7%B5%95%E5%93%84%E6%8A%AC-%E9%98%B2%E6%B2%99%E6%8B%89%E6%B2%B9%E4%B9%8B%E4%BA%82-%E5%8F%B0%E5%8D%97%E6%9F%A5%E5%9B%A4%E8%B2%A8-223259992.html",
+            "https://tw.news.yahoo.com/%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E6%BC%B25-%E5%8F%B0%E5%8D%97%E6%9F%A5%E7%84%A1%E5%9B%A4%E8%B2%A8-201000898.html"
+          ]
+        },
+        {
+          "id": "20261111-taisugar-1792",
+          "note": "台糖估每月供應1792公噸沙拉油，台南市府籲按需採買",
+          "representative": "https://money.udn.com/money/story/5612/9871952?from=edn_related_storybottom",
+          "urls": [
+            "https://money.udn.com/money/story/5612/9871952?from=edn_related_storybottom",
+            "https://www.ettoday.net/news/20261112/3270578.htm",
+            "https://tw.news.yahoo.com/%E5%B8%82%E5%BA%9C%E5%8F%B0%E7%B3%96%E6%94%9C%E6%89%8B-%E7%A9%A9%E5%AE%9A%E9%A3%9F%E7%94%A8%E6%B2%B9%E4%BE%9B%E6%87%89-115445580.html"
           ]
         }
       ],

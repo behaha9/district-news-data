@@ -1,7 +1,32 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T20:52:54+08:00",
+ "generated_at": "2026-11-12T07:18:20+08:00",
  "items": [
+  {
+   "id": "20261112-yuxiu-yanshui-district",
+   "title": "臺南玉秀雙語國小串聯鹽水商圈商家，辦萬聖節英語踩街",
+   "summary": "臺南市玉秀雙語國小整合地方資源，10月30日舉辦萬聖節英語與社區踩街活動，串聯鹽水14家商家，建立校園與在地商圈合作模式。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-12T03:00:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [
+    {
+     "name": "鹽水商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261112700352-439901",
+     "published_at": "2026-11-12T03:00:00+08:00"
+    }
+   ],
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-12/1024/A40AC4_PictureItem_Clipping_03_4.jpg"
+  },
   {
    "id": "20261110-moea-excellent-district-award",
    "title": "全國卓越商圈獎頒獎，經濟部宣布明年起每年加碼25.5億輔導商圈",
@@ -306,6 +331,11 @@
      "published_at": "2026-11-10T15:06:00+08:00"
     },
     {
+     "outlet": "17news民生好報",
+     "url": "https://17news.net/archives/345474",
+     "published_at": "2026-11-10T15:02:00+08:00"
+    },
+    {
      "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261110138610",
      "published_at": "2026-11-10T11:29:00+08:00"
@@ -344,6 +374,11 @@
      "outlet": "udn房地產",
      "url": "https://house.udn.com/house/story/123590/9867344",
      "published_at": "2026-11-09T17:53:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7325/9866142?list_ch2_index",
+     "published_at": "2026-11-09T09:59:00+08:00"
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35500653.jpg&M=1&s=Y&x=1&y=409&sw=1107&sh=738&exp=3600"
@@ -1517,7 +1552,7 @@
      "published_at": "2026-11-02T17:56:00+08:00"
     }
    ],
-   "image": "https://media.zenfs.com/ko/pinview_com_tw_506/518f4fa35bd912d92b8414d175c897c5.jpg"
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35478102.png&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
   },
   {
    "id": "20261103-xinzhuang-miaojie-decline",
@@ -1886,7 +1921,7 @@
      "published_at": "2026-11-01T09:50:00+08:00"
     }
    ],
-   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/def.jpg"
+   "image": "https://i01.ftnn.com.tw/a/26/304/26304142449279617e3a98.png"
   },
   {
    "id": "20261023-fengyuan-halloween",
