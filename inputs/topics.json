@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T23:28:15+08:00",
+ "updated_at": "2026-11-12T07:17:13+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,33 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "杜絕哄抬…防沙拉油之亂 台南查囤貨",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNUE9FT3VObUYxSlBuRzFPQnlZNE9kd01CVExWZjlyYXRkQjVpdjB1TDZhcE1pdUxRNkQxeEVqSXdBSktkM1V3RmRxZmtJSmtXUTktRC1UcmRXTU5FdVF6dTg3NWtUaHhPQzVUMUtYUE1TOGc3VlhaUk9DZnhnYjNwMkM4TDJsVUh1ek5FUUZ5cjNjZ0J3TXhmXy1LTHo5ejZJMmtwVlgzZDJ1ZmhsQ2xmaHVCQWhsR0l6Y3pHSWdPZG9pTFlYN3J2c29HR0NiOHdzOFRpeHR1TVRFMnFaRnk0M2xiMWhnaEpyV3NfNGRsb3JxMXFLXzUwTXVheFc4ZW9pQVZvUWxIYXpuZw?oc=5",
+     "source": "Yahoo新聞",
+     "published_at": "2026-11-12T06:32+08:00",
+     "url": "https://tw.news.yahoo.com/%E6%9D%9C%E7%B5%95%E5%93%84%E6%8A%AC-%E9%98%B2%E6%B2%99%E6%8B%89%E6%B2%B9%E4%B9%8B%E4%BA%82-%E5%8F%B0%E5%8D%97%E6%9F%A5%E5%9B%A4%E8%B2%A8-223259992.html",
+     "resolved": true
+    },
+    {
+     "title": "桶裝沙拉油漲5％ 台南查無囤貨",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdFlBLXpia1ZNOEE0dnQxUnJuenQ0RXJ0YnN3ejBQRDZ4ckxDeTFnYWdTM29CNVBpZDJWNHlxc2dTNjNUNVBwcXhxVjJYTU9HZUc0bGNlZFpNMXB6cHpPYmlrUkZFMXIxQXp2WkliX09idXp3R0lHdU9uX3RuMnUxV25aSW8ybmtLZzN5cEU2SGF0ajdaVmtuQmQwN2tycmNYQmpFSm9HaGhiSWdRdEJRRDM5R0dWUzREQ2x2SFBOVWhtSXZ2YzJ2T2tZcXBzcDFTTEJXLWdmUWhzX1dMRnAzUG05MkwwZw?oc=5",
+     "source": "Yahoo新聞",
+     "published_at": "2026-11-12T04:10+08:00",
+     "url": "https://tw.news.yahoo.com/%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E6%BC%B25-%E5%8F%B0%E5%8D%97%E6%9F%A5%E7%84%A1%E5%9B%A4%E8%B2%A8-201000898.html",
+     "resolved": true
+    },
+    {
+     "title": "食用油供應受關注！台糖估月供1792公噸　黃偉哲籲按需採買",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16a0xWS25ETHJlWUVPZVdlNzNWQVhTdG8teGNYVDVoSjlkbzNfbmZJa293VzVZa2ZZUGtKazU1dGE0TkRIcUtfdzNKVUNoRXVvbEoyWm9sc0pmaW9JSUHSAUtBVV95cUxNZVoyVW0zTjJhNkZPSk1VR1hxQkRBVVowSjdaRlZsQ0tkU1lLb2g2SGRzbU80Y2prUWsyclRZSEdIM0ZSZ0hUM3pjSms?oc=5",
+     "source": "ETtoday新聞雲",
+     "published_at": "2026-11-12T01:53+08:00",
+     "url": "https://www.ettoday.net/news/20261112/3270578.htm",
+     "resolved": true
+    },
     {
      "title": "市府台糖攜手 穩定食用油供應",
      "kind": "價格動態",
