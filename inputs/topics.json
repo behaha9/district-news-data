@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T14:50:03+08:00",
+ "updated_at": "2026-11-11T20:51:24+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,33 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "台糖每月增供1792噸沙拉油 不排除人為囤貨、台南啟動通路稽查",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04akJjUmU5alBtX2piNE82Njd4cGM2YXV4aWNLQVB5RmZnck90RFBoN2RfT1JQcENGQnpuSnlaNkdfRzB6dVJlU0ZqRi1XTU9yZ0Y0R0x1VU1ZZTY4eVF5UXBQUXTSAWpBVV95cUxNZmJaREppR3l3djViNG9TTGZXd094ek51UTFabzlUd2hhdVR5U2lMVWV6bTVLMnc4TG5aaDhhdndUaXdMSGtHUDJLOW1Gdjl2UDVYT25kc3pSTFpGbk1OV2gwYUliN0hyNUVB?oc=5",
+     "source": "自由時報",
+     "published_at": "2026-11-11T15:58+08:00",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5637183",
+     "resolved": true
+    },
+    {
+     "title": "台南市政府與台糖聯手調節食用油供需黃偉哲籲理性採購、勿囤積貨物- 生活",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByemVHWGdmeWRGblBfXzlyajNBYTMtTG1jcXczNVhtN2l4YWRlOS16cnJDa1FObHpDZGRFSGFVNVlUbmdoeWZYc1JTMUpCWTNodml1d0tycnVfQkN1dkU4enBIbnYxZDZxY3JwLQ?oc=5",
+     "source": "華視新聞網",
+     "published_at": "2026-11-11T15:36+08:00",
+     "url": "https://news.cts.com.tw/cts/life/202611/202611113099843.html",
+     "resolved": true
+    },
+    {
+     "title": "台糖擬每月供應1792公噸沙拉油避免民生物價波動| 生活",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NbU1tOFRNM3labXNmUURoa01rNGpkTUNUNnBoa0w3SDdYTWpyUVVqQXlibkEwQWNlakpQb3d5M1ZaMHdSS3ZwaXBGWXZSVzViakdobmF5Y051WlRlN1Nr?oc=5",
+     "source": "中央社 CNA",
+     "published_at": "2026-11-11T14:49+08:00",
+     "url": "https://www.cna.com.tw/news/ahel/202611110163.aspx",
+     "resolved": true
+    },
     {
      "title": "食用油漲聲不斷！台糖沙拉油凍漲17年背後原因曝光",
      "kind": "價格動態",
@@ -42,6 +69,15 @@
      "source": "中時新聞網",
      "published_at": "2026-11-11T13:14+08:00",
      "url": "https://www.chinatimes.com/realtimenews/20261111002774-260405",
+     "resolved": true
+    },
+    {
+     "title": "食用油會缺貨嗎? 台糖每月供應1,792公噸沙拉油 台南市府喊話勿囤貨",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mRFlPUE5aZkNTMm4yTlhpdm8ycFpOSzZ3VmpCRHRtVjhEeFJ6MFJJZHpnTlNYa3dRZXdWQTZRYnhFd1FNMi1PUlc1WDBWZw?oc=5",
+     "source": "newsdaily.tw",
+     "published_at": "2026-11-10T22:49+08:00",
+     "url": "https://newsdaily.tw/news/wuqtpu3u7er",
      "resolved": true
     },
     {
