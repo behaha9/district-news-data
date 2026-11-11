@@ -1,20 +1,30 @@
 {
- "fetched_at": "2026-11-11T07:17:08+08:00",
+ "fetched_at": "2026-11-11T09:19:22+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 102,
-  "kept": 40,
-  "resolved": 40,
-  "items": 39,
+  "raw": 97,
+  "kept": 38,
+  "resolved": 38,
+  "items": 37,
   "resolve_this_run": {
-   "online": 4
+   "online": 1
   },
   "dropped_old": [
    "高市府砸10億大改造旗山老街再現巴洛克風華| 生活（原文日期 2015-09-24）"
   ]
  },
  "items": [
+  {
+   "title": "美食探店：內行推薦桃園大溪老街必吃必買伴手禮【全冠手工花生麥芽糖】",
+   "google_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yMWJKQmtxZWpUMHdjZ2NBd3BPYUh3TnMyWWxNWWNmVlR2eUphWUtYOWU5Q213MVFjQmRYZTFTTW1NejMyZmhKTlNsT1VjMEQxR3laaXhuY3h4bmpvOXUwMzBjVjliWmp5VEFOYWx5dXpEMGNpNENXUDRCcEdlZ9IBYkFVX3lxTE5yWmNfOHF2OGdYRVMzWHNRVU0tYjJBeEtFQWE1NVRVTjFEdG5fMkhITENTS21aQ1poODNqLTJNNU9zTUVXWDNrQ2R0RGhfQ2dpcWh3U01jakFfZUdpbzkwcHdR?oc=5",
+   "source": "udn 女子漾",
+   "source_site": "https://woman.udn.com",
+   "published_at": "2026-11-11T09:00+08:00",
+   "query": "老街",
+   "url": "https://woman.udn.com/woman/story/123162/9870699?from=udn-listnews_ch4087",
+   "resolved": true
+  },
   {
    "title": "請教下一任新北市長　如何讓中小微服務業與商圈擴大在地經濟效益？",
    "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aUDVtYmRwQ1Q1cWJ6QkMyZlY3S09tOWdZSFIzaVpPRUt5dEFGc1VSZmE0UzJLZFp5bnJnZXRkdjlrbjEzbGNoZkx2dDlUTVHSAU5BVV95cUxNQkd2REdqOUtlQkNwQ2VFQkp3NlNVbTdrcElQUXcxMlZJck1rcEtZMExleTlZNDJrTmVDdjdqOFB0ZUxMLVh2blF3SDFCWVE?oc=5",
@@ -48,7 +58,7 @@
   {
    "title": "瑞芳老街門面改造進行中變身文化新亮點| 大台北| 地方",
    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtNkV6MVFvS25uMl9ZQXBFNUhBVlFyd1prNWJUOTdEYnVFRzJ1cEhXNnZrdHZsc2hTRmROYjU5Qk5sdFV3Sk1vcFljX1FSTWxS?oc=5",
-   "source": "UDN",
+   "source": "udn",
    "source_site": "https://udn.com",
    "published_at": "2026-11-10T19:12+08:00",
    "query": "老街",
@@ -246,16 +256,6 @@
    "resolved": true
   },
   {
-   "title": "嘉縣水上辦料理競賽開創仙草商機 串聯產業鏈帶動商圈經濟",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtZjFfRHYyZF94YUxrRnkyYzJDaTdqdFd6ZHk2WE53S0pkREJmVFhZVjBkOVIxWmtScUE1bGc5NFVFaS1GZkFEbmdJdVAxZ0xiRWhnQXZ3TFBnUzRrUklkQVdMLXnSAWpBVV95cUxPSF9CcFdEUU5BYjdfMG1XRVRVQUluTWFIZXBvZElMZmNON3lWWVZEblQwZWVhMU1LQTltNHFRVThZTXk0NGJHOVRWNThDaTBWaHZPN2hWTk4xVkYzNG9SNi10cWZQcXUyRFNR?oc=5",
-   "source": "自由時報",
-   "source_site": "https://news.ltn.com.tw",
-   "published_at": "2026-11-09T19:11+08:00",
-   "query": "商圈",
-   "url": "https://news.ltn.com.tw/news/life/breakingnews/5634880",
-   "resolved": true
-  },
-  {
    "title": "占用騎樓遭限期拆除！一中商圈黃金店面爆整棟違建台中都發局發聲了| 區域觀測站",
    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EYlVLTXBySUtDZnZGWS1RejZnMlkzZlVzRkppeDM0SVVGT2ZyWnhmYlBwODJXZGpKeHdabFdXQjYwN3F5c1Z1OFhDV2RpclpkbmxPYnRjUjQ1YnVB?oc=5",
    "source": "udn房地產",
@@ -378,31 +378,11 @@
   {
    "title": "一中商圈金店面被爆違建收租20年都沒事 都發局：何時能拆無法預測",
    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tQUIwWjNVaWJ5ZkNFQzU5MS1iYmIxaTJNUHRLZjhyUUduWF9ER0dWYXdfZU1VNXhxOXJ3RFFTM0hGVnp5YXNxVWp1eXdNRUpL0gFWQVVfeXFMTThud0phUk1KZm1fWmU0R2pfSU11LWU0c2U4VXB5RU5rNjZwel9uV2dGcTVsTFkyeW5rM0NCNlRvdkZ4TV9RNV9xb0NTUWtIbHhRN1R3U1E?oc=5",
-   "source": "udn",
+   "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-11-09T09:59+08:00",
    "query": "商圈",
    "url": "https://udn.com/news/story/7325/9866142",
-   "resolved": true
-  },
-  {
-   "title": "何欣純蔡其昌合體掃逢甲 聽取業者心聲活絡商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGlWOGhtSGNhMXZ5dm5aYWlVY3dDMG9VQ0dqVzZDSVVzNXlqcTRMYTdXTGw3b2VIZkVndXU3aGp3MHpMT2FjcE8yNGljenFjSHMxUE83WjFlcWFrYjUySXMxOUdRWS1Mbmx4Y2VlcDJheHFoVkc5S2xpVFFmLWVIMg?oc=5",
-   "source": "壹電視",
-   "source_site": "https://www.nexttv.com.tw",
-   "published_at": "2026-11-09T09:17+08:00",
-   "query": "商圈",
-   "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-11-09/2520165.html",
-   "resolved": true
-  },
-  {
-   "title": "蔣萬安出席東區周年慶啟動儀式 承諾商圈建設經費只增不減 公私協力再現東區繁華",
-   "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0RlQ2FWQ3ZGWVZBRUV4b2hFWmtLVVFvZGJ5cmpMSzRJd2JMYUJaOVNYSEtfcFdxX2dWdDZsUjNiakxQX1h3UUROSVhyV3A5bUdqUTU4WjJGVkJDcndFOWprWHdxTDVMdG1yeVNLa29QTkt6cUpHb2hnTUtsd3hZdVBrYWg?oc=5",
-   "source": "臺北市政府全球資訊網",
-   "source_site": "https://www.gov.taipei",
-   "published_at": "2026-11-09T09:02+08:00",
-   "query": "商圈",
-   "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=5E9C939DC9E7D3B5",
    "resolved": true
   }
  ]
