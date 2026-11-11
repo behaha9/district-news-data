@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T20:51:27+08:00",
+ "fetched_at": "2026-11-11T23:28:18+08:00",
  "articles": {
   "https://www.fclnews.com/235170/": {
    "checked_at": "2026-11-11T20:51+08:00",
@@ -181,327 +181,10 @@
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://udn.com/news/story/7241/9860042": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T17:37+08:00",
-   "site_name": "聯合新聞網",
-   "description": "富邦媒（8454）旗下momo購物網今年第五度攜手「台北網紅節」，5日將於11月7日至8日在台北信義新天地香堤大道舉辦「雙11品牌嘉年華」，集結超過20家人氣品牌、上百位網紅及多項互動體驗，把線上購物節延伸為周末城市活動。邀請民眾在雙11購物旺季，走出螢幕、走進商圈，感受不同以往的購物樂趣。",
-   "cities": {
-    "台北市": 8,
-    "台中市": 1
-   },
-   "districts": [],
-   "body_chars": 1803,
-   "image": "https://udn.com/static/img/UDN_BABY.png",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.businesstoday.com.tw/article/category/183032/post/202611050023/": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T15:11+08:00",
-   "site_name": "今周刊",
-   "description": "謝金河女兒謝盈盈、阿嬤的家A Ma De Jia 2026首屆藝術博覽會、阿嬤的家時間12/11-12/20在雲林西螺登場，策展人謝盈盈笑道：「藝術品在老房子內很有感覺，很多人告訴我這樣很酷，其實在國外很多人做。」她觀察全台有很多老房子，她也決定延續這次的好評，催生了首屆全新藝術博覽會《阿嬤的家》，將於2026年12月",
-   "cities": {
-    "台北市": 3,
-    "雲林縣": 3,
-    "台中市": 1,
-    "台南市": 1
-   },
-   "districts": [],
-   "body_chars": 2024,
-   "image": "https://doqvf81n9htmm.cloudfront.net/data/petra_284/110500(1).jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://money.udn.com/money/story/10871/9860042": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T17:38+08:00",
-   "site_name": "經濟日報",
-   "description": "富邦媒（8454）旗下momo購物網今年第五度攜手「台北網紅節」，5日將於11月7日至8日在台北信義新天地香堤大道舉辦「雙11品牌嘉年華」，集結超過20家人氣品牌、上百位網紅及多項互動體驗，把線上購物節延伸為周末城市活動。邀請民眾在雙11購物旺季，走出螢幕、走進商圈，感受不同以往的購物樂趣。",
-   "cities": {
-    "台北市": 7
-   },
-   "districts": [],
-   "body_chars": 1135,
-   "image": "https://money.udn.com/static/img/moneyudn.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/realtimenews/20261105004024-260402": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T16:38+08:00",
-   "site_name": "中時新聞網",
-   "description": "連辦6屆的赤嵌萬聖節1日落幕，卻傳商圈今年內外失和，活動前5天才驚險取得路權確定舉辦，內部成員不滿台南市經發局遲不提供公文申請路權，近日準備寫陳情書投訴。台南市經發局意有所指回應，商圈經營首重人和，恐是",
-   "cities": {
-    "台南市": 6
-   },
-   "districts": [],
-   "body_chars": 762,
-   "image": "https://images.chinatimes.com/newsphoto/2026-11-05/656/20261105004025.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://life.tw/article/%E5%98%89%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E6%B0%91%E7%9C%BE%E5%B9%B8%E9%81%8B%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-3203630": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-03T20:34+08:00",
-   "site_name": "LIFE 生活網",
-   "description": "嘉義縣政府舉辦「嘉尚好禮」商圈聯合購物節，串聯全縣19大商圈及17家觀光工廠，帶動在地消費。",
-   "cities": {
-    "嘉義縣": 42
-   },
-   "districts": [
-    "鹿草風華商圈（嘉義縣）",
-    "朴子市魅力商圈（嘉義縣）",
-    "民雄商圈（嘉義縣）"
-   ],
-   "body_chars": 1922,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-11-03",
-   "date_hint_from": "原文時間"
-  },
   "https://www.yesmedia.com.tw/%e6%a1%83%e5%9c%92%e6%8e%a8%e5%8b%95%e4%b8%80%e5%95%86%e5%9c%88%e4%b8%80%e7%89%b9%e8%89%b2-%e7%88%ad%e5%8f%962300%e8%90%ac%e8%a3%9c%e5%8a%a9%e8%bc%94%e5%b0%8e%e7%87%9f%e9%81%8b/": {
    "checked_at": "2026-11-11T20:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://money.udn.com/money/story/122328/9859177": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T19:11+08:00",
-   "site_name": "經濟日報",
-   "description": "嘉義市中正路二通商圈透過老店轉型與特色店家進駐，成為舊城區觀光亮點。市議員上午質詢二通商圈不少店家展現新風貌，市府除觀光行銷，也應改善商圈環境，建議參考日本韓國商店街模式，評估設置遮雨遮陽設施，規劃徒步街區，串聯火車站與舊城觀光動線。觀光新聞處長鄭雅文允諾跨局處評估。",
-   "cities": {
-    "嘉義市": 9
-   },
-   "districts": [],
-   "body_chars": 1012,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35487956.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/politics/breakingnews/5626673": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T15:47+08:00",
-   "site_name": "自由時報電子報",
-   "description": "台北市長蔣萬安日前於首場市長候選人辯論會表示，「大巨蛋讓東區商圈活起來，店面出租率超過9成，也迎來超過400億經濟效益。」台北市商業處指出，根據永慶房屋在地統計資料，東區商圈空店率已從2023年1月大巨蛋啟用前的13.48%，下降至2026年9月的8.85%，減少4.63個百分點。然而，記者實地走訪觀察，每走200公尺",
-   "cities": {
-    "台北市": 10
-   },
-   "districts": [
-    "東區商圈（台北市）"
-   ],
-   "body_chars": 1080,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/02/5626673_6_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://more-news.tw/760564/": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T16:08+08:00",
-   "site_name": "墨新聞 MORE News",
-   "description": "台中物調券帶動市集買氣，民眾好評持續延燒！市府經濟發展局日前於官方粉絲專頁發起物調券心得分享活動，短短4日吸引 […]",
-   "cities": {
-    "台中市": 5,
-    "嘉義市": 2
-   },
-   "districts": [
-    "美術園道商圈（台中市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1096,
-   "image": "https://more-news.tw/more-news-media/2026/11/1-38.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://money.udn.com/money/story/5612/9860042": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T17:38+08:00",
-   "site_name": "經濟日報",
-   "description": "富邦媒（8454）旗下momo購物網今年第五度攜手「台北網紅節」，5日將於11月7日至8日在台北信義新天地香堤大道舉辦「雙11品牌嘉年華」，集結超過20家人氣品牌、上百位網紅及多項互動體驗，把線上購物節延伸為周末城市活動。邀請民眾在雙11購物旺季，走出螢幕、走進商圈，感受不同以往的購物樂趣。",
-   "cities": {
-    "台北市": 7
-   },
-   "districts": [],
-   "body_chars": 1135,
-   "image": "https://money.udn.com/static/img/moneyudn.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ebc.net.tw/news/living/579202": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T16:09+08:00",
-   "site_name": "東森新聞",
-   "description": "街頭藝人潤潁擁有一手好琵琶，平時經常在社群平台分享演奏日常，不料近期在台北市信義區街頭表演時，卻遭一名陌生男子步步逼近，不僅不聽勸阻保持距離，還朝她吹口哨。",
-   "cities": {
-    "台北市": 3
-   },
-   "districts": [],
-   "body_chars": 712,
-   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/05/1793891537_70808.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.stheadline.com/travel/3633822/%E7%BE%85%E6%B9%96%E5%8F%A3%E5%B2%B8%E9%81%8E%E9%97%9C%E7%95%99%E6%84%8F-%E5%85%A8%E6%96%B0%E5%8D%B0%E8%B1%A1%E7%BE%85%E6%B9%96%E6%A9%8B%E9%96%8B%E9%80%9A-5%E5%88%86%E9%90%98%E5%85%8D%E6%B7%8B%E9%9B%A8%E7%9B%B4%E9%81%94%E5%91%A8%E9%82%8A%E5%95%86%E5%9C%88%E5%A4%A7%E5%9E%8B%E5%95%86%E5%A0%B4": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T15:47+08:00",
-   "site_name": "星島頭條",
-   "description": "羅湖口岸向來是港人週末北上消費、按摩及覓食的最熱門關口，惟以往出關後前往周邊商場往往要日曬雨淋兼兜大圈。近日羅湖口岸全新「印象羅湖橋」人民南二層風雨連廊正式試運行，將過關後步行至人民南核心商圈的時間大幅縮短至5分鐘，為北上港人帶來更舒適便捷的行街體驗。 全新開通羅湖口岸印象羅湖橋！5分鐘直達周邊商圈 全新啟用的「印象羅",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1049,
-   "image": "https://image.hkhl.hk/f/1200p0/0x0/100/none/6dffa5f2cebf431f6162e6e567caf77d/2026-11/20261105_life___0.png",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://mknews.com.tw/2026/11/1013681/": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T18:14+08:00",
-   "site_name": "天天上新聞",
-   "description": "圖: 省下來的是荷包；累積起來的是生活的幸福感。(圖/臺中市 … Read More",
-   "cities": {
-    "台中市": 11
-   },
-   "districts": [
-    "美術園道商圈（台中市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1307,
-   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.fountmedia.io/article/441608": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "放言Fount Media",
-   "description": "台中市長候選人、立法委員何欣純今（5）日出席台中市商業總會第80屆商人節表揚暨80週年慶典，與前總統蔡英文一同參與盛會。何欣純推崇理事長謝豐享及商業總會長年凝聚",
-   "cities": {
-    "台中市": 15
-   },
-   "districts": [],
-   "body_chars": 581,
-   "image": "https://fountmedia.s3.ap-northeast-1.amazonaws.com/article/06/08/441608_2276.webp?v=1793864558",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.taichung.gov.tw/3400033/post": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "臺中市政府全球資訊網",
-   "description": "台中購物節開跑2天登錄破5.5億元！首抽前進大里中興商圈　送出全球不限航點機票及iPhone 17",
-   "cities": {
-    "台中市": 20
-   },
-   "districts": [
-    "大里中興商圈（台中市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1641,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.storm.mg/lifestyle/11176561": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T15:59+08:00",
-   "site_name": null,
-   "description": "假日想到老街走走，最怕的就是車位難找、熱門小吃大排長龍，連拍張照片都得等人潮散去。不過，熱門老街並非一年四季都擁擠。根據交通部觀光署2025年主要觀光遊憩據點統計，彰化鹿港老街及周邊地區全年累積超過2324萬人次，但12月人次卻不到100萬；新竹內灣老街以2月人次最少，北埔老街及台南安平地區則都是7月相對冷清。若進一步",
-   "cities": {
-    "新竹縣": 7,
-    "台南市": 5,
-    "彰化縣": 4
-   },
-   "districts": [
-    "北埔老街商圈（新竹縣）",
-    "鹿港老街商圈（彰化縣）"
-   ],
-   "body_chars": 2122,
-   "image": "https://images.storm.mg/cloud/1b94de651e889d80b92594b8ef543ad7425974d8.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2241661%2FNG7sygeKxuzJwqviNsCPXKJ1JMtuTDut7zPb6Sbc.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.storm.mg/lifestyle/11178692": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T11:24+08:00",
-   "site_name": null,
-   "description": "桃園除了高鐵、國際機場外，近年桃園憑藉豐富的自然景觀與建設，不論是站前商圈、永安漁港、大溪老街，都是國人週末國旅與親子放鬆的好選擇。根據《交通部觀光署觀光統計資料庫》發布2026年1至8月桃園觀光人次統計排行榜，桃園最受歡迎的前三名景點分別為「六和商圈」、「桃園站前商圈」、「中壢老街溪沿岸步道」。2026年1至8月桃園",
-   "cities": {
-    "桃園市": 30,
-    "新竹": 2
-   },
-   "districts": [
-    "六和商圈（桃園市）",
-    "桃園站前商圈（桃園市）"
-   ],
-   "body_chars": 2293,
-   "image": "https://images.storm.mg/cloud/2251fb5ccf794ab6b0cda829ebe8de09802f39e4.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2198725%2Fl0lfxgzKtptZH6CaQXger7VO3teerU5AN6Den3nx.jpeg&g=sm&h=900&resize=fill&w=1600&format=jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cna.com.tw/postwrite/chi/449109": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T04:36+08:00",
-   "site_name": null,
-   "description": "為加速結合數位服務與在地產業發展，新竹市政府積極推動「新竹通」專屬優惠好康，全面展開特約店家招募，並訂於11月11日下午2時在新竹市稅務局7樓召開招商說明會，市府期盼透過公私協力，廣邀在地商圈與各行各業優質品牌加入，將數位市政動能延伸至實體經濟，讓市民享有專屬消費優惠，也為在地店家注入充沛商機，共創市民受惠、商圈活絡的",
-   "cities": {
-    "新竹市": 25
-   },
-   "districts": [
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1326,
-   "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261105/00449109.202611051898192003M.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.mirrormedia.mg/external/setn_1933229": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T10:27+08:00",
-   "site_name": "鏡週刊 Mirror Media",
-   "description": "人氣生活雜貨品牌3COINS台灣第2間門市於11月5日在誠品生活南西正式開幕，除鎖定中山商圈客群外，更全新引進追星收藏、寵物用品與毛線手作等商品，社群熱議的一鍵按壓式製冰盒也同步開賣。另一方面，IKEA則搶先迎接聖誕節，推出充滿玩心創意與北歐經典風格的全新裝飾系列，將熱狗堡與冰淇淋變身聖誕樹吊飾，為居家生活與節慶佈置帶",
-   "cities": {},
-   "districts": [
-    "中山商圈（台北市）"
-   ],
-   "body_chars": 1825,
-   "image": "https://attach.setn.com/newsimages/2026/11/04/5774460-PH.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1487344": {
    "checked_at": "2026-11-10T07:17+08:00",
@@ -512,41 +195,6 @@
    "checked_at": "2026-11-11T20:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://www.verse.com.tw/article/aeae-taipei-flagship": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-04T13:18+08:00",
-   "site_name": "VERSE",
-   "description": "繼先前快閃店引發搶購熱潮後，創立於首爾時尚聖地漢南洞的aeae，如今正式來到台北中山商圈開設全台首間旗艦店。這個以Y2K復古美學結合街頭風格、展現「叛逆而可愛」設計語彙的韓系潮牌，此次除了完整呈現aeae的世界觀，也將全面上架與首爾零時差的2026秋冬系列與經典熱銷款。",
-   "cities": {
-    "台北市": 9
-   },
-   "districts": [
-    "赤峰街商圈（台北市）",
-    "中山商圈（台北市）"
-   ],
-   "body_chars": 1564,
-   "image": "https://5mtz55f1.tinifycdn.com/storage/app/uploads/public/6af/005/ffe/6af005ffe820f227120251.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-04",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8844696": {
-   "checked_at": "2026-11-08T21:44+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "臺南市政府全球資訊網",
-   "description": null,
-   "cities": {
-    "台南市": 20
-   },
-   "districts": [],
-   "body_chars": 1164,
-   "image": "https://www.tainan.gov.tw/images/aqi.png",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
   },
   "https://news.pchome.com.tw/public/taipei/20261102/index-79361600023397126016.html": {
    "checked_at": "2026-11-11T20:51+08:00",
@@ -10858,6 +10506,583 @@
    "image": "https://ws.tycg.gov.tw/001/Upload/57/relpic/9954/1969810/bf808d5b-63a9-4dbc-b65d-378183856652@710x470.jpg",
    "image_checked": true,
    "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261105004024-260402": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T16:38+08:00",
+   "site_name": "中時新聞網",
+   "description": "連辦6屆的赤嵌萬聖節1日落幕，卻傳商圈今年內外失和，活動前5天才驚險取得路權確定舉辦，內部成員不滿台南市經發局遲不提供公文申請路權，近日準備寫陳情書投訴。台南市經發局意有所指回應，商圈經營首重人和，恐是",
+   "cities": {
+    "台南市": 6
+   },
+   "districts": [],
+   "body_chars": 762,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-05/656/20261105004025.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5626673": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T15:47+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台北市長蔣萬安日前於首場市長候選人辯論會表示，「大巨蛋讓東區商圈活起來，店面出租率超過9成，也迎來超過400億經濟效益。」台北市商業處指出，根據永慶房屋在地統計資料，東區商圈空店率已從2023年1月大巨蛋啟用前的13.48%，下降至2026年9月的8.85%，減少4.63個百分點。然而，記者實地走訪觀察，每走200公尺",
+   "cities": {
+    "台北市": 10
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 1080,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/02/5626673_6_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7241/9860042": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T17:37+08:00",
+   "site_name": "聯合新聞網",
+   "description": "富邦媒（8454）旗下momo購物網今年第五度攜手「台北網紅節」，5日將於11月7日至8日在台北信義新天地香堤大道舉辦「雙11品牌嘉年華」，集結超過20家人氣品牌、上百位網紅及多項互動體驗，把線上購物節延伸為周末城市活動。邀請民眾在雙11購物旺季，走出螢幕、走進商圈，感受不同以往的購物樂趣。",
+   "cities": {
+    "台北市": 7,
+    "台中市": 3,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 1952,
+   "image": "https://udn.com/static/img/UDN_BABY.png",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/10871/9860042": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T17:38+08:00",
+   "site_name": "經濟日報",
+   "description": "富邦媒（8454）旗下momo購物網今年第五度攜手「台北網紅節」，5日將於11月7日至8日在台北信義新天地香堤大道舉辦「雙11品牌嘉年華」，集結超過20家人氣品牌、上百位網紅及多項互動體驗，把線上購物節延伸為周末城市活動。邀請民眾在雙11購物旺季，走出螢幕、走進商圈，感受不同以往的購物樂趣。",
+   "cities": {
+    "台北市": 7
+   },
+   "districts": [],
+   "body_chars": 1211,
+   "image": "https://money.udn.com/static/img/moneyudn.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://life.tw/article/%E5%98%89%E7%B8%A3%E5%95%86%E5%9C%88%E8%B3%BC%E7%89%A9%E7%AF%80%E9%A6%96%E6%B3%A2%E5%A4%A7%E7%8D%8E%E9%96%8B%E5%87%BA-%E6%B0%91%E7%9C%BE%E5%B9%B8%E9%81%8B%E6%8A%B1%E5%9B%9E%E4%BC%91%E6%97%85%E8%BB%8A-3203630": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T20:34+08:00",
+   "site_name": "LIFE 生活網",
+   "description": "嘉義縣政府舉辦「嘉尚好禮」商圈聯合購物節，串聯全縣19大商圈及17家觀光工廠，帶動在地消費。",
+   "cities": {
+    "嘉義縣": 42
+   },
+   "districts": [
+    "鹿草風華商圈（嘉義縣）",
+    "朴子市魅力商圈（嘉義縣）",
+    "民雄商圈（嘉義縣）"
+   ],
+   "body_chars": 1922,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/entertainment/music/%E9%AB%98%E9%9B%84%E8%81%96%E8%AA%95%E7%94%9F%E6%B4%BB%E7%AF%80-13%E6%97%A5%E7%99%BB%E5%A0%B4-%E5%B8%82%E9%9B%86-%E9%9F%B3%E6%A8%82%E9%BB%9E%E4%BA%AE%E5%95%86%E5%9C%88/ar-AA2h7abz": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.businesstoday.com.tw/article/category/183032/post/202611050023/": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T15:11+08:00",
+   "site_name": "今周刊",
+   "description": "謝金河女兒謝盈盈、阿嬤的家A Ma De Jia 2026首屆藝術博覽會、阿嬤的家時間12/11-12/20在雲林西螺登場，策展人謝盈盈笑道：「藝術品在老房子內很有感覺，很多人告訴我這樣很酷，其實在國外很多人做。」她觀察全台有很多老房子，她也決定延續這次的好評，催生了首屆全新藝術博覽會《阿嬤的家》，將於2026年12月",
+   "cities": {
+    "台北市": 3,
+    "雲林縣": 3,
+    "台中市": 1,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 2024,
+   "image": "https://doqvf81n9htmm.cloudfront.net/data/petra_284/110500(1).jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://sunmedia.tw/news/collaborative/1i4pc1MpcXmZHD8KvBPi05uC9hZiCbYotnU4fsG6wR03x47yoHh0yXIe": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T20:10+08:00",
+   "site_name": "商傳媒",
+   "description": "【記者林文強/台北報導】 經濟部商業發展署10日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」，由經濟部龔 […]",
+   "cities": {
+    "台北市": 4,
+    "新北市": 2,
+    "嘉義縣": 2,
+    "台南市": 1,
+    "彰化縣": 1
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）",
+    "縣府太子商圈（嘉義縣）",
+    "鹽水商圈（台南市）",
+    "小琉球商圈（屏東縣）"
+   ],
+   "body_chars": 579,
+   "image": "https://17news.net/wp-content/uploads/2026/11/25e56216b327c43.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/lifestyle/11176561": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T15:59+08:00",
+   "site_name": null,
+   "description": "假日想到老街走走，最怕的就是車位難找、熱門小吃大排長龍，連拍張照片都得等人潮散去。不過，熱門老街並非一年四季都擁擠。根據交通部觀光署2025年主要觀光遊憩據點統計，彰化鹿港老街及周邊地區全年累積超過2324萬人次，但12月人次卻不到100萬；新竹內灣老街以2月人次最少，北埔老街及台南安平地區則都是7月相對冷清。若進一步",
+   "cities": {
+    "新竹縣": 7,
+    "台南市": 5,
+    "彰化縣": 4
+   },
+   "districts": [
+    "北埔老街商圈（新竹縣）",
+    "鹿港老街商圈（彰化縣）"
+   ],
+   "body_chars": 2122,
+   "image": "https://images.storm.mg/cloud/1b94de651e889d80b92594b8ef543ad7425974d8.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2241661%2FNG7sygeKxuzJwqviNsCPXKJ1JMtuTDut7zPb6Sbc.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://more-news.tw/760564/": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T16:08+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "台中物調券帶動市集買氣，民眾好評持續延燒！市府經濟發展局日前於官方粉絲專頁發起物調券心得分享活動，短短4日吸引 […]",
+   "cities": {
+    "台中市": 5,
+    "嘉義市": 2
+   },
+   "districts": [
+    "美術園道商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1096,
+   "image": "https://more-news.tw/more-news-media/2026/11/1-38.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/5612/9860042": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T17:38+08:00",
+   "site_name": "經濟日報",
+   "description": "富邦媒（8454）旗下momo購物網今年第五度攜手「台北網紅節」，5日將於11月7日至8日在台北信義新天地香堤大道舉辦「雙11品牌嘉年華」，集結超過20家人氣品牌、上百位網紅及多項互動體驗，把線上購物節延伸為周末城市活動。邀請民眾在雙11購物旺季，走出螢幕、走進商圈，感受不同以往的購物樂趣。",
+   "cities": {
+    "台北市": 7
+   },
+   "districts": [],
+   "body_chars": 1211,
+   "image": "https://money.udn.com/static/img/moneyudn.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.stheadline.com/travel/3633822/%E7%BE%85%E6%B9%96%E5%8F%A3%E5%B2%B8%E9%81%8E%E9%97%9C%E7%95%99%E6%84%8F-%E5%85%A8%E6%96%B0%E5%8D%B0%E8%B1%A1%E7%BE%85%E6%B9%96%E6%A9%8B%E9%96%8B%E9%80%9A-5%E5%88%86%E9%90%98%E5%85%8D%E6%B7%8B%E9%9B%A8%E7%9B%B4%E9%81%94%E5%91%A8%E9%82%8A%E5%95%86%E5%9C%88%E5%A4%A7%E5%9E%8B%E5%95%86%E5%A0%B4": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T15:47+08:00",
+   "site_name": "星島頭條",
+   "description": "羅湖口岸向來是港人週末北上消費、按摩及覓食的最熱門關口，惟以往出關後前往周邊商場往往要日曬雨淋兼兜大圈。近日羅湖口岸全新「印象羅湖橋」人民南二層風雨連廊正式試運行，將過關後步行至人民南核心商圈的時間大幅縮短至5分鐘，為北上港人帶來更舒適便捷的行街體驗。 全新開通羅湖口岸印象羅湖橋！5分鐘直達周邊商圈 全新啟用的「印象羅",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1049,
+   "image": "https://image.hkhl.hk/f/1200p0/0x0/100/none/6dffa5f2cebf431f6162e6e567caf77d/2026-11/20261105_life___0.png",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.sports.yahoo.com/tv/tv-partners/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E-114753534.html": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "台中沙鹿知名的鹿寮成衣商圈，早期是台灣成衣加工重鎮，當地大約有兩百家的服飾與批發店家，但這兩天卻出現不速之客一隻獼猴，兩度出現在商圈，四處亂竄，嚇壞不少居民。<br />",
+   "cities": {
+    "台中市": 4
+   },
+   "districts": [],
+   "body_chars": 121,
+   "image": "https://media.zenfs.com/en/mnews_tw_258/38710c41986413a8acd2151a54bfe3eb",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.nextapple.com/politics/20261111/A5908FAD9351F42F98BC43AC1E0F9DED": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T16:36+08:00",
+   "site_name": "壹蘋新聞網",
+   "description": "竹北市長鄭朝方近日遭爆，曾於上班時間搭乘公所公務車北上出入台北西門町商圈。多位跨黨派竹北市民代表候選人今（11）日下午於竹北市公所前召開聯合記者會。",
+   "cities": {
+    "台北市": 14,
+    "新北市": 8,
+    "桃園市": 4,
+    "彰化縣": 1,
+    "宜蘭縣": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 3631,
+   "image": "https://static-cdn.nextapple.tw/prod/2026-11/A5908FAD9351F42F98BC43AC1E0F9DED/74dba396f17b9dea1eadf7d5ec893b41_1280.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/122328/9859177": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T19:11+08:00",
+   "site_name": "經濟日報",
+   "description": "嘉義市中正路二通商圈透過老店轉型與特色店家進駐，成為舊城區觀光亮點。市議員上午質詢二通商圈不少店家展現新風貌，市府除觀光行銷，也應改善商圈環境，建議參考日本韓國商店街模式，評估設置遮雨遮陽設施，規劃徒步街區，串聯火車站與舊城觀光動線。觀光新聞處長鄭雅文允諾跨局處評估。",
+   "cities": {
+    "嘉義市": 9
+   },
+   "districts": [],
+   "body_chars": 1088,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35487956.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pchome.com.tw/living/lifetoutiao/20261110/index-79429134881352315009.html": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://news.ebc.net.tw/news/living/579202": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T16:09+08:00",
+   "site_name": "東森新聞",
+   "description": "街頭藝人潤潁擁有一手好琵琶，平時經常在社群平台分享演奏日常，不料近期在台北市信義區街頭表演時，卻遭一名陌生男子步步逼近，不僅不聽勸阻保持距離，還朝她吹口哨。",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [],
+   "body_chars": 712,
+   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/05/1793891537_70808.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://mknews.com.tw/2026/11/1013681/": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T18:14+08:00",
+   "site_name": "天天上新聞",
+   "description": "圖: 省下來的是荷包；累積起來的是生活的幸福感。(圖/臺中市 … Read More",
+   "cities": {
+    "台中市": 11
+   },
+   "districts": [
+    "美術園道商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1307,
+   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7266/9859965": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T00:00+08:00",
+   "site_name": "聯合新聞網",
+   "description": "從市集熱潮出發，讓友善消費走進日常\n近年市集與實體體驗活動持續吸引民眾參與，從特色商品、現場互動到音樂演出，讓消費不再只是買東西，更成為認識品牌、體驗生活的方式。臺中市勞工局將於11月7日串聯臺中市8家庇護工場，參與「舊城新聚中區共好市集」，打造「幸福啟航」，結合特色商品展售、職場體驗闖關、消費轉盤抽獎與舞台表演，現場",
+   "cities": {
+    "台中市": 20,
+    "台北市": 1
+   },
+   "districts": [
+    "自由路商圈（台中市）",
+    "電子街商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 2965,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35489432.jpg&M=1&s=Y&x=0&y=1&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://video.udn.com/news/1331822": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-09T09:59+08:00",
+   "site_name": "聯合影音",
+   "description": "台中市一中街商圈的黃金三角窗店面被爆是違建，且月租50萬超過20年都平安無事。雖然該案經過檢舉，但今天清晨新承租的公仔店仍重新裝潢中準備進駐。都發局官員上午說，已列違建排拆，但因不是施工中的違建，也只能依序排拆，至於何時..",
+   "cities": {
+    "台中市": 3
+   },
+   "districts": [
+    "一中街商圈（台中市）"
+   ],
+   "body_chars": 594,
+   "image": "https://cdn.udn.com/img/960/photo/web/video/452010_d9d76aebf1d65b53_o.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-09",
+   "date_hint_from": "原文時間"
+  },
+  "https://cnews.com.tw/242261110a01/": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8844696": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "臺南市政府全球資訊網",
+   "description": null,
+   "cities": {
+    "台南市": 20
+   },
+   "districts": [],
+   "body_chars": 1164,
+   "image": "https://www.tainan.gov.tw/images/aqi.png",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://mknews.com.tw/2026/11/1016108/": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-10T21:49+08:00",
+   "site_name": "天天上新聞",
+   "description": "墨新聞｜新聞策劃編輯部 記者李婉如／綜合報導   經濟部商業 … Read More",
+   "cities": {
+    "高雄市": 4,
+    "新竹縣": 3,
+    "新北市": 2,
+    "桃園市": 2,
+    "台南市": 2
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）",
+    "縣府太子商圈（嘉義縣）",
+    "鹽水商圈（台南市）",
+    "小琉球商圈（屏東縣）"
+   ],
+   "body_chars": 4000,
+   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-10",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/lifestyle/11178692": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T11:24+08:00",
+   "site_name": null,
+   "description": "桃園除了高鐵、國際機場外，近年桃園憑藉豐富的自然景觀與建設，不論是站前商圈、永安漁港、大溪老街，都是國人週末國旅與親子放鬆的好選擇。根據《交通部觀光署觀光統計資料庫》發布2026年1至8月桃園觀光人次統計排行榜，桃園最受歡迎的前三名景點分別為「六和商圈」、「桃園站前商圈」、「中壢老街溪沿岸步道」。2026年1至8月桃園",
+   "cities": {
+    "桃園市": 30,
+    "新竹": 2
+   },
+   "districts": [
+    "六和商圈（桃園市）",
+    "桃園站前商圈（桃園市）"
+   ],
+   "body_chars": 2293,
+   "image": "https://images.storm.mg/cloud/2251fb5ccf794ab6b0cda829ebe8de09802f39e4.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2198725%2Fl0lfxgzKtptZH6CaQXger7VO3teerU5AN6Den3nx.jpeg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/5612/9871952?from=edn_related_storybottom": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T15:00+08:00",
+   "site_name": "經濟日報",
+   "description": "食用油短缺引起價格波動，台糖今天宣布將透過增加採購、精煉與代工等多重管道，預定每月供應1792公噸沙拉油，確保食用油供應...",
+   "cities": {
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 830,
+   "image": "https://money.udn.com/static/img/moneyudn.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/travel/%E6%88%B6%E5%A4%96%E6%B4%BB%E5%8B%95/%E7%83%8F%E4%BE%86%E4%B8%80%E6%97%A5%E9%81%8A-%E5%85%A7%E6%B4%9E%E7%80%91%E5%B8%83%E5%8F%B0%E8%BB%8A%E8%88%87%E8%80%81%E8%A1%97/vi-AA1BATTh": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.mirrormedia.mg/external/setn_1933229": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T10:27+08:00",
+   "site_name": "鏡週刊 Mirror Media",
+   "description": "人氣生活雜貨品牌3COINS台灣第2間門市於11月5日在誠品生活南西正式開幕，除鎖定中山商圈客群外，更全新引進追星收藏、寵物用品與毛線手作等商品，社群熱議的一鍵按壓式製冰盒也同步開賣。另一方面，IKEA則搶先迎接聖誕節，推出充滿玩心創意與北歐經典風格的全新裝飾系列，將熱狗堡與冰淇淋變身聖誕樹吊飾，為居家生活與節慶佈置帶",
+   "cities": {},
+   "districts": [
+    "中山商圈（台北市）"
+   ],
+   "body_chars": 1825,
+   "image": "https://attach.setn.com/newsimages/2026/11/04/5774460-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%B8%82%E5%BA%9C%E5%8F%B0%E7%B3%96%E6%94%9C%E6%89%8B-%E7%A9%A9%E5%AE%9A%E9%A3%9F%E7%94%A8%E6%B2%B9%E4%BE%9B%E6%87%89-115445580.html": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T19:54+08:00",
+   "site_name": "Yahoo News",
+   "description": "記者林雪娟∕台南報導 確保食用油供應穩定，避免造成民生物價波動。市府攜手台灣糖業公司…",
+   "cities": {
+    "台北市": 11,
+    "台南市": 4,
+    "台中市": 3,
+    "桃園市": 2,
+    "屏東縣": 2
+   },
+   "districts": [],
+   "body_chars": 3380,
+   "image": "https://media.zenfs.com/ko/cdns.com.tw/274fe6fb0c57c6060f151a62a26d30d5.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.verse.com.tw/article/aeae-taipei-flagship": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-04T13:18+08:00",
+   "site_name": "VERSE",
+   "description": "繼先前快閃店引發搶購熱潮後，創立於首爾時尚聖地漢南洞的aeae，如今正式來到台北中山商圈開設全台首間旗艦店。這個以Y2K復古美學結合街頭風格、展現「叛逆而可愛」設計語彙的韓系潮牌，此次除了完整呈現aeae的世界觀，也將全面上架與首爾零時差的2026秋冬系列與經典熱銷款。",
+   "cities": {
+    "台北市": 9
+   },
+   "districts": [
+    "赤峰街商圈（台北市）",
+    "中山商圈（台北市）"
+   ],
+   "body_chars": 1564,
+   "image": "https://5mtz55f1.tinifycdn.com/storage/app/uploads/public/6af/005/ffe/6af005ffe820f227120251.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-04",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/2D98vBe?view=topic&referral=AI": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T18:21+08:00",
+   "site_name": "LINE TODAY",
+   "description": "[NOWNEWS今日新聞] 輝達執行長黃仁勳與一名疑似為中國間諜的女子、新加坡Megaspeed高階女主管黃樂（Alice Huang）爆出...",
+   "cities": {},
+   "districts": [
+    "四平陽光商圈（台北市）"
+   ],
+   "body_chars": 692,
+   "image": "https://today-obs.line-scdn.net/0h35fspa4PbBpbCnCJFacTTWNcYGtobHYTeTwiLH9YYXojJi9JNWo_eSlaZjZ_bnweez8hK30KNyN0aHtMZw/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/society/breakingnews/5637607": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T21:29+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台北市信義區永吉路一棟大樓，今天晚間7時許發生火警，消防局獲報出動大批警消趕赴救援，抵達時，發現8樓竄出火舌及濃煙，且掉落火星延燒至樓下住戶，消防人員隨即佈水線射水灌救，並救出2名嗆傷住戶，送往醫院治療，所幸沒有生命危險，而現場也一度造成交通壅塞。台北市消防局今晚7時20分獲報，信義區永吉路一棟大樓發生火災，隨即派遣各",
+   "cities": {
+    "台北市": 8,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 740,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/11/5637607_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.right-media.news/archives/244007": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-10T20:55+08:00",
+   "site_name": "睿傳媒 Rightmedia - 睿智新聞深得你心! 我們自許為獨立客觀的新媒體",
+   "description": "墨新聞｜新聞策劃編輯部記者李婉如／綜合報導 經濟部商業發展署今（10）日於凱達大飯店舉辦「2026全國卓越",
+   "cities": {
+    "彰化縣": 3,
+    "新北市": 2,
+    "嘉義縣": 2,
+    "台北市": 1,
+    "台南市": 1
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）",
+    "縣府太子商圈（嘉義縣）",
+    "鹽水商圈（台南市）",
+    "小琉球商圈（屏東縣）"
+   ],
+   "body_chars": 2094,
+   "image": "https://www.right-media.news/wp-content/uploads/2026/11/IMG_7329.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-10",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/postwrite/chi/449109": {
+   "checked_at": "2026-11-11T23:28+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T04:36+08:00",
+   "site_name": null,
+   "description": "為加速結合數位服務與在地產業發展，新竹市政府積極推動「新竹通」專屬優惠好康，全面展開特約店家招募，並訂於11月11日下午2時在新竹市稅務局7樓召開招商說明會，市府期盼透過公私協力，廣邀在地商圈與各行各業優質品牌加入，將數位市政動能延伸至實體經濟，讓市民享有專屬消費優惠，也為在地店家注入充沛商機，共創市民受惠、商圈活絡的",
+   "cities": {
+    "新竹市": 25
+   },
+   "districts": [
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1326,
+   "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261105/00449109.202611051898192003M.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
    "date_hint_from": "原文時間"
   }
  }

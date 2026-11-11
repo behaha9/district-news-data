@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-11T20:51:12+08:00",
- "generated_at": "2026-11-11T20:51:12+08:00",
+ "fetched_at": "2026-11-11T23:28:04+08:00",
+ "generated_at": "2026-11-11T23:28:03+08:00",
  "window": "7d",
- "event_count": 98,
- "article_count": 170,
+ "event_count": 101,
+ "article_count": 180,
  "items": [
   {
    "url": "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5637527",
@@ -11,11 +11,52 @@
    "source": "自由時報・地方",
    "published_at": "2026-11-11T20:26:37+08:00",
    "event_key": "art:bf95d7e7f2e7d66aa9b354ecb1f5bda08ce68e779d5a62e50fc1d0d99763e7e7",
+   "primary": false
+  },
+  {
+   "url": "https://news.ltn.com.tw/news/politics/breakingnews/5637527",
+   "title": "合體蕭美琴訪石碇、深坑 蘇巧慧:當選後商圈補助增加3倍",
+   "source": "自由時報",
+   "published_at": "2026-11-11T20:26:00+08:00",
+   "event_key": "art:bf95d7e7f2e7d66aa9b354ecb1f5bda08ce68e779d5a62e50fc1d0d99763e7e7",
+   "primary": true
+  },
+  {
+   "url": "https://n.yam.com/Article/20261111501936",
+   "title": "2026全國卓越商圈獎頒獎!20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
+   "source": "蕃新聞",
+   "published_at": "2026-11-11T20:00:00+08:00",
+   "event_key": "art:a8c268f38bced46bf45b361cee1ec6137a99d98d8fad344a8fdf3164d58cb130",
+   "primary": true
+  },
+  {
+   "url": "https://focus.586.com.tw/2026/11/11/p411239/",
+   "title": "展現臺灣在地生命力!2026全國卓越商圈獎揭曉 20處標竿典範勝出",
+   "source": "焦點時報",
+   "published_at": "2026-11-11T19:38:00+08:00",
+   "event_key": "art:e82c652d5a88e766e9a94112826495d68d6dc7aa9b46fcbd6029499f333bc380",
+   "primary": true
+  },
+  {
+   "url": "https://ocacnews.net/article/433828",
+   "title": "「高雄聖誕生活節」13日登場 市集、音樂點亮商圈|藝文臺灣",
+   "source": "僑新聞",
+   "published_at": "2026-11-11T18:00:00+08:00",
+   "event_key": "art:c2387466cff1257f08264489377cbe1fa4bc4f00f2a8bd454eaf9e57b1dc012e",
    "primary": true,
-   "summary": "民進黨新北市長候選人蘇巧慧今天(11日)邀請副總統蕭美琴一同走訪石碇集順廟、深坑玄天宮、深坑福德宮、深坑集順廟祈福,許多鄉親手持「慧聚」飄帶、小物提前到場等候,蘇巧慧、蕭美琴一......",
    "cities": [
-    "新北市"
+    "高雄市"
    ]
+  },
+  {
+   "url": "https://video.udn.com/news/1331984",
+   "title": "影/鄭朝方遭爆上班搭公務車赴西門町飯店商圈跨黨派轟濫用公帑| 時事",
+   "source": "聯合影音",
+   "published_at": "2026-11-11T17:07:00+08:00",
+   "event_key": "art:934483caa3dc6f67e049dde714574d13355e61cd392cf0ac2a531ff476a93480",
+   "primary": false,
+   "summary": "「還我乾淨竹縣聯盟」今舉行記者會,質疑民進黨新竹縣長候選人、竹北市長鄭朝方2023年上班時間搭公務車前往台北西門町飯店商圈,涉嫌公私不分、濫用行政資源,要求公開當天行程、行車紀錄及隨行人員派勤依據,釐清是否符合公務用途。鄭團隊、竹北市公所表示「無回應。」 ...",
+   "date_only": true
   },
   {
    "url": "https://n.yam.com/Article/20261111820984",
@@ -30,47 +71,38 @@
    "title": "桃園商圈閃耀全國 榮奪經濟部「2026全國卓越商圈獎」三獎項",
    "source": "台灣好新聞",
    "published_at": "2026-11-11T13:25:00+08:00",
-   "event_key": "art:a2c078757425f106841d8ad1ac1336d514f040f5c7defa388d2e0e6409615105",
-   "primary": true,
-   "cities": [
-    "桃園市"
-   ]
+   "event_key": "archive:dd8d3c7aba1214dc",
+   "primary": true
   },
   {
    "url": "https://more-news.tw/766052/",
    "title": "展現臺灣在地生命力!2026全國卓越商圈獎揭曉 20處標竿典範勝出",
    "source": "more-news",
    "published_at": "2026-11-11T11:59:00+08:00",
-   "event_key": "art:9ce67db83bf23cb80768dd5f9cc21fca26276e3e8f01cd13e28b516ade8c2184",
-   "primary": true,
-   "summary": "▲2026全國卓越商圈獎頒獎典禮受邀貴賓、縣市政府代表及獲獎商圈代表共同合影。(圖/中衛發展中心提供) 【焦點時報/記者羅蔚舟報導】為肯定地方商圈的長期耕耘並吸引國際旅客,經濟部商業發展署10日舉行「2026全國卓越商圈獎頒獎典禮」,由經濟部部長龔明鑫親自表揚從36個角逐者中脫穎而出的20處標竿商圈。除展現臺灣在地文化",
-   "date_only": true
+   "event_key": "art:e82c652d5a88e766e9a94112826495d68d6dc7aa9b46fcbd6029499f333bc380",
+   "primary": false
   },
   {
    "url": "https://tyenews.com/2026/11/1428580/",
    "title": "桃園3大商圈獲中央肯定 經發局:持續投入振興與轉型資源",
    "source": "桃園電子報",
    "published_at": "2026-11-11T10:41:00+08:00",
-   "event_key": "art:7a6870250b166643f6e82c17ea19e5f221554543030ab686ff625f2e219f5815",
-   "primary": false,
-   "summary": "桃園市魅力金三角商圈榮奪「亮點觀光獎」。圖:經發局提供 由經濟部商業發展署主辦的「2026全國卓越商圈獎」昨(10)日舉行頒獎典禮,桃園市三大商圈表現亮眼,包括桃園市魅力金三角商圈榮奪「亮點觀光獎」、桃園市桃園車站商圈與桃園市站前商圈則雙雙獲頒「優選」商圈,充分展現桃園商圈在文化融合、品牌創新與多元觀光領域的卓越成果。",
+   "event_key": "art:1cbc9fde211d04686ee6264c255f18e870d07a0721cb9b69a3675bafb0d0a46a",
+   "primary": true,
    "cities": [
     "桃園市"
-   ],
-   "date_only": true
+   ]
   },
   {
    "url": "https://sunmedia.tw/news/collaborative/bmSlYsvnt9ZoK2uvI0VjRm19SNNTsIK86gdKNKfTQlvbN2GykL2L67tw6yey2nuwQ5Wjxs8eEe9BG5qrB",
    "title": "桃園3大商圈獲中央肯定 經發局:持續投入振興與轉型資源",
    "source": "商傳媒",
    "published_at": "2026-11-11T10:40:00+08:00",
-   "event_key": "art:7a6870250b166643f6e82c17ea19e5f221554543030ab686ff625f2e219f5815",
-   "primary": true,
-   "summary": "桃園市魅力金三角商圈榮奪「亮點觀光獎」。圖:經發局提供 由經濟部商業發展署主辦的「2026全國卓越商圈獎」昨(10)日舉行頒獎典禮,桃園市三大商圈表現亮眼,包括桃園市魅力金三角商圈榮奪「亮點觀光獎」、桃園市桃園車站商圈與桃園市站前商圈則雙雙獲頒「優選」商圈,充分展現桃園商圈在文化融合、品牌創新與多元觀光領域的卓越成果。",
+   "event_key": "art:1cbc9fde211d04686ee6264c255f18e870d07a0721cb9b69a3675bafb0d0a46a",
+   "primary": false,
    "cities": [
     "桃園市"
-   ],
-   "date_only": true
+   ]
   },
   {
    "url": "https://n.yam.com/Article/20261110927080",
@@ -90,6 +122,16 @@
    "published_at": "2026-11-11T10:09:00+08:00",
    "event_key": "art:7a0c09d6bbdc8f5e5c2f77e34add260f384596322eaa1064a61cad55bb15f346",
    "primary": true
+  },
+  {
+   "url": "https://sunmedia.tw/news/collaborative/1i4pc1MpcXmZHD8KvBPi05uC9hZiCbYotnU4fsG6wR03x47yoHh0yXIe",
+   "title": "2026全國卓越商圈獎揭曉 20處特色商圈脫穎而出",
+   "source": "商傳媒",
+   "published_at": "2026-11-11T06:09:00+08:00",
+   "event_key": "art:2c305769c5b61c1af17826d3712ae3a0a152a0af5e40ed1b765ef401970e217f",
+   "primary": true,
+   "summary": "經濟部商業發展署10日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎。今年自地方政府推薦的36個商圈中,評選出20處卓越商圈,透過表揚樹立標竿典範,鼓勵各地商圈交流學習,充分展現臺灣街區的多元特色與生命力。 經濟部龔明鑫部長出席 2026全國卓越商圈獎 頒獎典禮,肯定全臺商圈持續深耕地方",
+   "date_only": true
   },
   {
    "url": "https://forum.ettoday.net/news/3269471",
@@ -117,21 +159,21 @@
    "title": "桃園3大商圈獲中央肯定 經發局:持續投入振興與轉型資源",
    "source": "more-news",
    "published_at": "2026-11-11T00:00:00+08:00",
-   "event_key": "art:7a6870250b166643f6e82c17ea19e5f221554543030ab686ff625f2e219f5815",
+   "event_key": "art:1cbc9fde211d04686ee6264c255f18e870d07a0721cb9b69a3675bafb0d0a46a",
    "primary": false,
-   "summary": "桃園市魅力金三角商圈榮奪「亮點觀光獎」。圖:經發局提供 由經濟部商業發展署主辦的「2026全國卓越商圈獎」昨(10)日舉行頒獎典禮,桃園市三大商圈表現亮眼,包括桃園市魅力金三角商圈榮奪「亮點觀光獎」、桃園市桃園車站商圈與桃園市站前商圈則雙雙獲頒「優選」商圈,充分展現桃園商圈在文化融合、品牌創新與多元觀光領域的卓越成果。",
    "cities": [
     "桃園市"
-   ],
-   "date_only": true
+   ]
   },
   {
    "url": "https://more-news.tw/765073/",
    "title": "2026全國卓越商圈獎揭曉!20處商圈獲獎 展現臺灣在地特色與商業活力",
    "source": "墨新聞-MORE News",
    "published_at": "2026-11-10T20:55:00+08:00",
-   "event_key": "art:0b0562ef73bee3ad409cdf6142a3f37e4498ed8bfcd7c9681a60365542f48f0b",
-   "primary": true
+   "event_key": "art:d0368fa79c124fcda71d9767c4c0264155ec9592214ba19d0c41241783b710d0",
+   "primary": false,
+   "summary": "肯定善用地方景點與觀光資源、提供多元旅遊體驗的「亮點觀光獎」,「新北市平溪商圈」以鐵道文化、煤礦遺址與聞名遐邇的天燈節慶為三大核心,完美融合歷史記憶與民俗慶典,成為臺灣最具代表性且深受國際旅客喜愛的觀光品牌。「屏東縣小琉球商圈」則串聯島嶼餐飲、旅宿與海洋旅遊,以低碳永續、島嶼文化及迎王祭典為主軸,配合海洋教育與夜間導覽",
+   "date_only": true
   },
   {
    "url": "https://news.cnyes.com/news/id/6656699",
@@ -199,6 +241,14 @@
    ]
   },
   {
+   "url": "https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124528",
+   "title": "「2026全國卓越商圈獎」20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
+   "source": "經濟部",
+   "published_at": "2026-11-10T17:20:00+08:00",
+   "event_key": "art:ef7fdb2d6d8435ae959c2c40cf2dbe614aa7fe0ac3f607062fa227bed027c621",
+   "primary": true
+  },
+  {
    "url": "https://www.rti.org.tw/news?uid=3&pid=1050641",
    "title": "龔明鑫:明年投入逾25億 助商圈轉型升級",
    "source": "Rti 中央廣播電臺",
@@ -261,15 +311,43 @@
    "primary": true
   },
   {
+   "url": "https://udn.com/news/story/7327/9868803",
+   "title": "「高雄聖誕生活節」13日登場 市集、音樂點亮商圈",
+   "source": "聯合新聞網",
+   "published_at": "2026-11-10T12:19:00+08:00",
+   "event_key": "art:5a8edf40086aaf11c8c7129666738d000baccbe44709b994b562801af2204cc7",
+   "primary": true,
+   "summary": "「2026高雄聖誕生活節」13日在中央公園登場,連5個週末推主題市集,結合特色美食、節慶市集、音樂演出及燈飾,串聯商圈,帶動歲末消費商機。 高雄市政府經濟發展局今天公布「高雄聖誕生活節」活動,這週末起連5週推耶誕小鎮市集,12月19日到27日辦耶誕黃金週推音樂演出活動,並與義大利經濟貿易文化推廣辦事處合作,邀高雄30個",
+   "cities": [
+    "高雄市"
+   ],
+   "date_only": true
+  },
+  {
+   "url": "https://news.cts.com.tw/cna/local/202611/202611103099295.html",
+   "title": "「高雄聖誕生活節」13日登場 市集、音樂點亮商圈",
+   "source": "華視新聞網",
+   "published_at": "2026-11-10T11:56:00+08:00",
+   "event_key": "art:5a8edf40086aaf11c8c7129666738d000baccbe44709b994b562801af2204cc7",
+   "primary": false,
+   "summary": "「2026高雄聖誕生活節」13日在中央公園登場,連5個週末推主題市集,結合特色美食、節慶市集、音樂演出及燈飾,串聯商圈,帶動歲末消費商機。 高雄市政府經濟發展局今天公布「高雄聖誕生活節」活動,這週末起連5週推耶誕小鎮市集,12月19日到27日辦耶誕黃金週推音樂演出活動,並與義大利經濟貿易文化推廣辦事處合作,邀高雄30個",
+   "cities": [
+    "高雄市"
+   ],
+   "date_only": true
+  },
+  {
    "url": "https://www.cna.com.tw/news/aloc/202611100088.aspx",
    "title": "「高雄聖誕生活節」13日登場市集、音樂點亮商圈| 地方",
    "source": "中央社 CNA",
    "published_at": "2026-11-10T11:56:00+08:00",
-   "event_key": "art:7251d7181b404e6cd62357781ee6d13400f39719781981d6fc366424ba2b13d4",
-   "primary": true,
+   "event_key": "art:5a8edf40086aaf11c8c7129666738d000baccbe44709b994b562801af2204cc7",
+   "primary": false,
+   "summary": "「2026高雄聖誕生活節」13日在中央公園登場,連5個週末推主題市集,結合特色美食、節慶市集、音樂演出及燈飾,串聯商圈,帶動歲末消費商機。 高雄市政府經濟發展局今天公布「高雄聖誕生活節」活動,這週末起連5週推耶誕小鎮市集,12月19日到27日辦耶誕黃金週推音樂演出活動,並與義大利經濟貿易文化推廣辦事處合作,邀高雄30個",
    "cities": [
     "高雄市"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://n.yam.com/Article/20261110138610",
@@ -286,15 +364,30 @@
    ]
   },
   {
+   "url": "https://www.msn.com/zh-tw/entertainment/music/%E9%AB%98%E9%9B%84%E8%81%96%E8%AA%95%E7%94%9F%E6%B4%BB%E7%AF%80-13%E6%97%A5%E7%99%BB%E5%A0%B4-%E5%B8%82%E9%9B%86-%E9%9F%B3%E6%A8%82%E9%BB%9E%E4%BA%AE%E5%95%86%E5%9C%88/ar-AA2h7abz",
+   "title": "「高雄聖誕生活節」13日登場 市集、音樂點亮商圈",
+   "source": "中央社",
+   "published_at": "2026-11-10T03:56:44+08:00",
+   "event_key": "art:5a8edf40086aaf11c8c7129666738d000baccbe44709b994b562801af2204cc7",
+   "primary": false,
+   "summary": "「2026高雄聖誕生活節」13日在中央公園登場,連5個週末推主題市集,結合特色美食、節慶市集、音樂演出及燈飾,串聯商圈,帶動歲末消費商機。 高雄市政府經濟發展局今天公布「高雄聖誕生活節」活動,這週末起連5週推耶誕小鎮市集,12月19日到27日辦耶誕黃金週推音樂演出活動,並與義大利經濟貿易文化推廣辦事處合作,邀高雄30個",
+   "cities": [
+    "高雄市"
+   ],
+   "date_only": true
+  },
+  {
    "url": "https://www.msn.com/zh-tw/news/national/%E9%AB%98%E9%9B%84%E8%81%96%E8%AA%95%E7%94%9F%E6%B4%BB%E7%AF%80-13%E6%97%A5%E7%99%BB%E5%A0%B4-%E5%B8%82%E9%9B%86-%E9%9F%B3%E6%A8%82%E9%BB%9E%E4%BA%AE%E5%95%86%E5%9C%88/ar-AA2h7abz",
    "title": "「高雄聖誕生活節」13日登場 市集、音樂點亮商圈",
    "source": "中央社",
    "published_at": "2026-11-10T03:56:44+08:00",
-   "event_key": "art:7251d7181b404e6cd62357781ee6d13400f39719781981d6fc366424ba2b13d4",
+   "event_key": "art:5a8edf40086aaf11c8c7129666738d000baccbe44709b994b562801af2204cc7",
    "primary": false,
+   "summary": "「2026高雄聖誕生活節」13日在中央公園登場,連5個週末推主題市集,結合特色美食、節慶市集、音樂演出及燈飾,串聯商圈,帶動歲末消費商機。 高雄市政府經濟發展局今天公布「高雄聖誕生活節」活動,這週末起連5週推耶誕小鎮市集,12月19日到27日辦耶誕黃金週推音樂演出活動,並與義大利經濟貿易文化推廣辦事處合作,邀高雄30個",
    "cities": [
     "高雄市"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://www.ftnn.com.tw/news/594542",
@@ -307,6 +400,16 @@
    "cities": [
     "基隆市"
    ],
+   "date_only": true
+  },
+  {
+   "url": "https://mknews.com.tw/2026/11/1016108/",
+   "title": "2026全國卓越商圈獎揭曉!20處商圈獲獎 展現臺灣在地特色與商業活力",
+   "source": "天天上新聞",
+   "published_at": "2026-11-10T00:00:00+08:00",
+   "event_key": "art:d0368fa79c124fcda71d9767c4c0264155ec9592214ba19d0c41241783b710d0",
+   "primary": true,
+   "summary": "肯定善用地方景點與觀光資源、提供多元旅遊體驗的「亮點觀光獎」,「新北市平溪商圈」以鐵道文化、煤礦遺址與聞名遐邇的天燈節慶為三大核心,完美融合歷史記憶與民俗慶典,成為臺灣最具代表性且深受國際旅客喜愛的觀光品牌。「屏東縣小琉球商圈」則串聯島嶼餐飲、旅宿與海洋旅遊,以低碳永續、島嶼文化及迎王祭典為主軸,配合海洋教育與夜間導覽",
    "date_only": true
   },
   {
@@ -348,26 +451,6 @@
    "date_only": true
   },
   {
-   "url": "https://udn.com/news/story/7327/9868803",
-   "title": "「高雄聖誕生活節」13日登場 市集、音樂點亮商圈",
-   "source": "聯合新聞網",
-   "published_at": "2026-11-09T22:19:00+08:00",
-   "event_key": "archive:39376a8a5ef4e327",
-   "primary": true,
-   "summary": "「2026高雄聖誕生活節」13日在中央公園登場,連5個週末推主題市集,結合特色美食、節慶市集、音樂演出及燈飾,串聯商圈,帶動歲末消費商機。 高雄市政府經濟發展局今天公布「高雄聖誕生活節」活動,這週末起連5週推耶誕小鎮市集,12月19日到27日辦耶誕黃金週推音樂演出活動,並與義大利經濟貿易文化推廣辦事處合作,邀高雄30個",
-   "date_only": true
-  },
-  {
-   "url": "https://news.cts.com.tw/cna/local/202611/202611103099295.html",
-   "title": "「高雄聖誕生活節」13日登場 市集、音樂點亮商圈",
-   "source": "華視新聞網",
-   "published_at": "2026-11-09T21:56:00+08:00",
-   "event_key": "archive:39376a8a5ef4e327",
-   "primary": false,
-   "summary": "「2026高雄聖誕生活節」13日在中央公園登場,連5個週末推主題市集,結合特色美食、節慶市集、音樂演出及燈飾,串聯商圈,帶動歲末消費商機。 高雄市政府經濟發展局今天公布「高雄聖誕生活節」活動,這週末起連5週推耶誕小鎮市集,12月19日到27日辦耶誕黃金週推音樂演出活動,並與義大利經濟貿易文化推廣辦事處合作,邀高雄30個",
-   "date_only": true
-  },
-  {
    "url": "https://news.ltn.com.tw/news/life/breakingnews/5634880",
    "title": "嘉縣水上辦料理競賽開創仙草商機 串聯產業鏈帶動商圈經濟",
    "source": "自由時報",
@@ -390,9 +473,9 @@
    ]
   },
   {
-   "url": "https://house.udn.com/house/story/123590/9867344",
-   "title": "占用騎樓遭限期拆除!一中商圈黃金店面爆整棟違建台中都發局發聲了| 區域觀測站",
-   "source": "udn房地產",
+   "url": "https://udn.com/news/amp/story/7325/9867344",
+   "title": "占用騎樓遭限期拆除!一中商圈黃金店面爆整棟違建 台中都發局發聲了",
+   "source": "UDN",
    "published_at": "2026-11-09T17:53:00+08:00",
    "event_key": "art:55cc0992bafe26ecb3df34b113916d03af068f2a27b7505e0298d0a7f8fad5fb",
    "primary": false,
@@ -404,9 +487,9 @@
    ]
   },
   {
-   "url": "https://udn.com/news/amp/story/7325/9867344",
-   "title": "占用騎樓遭限期拆除!一中商圈黃金店面爆整棟違建 台中都發局發聲了",
-   "source": "UDN",
+   "url": "https://house.udn.com/house/story/123590/9867344",
+   "title": "占用騎樓遭限期拆除!一中商圈黃金店面爆整棟違建台中都發局發聲了| 區域觀測站",
+   "source": "udn房地產",
    "published_at": "2026-11-09T17:53:00+08:00",
    "event_key": "art:55cc0992bafe26ecb3df34b113916d03af068f2a27b7505e0298d0a7f8fad5fb",
    "primary": false,
@@ -884,6 +967,19 @@
    "published_at": "2026-11-07T12:04:00+08:00",
    "event_key": "art:a51d37cc317fd46d818192e1695e4efc3453d49bc1b0fce7b9992f3f0b658c06",
    "primary": true,
+   "summary": "台中沙鹿知名的鹿寮成衣商圈,早期是台灣成衣加工重鎮,當地大約有兩百家的服飾與批發店家,但這兩天卻出現不速之客一隻獼猴,兩度出現在商圈,四處亂竄,嚇壞不少居民。",
+   "cities": [
+    "台中市"
+   ],
+   "date_only": true
+  },
+  {
+   "url": "https://tw.sports.yahoo.com/tv/tv-partners/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E-114753534.html",
+   "title": "有猴出沒!台中鹿寮成衣商圈 雄猴亂竄居民驚慌|#鏡新聞",
+   "source": "tw.sports",
+   "published_at": "2026-11-07T12:00:00+08:00",
+   "event_key": "art:a51d37cc317fd46d818192e1695e4efc3453d49bc1b0fce7b9992f3f0b658c06",
+   "primary": false,
    "summary": "台中沙鹿知名的鹿寮成衣商圈,早期是台灣成衣加工重鎮,當地大約有兩百家的服飾與批發店家,但這兩天卻出現不速之客一隻獼猴,兩度出現在商圈,四處亂竄,嚇壞不少居民。",
    "cities": [
     "台中市"
