@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-11T07:18:33+08:00",
+  "updated_at": "2026-11-11T16:55:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -304,6 +304,24 @@
             "https://www.ctv.com.tw/Article/-%E7%94%9F%E6%B4%BB%E4%B8%80%E6%8A%8A%E7%BD%A9-%E6%B2%99%E6%8B%89%E6%B2%B9%E5%83%B9%E6%A0%BC%E7%8B%82%E9%A3%86-1%E6%A1%B6%E6%B2%B9-%E5%BE%9E800%E6%BC%B2%E7%A0%B41300-%E6%A5%AD%E8%80%85%E5%93%80%E8%99%9F",
             "https://www.storm.mg/article/5571914"
           ]
+        },
+        {
+          "id": "20261111-tainan-taisugar-1792",
+          "note": "台南市與台糖合作，每月供應1,792公噸沙拉油，市長籲勿囤貨",
+          "representative": "https://udn.com/news/story/7326/9871662?from=udn-ch1_breaknews-1-99-news",
+          "urls": [
+            "https://udn.com/news/story/7326/9871662?from=udn-ch1_breaknews-1-99-news",
+            "https://www.chinatimes.com/realtimenews/20261111002774-260405",
+            "https://n.yam.com/Article/20261111746523"
+          ]
+        },
+        {
+          "id": "20261111-taisugar-freeze-17y",
+          "note": "台糖沙拉油凍漲17年背後原因",
+          "representative": "https://www.chinatimes.com/realtimenews/20261111003218-260405",
+          "urls": [
+            "https://www.chinatimes.com/realtimenews/20261111003218-260405"
+          ]
         }
       ],
       "exclude": [
@@ -342,6 +360,10 @@
         {
           "url": "https://news.tvbs.com.tw/life/4048047",
           "reason": "橄欖油挑選的生活資訊，與食用油荒議題無關"
+        },
+        {
+          "url": "https://more-news.tw/763815/",
+          "reason": "東引小吃店點餐介紹，與食用油缺貨議題無關"
         }
       ]
     }
