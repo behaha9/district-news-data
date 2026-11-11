@@ -1,35 +1,73 @@
 {
- "fetched_at": "2026-11-11T12:17:11+08:00",
- "generated_at": "2026-11-11T12:17:10+08:00",
+ "fetched_at": "2026-11-11T14:49:51+08:00",
+ "generated_at": "2026-11-11T14:49:51+08:00",
  "window": "7d",
- "event_count": 89,
- "article_count": 160,
+ "event_count": 92,
+ "article_count": 163,
  "items": [
   {
-   "url": "https://n.yam.com/Article/20261110673921",
-   "title": "2026高雄聖誕生活節11/13浪漫登場! 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
+   "url": "https://tyenews.com/2026/11/1428580/",
+   "title": "桃園3大商圈獲中央肯定 經發局:持續投入振興與轉型資源",
+   "source": "桃園電子報",
+   "published_at": "2026-11-11T10:41:00+08:00",
+   "event_key": "art:1cbc9fde211d04686ee6264c255f18e870d07a0721cb9b69a3675bafb0d0a46a",
+   "primary": true,
+   "cities": [
+    "桃園市"
+   ]
+  },
+  {
+   "url": "https://n.yam.com/Article/20261110927080",
+   "title": "2026高雄聖誕生活節11/13浪漫登場五週末「耶誕小鎮」接力開逛9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
    "source": "蕃新聞",
-   "published_at": "2026-11-10T21:41:00+08:00",
-   "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
+   "published_at": "2026-11-11T10:34:00+08:00",
+   "event_key": "art:2bb0b79be3e824ef32594fb9a79ffbb1e028544ee87315abee3d614f718ee7d7",
    "primary": true,
    "cities": [
     "高雄市"
    ]
   },
   {
-   "url": "https://m.cnyes.com/news/id/6656699",
-   "title": "每年加碼25.5億升級!龔明鑫表彰20大卓越商圈 推動跨部會獎勵行銷",
-   "source": "鉅亨網",
-   "published_at": "2026-11-10T20:15:00+08:00",
-   "event_key": "art:1ebc0000467155b1623d3ccc00ac9da422c874cc2ada97f15db5ab970ea15fa3",
+   "url": "https://money.udn.com/money/story/11799/9870234",
+   "title": "全國20處卓越商圈出爐 從田尾花園、鹽水老街到平溪天燈展現地方魅力 | 產業動態 | 商情",
+   "source": "經濟日報",
+   "published_at": "2026-11-11T10:09:00+08:00",
+   "event_key": "art:7a0c09d6bbdc8f5e5c2f77e34add260f384596322eaa1064a61cad55bb15f346",
+   "primary": true
+  },
+  {
+   "url": "https://forum.ettoday.net/news/3269471",
+   "title": "請教下一任新北市長 如何讓中小微服務業與商圈擴大在地經濟效益?",
+   "source": "ETtoday新聞雲",
+   "published_at": "2026-11-11T06:00:00+08:00",
+   "event_key": "art:88fcc140df1467e900f072996772b9fc635d7c6d843b537320b76874eabd1a61",
+   "primary": true,
+   "cities": [
+    "新北市"
+   ]
+  },
+  {
+   "url": "https://more-news.tw/765073/",
+   "title": "2026全國卓越商圈獎揭曉!20處商圈獲獎 展現臺灣在地特色與商業活力",
+   "source": "墨新聞-MORE News",
+   "published_at": "2026-11-10T20:55:00+08:00",
+   "event_key": "art:0b0562ef73bee3ad409cdf6142a3f37e4498ed8bfcd7c9681a60365542f48f0b",
    "primary": true
   },
   {
    "url": "https://news.cnyes.com/news/id/6656699",
+   "title": "每年加碼25.5億升級!龔明鑫表彰20大卓越商圈 將推動跨部會獎勵行銷",
+   "source": "鉅亨網",
+   "published_at": "2026-11-10T20:15:00+08:00",
+   "event_key": "art:40d08a3658cf909d30d0db7015052e61b14f1a02e7a1d370d66620cadf9e74e2",
+   "primary": true
+  },
+  {
+   "url": "https://m.cnyes.com/news/id/6656699",
    "title": "每年加碼25.5億升級!龔明鑫表彰20大卓越商圈 推動跨部會獎勵行銷",
    "source": "鉅亨網",
    "published_at": "2026-11-10T20:15:00+08:00",
-   "event_key": "art:1ebc0000467155b1623d3ccc00ac9da422c874cc2ada97f15db5ab970ea15fa3",
+   "event_key": "art:40d08a3658cf909d30d0db7015052e61b14f1a02e7a1d370d66620cadf9e74e2",
    "primary": false
   },
   {
@@ -37,11 +75,13 @@
    "title": "謝國樑經濟發展新藍圖 五堵智慧科技園區、AI產業及東岸商圈帶動基隆轉型",
    "source": "Yahoo奇摩新聞",
    "published_at": "2026-11-10T19:12:54+08:00",
-   "event_key": "art:fbf1bef6bd7c3ebfa9c7be51ddffbad003cc4b92c3a7dc26abaf15e6ca6a4f2d",
-   "primary": false,
+   "event_key": "art:fa56c617b0956ef89839f46476358f9da0ba82b70a7999e5dc6c4fadb6a47828",
+   "primary": true,
+   "summary": "CNEWS匯流新聞網記者李承值/台北報導 基隆市長謝國樑今(10)日參加基隆市長候選人辯論會,在最後結論階段提出未來4年的產業與經濟發展願景,將以五堵基隆智慧科技園區、六堵工業區立體化及AI產業發展為核心,結合東岸商圈開發,創造更多優質就業機會,讓基隆從通勤城市逐步轉型為兼具產業發展、就業機會及商業活力的城市。",
    "cities": [
     "基隆市"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://udn.com/news/story/7323/9869885",
@@ -75,9 +115,11 @@
    "published_at": "2026-11-10T17:52:00+08:00",
    "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
    "primary": false,
+   "summary": "【今傳媒/記者李祖東報導】 ...",
    "cities": [
     "高雄市"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://www.rti.org.tw/news?uid=3&pid=1050641",
@@ -99,19 +141,6 @@
    ]
   },
   {
-   "url": "https://forum.ettoday.net/news/3269471",
-   "title": "請教下一任新北市長 如何讓中小微服務業與商圈擴大在地經濟效益?",
-   "source": "ETtoday新聞雲 - 雲論",
-   "published_at": "2026-11-10T16:00:00+08:00",
-   "event_key": "art:88fcc140df1467e900f072996772b9fc635d7c6d843b537320b76874eabd1a61",
-   "primary": true,
-   "summary": "新北市不僅人口居全臺之冠,根據經濟部《2025中小企業白皮書》,2024年新北市中小企業超過27萬家,家數亦居全國之首;按行業別觀察,服務業約占四分之三,批發零售業就超過12萬家。這些深入城市日常的企業,正是地方就業與經濟活力的重要基礎。",
-   "cities": [
-    "新北市"
-   ],
-   "date_only": true
-  },
-  {
    "url": "https://www.yunlin.gov.tw/News_Content.aspx?n=1244&s=613563",
    "title": "賀!雲林縣虎尾鎮魅力商圈、斗南商圈雙雙傳捷報 榮獲全國卓越商圈獎項肯定",
    "source": "雲林縣政府全球資訊網",
@@ -130,11 +159,13 @@
    "title": "謝國樑提出基隆經濟發展新藍圖五堵智慧科技園區、AI產業及東岸商圈帶動城市轉型- 生活",
    "source": "中時新聞網",
    "published_at": "2026-11-10T15:22:00+08:00",
-   "event_key": "art:fbf1bef6bd7c3ebfa9c7be51ddffbad003cc4b92c3a7dc26abaf15e6ca6a4f2d",
-   "primary": true,
+   "event_key": "art:fa56c617b0956ef89839f46476358f9da0ba82b70a7999e5dc6c4fadb6a47828",
+   "primary": false,
+   "summary": "CNEWS匯流新聞網記者李承值/台北報導 基隆市長謝國樑今(10)日參加基隆市長候選人辯論會,在最後結論階段提出未來4年的產業與經濟發展願景,將以五堵基隆智慧科技園區、六堵工業區立體化及AI產業發展為核心,結合東岸商圈開發,創造更多優質就業機會,讓基隆從通勤城市逐步轉型為兼具產業發展、就業機會及商業活力的城市。",
    "cities": [
     "基隆市"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://n.yam.com/Article/20261110582544",
@@ -151,16 +182,6 @@
    "published_at": "2026-11-10T13:00:00+08:00",
    "event_key": "art:152251e1f884015f3827253ff7fb1fed5d3dd9ba47a278a4185114d5140c93e1",
    "primary": true
-  },
-  {
-   "url": "https://more-news.tw/765073/",
-   "title": "2026全國卓越商圈獎揭曉!20處商圈獲獎 展現臺灣在地特色與商業活力",
-   "source": "more-news",
-   "published_at": "2026-11-10T12:55:00+08:00",
-   "event_key": "art:0b0562ef73bee3ad409cdf6142a3f37e4498ed8bfcd7c9681a60365542f48f0b",
-   "primary": true,
-   "summary": "經濟部商業發展署今(10)日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。 商業署表示,每一處商圈都有屬於自己的故事,無論是歷史文化",
-   "date_only": true
   },
   {
    "url": "https://www.cna.com.tw/news/aloc/202611100088.aspx",
@@ -203,11 +224,26 @@
    "title": "謝國樑提出基隆經濟發展新藍圖 五堵智慧科技園區、AI產業及東岸商圈帶動城市轉型",
    "source": "FTNN 新聞網",
    "published_at": "2026-11-10T01:07:00+08:00",
-   "event_key": "art:fbf1bef6bd7c3ebfa9c7be51ddffbad003cc4b92c3a7dc26abaf15e6ca6a4f2d",
+   "event_key": "art:fa56c617b0956ef89839f46476358f9da0ba82b70a7999e5dc6c4fadb6a47828",
    "primary": false,
+   "summary": "CNEWS匯流新聞網記者李承值/台北報導 基隆市長謝國樑今(10)日參加基隆市長候選人辯論會,在最後結論階段提出未來4年的產業與經濟發展願景,將以五堵基隆智慧科技園區、六堵工業區立體化及AI產業發展為核心,結合東岸商圈開發,創造更多優質就業機會,讓基隆從通勤城市逐步轉型為兼具產業發展、就業機會及商業活力的城市。",
    "cities": [
     "基隆市"
-   ]
+   ],
+   "date_only": true
+  },
+  {
+   "url": "https://n.yam.com/Article/20261110673921",
+   "title": "2026高雄聖誕生活節11/13浪漫登場! 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
+   "source": "蕃新聞",
+   "published_at": "2026-11-10T00:00:00+08:00",
+   "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
+   "primary": true,
+   "summary": "【今傳媒/記者李祖東報導】 ...",
+   "cities": [
+    "高雄市"
+   ],
+   "date_only": true
   },
   {
    "url": "https://n.yam.com/Article/20261110352167",
@@ -216,9 +252,11 @@
    "published_at": "2026-11-10T00:00:00+08:00",
    "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
    "primary": false,
+   "summary": "【今傳媒/記者李祖東報導】 ...",
    "cities": [
     "高雄市"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://storystudio.tw/article/gushi/the-story-of-nanfang-ao",
@@ -261,7 +299,7 @@
    "title": "嘉縣水上辦料理競賽開創仙草商機 串聯產業鏈帶動商圈經濟",
    "source": "自由時報",
    "published_at": "2026-11-09T19:11:00+08:00",
-   "event_key": "art:19a9a153e68921bd5d8ff7cf6cf382b997dcff806152874d288332660917f9b7",
+   "event_key": "archive:953dd2b537cc9810",
    "primary": true
   },
   {
@@ -317,15 +355,15 @@
    "title": "東區週年慶盛大開跑 永慶房產集團力挺商圈振興注入人潮",
    "source": "SCOOP",
    "published_at": "2026-11-09T16:32:00+08:00",
-   "event_key": "art:b58d4b29408bd87df082c4e80fe8b30a536742c9fb9e55dfe9d9801c0e7c222b",
-   "primary": false
+   "event_key": "archive:c359caa774622fe9",
+   "primary": true
   },
   {
    "url": "https://n.yam.com/Article/20261109355042",
    "title": "東區週年慶盛大開跑 永慶房產集團力挺商圈振興注入人潮",
    "source": "蕃新聞",
    "published_at": "2026-11-09T16:12:00+08:00",
-   "event_key": "art:b58d4b29408bd87df082c4e80fe8b30a536742c9fb9e55dfe9d9801c0e7c222b",
+   "event_key": "archive:c359caa774622fe9",
    "primary": false
   },
   {
@@ -333,15 +371,15 @@
    "title": "東區週年慶盛大開跑 永慶房產集團力挺商圈振興注入人潮",
    "source": "匯流新聞網",
    "published_at": "2026-11-09T16:05:00+08:00",
-   "event_key": "art:b58d4b29408bd87df082c4e80fe8b30a536742c9fb9e55dfe9d9801c0e7c222b",
-   "primary": true
+   "event_key": "archive:c359caa774622fe9",
+   "primary": false
   },
   {
    "url": "https://www.taisounds.com/news/content/84/298719",
    "title": "不只黃仁勳!中共美人計鎖定美日政商圈 安倍反遇「美男」陷阱",
    "source": "太報 TaiSounds",
    "published_at": "2026-11-09T13:39:00+08:00",
-   "event_key": "archive:705309ee8869e03e",
+   "event_key": "art:afe8ce0a0a0b913b6e86d3752616755a541763472ff34a27e1c900a76550745d",
    "primary": true
   },
   {
@@ -349,35 +387,23 @@
    "title": "一中商圈金店面被爆違建收租20年都沒事 都發局:何時能拆無法預測",
    "source": "UDN",
    "published_at": "2026-11-09T09:59:00+08:00",
-   "event_key": "art:b33fa376526cbf945c050d8346edf98e2bf1ea6ec361dcd5647155afee5acc84",
-   "primary": true,
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    "一中街商圈"
-   ]
+   "event_key": "archive:477404c9c0a0062f",
+   "primary": true
   },
   {
    "url": "https://udn.com/news/amp/story/7325/9866142",
    "title": "一中商圈金店面被爆違建收租20年都沒事 都發局:何時能拆無法預測",
    "source": "UDN",
    "published_at": "2026-11-09T09:59:00+08:00",
-   "event_key": "art:b33fa376526cbf945c050d8346edf98e2bf1ea6ec361dcd5647155afee5acc84",
-   "primary": false,
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    "一中街商圈"
-   ]
+   "event_key": "archive:477404c9c0a0062f",
+   "primary": false
   },
   {
    "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-11-09/2520165.html",
    "title": "何欣純蔡其昌合體掃逢甲 聽取業者心聲活絡商圈",
    "source": "壹電視",
    "published_at": "2026-11-09T09:17:00+08:00",
-   "event_key": "art:9763f4f5c450a1340a50fabab0cffd8e6d22f0f90c0fd8506a1baba53e5da2c9",
+   "event_key": "archive:5ef3b7b6df4d5c3",
    "primary": true
   },
   {
@@ -393,29 +419,9 @@
    "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
    "source": "記者爆料網",
    "published_at": "2026-11-09T06:35:00+08:00",
-   "event_key": "archive:7f5c56268761299c",
-   "primary": true,
-   "summary": "【Lai傳媒、記者爆料網/地方中心/綜合報導】 台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人",
-   "date_only": true
-  },
-  {
-   "url": "https://www.tcpttw.com/other/other_local/2026/11/09/328487/",
-   "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
-   "source": "tcpttw",
-   "published_at": "2026-11-09T00:00:00+08:00",
-   "event_key": "archive:7f5c56268761299c",
+   "event_key": "art:ed0994ced2cbc496fcec6d0ee67cef1855729def7d9493c5cac9c91ff2b7be77",
    "primary": false,
-   "summary": "【Lai傳媒、記者爆料網/地方中心/綜合報導】 台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人",
-   "date_only": true
-  },
-  {
-   "url": "https://pronews.tw/2026/11/09/330178/",
-   "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
-   "source": "pronews",
-   "published_at": "2026-11-09T00:00:00+08:00",
-   "event_key": "archive:7f5c56268761299c",
-   "primary": false,
-   "summary": "【Lai傳媒、記者爆料網/地方中心/綜合報導】 台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人",
+   "summary": "台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人疑似因停車問題發生爭執,隨後演變成肢體衝突,雙方",
    "date_only": true
   },
   {
@@ -426,6 +432,26 @@
    "event_key": "art:08fc163faeb251191e089a297e09da9da18659d39fcb0c7508af560776a06d3d",
    "primary": true,
    "summary": "夫妻一人在竹南科學園區上班,另一人每天北上新竹科學園區,早上還要送孩子到校,家買在哪裡比較順路?頭份預售屋「群悅泱漫」位於建國國中第一排,從基地走平面道路到台積電竹南先進封測廠,行車距離約3.5公里。往竹科上班的家人,則可從約700公尺外的國道一號頭份交流道北上。對正在頭份、竹南看房的雙薪家庭來說, ...",
+   "date_only": true
+  },
+  {
+   "url": "https://www.tcpttw.com/other/other_local/2026/11/09/328487/",
+   "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
+   "source": "tcpttw",
+   "published_at": "2026-11-09T00:00:00+08:00",
+   "event_key": "art:ed0994ced2cbc496fcec6d0ee67cef1855729def7d9493c5cac9c91ff2b7be77",
+   "primary": true,
+   "summary": "台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人疑似因停車問題發生爭執,隨後演變成肢體衝突,雙方",
+   "date_only": true
+  },
+  {
+   "url": "https://pronews.tw/2026/11/09/330178/",
+   "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
+   "source": "pronews",
+   "published_at": "2026-11-09T00:00:00+08:00",
+   "event_key": "art:ed0994ced2cbc496fcec6d0ee67cef1855729def7d9493c5cac9c91ff2b7be77",
+   "primary": false,
+   "summary": "台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人疑似因停車問題發生爭執,隨後演變成肢體衝突,雙方",
    "date_only": true
   },
   {

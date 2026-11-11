@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-11T12:17:16+08:00",
+ "fetched_at": "2026-11-11T14:49:56+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 99,
-  "kept": 39,
-  "resolved": 39,
-  "items": 38,
+  "raw": 89,
+  "kept": 37,
+  "resolved": 37,
+  "items": 36,
   "resolve_this_run": {
-   "online": 5
+   "online": 3
   },
   "dropped_old": [
    "高市府砸10億大改造旗山老街再現巴洛克風華| 生活（原文日期 2015-09-24）"
@@ -16,23 +16,33 @@
  },
  "items": [
   {
-   "title": "不只黃仁勳！中國「美人計」滲透美政商圈 FBI幹員、軍火商都中招",
-   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTy1IS2RKYzZwczhUcmhTcExybVJyR1A0dUo3ekpJMnpCdnVFaUJFV2JVSHRQcmhueVlFeVFON1lMR2U2Sld0SXE5M21WNVU4RXVWVU10VkRPcW51enc?oc=5",
-   "source": "ETtoday新聞雲",
-   "source_site": "https://www.ettoday.net",
-   "published_at": "2026-11-11T11:55+08:00",
+   "title": "蔣萬安市長推動南區活力計畫 整合商圈與文化資源",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Pa2xpWDBjbzNwX0h1VTNTLTY1U0REdW5rWC1yeWFYREhlcW9ldE4zakw3X2d1MW03OFlsSHpLZEV6MG9VNlpuSnN6VHJTOE9vaGc?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-11T14:17+08:00",
    "query": "商圈",
-   "url": "https://www.ettoday.net/news/20261111/3270142.htm",
+   "url": "https://n.yam.com/Article/20261111820984",
    "resolved": true
   },
   {
-   "title": "桃園3大商圈獲中央肯定 經發局：持續投入振興與轉型資源",
-   "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jeDRVa2M0Z1huY0pBSnlaMVUwSm8wa0drYy1YM3p0VzBmdkozUVotQXRpRkRsUjdrNHUxTVBuc0xacVIwWHVFcWtXTXY?oc=5",
-   "source": "桃園電子報",
-   "source_site": "https://tyenews.com",
-   "published_at": "2026-11-11T10:41+08:00",
+   "title": "桃園商圈閃耀全國 榮奪經濟部「2026全國卓越商圈獎」三獎項",
+   "google_url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOcWRhOV84ZHgyOE45LWRlbjZIRk4tdXlPNFhsazQxRm9OLUZ6UW9nTjZwY3haY2dMcFFtd25xT1RKWkFvTm1MYjNwN3ZHcXdocVpXSndkRDFBTktUMnloV0Y4T0xvcWVNUjdIUXJTMDZyZzR1d3JpQlZacndVX1NLZS1zdHRFQXBVSUxyOGRpQ18ycVg5akk1Q0JGU24xcDVCcVdCbUF1YkhDSzNmNXFRSzFGMTVGaG5yWTkxbEQ5bWY2cGhJamt5S1Z0UmJIMWFiX3VpcWFOaG93TDdtcldwaTM3STVHM09HTnhEY1hVUEVUeWVkMTdmX2VGTWFwRmZhbUR1c0ZWOEVfOWMwS1VtSjJTQUpnYWhCOTVaUEJVM3Jic0U2Z1ZQSklydXREUENWVDdjWDNsNVNBV0d3YXBoS21QbkZ5MDczM0JJaEtlYXlBVExra2YxY2hWSVBrSlpvdUdsQW03ZVlPOFVyeGtLdUM3NGVsRi16a3BMWXdwOUxGak0?oc=5",
+   "source": "台灣好新聞",
+   "source_site": "https://www.taiwanhot.net",
+   "published_at": "2026-11-11T13:25+08:00",
    "query": "商圈",
-   "url": "https://tyenews.com/2026/11/1428580/",
+   "url": "https://www.taiwanhot.net/news/1153738/%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E9%96%83%E8%80%80%E5%85%A8%E5%9C%8B+%E6%A6%AE%E5%A5%AA%E7%B6%93%E6%BF%9F%E9%83%A8%E3%80%8C2026%E5%85%A8%E5%9C%8B%E5%8D%93%E8%B6%8A%E5%95%86%E5%9C%88%E7%8D%8E%E3%80%8D%E4%B8%89%E7%8D%8E%E9%A0%85",
+   "resolved": true
+  },
+  {
+   "title": "不只黃仁勳！中國「美人計」滲透美政商圈　FBI幹員、軍火商都中招",
+   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTy1IS2RKYzZwczhUcmhTcExybVJyR1A0dUo3ekpJMnpCdnVFaUJFV2JVSHRQcmhueVlFeVFON1lMR2U2Sld0SXE5M21WNVU4RXVWVU10VkRPcW51enfSAUtBVV95cUxPT0doVks4SDl3bTNjRDIyVGxMZ1BnUVB3RkpZQmtUNG53VWJmYWNlbVBPSVkyWU1HWWVMN0RaeHV1T01DakJYVnJlcDA?oc=5",
+   "source": "ETtoday新聞雲",
+   "source_site": "https://www.ettoday.net",
+   "published_at": "2026-11-11T13:02+08:00",
+   "query": "商圈",
+   "url": "https://www.ettoday.net/news/20261111/3270142.htm",
    "resolved": true
   },
   {
@@ -363,36 +373,6 @@
    "published_at": "2026-11-09T15:14+08:00",
    "query": "商圈",
    "url": "https://news.mingpao.com/ins/%E7%86%B1%E9%BB%9E/article/20261109/s00024/1794199985269/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%B0%8D%E8%B1%A1%E9%BB%83%E6%A8%82%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%B5%99%E6%B1%9F%E5%95%86%E5%9C%88%E4%BA%BA%E8%84%88%E5%BB%A3-%E5%A4%96%E5%AA%92%E8%B3%AA%E7%96%91%E5%B1%A5%E6%AD%B7%E7%A8%B1%E6%9B%BE%E4%BB%BB%E8%A8%98%E8%80%85%E5%86%8D%E8%BD%89%E6%88%B0%E9%87%91%E8%9E%8D%E3%80%90%E7%9F%AD%E7%89%87%E3%80%91",
-   "resolved": true
-  },
-  {
-   "title": "市府攜手東區商圈組織　串聯店家好禮大放送　消費滿額抽千項好禮",
-   "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zZFNZYlk2bDAxbUEwSF9FZUI4OElrZmhTZzNESTNxVmJlX3BRbGFna0Qwa1Yzb05Kd0EzM1FPX05qMHRKc09BY3RzdjRiUDA3bXBKbkZ3S3V5aGo4T1I4M2Y4QmlMUHU0b1QzT2I1SGfSAXBBVV95cUxNM2RTWWJZNmwwMW1BMEhfRWVCODhJa2ZoU2czREkzcVZiZV9wUWxhZ2tEMGtWM29OSndBMzNRT19OajB0SnNPQWN0c3Y0YlAwN21wSm5Gd0t1eWhqOE9SODNmOEJpTFB1NG9UM09iNUhn?oc=5",
-   "source": "好房網News",
-   "source_site": "https://news.housefun.com.tw",
-   "published_at": "2026-11-09T13:47+08:00",
-   "query": "商圈",
-   "url": "https://news.housefun.com.tw/news/article/amp/135094490873.html",
-   "resolved": true
-  },
-  {
-   "title": "不只黃仁勳！中共美人計鎖定美日政商圈 安倍反遇「美男」陷阱",
-   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JaEl5eUQzcjNLaFBxVUhqVmRkSUw3VGtVckhZMGhDa0NKcW1qVkJ5bW03VmpkT2w4bUdZX09pVG5DNEU3T2RuR1YxdW93S0FHOTFyaDNjUk5uV1NU?oc=5",
-   "source": "太報 TaiSounds",
-   "source_site": "https://www.taisounds.com",
-   "published_at": "2026-11-09T13:39+08:00",
-   "query": "商圈",
-   "url": "https://www.taisounds.com/news/content/84/298719",
-   "resolved": true
-  },
-  {
-   "title": "東海商圈停車糾紛變全武行！疑臨停擋店門 駕駛、老闆當街互毆",
-   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JWE8zME9WLVdpN2ZTeDBPdnNiT1FXVnFOLUw5MEx6NEFhQnRBY3lCZzlRVWxYbUlUU0NZTzZqaWhveEZ3Qlg1SG9UNW5FRk0?oc=5",
-   "source": "TVBS新聞網",
-   "source_site": "https://news.tvbs.com.tw",
-   "published_at": "2026-11-09T13:24+08:00",
-   "query": "商圈",
-   "url": "https://news.tvbs.com.tw/local/4047865",
    "resolved": true
   }
  ]
