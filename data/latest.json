@@ -1,7 +1,81 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T07:18:19+08:00",
+ "generated_at": "2026-11-11T12:23:45+08:00",
  "items": [
+  {
+   "id": "20261111-taoyuan-three-districts-merit",
+   "title": "桃園3大商圈獲經濟部商業署肯定，經發局將持續投入振興與轉型資源",
+   "summary": "桃園電子報報導，商業署長頒發感謝狀肯定各縣市府推動商圈發展，桃園市府由經發局長出席領取，經發局表示將持續投入資源。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-11T10:41:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [
+    {
+     "name": "魅力金三角商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "魅力金三角商圈為115年補助名單，獲中央肯定，可作為商圈發展成果與後續執行參考。",
+   "sources": [
+    {
+     "outlet": "桃園電子報",
+     "url": "https://tyenews.com/2026/11/1428580/",
+     "published_at": "2026-11-11T10:41:00+08:00"
+    }
+   ],
+   "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2026/11/s__357605385_0_result.webp"
+  },
+  {
+   "id": "20261110-moea-excellent-district-award",
+   "title": "全國卓越商圈獎頒獎，經濟部宣布明年起每年加碼25.5億輔導商圈",
+   "summary": "經濟部長在全國卓越商圈獎頒獎典禮表揚20個商圈，並宣布116年起每年再加碼投入25.5億元支持商圈發展。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-11T10:09:00+08:00",
+   "cities": [],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/11799/9870234",
+     "published_at": "2026-11-11T10:09:00+08:00"
+    },
+    {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/765073/",
+     "published_at": "2026-11-10T20:55:00+08:00"
+    },
+    {
+     "outlet": "鉅亨網",
+     "url": "https://m.cnyes.com/news/id/6656699",
+     "published_at": "2026-11-10T20:15:00+08:00"
+    },
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/5612/9869899",
+     "published_at": "2026-11-10T18:02:00+08:00"
+    },
+    {
+     "outlet": "中央社",
+     "url": "https://www.cna.com.tw/news/afe/202611100280.aspx",
+     "published_at": "2026-11-10T17:55:00+08:00"
+    },
+    {
+     "outlet": "中央廣播電臺",
+     "url": "https://www.rti.org.tw/news?uid=3&pid=1050641",
+     "published_at": "2026-11-10T17:19:00+08:00"
+    },
+    {
+     "outlet": "Anue鉅亨",
+     "url": "https://news.cnyes.com/news/id/6656699",
+     "published_at": "2026-11-10T06:15:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/10/35504759.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=1050&exp=3600"
+  },
   {
    "id": "20261110-kaohsiung-xmas-fest",
    "title": "高雄聖誕生活節13日在中央公園登場，連5個週末市集與音樂串聯商圈",
@@ -54,42 +128,14 @@
      "outlet": "中央社(MSN)",
      "url": "https://www.msn.com/zh-tw/news/national/%E9%AB%98%E9%9B%84%E8%81%96%E8%AA%95%E7%94%9F%E6%B4%BB%E7%AF%80-13%E6%97%A5%E7%99%BB%E5%A0%B4-%E5%B8%82%E9%9B%86-%E9%9F%B3%E6%A8%82%E9%BB%9E%E4%BA%AE%E5%95%86%E5%9C%88/ar-AA2h7abz",
      "published_at": "2026-11-10T00:00:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261110352167",
+     "published_at": "2026-11-10T00:00:00+08:00"
     }
    ],
    "image": "https://ni.yam.com/20261110/1379510-1500x962-d5e5fbeae7ec17d2.webp"
-  },
-  {
-   "id": "20261110-moea-excellent-district-award",
-   "title": "全國卓越商圈獎頒獎，經濟部宣布明年起每年加碼25.5億輔導商圈",
-   "summary": "經濟部長在全國卓越商圈獎頒獎典禮表揚20個商圈，並宣布116年起每年再加碼投入25.5億元支持商圈發展。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-10T20:55:00+08:00",
-   "cities": [],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "墨新聞",
-     "url": "https://more-news.tw/765073/",
-     "published_at": "2026-11-10T20:55:00+08:00"
-    },
-    {
-     "outlet": "鉅亨網",
-     "url": "https://m.cnyes.com/news/id/6656699",
-     "published_at": "2026-11-10T20:15:00+08:00"
-    },
-    {
-     "outlet": "中央廣播電臺",
-     "url": "https://www.rti.org.tw/news?uid=3&pid=1050641",
-     "published_at": "2026-11-10T17:19:00+08:00"
-    },
-    {
-     "outlet": "Anue鉅亨",
-     "url": "https://news.cnyes.com/news/id/6656699",
-     "published_at": "2026-11-10T06:15:00+08:00"
-    }
-   ],
-   "image": "https://more-news.tw/more-news-media/2026/11/IMG_7329.jpeg"
   },
   {
    "id": "20261110-ruifang-oldstreet-facade",
@@ -116,6 +162,26 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/10/35504322.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600"
+  },
+  {
+   "id": "20261110-matsu-tianwo-oldstreet",
+   "title": "西莒田沃老街推走讀、手作與在地美食活動，邀旅客吃遍島嶼好滋味",
+   "summary": "台灣新聞雲報導，連江縣西莒田沃老街推出走讀、手作與美食體驗，邀請民眾認識島上風味。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-10T16:35:00+08:00",
+   "cities": [
+    "連江縣"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "台灣新聞雲",
+     "url": "https://886.news/archives/372827",
+     "published_at": "2026-11-10T16:35:00+08:00"
+    }
+   ],
+   "image": "https://i0.wp.com/886.news/wp-content/uploads/2026/11/1794299648315-1.jpg"
   },
   {
    "id": "20261110-yunlin-huwei-dounan-award",
@@ -183,6 +249,76 @@
    "image": "https://ni.yam.com/20261110/b5dd7b6a42309b6-85d1d93da675336c.webp"
   },
   {
+   "id": "20261109-yizhong-illegal-shop",
+   "title": "台中一中商圈黃金角店被指為違建，都發局說明查報與拆除進度",
+   "summary": "一中商圈太平路黃金三角窗店面被爆為30多年既存違建，台中市都發局表示未申請執照部分已交區公所查報，拆除時程難預測。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-10T09:30:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    {
+     "name": "一中街商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "好房網News",
+     "url": "https://news.housefun.com.tw/news/article/amp/170107490902.html",
+     "published_at": "2026-11-10T09:30:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7325/9867344",
+     "published_at": "2026-11-09T17:53:00+08:00"
+    },
+    {
+     "outlet": "udn房地產",
+     "url": "https://house.udn.com/house/story/123590/9867344",
+     "published_at": "2026-11-09T17:53:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35500653.jpg&M=1&s=Y&x=1&y=409&sw=1107&sh=738&exp=3600"
+  },
+  {
+   "id": "20261109-kaohsiung-bts-coupon",
+   "title": "高雄市府為BTS演唱會歌迷推出50元優惠券，可於商圈與特色店家使用",
+   "summary": "高雄市府推出優惠券，歌迷憑指定演唱會門票可兌換，供在高雄商圈及特色店家消費。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-09T20:37:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "Yahoo奇摩新聞",
+     "url": "https://tw.news.yahoo.com/%E8%BF%8E-%E7%B2%89%E7%B5%B2-%E9%AB%98%E5%B8%82%E6%8E%A8%E5%95%86%E5%9C%88%E5%A4%9C%E5%B8%82%E5%84%AA%E6%83%A0-123709154.html",
+     "published_at": "2026-11-09T20:37:00+08:00"
+    },
+    {
+     "outlet": "樂聯網",
+     "url": "https://leho.com.tw/archives/422802",
+     "published_at": "2026-11-09T11:56:00+08:00"
+    },
+    {
+     "outlet": "高雄市政府經濟發展局",
+     "url": "https://edbkcg.kcg.gov.tw/News_Content.aspx?n=FA86438944BB37E5&sms=4773608F226124D4&s=7C224305814F46AB",
+     "published_at": "2026-11-09T00:00:00+08:00"
+    },
+    {
+     "outlet": "華視新聞網",
+     "url": "https://news.cts.com.tw/cts/life/202611/202611093098880.html",
+     "published_at": "2026-11-08T00:00:00+08:00"
+    }
+   ],
+   "image": "https://media.zenfs.com/ko/cdns.com.tw/bff0afdc2280143a398e57ce63769b2b.jpg"
+  },
+  {
    "id": "20261109-shuishang-xiancao",
    "title": "水上商圈協會辦仙草料理競賽，結合特產帶動商圈經濟",
    "summary": "嘉義縣水上商圈文化觀光發展協會舉辦第三屆全國盃水上仙草料理生活美學創意競賽，以特產紅骨仙草串聯產業與商圈。",
@@ -206,36 +342,6 @@
     }
    ],
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/09/5634880_1_1.jpg"
-  },
-  {
-   "id": "20261109-yizhong-illegal-shop",
-   "title": "台中一中商圈黃金角店被指為違建，都發局說明查報與拆除進度",
-   "summary": "一中商圈太平路黃金三角窗店面被爆為30多年既存違建，台中市都發局表示未申請執照部分已交區公所查報，拆除時程難預測。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-11-09T17:53:00+08:00",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    {
-     "name": "一中街商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7325/9867344",
-     "published_at": "2026-11-09T17:53:00+08:00"
-    },
-    {
-     "outlet": "udn房地產",
-     "url": "https://house.udn.com/house/story/123590/9867344",
-     "published_at": "2026-11-09T17:53:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35500653.jpg&M=1&s=Y&x=1&y=409&sw=1107&sh=738&exp=3600"
   },
   {
    "id": "20261103-xiluo-art-fair",
@@ -400,31 +506,6 @@
     }
    ],
    "image": "https://ni.yam.com/20261109/20261109-619513d93ed8a62a.webp"
-  },
-  {
-   "id": "20261109-kaohsiung-bts-coupon",
-   "title": "高雄市府為BTS演唱會歌迷推出50元優惠券，可於商圈與特色店家使用",
-   "summary": "高雄市府推出優惠券，歌迷憑指定演唱會門票可兌換，供在高雄商圈及特色店家消費。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-09T11:56:00+08:00",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "樂聯網",
-     "url": "https://leho.com.tw/archives/422802",
-     "published_at": "2026-11-09T11:56:00+08:00"
-    },
-    {
-     "outlet": "華視新聞網",
-     "url": "https://news.cts.com.tw/cts/life/202611/202611093098880.html",
-     "published_at": "2026-11-08T00:00:00+08:00"
-    }
-   ],
-   "image": "https://ssno1.net/images/newsimg/small/20261109115616.jpg"
   },
   {
    "id": "20261107-yizhong-illegal-shop",

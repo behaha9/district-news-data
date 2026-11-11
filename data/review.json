@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-11T07:18:25+08:00",
+ "updated_at": "2026-11-11T12:23:52+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -56,6 +56,11 @@
    "decision": "kept",
    "item": "20261028-taichung-wudiaoquan-districts",
    "at": "2026-11-05"
+  },
+  "https://hoomedia.com.tw/2026/11/08/179659/": {
+   "decision": "kept",
+   "item": "20261108-taipei-influencer-fest",
+   "at": "2026-11-11"
   },
   "https://house.udn.com/house/story/123590/9862676": {
    "decision": "hidden",
@@ -402,6 +407,11 @@
    "reason": "選舉",
    "at": "2026-11-06"
   },
+  "https://pronews.tw/2026/11/09/330178/": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-11"
+  },
   "https://storystudio.tw/article/gushi/the-story-of-nanfang-ao": {
    "decision": "hidden",
    "reason": "業配遊記",
@@ -582,10 +592,20 @@
    "item": "20261103-chiayi-county-shopping",
    "at": "2026-11-06"
   },
+  "https://www.contentplatform.info/articles/566791/%E8%94%A3%E8%90%AC%E5%AE%89%E5%87%BA%E5%B8%AD%E6%9D%B1%E5%8D%80%E5%91%A8%E5%B9%B4%E6%85%B6%E5%95%9F%E5%8B%95-%E6%89%BF%E8%AB%BE%E5%95%86%E5%9C%88%E5%BB%BA%E8%A8%AD%E7%B6%93%E8%B2%BB%E5%8F%AA%E5%A2%9E/": {
+   "decision": "kept",
+   "item": "20261106-dongqu-anniv",
+   "at": "2026-11-11"
+  },
   "https://www.contentplatform.info/articles/567777/%E6%B7%B1%E8%80%95%E5%8F%B0%E5%8C%97%E8%90%AC%E8%8F%AF%E8%89%8B%E8%88%BA%E6%AD%B7%E5%8F%B2%E6%9C%8D%E9%A3%BE%E5%95%86%E5%9C%88%EF%BC%81%E7%9B%9B%E6%98%8C%E5%85%A7%E8%A1%A3%E8%A1%8C%E4%BB%A5%E5%A4%9A/": {
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-08"
+  },
+  "https://www.contentplatform.info/articles/568033/%E5%9C%B0%E9%9D%A2%E4%B9%9F%E6%9C%83%E4%BA%AE%E7%B4%85%E7%87%88%E3%80%80%E4%B8%AD%E5%B8%827%E6%9C%9F%E5%95%86%E5%9C%88%E8%B7%AF%E5%8F%A3%E8%A8%AD%E6%99%BA%E6%85%A7%E8%A1%8C%E4%BA%BA%E5%AE%89%E5%85%A8/": {
+   "decision": "kept",
+   "item": "20261107-taichung-7th-warning",
+   "at": "2026-11-11"
   },
   "https://www.ctee.com.tw/news/20261103700028-430805": {
    "decision": "hidden",
@@ -641,6 +661,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-10"
+  },
+  "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=5E9C939DC9E7D3B5": {
+   "decision": "kept",
+   "item": "20261106-dongqu-anniv",
+   "at": "2026-11-11"
   },
   "https://www.hsnews.com.tw/political-news/dai-yu-wen-ti-zai-zao-jin-san-jiao-ji-hua-yu-zheng-shi-shang-quan-zhuan-xing-wen-ti.html": {
    "decision": "hidden",
@@ -797,6 +822,11 @@
    "reason": "選舉",
    "at": "2026-11-06"
   },
+  "https://www.scooptw.com/cnews/551856/%e6%9d%b1%e5%8d%80%e9%80%b1%e5%b9%b4%e6%85%b6%e7%9b%9b%e5%a4%a7%e9%96%8b%e8%b7%91%e3%80%80%e6%b0%b8%e6%85%b6%e6%88%bf%e7%94%a2%e9%9b%86%e5%9c%98%e5%8a%9b%e6%8c%ba%e5%95%86%e5%9c%88%e6%8c%af%e8%88%88/": {
+   "decision": "kept",
+   "item": "20261106-dongqu-anniv",
+   "at": "2026-11-11"
+  },
   "https://www.scooptw.com/taiwanpost/551064/%E5%95%86%E5%9C%88%E6%A3%8B%E7%89%8C%E7%A4%BE%E6%9A%97%E7%87%9F%E9%BA%BB%E5%B0%87%E8%B3%AD%E5%A0%B4-%E8%90%AC%E8%8F%AF%E8%AD%A6%E7%B2%BE%E6%BA%96%E4%BD%88%E7%BD%B2%E4%B8%80%E7%B6%B2%E6%89%93/": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -851,6 +881,11 @@
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-06"
+  },
+  "https://www.tcpttw.com/other/other_local/2026/11/09/328487/": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-11"
   },
   "https://www.tristarnews.com.tw/news_ii.html?ID=39000": {
    "decision": "hidden",
