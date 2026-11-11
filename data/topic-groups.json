@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-11T16:55:00+08:00",
+  "updated_at": "2026-11-11T21:05:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -312,7 +312,11 @@
           "urls": [
             "https://udn.com/news/story/7326/9871662?from=udn-ch1_breaknews-1-99-news",
             "https://www.chinatimes.com/realtimenews/20261111002774-260405",
-            "https://n.yam.com/Article/20261111746523"
+            "https://n.yam.com/Article/20261111746523",
+            "https://news.ltn.com.tw/news/life/breakingnews/5637183",
+            "https://news.cts.com.tw/cts/life/202611/202611113099843.html",
+            "https://www.cna.com.tw/news/ahel/202611110163.aspx",
+            "https://newsdaily.tw/news/wuqtpu3u7er"
           ]
         },
         {
