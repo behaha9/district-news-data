@@ -1,43 +1,27 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T16:50:33+08:00",
+ "generated_at": "2026-11-11T20:52:54+08:00",
  "items": [
-  {
-   "id": "20261111-taoyuan-three-districts-merit",
-   "title": "桃園3大商圈獲經濟部商業署肯定，經發局將持續投入振興與轉型資源",
-   "summary": "桃園電子報報導，商業署長頒發感謝狀肯定各縣市府推動商圈發展，桃園市府由經發局長出席領取，經發局表示將持續投入資源。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-11T10:41:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [
-    {
-     "name": "魅力金三角商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "魅力金三角商圈為115年補助名單，獲中央肯定，可作為商圈發展成果與後續執行參考。",
-   "sources": [
-    {
-     "outlet": "桃園電子報",
-     "url": "https://tyenews.com/2026/11/1428580/",
-     "published_at": "2026-11-11T10:41:00+08:00"
-    }
-   ],
-   "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2026/11/s__357605385_0_result.webp"
-  },
   {
    "id": "20261110-moea-excellent-district-award",
    "title": "全國卓越商圈獎頒獎，經濟部宣布明年起每年加碼25.5億輔導商圈",
    "summary": "經濟部長在全國卓越商圈獎頒獎典禮表揚20個商圈，並宣布116年起每年再加碼投入25.5億元支持商圈發展。",
    "category": "營運與政策",
    "alert": null,
-   "published_at": "2026-11-11T10:09:00+08:00",
+   "published_at": "2026-11-11T20:10:00+08:00",
    "cities": [],
    "districts": [],
    "sources": [
+    {
+     "outlet": "17news民生好報",
+     "url": "https://17news.net/archives/345622",
+     "published_at": "2026-11-11T20:10:00+08:00"
+    },
+    {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/766052/",
+     "published_at": "2026-11-11T19:58:00+08:00"
+    },
     {
      "outlet": "經濟日報",
      "url": "https://money.udn.com/money/story/11799/9870234",
@@ -64,6 +48,11 @@
      "published_at": "2026-11-10T17:55:00+08:00"
     },
     {
+     "outlet": "經濟部",
+     "url": "https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124528",
+     "published_at": "2026-11-10T17:20:00+08:00"
+    },
+    {
      "outlet": "中央廣播電臺",
      "url": "https://www.rti.org.tw/news?uid=3&pid=1050641",
      "published_at": "2026-11-10T17:19:00+08:00"
@@ -74,7 +63,7 @@
      "published_at": "2026-11-10T06:15:00+08:00"
     }
    ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/10/35504759.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=1050&exp=3600"
+   "image": "https://17news.net/wp-content/uploads/2026/11/25e56216b327c43.webp"
   },
   {
    "id": "20261110-kaohsiung-xmas-fest",
@@ -82,7 +71,7 @@
    "summary": "高雄市經發局公布聖誕生活節13日起在中央公園舉辦，連5個週末推主題市集、音樂演出與燈飾，並串聯商圈帶動歲末消費。",
    "category": "活動與街區",
    "alert": null,
-   "published_at": "2026-11-10T21:41:00+08:00",
+   "published_at": "2026-11-11T18:00:00+08:00",
    "cities": [
     "高雄市"
    ],
@@ -94,6 +83,11 @@
    ],
    "admin_note": "中央公園商圈為115年補助名單，市府聖誕活動串聯商圈，可留意與商圈自辦活動的銜接。",
    "sources": [
+    {
+     "outlet": "僑新聞",
+     "url": "https://ocacnews.net/article/433828",
+     "published_at": "2026-11-11T18:00:00+08:00"
+    },
     {
      "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261110673921",
@@ -135,7 +129,78 @@
      "published_at": "2026-11-10T00:00:00+08:00"
     }
    ],
-   "image": "https://ni.yam.com/20261110/1379510-1500x962-d5e5fbeae7ec17d2.webp"
+   "image": "https://ocacnews.net/storage/articleImages/20261110/M2_cmYP5XkcWKLRgQKn3T71lad5AcFpXkX6SIMa6aT3.jpg"
+  },
+  {
+   "id": "20261111-taoyuan-three-districts-merit",
+   "title": "桃園3大商圈獲經濟部商業署肯定，經發局將持續投入振興與轉型資源",
+   "summary": "桃園電子報報導，商業署長頒發感謝狀肯定各縣市府推動商圈發展，桃園市府由經發局長出席領取，經發局表示將持續投入資源。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-11T17:19:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [
+    {
+     "name": "魅力金三角商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "魅力金三角商圈為115年補助名單，獲中央肯定，可作為商圈發展成果與後續執行參考。",
+   "sources": [
+    {
+     "outlet": "臺灣導報",
+     "url": "https://taiwanreports.com/archives/1025433",
+     "published_at": "2026-11-11T17:19:00+08:00"
+    },
+    {
+     "outlet": "台灣好新聞",
+     "url": "https://www.taiwanhot.net/news/1153738/%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E9%96%83%E8%80%80%E5%85%A8%E5%9C%8B+%E6%A6%AE%E5%A5%AA%E7%B6%93%E6%BF%9F%E9%83%A8%E3%80%8C2026%E5%85%A8%E5%9C%8B%E5%8D%93%E8%B6%8A%E5%95%86%E5%9C%88%E7%8D%8E%E3%80%8D%E4%B8%89%E7%8D%8E%E9%A0%85",
+     "published_at": "2026-11-11T13:25:00+08:00"
+    },
+    {
+     "outlet": "桃園電子報",
+     "url": "https://tyenews.com/2026/11/1428580/",
+     "published_at": "2026-11-11T10:41:00+08:00"
+    },
+    {
+     "outlet": "商傳媒",
+     "url": "https://sunmedia.tw/news/collaborative/bmSlYsvnt9ZoK2uvI0VjRm19SNNTsIK86gdKNKfTQlvbN2GykL2L67tw6yey2nuwQ5Wjxs8eEe9BG5qrB",
+     "published_at": "2026-11-11T10:41:00+08:00"
+    },
+    {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/765408/",
+     "published_at": "2026-11-11T00:00:00+08:00"
+    },
+    {
+     "outlet": "桃園市政府經濟發展局",
+     "url": "https://edb.tycg.gov.tw/News_Content.aspx?n=3749&s=1969810",
+     "published_at": "2026-11-11T00:00:00+08:00"
+    }
+   ],
+   "image": "https://www.taiwanhot.net/cache/1317866/lg/medias-20261111-6af3f655c684a.jpeg"
+  },
+  {
+   "id": "20261111-taipei-south-vitality",
+   "title": "臺北市推動南區活力計畫，整合公館地區商圈與文化資源",
+   "summary": "市府11日在公館地區推動南區活力計畫，整合商圈與文化資源。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-11T14:17:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261111820984",
+     "published_at": "2026-11-11T14:17:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261111/taipei-75F98D82D332A353-1-70ba79ad106b2c44.webp"
   },
   {
    "id": "20261110-ruifang-oldstreet-facade",
@@ -1343,6 +1408,30 @@
     }
    ],
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/04/5628919_2_1.jpg"
+  },
+  {
+   "id": "20261104-dongqu-vacancy",
+   "title": "大巨蛋帶動東區商機，報導指東區空店率降至8.85%",
+   "summary": "好房網報導，大巨蛋串聯東區帶動商機，東區商圈空店率降至8.85%。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-04T00:00:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "東區商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "好房網News",
+     "url": "https://news.housefun.com.tw/news/article/189863490667.html",
+     "published_at": "2026-11-04T00:00:00+08:00"
+    }
+   ]
   },
   {
    "id": "20261103-taoyuan-tianguang-shopping",

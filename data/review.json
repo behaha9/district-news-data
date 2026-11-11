@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-11T16:50:33+08:00",
+ "updated_at": "2026-11-11T20:52:54+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -342,6 +342,11 @@
    "reason": "選舉",
    "at": "2026-11-06"
   },
+  "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5637527": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-11"
+  },
   "https://news.ltn.com.tw/news/Taipei/paper/1777571": {
    "decision": "hidden",
    "reason": "選舉",
@@ -506,6 +511,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-06"
+  },
+  "https://udn.com/news/story/124652/9872283": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-11"
   },
   "https://udn.com/news/story/6898/9854836": {
    "decision": "hidden",
