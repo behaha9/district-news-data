@@ -1,40 +1,78 @@
 {
- "fetched_at": "2026-11-12T07:17:00+08:00",
- "generated_at": "2026-11-12T07:16:59+08:00",
+ "fetched_at": "2026-11-12T10:19:46+08:00",
+ "generated_at": "2026-11-12T10:19:45+08:00",
  "window": "7d",
- "event_count": 93,
- "article_count": 171,
+ "event_count": 94,
+ "article_count": 176,
  "items": [
+  {
+   "url": "https://www.chinatimes.com/newspapers/20261112000579-260204",
+   "title": "玉秀雙語國小串聯商圈 打造教育共榮新模式",
+   "source": "中時新聞網",
+   "published_at": "2026-11-12T04:10:00+08:00",
+   "event_key": "art:35587fd0d2901fafcbe1909caf05f0662901678c90b2fa2b31a05bcb0a3f5818",
+   "primary": true
+  },
+  {
+   "url": "https://www.ettoday.net/news/20261112/3270531.htm",
+   "title": "蔣萬安、沈伯洋今起請假衝了 蔣直搗公館商圈、沈中正紀念堂發順報",
+   "source": "ETtoday新聞雲",
+   "published_at": "2026-11-12T00:00:00+08:00",
+   "event_key": "art:d4e6c055468c2da47c191082302445c96c6f51fd03fccdfafcaa90568a6dcfac",
+   "primary": true,
+   "summary": "九合一選舉倒數16天,台北市長蔣萬安、民進黨台北市長候選人沈伯洋都在今(12日)請假,正式進入選戰最後衝刺。蔣萬安一早將從木柵市場拜票展開行程,隨後連趕多個活動,更將在晚間直搗洋流颳起旋風的公館商圈夜市。而沈伯洋也是行程排滿滿,一早將在非常具有象徵意義的中正紀念堂捷運站發送第三期順報,更將召開「台北隊」擴大會議,討論選",
+   "date_only": true
+  },
+  {
+   "url": "https://today.line.me/tw/v3/article/LXeVleG",
+   "title": "合體蕭美琴訪石碇、深坑 蘇巧慧:當選後商圈補助增加3倍 | 自由電子報",
+   "source": "LINE TODAY",
+   "published_at": "2026-11-11T20:57:00+08:00",
+   "event_key": "art:ade6458740d0d0002f15000944d469992b9fbfc02820bb09a7d2a46178da6e45",
+   "primary": true
+  },
   {
    "url": "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5637527",
    "title": "合體蕭美琴訪石碇、深坑 蘇巧慧:當選後商圈補助增加3倍",
    "source": "自由時報・地方",
    "published_at": "2026-11-11T20:26:37+08:00",
-   "event_key": "archive:6268b113ef6b9673",
-   "primary": true
+   "event_key": "art:ade6458740d0d0002f15000944d469992b9fbfc02820bb09a7d2a46178da6e45",
+   "primary": false
   },
   {
    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5637527",
    "title": "合體蕭美琴訪石碇、深坑 蘇巧慧:當選後商圈補助增加3倍",
    "source": "自由時報",
    "published_at": "2026-11-11T20:26:00+08:00",
-   "event_key": "archive:6268b113ef6b9673",
+   "event_key": "art:ade6458740d0d0002f15000944d469992b9fbfc02820bb09a7d2a46178da6e45",
    "primary": false
+  },
+  {
+   "url": "https://money.udn.com/money/story/5635/9872588",
+   "title": "2026全國卓越商圈獎展現臺灣商圈魅力 20處特色商圈脫穎而出",
+   "source": "經濟日報",
+   "published_at": "2026-11-11T20:04:00+08:00",
+   "event_key": "art:9f6ba4a4c66991a216e10ea75eab6578eff2243fc0907b40234e73ffa0d4c9c9",
+   "primary": true,
+   "summary": "經濟部商業發展署10日凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。 商業署表示,每一處商圈都有屬於自己的故事,無論是歷史文化的傳承、",
+   "date_only": true
   },
   {
    "url": "https://n.yam.com/Article/20261111501936",
    "title": "2026全國卓越商圈獎頒獎!20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
    "source": "蕃新聞",
    "published_at": "2026-11-11T20:00:00+08:00",
-   "event_key": "archive:8a497334b29969c2",
-   "primary": true
+   "event_key": "art:9f6ba4a4c66991a216e10ea75eab6578eff2243fc0907b40234e73ffa0d4c9c9",
+   "primary": false,
+   "summary": "經濟部商業發展署10日凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。 商業署表示,每一處商圈都有屬於自己的故事,無論是歷史文化的傳承、",
+   "date_only": true
   },
   {
    "url": "https://focus.586.com.tw/2026/11/11/p411239/",
    "title": "展現臺灣在地生命力!2026全國卓越商圈獎揭曉 20處標竿典範勝出",
    "source": "焦點時報",
    "published_at": "2026-11-11T19:38:00+08:00",
-   "event_key": "archive:dcf68efbfeed2f12",
+   "event_key": "art:e82c652d5a88e766e9a94112826495d68d6dc7aa9b46fcbd6029499f333bc380",
    "primary": true
   },
   {
@@ -46,11 +84,21 @@
    "primary": true
   },
   {
+   "url": "https://udn.com/news/story/124652/9872283",
+   "title": "影/鄭朝方遭爆上班搭公務車赴西門町飯店商圈 跨黨派轟濫用公帑",
+   "source": "聯合新聞網",
+   "published_at": "2026-11-11T17:07:00+08:00",
+   "event_key": "art:934483caa3dc6f67e049dde714574d13355e61cd392cf0ac2a531ff476a93480",
+   "primary": true,
+   "summary": "「還我乾淨竹縣聯盟」今舉行記者會,質疑民進黨新竹縣長候選人、竹北市長鄭朝方2023年上班時間搭公務車前往台北西門町飯店商圈,涉嫌公私不分、濫用行政資源,要求公開當天行程、行車紀錄及隨行人員派勤依據,釐清是否符合公務用途。鄭團隊、竹北市公所表示「無回應。」 ...",
+   "date_only": true
+  },
+  {
    "url": "https://video.udn.com/news/1331984",
    "title": "影/鄭朝方遭爆上班搭公務車赴西門町飯店商圈跨黨派轟濫用公帑| 時事",
    "source": "聯合影音",
    "published_at": "2026-11-11T17:07:00+08:00",
-   "event_key": "archive:c7b7c0caae17bf1b",
+   "event_key": "art:934483caa3dc6f67e049dde714574d13355e61cd392cf0ac2a531ff476a93480",
    "primary": false,
    "summary": "「還我乾淨竹縣聯盟」今舉行記者會,質疑民進黨新竹縣長候選人、竹北市長鄭朝方2023年上班時間搭公務車前往台北西門町飯店商圈,涉嫌公私不分、濫用行政資源,要求公開當天行程、行車紀錄及隨行人員派勤依據,釐清是否符合公務用途。鄭團隊、竹北市公所表示「無回應。」 ...",
    "date_only": true
@@ -60,7 +108,7 @@
    "title": "蔣萬安市長推動南區活力計畫 整合商圈與文化資源",
    "source": "蕃新聞",
    "published_at": "2026-11-11T14:17:00+08:00",
-   "event_key": "archive:a5de008a930e251",
+   "event_key": "art:53923acff6f9ad48adc65f5e69c997a6a7ff825237a217f40e7fc2f93daf7548",
    "primary": true
   },
   {
@@ -76,7 +124,7 @@
    "title": "展現臺灣在地生命力!2026全國卓越商圈獎揭曉 20處標竿典範勝出",
    "source": "more-news",
    "published_at": "2026-11-11T11:59:00+08:00",
-   "event_key": "archive:dcf68efbfeed2f12",
+   "event_key": "art:e82c652d5a88e766e9a94112826495d68d6dc7aa9b46fcbd6029499f333bc380",
    "primary": false
   },
   {
@@ -106,11 +154,8 @@
    "title": "2026高雄聖誕生活節11/13浪漫登場五週末「耶誕小鎮」接力開逛9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
    "source": "蕃新聞",
    "published_at": "2026-11-11T10:34:00+08:00",
-   "event_key": "art:2bb0b79be3e824ef32594fb9a79ffbb1e028544ee87315abee3d614f718ee7d7",
-   "primary": true,
-   "cities": [
-    "高雄市"
-   ]
+   "event_key": "archive:cde61209219d8897",
+   "primary": true
   },
   {
    "url": "https://money.udn.com/money/story/11799/9870234",
@@ -125,9 +170,9 @@
    "title": "2026全國卓越商圈獎揭曉 20處特色商圈脫穎而出",
    "source": "商傳媒",
    "published_at": "2026-11-11T06:09:00+08:00",
-   "event_key": "archive:b17e6aa473d4523c",
-   "primary": true,
-   "summary": "經濟部商業發展署10日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎。今年自地方政府推薦的36個商圈中,評選出20處卓越商圈,透過表揚樹立標竿典範,鼓勵各地商圈交流學習,充分展現臺灣街區的多元特色與生命力。 經濟部龔明鑫部長出席 2026全國卓越商圈獎 頒獎典禮,肯定全臺商圈持續深耕地方",
+   "event_key": "art:9f6ba4a4c66991a216e10ea75eab6578eff2243fc0907b40234e73ffa0d4c9c9",
+   "primary": false,
+   "summary": "經濟部商業發展署10日凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。 商業署表示,每一處商圈都有屬於自己的故事,無論是歷史文化的傳承、",
    "date_only": true
   },
   {
@@ -142,16 +187,6 @@
    ]
   },
   {
-   "url": "https://udn.com/news/story/124652/9872283",
-   "title": "影/鄭朝方遭爆上班搭公務車赴西門町飯店商圈 跨黨派轟濫用公帑",
-   "source": "聯合新聞網",
-   "published_at": "2026-11-11T03:08:00+08:00",
-   "event_key": "archive:c7b7c0caae17bf1b",
-   "primary": true,
-   "summary": "「還我乾淨竹縣聯盟」今舉行記者會,質疑民進黨新竹縣長候選人、竹北市長鄭朝方2023年上班時間搭公務車前往台北西門町飯店商圈,涉嫌公私不分、濫用行政資源,要求公開當天行程、行車紀錄及隨行人員派勤依據,釐清是否符合公務用途。鄭團隊、竹北市公所表示「無回應。」 ...",
-   "date_only": true
-  },
-  {
    "url": "https://more-news.tw/765408/",
    "title": "桃園3大商圈獲中央肯定 經發局:持續投入振興與轉型資源",
    "source": "more-news",
@@ -161,14 +196,6 @@
    "cities": [
     "桃園市"
    ]
-  },
-  {
-   "url": "https://more-news.tw/765073/",
-   "title": "2026全國卓越商圈獎揭曉!20處商圈獲獎 展現臺灣在地特色與商業活力",
-   "source": "墨新聞-MORE News",
-   "published_at": "2026-11-10T20:55:00+08:00",
-   "event_key": "art:0b0562ef73bee3ad409cdf6142a3f37e4498ed8bfcd7c9681a60365542f48f0b",
-   "primary": true
   },
   {
    "url": "https://news.cnyes.com/news/id/6656699",
@@ -242,7 +269,7 @@
    "title": "「2026全國卓越商圈獎」20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
    "source": "經濟部",
    "published_at": "2026-11-10T17:20:00+08:00",
-   "event_key": "archive:96752e0512f4df8",
+   "event_key": "art:ef7fdb2d6d8435ae959c2c40cf2dbe614aa7fe0ac3f607062fa227bed027c621",
    "primary": true
   },
   {
@@ -252,6 +279,20 @@
    "published_at": "2026-11-10T17:19:00+08:00",
    "event_key": "art:fffcd8ea60da3aae794052fbad88ce55c0522fa1aa29be3b503974e523ba2564",
    "primary": true
+  },
+  {
+   "url": "https://enn.tw/805292/",
+   "title": "拾光補帖登場 臺中港舶來品商圈白露茶席融入漢方食補邀民眾品味!",
+   "source": "ENN台灣電報",
+   "published_at": "2026-11-10T16:59:00+08:00",
+   "event_key": "art:734c5d22fd8157a4c1159554ede93aba38497a832711596d5a6f6273c7a05361",
+   "primary": true,
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    "台中港舶來品商圈"
+   ]
   },
   {
    "url": "https://www.fbs168.com/news/11311-kaohsiung-ji-20-urban-renewal-breaks-ground-1741-homes",
@@ -296,8 +337,14 @@
    "title": "拾光補帖登場 臺中港舶來品商圈白露茶席融入漢方食補邀民眾品味!",
    "source": "蕃新聞",
    "published_at": "2026-11-10T15:06:00+08:00",
-   "event_key": "archive:c3049f991a640327",
-   "primary": true
+   "event_key": "art:734c5d22fd8157a4c1159554ede93aba38497a832711596d5a6f6273c7a05361",
+   "primary": false,
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    "台中港舶來品商圈"
+   ]
   },
   {
    "url": "https://www.chinatimes.com/realtimenews/20261110000009-260409",
@@ -306,6 +353,16 @@
    "published_at": "2026-11-10T13:00:00+08:00",
    "event_key": "art:152251e1f884015f3827253ff7fb1fed5d3dd9ba47a278a4185114d5140c93e1",
    "primary": true
+  },
+  {
+   "url": "https://more-news.tw/765073/",
+   "title": "2026全國卓越商圈獎揭曉!20處商圈獲獎 展現臺灣在地特色與商業活力",
+   "source": "more-news",
+   "published_at": "2026-11-10T12:55:00+08:00",
+   "event_key": "art:0b0562ef73bee3ad409cdf6142a3f37e4498ed8bfcd7c9681a60365542f48f0b",
+   "primary": true,
+   "summary": "經濟部商業發展署今(10)日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。 商業署表示,每一處商圈都有屬於自己的故事,無論是歷史文化",
+   "date_only": true
   },
   {
    "url": "https://udn.com/news/story/7327/9868803",
@@ -395,7 +452,9 @@
    "source": "天天上新聞",
    "published_at": "2026-11-10T00:00:00+08:00",
    "event_key": "art:0b0562ef73bee3ad409cdf6142a3f37e4498ed8bfcd7c9681a60365542f48f0b",
-   "primary": false
+   "primary": false,
+   "summary": "經濟部商業發展署今(10)日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。 商業署表示,每一處商圈都有屬於自己的故事,無論是歷史文化",
+   "date_only": true
   },
   {
    "url": "https://n.yam.com/Article/20261110673921",
@@ -464,9 +523,9 @@
    "date_only": true
   },
   {
-   "url": "https://house.udn.com/house/story/123590/9867344",
-   "title": "占用騎樓遭限期拆除!一中商圈黃金店面爆整棟違建台中都發局發聲了| 區域觀測站",
-   "source": "udn房地產",
+   "url": "https://udn.com/news/amp/story/7325/9867344",
+   "title": "占用騎樓遭限期拆除!一中商圈黃金店面爆整棟違建 台中都發局發聲了",
+   "source": "UDN",
    "published_at": "2026-11-09T17:53:00+08:00",
    "event_key": "art:55cc0992bafe26ecb3df34b113916d03af068f2a27b7505e0298d0a7f8fad5fb",
    "primary": false,
@@ -480,9 +539,9 @@
    "date_only": true
   },
   {
-   "url": "https://udn.com/news/amp/story/7325/9867344",
-   "title": "占用騎樓遭限期拆除!一中商圈黃金店面爆整棟違建 台中都發局發聲了",
-   "source": "UDN",
+   "url": "https://house.udn.com/house/story/123590/9867344",
+   "title": "占用騎樓遭限期拆除!一中商圈黃金店面爆整棟違建台中都發局發聲了| 區域觀測站",
+   "source": "udn房地產",
    "published_at": "2026-11-09T17:53:00+08:00",
    "event_key": "art:55cc0992bafe26ecb3df34b113916d03af068f2a27b7505e0298d0a7f8fad5fb",
    "primary": false,
@@ -530,7 +589,7 @@
    "title": "不只黃仁勳!中共美人計鎖定美日政商圈 安倍反遇「美男」陷阱",
    "source": "太報 TaiSounds",
    "published_at": "2026-11-09T13:39:00+08:00",
-   "event_key": "art:afe8ce0a0a0b913b6e86d3752616755a541763472ff34a27e1c900a76550745d",
+   "event_key": "archive:705309ee8869e03e",
    "primary": true
   },
   {
@@ -570,7 +629,27 @@
    "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
    "source": "記者爆料網",
    "published_at": "2026-11-09T06:35:00+08:00",
-   "event_key": "art:ed0994ced2cbc496fcec6d0ee67cef1855729def7d9493c5cac9c91ff2b7be77",
+   "event_key": "archive:7f5c56268761299c",
+   "primary": true,
+   "summary": "台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人疑似因停車問題發生爭執,隨後演變成肢體衝突,雙方",
+   "date_only": true
+  },
+  {
+   "url": "https://www.tcpttw.com/other/other_local/2026/11/09/328487/",
+   "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
+   "source": "tcpttw",
+   "published_at": "2026-11-09T00:00:00+08:00",
+   "event_key": "archive:7f5c56268761299c",
+   "primary": false,
+   "summary": "台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人疑似因停車問題發生爭執,隨後演變成肢體衝突,雙方",
+   "date_only": true
+  },
+  {
+   "url": "https://pronews.tw/2026/11/09/330178/",
+   "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
+   "source": "pronews",
+   "published_at": "2026-11-09T00:00:00+08:00",
+   "event_key": "archive:7f5c56268761299c",
    "primary": false,
    "summary": "台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人疑似因停車問題發生爭執,隨後演變成肢體衝突,雙方",
    "date_only": true
@@ -580,29 +659,9 @@
    "title": "竹南科通勤買房怎麼選?頭份「群悅泱漫」坐落建國國中明星商圈",
    "source": "工商時報",
    "published_at": "2026-11-09T00:00:00+08:00",
-   "event_key": "art:08fc163faeb251191e089a297e09da9da18659d39fcb0c7508af560776a06d3d",
+   "event_key": "archive:c6bdf6039cd2b58a",
    "primary": true,
    "summary": "夫妻一人在竹南科學園區上班,另一人每天北上新竹科學園區,早上還要送孩子到校,家買在哪裡比較順路?頭份預售屋「群悅泱漫」位於建國國中第一排,從基地走平面道路到台積電竹南先進封測廠,行車距離約3.5公里。往竹科上班的家人,則可從約700公尺外的國道一號頭份交流道北上。對正在頭份、竹南看房的雙薪家庭來說, ...",
-   "date_only": true
-  },
-  {
-   "url": "https://www.tcpttw.com/other/other_local/2026/11/09/328487/",
-   "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
-   "source": "tcpttw",
-   "published_at": "2026-11-09T00:00:00+08:00",
-   "event_key": "art:ed0994ced2cbc496fcec6d0ee67cef1855729def7d9493c5cac9c91ff2b7be77",
-   "primary": true,
-   "summary": "台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人疑似因停車問題發生爭執,隨後演變成肢體衝突,雙方",
-   "date_only": true
-  },
-  {
-   "url": "https://pronews.tw/2026/11/09/330178/",
-   "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
-   "source": "pronews",
-   "published_at": "2026-11-09T00:00:00+08:00",
-   "event_key": "art:ed0994ced2cbc496fcec6d0ee67cef1855729def7d9493c5cac9c91ff2b7be77",
-   "primary": false,
-   "summary": "台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人疑似因停車問題發生爭執,隨後演變成肢體衝突,雙方",
    "date_only": true
   },
   {
@@ -762,15 +821,9 @@
    "title": "一中商圈黃金店面竟是30年大違建 玩具店剛要進場恐面臨拆除",
    "source": "ETtoday新聞雲",
    "published_at": "2026-11-08T00:00:00+08:00",
-   "event_key": "art:a28a91e6a5e415a5328402dfbd43e29b72aa67c4a12fefd990bf231d17715aa6",
+   "event_key": "archive:46c00c24ca59e540",
    "primary": true,
    "summary": "▲台中一中商圈一處黃金店面,先前有眼鏡行退租,現在有玩具店要進駐。(圖/記者許權毅攝) 記者許權毅/台中報導 台中一中商圈一間3層樓三角黃金店面,近日才因為經營超過20年的眼鏡行歇業引發話題,近日有公仔盲盒店以60多萬承租,裝潢期間卻傳出遭人檢舉違法增建,都發局更查出,該棟建物是超過30年大違建,將進行專案拆除。 該棟",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    "一中街商圈"
-   ],
    "date_only": true
   },
   {
@@ -843,9 +896,9 @@
    "title": "張善政出席桃園商圈成果發表 推一商圈一特色升級",
    "source": "Yahoo奇摩新聞",
    "published_at": "2026-11-07T18:14:43+08:00",
-   "event_key": "art:4039e708655e22a07c13def95cd38ccd79bdd7068be92a69b85f66d6b9f920eb",
-   "primary": true,
-   "summary": "桃園市長張善政六日晚間出席「一一五年桃園市商圈特色亮點形塑成果發表會」。張善政表示,桃園商圈涵蓋山區、濱海及都會地帶,各具文化底蘊與產業特色,市府將持續推動「一商圈一特色」,整合經發、文化及農業等跨局處資源,協助商圈發掘在地特色、強化品牌行銷,讓桃園特色商圈走向全臺,進一步提升地方產業競爭力。",
+   "event_key": "art:614ad113da29e5842b8a337666fd258a45c546141addbfb7d18c16e4ce79baa8",
+   "primary": false,
+   "summary": "記者陳華興/桃園報導 桃園市長張善政六日晚間出席「一一五年桃園市商圈特色亮點形塑成果發表會」。張善政表示,桃園商圈涵蓋山區、濱海及都會地帶,各具文化底蘊與產業特色,市府將持續推動「一商圈一特色」,整合經發、文化及農業等跨局處資源,協助商圈發掘在地特色、強化品牌行銷,讓桃園特色商圈走向全臺,進一步提升地方產業競爭力。 張",
    "cities": [
     "桃園市"
    ],
@@ -967,7 +1020,7 @@
    "date_only": true
   },
   {
-   "url": "https://www.msn.com/zh-tw/news/other/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gXe6B",
+   "url": "https://www.msn.com/zh-tw/news/other/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gXe6B",
    "title": "有猴出沒!台中鹿寮成衣商圈 雄猴亂竄居民驚慌|#鏡新聞",
    "source": "鏡新聞",
    "published_at": "2026-11-07T10:40:42+08:00",
@@ -977,7 +1030,7 @@
    "date_only": true
   },
   {
-   "url": "https://www.msn.com/zh-tw/news/other/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gXe6B",
+   "url": "https://www.msn.com/zh-tw/news/other/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gXe6B",
    "title": "有猴出沒!台中鹿寮成衣商圈 雄猴亂竄居民驚慌|#鏡新聞",
    "source": "鏡新聞",
    "published_at": "2026-11-07T10:40:42+08:00",
@@ -1012,9 +1065,9 @@
    "title": "張善政出席桃園商圈成果發表 推一商圈一特色升級",
    "source": "中華新聞雲",
    "published_at": "2026-11-07T10:14:00+08:00",
-   "event_key": "art:4039e708655e22a07c13def95cd38ccd79bdd7068be92a69b85f66d6b9f920eb",
-   "primary": false,
-   "summary": "桃園市長張善政六日晚間出席「一一五年桃園市商圈特色亮點形塑成果發表會」。張善政表示,桃園商圈涵蓋山區、濱海及都會地帶,各具文化底蘊與產業特色,市府將持續推動「一商圈一特色」,整合經發、文化及農業等跨局處資源,協助商圈發掘在地特色、強化品牌行銷,讓桃園特色商圈走向全臺,進一步提升地方產業競爭力。",
+   "event_key": "art:614ad113da29e5842b8a337666fd258a45c546141addbfb7d18c16e4ce79baa8",
+   "primary": true,
+   "summary": "記者陳華興/桃園報導 桃園市長張善政六日晚間出席「一一五年桃園市商圈特色亮點形塑成果發表會」。張善政表示,桃園商圈涵蓋山區、濱海及都會地帶,各具文化底蘊與產業特色,市府將持續推動「一商圈一特色」,整合經發、文化及農業等跨局處資源,協助商圈發掘在地特色、強化品牌行銷,讓桃園特色商圈走向全臺,進一步提升地方產業競爭力。 張",
    "cities": [
     "桃園市"
    ],
@@ -1292,19 +1345,6 @@
    "date_only": true
   },
   {
-   "url": "https://n.yam.com/Article/20261107876344",
-   "title": "桃園市推動「一商圈一特色」策略 促進地方經濟發展",
-   "source": "蕃新聞",
-   "published_at": "2026-11-07T00:00:00+08:00",
-   "event_key": "art:d27e93d8966e729dda3547d4d8d634897c4515191f57bcd6e9ed7838f59cd819",
-   "primary": true,
-   "summary": "張市長指出,市府透過「商業轉型服務中心」協助業者優化營運模式與提升經營效率,並已輔導104家業者爭取約2,300萬元的中央補助及相關資源。此外,市府自112年起推動「舊城再生計畫」,改善人行環境及引進特色店家,活化桃園及中壢舊城區,並結合大型活動以帶動商圈發展。",
-   "cities": [
-    "桃園市"
-   ],
-   "date_only": true
-  },
-  {
    "url": "https://www.ctee.com.tw/news/20261107700241-439902",
    "title": "台北房市 天母美校商圈 公寓5字頭入手",
    "source": "工商時報",
@@ -1315,6 +1355,16 @@
    "cities": [
     "台北市"
    ],
+   "date_only": true
+  },
+  {
+   "url": "https://n.yam.com/Article/20261107876344",
+   "title": "桃園市推動「一商圈一特色」策略 促進地方經濟發展",
+   "source": "蕃新聞",
+   "published_at": "2026-11-07T00:00:00+08:00",
+   "event_key": "archive:8e111d7da554d851",
+   "primary": true,
+   "summary": "張市長指出,市府透過「商業轉型服務中心」協助業者優化營運模式與提升經營效率,並已輔導104家業者爭取約2,300萬元的中央補助及相關資源。此外,市府自112年起推動「舊城再生計畫」,改善人行環境及引進特色店家,活化桃園及中壢舊城區,並結合大型活動以帶動商圈發展。",
    "date_only": true
   },
   {
@@ -1694,32 +1744,23 @@
    "primary": false
   },
   {
-   "url": "https://money.udn.com/money/story/5720/9861439",
-   "title": "ITF 桃園館繪出老街與星空 消費即贈好禮、滿額再加碼",
-   "source": "經濟日報",
-   "published_at": "2026-11-06T00:00:00+08:00",
-   "event_key": "art:27fe77df79562bb93a2ce4c37322d691ff83f2f3d1775094fb0174c97accb7f0",
-   "primary": true,
-   "summary": "「2026台灣國際旅展」(ITF)即起日至9日在台北南港展覽館一館登場,桃園館將「2026大溪豆干旅遊節」、「大龍門古道」及「拉拉山國際暗空勝地」三大秋冬旅遊亮點融入展館設計,以繪畫風格呈現老街、古道與星空特色,並集結住宿、餐券及特色伴手禮等多項旅展限定優惠,現場消費就送實用好禮,滿額再加碼。",
-   "cities": [
-    "桃園市"
-   ],
-   "date_only": true
-  },
-  {
    "url": "https://money.udn.com/money/story/7843/9860750",
    "title": "星龍鳳玩轉新中華料理 日式飲食美學揉合經典中菜 台北永康商圈挑動饕客味蕾",
    "source": "經濟日報",
    "published_at": "2026-11-06T00:00:00+08:00",
-   "event_key": "art:cd743365109b7cca3a5a31737f32370f0808a31f72dbbd8c50c9f45b9b05c1d3",
+   "event_key": "archive:41fa10cbf2f458e8",
    "primary": true,
    "summary": "當中華料理遇上日本飲食文化,傳統菜色也能有截然不同的面貌。位於台北永康商圈的「星龍鳳」,以中華料理為創作基礎,融入日式料理對食材、風味層次與料理細節的講究,再加入西式料理的創意元素,打造出有別於傳統中菜館的新型態餐飲風格。從鐵鍋麻婆豆腐、秘製鮑魚雞汁滑蛋蝦仁天津飯以及榮獲2026年第六屆「500盤」肯定的「紅油乳酪胡麻",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    "永康商圈"
-   ],
+   "date_only": true
+  },
+  {
+   "url": "https://money.udn.com/money/story/5720/9861439",
+   "title": "ITF 桃園館繪出老街與星空 消費即贈好禮、滿額再加碼",
+   "source": "經濟日報",
+   "published_at": "2026-11-06T00:00:00+08:00",
+   "event_key": "archive:ae485ab74504720d",
+   "primary": true,
+   "summary": "「2026台灣國際旅展」(ITF)即起日至9日在台北南港展覽館一館登場,桃園館將「2026大溪豆干旅遊節」、「大龍門古道」及「拉拉山國際暗空勝地」三大秋冬旅遊亮點融入展館設計,以繪畫風格呈現老街、古道與星空特色,並集結住宿、餐券及特色伴手禮等多項旅展限定優惠,現場消費就送實用好禮,滿額再加碼。",
    "date_only": true
   }
  ]

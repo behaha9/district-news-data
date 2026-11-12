@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T07:17:16+08:00",
+ "fetched_at": "2026-11-12T10:20:02+08:00",
  "articles": {
   "https://www.fclnews.com/235170/": {
    "checked_at": "2026-11-12T07:17+08:00",
@@ -245,36 +245,6 @@
    "image_checked": true,
    "date_hint": "2026-11-08",
    "date_hint_from": "原文時間"
-  },
-  "https://www.msn.com/zh-tw/news/other/%E6%9C%80%E6%96%B0-%E8%A5%BF%E9%96%80%E7%94%BA%E6%A3%8B%E7%89%8C%E7%A4%BE%E8%97%8F%E9%BA%BB%E5%B0%87%E8%B3%AD%E5%A0%B4-%E9%96%80%E5%A4%96%E8%A3%9D8%E9%9B%BB%E7%9C%BC%E8%BA%B2%E8%AD%A6-newsebc/vi-AA2gW7AO": {
-   "checked_at": "2026-11-09T09:02+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://focusnews.com.tw/2026/11/729963/": {
-   "checked_at": "2026-11-09T09:02+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "今傳媒 JNEWS",
-   "description": "【今傳媒/記者李祖東報導】 不用出國，就能在高雄體驗道地的東南亞風情！高雄市長候選人賴瑞隆今（6）日發布短影音 […]",
-   "cities": {
-    "高雄市": 17
-   },
-   "districts": [],
-   "body_chars": 807,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
   },
   "https://www.taisounds.com/news/content/70/298263": {
    "checked_at": "2026-11-09T12:17+08:00",
@@ -9822,7 +9792,7 @@
    "date_hint_from": "原文時間"
   },
   "https://cnews.com.tw/242261110a01/": {
-   "checked_at": "2026-11-11T23:28+08:00",
+   "checked_at": "2026-11-12T10:20+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -10901,6 +10871,135 @@
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35498393.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&sl=W&fw=1200&exp=3600",
    "image_checked": true,
    "date_hint": "2026-11-09",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.housefun.com.tw/news/article/304019490959.html": {
+   "checked_at": "2026-11-12T10:20+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E6%9C%80%E6%96%B0-%E8%A5%BF%E9%96%80%E7%94%BA%E6%A3%8B%E7%89%8C%E7%A4%BE%E8%97%8F%E9%BA%BB%E5%B0%87%E8%B3%AD%E5%A0%B4-%E9%96%80%E5%A4%96%E8%A3%9D8%E9%9B%BB%E7%9C%BC%E8%BA%B2%E8%AD%A6-newsebc/vi-AA2gW7AO": {
+   "checked_at": "2026-11-12T10:20+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://woman.udn.com/woman/story/123162/9870699?from=udn-indexnewnews_ch4087": {
+   "checked_at": "2026-11-12T10:20+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T09:00+08:00",
+   "site_name": "udn 女子漾",
+   "description": "⟪全冠手工花生麥芽糖⟫\n\n傳承了60年的手藝，使用溫熱麥芽糖融入豐厚的花生粉中，經過揉糖、拉糖與切塊的傳統作法，約十分鐘的傳統手工製作過程。\n\n特色\n⒈口感香濃軟糯、微甜微鹹、完全不黏牙\n⒉成分純淨：純麥芽糖（零添加糖）、台灣花生，微量鹽提味",
+   "cities": {
+    "桃園市": 5,
+    "台北市": 3,
+    "高雄市": 2,
+    "嘉義": 2
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/11/35505280.jpg&M=1&s=Y&x=0&y=0&sw=798&sh=532&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/5635/9872588": {
+   "checked_at": "2026-11-12T10:20+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T10:04+08:00",
+   "site_name": "經濟日報",
+   "description": "經濟部商業發展署10日凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」，由經濟部龔明鑫部長親自頒獎，肯定商圈組織及在地業者長期投入的努力與成果，今年計選出20處卓越商圈，透過獎項表揚樹立標竿典範，鼓勵各地商圈相互交流學習，展現臺灣商圈豐富的特色與生命力。 商業署表示，每一處商圈都有屬於自己的故事，無論是歷史文化的傳承、",
+   "cities": {
+    "新北市": 2,
+    "彰化縣": 2,
+    "嘉義縣": 2,
+    "台北市": 1,
+    "台南市": 1
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）",
+    "縣府太子商圈（嘉義縣）",
+    "鹽水商圈（台南市）",
+    "小琉球商圈（屏東縣）"
+   ],
+   "body_chars": 1866,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/11/35508401.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=903&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.tcpttw.com/life/2026/11/11/329449/": {
+   "checked_at": "2026-11-12T10:20+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T16:19+08:00",
+   "site_name": "警政時報",
+   "description": "由臺北市松山商圈發展協會與宜蘭縣政府共同推廣的「2026新米祭」，將帶領一年一期的宜蘭嚴選米進駐微風超市，代理縣長林茂盛邀請民眾一同品嚐宜蘭優質好米。",
+   "cities": {
+    "宜蘭縣": 32,
+    "台北市": 10
+   },
+   "districts": [
+    "松山商圈（台北市）"
+   ],
+   "body_chars": 1501,
+   "image": "https://www.tcpttw.com/wp-content/uploads/2026/11/s--90931265.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.bastillepost.com/hongkong/article/17164852-%E6%B7%B1%E5%9C%B3apec%E6%9C%83%E8%AD%B0%E5%89%8D%E5%A4%95%E6%8F%9B%E6%96%B0%E8%A3%9D-%E8%A1%97%E9%81%93%E5%95%86%E5%9C%88%E8%8A%B1%E5%8D%89%E4%BD%88%E7%BD%AE%E8%BF%8E%E8%B3%93": {
+   "checked_at": "2026-11-12T10:20+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T23:52+08:00",
+   "site_name": "Bastillepost 巴士的報",
+   "description": "深圳作為這次亞太經濟合作組織第三十三次領導人非正式會議的主辦城市，已為會議作好準備。這個廣東省的科技樞紐，將市內街道、商業中心及交通樞紐，以色彩繽紛的花卉景觀及沉浸式裝置裝飾，為國際賓客營造歡迎氣氛。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1754,
+   "image": "https://image.bastillepost.com/640x/wp-content/uploads/hongkong/2026/11/screenshot_8507848_01_FB.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://focusnews.com.tw/2026/11/729963/": {
+   "checked_at": "2026-11-12T10:20+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "今傳媒 JNEWS",
+   "description": "【今傳媒/記者李祖東報導】 不用出國，就能在高雄體驗道地的東南亞風情！高雄市長候選人賴瑞隆今（6）日發布短影音 […]",
+   "cities": {
+    "高雄市": 17
+   },
+   "districts": [],
+   "body_chars": 807,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.ettoday.net/news/20261112/3270531.htm": {
+   "checked_at": "2026-11-12T10:20+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T07:00+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "九合一選舉倒數16天，台北市長蔣萬安、民進黨台北市長候選人沈伯洋都在今（12日）請假，正式進入選戰最後衝刺。蔣萬安一早將從木柵市場拜票展開行程，隨後連趕多個活動，更將在晚間直搗洋流颳起旋風的公館商圈夜市。而沈伯洋也是行程排滿滿，一早將在非常具有象徵意義的中正紀念堂捷運站發送第三期順報，更將召開「台北隊」擴大會議，討論選",
+   "cities": {
+    "台北市": 12,
+    "高雄市": 2
+   },
+   "districts": [],
+   "body_chars": 1167,
+   "image": "https://cdn2.ettoday.net/images/9011/e9011246.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
    "date_hint_from": "原文時間"
   }
  }
