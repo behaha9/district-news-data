@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T15:27:23+08:00",
+ "fetched_at": "2026-11-12T20:52:00+08:00",
  "articles": {
   "https://www.fclnews.com/235170/": {
    "checked_at": "2026-11-12T15:27+08:00",
@@ -10130,7 +10130,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.housefun.com.tw/news/article/304019490959.html": {
-   "checked_at": "2026-11-12T10:20+08:00",
+   "checked_at": "2026-11-12T20:52+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -11130,6 +11130,667 @@
    "checked_at": "2026-11-12T15:27+08:00",
    "status": "error",
    "error": "The read operation timed out"
+  },
+  "https://www.storm.mg/article/11181058": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T18:07+08:00",
+   "site_name": null,
+   "description": "從商品包裝、店面空間到商場節能，桃園商業轉型交出年度成績單！桃園市政府11月12日舉辦商業轉型服務中心暨桃金好禮好店成果發表會，公布今年累計輔導104家業者、完成5處大型商業場域深度節能診斷，並展示特色商品與店家改造成果，協助在地商業提升競爭力。數位工具助攻經營　五大場域挖掘節電潛力經發局指出，商業轉型服務中心自202",
+   "cities": {
+    "桃園市": 11
+   },
+   "districts": [],
+   "body_chars": 906,
+   "image": "https://images.storm.mg/cloud/0bde0110af71e035165aaa1c909360f28cec43ad.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2252229%2FMEeyO4vQiw9I63cumZbYw6hC1GHNjjnMGfVZkM9e.jpeg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/article/11181028": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T17:15+08:00",
+   "site_name": null,
+   "description": "桃園市政府今（12）日上午於市府一樓川堂舉辦「桃園市商業轉型服務中心暨桃金好禮好店成果發表會」。桃園市商業轉型服務中心今年已累計輔導104家業者，協助爭取約2,300萬元中央補助及輔導資源。經發局統計，今年輔導13家「桃金好禮」包裝再造與5家「桃金好店」空間優化，相關成果於「2026台灣設計展」展出18天，累計營業額突",
+   "cities": {
+    "桃園市": 16
+   },
+   "districts": [
+    "大溪形象商圈（桃園市）",
+    "拉拉山商圈（桃園市）"
+   ],
+   "body_chars": 1010,
+   "image": "https://images.storm.mg/cloud/f832563cdaf1fc2800e3678da18c03dcaf134359.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2252151%2F4PLc6vqpdApigFLIIVwBOY81kI52SCwhCgtySgMZ.jpeg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%B8%82%E5%95%86%E6%A5%AD%E8%BD%89%E5%9E%8B%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E6%9A%A8%E6%A1%83%E9%87%91%E5%A5%BD%E7%A6%AE%E5%A5%BD%E5%BA%97%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E6%9C%83-%E5%8A%A9%E5%8A%9B%E5%95%86%E5%9C%88%E8%BD%89%E5%9E%8B%E5%8D%87%E7%B4%9A-%E6%A1%83%E5%B8%82%E5%95%86%E6%A5%AD%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83show%E5%A5%BD%E7%A6%AE%E5%A5%BD%E5%BA%97%E6%88%90%E6%9E%9C-003237581.html": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T12:00+08:00",
+   "site_name": "Yahoo News",
+   "description": "因應數位科技發展、淨零轉型及市場競爭挑戰，桃園市政府持續透過「桃園市商業轉型服務中心」整合...",
+   "cities": {
+    "桃園市": 13,
+    "台北市": 5,
+    "宜蘭縣": 2,
+    "新竹縣": 2,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 3782,
+   "image": "https://media.zenfs.com/ca/vigormedia_tw_168/124843b4e77b238f6f105c86683723f4.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://ec.ltn.com.tw/article/breakingnews/5638831": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T19:02+08:00",
+   "site_name": "自由時報電子報",
+   "description": "〔記者王憶紅／台北報導〕雄獅集團旗下餐飲事業欣食旅持續擴大健康餐飲版圖，全新品牌「GIMME」今（12）日在信義商圈正式開幕，欣食旅總經理陳斯重指出，加上GIMME，欣食旅今年總計有12家，營收",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 784,
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/12/5638831_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/ChiayiCounty/breakingnews/5638912": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T19:59+08:00",
+   "site_name": "自由時報電子報",
+   "description": "鄰近嘉義市文化路夜市商圈的崇文國小地下停車場工程，今天舉行竣工典禮，明天起正式營運。市府表示，停車場為地下2層停車空間，共提供207席汽車停車位，包含無障礙、婦幼及電動車停車位各5席，後續由寶盛國際股份有限公司負責營運維護。市長黃敏惠、議長陳姿妏等人今天出席工程竣工典禮，黃敏惠期許崇文國小地下停車場兼顧民眾停車需求與學",
+   "cities": {
+    "嘉義市": 6,
+    "基隆市": 1
+   },
+   "districts": [],
+   "body_chars": 1116,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/12/5638912_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/news/%E6%9C%80%E6%96%B0-%E8%94%A3%E8%90%AC%E5%AE%89%E5%90%88%E9%AB%94%E5%BC%B5%E5%96%84%E6%94%BF%E6%8E%83%E5%BB%B6%E4%B8%89-%E7%9F%B3%E8%88%AB%E4%BA%98%E6%94%BB%E7%9F%B3%E7%89%8C%E5%95%86%E5%9C%88-newsebc/vi-AA2ha70m": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://more-news.tw/766797/": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T17:40+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "從港都老街走向AI智慧微旅｜文化走讀、數位創新與店家串聯展現基隆觀光新魅力 【基隆訊｜2026年11月11日】 […]",
+   "cities": {
+    "基隆市": 16,
+    "嘉義市": 2,
+    "台北市": 1
+   },
+   "districts": [
+    "委託行商圈（基隆市）"
+   ],
+   "body_chars": 1351,
+   "image": "https://more-news.tw/more-news-media/scope-preserved/2026_archive/1f6fc4babce30e71adda4e93e7473d2e4c1b860a693e65c9aeca8dd702f9b33a/%E9%8D%BE-%E5%85%89%E7%A1%AF_avatar-96x96.png",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7270/9874375": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T14:26+08:00",
+   "site_name": "聯合新聞網",
+   "description": "雄獅集團跨足生活產業生態圈，旗下餐飲事業欣食旅持續擴大健康餐飲版圖，全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕，品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
+   "cities": {
+    "台北市": 3,
+    "桃園市": 1,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 2626,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35511024.jpg&M=1&s=Y&x=0&y=0&sw=1211&sh=808&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E8%88%89%E5%80%92%E6%95%B8-%E8%94%A3%E8%90%AC%E5%AE%89%E6%8E%83%E5%85%AC%E9%A4%A8%E5%95%86%E5%9C%88-%E6%B0%91%E7%9C%BE%E8%AA%8D%E4%BA%BA%E6%B0%A3%E7%95%A5%E9%81%9C%E6%B2%88%E4%BC%AF%E6%B4%8B-%E7%B1%8C-124200565.html": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T20:42+08:00",
+   "site_name": "Yahoo News",
+   "description": "[FTNN新聞網]記者方炳超／台北報導台北市長蔣萬安今（12）日開始請假進入選戰模式，晚間來到公館商圈拜票，現場湧入不少支持者跟隨。蔣萬安沿途向攤商拜票，...",
+   "cities": {
+    "台北市": 27,
+    "新北市": 2,
+    "桃園市": 2,
+    "新竹縣": 2,
+    "嘉義市": 2
+   },
+   "districts": [],
+   "body_chars": 3274,
+   "image": "https://media.zenfs.com/ca/ftnn_com_tw_939/f581a5c620799ed8f7dcaad5180b7f7f.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://life.tw/article/%E6%A1%83%E5%9C%923%E5%A4%A7%E5%95%86%E5%9C%88%E7%8D%B2%E4%B8%AD%E5%A4%AE%E8%82%AF%E5%AE%9A-%E7%B6%93%E7%99%BC%E5%B1%80-%E6%8C%81%E7%BA%8C%E6%8A%95%E5%85%A5%E6%8C%AF%E8%88%88%E8%88%87%E8%BD%89%E5%9E%8B%E8%B3%87%E6%BA%90-3213385": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T10:41+08:00",
+   "site_name": "LIFE 生活網",
+   "description": "桃園市三大商圈在「2026全國卓越商圈獎」中表現亮眼，獲得中央肯定。",
+   "cities": {
+    "桃園市": 18
+   },
+   "districts": [
+    "魅力金三角商圈（桃園市）"
+   ],
+   "body_chars": 1017,
+   "image": "https://tyenews.com/wp-content/uploads/2026/11/s__357605385_0_result.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://z98737406.tw/?p=105653": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T12:36+08:00",
+   "site_name": "全國旅遊時報",
+   "description": "【記者王佳菁】高雄市政府11月10日舉行市政會議，會中由經發局報告「2026高雄聖誕生活節」活動規劃，市長陳其 […]",
+   "cities": {
+    "高雄市": 12,
+    "台中市": 1
+   },
+   "districts": [
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 905,
+   "image": "https://secure.gravatar.com/avatar/d423efdf0cbc405dac2d1158baac97ac0ea7b55d62131cb329a5253655fd5c9b?s=96&d=mm&r=g",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/postwrite/chi/449863": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T05:35+08:00",
+   "site_name": null,
+   "description": "經濟部商業發展署10日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」，由經濟部龔明鑫部長親自頒獎，肯定商圈組織及在地業者長期投入的努力與成果，今年計選出20處卓越商圈，透過獎項表揚樹立標竿典範，鼓勵各地商圈相互交流學習，展現臺灣商圈豐富的特色與生命力。",
+   "cities": {
+    "新北市": 2,
+    "嘉義縣": 2,
+    "台北市": 1,
+    "台南市": 1,
+    "彰化縣": 1
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）",
+    "縣府太子商圈（嘉義縣）",
+    "鹽水商圈（台南市）",
+    "小琉球商圈（屏東縣）"
+   ],
+   "body_chars": 1957,
+   "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261112/00449860.202611121040701300M.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://stock.ltn.com.tw/article/uu8jflqfpwry": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "雄獅集團旗下餐飲事業欣食旅持續擴大健康餐飲版圖，全新品牌「GIMME」今（12）日在信義商圈正式開幕，欣食旅總經理陳斯重指出，加上GIMME，欣食旅今年總計有12家，營收目標6 億元，而預計明年再新增6家，除1家GIMME外，gonna express 2-3 家，以及gonna eat等，營收目標",
+   "cities": {},
+   "districts": [],
+   "body_chars": 151,
+   "image": "https://img.ltn.com.tw/Upload/business/page/400S/2026/11/12/5638831_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://www.contentplatform.info/articles/573840/%e6%9d%bf%e6%96%b0%e5%95%86%e5%9c%88%e6%96%b0%e5%9c%b0%e6%a8%99%ef%bc%81-%e6%9d%bf%e6%a9%8b%e6%9c%80%e5%a4%a7%e6%8d%b7%e9%81%8b%e9%96%8b%e7%99%bc%e6%a1%88%e5%8b%95%e5%9c%9f2030%e5%b9%b4%e5%ae%8c/": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T13:34+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "新北市板橋區最大規模捷運土地開發案正式啟動！新北環狀線板新站捷運開發案今〈12〉日開工，基地面積1392坪，投資金額約60.4億元，將興建地上38層、地下6層全鋼骨大樓，規劃商場、辦公空間及里民活動中心，預計2030年完工，未來可引進約1100名就業人口，市府盼藉由場站開發帶動板新商圈成形。",
+   "cities": {
+    "新北市": 7
+   },
+   "districts": [],
+   "body_chars": 899,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/12133425/%E6%8D%B7%E8%B2%B4%E8%B3%93%E4%B8%80.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5638912": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T19:59+08:00",
+   "site_name": "自由時報電子報",
+   "description": "鄰近嘉義市文化路夜市商圈的崇文國小地下停車場工程，今天舉行竣工典禮，明天起正式營運。市府表示，停車場為地下2層停車空間，共提供207席汽車停車位，包含無障礙、婦幼及電動車停車位各5席，後續由寶盛國際股份有限公司負責營運維護。市長黃敏惠、議長陳姿妏等人今天出席工程竣工典禮，黃敏惠期許崇文國小地下停車場兼顧民眾停車需求與學",
+   "cities": {
+    "嘉義市": 4,
+    "基隆市": 1
+   },
+   "districts": [],
+   "body_chars": 1116,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/12/5638912_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://house.ettoday.net/news/3271099": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T17:32+08:00",
+   "site_name": "ETtoday房產雲",
+   "description": "近期不少區域房市回溫，桃園中壢近期以體育園區最受矚目。在地房仲表示，該區新建案陸續推出，預售價格預估在4至5字頭，熱度旺，同時也帶動鄰近既有生活圈，包括中原大學、中壢後站及中山東路龍岡等3大中古屋商圈..",
+   "cities": {
+    "桃園市": 5,
+    "台中市": 3,
+    "台北市": 2,
+    "高雄市": 2
+   },
+   "districts": [
+    "後站商圈（台北市）"
+   ],
+   "body_chars": 2520,
+   "image": "https://cdn2.ettoday.net/images/9012/e9012352.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261112/3271025.htm": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T15:48+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "新北捷運工程局持續推動大眾運輸導向發展（TOD）及活化捷運場站周邊土地，板橋區規模最大的捷運開發案「新北環狀線板新站」今（12）日正式開工，由新北市長侯友宜率領捷運工程局，與投資人團隊馥華集團副董事長陳光憲等人，共同祈福祝禱，祈求工程順利圓滿。",
+   "cities": {
+    "新北市": 21,
+    "高雄市": 2,
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 1802,
+   "image": "https://cdn2.ettoday.net/images/9012/e9012178.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261112004239-260402": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T17:08+08:00",
+   "site_name": "中時新聞網",
+   "description": "台北市大安區和平東路三段228巷內昨（11）日晚間驚傳停車糾紛！一名住在店家樓上的李姓男子，為了停放微型電動二輪車，擅自將店家擺在騎樓的里長競選旗幟移到人行道上，店員見狀上前制止，雙方當場爆發激烈口角，旗",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 607,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-12/656/20261112004242.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.nextapple.com/life/20261112/BCB209F451A7F5FBEC2C2FB0DD535FAD": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T18:53+08:00",
+   "site_name": "壹蘋新聞網",
+   "description": "北市信義商圈今年第一棵點燈的耶誕樹點燈了！新光三越A11館前20米高耶誕樹亮相，將搭配1500場下雪秀活動，業者估人潮可望比去年增10%。除了今日活動集結100位耶誕老人，耶誕節當天更會有1000位現身。",
+   "cities": {
+    "台北市": 14,
+    "台東縣": 4,
+    "新竹市": 3,
+    "桃園市": 2
+   },
+   "districts": [],
+   "body_chars": 3030,
+   "image": "https://static-cdn.nextapple.tw/prod/2026-11/BCB209F451A7F5FBEC2C2FB0DD535FAD/564585ab10bbf41feb40f15edd45791b_1280.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://cnews.com.tw/248261112a01/": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://n.yam.com/Article/20261112134308": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T16:53+08:00",
+   "site_name": "蕃新聞",
+   "description": "【記者 潘逸雲／桃園報導】桃園市副市長蘇俊賓今（12）日上午在市府一樓川堂出席「桃園市商業轉型服務中",
+   "cities": {
+    "桃園市": 10
+   },
+   "districts": [],
+   "body_chars": 485,
+   "image": "https://ni.yam.com/20261112/taoyuan-1972603-1-e664d895a026034d.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261112655245": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T17:12+08:00",
+   "site_name": "蕃新聞",
+   "description": "(中央社訊息服務20261112 17:14:47)在台北藝博認識鶯歌光點，下一站，邀請",
+   "cities": {
+    "台北市": 6,
+    "新北市": 2
+   },
+   "districts": [],
+   "body_chars": 1619,
+   "image": "https://ni.yam.com/20261112/00449836.20261112601993034m-1cf96d3aedf907d8.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/amp/story/7241/9874375": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T14:26+08:00",
+   "site_name": "聯合新聞網",
+   "description": "雄獅集團跨足生活產業生態圈，旗下餐飲事業欣食旅持續擴大健康餐飲版圖，全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕，品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1343,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35511024.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=808&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261111637518": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T20:05+08:00",
+   "site_name": "蕃新聞",
+   "description": "▲經濟部龔明鑫部長出席 2026全國卓越商圈獎 頒獎典禮，肯定全臺商圈持續深耕地方特色與推動商圈發展",
+   "cities": {
+    "新北市": 2,
+    "嘉義縣": 2,
+    "台北市": 1,
+    "台南市": 1,
+    "彰化縣": 1
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）",
+    "縣府太子商圈（嘉義縣）",
+    "鹽水商圈（台南市）",
+    "小琉球商圈（屏東縣）"
+   ],
+   "body_chars": 1921,
+   "image": "https://ni.yam.com/20261111/81-f7115e15b39bc94b.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E6%9D%BF%E6%96%B0%E5%95%86%E5%9C%88%E6%96%B0%E5%9C%B0%E6%A8%99-%E6%9D%BF%E6%A9%8B%E6%9C%80%E5%A4%A7%E6%8D%B7%E9%81%8B%E9%96%8B%E7%99%BC%E6%A1%88%E9%96%8B%E5%B7%A5-%E4%BE%AF%E5%8F%8B%E5%AE%9C-%E6%96%B0%E5%8C%97%E8%BB%8C%E9%81%93%E7%B6%93%E6%BF%9F%E7%99%BC%E5%B1%95-%E5%B8%B6%E5%8B%95%E5%95%86%E6%A5%AD%E5%8B%95%E8%83%BD-084808329.html": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T16:48+08:00",
+   "site_name": "Yahoo News",
+   "description": "新北環狀線2020年通車以來，運量穩定成長，2025年年運量突破2200萬，今年每月運量達200萬人次，已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展（TOD）及活化捷運場站周邊土地，板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工，由新北市長侯友宜率領捷運工程局，與投",
+   "cities": {
+    "新北市": 23,
+    "台北市": 7,
+    "彰化縣": 3,
+    "新竹縣": 2,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/en/stormmediagroup.com/07cd5500d2d9eafe9567430e848c3dcf",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://live.setn.com/Live/4553/25196?p=2": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-10-02T18:19+08:00",
+   "site_name": "三立新聞網",
+   "description": "沈伯洋來了！\"貴在真實\"挺進師大商圈直擊",
+   "cities": {},
+   "districts": [],
+   "body_chars": 69,
+   "image": "https://attach.setn.com/images/livechannel_600x315_2.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ftvnews.com.tw/news/detail/2026B12W0675": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T17:51+08:00",
+   "site_name": "民視新聞網",
+   "description": "23家特色店家響應街舞盛事　逛商圈、集點數、看決賽　邀全民一起感受街頭文化魅力2026總統盃街舞大賽全國總決賽即將於11月14日（六）在臺北凱達格蘭大道熱血登場！今年除了邀請巴黎奧運舞者、世界冠軍及國際街舞名家齊聚臺灣，更結合臺北榮町商圈推出「集點送禮」活動，串聯23家特色店家，邀請民眾在欣賞精彩街舞賽事之餘，也能走進",
+   "cities": {
+    "台北市": 9,
+    "新北市": 1,
+    "桃園市": 1,
+    "台中市": 1
+   },
+   "districts": [
+    "榮町商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1303,
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/c713604c-224e-4cf8-87f7-9a2987d7544b.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/vote2026/story/124652/9872283": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T17:08+08:00",
+   "site_name": "2026九合一選舉",
+   "description": "「還我乾淨竹縣聯盟」今舉行記者會，質疑民進黨新竹縣長候選人、竹北市長鄭朝方2023年上班時間搭公務車前往台北西門町飯店商圈，涉嫌公私不分、濫用行政資源，要求公開當天行程、行車紀錄及隨行人員派勤依據，釐清是否符合公務用途。鄭團隊、竹北市公所表示「無回應。」",
+   "cities": {
+    "新竹縣": 9,
+    "台北市": 3,
+    "桃園市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 849,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=/t3/2026/11/11/35507873.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://focusnews.com.tw/2026/11/730605/": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "今傳媒 JNEWS",
+   "description": "【今傳媒/記者李祖東報導】高雄市政府今(10)日舉行市政會議，會中由經發局報告「2026高雄聖誕生活節」活動規 […]",
+   "cities": {
+    "高雄市": 10
+   },
+   "districts": [
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 890,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://ec.ltn.com.tw/article/breakingnews/5638525": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T15:55+08:00",
+   "site_name": "自由時報電子報",
+   "description": "〔財經頻道／綜合報導〕輝達執行長黃仁勳婚外情風波延燒，除了疑似中國間諜的「小三」黃樂以外，《紐約時報》報導，現年63歲的黃仁勳曾與48歲的公司副總裁鮑威爾（Kimberly Powell）有過婚",
+   "cities": {},
+   "districts": [],
+   "body_chars": 876,
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/12/phpTtLcrb.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/society/breakingnews/5637908": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T10:19+08:00",
+   "site_name": "自由時報電子報",
+   "description": "29歲曾姓男子騎機車過程，疑因機車腳踏板的蔬菜及肉品掉落，他煞車減速、準備靠邊停車，後方同向騎機車的62歲楊姓婦女見狀減速，遭後方66歲盧姓婦女騎機車追撞，導致楊婦送醫不治。高雄警方指出，11月11日上午8點多，曾男沿左營區軍校路南往北方向行駛慢車道，疑因機車腳踏板的蔬菜及肉品不慎掉落，煞車減速並準備向右側路邊停靠，後",
+   "cities": {
+    "高雄市": 4
+   },
+   "districts": [],
+   "body_chars": 630,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/12/5637908_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cmoney.tw/forum/article/188568708": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T20:28+08:00",
+   "site_name": "CMoney 股市爆料同學會",
+   "description": "鄰近嘉義市文化路夜市商圈的崇文國小地下停車場工程，今天舉行竣工典禮，明天起正式營運。市府表示，停車場為地下2層停車空間，共提供207席汽車停車位，包含無障礙、婦",
+   "cities": {
+    "嘉義市": 4
+   },
+   "districts": [],
+   "body_chars": 123,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/12/5638912_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/society/breakingnews/5637859": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T09:43+08:00",
+   "site_name": "自由時報電子報",
+   "description": "苗栗縣頭份市蘆竹里1間已停業的禮儀社鐵皮倉庫，昨（11）日晚間8點多發生火警並延燒一旁竹林，消防局派遣消防車12輛及消防、義消50人投入搶救，火勢於今天凌晨1點多完全撲滅，無人員傷亡，現場燃燒面積300平方公尺，財損及火災原因由火調人員續查。苗栗縣消防局勤務中心昨晚8點32分獲報，頭份市蘆竹里1間鐵皮屋發生火警，並延燒",
+   "cities": {
+    "苗栗縣": 4,
+    "嘉義": 1
+   },
+   "districts": [],
+   "body_chars": 593,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/12/5637859_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://leho.com.tw/archives/425453": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T18:15+08:00",
+   "site_name": "樂聯網",
+   "description": "墨新聞｜記者鍾光硯／台北報導 從港都老街走向AI智慧微旅｜文化走讀、數位創新與店家串聯展現基隆觀光新魅力 【基 […]",
+   "cities": {
+    "基隆市": 16,
+    "台北市": 3
+   },
+   "districts": [
+    "委託行商圈（基隆市）"
+   ],
+   "body_chars": 1509,
+   "image": "https://leho.com.tw/wp-content/uploads/2026/04/1777427618756-150x150.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/news/aloc/202611120275.aspx": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T17:05+08:00",
+   "site_name": "中央社 CNA",
+   "description": "國立中山大學附屬國光高級中學營養午餐多次出現異物，高雄市衛生局今天稽查供膳業者，現場查獲多項違規，除加重裁罰48萬元外，命即日起暫停供膳，至改善後審查才能復業。",
+   "cities": {
+    "高雄市": 6
+   },
+   "districts": [],
+   "body_chars": 761,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261112/1204x768_wmkn_0_C20261112000171.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/postwrite/chi/449836": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T05:12+08:00",
+   "site_name": null,
+   "description": "在台北藝博認識鶯歌光點，下一站，邀請您走進鶯歌老街。鶯歌光點首次參展「ART TAIPEI 2026台北國際藝術博覽會」，以《生成之地》（Genesis Ground）呈現7位藝術家的多元創作，展期內多件作品獲藏家收藏，收穫亮眼佳績。延續藝博期間的藝術交流，館內光點藝術中心將於11月13日同步推出蔡金龍《心靈神會》與周",
+   "cities": {
+    "台北市": 9,
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 2163,
+   "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261112/00449836.20261112601993034M.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://feng.ifeng.com/c/8xzmJemqvuy": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T16:49+08:00",
+   "site_name": "凤凰网",
+   "description": "老街“焕新”，将带来哪些嬗变？",
+   "cities": {},
+   "districts": [],
+   "body_chars": 2081,
+   "image": "https://x0.ifengimg.com/res/2026/E93C4EF2349073993585AE665B3C2C800C08A0DA_size44_w372_h279.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261112/3270684.htm": {
+   "checked_at": "2026-11-12T20:52+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T09:27+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "高雄市左營區昨（11日）上午發生一起死亡車禍，地點位在軍校路與緯六路口。一名29歲曾姓男子騎車行經慢車道時，腳踏板上的蔬菜與肉品疑似掉落，他因此緊急減速，並準備靠向路邊停車，卻引發後方兩輛機車接連碰撞，造成2名女騎士受傷送醫，其中62歲楊姓女子後續傷重不治。",
+   "cities": {
+    "高雄市": 5,
+    "台北市": 1,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 1001,
+   "image": "https://cdn2.ettoday.net/images/9011/e9011426.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
   }
  }
 }
