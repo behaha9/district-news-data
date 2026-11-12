@@ -1,20 +1,30 @@
 {
- "fetched_at": "2026-11-13T00:54:52+08:00",
+ "fetched_at": "2026-11-13T07:17:21+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 131,
-  "kept": 62,
-  "resolved": 62,
-  "items": 61,
+  "raw": 137,
+  "kept": 67,
+  "resolved": 67,
+  "items": 66,
   "resolve_this_run": {
-   "online": 20
+   "online": 8
   },
   "dropped_old": [
    "貴在真實 / 沈伯洋來了！\"貴在真實\"挺進師大商圈直擊（原文日期 2026-10-02）"
   ]
  },
  "items": [
+  {
+   "title": "商圈轉型 擦亮桃園老店招牌",
+   "google_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdHdiWHFXODZNY0pUUEljSUgtWDFLeHA4UUlDLU93SWdjMDY0UFNvMzJJekhfNHZpWTN5aDc2Z0NMOU1aX05xTDNQSU9ZczVsWXdEemtEUGlabS1IZW4tdXJzSWhDRWpfX21JSkxjZFlMQkdWS3dGNFktdmtkSmRKbXJCOUtmMmp3TEpqTm5vUjc2M0JYbUJmRWFXQlh4Q01sYlVTNkplRXBsMHF5Wk13MG5VczBwSzJ6ZFB4M2lWaEMwSWZwWkVpRjF6YXRwLXQ2NnJkcWdldFBXbFhHOGZSNF9WeUw?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-13T04:10+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E5%95%86%E5%9C%88%E8%BD%89%E5%9E%8B-%E6%93%A6%E4%BA%AE%E6%A1%83%E5%9C%92%E8%80%81%E5%BA%97%E6%8B%9B%E7%89%8C-201000434.html",
+   "resolved": true
+  },
   {
    "title": "走訪雙城「大溪」 漁港海味對決老街木藝",
    "google_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVUdJRnFjZkxYVGd3QWs5QU5mSFJ3Wk1ZRnlaMkEyeTJPRkFWcHN1NjRPZHdWZURIbHhtdHoyRmpfR3RxTUhMdFptVVl1SmtreS1LcmkxRHE1Ul9EVGlSTzhKcVBueHN1TWZwSVNXWkRXY19KQXpiendKLVlHUVdNclJyQTVrZG1aRkVjSGI2R0djTmc4RDZoOE9DZ2hCZjRtdFd1RF81ZzZLcWxOU0w2aUZuUFc2bnlyMVgyejk3c05uV2hRWTU3QzRvSUFkSXhTMEtjR1BYczc4MTlmSFd6NlVXMFNKeVVvYmdUMVhZWWJ6T011a0lJYUp2Q1liRDZ4V1gxTEVwMkJ0WUhVNzRfNnZjdmJuQQ?oc=5",
@@ -67,12 +77,12 @@
   },
   {
    "title": "旗山老街走一回 從紅磚街屋看見香蕉城的歲月",
-   "google_url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxObFFxd0dmYVJzZkdlODdKMjhGckJmMGozLW43OF9TRnhJc2dGTlR5WURRdnpuNzhFM0xJV19kYmQxWHpPd21CY0EtY1AxVlc5N0xKS1Zwa3JvcklGZFlOVTVTV2ZuMng4QXF1el9KZzZYemQtZTM0eTZja2RwR0lzWVRXSGZwd1FrME9Yc1NiU0FMWXBLZms0elU3cEpzcjE5Y3d3UlNuOURJX0cyV3Z4aW54WVpPRGRBa2N1UDlCWE13LXgyYldBNVhGZy00ZEtPZjd4N0txVl94OWNid3FKOTg2LVE4R1JTcFRHLXg5VURDclItZnF4V0hDT084NHp0Qy1JeVlqaVdsNVJid3JhazlUS2h2UE9LckVfdXNoa1BkdVY1S0xVbXAzU192UV9BbDNMX0MzRlJ3eEwtbXpXd1UtamVwZw?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQb3psSzQ3aVJrZUdUNk5jNkNyam5VVGU0Nkp2RnFqLWkwZlFMZGZiNFRkZURkaWpybmt1RE5Ib2QxZElxSEhQWDlob0lscDZ0T3owOXJWTnBzNDAybXRLM2NYeGFLQjVVYjNqRmN1b3FScEo5a0NWRmMtbTRRVTJ1a0ZsdERMRWdZNXNjRUxzSmJxYkthRF9OVXFCX0Q4LTRNeEd4eVJ4NGh2UUliWlZMVmd4bm5FMlBwZGpJZnVEVGpoQ203cHdDNHRSbERYWk9sYWJwRWdXWHhLbV9Oa3lMMDdGZ2lLTVN2cTRyZDNxVmQxUW1Jd0NXMlZmZ3BuMUw1eDFJM1FueW85MEdWOEN5UFpUcWNndFU1UVhpdF95YXlWcnZ0ZXN5eFhFWUoxV3FlUWQ4dFdjNkwtdEFHY1JQUnNMY3N5eFU?oc=5",
    "source": "台灣大紀元",
-   "source_site": "http://www.epochtimes.com.tw",
+   "source_site": "https://www.epochtimes.com.tw",
    "published_at": "2026-11-12T21:53+08:00",
    "query": "老街",
-   "url": "http://www.epochtimes.com.tw/n518161/%E6%97%97%E5%B1%B1%E8%80%81%E8%A1%97%E8%B5%B0%E4%B8%80%E5%9B%9E-%E5%BE%9E%E7%B4%85%E7%A3%9A%E8%A1%97%E5%B1%8B%E7%9C%8B%E8%A6%8B%E9%A6%99%E8%95%89%E5%9F%8E%E7%9A%84%E6%AD%B2%E6%9C%88.html",
+   "url": "https://www.epochtimes.com.tw/n518161/%E6%97%97%E5%B1%B1%E8%80%81%E8%A1%97%E8%B5%B0%E4%B8%80%E5%9B%9E-%E5%BE%9E%E7%B4%85%E7%A3%9A%E8%A1%97%E5%B1%8B%E7%9C%8B%E8%A6%8B%E9%A6%99%E8%95%89%E5%9F%8E%E7%9A%84%E6%AD%B2%E6%9C%88.html",
    "resolved": true
   },
   {
@@ -116,13 +126,23 @@
    "resolved": true
   },
   {
+   "title": "蔣萬安公館商圈掃街 支持者簇擁互動 (圖)",
+   "google_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPOGFJWWRqd0hXSURmX3c4bjQzZnhZVE9lemt3MEt4YUk4bWk5Q0MzNWlhWmVNLUJDQmZBVWZFejlsZ0VlMkxKTm42Q3dUYWdDdk11Nk9ZaTV0clExOXJfRm9zVHFKZk5MZkUyekMwTUdJRVhUUE81UmxFMkJmdVdia3NTZURYYlozdWpDUXp5dGdLUmtpRTI0U2c2WDVwWWdPRldWQ3RmSXhfcVh5eTlnanJhRkplRXhMbUY0NHBmSFhidEl1Slh2V1QyTk1tbnZmSk5LOG1BUVVzb1BWd3Ytd2pPeW1JVm0xRFF0UjFscHF0dEdoWWJzUkdvNEJYa1BYZnpEdWl4Ny1FSWViSzlGNEEzMUx6cFRrM1BIZlc5Q1Z3QQ?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-12T21:07+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E5%85%AC%E9%A4%A8%E5%95%86%E5%9C%88%E6%8E%83%E8%A1%97-%E6%94%AF%E6%8C%81%E8%80%85%E7%B0%87%E6%93%81%E4%BA%92%E5%8B%95-%E5%9C%96-130731032.html",
+   "resolved": true
+  },
+  {
    "title": "台北信義商圈多一處輕社交餐廳 「GIMME」今（12）日開幕推3重優惠",
-   "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Cb3EtRzNxWG5XejJ0YWQ1LUw3U092aFpoTG15QzhtQWpTQ0FUTjVaazFzbGZ0czJnVzBaUE9yTjlhbkhSNXpUWFh1U0M4X3laeC1NS1VPZnNERW1SSXlMQzFRcHdqd9IBZkFVX3lxTE9Cb3EtRzNxWG5XejJ0YWQ1LUw3U092aFpoTG15QzhtQWpTQ0FUTjVaazFzbGZ0czJnVzBaUE9yTjlhbkhSNXpUWFh1U0M4X3laeC1NS1VPZnNERW1SSXlMQzFRcHdqdw?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMWDRyaExIc3IxUEgwN1RqS1FVMlliYi0zVk1BNFJhdTdDUGpEX2pnc1hsQXg1SWRuMElFNUI2a3gzdmNKZDJfZ21RSjloSlFqSWNGUUVNYlFERXROOC1mbdIBZkFVX3lxTE9Cb3EtRzNxWG5XejJ0YWQ1LUw3U092aFpoTG15QzhtQWpTQ0FUTjVaazFzbGZ0czJnVzBaUE9yTjlhbkhSNXpUWFh1U0M4X3laeC1NS1VPZnNERW1SSXlMQzFRcHdqdw?oc=5",
    "source": "自由藝文網",
    "source_site": "https://art.ltn.com.tw",
    "published_at": "2026-11-12T20:59+08:00",
    "query": "商圈",
-   "url": "https://art.ltn.com.tw/amp/article/breakingnews/5638955",
+   "url": "https://art.ltn.com.tw/article/breakingnews/5638955",
    "resolved": true
   },
   {
@@ -130,7 +150,7 @@
    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3Q0tFRmJsSGkwOGFuSk1tMWRIeU1OdE9OU3FXTmJlaF9Fc1kyYlM1NGxsc253U29BeGJKY3JkQS1mTVNBdTJJODhwYjZVMURia3BMUVJB?oc=5",
    "source": "經濟導報",
    "source_site": "https://jdonline.com.hk",
-   "published_at": "2026-11-12T20:57+08:00",
+   "published_at": "2026-11-12T20:56+08:00",
    "query": "老街",
    "url": "https://jdonline.com.hk/content_110132.html",
    "resolved": true
@@ -153,6 +173,16 @@
    "published_at": "2026-11-12T19:59+08:00",
    "query": "商圈",
    "url": "https://news.ltn.com.tw/news/life/breakingnews/5638912",
+   "resolved": true
+  },
+  {
+   "title": "板橋最大捷運開發案啟動馥華為板新商圈注入新動能- 商情",
+   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxNnVTeW9BeGpzbTl4UmFrZHpmV2JGMThqNVgxdjcxdmhzam55RnVmaHBzR0FOZzFOekhXLTc1TVllUF91RVA1SGdSR3FjeHNUc043RmdZWENRUXMxUzFV?oc=5",
+   "source": "工商時報",
+   "source_site": "https://www.ctee.com.tw",
+   "published_at": "2026-11-12T19:12+08:00",
+   "query": "商圈",
+   "url": "https://www.ctee.com.tw/news/20261112702012-431206",
    "resolved": true
   },
   {
@@ -286,6 +316,16 @@
    "resolved": true
   },
   {
+   "title": "桃園市商業轉型服務中心暨桃金好禮好店成果發表會助力商圈轉型升級桃市商業服務中心show好禮好店成果",
+   "google_url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxOb1dtMzNLYld6bDg1UUJzaVFERnQtVl8tTTJRbjhNWk9kWU9FRkdBZ0Z4YWlZcXdOZHU1ZDZ3WE9WR0tUci1TR0dtZzY5OERKbndRZnpsLV9UWXA5MGdLSGxZUmNlcFhpWXZXdm5QVi1MdnpOaGtVc0VfZEp3dzBpUFNkcFI0YTRPT1d1c1VpU2ZBUGV6MWh3WlJXbFRKclg4bDhQcXJEV1JKS09EdFl4R2RZZU5qZUVFLWNIZ2F6a0xWZmJJdEw3andvc2RVOHBjQTdjVGRQdEp0MUY2NFp0cHRNUmxMdXNzSUtVVF9zbnRWRDl6clVqR0YtYjRVampPdWkwUjByMWxxUEtMNlJUU3dfUGlQb216YzBKZUdYbE1DOHQ3S2dETklXLTJlcXRKUnFBRFpBaVN5bktSX0ZUVTVPRHlTbjBDU25RSjFfRzhTS3RXa2pNY0RiRV8zd3JiMEx5RTN2MXk3bTYyTkw5TlBva3hWS1pkMjhqWlZ0dzF5Q2NHYktkUDFiRHUwWW85UGdRejRNYTZGV2hSV0dvQUhNcUtuM2NuUF9OUHk3RDBZdnBuaE5BbXlEejdtUUVBOXJ0QUxva2djMlJ0RG5oMkFNQ2hCNHE1UC1JR1Q1dFNnLWJ3UTdoQnE0UXVUTDBmZmRaT0Flc09WRUFhTnl3MUJFRUdEaWppWTlRd2V4RnhBTmtvTmJQNDVuR05XZm5EenVMS1VGNEJQckRHbUNZTGZQNmhvQW5Bc0J3QXA3THBLUkNhX0F5TkpLWXR5X3R0bkU4Zl9rMmxodDh1SjJEblhWY2k5a2ZMWDEtU0xHVW9rVXNxU0d3?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-12T16:38+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%B8%82%E5%95%86%E6%A5%AD%E8%BD%89%E5%9E%8B%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E6%9A%A8%E6%A1%83%E9%87%91%E5%A5%BD%E7%A6%AE%E5%A5%BD%E5%BA%97%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E6%9C%83-%E5%8A%A9%E5%8A%9B%E5%95%86%E5%9C%88%E8%BD%89%E5%9E%8B%E5%8D%87%E7%B4%9A-%E6%A1%83%E5%B8%82%E5%95%86%E6%A5%AD%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83show%E5%A5%BD%E7%A6%AE%E5%A5%BD%E5%BA%97%E6%88%90%E6%9E%9C-003237581.html",
+   "resolved": true
+  },
+  {
    "title": "桃園商業轉型中心三年有成 蘇俊賓：新穎與傳統兼容展示商圈在地特色",
    "google_url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNVUZLQlhNOUZZNFlGMUV3a1duRi1wYmNUMDRpT05aeDkzOXBSdk1kR2lndnNZdUJBbjZiTldzaXY2bXZEbGZRcTB2TThaSHlDd1lQRTZYNXdCbDY1UlFLZGd1N0k5NUlmUk1xakFFb08zaUQ1UzJIM3loNWMxUnpXMkI2YjJfZkFlNjJWaXprZGlUVFpUTkFHZTcyVk9fY2ViRlgxN0tCVkoxRy1GQURuY3JWYVp1dG1TMTlQLW5QVE5yM0JHeUI3Q1lUYW1aZ3lsbWVNSGJEQkdHcXlQU0llZkx6ZGJZd3dlRzlyNmtGQ3FicVYxNm9tZ1dlTEE0SUFySnIxSFVmN2J4aVZQcU5QMUxCclNxX21ub3ZvMmMydF90OTBGWW1JdFAyX01Yb1BGNkhXams1NGliNjdUV3RjV1ZQc2twRVJIdTlhbTA2dEpWaEhDRzhtQnF1dzQzSUVBUVNmLXpkcU1BRzYtV0hqZTZXYWVsdHRGNVM1eFBkRS1aeWcxM1Y2NHBjN3lCTEVidWhOSDhIQTR3ck14cFY1LXRsU3pXaVN1X1dZZjhmLXFCZ1Jfc0Jybl9vcDF2RDY1d2xmTFBR?oc=5",
    "source": "台灣好新聞",
@@ -317,12 +357,12 @@
   },
   {
    "title": "老街商圈沒落房價面臨下跌？估價師曝銀行鑑價警訊：出現3徵兆難有起色",
-   "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9seWdNdGQ2TWY4VHROSFZtdlpnT05sU0FBQXY1OFdUcHhSTFl1RW5iMnBCU25KOWFWbHFxUmNEUmFXWGhjMWZLRFctOHFWOVhWYl9qc2xzOVE2cTBUVjU3d1VQc2pxcmFVLUFfTUZfcmtzTkFRZF9OSXJXc9IBYkFVX3lxTE9sLTNxYjFnUFJxQWtBYU5uSkdrY2tVbDFsRUpmdUIzTEp6VW9iWFpzazR4MWFOSXZBVDZZRUVsTm40dE1VN1AyRU5yVWFzN3AzM0JIU0g0VlFibnZ3d0d6MkJB?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Dc0hma3preGVzMVlpTUNVRW5CSHdmWTBDMzVfTXFRMEZ3QVh1Tnd6b0xOaVZtS0pXa2NZWjJCMnVUMURYbkIwUDVMTW1BRlJITmtRSzluVXZaWlZP0gFiQVVfeXFMT2wtM3FiMWdQUnFBa0FhTm5KR2tja1VsMWxFSmZ1QjNMSnpVb2JYWnNrNHgxYU5JdkFUNllFRWxObjR0TVU3UDJFTnJVYXM3cDMzQkhTSDRWUWJudnd3R3oyQkE?oc=5",
    "source": "udn房地產",
    "source_site": "https://house.udn.com",
    "published_at": "2026-11-12T13:43+08:00",
    "query": "商圈",
-   "url": "https://house.udn.com/house/story/123589/9874075?from=udn_ch1025_editor",
+   "url": "https://house.udn.com/house/story/123589/9874075",
    "resolved": true
   },
   {
@@ -346,13 +386,13 @@
    "resolved": true
   },
   {
-   "title": "JINS插旗南新莊「眼鏡一條街」落腳鴻金寶商圈打造社區型門店",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnSDJGdlBBUVdJRWtNUnVMZDBlWEt6ZDNBYWFtbF9MWUk4LV9DS052eWZ0ZlJmd183MGdDY2pfb2U4ZU5URVBqOHN6VVduODd50gFWQVVfeXFMT2tMMEwtTVpnLVNmX3pMWkhUWWpSMW9QaVBkY0ZEZUN1WWx1TUl0clFJMUVjdUJPZkR2RldiRkM2OENUVC1uSGhKTDhLMmpPY2FLZTNUakE?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
+   "title": "JINS插旗南新莊「眼鏡一條街」落腳鴻金寶商圈打造社區型門店| 流行穿搭",
+   "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PMjlvWGZzWGhiYldYZU0wa0ZDc0RCSVpjdmItVmR4TGhPZ3ZMZHZidl9lOEhLbnJaVGNmaTlTMWt3Ujd1R0ZMWWZOOG52Y3hTaHl3MWZob3E4RkxPM2pyVFN1My1sX3YzS25tRkxfRTZDeFZBZ1lpV1pkZ0g?oc=5",
+   "source": "udnSTYLE",
+   "source_site": "https://style.udn.com",
    "published_at": "2026-11-12T13:08+08:00",
    "query": "商圈",
-   "url": "https://udn.com/news/story/7270/9874092",
+   "url": "https://style.udn.com/style/story/8091/9874092?form=udn_ch2_common3_cate",
    "resolved": true
   },
   {
@@ -413,6 +453,16 @@
    "published_at": "2026-11-12T08:50+08:00",
    "query": "商圈",
    "url": "https://news.housefun.com.tw/news/article/304019490959.html",
+   "resolved": true
+  },
+  {
+   "title": "旗山旅遊別只逛老街！6大特色景點帶逛百年建築與文化地標- 旅遊新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbHRPWDhfa19rTFhESEg2NmlSNWdrZk5yZDJnS1VOQUw0UDhoV1JWTms2dG5YWFRpUUxaMjl1TmVKUWpFNWJ4Y3ZRaWtleU1hR1I5YnVlQXlxVnVNbGFkVzR1NWhXT05iLTVqQk84SEx1YW1ZenN0eS1FdWpVdUJNOVpEVnlCaWduUFFlMw?oc=5",
+   "source": "PChome Online 新聞",
+   "source_site": "https://news.pchome.com.tw",
+   "published_at": "2026-11-12T08:00+08:00",
+   "query": "老街",
+   "url": "https://news.pchome.com.tw/travel/sharelife/20261112/index-79444160030139216015.html",
    "resolved": true
   },
   {
@@ -608,7 +658,7 @@
   {
    "title": "全家大小一起玩！鶯歌老街、陶瓷博物館與手作DIY一日遊",
    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iSFFDa09uaGI0OTBibF9jX0FKQUprVDBZRnA1MHZPYkFKUi1zQkZJaGM3OFh6bFBIZnFZNVRranpSUHJPRlA2V3l5YVk1SUxNRUZ4ZUdxbHBOXzd1?oc=5",
-   "source": "udn",
+   "source": "UDN",
    "source_site": "https://travel.udn.com",
    "published_at": "2026-11-11T10:01+08:00",
    "query": "老街",
