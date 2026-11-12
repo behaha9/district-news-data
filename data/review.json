@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-12T07:18:20+08:00",
+ "updated_at": "2026-11-12T12:16:59+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -26,6 +26,11 @@
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-07"
+  },
+  "https://enn.tw/805292/": {
+   "decision": "kept",
+   "item": "20261110-taichung-port-imported",
+   "at": "2026-11-12"
   },
   "https://estate.ltn.com.tw/article/29207": {
    "decision": "hidden",
@@ -161,6 +166,11 @@
    "decision": "hidden",
    "reason": "企業人事",
    "at": "2026-11-04"
+  },
+  "https://money.udn.com/money/story/5635/9872588": {
+   "decision": "kept",
+   "item": "20261110-moea-excellent-district-award",
+   "at": "2026-11-12"
   },
   "https://money.udn.com/money/story/5720/9861439": {
    "decision": "hidden",
@@ -457,6 +467,11 @@
    "item": "20261102-tainan-zhanqian",
    "at": "2026-11-06"
   },
+  "https://today.line.me/tw/v3/article/LXeVleG": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-12"
+  },
   "https://today.line.me/tw/v3/article/Opl7VvB": {
    "decision": "hidden",
    "reason": "選舉",
@@ -686,6 +701,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-06"
+  },
+  "https://www.ettoday.net/news/20261112/3270531.htm": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-12"
   },
   "https://www.fbs168.com/news/11311-kaohsiung-ji-20-urban-renewal-breaks-ground-1741-homes": {
    "decision": "hidden",

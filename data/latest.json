@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T07:18:20+08:00",
+ "generated_at": "2026-11-12T12:16:59+08:00",
  "items": [
   {
    "id": "20261112-yuxiu-yanshui-district",
@@ -8,7 +8,7 @@
    "summary": "臺南市玉秀雙語國小整合地方資源，10月30日舉辦萬聖節英語與社區踩街活動，串聯鹽水14家商家，建立校園與在地商圈合作模式。",
    "category": "活動與街區",
    "alert": null,
-   "published_at": "2026-11-12T03:00:00+08:00",
+   "published_at": "2026-11-12T04:10:00+08:00",
    "cities": [
     "台南市"
    ],
@@ -20,12 +20,17 @@
    ],
    "sources": [
     {
+     "outlet": "中時新聞網",
+     "url": "https://www.chinatimes.com/newspapers/20261112000579-260204",
+     "published_at": "2026-11-12T04:10:00+08:00"
+    },
+    {
      "outlet": "工商時報",
      "url": "https://www.ctee.com.tw/news/20261112700352-439901",
      "published_at": "2026-11-12T03:00:00+08:00"
     }
    ],
-   "image": "https://images.ctee.com.tw/newsphoto/2026-11-12/1024/A40AC4_PictureItem_Clipping_03_4.jpg"
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-12/656/A40A00_P_03_02.jpg"
   },
   {
    "id": "20261110-moea-excellent-district-award",
@@ -1552,7 +1557,7 @@
      "published_at": "2026-11-02T17:56:00+08:00"
     }
    ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35478102.png&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
+   "image": "https://media.zenfs.com/ko/pinview_com_tw_506/518f4fa35bd912d92b8414d175c897c5.jpg"
   },
   {
    "id": "20261103-xinzhuang-miaojie-decline",
@@ -1921,7 +1926,7 @@
      "published_at": "2026-11-01T09:50:00+08:00"
     }
    ],
-   "image": "https://i01.ftnn.com.tw/a/26/304/26304142449279617e3a98.png"
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/def.jpg"
   },
   {
    "id": "20261023-fengyuan-halloween",
@@ -2579,42 +2584,6 @@
     }
    ],
    "image": "https://images.ctee.com.tw/newsphoto/2026-10-29/1024/20261029701504.jpg"
-  },
-  {
-   "id": "20261024-haian-green-market",
-   "title": "崑山科大在海安商圈辦第5屆綠色永續市集，12家店家導入綠色行銷",
-   "summary": "崑山科大10月24至25日在海安商圈舉辦綠色永續市集，約30個攤位參與，並串聯商圈店家推動綠色行銷。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-29T09:14:00+08:00",
-   "cities": [
-    "台南市"
-   ],
-   "districts": [
-    {
-     "name": "海安商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "海安商圈為115年補助名單，活動已於商圈辦理，可作為執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "PChome Online新聞",
-     "url": "https://news.pchome.com.tw/living/1111news/20261029/index-79323649560105358009.html",
-     "published_at": "2026-10-29T09:14:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261029592720",
-     "published_at": "2026-10-29T08:00:00+08:00"
-    },
-    {
-     "outlet": "中央社",
-     "url": "https://www.cna.com.tw/postwrite/chi/448211",
-     "published_at": "2026-10-28T04:14:00+08:00"
-    }
-   ],
-   "image": "https://news.pchome.com.tw/newsdata/living/1111news/20261029/79323649560105358009_original.jpg"
   }
  ],
  "discussions": []

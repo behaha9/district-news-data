@@ -109,6 +109,45 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-12T12:16:59+08:00",
+   "added": 0,
+   "merged": 1,
+   "items": [
+    {
+     "id": "20261112-yuxiu-yanshui-district",
+     "title": "臺南玉秀雙語國小串聯鹽水商圈商家，辦萬聖節英語踩街",
+     "summary": "臺南市玉秀雙語國小整合地方資源，10月30日舉辦萬聖節英語與社區踩街活動，串聯鹽水14家商家，建立校園與在地商圈合作模式。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-12T04:10:00+08:00",
+     "cities": [
+      "台南市"
+     ],
+     "districts": [
+      {
+       "name": "鹽水商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "中時新聞網",
+       "url": "https://www.chinatimes.com/newspapers/20261112000579-260204",
+       "published_at": "2026-11-12T04:10:00+08:00"
+      },
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261112700352-439901",
+       "published_at": "2026-11-12T03:00:00+08:00"
+      }
+     ],
+     "image": "https://images.chinatimes.com/newsphoto/2026-11-12/656/A40A00_P_03_02.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
