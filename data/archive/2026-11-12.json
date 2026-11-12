@@ -329,6 +329,364 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-12T20:53:47+08:00",
+   "added": 6,
+   "merged": 3,
+   "items": [
+    {
+     "id": "20261112-chiayi-chongwen-parking",
+     "title": "嘉義市崇文國小地下停車場竣工，可紓解文化路商圈停車需求",
+     "summary": "嘉義市崇文國小地下停車場舉行竣工典禮，提供207席車位，13日起正式營運，市府期望紓解文化路一帶商圈停車需求。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-12T19:59:00+08:00",
+     "cities": [
+      "嘉義市"
+     ],
+     "districts": [
+      {
+       "name": "文化路商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/ChiayiCounty/breakingnews/5638912",
+       "published_at": "2026-11-12T19:59:00+08:00"
+      }
+     ],
+     "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/12/5638912_1_1.jpg"
+    },
+    {
+     "id": "20261112-banxin-mrt-tod",
+     "title": "新北環狀線板新站捷運開發案開工，市府期盼帶動板新商圈商業動能",
+     "summary": "新北市府指板橋區規模最大的捷運開發案板新站12日開工，投資逾60億元，預計2030年完工，期望帶動板新商圈發展。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-12T15:48:00+08:00",
+     "cities": [
+      "新北市"
+     ],
+     "districts": [
+      {
+       "name": "板新商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://www.ettoday.net/news/20261112/3271025.htm",
+       "published_at": "2026-11-12T15:48:00+08:00"
+      },
+      {
+       "outlet": "中華日報",
+       "url": "https://www.cdns.com.tw/articles/1489171",
+       "published_at": "2026-11-12T14:42:00+08:00"
+      },
+      {
+       "outlet": "報新聞",
+       "url": "https://www.contentplatform.info/articles/573840/%e6%9d%bf%e6%96%b0%e5%95%86%e5%9c%88%e6%96%b0%e5%9c%b0%e6%a8%99%ef%bc%81-%e6%9d%bf%e6%a9%8b%e6%9c%80%e5%a4%a7%e6%8d%b7%e9%81%8b%e9%96%8b%e7%99%bc%e6%a1%88%e5%8b%95%e5%9c%9f2030%e5%b9%b4%e5%ae%8c/",
+       "published_at": "2026-11-12T13:34:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7323/9873968",
+       "published_at": "2026-11-12T12:23:00+08:00"
+      },
+      {
+       "outlet": "中央社",
+       "url": "https://www.cna.com.tw/postwrite/chi/449790",
+       "published_at": "2026-11-12T11:51:00+08:00"
+      },
+      {
+       "outlet": "新北市政府",
+       "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=4ecf87f6252256433a04aa3fb8231ec4",
+       "published_at": "2026-11-12T11:30:00+08:00"
+      }
+     ],
+     "image": "https://cdn2.ettoday.net/images/9012/e9012178.jpg"
+    },
+    {
+     "id": "20261112-keelung-weituohang-award",
+     "title": "基隆委託行商圈獲全國卓越商圈獎「亮點觀光獎」",
+     "summary": "經濟部商業署10日舉辦全國卓越商圈獎頒獎，基隆委託行商圈獲亮點觀光獎，報導提到文化走讀、數位創新與店家串聯。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-12T18:15:00+08:00",
+     "cities": [
+      "基隆市"
+     ],
+     "districts": [
+      {
+       "name": "委託行商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "委託行商圈為115年補助名單，獲全國卓越商圈獎肯定，可作為商圈發展成果參考。",
+     "sources": [
+      {
+       "outlet": "樂聯網",
+       "url": "https://leho.com.tw/archives/425453",
+       "published_at": "2026-11-12T18:15:00+08:00"
+      },
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/766797/",
+       "published_at": "2026-11-12T17:40:00+08:00"
+      }
+     ],
+     "image": "https://leho.com.tw/wp-content/uploads/2026/04/1777427618756-150x150.jpg"
+    },
+    {
+     "id": "20261112-xinyi-xmas-tree",
+     "title": "信義商圈首棵耶誕樹點燈，業者估耶誕檔期人潮增10%",
+     "summary": "信義商圈新光三越A11館前20米高耶誕樹點燈，搭配1500場下雪秀與耶誕老人活動，業者預估人潮比去年增加一成。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-12T18:53:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "信義商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "壹蘋新聞網",
+       "url": "https://news.nextapple.com/life/20261112/BCB209F451A7F5FBEC2C2FB0DD535FAD",
+       "published_at": "2026-11-12T18:53:00+08:00"
+      }
+     ],
+     "image": "https://static-cdn.nextapple.tw/prod/2026-11/BCB209F451A7F5FBEC2C2FB0DD535FAD/564585ab10bbf41feb40f15edd45791b_1280.jpeg"
+    },
+    {
+     "id": "20261112-rongcho-streetdance",
+     "title": "總統盃街舞大賽14日決賽，臺北榮町商圈23家店家推集點送禮",
+     "summary": "2026總統盃街舞大賽全國總決賽14日在凱道登場，臺北榮町商圈23家特色店家響應，民眾逛商圈集點可換好禮。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-12T17:51:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "榮町商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "榮町商圈為115年補助名單，報導指店家串聯賽事集點，可作為活動辦理與執行佐證參考。",
+     "sources": [
+      {
+       "outlet": "民視新聞網",
+       "url": "https://www.ftvnews.com.tw/news/detail/2026B12W0675",
+       "published_at": "2026-11-12T17:51:00+08:00"
+      }
+     ],
+     "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/c713604c-224e-4cf8-87f7-9a2987d7544b.jpg"
+    },
+    {
+     "id": "20261112-yingge-light-oldstreet",
+     "title": "鶯歌光點雙展13日登場，從台北藝博延伸到鶯歌老街",
+     "summary": "鶯歌光點首度參展台北國際藝術博覽會，並邀民眾走進鶯歌老街，13日起展出雙展。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-12T05:12:00+08:00",
+     "cities": [
+      "新北市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "中央社",
+       "url": "https://www.cna.com.tw/postwrite/chi/449836",
+       "published_at": "2026-11-12T05:12:00+08:00"
+      }
+     ],
+     "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261112/00449836.20261112601993034M.jpg"
+    },
+    {
+     "id": "20261112-taoyuan-biz-transform",
+     "title": "桃園商業轉型服務中心發表三年成果，副市長盼老街店家轉型、展現商圈特色",
+     "summary": "桃園市政府12日舉辦商業轉型服務中心成果發表會，以數位轉型、永續轉型與品牌行銷三大主軸輔導老店與商圈。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-12T18:07:00+08:00",
+     "cities": [
+      "桃園市"
+     ],
+     "districts": [
+      {
+       "name": "大溪形象商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "大溪形象商圈為115年補助名單，市府輔導商圈轉型，可留意與補助案特色形塑的銜接。",
+     "sources": [
+      {
+       "outlet": "風傳媒",
+       "url": "https://www.storm.mg/article/11181058",
+       "published_at": "2026-11-12T18:07:00+08:00"
+      },
+      {
+       "outlet": "風傳媒",
+       "url": "https://www.storm.mg/article/11181028",
+       "published_at": "2026-11-12T17:15:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261112134308",
+       "published_at": "2026-11-12T16:53:00+08:00"
+      },
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/766671/",
+       "published_at": "2026-11-12T14:58:00+08:00"
+      },
+      {
+       "outlet": "台灣好新聞",
+       "url": "https://www.taiwanhot.net/news/1153914/%E6%A1%83%E5%9C%92%E5%95%86%E6%A5%AD%E8%BD%89%E5%9E%8B%E4%B8%AD%E5%BF%83%E4%B8%89%E5%B9%B4%E6%9C%89%E6%88%90+%E8%98%87%E4%BF%8A%E8%B3%93%EF%BC%9A%E6%96%B0%E7%A9%8E%E8%88%87%E5%82%B3%E7%B5%B1%E5%85%BC%E5%AE%B9%E5%B1%95%E7%A4%BA%E5%95%86%E5%9C%88%E5%9C%A8%E5%9C%B0%E7%89%B9%E8%89%B2",
+       "published_at": "2026-11-12T14:58:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261112581251",
+       "published_at": "2026-11-12T14:54:00+08:00"
+      },
+      {
+       "outlet": "翻爆",
+       "url": "https://turnnewsapp.com/livenews/life/20261112002544-260405",
+       "published_at": "2026-11-12T13:10:00+08:00"
+      },
+      {
+       "outlet": "中時新聞網",
+       "url": "https://www.chinatimes.com/realtimenews/20261112002544-260405",
+       "published_at": "2026-11-12T12:06:00+08:00"
+      },
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261112701271-431401",
+       "published_at": "2026-11-12T12:06:00+08:00"
+      }
+     ],
+     "image": "https://images.storm.mg/cloud/0bde0110af71e035165aaa1c909360f28cec43ad.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2252229%2FMEeyO4vQiw9I63cumZbYw6hC1GHNjjnMGfVZkM9e.jpeg&g=sm&h=900&resize=fill&w=1600&format=jpg"
+    },
+    {
+     "id": "20261112-gimme-xinyi",
+     "title": "欣食旅新品牌「GIMME」在信義商圈新光三越A8館開幕",
+     "summary": "雄獅集團旗下欣食旅推出新品牌GIMME，12日在信義商圈新光三越A8館正式開幕，主打健康餐飲與輕社交。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-12T19:02:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "信義商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://ec.ltn.com.tw/article/breakingnews/5638831",
+       "published_at": "2026-11-12T19:02:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7241/9874375",
+       "published_at": "2026-11-12T14:26:00+08:00"
+      },
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/5612/9874375",
+       "published_at": "2026-11-12T14:26:00+08:00"
+      },
+      {
+       "outlet": "Yahoo股市",
+       "url": "https://tw.stock.yahoo.com/news/%E9%9B%84%E7%8D%85%E9%A4%90%E9%A3%B2%E5%B0%8F%E9%87%91%E9%9B%9E%E3%80%8C%E6%AC%A3%E9%A3%9F%E6%97%85%E3%80%8D%E6%8B%9A2032%E5%B9%B4ipo-%E6%96%B0%E5%93%81%E7%89%8C%E3%80%8Cgimme%E3%80%8D%E6%8F%92%E6%97%97%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88-061517262.html",
+       "published_at": "2026-11-12T14:15:00+08:00"
+      },
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261112701000-430503",
+       "published_at": "2026-11-12T12:36:00+08:00"
+      },
+      {
+       "outlet": "欣傳媒",
+       "url": "https://www.xinmedia.com/article/306748",
+       "published_at": "2026-11-12T09:34:00+08:00"
+      }
+     ],
+     "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/12/5638831_1.jpg"
+    },
+    {
+     "id": "20261111-taoyuan-three-districts-merit",
+     "title": "桃園3大商圈獲經濟部商業署肯定，經發局將持續投入振興與轉型資源",
+     "summary": "桃園電子報報導，商業署長頒發感謝狀肯定各縣市府推動商圈發展，桃園市府由經發局長出席領取，經發局表示將持續投入資源。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-11T17:19:00+08:00",
+     "cities": [
+      "桃園市"
+     ],
+     "districts": [
+      {
+       "name": "魅力金三角商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "魅力金三角商圈為115年補助名單，獲中央肯定，可作為商圈發展成果與後續執行參考。",
+     "sources": [
+      {
+       "outlet": "臺灣導報",
+       "url": "https://taiwanreports.com/archives/1025433",
+       "published_at": "2026-11-11T17:19:00+08:00"
+      },
+      {
+       "outlet": "台灣好新聞",
+       "url": "https://www.taiwanhot.net/news/1153738/%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E9%96%83%E8%80%80%E5%85%A8%E5%9C%8B+%E6%A6%AE%E5%A5%AA%E7%B6%93%E6%BF%9F%E9%83%A8%E3%80%8C2026%E5%85%A8%E5%9C%8B%E5%8D%93%E8%B6%8A%E5%95%86%E5%9C%88%E7%8D%8E%E3%80%8D%E4%B8%89%E7%8D%8E%E9%A0%85",
+       "published_at": "2026-11-11T13:25:00+08:00"
+      },
+      {
+       "outlet": "桃園電子報",
+       "url": "https://tyenews.com/2026/11/1428580/",
+       "published_at": "2026-11-11T10:41:00+08:00"
+      },
+      {
+       "outlet": "商傳媒",
+       "url": "https://sunmedia.tw/news/collaborative/bmSlYsvnt9ZoK2uvI0VjRm19SNNTsIK86gdKNKfTQlvbN2GykL2L67tw6yey2nuwQ5Wjxs8eEe9BG5qrB",
+       "published_at": "2026-11-11T10:41:00+08:00"
+      },
+      {
+       "outlet": "LIFE 生活網",
+       "url": "https://life.tw/article/%E6%A1%83%E5%9C%923%E5%A4%A7%E5%95%86%E5%9C%88%E7%8D%B2%E4%B8%AD%E5%A4%AE%E8%82%AF%E5%AE%9A-%E7%B6%93%E7%99%BC%E5%B1%80-%E6%8C%81%E7%BA%8C%E6%8A%95%E5%85%A5%E6%8C%AF%E8%88%88%E8%88%87%E8%BD%89%E5%9E%8B%E8%B3%87%E6%BA%90-3213385",
+       "published_at": "2026-11-11T10:40:00+08:00"
+      },
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/765408/",
+       "published_at": "2026-11-11T00:00:00+08:00"
+      },
+      {
+       "outlet": "桃園市政府經濟發展局",
+       "url": "https://edb.tycg.gov.tw/News_Content.aspx?n=3749&s=1969810",
+       "published_at": "2026-11-11T00:00:00+08:00"
+      }
+     ],
+     "image": "https://www.taiwanhot.net/cache/1317866/lg/medias-20261111-6af3f655c684a.jpeg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
