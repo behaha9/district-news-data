@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-13T16:50:39+08:00",
+ "updated_at": "2026-11-13T20:53:47+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -201,6 +201,11 @@
    "decision": "kept",
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-12"
+  },
+  "https://money.udn.com/money/story/5636/9877059": {
+   "decision": "hidden",
+   "reason": "業配遊記",
+   "at": "2026-11-13"
   },
   "https://money.udn.com/money/story/5720/9861439": {
    "decision": "hidden",
@@ -877,6 +882,11 @@
    "reason": "選舉",
    "at": "2026-11-05"
   },
+  "https://www.mirrormedia.mg/external/amp/setn_1938259": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-13"
+  },
   "https://www.mirrormedia.mg/external/mirrordaily_94977": {
    "decision": "kept",
    "item": "20261101-xinyi-halloween-crowd",
@@ -1057,6 +1067,11 @@
    "item": "20261106-taoyuan-district-feature",
    "at": "2026-11-08"
   },
+  "https://www.setn.com/news/1938259": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-13"
+  },
   "https://www.sohu.com/a/1097212950_100116740": {
    "decision": "hidden",
    "reason": "國外",
@@ -1101,6 +1116,11 @@
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-06"
+  },
+  "https://www.tcpttw.com/local/2026/11/13/330213/": {
+   "decision": "kept",
+   "item": "20261111-songshan-rice-fest",
+   "at": "2026-11-13"
   },
   "https://www.tcpttw.com/other/other_local/2026/11/09/328487/": {
    "decision": "hidden",
