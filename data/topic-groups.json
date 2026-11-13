@@ -1,10 +1,18 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-12T15:50:00+08:00",
+  "updated_at": "2026-11-13T21:05:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
+        {
+          "id": "20261113-kaohsiung-oil-safety",
+          "note": "高雄議員提沙拉油漲價缺貨與供應鏈食安隱憂",
+          "representative": "https://www.ettoday.net/news/20261113/3271785.htm",
+          "urls": [
+            "https://www.ettoday.net/news/20261113/3271785.htm"
+          ]
+        },
         {
           "id": "20261101-yearend-banquet",
           "note": "沙拉油荒恐衝擊尾牙、年菜並帶動價格上漲",
@@ -317,7 +325,9 @@
             "https://news.cts.com.tw/cts/life/202611/202611113099843.html",
             "https://www.cna.com.tw/news/ahel/202611110163.aspx",
             "https://newsdaily.tw/news/wuqtpu3u7er",
-            "https://www.storm.mg/article/11180763"
+            "https://www.storm.mg/article/11180763",
+            "https://udn.com/news/story/7326/9871662",
+            "https://tw.news.yahoo.com/%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E5%82%B3%E7%BC%BA%E8%B2%A8%E5%83%B9%E6%A0%BC%E9%A3%86%E6%BC%B2-%E5%8F%B0%E5%8D%97%E5%B8%82%E5%BA%9C%E8%81%AF%E6%89%8B%E5%8F%B0%E7%B3%96%E9%97%A2%E8%AC%A0-%E4%BE%9B%E6%87%89%E7%B5%95%E5%B0%8D%E5%A4%A0-095430426.html"
           ]
         },
         {
@@ -388,6 +398,10 @@
         {
           "url": "https://more-news.tw/763815/",
           "reason": "東引小吃店點餐介紹，與食用油缺貨議題無關"
+        },
+        {
+          "url": "https://money.udn.com/money/story/7843/9876644",
+          "reason": "橄欖油商品新聞，與食用油缺貨議題無關"
         }
       ]
     }
