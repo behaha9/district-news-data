@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-13T20:53:47+08:00",
+ "updated_at": "2026-11-14T07:19:14+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -36,6 +36,11 @@
    "decision": "kept",
    "item": "20261110-taichung-port-imported",
    "at": "2026-11-12"
+  },
+  "https://enn.tw/805984/": {
+   "decision": "kept",
+   "item": "20261110-moea-excellent-district-award",
+   "at": "2026-11-14"
   },
   "https://estate.ltn.com.tw/article/29207": {
    "decision": "hidden",
@@ -152,6 +157,11 @@
    "item": "20261106-xinhua-newyear-street",
    "at": "2026-11-07"
   },
+  "https://media.posu.tw/uninews_view.php?new_sn=149369": {
+   "decision": "kept",
+   "item": "20261112-taoyuan-biz-transform",
+   "at": "2026-11-14"
+  },
   "https://mknews.com.tw/2026/10/1011343/": {
    "decision": "kept",
    "item": "20261031-tainan-shopping-30b",
@@ -202,6 +212,11 @@
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-12"
   },
+  "https://money.udn.com/money/story/5635/9874272": {
+   "decision": "kept",
+   "item": "20261112-taoyuan-biz-transform",
+   "at": "2026-11-14"
+  },
   "https://money.udn.com/money/story/5636/9877059": {
    "decision": "hidden",
    "reason": "業配遊記",
@@ -236,6 +251,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-07"
+  },
+  "https://mypeoplevol.com/2026/life/120122/": {
+   "decision": "kept",
+   "item": "20261112-banxin-mrt-tod",
+   "at": "2026-11-14"
   },
   "https://n.yam.com/Article/20261030548897": {
    "decision": "kept",
@@ -412,6 +432,11 @@
    "reason": "選舉",
    "at": "2026-11-07"
   },
+  "https://news.ltn.com.tw/amp/news/society/breakingnews/5639189": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-14"
+  },
   "https://news.ltn.com.tw/news/ChiayiCounty/breakingnews/5628919": {
    "decision": "kept",
    "item": "20261104-luchao-okinawa-mou",
@@ -562,6 +587,11 @@
    "reason": "治安車禍",
    "at": "2026-11-09"
   },
+  "https://travel.ettoday.net/amp/3271765": {
+   "decision": "kept",
+   "item": "20261113-zhongyuan-mickey-steak",
+   "at": "2026-11-14"
+  },
   "https://truemii.chinatimes.com/content/20261113000005-265001": {
    "decision": "hidden",
    "reason": "選舉",
@@ -596,6 +626,11 @@
    "decision": "kept",
    "item": "20261106-taoyuan-district-feature",
    "at": "2026-11-07"
+  },
+  "https://tw.news.yahoo.com/%E6%AC%A3%E9%A3%9F%E6%97%85%E6%96%B0%E5%93%81%E7%89%8C-gimme-%E9%80%B2%E8%BB%8D%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88-%E7%9E%84%E6%BA%96%E9%83%BD%E6%9C%83-%E8%BC%95%E7%A4%BE%E4%BA%A4-013420558.html": {
+   "decision": "kept",
+   "item": "20261112-gimme-xinyi",
+   "at": "2026-11-14"
   },
   "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E8%B3%8A%E6%BD%9B%E5%BE%8C%E5%8F%B0%E8%A1%8C%E7%AB%8A-30%E7%A7%92%E5%85%A7%E5%81%B7%E5%8C%85%E5%BE%97%E6%89%8B5%E8%90%AC-134700153.html": {
    "decision": "hidden",
@@ -761,6 +796,11 @@
    "decision": "kept",
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-12"
+  },
+  "https://www.cna.com.tw/postwrite/chi/449946": {
+   "decision": "kept",
+   "item": "20261112-taoyuan-biz-transform",
+   "at": "2026-11-14"
   },
   "https://www.contentplatform.info/articles/557107/%E5%8F%B0%E5%8D%97%E8%B3%BC%E7%89%A9%E7%AF%80%E7%99%BB%E9%8C%84%E7%A0%B430%E5%84%84%E5%85%83%E3%80%8011%E6%9C%88%E5%95%86%E5%9C%88%E6%B4%BB%E5%8B%95%E3%80%81%E8%81%96%E8%AA%95%E9%BB%9E%E7%87%88/": {
    "decision": "kept",
@@ -1031,6 +1071,11 @@
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-04"
+  },
+  "https://www.msn.com/zh-tw/travel/%E4%B8%80%E8%88%AC/2026%E5%85%A8%E5%9C%8B%E5%8D%93%E8%B6%8A%E5%95%86%E5%9C%88%E7%8D%8E-%E6%8F%AD%E6%9B%89-20%E8%99%95%E7%89%B9%E8%89%B2%E5%95%86%E5%9C%88%E7%8D%B2%E8%82%AF%E5%AE%9A/ar-AA2hhxxh": {
+   "decision": "kept",
+   "item": "20261110-moea-excellent-district-award",
+   "at": "2026-11-14"
   },
   "https://www.myhousing.com.tw/n/n01/south-taiwan/tainan-estate/303513/": {
    "decision": "hidden",

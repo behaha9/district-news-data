@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T20:53:47+08:00",
+ "generated_at": "2026-11-14T07:19:13+08:00",
  "items": [
   {
    "id": "20261113-zhongyuan-mickey-steak",
@@ -32,6 +32,37 @@
     }
    ],
    "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1d47d-6e87-7331-bb08-ae08271ba3d5.jpg?t=16x9&c=0,0,1200,675&w=1200&h=675"
+  },
+  {
+   "id": "20261112-rongcho-streetdance",
+   "title": "總統盃街舞大賽14日決賽，臺北榮町商圈23家店家推集點送禮",
+   "summary": "2026總統盃街舞大賽全國總決賽14日在凱道登場，臺北榮町商圈23家特色店家響應，民眾逛商圈集點可換好禮。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-13T18:20:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "榮町商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "榮町商圈為115年補助名單，報導指店家串聯賽事集點，可作為活動辦理與執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "TSNA體育新聞團隊",
+     "url": "https://tsna.com/article/205698",
+     "published_at": "2026-11-13T18:20:00+08:00"
+    },
+    {
+     "outlet": "民視新聞網",
+     "url": "https://www.ftvnews.com.tw/news/detail/2026B12W0675",
+     "published_at": "2026-11-12T17:51:00+08:00"
+    }
+   ],
+   "image": "https://imgs.tsna.com/article/2026N1794564892_0ebfabccfc224dd581256f92f2a49016.jpg"
   },
   {
    "id": "20261111-songshan-rice-fest",
@@ -402,6 +433,11 @@
      "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261112133769",
      "published_at": "2026-11-12T21:33:00+08:00"
+    },
+    {
+     "outlet": "民眾新聞網",
+     "url": "https://mypeoplevol.com/2026/life/120221/",
+     "published_at": "2026-11-12T21:33:00+08:00"
     }
    ],
    "image": "https://media.zenfs.com/en/mypeople.tw/0d162850a2b94745ed9148b436b5b3f5.jpg"
@@ -491,32 +527,6 @@
     }
    ],
    "image": "https://leho.com.tw/wp-content/uploads/2026/04/1777427618756-150x150.jpg"
-  },
-  {
-   "id": "20261112-rongcho-streetdance",
-   "title": "總統盃街舞大賽14日決賽，臺北榮町商圈23家店家推集點送禮",
-   "summary": "2026總統盃街舞大賽全國總決賽14日在凱道登場，臺北榮町商圈23家特色店家響應，民眾逛商圈集點可換好禮。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-12T17:51:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "榮町商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "榮町商圈為115年補助名單，報導指店家串聯賽事集點，可作為活動辦理與執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "民視新聞網",
-     "url": "https://www.ftvnews.com.tw/news/detail/2026B12W0675",
-     "published_at": "2026-11-12T17:51:00+08:00"
-    }
-   ],
-   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/c713604c-224e-4cf8-87f7-9a2987d7544b.jpg"
   },
   {
    "id": "20261112-jins-xinzhuang",
@@ -1072,7 +1082,7 @@
      "published_at": "2026-11-03T21:13:00+08:00"
     }
    ],
-   "image": "https://doqvf81n9htmm.cloudfront.net/data/petra_284/110500(1).jpg"
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/03/35481533.jpg&M=1&s=Y&x=0&y=0&sw=1114&sh=1633&sl=W&fw=1050&exp=3600"
   },
   {
    "id": "20261106-dongqu-anniv",
@@ -1391,7 +1401,7 @@
      "published_at": "2026-11-06T21:48:00+08:00"
     }
    ],
-   "image": "https://media.zenfs.com/ko/cdns.com.tw/4e080f1720e4e6265f04379766b68eca.jpg"
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/07181430/77005a-20261107082009928-0-1024x536.jpg"
   },
   {
    "id": "20261106-xinhua-newyear-street",
@@ -2169,7 +2179,7 @@
      "published_at": "2026-11-02T15:30:00+08:00"
     }
    ],
-   "image": "https://media.zenfs.com/ko/cdns.com.tw/98e60a9c22f955a0f33aaca6f404dc4e.jpg"
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/02174100/1930248-1024x576.jpg"
   },
   {
    "id": "20261102-old-street-crowd-data",
@@ -2437,7 +2447,7 @@
     }
    ],
    "admin_note": "成大商圈為115年補助名單，活動公開辦理，可作為執行佐證參考。",
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/29/5622367_2_1.jpg"
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/01193613/T90052a-20261101152734346-0-1024x907.jpg"
   },
   {
    "id": "20261101-xinyi-halloween-crowd",
@@ -2802,112 +2812,6 @@
     }
    ],
    "image": "https://ni.yam.com/20261031/11--8f91154a193dae00.webp"
-  },
-  {
-   "id": "20261030-taichung-cmp-parking",
-   "title": "台中勤美商圈、審計新村周邊路邊停車實施無紙化收費",
-   "summary": "台中市交通局擴大路邊智慧停車無紙化，勤美商圈及審計新村周邊9條路段共309格自10月30日起實施。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-10-31T06:54:00+08:00",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    {
-     "name": "勤美商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "天天上新聞",
-     "url": "https://mknews.com.tw/2026/10/1011290/",
-     "published_at": "2026-10-31T06:54:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261031824701",
-     "published_at": "2026-10-31T00:20:00+08:00"
-    },
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5624313",
-     "published_at": "2026-10-30T21:05:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261030152361",
-     "published_at": "2026-10-30T19:54:00+08:00"
-    }
-   ],
-   "image": "https://ni.yam.com/20261031/img-9835-1500x1125-f142edf20fec20d6.webp"
-  },
-  {
-   "id": "20261030-eslite-zhongshan-station",
-   "title": "誠品取得捷運中山站商鋪使用權，預計明年第1季開幕並串連南西商圈",
-   "summary": "誠品生活公告取得捷運中山站商鋪使用權，預計明年第1季改裝完成，未來將與誠品南西、R79及爵士廣場串聯，擴大商圈經營。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-10-30T23:20:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "中山商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "中山商圈為115年補助名單，大型業者進駐可能影響商圈人流與店家競合，可留意商圈後續動態。",
-   "sources": [
-    {
-     "outlet": "三立新聞網",
-     "url": "https://inews.setn.com/news/1931121",
-     "published_at": "2026-10-30T23:20:00+08:00"
-    },
-    {
-     "outlet": "Yahoo股市",
-     "url": "https://tw.stock.yahoo.com/news/%E8%AA%A0%E5%93%81%E5%8F%96%E5%BE%97%E6%8D%B7%E9%81%8B%E4%B8%AD%E5%B1%B1%E7%AB%99%E5%95%86%E9%8B%AA%E4%BD%BF%E7%94%A8%E6%AC%8A-%E4%B8%B2%E9%80%A3%E5%8D%97%E8%A5%BF%E5%95%86%E5%9C%88-133122855.html",
-     "published_at": "2026-10-30T21:31:00+08:00"
-    },
-    {
-     "outlet": "中央社",
-     "url": "https://www.cna.com.tw/news/afe/202610300318.aspx",
-     "published_at": "2026-10-30T21:30:00+08:00"
-    },
-    {
-     "outlet": "工商時報",
-     "url": "https://www.ctee.com.tw/news/20261030701905-430503",
-     "published_at": "2026-10-30T20:41:00+08:00"
-    }
-   ],
-   "image": "https://attach.setn.com/newsimages/2026/10/30/5769367-XXL.jpg"
-  },
-  {
-   "id": "20261030-xinyi-muzha-tea",
-   "title": "北市府攜手木柵農會，在信義威秀行人廣場辦「木柵小茶館」推廣在地茶產業",
-   "summary": "產業局與木柵區農會10月30日至11月1日在信義商圈辦茶館活動，讓民眾認識文山區茶產業，並有鐵觀音跨界餐飲進駐。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-30T23:00:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "信義商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "風傳媒",
-     "url": "https://www.storm.mg/article/11177269",
-     "published_at": "2026-10-30T23:00:00+08:00"
-    }
-   ],
-   "image": "https://images.storm.mg/cloud/f4d2c059589c41e5010729d2dffa4bc73af5d434.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2243336%2FeVY0FjD2LdL8MhcX8OJgb0Um8idli3EWgZkZgxtq.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
   }
  ],
  "discussions": []
