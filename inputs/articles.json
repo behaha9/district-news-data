@@ -1,33 +1,33 @@
 {
- "fetched_at": "2026-11-13T20:52:24+08:00",
+ "fetched_at": "2026-11-13T23:32:30+08:00",
  "articles": {
   "https://www.fclnews.com/235170/": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.pchome.com.tw/travel/sharelife/20261102/index-79357760099": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.fclnews.com/235770/": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.juksy.com/article/154111": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.housefun.com.tw/news/article/189863490667.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.yesmedia.com.tw/%e4%b8%ad%e5%b8%82%e7%89%a9%e8%aa%bf%e5%88%b8%e4%ba%ba%e6%b0%a3%e5%a0%b4%e5%9f%9f%e6%8f%ad%e6%9b%89%ef%bc%81%e4%b8%80%e4%b8%ad%e5%95%86%e5%9c%88%e5%a5%aa%e5%86%a0%e3%80%81%e9%80%a2%e7%94%b2%e5%a4%9c/": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -42,27 +42,38 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.ebc.net.tw/search/tags/度小月/": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)"
   },
   "https://www.aoc.gov.tw/showPublic/811": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1486194": {
-   "checked_at": "2026-11-13T14:58+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T18:15+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者陳華興／桃園報導 桃園市政府率全國之先推出「商用廚餘機補助計畫」，獲得團膳業、餐飲業者一致好評。市府為進一步減輕中小型餐飲業者的負擔並擴大減量效益，特將商圈、傳統市場及夜市管理機構納入補助範圍，並將設備設計處理量增加一百公斤至五十公斤機型，同時展延申請期限至一一六年八月三十一日，藉以鼓勵更多業者投入廚餘及廢油脂回收",
+   "cities": {
+    "桃園市": 8
+   },
+   "districts": [],
+   "body_chars": 811,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/06181531/77005a-20261106131139453-0-1024x768.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/public/taipei/20261106/index-79396742038585126016.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://life.tw/article/經濟部改造全台四大商圈市場-導入設計改善動線與消費環境-3207568": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 13-25: ordinal not in range(128)"
   },
@@ -77,12 +88,23 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1486711": {
-   "checked_at": "2026-11-13T14:58+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T18:14+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者陳華興／桃園報導 桃園市長張善政六日晚間出席「一一五年桃園市商圈特色亮點形塑成果發表會」。張善政表示，桃園商圈涵蓋山區、濱海及都會地帶，各具文化底蘊與產業特色，市府將持續推動「一商圈一特色」，整合經發、文化及農業等跨局處資源，協助商圈發掘在地特色、強化品牌行銷，讓桃園特色商圈走向全臺，進一步提升地方產業競爭力。 張",
+   "cities": {
+    "桃園市": 18
+   },
+   "districts": [],
+   "body_chars": 661,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/07181430/77005a-20261107082009928-0-1024x536.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cna/local/202611/202611043097404.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -92,57 +114,101 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1483649": {
-   "checked_at": "2026-11-13T14:58+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-01T19:36+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者林怡孜∕台南報導 萬聖節不只有鬼怪與糖果，連街頭變電箱也能成為心理健康宣導的主角。日前成大商圈舉辦萬聖節活動，關廟區社區心理衛生工作人員發揮創意，將變電箱、電線桿變成逗趣的萬聖節造型，搭配情緒圖卡及互動遊戲，吸引大小朋友在歡樂氣氛中學習認識情緒、紓解壓力。 這場「心衛出任務 攏來萬聖節」變裝遊行，最吸睛的莫過於工作",
+   "cities": {
+    "台南市": 2
+   },
+   "districts": [
+    "成大商圈（台南市）"
+   ],
+   "body_chars": 488,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/01193613/T90052a-20261101152734346-0-1024x907.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-01",
+   "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1484010": {
-   "checked_at": "2026-11-13T14:58+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T17:41+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者林雪娟／台南報導 陪伴市民三十年的新光三越中山店十月底正式結束營業，雖然傳出有企業接手，然許多人擔心站前商圈恐因而沒落。經發局表示，雖因租賃契約期滿及該企業整體營運布局調整而結束營業，然原有商業空間仍具發展潛力，未來可望透過不同經營模式與業態組合，持續發揮其位處台南交通門戶及舊城核心的區位優勢。 經發局表示，新光三",
+   "cities": {
+    "台南市": 24
+   },
+   "districts": [],
+   "body_chars": 873,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/02174100/1930248-1024x576.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1482837": {
-   "checked_at": "2026-11-13T14:58+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T21:12+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "本報綜合報導 中聯停工影響國內沙拉油供應。經濟部三十日表示，持續透過供需媒合、協調國內業者增產及鼓勵進口等方式增加供應，截至十月中旬合計已協助八十九家食品業者取得共一千八百四十二噸沙拉油，另已協調油品進口商第四季擴大進口五千噸，後續也將協助中小型業者以商圈或夜市自治會為單位進行媒合。 經濟部指出，國內供給方面，先前已協",
+   "cities": {},
+   "districts": [],
+   "body_chars": 689,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/10/30211209/81003a-20260818185256015-0_copy1-1024x659.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/society/thehubnews/20261105/index-79384856854895306009.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.pchome.com.tw/living/meganews/20261108/index-79410371643902335009.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.cts.com.tw/cts/society/202611/202611083098664.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.pchome.com.tw/living/thehubnews/20261105/index-79384856854895306009.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.pchome.com.tw/expense/m00361/20261105/index-79385610973985361013.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.yesmedia.com.tw/%e6%a1%83%e5%9c%92%e6%8e%a8%e5%8b%95%e4%b8%80%e5%95%86%e5%9c%88%e4%b8%80%e7%89%b9%e8%89%b2-%e7%88%ad%e5%8f%962300%e8%90%ac%e8%a3%9c%e5%8a%a9%e8%bc%94%e5%b0%8e%e7%87%9f%e9%81%8b/": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.cdns.com.tw/articles/1487373": {
-   "checked_at": "2026-11-13T14:58+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T21:04+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者陳金龍／台中報導 因應國內沙拉油供應短缺，中市府多管齊下，協調中央擴大供給、增加進口、盤點替代油品，並強化市場價格稽查。市長盧秀燕也親自召開會議，掌握食用油供需及價格變化，要求市府團隊積極協助業者。市府經發局說明，在食安優先原則下，市府食安處嚴格審查並抽驗福壽公司申請重新上架的油品，確認約一千二百零五公噸產品符合安",
+   "cities": {
+    "台中市": 4
+   },
+   "districts": [],
+   "body_chars": 794,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/08210438/81003a-20261108190539562-0-1024x744.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/public/taipei/20261102/index-79361600023397126016.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -157,17 +223,17 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.twhg.com.tw/re_news_details.php?ojb=61197": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.twhg.com.tw/re_news_details.php?ojb=61198": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.cts.com.tw/cts/life/202611/202611093098880.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -177,12 +243,12 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.housefun.com.tw/news/article/135094490873.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://cnews.com.tw/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91%E3%80%80%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88/": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -197,7 +263,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.rti.org.tw/news?uid=3&pid=990616": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -212,17 +278,17 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.housefun.com.tw/news/article/126729490872.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.cts.com.tw/cna/local/202611/202611103099295.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.housefun.com.tw/news/article/amp/170107490902.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -243,7 +309,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.rti.org.tw/news?uid=3&pid=1050641": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -253,7 +319,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.yunlin.gov.tw/News_Content.aspx?n=1244&s=613563": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -617,7 +683,7 @@
    "date_hint_from": null
   },
   "https://www.verse.com.tw/article/ozone-wood": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 404,
    "error": "HTTP Error 404: Not Found"
   },
@@ -1692,7 +1758,7 @@
    "date_hint_from": "原文時間"
   },
   "https://pronews.tw/2026/11/09/330178/": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -2952,7 +3018,7 @@
    "date_hint_from": null
   },
   "https://www.watchmedia01.com/archives/568607": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3195,7 +3261,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/life/202611/202611113099843.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3933,7 +3999,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/living/lifetoutiao/20261110/index-79429134881352315009.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5094,7 +5160,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.housefun.com.tw/news/article/304019490959.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5301,9 +5367,20 @@
    "date_hint_from": "原文時間"
   },
   "https://www.cdns.com.tw/articles/1489171": {
-   "checked_at": "2026-11-13T14:58+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T14:30+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者蔡琇惠／新北報導 新北環狀線2020年通車以來，運量穩定成長，2025年年運量突破2200萬，今年每月運量達200萬人次，已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展（TOD）及活化捷運場站周邊土地，板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工，由新北市長侯友",
+   "cities": {
+    "新北市": 22
+   },
+   "districts": [],
+   "body_chars": 964,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/12142852/%E6%8A%95%E8%B3%87%E4%BA%BA%E5%9C%98%E9%9A%8A%E5%90%88%E5%BD%B1_0-1024x684.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
   },
   "https://udn.com/news/story/7241/9874375": {
    "checked_at": "2026-11-12T15:27+08:00",
@@ -5744,7 +5821,7 @@
    "date_hint_from": "原文時間"
   },
   "https://smiletaiwan.cw.com.tw/article/9581": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5981,7 +6058,7 @@
    "date_hint_from": "原文時間"
   },
   "https://city.gvm.com.tw/article/134469": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 202,
    "published_at": null,
    "site_name": null,
@@ -6091,7 +6168,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.limedia.tw/comm/75372/": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": "error",
    "error": "The read operation timed out"
   },
@@ -7654,7 +7731,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/public/morenews/20261112/index-79447644450029350016.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -9048,7 +9125,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/travel/sharelife/20261112/index-79444160030139216015.html": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -9168,9 +9245,23 @@
    "date_hint_from": "原文時間"
   },
   "https://www.taichung.gov.tw/3404107/post": {
-   "checked_at": "2026-11-13T14:58+08:00",
-   "status": "error",
-   "error": "The read operation timed out"
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "臺中市政府全球資訊網",
+   "description": "幽靈、女巫、怪獸出沒東海藝術街！台中東海商圈萬聖搞怪趴熱鬧登場",
+   "cities": {
+    "台中市": 13
+   },
+   "districts": [
+    "東海藝術街商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1384,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   },
   "https://www.sohu.com/a/1100663982_121443915": {
    "checked_at": "2026-11-13T07:17+08:00",
@@ -10038,7 +10129,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.mobile01.com/topicdetail.php?f=37&t=7315634": {
-   "checked_at": "2026-11-13T14:58+08:00",
+   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -11969,6 +12060,230 @@
    "image_checked": true,
    "date_hint": "2026-11-01",
    "date_hint_from": "圖片路徑"
+  },
+  "https://www.msn.com/zh-tw/news/news/%E7%8D%A8%E5%AE%B6-%E8%A5%BF%E9%96%80%E7%94%BA%E8%A8%82%E6%88%BF%E6%B2%92%E5%BE%97%E4%BD%8F-%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%B4%A9%E6%BD%B0-%E8%AA%AA%E6%B2%92%E6%88%BF%E9%96%93-newsebc/vi-AA2hmvF6": {
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.cts.com.tw/cts/life/202611/202611133100843.html": {
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://tw.sports.yahoo.com/news/%E7%B8%BD%E7%B5%B1%E7%9B%83%E8%A1%97%E8%88%9E%E5%A4%A7%E8%B3%BD11-14%E6%B1%BA%E6%88%B0%E5%87%B1%E9%81%93-%E4%B8%B2%E8%81%AF%E8%87%BA%E5%8C%97%E6%A6%AE%E7%94%BA%E5%95%86%E5%9C%88-%E9%9B%86%E9%BB%9E%E9%80%81%E7%A6%AE-300%E4%BB%BD%E5%A5%BD%E7%A6%AE%E7%AD%89%E4%BD%A0%E6%8B%BF-102047970.html": {
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T18:20+08:00",
+   "site_name": "Yahoo News",
+   "description": "2026總統盃街舞大賽全國總決賽即將於11月14日（六）在臺北凱達格蘭大道熱血登場！今年除了邀請巴黎奧運舞者、世界冠軍及國際街舞名家齊聚臺灣，更結合臺北榮町商圈推出「集點送禮」活動，串聯23家特色店家，邀請民眾在欣賞精彩街舞賽事之餘，也能走進周邊商圈，體驗在地美食與文化魅力。",
+   "cities": {
+    "台北市": 10
+   },
+   "districts": [
+    "榮町商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 3387,
+   "image": "https://media.zenfs.com/ko/tsna.com.tw/d631db2c462a217b87dd094afa2cde6e.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://taiwanreports.com/archives/1026022": {
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T18:25+08:00",
+   "site_name": "臺灣導報",
+   "description": "【記者吳惠民桃園報導】桃園市副市長蘇俊賓日前在市府經濟發展局長張誠、法務局長賴彌鼎、婦幼發展局長杜慈容、桃園區長許敏松、桃園市商圈產業聯合會 .......繼續閱讀",
+   "cities": {
+    "桃園市": 17,
+    "高雄市": 1
+   },
+   "districts": [
+    "大溪形象商圈（桃園市）",
+    "拉拉山商圈（桃園市）"
+   ],
+   "body_chars": 954,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/lifestyle/11181296": {
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T15:07+08:00",
+   "site_name": null,
+   "description": "台北市作為台灣的首都，不論平日或假日都吸引許多觀光客造訪，去哪都很方便，根據《交通部觀光署觀光統計資料庫》最新統計，2026年1至8月期間，台北市各大熱門景點已吸引破千萬人次造訪，最熱門景點前三名分別由台北101及信義商圈、心中山線形公園及赤峰街商圈以及西門町商圈拿下，去過的網友都表示「交通便利」、「逛整天都不膩」。2",
+   "cities": {
+    "台北市": 29,
+    "新竹": 2
+   },
+   "districts": [
+    "赤峰街商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 2580,
+   "image": "https://images.storm.mg/cloud/ba744d7c8f0b594a6ceb913c664e258f415f90e7.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2001603%2F20250108-040358_U16224_M1022221_38d3.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/amp/news/society/breakingnews/5639189": {
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T09:35+08:00",
+   "site_name": "自由時報電子報",
+   "description": "宜蘭市進士路2段一家滷味攤，昨晚客人買滷味時因排隊發生口角，進而引爆肢體衝突，2名男子聯手毆打1男，造成被打的許男受傷送醫，目前還在住院觀察。警方漏夜偵辦，連夜逮捕涉案張男，另名朱姓男子在逃；朱是通緝犯，其女友因藏匿人犯也被拘提到案，後續依傷害等罪移送宜蘭地檢察署偵辦。這起衝突發生在12日晚上7時左右，警方接獲民眾報案",
+   "cities": {
+    "宜蘭縣": 13,
+    "新北市": 1,
+    "台中市": 1,
+    "高雄市": 1
+   },
+   "districts": [
+    "神農商圈（宜蘭縣）"
+   ],
+   "body_chars": 940,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/13/5639189_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261113693698": {
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T21:13+08:00",
+   "site_name": "蕃新聞",
+   "description": "【今傳媒/記者李祖東報導】營業用桶裝沙拉油供貨吃緊。11月6日媒體報導，台北有小吃店用油從每桶850",
+   "cities": {
+    "高雄市": 8,
+    "台北市": 2,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 1337,
+   "image": "https://ni.yam.com/20261113/431481-1500x1000-074ba7de400b1b90.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://mknews.com.tw/2026/11/1014429/": {
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T08:46+08:00",
+   "site_name": "天天上新聞",
+   "description": "墨新聞｜記者鄭富鈺／綜合報導 臺北市長蔣萬安今（6）日晚間出 … Read More",
+   "cities": {
+    "新竹市": 8,
+    "台中市": 7,
+    "高雄市": 7,
+    "嘉義": 7,
+    "台北市": 6
+   },
+   "districts": [
+    "東區商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 3628,
+   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://mypeoplevol.com/2026/life/120221/": {
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T21:33+08:00",
+   "site_name": "民眾新聞網",
+   "description": "【記者張嘉誠／綜合報導】",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [
+    "榮町商圈（台北市）"
+   ],
+   "body_chars": 1024,
+   "image": "https://img.pressunion.net/wp-content/uploads/2026/11/2026111222-4.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://mypeoplevol.com/2026/life/120122/": {
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T13:25+08:00",
+   "site_name": "民眾新聞網",
+   "description": "【記者葉柏成／新北報導】新北市板橋區最大規模捷運土地開發案正式啟動！新北環狀線板新站捷運開發案今〈12〉日開工，基地面積1392坪，投資金額約60.4億元，將興建地上38層、地下6層全鋼骨大樓，規劃商場、辦公空間及里民活動中心，預計2030年完工，未來可引進約1100名就業人口，市府盼藉由場站開發帶動板新商圈成形。",
+   "cities": {
+    "新北市": 8,
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 951,
+   "image": "https://img.pressunion.net/wp-content/uploads/2026/11/%E6%8D%B7%E8%B2%B4%E8%B3%93%E4%B8%80-4.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://ec.ltn.com.tw/article/breakingnews/5639976": {
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T18:49+08:00",
+   "site_name": "自由時報電子報",
+   "description": "〔記者李靚慧／台北報導〕立法院今（13）日三讀通過《就業保險法》修正案，投保薪資上限與勞保脫鉤，由目前的上限4萬5800 元，未來規劃調高至至少5萬元，讓高薪資勞工在育兒或失業期間，可獲得更貼近",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 1222,
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/13/5639976_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cdns.com.tw/articles/1490226": {
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T20:57+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者孫曜樟∕台北報導 國民黨台北市議員秦慧珠日前公開表示，台北市長蔣萬安在選戰期間「一場都沒有來掃」松山、信義區的市場。蔣萬安請假投入選戰的第二天，十三日的三場拜票行程全都排在松信選區。上午他先到吳興商圈逐攤拜票，途中一名婦人上前陳情，蔣萬安當場承諾會立即了解處理。 蔣萬安十三日上午走訪吳興市場，向攤商及採買民眾逐一握",
+   "cities": {
+    "台北市": 14,
+    "桃園市": 4
+   },
+   "districts": [],
+   "body_chars": 565,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/13205739/20261113000059-1024x768.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/yzGK5Z1?view=topic": {
+   "checked_at": "2026-11-13T23:32+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T13:42+08:00",
+   "site_name": "LINE TODAY",
+   "description": "〔即時新聞／綜合報導〕2026年九合一選舉倒數，民進黨台北市長候選人沈伯洋掀起的「洋流」風潮，如今也席捲日本！科技專家許美華分享日本名古屋知...",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 588,
+   "image": "https://today-obs.line-scdn.net/0hAQHJ1VzPHn51MwLv3ethKU1lEg9GVQR3V1ZUEFhhSUlfH1khGV1NHVI3EFILAgwpVVJTEFExREhaVFh7GQ/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
   }
  }
 }

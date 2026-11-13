@@ -1,10 +1,78 @@
 {
- "fetched_at": "2026-11-13T20:52:06+08:00",
- "generated_at": "2026-11-13T20:52:05+08:00",
+ "fetched_at": "2026-11-13T23:32:14+08:00",
+ "generated_at": "2026-11-13T23:32:13+08:00",
  "window": "7d",
- "event_count": 119,
- "article_count": 204,
+ "event_count": 124,
+ "article_count": 211,
  "items": [
+  {
+   "url": "https://news.tvbs.com.tw/life/4050252",
+   "title": "中壢人共同回憶!中原商圈30年老店「米老鼠牛排館」11/15熄燈",
+   "source": "TVBS新聞網",
+   "published_at": "2026-11-13T18:42:00+08:00",
+   "event_key": "art:ebcec962d274ff2ba8220a6dd5c8bb5ebbcd28f34b41142798863fa3b2b0f009",
+   "primary": true
+  },
+  {
+   "url": "https://tsna.com/article/205698",
+   "title": "總統盃街舞大賽11/14決戰凱道!串聯臺北榮町商圈「集點送禮」300份好禮等你拿- 綜合",
+   "source": "TSNA體育新聞團隊",
+   "published_at": "2026-11-13T18:20:00+08:00",
+   "event_key": "art:66066cfb284a35c15978469542758fde1f931ebb9220edcff7e8ab9d0024ab04",
+   "primary": true,
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    "榮町商圈"
+   ]
+  },
+  {
+   "url": "https://travel.ettoday.net/amp/3271765",
+   "title": "中原商圈30年「米老鼠牛排館」11/15熄燈 當地人嘆:小時候回憶",
+   "source": "ETtoday旅遊雲",
+   "published_at": "2026-11-13T17:23:00+08:00",
+   "event_key": "art:7b1456ee54815a3d70e3a14a96116e3960c38d23a4bfd1e157c6fdf570cb0ceb",
+   "primary": true
+  },
+  {
+   "url": "https://travel.ettoday.net/article/3271765.htm",
+   "title": "中原商圈30年「米老鼠牛排館」11/15熄燈 在地人:回憶沒了",
+   "source": "ETtoday旅遊雲",
+   "published_at": "2026-11-13T17:23:00+08:00",
+   "event_key": "art:37abf0fb8b710d159db68b9cb0d0ed1dcca2890a0b7a6c0c89f0690a75cdf37d",
+   "primary": true
+  },
+  {
+   "url": "https://money.udn.com/money/story/5636/9877059",
+   "title": "「從全家便利商店到在地商圈、從日常消費到交通出遊」 華南銀行深耕TWQR全面融入日常生活| 財富管理| 商情",
+   "source": "經濟日報",
+   "published_at": "2026-11-13T16:50:00+08:00",
+   "event_key": "art:d923d397a339ba66e1cdf000ccb25ccbf9bcd798e457f390bb012a467f1e4da2",
+   "primary": true
+  },
+  {
+   "url": "https://www.cna.com.tw/postwrite/chi/449946",
+   "title": "115年桃金好禮好店成果亮相 展現桃園商圈新活力",
+   "source": "中央社 CNA",
+   "published_at": "2026-11-13T16:36:00+08:00",
+   "event_key": "art:6abf59594546c461b79ce7a1fb11828d9609a0eca2aa3b8ec1e988516db36524",
+   "primary": true,
+   "cities": [
+    "桃園市"
+   ]
+  },
+  {
+   "url": "https://www.tcpttw.com/local/2026/11/13/330213/",
+   "title": "松山商圈迎宜蘭好米!「2026新米祭」13日至15日微風超市免費試吃",
+   "source": "警政時報",
+   "published_at": "2026-11-13T13:42:00+08:00",
+   "event_key": "art:22644b7b9ca5ba38e0c96aceacfd1a6b114ab1b7e1dbcda0b905c0503094db8b",
+   "primary": true,
+   "cities": [
+    "宜蘭縣"
+   ]
+  },
   {
    "url": "https://www.chinatimes.com/realtimenews/20261113002494-260402",
    "title": "排隊買滷味爆衝突!宜大商圈2打1還拖行馬路 警車湧入嚇壞居民",
@@ -66,17 +134,6 @@
    ]
   },
   {
-   "url": "https://money.udn.com/money/story/11799/9875161",
-   "title": "115年桃園市商業轉型服務中心暨桃金好禮好店成果發表會 助力商圈轉型升級 | 產業動態 | 商情",
-   "source": "經濟日報",
-   "published_at": "2026-11-13T10:02:00+08:00",
-   "event_key": "art:3eef62d6ec1166e2be64a84871041b3870d6a74d09a2d9caf9de9747ffb8c222",
-   "primary": true,
-   "cities": [
-    "桃園市"
-   ]
-  },
-  {
    "url": "https://www.cmoney.tw/forum/article/188604540",
    "title": "宜蘭商圈買滷味爆衝突1傷警漏夜逮人、1通緝犯在逃- 股市爆料同學會",
    "source": "CMoney",
@@ -128,29 +185,6 @@
    "primary": true
   },
   {
-   "url": "https://www.tcpttw.com/local/2026/11/13/330213/",
-   "title": "松山商圈迎宜蘭好米!「2026新米祭」13日至15日微風超市免費試吃",
-   "source": "tcpttw",
-   "published_at": "2026-11-13T05:42:00+08:00",
-   "event_key": "art:22644b7b9ca5ba38e0c96aceacfd1a6b114ab1b7e1dbcda0b905c0503094db8b",
-   "primary": true,
-   "summary": "台北市松山商圈發展協會與宜蘭縣政府攜手推廣「2026新米祭」,將宜蘭嚴選冠軍米及特選優質米引進微風超市。今(13)日起至15日每天中午12時至晚間8時免費試吃,14日預計由代理縣長林茂盛出席推廣記者會。活動讓臺北民眾在逛街採買時就能品嚐一年一期的宜蘭新米,也為宜蘭農民拓展都會銷售通路,讓松山商圈多一項具產地特色的消費體",
-   "cities": [
-    "宜蘭縣"
-   ],
-   "date_only": true
-  },
-  {
-   "url": "https://news.tvbs.com.tw/life/4050252",
-   "title": "中壢人共同回憶!中原商圈30年老店「米老鼠牛排館」11/15熄燈",
-   "source": "TVBS新聞網",
-   "published_at": "2026-11-13T04:42:00+08:00",
-   "event_key": "art:ebcec962d274ff2ba8220a6dd5c8bb5ebbcd28f34b41142798863fa3b2b0f009",
-   "primary": true,
-   "summary": "位於桃園中壢中原大學商圈的「米老鼠牛排館」,開業超過30年,是不少中原校友的共同回憶,沒想到店家近日突然宣布,將於11月15日正式結束營業,坦言老闆年事已高,加上無人接班,經過考量後只能忍痛熄燈。消息一出,讓大批老顧客相當不捨。",
-   "date_only": true
-  },
-  {
    "url": "https://www.msn.com/zh-tw/news/other/%E6%8E%92%E9%9A%8A%E7%88%86%E8%82%A2%E9%AB%94%E8%A1%9D%E7%AA%81-%E5%AE%9C%E8%98%AD%E5%95%86%E5%9C%88%E6%BB%B7%E5%91%B3%E6%94%A4%E5%89%8D%E5%A4%A7%E4%BA%82%E9%AC%A5-%E7%94%B7%E9%81%AD%E7%95%B6%E8%A1%97%E5%9C%8D%E6%AF%86-1%E9%80%9A%E7%B7%9D%E7%8A%AF%E5%9C%A8%E9%80%83/ar-AA2hkzrH",
    "title": "排隊爆肢體衝突! 宜蘭商圈滷味攤前大亂鬥 男遭當街圍毆、1通緝犯在逃",
    "source": "三立新聞網",
@@ -184,14 +218,26 @@
    ]
   },
   {
-   "url": "https://money.udn.com/money/story/5636/9877059",
-   "title": "「從全家便利商店到在地商圈、從日常消費到交通出遊」 華南銀行深耕TWQR全面融入日常生活",
+   "url": "https://media.posu.tw/uninews_view.php?new_sn=149369",
+   "title": "115年桃園市商業轉型服務中心暨桃金好禮好店成果發表助力商圈轉型升級、show好禮好店再造成果",
+   "source": "新媒體經紀人",
+   "published_at": "2026-11-13T01:43:00+08:00",
+   "event_key": "art:e4e91273f3d61554cd21a079d6adbea50fef769f0d4452b2007f3506bce09abb",
+   "primary": true,
+   "cities": [
+    "桃園市"
+   ]
+  },
+  {
+   "url": "https://money.udn.com/money/story/11799/9875161",
+   "title": "115年桃園市商業轉型服務中心暨桃金好禮好店成果發表會 助力商圈轉型升級",
    "source": "經濟日報",
    "published_at": "2026-11-13T00:00:00+08:00",
-   "event_key": "art:d923d397a339ba66e1cdf000ccb25ccbf9bcd798e457f390bb012a467f1e4da2",
-   "primary": true,
-   "summary": "華南銀行積極拓展「TWQR(台灣Pay)生態圈」,今年上半年展店與營運成效亮眼。特別從數萬間合作夥伴中,精選出450間具備在地特色、或在社群上擁有高人氣與優質評價的店家,邀請其加入「特色店家」行列。透過華南銀行社群與行銷活動,協助店家獲得強大的宣傳曝光與精準導流。顯見華南銀行深耕在地特色店家的策略,已成功創造龐大綜效。",
-   "date_only": true
+   "event_key": "art:e4e91273f3d61554cd21a079d6adbea50fef769f0d4452b2007f3506bce09abb",
+   "primary": false,
+   "cities": [
+    "桃園市"
+   ]
   },
   {
    "url": "https://www.chinatimes.com/newspapers/20261113000682-260107",
@@ -339,6 +385,14 @@
    ]
   },
   {
+   "url": "https://tw.news.yahoo.com/%E6%AC%A3%E9%A3%9F%E6%97%85%E6%96%B0%E5%93%81%E7%89%8C-gimme-%E9%80%B2%E8%BB%8D%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88-%E7%9E%84%E6%BA%96%E9%83%BD%E6%9C%83-%E8%BC%95%E7%A4%BE%E4%BA%A4-013420558.html",
+   "title": "欣食旅新品牌「GIMME」進軍信義商圈!瞄準都會「輕社交」商機,推地中海小盤菜、台灣烏龍茶創意調酒",
+   "source": "Yahoo新聞",
+   "published_at": "2026-11-12T18:07:00+08:00",
+   "event_key": "art:0f7db66d4229a93c371893a4ae2b90e2365389814e266960592bcc7c05598305",
+   "primary": true
+  },
+  {
    "url": "https://www.ftvnews.com.tw/news/detail/2026B12W0675",
    "title": "總統盃街舞大賽11/14決戰凱道!串聯臺北榮町商圈「集點送禮」300份好禮等你拿",
    "source": "民視新聞網",
@@ -456,18 +510,8 @@
    "title": "欣食旅新品牌「GIMME」進軍信義商圈",
    "source": "UDN",
    "published_at": "2026-11-12T14:26:00+08:00",
-   "event_key": "art:87fdcbeacaa5a52430b7161074733ff30fb35b2c651c2b60270e4a1f92a754ac",
+   "event_key": "art:d2e53db4b8f87e71664dd6f236156b8cfc021896648dcc89335a27fb67242d7b",
    "primary": false,
-   "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
-   "date_only": true
-  },
-  {
-   "url": "https://udn.com/news/story/7270/9874375",
-   "title": "欣食旅新品牌「GIMME」進軍信義商圈",
-   "source": "聯合新聞網",
-   "published_at": "2026-11-12T14:25:00+08:00",
-   "event_key": "art:87fdcbeacaa5a52430b7161074733ff30fb35b2c651c2b60270e4a1f92a754ac",
-   "primary": true,
    "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
    "date_only": true
   },
@@ -476,21 +520,20 @@
    "title": "欣食旅新品牌「GIMME」進軍信義商圈",
    "source": "經濟日報",
    "published_at": "2026-11-12T14:25:00+08:00",
-   "event_key": "art:87fdcbeacaa5a52430b7161074733ff30fb35b2c651c2b60270e4a1f92a754ac",
-   "primary": false,
+   "event_key": "art:d2e53db4b8f87e71664dd6f236156b8cfc021896648dcc89335a27fb67242d7b",
+   "primary": true,
    "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
    "date_only": true
   },
   {
-   "url": "https://www.hsnews.com.tw/political-news/dai-yu-wen-ti-hua-lian-guan-guang-zai-qi-dong-xin-lan-tu-tui-zhu-su-jia-ma-shang-quan-huo-hua-pan-ren-chao-hui-liu-dai-dong-de-fang-xiao-fei.html",
-   "title": "戴于文提「花蓮觀光再啟動」新藍圖 推住宿加碼、商圈活化 盼人潮回流帶動地方消費",
-   "source": "花蓮最速報",
-   "published_at": "2026-11-12T14:16:00+08:00",
-   "event_key": "art:276e54010b4cc462c7eed80d0804b5a20537b5c9a6cf57ace1534af2396dc0e5",
-   "primary": true,
-   "cities": [
-    "花蓮縣"
-   ]
+   "url": "https://udn.com/news/story/7270/9874375",
+   "title": "欣食旅新品牌「GIMME」進軍信義商圈",
+   "source": "聯合新聞網",
+   "published_at": "2026-11-12T14:25:00+08:00",
+   "event_key": "art:d2e53db4b8f87e71664dd6f236156b8cfc021896648dcc89335a27fb67242d7b",
+   "primary": false,
+   "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
+   "date_only": true
   },
   {
    "url": "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1972603",
@@ -508,8 +551,8 @@
    "title": "板新商圈新地標! 板橋最大捷運開發案動土2030年完工",
    "source": "商傳媒",
    "published_at": "2026-11-12T13:24:00+08:00",
-   "event_key": "art:31f72474dfc96ea1b38fa38d54b37d9f7767e7ae0983889236b3f87e7069f57e",
-   "primary": false,
+   "event_key": "archive:82f8ac77293c1dd9",
+   "primary": true,
    "summary": "新北環狀線2020年通車以來,運量穩定成長,2025年年運量突破2200萬,今年每月運量達200萬人次,已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投",
    "date_only": true
   },
@@ -534,7 +577,7 @@
    "title": "雄獅集團展食力欣食旅新品牌「GIMME」進軍信義商圈- 產業",
    "source": "工商時報",
    "published_at": "2026-11-12T12:36:00+08:00",
-   "event_key": "art:87fdcbeacaa5a52430b7161074733ff30fb35b2c651c2b60270e4a1f92a754ac",
+   "event_key": "art:d2e53db4b8f87e71664dd6f236156b8cfc021896648dcc89335a27fb67242d7b",
    "primary": false,
    "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
    "date_only": true
@@ -552,8 +595,8 @@
    "title": "板新商圈新地標!板橋最大捷運開發案開工",
    "source": "中央社",
    "published_at": "2026-11-12T11:50:00+08:00",
-   "event_key": "art:31f72474dfc96ea1b38fa38d54b37d9f7767e7ae0983889236b3f87e7069f57e",
-   "primary": true,
+   "event_key": "archive:82f8ac77293c1dd9",
+   "primary": false,
    "summary": "新北環狀線2020年通車以來,運量穩定成長,2025年年運量突破2200萬,今年每月運量達200萬人次,已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投",
    "date_only": true
   },
@@ -578,15 +621,15 @@
    "title": "欣食旅新品牌「GIMME」進軍信義商圈!瞄準都會「輕社交」商機,推地中海小盤菜、台灣烏龍茶創意調酒",
    "source": "蕃新聞",
    "published_at": "2026-11-12T09:34:00+08:00",
-   "event_key": "art:aa842e7b20692b49704047eead01aea920b1491e2bc95897e5657d3b84af5212",
-   "primary": true
+   "event_key": "art:0f7db66d4229a93c371893a4ae2b90e2365389814e266960592bcc7c05598305",
+   "primary": false
   },
   {
    "url": "https://turnnewsapp.com/love-tw/422315.html",
    "title": "板新商圈新地標!板橋最大捷運開發案開工",
    "source": "翻爆",
    "published_at": "2026-11-12T08:53:00+08:00",
-   "event_key": "art:31f72474dfc96ea1b38fa38d54b37d9f7767e7ae0983889236b3f87e7069f57e",
+   "event_key": "archive:82f8ac77293c1dd9",
    "primary": false,
    "summary": "新北環狀線2020年通車以來,運量穩定成長,2025年年運量突破2200萬,今年每月運量達200萬人次,已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投",
    "date_only": true
@@ -611,6 +654,19 @@
    "primary": true
   },
   {
+   "url": "https://www.hsnews.com.tw/political-news/dai-yu-wen-ti-hua-lian-guan-guang-zai-qi-dong-xin-lan-tu-tui-zhu-su-jia-ma-shang-quan-huo-hua-pan-ren-chao-hui-liu-dai-dong-de-fang-xiao-fei.html",
+   "title": "戴于文提「花蓮觀光再啟動」新藍圖 推住宿加碼、商圈活化 盼人潮回流帶動地方消費",
+   "source": "花蓮最速報",
+   "published_at": "2026-11-12T06:16:00+08:00",
+   "event_key": "art:276e54010b4cc462c7eed80d0804b5a20537b5c9a6cf57ace1534af2396dc0e5",
+   "primary": true,
+   "summary": "在觀光亮點方面,戴于文延續先前提出的「花蓮向海而生」政策,規劃海岸健康地圖、海洋公民科學、海洋教室及藍色產業共好,透過「海洋護照」串聯南濱、北濱、東大門及市區商圈。另外提出「白天看海、晚上逛花蓮」,改善東大門、金三角商圈及舊鐵道周邊的步行動線、夜間照明與旅遊指引,並整合車站、交通及旅宿資訊,讓遊客更方便走進市區消費。",
+   "cities": [
+    "花蓮縣"
+   ],
+   "date_only": true
+  },
+  {
    "url": "https://www.chinatimes.com/newspapers/20261112000579-260204",
    "title": "玉秀雙語國小串聯商圈 打造教育共榮新模式",
    "source": "中時新聞網",
@@ -623,7 +679,7 @@
    "title": "欣食旅新品牌「GIMME」進軍信義商圈",
    "source": "聯合新聞網",
    "published_at": "2026-11-12T00:26:00+08:00",
-   "event_key": "art:87fdcbeacaa5a52430b7161074733ff30fb35b2c651c2b60270e4a1f92a754ac",
+   "event_key": "art:d2e53db4b8f87e71664dd6f236156b8cfc021896648dcc89335a27fb67242d7b",
    "primary": false,
    "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
    "date_only": true
@@ -642,6 +698,14 @@
    "date_only": true
   },
   {
+   "url": "https://www.xinmedia.com/article/306748",
+   "title": "欣食旅新品牌「GIMME」進軍信義商圈!瞄準都會「輕社交」商機,推地中海小盤菜、台灣烏龍茶創意調酒",
+   "source": "欣傳媒",
+   "published_at": "2026-11-12T00:00:00+08:00",
+   "event_key": "art:0f7db66d4229a93c371893a4ae2b90e2365389814e266960592bcc7c05598305",
+   "primary": false
+  },
+  {
    "url": "https://more-news.tw/766671/",
    "title": "桃園商業轉型中心三年有成 蘇俊賓:新穎與傳統兼容 展示商圈在地特色",
    "source": "more-news",
@@ -657,33 +721,33 @@
    "title": "板新商圈新地標! 板橋最大捷運開發案動土2030年完工",
    "source": "報新聞",
    "published_at": "2026-11-12T00:00:00+08:00",
-   "event_key": "art:31f72474dfc96ea1b38fa38d54b37d9f7767e7ae0983889236b3f87e7069f57e",
+   "event_key": "archive:82f8ac77293c1dd9",
    "primary": false,
    "summary": "新北環狀線2020年通車以來,運量穩定成長,2025年年運量突破2200萬,今年每月運量達200萬人次,已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投",
    "date_only": true
   },
   {
-   "url": "https://www.xinmedia.com/article/306748",
-   "title": "欣食旅新品牌「GIMME」進軍信義商圈!瞄準都會「輕社交」商機,推地中海小盤菜、台灣烏龍茶創意調酒",
-   "source": "欣傳媒",
-   "published_at": "2026-11-12T00:00:00+08:00",
-   "event_key": "art:aa842e7b20692b49704047eead01aea920b1491e2bc95897e5657d3b84af5212",
-   "primary": false
+   "url": "https://enn.tw/805984/",
+   "title": "2026全國卓越商圈獎揭曉 20處特色商圈脫穎而出",
+   "source": "ENN台灣電報",
+   "published_at": "2026-11-11T21:06:00+08:00",
+   "event_key": "art:79b9bd7c5011f3691869a48aa09003136f05767ff646ad31c2002390af44b305",
+   "primary": true
   },
   {
    "url": "https://today.line.me/tw/v3/article/LXeVleG",
    "title": "合體蕭美琴訪石碇、深坑 蘇巧慧:當選後商圈補助增加3倍 | 自由電子報",
    "source": "LINE TODAY",
    "published_at": "2026-11-11T20:57:00+08:00",
-   "event_key": "art:bf95d7e7f2e7d66aa9b354ecb1f5bda08ce68e779d5a62e50fc1d0d99763e7e7",
-   "primary": false
+   "event_key": "art:ade6458740d0d0002f15000944d469992b9fbfc02820bb09a7d2a46178da6e45",
+   "primary": true
   },
   {
    "url": "https://www.cmoney.tw/forum/article/188568708",
    "title": "6407 相互 - 紓解文化路商圈停車需求嘉市崇文國小地下停車場啟用- 股市爆料同學會",
    "source": "CMoney",
    "published_at": "2026-11-11T20:46:00+08:00",
-   "event_key": "art:14fb351eff7a91341f63c8ade82ee310c810c38a8782a60cfea6f2eafe9c1f05",
+   "event_key": "archive:8227aa9c11f11c4c",
    "primary": true
   },
   {
@@ -691,7 +755,7 @@
    "title": "合體蕭美琴訪石碇、深坑 蘇巧慧:當選後商圈補助增加3倍",
    "source": "自由時報・地方",
    "published_at": "2026-11-11T20:26:37+08:00",
-   "event_key": "art:bf95d7e7f2e7d66aa9b354ecb1f5bda08ce68e779d5a62e50fc1d0d99763e7e7",
+   "event_key": "art:ade6458740d0d0002f15000944d469992b9fbfc02820bb09a7d2a46178da6e45",
    "primary": false
   },
   {
@@ -699,25 +763,23 @@
    "title": "合體蕭美琴訪石碇、深坑 蘇巧慧:當選後商圈補助增加3倍",
    "source": "自由時報",
    "published_at": "2026-11-11T20:26:00+08:00",
-   "event_key": "art:bf95d7e7f2e7d66aa9b354ecb1f5bda08ce68e779d5a62e50fc1d0d99763e7e7",
-   "primary": true
+   "event_key": "art:ade6458740d0d0002f15000944d469992b9fbfc02820bb09a7d2a46178da6e45",
+   "primary": false
   },
   {
    "url": "https://sunmedia.tw/news/collaborative/1i4pc1MpcXmZHD8KvBPi05uC9hZiCbYotnU4fsG6wR03x47yoHh0yXIe",
    "title": "2026全國卓越商圈獎揭曉 20處特色商圈脫穎而出",
    "source": "商傳媒",
    "published_at": "2026-11-11T20:10:00+08:00",
-   "event_key": "art:9f6ba4a4c66991a216e10ea75eab6578eff2243fc0907b40234e73ffa0d4c9c9",
-   "primary": false,
-   "summary": "經濟部商業發展署10日凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。 商業署表示,每一處商圈都有屬於自己的故事,無論是歷史文化的傳承、",
-   "date_only": true
+   "event_key": "art:79b9bd7c5011f3691869a48aa09003136f05767ff646ad31c2002390af44b305",
+   "primary": false
   },
   {
    "url": "https://n.yam.com/Article/20261111637518",
    "title": "深化數位應用與品牌行銷 經濟部長龔明鑫親頒2026全國卓越商圈獎樹立產業新標竿",
    "source": "蕃新聞",
    "published_at": "2026-11-11T20:05:00+08:00",
-   "event_key": "art:f05e55481e26d7616634a9dd5508a558448091e9381b2063d8bcb3bc084076af",
+   "event_key": "archive:d8cb0252137046ae",
    "primary": true
   },
   {
@@ -725,27 +787,15 @@
    "title": "2026全國卓越商圈獎展現臺灣商圈魅力 20處特色商圈脫穎而出",
    "source": "經濟日報",
    "published_at": "2026-11-11T20:04:00+08:00",
-   "event_key": "art:9f6ba4a4c66991a216e10ea75eab6578eff2243fc0907b40234e73ffa0d4c9c9",
-   "primary": true,
-   "summary": "經濟部商業發展署10日凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。 商業署表示,每一處商圈都有屬於自己的故事,無論是歷史文化的傳承、",
-   "date_only": true
-  },
-  {
-   "url": "https://n.yam.com/Article/20261111501936",
-   "title": "2026全國卓越商圈獎頒獎!20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
-   "source": "蕃新聞",
-   "published_at": "2026-11-11T20:00:00+08:00",
-   "event_key": "art:9f6ba4a4c66991a216e10ea75eab6578eff2243fc0907b40234e73ffa0d4c9c9",
-   "primary": false,
-   "summary": "經濟部商業發展署10日凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。 商業署表示,每一處商圈都有屬於自己的故事,無論是歷史文化的傳承、",
-   "date_only": true
+   "event_key": "art:79b9bd7c5011f3691869a48aa09003136f05767ff646ad31c2002390af44b305",
+   "primary": false
   },
   {
    "url": "https://focus.586.com.tw/2026/11/11/p411239/",
    "title": "展現臺灣在地生命力!2026全國卓越商圈獎揭曉 20處標竿典範勝出",
    "source": "焦點時報",
    "published_at": "2026-11-11T19:38:00+08:00",
-   "event_key": "art:e82c652d5a88e766e9a94112826495d68d6dc7aa9b46fcbd6029499f333bc380",
+   "event_key": "archive:dcf68efbfeed2f12",
    "primary": true
   },
   {
@@ -761,7 +811,7 @@
    "title": "影/鄭朝方遭爆上班搭公務車赴西門町飯店商圈 跨黨派轟濫用公帑",
    "source": "聯合新聞網",
    "published_at": "2026-11-11T17:07:00+08:00",
-   "event_key": "art:934483caa3dc6f67e049dde714574d13355e61cd392cf0ac2a531ff476a93480",
+   "event_key": "archive:c7b7c0caae17bf1b",
    "primary": true,
    "summary": "「還我乾淨竹縣聯盟」今舉行記者會,質疑民進黨新竹縣長候選人、竹北市長鄭朝方2023年上班時間搭公務車前往台北西門町飯店商圈,涉嫌公私不分、濫用行政資源,要求公開當天行程、行車紀錄及隨行人員派勤依據,釐清是否符合公務用途。鄭團隊、竹北市公所表示「無回應。」 ...",
    "date_only": true
@@ -771,7 +821,7 @@
    "title": "影/鄭朝方遭爆上班搭公務車赴西門町飯店商圈跨黨派轟濫用公帑| 時事",
    "source": "聯合影音",
    "published_at": "2026-11-11T17:07:00+08:00",
-   "event_key": "art:934483caa3dc6f67e049dde714574d13355e61cd392cf0ac2a531ff476a93480",
+   "event_key": "archive:c7b7c0caae17bf1b",
    "primary": false,
    "summary": "「還我乾淨竹縣聯盟」今舉行記者會,質疑民進黨新竹縣長候選人、竹北市長鄭朝方2023年上班時間搭公務車前往台北西門町飯店商圈,涉嫌公私不分、濫用行政資源,要求公開當天行程、行車紀錄及隨行人員派勤依據,釐清是否符合公務用途。鄭團隊、竹北市公所表示「無回應。」 ...",
    "date_only": true
@@ -797,7 +847,7 @@
    "title": "展現臺灣在地生命力!2026全國卓越商圈獎揭曉 20處標竿典範勝出",
    "source": "more-news",
    "published_at": "2026-11-11T11:59:00+08:00",
-   "event_key": "art:e82c652d5a88e766e9a94112826495d68d6dc7aa9b46fcbd6029499f333bc380",
+   "event_key": "archive:dcf68efbfeed2f12",
    "primary": false
   },
   {
@@ -844,8 +894,13 @@
    "title": "2026高雄聖誕生活節11/13浪漫登場五週末「耶誕小鎮」接力開逛9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
    "source": "蕃新聞",
    "published_at": "2026-11-11T10:34:00+08:00",
-   "event_key": "archive:cde61209219d8897",
-   "primary": true
+   "event_key": "art:c2a964069b6ee1dc02a60ba9e6ed1e4288cc49e8c4839c298c603034ce929f5c",
+   "primary": false,
+   "summary": "高雄歲末最令人期待的聖誕盛會即將登場!「2026高雄聖誕生活節」將於11月13日(五)在中央公園浪漫揭幕,今年活動規模再升級,除推出連續五個週末的「耶誕小鎮」主題市集,更將於12月19日至27日舉辦為期9天的「聖誕黃金周」,集結特色美食、節慶市集、精彩音樂演出及璀璨燈飾,打造高雄最具魅力的歲末節慶盛會。高雄市長陳其邁表",
+   "cities": [
+    "高雄市"
+   ],
+   "date_only": true
   },
   {
    "url": "https://forum.ettoday.net/news/3269471",
@@ -874,12 +929,14 @@
    "date_only": true
   },
   {
-   "url": "https://www.tcpttw.com/other/other_consumer/2026/11/11/329376/",
-   "title": "2026高雄聖誕生活節11/13浪漫登場 五週末「耶誕小鎮」接力開逛 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
-   "source": "tcpttw",
+   "url": "https://n.yam.com/Article/20261111501936",
+   "title": "2026全國卓越商圈獎頒獎!20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
+   "source": "蕃新聞",
    "published_at": "2026-11-11T00:00:00+08:00",
-   "event_key": "archive:cde61209219d8897",
-   "primary": false
+   "event_key": "art:a8c268f38bced46bf45b361cee1ec6137a99d98d8fad344a8fdf3164d58cb130",
+   "primary": true,
+   "summary": "▲2026全國卓越商圈獎頒獎典禮受邀貴賓、縣市政府代表及獲獎商圈代表共同合影。(圖/中衛發展中心提供) 經濟部商業發展署11/10日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈",
+   "date_only": true
   },
   {
    "url": "https://money.udn.com/money/story/11799/9870234",
@@ -889,6 +946,19 @@
    "event_key": "art:7a0c09d6bbdc8f5e5c2f77e34add260f384596322eaa1064a61cad55bb15f346",
    "primary": true,
    "summary": "「2026全國卓越商圈獎」昨(10)日舉辦頒獎典禮,今年共有20處商圈獲得肯定,由經濟部長龔明鑫到場授獎給予肯定。從彰化田尾的花卉園藝、臺南鹽水的百年文化,到平溪天燈與小琉球海洋觀光,各地商圈以不同的產業特色、文化底蘊及服務體驗,展現臺灣地方商業的多元風貌。 商業署表示,每一處商圈都有自己的故事,可能來自世代傳承的歷史",
+   "date_only": true
+  },
+  {
+   "url": "https://www.tcpttw.com/other/other_consumer/2026/11/11/329376/",
+   "title": "2026高雄聖誕生活節11/13浪漫登場 五週末「耶誕小鎮」接力開逛 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
+   "source": "tcpttw",
+   "published_at": "2026-11-11T00:00:00+08:00",
+   "event_key": "art:c2a964069b6ee1dc02a60ba9e6ed1e4288cc49e8c4839c298c603034ce929f5c",
+   "primary": true,
+   "summary": "高雄歲末最令人期待的聖誕盛會即將登場!「2026高雄聖誕生活節」將於11月13日(五)在中央公園浪漫揭幕,今年活動規模再升級,除推出連續五個週末的「耶誕小鎮」主題市集,更將於12月19日至27日舉辦為期9天的「聖誕黃金周」,集結特色美食、節慶市集、精彩音樂演出及璀璨燈飾,打造高雄最具魅力的歲末節慶盛會。高雄市長陳其邁表",
+   "cities": [
+    "高雄市"
+   ],
    "date_only": true
   },
   {
@@ -933,7 +1003,7 @@
    "title": "2026高雄聖誕生活節11/13浪漫登場五週末「耶誕小鎮」接力開逛9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
    "source": "墨新聞-MORE News",
    "published_at": "2026-11-10T17:52:00+08:00",
-   "event_key": "art:4d751489b0b2fbb377df10d6cab6ee442773b6707e19eb5f44ab3c4f347a66f6",
+   "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
    "primary": false,
    "summary": "【今傳媒/記者李祖東報導】 ...",
    "cities": [
@@ -1041,7 +1111,7 @@
    "title": "2026全國卓越商圈獎揭曉!20處商圈獲獎 展現臺灣在地特色與商業活力",
    "source": "more-news",
    "published_at": "2026-11-10T12:55:00+08:00",
-   "event_key": "art:0b0562ef73bee3ad409cdf6142a3f37e4498ed8bfcd7c9681a60365542f48f0b",
+   "event_key": "archive:ae5a5202860fdd8c",
    "primary": true,
    "summary": "經濟部商業發展署今(10)日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。 商業署表示,每一處商圈都有屬於自己的故事,無論是歷史文化",
    "date_only": true
@@ -1134,22 +1204,9 @@
    "title": "2026全國卓越商圈獎揭曉!20處商圈獲獎 展現臺灣在地特色與商業活力",
    "source": "天天上新聞",
    "published_at": "2026-11-10T00:00:00+08:00",
-   "event_key": "art:0b0562ef73bee3ad409cdf6142a3f37e4498ed8bfcd7c9681a60365542f48f0b",
+   "event_key": "archive:ae5a5202860fdd8c",
    "primary": false,
    "summary": "經濟部商業發展署今(10)日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。 商業署表示,每一處商圈都有屬於自己的故事,無論是歷史文化",
-   "date_only": true
-  },
-  {
-   "url": "https://mknews.com.tw/2026/11/1016120/",
-   "title": "2026高雄聖誕生活節11/13浪漫登場! 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
-   "source": "天天上新聞",
-   "published_at": "2026-11-10T00:00:00+08:00",
-   "event_key": "art:4d751489b0b2fbb377df10d6cab6ee442773b6707e19eb5f44ab3c4f347a66f6",
-   "primary": true,
-   "summary": "【今傳媒/記者李祖東報導】 ...",
-   "cities": [
-    "高雄市"
-   ],
    "date_only": true
   },
   {
@@ -1157,8 +1214,8 @@
    "title": "2026高雄聖誕生活節11/13浪漫登場! 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
    "source": "蕃新聞",
    "published_at": "2026-11-10T00:00:00+08:00",
-   "event_key": "art:4d751489b0b2fbb377df10d6cab6ee442773b6707e19eb5f44ab3c4f347a66f6",
-   "primary": false,
+   "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
+   "primary": true,
    "summary": "【今傳媒/記者李祖東報導】 ...",
    "cities": [
     "高雄市"
@@ -1170,7 +1227,20 @@
    "title": "2026高雄聖誕生活節11/13浪漫登場 五週末「耶誕小鎮」接力開逛 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
    "source": "蕃新聞・生活",
    "published_at": "2026-11-10T00:00:00+08:00",
-   "event_key": "art:4d751489b0b2fbb377df10d6cab6ee442773b6707e19eb5f44ab3c4f347a66f6",
+   "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
+   "primary": false,
+   "summary": "【今傳媒/記者李祖東報導】 ...",
+   "cities": [
+    "高雄市"
+   ],
+   "date_only": true
+  },
+  {
+   "url": "https://mknews.com.tw/2026/11/1016120/",
+   "title": "2026高雄聖誕生活節11/13浪漫登場! 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
+   "source": "天天上新聞",
+   "published_at": "2026-11-10T00:00:00+08:00",
+   "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
    "primary": false,
    "summary": "【今傳媒/記者李祖東報導】 ...",
    "cities": [
@@ -1740,7 +1810,7 @@
    "date_only": true
   },
   {
-   "url": "https://www.msn.com/zh-tw/news/other/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gXe6B",
+   "url": "https://www.msn.com/zh-tw/news/other/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gXe6B",
    "title": "有猴出沒!台中鹿寮成衣商圈 雄猴亂竄居民驚慌|#鏡新聞",
    "source": "鏡新聞",
    "published_at": "2026-11-07T10:40:42+08:00",
@@ -1750,7 +1820,7 @@
    "date_only": true
   },
   {
-   "url": "https://www.msn.com/zh-tw/news/other/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gXe6B",
+   "url": "https://www.msn.com/zh-tw/news/other/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gXe6B",
    "title": "有猴出沒!台中鹿寮成衣商圈 雄猴亂竄居民驚慌|#鏡新聞",
    "source": "鏡新聞",
    "published_at": "2026-11-07T10:40:42+08:00",
@@ -1806,12 +1876,9 @@
    "title": "天母美校商圈 公寓5字頭入手",
    "source": "台灣房屋",
    "published_at": "2026-11-07T09:36:00+08:00",
-   "event_key": "art:f5e0b10869f7f7b8d5dc84f9b9e39c4e35d1f0ec6fbde772c60714901ab9077c",
-   "primary": false,
+   "event_key": "archive:10a081ac83db1f4b",
+   "primary": true,
    "summary": "天母美校商圈房價行情熱門社區位於天母東路、天母美國學校及天母運動公園周邊的「天母美校商圈」,以屋齡30年以上的公寓、華廈為住宅主力,公寓每坪約50萬至60萬元、舊華廈約70萬元,房價相對親民,加上國際學校、醫療及在地換屋需求支撐,成為天母房市中具有價格競爭力的成熟住宅生活圈。",
-   "cities": [
-    "台北市"
-   ],
    "date_only": true
   },
   {
@@ -1882,35 +1949,23 @@
    "date_only": true
   },
   {
-   "url": "https://news.ltn.com.tw/news/Taipei/paper/1777571",
-   "title": "店面掛招租 蔣稱東區商圈活起來",
-   "source": "自由時報電子報",
-   "published_at": "2026-11-07T05:30:00+08:00",
-   "event_key": "art:e68a6fa180ccb2c793ad2a3c5bb041b254c2607f00800e99cafce58528d88e8d",
-   "primary": true,
-   "summary": "台北市長蔣萬安日前在電視辯論會上說,「大巨蛋讓東區商圈活起來,店面出租率超過九成」,部分當地店家體感有別,蔣萬安昨利用出席「東區週年慶」活動之便,安排東區掃街,受到商家歡迎。此外,蔣萬安於昨天中午訪視成淵高中之前,一早也先出席在建中舉辦的「台北國際青年科學論壇(TIYSF)」,以全英語致詞,一洗之前陰霾。知名DJ林哲儀",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    "東區商圈"
-   ],
-   "date_only": true
-  },
-  {
    "url": "https://news.ltn.com.tw/news/politics/paper/1777571",
    "title": "店面掛招租 蔣稱東區商圈活起來",
    "source": "自由時報",
    "published_at": "2026-11-07T05:30:00+08:00",
-   "event_key": "art:e68a6fa180ccb2c793ad2a3c5bb041b254c2607f00800e99cafce58528d88e8d",
+   "event_key": "archive:a97626c2fe0542e",
+   "primary": true,
+   "summary": "台北市長蔣萬安日前在電視辯論會上說,「大巨蛋讓東區商圈活起來,店面出租率超過九成」,部分當地店家體感有別,蔣萬安昨利用出席「東區週年慶」活動之便,安排東區掃街,受到商家歡迎。此外,蔣萬安於昨天中午訪視成淵高中之前,一早也先出席在建中舉辦的「台北國際青年科學論壇(TIYSF)」,以全英語致詞,一洗之前陰霾。知名DJ林哲儀",
+   "date_only": true
+  },
+  {
+   "url": "https://news.ltn.com.tw/news/Taipei/paper/1777571",
+   "title": "店面掛招租 蔣稱東區商圈活起來",
+   "source": "自由時報電子報",
+   "published_at": "2026-11-07T05:30:00+08:00",
+   "event_key": "archive:a97626c2fe0542e",
    "primary": false,
    "summary": "台北市長蔣萬安日前在電視辯論會上說,「大巨蛋讓東區商圈活起來,店面出租率超過九成」,部分當地店家體感有別,蔣萬安昨利用出席「東區週年慶」活動之便,安排東區掃街,受到商家歡迎。此外,蔣萬安於昨天中午訪視成淵高中之前,一早也先出席在建中舉辦的「台北國際青年科學論壇(TIYSF)」,以全英語致詞,一洗之前陰霾。知名DJ林哲儀",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    "東區商圈"
-   ],
    "date_only": true
   },
   {
@@ -1918,15 +1973,9 @@
    "title": "店面掛招租 蔣稱東區商圈活起來",
    "source": "自由時報",
    "published_at": "2026-11-07T05:30:00+08:00",
-   "event_key": "art:e68a6fa180ccb2c793ad2a3c5bb041b254c2607f00800e99cafce58528d88e8d",
+   "event_key": "archive:a97626c2fe0542e",
    "primary": false,
    "summary": "台北市長蔣萬安日前在電視辯論會上說,「大巨蛋讓東區商圈活起來,店面出租率超過九成」,部分當地店家體感有別,蔣萬安昨利用出席「東區週年慶」活動之便,安排東區掃街,受到商家歡迎。此外,蔣萬安於昨天中午訪視成淵高中之前,一早也先出席在建中舉辦的「台北國際青年科學論壇(TIYSF)」,以全英語致詞,一洗之前陰霾。知名DJ林哲儀",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    "東區商圈"
-   ],
    "date_only": true
   },
   {
@@ -1934,12 +1983,9 @@
    "title": "台北房市 天母美校商圈 公寓5字頭入手",
    "source": "中時新聞網",
    "published_at": "2026-11-07T04:10:00+08:00",
-   "event_key": "art:f5e0b10869f7f7b8d5dc84f9b9e39c4e35d1f0ec6fbde772c60714901ab9077c",
+   "event_key": "archive:10a081ac83db1f4b",
    "primary": false,
    "summary": "天母美校商圈房價行情熱門社區位於天母東路、天母美國學校及天母運動公園周邊的「天母美校商圈」,以屋齡30年以上的公寓、華廈為住宅主力,公寓每坪約50萬至60萬元、舊華廈約70萬元,房價相對親民,加上國際學校、醫療及在地換屋需求支撐,成為天母房市中具有價格競爭力的成熟住宅生活圈。",
-   "cities": [
-    "台北市"
-   ],
    "date_only": true
   },
   {
@@ -2000,9 +2046,19 @@
    "date_only": true
   },
   {
-   "url": "https://n.yam.com/Article/20261107704049",
+   "url": "https://www.ctee.com.tw/news/20261107700241-439902",
+   "title": "台北房市 天母美校商圈 公寓5字頭入手",
+   "source": "工商時報",
+   "published_at": "2026-11-07T00:00:00+08:00",
+   "event_key": "archive:10a081ac83db1f4b",
+   "primary": false,
+   "summary": "天母美校商圈房價行情熱門社區位於天母東路、天母美國學校及天母運動公園周邊的「天母美校商圈」,以屋齡30年以上的公寓、華廈為住宅主力,公寓每坪約50萬至60萬元、舊華廈約70萬元,房價相對親民,加上國際學校、醫療及在地換屋需求支撐,成為天母房市中具有價格競爭力的成熟住宅生活圈。",
+   "date_only": true
+  },
+  {
+   "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E6%8E%A8%E5%8B%95-%E5%95%86%E5%9C%88-%E7%89%B9%E8%89%B2-%E7%88%AD%E5%8F%962300%E8%90%AC%E8%A3%9C%E5%8A%A9%E8%BC%94%E5%B0%8E%E7%87%9F%E9%81%8B-012457212.html",
    "title": "桃園推動一商圈一特色 爭取2300萬補助輔導營運",
-   "source": "蕃新聞",
+   "source": "Yahoo奇摩新聞",
    "published_at": "2026-11-07T00:00:00+08:00",
    "event_key": "art:08702496321b056cafc4fb219e9b114a3cd79c142f0489714c56c93a1c7ccafe",
    "primary": false,
@@ -2013,9 +2069,9 @@
    "date_only": true
   },
   {
-   "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E6%8E%A8%E5%8B%95-%E5%95%86%E5%9C%88-%E7%89%B9%E8%89%B2-%E7%88%AD%E5%8F%962300%E8%90%AC%E8%A3%9C%E5%8A%A9%E8%BC%94%E5%B0%8E%E7%87%9F%E9%81%8B-012457212.html",
+   "url": "https://n.yam.com/Article/20261107704049",
    "title": "桃園推動一商圈一特色 爭取2300萬補助輔導營運",
-   "source": "Yahoo奇摩新聞",
+   "source": "蕃新聞",
    "published_at": "2026-11-07T00:00:00+08:00",
    "event_key": "art:08702496321b056cafc4fb219e9b114a3cd79c142f0489714c56c93a1c7ccafe",
    "primary": false,
@@ -2039,42 +2095,23 @@
    "date_only": true
   },
   {
-   "url": "https://n.yam.com/Article/20261107129736",
-   "title": "桃園商圈特色亮點形塑成果發表 張善政:深化一商圈一特色、提升地方產業競爭力",
-   "source": "蕃新聞",
-   "published_at": "2026-11-07T00:00:00+08:00",
-   "event_key": "art:c6b654be8a4ca38a37659817c065ba438af68a5bbc3e3221213a2e50fe30d94a",
-   "primary": true,
-   "summary": "【記者葉志成 /桃園報導】桃園市長張善政6日晚間前往桃園區,出席「115年桃園市商圈特色亮點形塑成果發表會」。張市長表示,桃園商圈涵蓋山區、濱海及都會地帶,各具文化底蘊與產業特色,市府將持續推動「一商圈一特色」,整合經發、文化及農業等跨局處資源,協助商圈發掘在地特色、強化品牌行銷,讓桃園特色商圈走向全臺,進一步提升地方",
-   "cities": [
-    "桃園市"
-   ],
-   "date_only": true
-  },
-  {
    "url": "https://www.contentplatform.info/articles/566359/%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E7%89%B9%E8%89%B2%E4%BA%AE%E9%BB%9E%E5%BD%A2%E5%A1%91%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E3%80%80%E5%BC%B5%E5%96%84%E6%94%BF%EF%BC%9A%E6%B7%B1%E5%8C%96%E4%B8%80/",
    "title": "桃園商圈特色亮點形塑成果發表 張善政:深化一商圈一特色、提升地方產業競爭力",
    "source": "報新聞",
    "published_at": "2026-11-07T00:00:00+08:00",
-   "event_key": "art:c6b654be8a4ca38a37659817c065ba438af68a5bbc3e3221213a2e50fe30d94a",
-   "primary": false,
+   "event_key": "archive:1d0a27b2e677bc1f",
+   "primary": true,
    "summary": "【記者葉志成 /桃園報導】桃園市長張善政6日晚間前往桃園區,出席「115年桃園市商圈特色亮點形塑成果發表會」。張市長表示,桃園商圈涵蓋山區、濱海及都會地帶,各具文化底蘊與產業特色,市府將持續推動「一商圈一特色」,整合經發、文化及農業等跨局處資源,協助商圈發掘在地特色、強化品牌行銷,讓桃園特色商圈走向全臺,進一步提升地方",
-   "cities": [
-    "桃園市"
-   ],
    "date_only": true
   },
   {
-   "url": "https://www.ctee.com.tw/news/20261107700241-439902",
-   "title": "台北房市 天母美校商圈 公寓5字頭入手",
-   "source": "工商時報",
+   "url": "https://n.yam.com/Article/20261107129736",
+   "title": "桃園商圈特色亮點形塑成果發表 張善政:深化一商圈一特色、提升地方產業競爭力",
+   "source": "蕃新聞",
    "published_at": "2026-11-07T00:00:00+08:00",
-   "event_key": "art:f5e0b10869f7f7b8d5dc84f9b9e39c4e35d1f0ec6fbde772c60714901ab9077c",
-   "primary": true,
-   "summary": "天母美校商圈房價行情熱門社區位於天母東路、天母美國學校及天母運動公園周邊的「天母美校商圈」,以屋齡30年以上的公寓、華廈為住宅主力,公寓每坪約50萬至60萬元、舊華廈約70萬元,房價相對親民,加上國際學校、醫療及在地換屋需求支撐,成為天母房市中具有價格競爭力的成熟住宅生活圈。",
-   "cities": [
-    "台北市"
-   ],
+   "event_key": "archive:1d0a27b2e677bc1f",
+   "primary": false,
+   "summary": "【記者葉志成 /桃園報導】桃園市長張善政6日晚間前往桃園區,出席「115年桃園市商圈特色亮點形塑成果發表會」。張市長表示,桃園商圈涵蓋山區、濱海及都會地帶,各具文化底蘊與產業特色,市府將持續推動「一商圈一特色」,整合經發、文化及農業等跨局處資源,協助商圈發掘在地特色、強化品牌行銷,讓桃園特色商圈走向全臺,進一步提升地方",
    "date_only": true
   },
   {
