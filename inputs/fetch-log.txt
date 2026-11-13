@@ -1,8 +1,9 @@
-15:32:13 attempt=1 code=200 url=https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d bytes=97152
-首頁清單：124 件事件／211 篇
-7 天累積清單：211 篇（本次新增 7）
-重點商圈查詢：第 15–114 處（共 281 處），新增 8 則，失敗 0 處；目前保留 106 則
-Google 新聞：查詢 5／5，原始 55 則，標題相關 29 則，保留 29 則，已還原原文網址 29 則；本次還原 {'online': 4}；錯誤 []
-關注議題：食用油：Google 149 則，新增 5 則，保留 124 則 {'價格動態': 75, '店家相關': 49}
-原文預抓：新抓 62／62，成功 20；快取共 739 篇；縮圖 808 張
-15:32:48 filter_candidates exit=0
+23:17:45 attempt=1 code=200 url=https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d bytes=71827
+首頁清單：101 件事件／165 篇
+7 天累積清單：165 篇（本次新增 5）
+重點商圈查詢：第 115–214 處（共 281 處），新增 3 則，失敗 0 處；目前保留 79 則
+Google 新聞：查詢 5／5，原始 146 則，標題相關 83 則，保留 83 則，已還原原文網址 83 則；本次還原 {'online': 10}；錯誤 []
+關注議題：食用油：Google 113 則，新增 3 則，保留 123 則 {'店家相關': 48, '價格動態': 75}
+Google 新聞移除舊聞： 洋流慧聚來了！沈伯洋．蘇巧慧三峽老街掃街（原文日期 2026-10-03）
+原文預抓：新抓 109／109，成功 64；快取共 726 篇；縮圖 761 張
+23:18:23 filter_candidates exit=0
