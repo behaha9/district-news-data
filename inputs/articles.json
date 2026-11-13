@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T07:17:32+08:00",
+ "fetched_at": "2026-11-13T09:58:23+08:00",
  "articles": {
   "https://www.fclnews.com/235170/": {
    "checked_at": "2026-11-13T07:17+08:00",
@@ -11315,6 +11315,93 @@
    "districts": [],
    "body_chars": 1211,
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVf9A33mB4t7pC2jNZEVUnrtJzrPKZeg2X_gzaeIaqGQFH_hi_o3RItEXg1GLLU4we35zWXNjD-2TB_iA5T5vosgaLYrosCSbnL3vQHV-TDOTpnZQ_sJo0cjix4HNW6C0utrGrXKFfIYoSCYQwS4PiPp2czetcvfHaMFV7Ktk1x9fs6BBTzZb5BaRLU5pQ/s1600/785A7200.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://n.yam.com/Article/20261113726567": {
+   "checked_at": "2026-11-13T09:58+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T08:04+08:00",
+   "site_name": "蕃新聞",
+   "description": "智慧行人友善設施-新光遠百公車專用道地嵌式警示燈及投射式紅綠燈。(圖／台中市政府提供)台中市政府交通",
+   "cities": {
+    "台中市": 4,
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 1359,
+   "image": "https://ni.yam.com/20261113/NEWS-fe2c913d916759f9.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://truemii.chinatimes.com/content/20261113000005-265001": {
+   "checked_at": "2026-11-13T09:58+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T09:00+08:00",
+   "site_name": "瘋台灣 - 觸mii",
+   "description": "新北市幅員廣大，山城、海岸、河岸、老街與城市商圈各有特色，卻也長期面臨觀光資源分散、交通接駁不易，以及熱門景點人潮集中等問題。對旅遊產業而言，真正的考驗不只是景點能否抵達，而是如何將人潮轉化為停留時間",
+   "cities": {
+    "新北市": 11,
+    "台北市": 2,
+    "桃園市": 1,
+    "基隆市": 1
+   },
+   "districts": [
+    "九份老街商圈（新北市）",
+    "八里渡船頭商圈（新北市）"
+   ],
+   "body_chars": 2725,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-08/1024/20261108001212.png",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/society/breakingnews/5639189": {
+   "checked_at": "2026-11-13T09:58+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T09:35+08:00",
+   "site_name": "自由時報電子報",
+   "description": "宜蘭市進士路2段一家滷味攤，昨晚客人買滷味時因排隊發生口角，進而引爆肢體衝突，2名男子聯手毆打1男，造成被打的許男受傷送醫，目前還在住院觀察。警方漏夜偵辦，連夜逮捕涉案張男，另名朱姓男子在逃；朱是通緝犯，其女友因藏匿人犯也被拘提到案，後續依傷害等罪移送宜蘭地檢察署偵辦。這起衝突發生在12日晚上7時左右，警方接獲民眾報案",
+   "cities": {
+    "宜蘭縣": 12
+   },
+   "districts": [
+    "神農商圈（宜蘭縣）"
+   ],
+   "body_chars": 814,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/13/5639189_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cmoney.tw/forum/article/188604540": {
+   "checked_at": "2026-11-13T09:58+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T09:47+08:00",
+   "site_name": "CMoney 股市爆料同學會",
+   "description": "宜蘭市進士路2段一家滷味攤，昨晚客人買滷味時因排隊發生口角，進而引爆肢體衝突，2名男子聯手毆打1男，造成被打的許男受傷送醫，目前還在住院觀察。警方漏夜偵辦，連夜",
+   "cities": {
+    "宜蘭縣": 3
+   },
+   "districts": [],
+   "body_chars": 223,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/13/5639189_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.japaholic.com/tw/article/detail/945029-%E7%B4%85%E8%8C%B6%E6%84%9B%E5%A5%BD%E8%80%85%E4%BE%86%E5%88%B0%E7%A9%BA%E5%A0%80%E5%95%86%E5%BA%97%E8%A1%97%E5%88%A5%E9%8C%AF%E9%81%8E%EF%BC%8C%E5%A4%A7%E9%98%AA%E8%B0%B7%E7%94%BA%E5%85%AD%E4%B8%81%E7%9B%AE%E7%B4%85%E8%8C%B6%E5%B0%88%E8%B3%A3%E5%BA%97%E3%80%8CIROHARAK%EF%BC%88%E3%82%A4%E3%83%AD%E3%83%8F%E3%83%A9%E3%82%AF%EF%BC%89%E3%80%8D": {
+   "checked_at": "2026-11-13T09:58+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "Japaholic",
+   "description": "來到大阪，除了心齋橋筋商店街、天神橋筋商店街等熱門景點之外，位於「谷町六丁目」車站的「空堀商店街」，也是一處頗值得好好探訪的景點。本次文章將介紹一家位於空堀商店街內的紅茶專賣店「IROHARAK（イロハラク）」，來到空堀商店街，可別錯過品嚐美味紅茶的機會。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1268,
+   "image": "https://www.japaholic.com/storage/files/article_images/MzkyMDI2MTExMjE4Mzg0MTI4.jpg",
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
