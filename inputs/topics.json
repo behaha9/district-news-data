@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T14:58:48+08:00",
+ "updated_at": "2026-11-13T20:52:20+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,33 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "沙拉油漲3成還缺貨！林于凱揭供應鏈隱憂　高雄藍議員憂食安風暴",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pZTREUkQzdC1OT2NCZ1hYR29CNjJQVkMzbUlkWjNTbnNNZGhFSlpfb0xHZklEQ0tmTGliVmc0UV9OWU4yXzJSb2oyd3pzS29CSlBGTW02TmdfV00zRHfSAUtBVV95cUxQZEVLOUQxS3lwMnM2NUFYbkViQ0diYU9UZnJRWWhhbDR4U0VGZmtIUExGMHJsZ3dONEpmRG1sV1dSWFJRZUo2SU1FWnM?oc=5",
+     "source": "ETtoday新聞雲",
+     "published_at": "2026-11-13T17:55+08:00",
+     "url": "https://www.ettoday.net/news/20261113/3271785.htm",
+     "resolved": true
+    },
+    {
+     "title": "桶裝沙拉油傳缺貨價格飆漲 台南市府聯手台糖闢謠:供應絕對夠",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOM2R5RTNBdnhGYWxON2FzWFA3Q1J0MFVrZy1Uc0VRcGJ5dkpCY0l6SHhVUGg2N25oRDIxRnMzOVU1bUlvVlRkT3hLcFlYMWpaS3p6M1dkYjd4ZV9SZmdKRFJVdklwRGI3YlRqdzc2WkczQ1NtdXJsVHNvalE2aHRLdDV5ZW81NTR5cFREMXVJejVWSlB6NWtvNjVySllyMUdRUElfVWxkOXpOcWdWbjVFbWFMLXZsUVM3bnhOMy1uSFVjZ296b0szRHRMLUphUnp1ZElMY2RheHFLcVJMbW80bGEtLUFpT3drSmthdFItMjJ6dVFoQ3VZUlhGYjhEQi1UWG9mYjlqTG5kN0JTVTZsQjJadnU1MXFjNVQwVlhKc1lpWmVMay1MRnBHaUdBT1VTcExoN00tdGdhbTNPemtvSWpCcm1ERnFCcXJvTzRDNTdkbnhqNDU4ZE9JM3pkZTExY3ZKaEUyckpYS29PSV9XWFFWbHFvU0ZLWU1IV0lBVTdOWXNaNFFpR1hoM2JqTHFnTFZTNlFKb1FIZw?oc=5",
+     "source": "Yahoo新聞",
+     "published_at": "2026-11-13T17:54+08:00",
+     "url": "https://tw.news.yahoo.com/%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E5%82%B3%E7%BC%BA%E8%B2%A8%E5%83%B9%E6%A0%BC%E9%A3%86%E6%BC%B2-%E5%8F%B0%E5%8D%97%E5%B8%82%E5%BA%9C%E8%81%AF%E6%89%8B%E5%8F%B0%E7%B3%96%E9%97%A2%E8%AC%A0-%E4%BE%9B%E6%87%89%E7%B5%95%E5%B0%8D%E5%A4%A0-095430426.html",
+     "resolved": true
+    },
+    {
+     "title": "O&CO.限量設計橄欖油「雪白地中海」優雅登場 | 食品餐飲 | 商情",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWOGhmQmFhQlRfa3pscjBGSGw4RmJleEgzc2VNQk4tTjNhUFRDZ2pmNG9TSHRXM0hmUnUySUFud2tzQklGbXEyTkdtUDdFOEtyVEJrVjhmcmU1Zw?oc=5",
+     "source": "經濟日報",
+     "published_at": "2026-11-13T16:00+08:00",
+     "url": "https://money.udn.com/money/story/7843/9876644",
+     "resolved": true
+    },
     {
      "title": "南市府聯手台糖穩定食用油供應！每月可供應1792公噸黃偉哲籲理性採購、嚴查囤貨哄抬| 徐炳文 | 地方新聞",
      "kind": "價格動態",
@@ -114,6 +141,15 @@
      "source": "UDN",
      "published_at": "2026-11-11T13:15+08:00",
      "url": "https://udn.com/news/story/7326/9871662?from=udn-ch1_breaknews-1-99-news",
+     "resolved": true
+    },
+    {
+     "title": "桶裝沙拉油之亂台南聯手台糖增產黃偉哲：不排除有人囤貨、哄抬價| 雲嘉南| 地方",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RZzJaVkw5cDFMZ0R3blZqcXo3QTRGS1hPbDIyS2pCakFPRXQwdmFMWjYyMFFKcFFpNFdid29CQjZjdFFibUZzbTVTQTNsUWVM?oc=5",
+     "source": "UDN",
+     "published_at": "2026-11-11T13:15+08:00",
+     "url": "https://udn.com/news/story/7326/9871662",
      "resolved": true
     },
     {
