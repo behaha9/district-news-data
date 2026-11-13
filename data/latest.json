@@ -1,7 +1,63 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T12:19:15+08:00",
+ "generated_at": "2026-11-13T16:50:39+08:00",
  "items": [
+  {
+   "id": "20261111-songshan-rice-fest",
+   "title": "松山商圈發展協會與宜蘭縣政府推「新米祭」，宜蘭好米進駐微風超市",
+   "summary": "臺北市松山商圈發展協會與宜蘭縣政府共同推廣2026新米祭，讓宜蘭嚴選米進駐微風超市。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-13T13:42:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "松山商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "松山商圈為115年補助名單，協會與縣市合作推廣活動，可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E6%9D%BE%E5%B1%B1%E5%95%86%E5%9C%88%E8%BF%8E%E5%AE%9C%E8%98%AD%E5%A5%BD%E7%B1%B3-2026%E6%96%B0%E7%B1%B3%E7%A5%AD-13%E6%97%A5%E8%87%B315%E6%97%A5%E5%BE%AE%E9%A2%A8%E8%B6%85%E5%B8%82%E5%85%8D%E8%B2%BB%E8%A9%A6%E5%90%83-054243611.html",
+     "published_at": "2026-11-13T13:42:00+08:00"
+    },
+    {
+     "outlet": "警政時報",
+     "url": "https://www.tcpttw.com/life/2026/11/11/329449/",
+     "published_at": "2026-11-11T16:19:00+08:00"
+    },
+    {
+     "outlet": "觀傳媒",
+     "url": "https://www.watchmedia01.com/archives/568607",
+     "published_at": "2026-11-11T00:00:00+08:00"
+    }
+   ],
+   "image": "https://media.zenfs.com/en/tcpttw_345/c5aecc6595a11d0d4f61f48558f9b9b6.jpg"
+  },
+  {
+   "id": "20261113-lukang-transfer-station",
+   "title": "鹿港轉運站落成，縣府指有助緩解老街一帶塞車",
+   "summary": "彰化縣政府13日舉辦鹿港轉運站落成典禮，報導指鹿港年吸引逾2484萬旅遊人次，轉運站可望紓解老街塞車問題。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-13T12:59:00+08:00",
+   "cities": [
+    "彰化縣"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5639484",
+     "published_at": "2026-11-13T12:59:00+08:00"
+    }
+   ],
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/13/5639484_1_1.jpg"
+  },
   {
    "id": "20261112-gimme-xinyi",
    "title": "欣食旅新品牌「GIMME」在信義商圈新光三越A8館開幕",
@@ -482,6 +538,67 @@
    "image": "https://ni.yam.com/20261111/taipei-75F98D82D332A353-1-70ba79ad106b2c44.webp"
   },
   {
+   "id": "20261111-taoyuan-three-districts-merit",
+   "title": "桃園3大商圈獲經濟部商業署肯定，經發局將持續投入振興與轉型資源",
+   "summary": "桃園電子報報導，商業署長頒發感謝狀肯定各縣市府推動商圈發展，桃園市府由經發局長出席領取，經發局表示將持續投入資源。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-12T07:55:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [
+    {
+     "name": "魅力金三角商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "魅力金三角商圈為115年補助名單，獲中央肯定，可作為商圈發展成果與後續執行參考。",
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261112267455",
+     "published_at": "2026-11-12T07:55:00+08:00"
+    },
+    {
+     "outlet": "臺灣導報",
+     "url": "https://taiwanreports.com/archives/1025433",
+     "published_at": "2026-11-11T17:19:00+08:00"
+    },
+    {
+     "outlet": "台灣好新聞",
+     "url": "https://www.taiwanhot.net/news/1153738/%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E9%96%83%E8%80%80%E5%85%A8%E5%9C%8B+%E6%A6%AE%E5%A5%AA%E7%B6%93%E6%BF%9F%E9%83%A8%E3%80%8C2026%E5%85%A8%E5%9C%8B%E5%8D%93%E8%B6%8A%E5%95%86%E5%9C%88%E7%8D%8E%E3%80%8D%E4%B8%89%E7%8D%8E%E9%A0%85",
+     "published_at": "2026-11-11T13:25:00+08:00"
+    },
+    {
+     "outlet": "桃園電子報",
+     "url": "https://tyenews.com/2026/11/1428580/",
+     "published_at": "2026-11-11T10:41:00+08:00"
+    },
+    {
+     "outlet": "商傳媒",
+     "url": "https://sunmedia.tw/news/collaborative/bmSlYsvnt9ZoK2uvI0VjRm19SNNTsIK86gdKNKfTQlvbN2GykL2L67tw6yey2nuwQ5Wjxs8eEe9BG5qrB",
+     "published_at": "2026-11-11T10:41:00+08:00"
+    },
+    {
+     "outlet": "LIFE 生活網",
+     "url": "https://life.tw/article/%E6%A1%83%E5%9C%923%E5%A4%A7%E5%95%86%E5%9C%88%E7%8D%B2%E4%B8%AD%E5%A4%AE%E8%82%AF%E5%AE%9A-%E7%B6%93%E7%99%BC%E5%B1%80-%E6%8C%81%E7%BA%8C%E6%8A%95%E5%85%A5%E6%8C%AF%E8%88%88%E8%88%87%E8%BD%89%E5%9E%8B%E8%B3%87%E6%BA%90-3213385",
+     "published_at": "2026-11-11T10:40:00+08:00"
+    },
+    {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/765408/",
+     "published_at": "2026-11-11T00:00:00+08:00"
+    },
+    {
+     "outlet": "桃園市政府經濟發展局",
+     "url": "https://edb.tycg.gov.tw/News_Content.aspx?n=3749&s=1969810",
+     "published_at": "2026-11-11T00:00:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261112/bf808d5b-63a9-4dbc-b65d-378183856652-2b3e9c28596b6e72.webp"
+  },
+  {
    "id": "20261112-yingge-light-oldstreet",
    "title": "鶯歌光點雙展13日登場，從台北藝博延伸到鶯歌老街",
    "summary": "鶯歌光點首度參展台北國際藝術博覽會，並邀民眾走進鶯歌老街，13日起展出雙展。",
@@ -664,93 +781,6 @@
     }
    ],
    "image": "https://ocacnews.net/storage/articleImages/20261110/M2_cmYP5XkcWKLRgQKn3T71lad5AcFpXkX6SIMa6aT3.jpg"
-  },
-  {
-   "id": "20261111-taoyuan-three-districts-merit",
-   "title": "桃園3大商圈獲經濟部商業署肯定，經發局將持續投入振興與轉型資源",
-   "summary": "桃園電子報報導，商業署長頒發感謝狀肯定各縣市府推動商圈發展，桃園市府由經發局長出席領取，經發局表示將持續投入資源。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-11T17:19:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [
-    {
-     "name": "魅力金三角商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "魅力金三角商圈為115年補助名單，獲中央肯定，可作為商圈發展成果與後續執行參考。",
-   "sources": [
-    {
-     "outlet": "臺灣導報",
-     "url": "https://taiwanreports.com/archives/1025433",
-     "published_at": "2026-11-11T17:19:00+08:00"
-    },
-    {
-     "outlet": "台灣好新聞",
-     "url": "https://www.taiwanhot.net/news/1153738/%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E9%96%83%E8%80%80%E5%85%A8%E5%9C%8B+%E6%A6%AE%E5%A5%AA%E7%B6%93%E6%BF%9F%E9%83%A8%E3%80%8C2026%E5%85%A8%E5%9C%8B%E5%8D%93%E8%B6%8A%E5%95%86%E5%9C%88%E7%8D%8E%E3%80%8D%E4%B8%89%E7%8D%8E%E9%A0%85",
-     "published_at": "2026-11-11T13:25:00+08:00"
-    },
-    {
-     "outlet": "桃園電子報",
-     "url": "https://tyenews.com/2026/11/1428580/",
-     "published_at": "2026-11-11T10:41:00+08:00"
-    },
-    {
-     "outlet": "商傳媒",
-     "url": "https://sunmedia.tw/news/collaborative/bmSlYsvnt9ZoK2uvI0VjRm19SNNTsIK86gdKNKfTQlvbN2GykL2L67tw6yey2nuwQ5Wjxs8eEe9BG5qrB",
-     "published_at": "2026-11-11T10:41:00+08:00"
-    },
-    {
-     "outlet": "LIFE 生活網",
-     "url": "https://life.tw/article/%E6%A1%83%E5%9C%923%E5%A4%A7%E5%95%86%E5%9C%88%E7%8D%B2%E4%B8%AD%E5%A4%AE%E8%82%AF%E5%AE%9A-%E7%B6%93%E7%99%BC%E5%B1%80-%E6%8C%81%E7%BA%8C%E6%8A%95%E5%85%A5%E6%8C%AF%E8%88%88%E8%88%87%E8%BD%89%E5%9E%8B%E8%B3%87%E6%BA%90-3213385",
-     "published_at": "2026-11-11T10:40:00+08:00"
-    },
-    {
-     "outlet": "墨新聞",
-     "url": "https://more-news.tw/765408/",
-     "published_at": "2026-11-11T00:00:00+08:00"
-    },
-    {
-     "outlet": "桃園市政府經濟發展局",
-     "url": "https://edb.tycg.gov.tw/News_Content.aspx?n=3749&s=1969810",
-     "published_at": "2026-11-11T00:00:00+08:00"
-    }
-   ],
-   "image": "https://www.taiwanhot.net/cache/1317866/lg/medias-20261111-6af3f655c684a.jpeg"
-  },
-  {
-   "id": "20261111-songshan-rice-fest",
-   "title": "松山商圈發展協會與宜蘭縣政府推「新米祭」，宜蘭好米進駐微風超市",
-   "summary": "臺北市松山商圈發展協會與宜蘭縣政府共同推廣2026新米祭，讓宜蘭嚴選米進駐微風超市。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-11T16:19:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "松山商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "松山商圈為115年補助名單，協會與縣市合作推廣活動，可作為執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "警政時報",
-     "url": "https://www.tcpttw.com/life/2026/11/11/329449/",
-     "published_at": "2026-11-11T16:19:00+08:00"
-    },
-    {
-     "outlet": "觀傳媒",
-     "url": "https://www.watchmedia01.com/archives/568607",
-     "published_at": "2026-11-11T00:00:00+08:00"
-    }
-   ],
-   "image": "https://www.tcpttw.com/wp-content/uploads/2026/11/s--90931265.jpg"
   },
   {
    "id": "20261110-ruifang-oldstreet-facade",
