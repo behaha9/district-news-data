@@ -1,20 +1,31 @@
 {
- "fetched_at": "2026-11-14T09:30:07+08:00",
+ "fetched_at": "2026-11-14T12:17:12+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 142,
-  "kept": 81,
-  "resolved": 81,
+  "raw": 132,
+  "kept": 82,
+  "resolved": 82,
   "items": 80,
   "resolve_this_run": {
-   "online": 3
+   "online": 2
   },
   "dropped_old": [
+   "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）",
    "洋流慧聚來了！沈伯洋．蘇巧慧三峽老街掃街（原文日期 2026-10-03）"
   ]
  },
  "items": [
+  {
+   "title": "高雄一日遊｜旗津不只逛老街！爆漿蕃薯椪、隱藏版老宅咖啡廳、燈塔限定甜點必收",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wUmxxMEw0TnVKdmNsYWpBMFdIWmxOMDR1LXl5dlRRM3VaMVNwTHoyeVEtZEVUbFk1eFk5c0ZkdmJJMGVHRkdBUDFLUWY0NEpmVEhSVEZ6b0VjZVBy?oc=5",
+   "source": "UDN",
+   "source_site": "https://travel.udn.com",
+   "published_at": "2026-11-14T10:30+08:00",
+   "query": "老街",
+   "url": "https://travel.udn.com/travel/story/7209/9858844",
+   "resolved": true
+  },
   {
    "title": "全台商圈大洗牌！嘉義Outlet砸50億、台中會展正式營運商場、交通、科技改寫生活圈- 生活新聞",
    "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0MxRHF6TThGTlRBR0RzcTFDcldnSFQ3T3pfYjJnVnd0eWQxcnRGV0MtbGthS0RIUVVNMFRGVVdZZk9nZWRLbTJXUGQ3Tk1wdmNmY3B3YV84NDR3VFNhckRrSnBQbUl4U3h1UzBzbThNR0RsTlRwcWtyMWdvMHUtekVSU01sdlZC?oc=5",
@@ -36,13 +47,13 @@
    "resolved": true
   },
   {
-   "title": "中原商圈知名牛排館將熄燈！在地經營30年…業者發道別文、老顧客不捨 | 三立新聞網",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKR05STkVLcy1WTnFJTW5IckI3WVRhTGFmZ3VnRURFaTNfb0FYYUpoN25NWnREa19JTXJ2d3NWYXJJT09ZbHBGT1JKMVhocHU2YjAxb1NR?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-14T07:12+08:00",
+   "title": "中原商圈知名牛排館將熄燈！在地經營30年…業者發道別文、老顧客不捨",
+   "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nYXpCZE9tdU5adEVHZVREUXFROEJLQmZidXR6UzFwWEozemdpblhxWTlrc19lZmk5UnQxQ1hSSFhyTy1KRndzN9IBTEFVX3lxTE9WU3pDb3pkXzlSVDNtTEw4RlQ1RVpWRzBKN3RQN3ZFN1NQekR4SzRZanVRY1VUQTZ6azlCUGlKZy0yZGI2VU1YU1VpRno?oc=5",
+   "source": "三立新聞網SETN.com",
+   "source_site": "https://www.setn.com",
+   "published_at": "2026-11-14T07:09+08:00",
    "query": "商圈",
-   "url": "https://today.line.me/tw/v3/article/JPyeLVX",
+   "url": "https://www.setn.com/news/1938755",
    "resolved": true
   },
   {
@@ -396,6 +407,16 @@
    "resolved": true
   },
   {
+   "title": "115年桃園市商業轉型服務中心暨桃金好禮好店成果發表助力商圈轉型升級、show好禮好店再造成果",
+   "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NS1NWUW5Zc2pXUERmY1dXWS1OQW1CdG9BRWl6QXdmRHZ5bHY3VXJPbFItcnNzWDc3VkNWLXdSbWZXMVlSOUxmWUtKLVUwSGtTRVFpaUlXTU9jem5BM0xPUDdn?oc=5",
+   "source": "新媒體經紀人",
+   "source_site": "https://media.posu.tw",
+   "published_at": "2026-11-13T01:43+08:00",
+   "query": "商圈",
+   "url": "https://media.posu.tw/uninews_view.php?new_sn=149369",
+   "resolved": true
+  },
+  {
    "title": "走訪雙城「大溪」 漁港海味對決老街木藝",
    "google_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVUdJRnFjZkxYVGd3QWs5QU5mSFJ3Wk1ZRnlaMkEyeTJPRkFWcHN1NjRPZHdWZURIbHhtdHoyRmpfR3RxTUhMdFptVVl1SmtreS1LcmkxRHE1Ul9EVGlSTzhKcVBueHN1TWZwSVNXWkRXY19KQXpiendKLVlHUVdNclJyQTVrZG1aRkVjSGI2R0djTmc4RDZoOE9DZ2hCZjRtdFd1RF81ZzZLcWxOU0w2aUZuUFc2bnlyMVgyejk3c05uV2hRWTU3QzRvSUFkSXhTMEtjR1BYczc4MTlmSFd6NlVXMFNKeVVvYmdUMVhZWWJ6T011a0lJYUp2Q1liRDZ4V1gxTEVwMkJ0WUhVNzRfNnZjdmJuQQ?oc=5",
    "source": "Yahoo新聞",
@@ -596,6 +617,16 @@
    "resolved": true
   },
   {
+   "title": "欣食旅新品牌「GIMME」進軍信義商圈！瞄準都會「輕社交」商機，推地中海小盤菜、台灣烏龍茶創意調酒",
+   "google_url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNODktSU1nSWI3LU9QSjJQVzg0d0lBR2NvNndnX3VTS1JYeGg3QWxrUm11eXhKQnBxMlFndW1nb04tLTg1eU1zWWwtZXFWTmZFcFJWZlNMSlBWbGs4RGlFZUpTWlN0T3A3M1c4bUx3QTRWTnZwa2NGbUswYzg4aTZJTlFZX081eGp3MENySHVVRXR4QVlmaDQzUzVSZEJRQkRyU1lwMllIVk03ZlVDTlFOY0dQb0ZmTnY0NndlaHRnTldIbHBydVBLWVNYdjR4WXlZTGdQVzRTZW1aUXBjYUpjRzd4ZlJ1THltSWF1M0Z6NUFhZUxRWTl1S1NDekRCNTE5WnM0WmVCdXpuQnU2aUZ5V25COXRWZ0VGUXdCcF9ka19YLVpFWVZaLWtqbndtaFprWGZ4N0RZWGU0S3dSM2Q3MFlxRQ?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-12T18:07+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E6%AC%A3%E9%A3%9F%E6%97%85%E6%96%B0%E5%93%81%E7%89%8C-gimme-%E9%80%B2%E8%BB%8D%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88-%E7%9E%84%E6%BA%96%E9%83%BD%E6%9C%83-%E8%BC%95%E7%A4%BE%E4%BA%A4-013420558.html",
+   "resolved": true
+  },
+  {
    "title": "基隆委託行商圈榮獲「2026全國卓越商圈獎」亮點觀光獎",
    "google_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HdzFGQlJHbDJBVXh6M1ZQZGMzaThDalJWeHhqeGtrX21iRFpHNy1GZmM2U3NCTktzdXRmaThKT05zQQ?oc=5",
    "source": "墨新聞-MORE News",
@@ -783,36 +814,6 @@
    "published_at": "2026-11-12T12:23+08:00",
    "query": "商圈",
    "url": "https://udn.com/news/story/7323/9873968",
-   "resolved": true
-  },
-  {
-   "title": "公館運動館4億變身11/12搶預約！7天免費玩AI健身等科技，3000坪誠品駐水源新天地能救商圈？",
-   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iV3MxeDdfdklFeURDaGs2YnNscnd1V0psNzlvemxtSV9mM1VoaHJhLV9fT2hxMzZBVHZFSzFaZ3Q5WnRlOWZyV3VmWXN5d28?oc=5",
-   "source": "城市學",
-   "source_site": "https://city.gvm.com.tw",
-   "published_at": "2026-11-12T11:48+08:00",
-   "query": "商圈",
-   "url": "https://city.gvm.com.tw/article/134469",
-   "resolved": true
-  },
-  {
-   "title": "蘇巧慧偕蕭美琴走訪山城 喊話商圈補助3倍、 串聯地方觀光",
-   "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uelBIakJVSWZvZ05JaS13WjlqTlFDUnA4WTRveGJ5cXZMNFNpZkRUMkJxNDVqZWMzNl85cWw0SjR0TnZaUm0wNHp3?oc=5",
-   "source": "匯流新聞網",
-   "source_site": "https://cnews.com.tw",
-   "published_at": "2026-11-12T10:56+08:00",
-   "query": "商圈",
-   "url": "https://cnews.com.tw/248261112a01/",
-   "resolved": true
-  },
-  {
-   "title": "欣食旅新品牌「GIMME」進軍信義商圈！瞄準都會「輕社交」商機，推地中海小盤菜、台灣烏龍茶創意調酒- 旅遊新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbnBRbU5iaWlTX2tUZmlLM0JBNzZwWjhTVEhXSm1neVhfS09mSzhqa2x2R3BKblhWRmZHamR2V3lXaVU2NnZ6cGZnRFQyQ0dBZnZKVEViMmE2S1ZqbUxkanhXUkp5czZmckpiT2EzWU9SNG81ZkFTT1RBM3hCQ0ZZb1ZKTDNXTGpoU2V3akxB?oc=5",
-   "source": "PChome Online 新聞",
-   "source_site": "https://news.pchome.com.tw",
-   "published_at": "2026-11-12T09:34+08:00",
-   "query": "商圈",
-   "url": "https://news.pchome.com.tw/travel/liontravel/20261112/index-17944472609566956015.html",
    "resolved": true
   }
  ]
