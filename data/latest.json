@@ -1,7 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-14T16:51:48+08:00",
+ "generated_at": "2026-11-14T20:56:12+08:00",
  "items": [
+  {
+   "id": "20261111-songshan-rice-fest",
+   "title": "松山商圈發展協會與宜蘭縣政府推「新米祭」，宜蘭好米進駐微風超市",
+   "summary": "臺北市松山商圈發展協會與宜蘭縣政府共同推廣2026新米祭，讓宜蘭嚴選米進駐微風超市。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-14T18:12:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "松山商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "松山商圈為115年補助名單，協會與縣市合作推廣活動，可作為執行佐證參考。",
+   "sources": [
+    {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/768619/",
+     "published_at": "2026-11-14T18:12:00+08:00"
+    },
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E6%9D%BE%E5%B1%B1%E5%95%86%E5%9C%88%E8%BF%8E%E5%AE%9C%E8%98%AD%E5%A5%BD%E7%B1%B3-2026%E6%96%B0%E7%B1%B3%E7%A5%AD-13%E6%97%A5%E8%87%B315%E6%97%A5%E5%BE%AE%E9%A2%A8%E8%B6%85%E5%B8%82%E5%85%8D%E8%B2%BB%E8%A9%A6%E5%90%83-054243611.html",
+     "published_at": "2026-11-13T13:42:00+08:00"
+    },
+    {
+     "outlet": "警政時報",
+     "url": "https://www.tcpttw.com/local/2026/11/13/330213/",
+     "published_at": "2026-11-13T13:42:00+08:00"
+    },
+    {
+     "outlet": "警政時報",
+     "url": "https://www.tcpttw.com/life/2026/11/11/329449/",
+     "published_at": "2026-11-11T16:19:00+08:00"
+    },
+    {
+     "outlet": "觀傳媒",
+     "url": "https://www.watchmedia01.com/archives/568607",
+     "published_at": "2026-11-11T00:00:00+08:00"
+    }
+   ],
+   "image": "https://more-news.tw/more-news-media/2026/11/IMG_7438.jpeg"
+  },
   {
    "id": "20261113-zhongyuan-mickey-steak",
    "title": "中原商圈30年老店「米老鼠牛排館」11月15日結束營業",
@@ -24,6 +70,11 @@
      "outlet": "三立新聞網",
      "url": "https://www.setn.com/news/1938755",
      "published_at": "2026-11-14T15:09:00+08:00"
+    },
+    {
+     "outlet": "Yahoo奇摩新聞",
+     "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%8E%9F%E5%95%86%E5%9C%88%E7%9F%A5%E5%90%8D%E7%89%9B%E6%8E%92%E9%A4%A8%E5%B0%87%E7%86%84%E7%87%88-%E5%9C%A8%E5%9C%B0%E7%B6%93%E7%87%9F30%E5%B9%B4-%E6%A5%AD%E8%80%85%E7%99%BC%E9%81%93%E5%88%A5%E6%96%87-%E8%80%81%E9%A1%A7%E5%AE%A2%E4%B8%8D%E6%8D%A8-231400289.html",
+     "published_at": "2026-11-14T07:14:00+08:00"
     },
     {
      "outlet": "TVBS新聞網",
@@ -87,6 +138,31 @@
      "published_at": "2026-11-14T00:00:00+08:00"
     }
    ]
+  },
+  {
+   "id": "20261114-bade-3c-dayy",
+   "title": "八德資訊商圈「3C哈樂DAY」14、15日主場週，六組樂團接力開唱",
+   "summary": "臺北市商業處公告八德資訊商圈11月14、15日舉辦3C哈樂DAY，安排六組樂團演出，並有軍武體驗與復古遊戲等活動。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-14T00:00:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "八德資訊商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "臺北市商業處",
+     "url": "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=E00D80575E609565",
+     "published_at": "2026-11-14T00:00:00+08:00"
+    }
+   ],
+   "image": "https://www-ws.gov.taipei/001/Upload/409/relpic/10162/9746473/bba8b4fe-cb97-46d5-b95e-a7357124f4dc@710x470.jpg"
   },
   {
    "id": "20261112-taoyuan-biz-transform",
@@ -183,6 +259,16 @@
      "published_at": "2026-11-13T18:20:00+08:00"
     },
     {
+     "outlet": "LINE TODAY",
+     "url": "https://today.line.me/tw/v3/article/kEpVPVL",
+     "published_at": "2026-11-13T18:20:00+08:00"
+    },
+    {
+     "outlet": "Yahoo奇摩運動",
+     "url": "https://tw.sports.yahoo.com/news/%E7%B8%BD%E7%B5%B1%E7%9B%83%E8%A1%97%E8%88%9E%E5%A4%A7%E8%B3%BD11-14%E6%B1%BA%E6%88%B0%E5%87%B1%E9%81%93-%E4%B8%B2%E8%81%AF%E8%87%BA%E5%8C%97%E6%A6%AE%E7%94%BA%E5%95%86%E5%9C%88-%E9%9B%86%E9%BB%9E%E9%80%81%E7%A6%AE-300%E4%BB%BD%E5%A5%BD%E7%A6%AE%E7%AD%89%E4%BD%A0%E6%8B%BF-102047970.html",
+     "published_at": "2026-11-13T18:20:00+08:00"
+    },
+    {
      "outlet": "民視新聞網",
      "url": "https://www.ftvnews.com.tw/news/detail/2026B12W0675",
      "published_at": "2026-11-12T17:51:00+08:00"
@@ -224,47 +310,6 @@
     }
    ],
    "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/9303d404-cf1e-4881-bb6f-1c3d40a17554.jpg"
-  },
-  {
-   "id": "20261111-songshan-rice-fest",
-   "title": "松山商圈發展協會與宜蘭縣政府推「新米祭」，宜蘭好米進駐微風超市",
-   "summary": "臺北市松山商圈發展協會與宜蘭縣政府共同推廣2026新米祭，讓宜蘭嚴選米進駐微風超市。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-13T13:42:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "松山商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "松山商圈為115年補助名單，協會與縣市合作推廣活動，可作為執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "Yahoo新聞",
-     "url": "https://tw.news.yahoo.com/%E6%9D%BE%E5%B1%B1%E5%95%86%E5%9C%88%E8%BF%8E%E5%AE%9C%E8%98%AD%E5%A5%BD%E7%B1%B3-2026%E6%96%B0%E7%B1%B3%E7%A5%AD-13%E6%97%A5%E8%87%B315%E6%97%A5%E5%BE%AE%E9%A2%A8%E8%B6%85%E5%B8%82%E5%85%8D%E8%B2%BB%E8%A9%A6%E5%90%83-054243611.html",
-     "published_at": "2026-11-13T13:42:00+08:00"
-    },
-    {
-     "outlet": "警政時報",
-     "url": "https://www.tcpttw.com/local/2026/11/13/330213/",
-     "published_at": "2026-11-13T13:42:00+08:00"
-    },
-    {
-     "outlet": "警政時報",
-     "url": "https://www.tcpttw.com/life/2026/11/11/329449/",
-     "published_at": "2026-11-11T16:19:00+08:00"
-    },
-    {
-     "outlet": "觀傳媒",
-     "url": "https://www.watchmedia01.com/archives/568607",
-     "published_at": "2026-11-11T00:00:00+08:00"
-    }
-   ],
-   "image": "https://media.zenfs.com/en/tcpttw_345/c5aecc6595a11d0d4f61f48558f9b9b6.jpg"
   },
   {
    "id": "20261113-lukang-transfer-station",
@@ -771,6 +816,11 @@
      "outlet": "LIFE 生活網",
      "url": "https://life.tw/article/%E6%A1%83%E5%9C%923%E5%A4%A7%E5%95%86%E5%9C%88%E7%8D%B2%E4%B8%AD%E5%A4%AE%E8%82%AF%E5%AE%9A-%E7%B6%93%E7%99%BC%E5%B1%80-%E6%8C%81%E7%BA%8C%E6%8A%95%E5%85%A5%E6%8C%AF%E8%88%88%E8%88%87%E8%BD%89%E5%9E%8B%E8%B3%87%E6%BA%90-3213385",
      "published_at": "2026-11-11T10:40:00+08:00"
+    },
+    {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/765866/",
+     "published_at": "2026-11-11T09:58:00+08:00"
     },
     {
      "outlet": "墨新聞",
@@ -2774,45 +2824,6 @@
     }
    ],
    "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261031/1194x768_wmky_0_C20261031000215.jpg"
-  },
-  {
-   "id": "20261031-hualien-halloween",
-   "title": "花蓮萌鬼變裝踩街，親子同樂並串聯商圈",
-   "summary": "花蓮舉辦萬聖節變裝踩街，標題指活動串聯商圈、帶動親子人潮。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-31T17:31:00+08:00",
-   "cities": [
-    "花蓮縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "台灣新聞雲報",
-     "url": "https://www.fclnews.com/235170/",
-     "published_at": "2026-10-31T17:31:00+08:00"
-    }
-   ]
-  },
-  {
-   "id": "20261031-daxi-leek-flash",
-   "title": "桃園農業局在大溪老街辦「大溪韭菜」快閃活動，擴大行銷在地農產",
-   "summary": "桃園市政府農業局為延續韭菜花季熱度，加碼推出大溪韭菜快閃活動，並在大溪老街登場。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-31T17:04:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "台灣好新聞",
-     "url": "https://www.taiwanhot.net/news/1152599/%E6%A1%83%E5%B8%82%E5%BA%9C%E6%93%B4%E5%A4%A7%E8%A1%8C%E9%8A%B7%E5%A4%A7%E6%BA%AA%E9%9F%AD%E8%8F%9C+%E6%A1%83%E5%9C%92%E5%A5%BD%E8%BE%B2%E5%BF%AB%E9%96%83%E8%80%81%E8%A1%97%E7%99%BB%E5%A0%B4",
-     "published_at": "2026-10-31T17:04:00+08:00"
-    }
-   ],
-   "image": "https://www.taiwanhot.net/cache/1315549/lg/medias-20261031-6ae5a7a160693.jpeg"
   }
  ],
  "discussions": []

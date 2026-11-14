@@ -1,10 +1,27 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-14T07:30:00+08:00",
+  "updated_at": "2026-11-14T21:10:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
+        {
+          "id": "20261114-taisugar-soybean",
+          "note": "台糖下月再增購美國黃豆，12月起沙拉油多產600噸",
+          "representative": "https://www.chinatimes.com/realtimenews/20261114002979-260410",
+          "urls": [
+            "https://www.chinatimes.com/realtimenews/20261114002979-260410"
+          ]
+        },
+        {
+          "id": "20261114-lunchbox-4days",
+          "note": "桶裝沙拉油漲價又缺貨，便當店庫存僅能撐4天",
+          "representative": "https://www.ftvnews.com.tw/news/detail/2026B14F04M1",
+          "urls": [
+            "https://www.ftvnews.com.tw/news/detail/2026B14F04M1",
+            "https://today.line.me/tw/v3/article/vXLRQ2j"
+          ]
+        },
         {
           "id": "20261113-kaohsiung-oil-safety",
           "note": "高雄議員提沙拉油漲價缺貨與供應鏈食安隱憂",

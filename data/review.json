@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-14T16:51:55+08:00",
+ "updated_at": "2026-11-14T20:56:12+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -516,6 +516,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-07"
+  },
+  "https://news.tvbs.com.tw/life/4049835": {
+   "decision": "kept",
+   "item": "20261112-banxin-mrt-tod",
+   "at": "2026-11-14"
   },
   "https://news.tvbs.com.tw/politics/4043062": {
    "decision": "hidden",
