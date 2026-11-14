@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-14T12:18:28+08:00",
+ "generated_at": "2026-11-14T16:51:48+08:00",
  "items": [
   {
    "id": "20261113-zhongyuan-mickey-steak",
@@ -8,7 +8,7 @@
    "summary": "位於桃園中壢中原大學商圈的米老鼠牛排館開業逾30年，因老闆年事已高、無人接班，宣布11月15日熄燈。",
    "category": "開店與消費",
    "alert": null,
-   "published_at": "2026-11-13T18:42:00+08:00",
+   "published_at": "2026-11-14T15:09:00+08:00",
    "cities": [
     "桃園市"
    ],
@@ -21,6 +21,11 @@
    "admin_note": "中原商圈為115年補助名單，老店歇業可能影響商圈特色，可留意商圈店家變動。",
    "sources": [
     {
+     "outlet": "三立新聞網",
+     "url": "https://www.setn.com/news/1938755",
+     "published_at": "2026-11-14T15:09:00+08:00"
+    },
+    {
      "outlet": "TVBS新聞網",
      "url": "https://news.tvbs.com.tw/life/4050252",
      "published_at": "2026-11-13T18:42:00+08:00"
@@ -31,7 +36,128 @@
      "published_at": "2026-11-13T17:23:00+08:00"
     }
    ],
-   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1d47d-6e87-7331-bb08-ae08271ba3d5.jpg?t=16x9&c=0,0,1200,675&w=1200&h=675"
+   "image": "https://attach.setn.com/newsimages/2026/11/14/5787540-PH.jpg"
+  },
+  {
+   "id": "20261114-tamsui-xmas-lights",
+   "title": "淡水耶誕點燈，10公尺聖誕樹串聯老街等三大燈區展至12/27",
+   "summary": "新北市淡水區公所舉辦「2026淡水耶誕 逐光旅程」，13日晚點燈，規劃淡水老街、馬偕銅像三角公園及觀潮廣場三大燈區，展期至12月27日。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-14T13:52:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [
+    {
+     "name": "淡水老街商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "淡水老街商圈為115年補助名單，耶誕燈區串聯老街，可留意與計畫活動的銜接。",
+   "sources": [
+    {
+     "outlet": "TVBS新聞網",
+     "url": "https://news.tvbs.com.tw/local/4050357",
+     "published_at": "2026-11-14T13:52:00+08:00"
+    }
+   ],
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1d7a9-28e5-7018-8b2f-c0d2da2e9861.png?t=16x9&wp=r,b&c=63,0,886,463&w=1200&h=675"
+  },
+  {
+   "id": "20261114-taipei-dome-sidewalk",
+   "title": "巨蛋商圈紅灰地磚人行道疑屬私人地，民眾被迫改走車道",
+   "summary": "東森民怨調查局報導，巨蛋商圈一帶紅灰地磚看似人行道，卻被指為私人土地，店家劃設車格停車，行人被迫走車道。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-14T00:00:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "巨蛋商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "EBC 東森新聞",
+     "url": "https://www.msn.com/zh-tw/news/other/%E7%B4%85%E7%81%B0%E5%9C%B0%E7%A3%9A%E7%9C%8B%E4%BC%BC%E4%BA%BA%E8%A1%8C%E9%81%93%E7%AB%9F%E6%98%AF%E7%A7%81%E4%BA%BA%E5%9C%B0-%E5%BA%97%E5%AE%B6%E5%8A%83%E8%BB%8A%E6%A0%BC%E5%81%9C%E8%BB%8A%E5%90%88%E6%B3%95-%E6%B0%91%E7%9C%BE%E5%B7%A8%E8%9B%8B%E5%95%86%E5%9C%88%E8%A2%AB%E8%BF%AB%E8%B5%B0%E8%BB%8A%E9%81%93-%E6%B0%91%E6%80%A8%E8%AA%BF%E6%9F%A5%E5%B1%80/vi-AA2hoVH3",
+     "published_at": "2026-11-14T00:00:00+08:00"
+    }
+   ]
+  },
+  {
+   "id": "20261112-taoyuan-biz-transform",
+   "title": "桃園商業轉型服務中心發表三年成果，副市長盼老街店家轉型、展現商圈特色",
+   "summary": "桃園市政府12日舉辦商業轉型服務中心成果發表會，以數位轉型、永續轉型與品牌行銷三大主軸輔導老店與商圈。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-13T21:02:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [
+    {
+     "name": "大溪形象商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "大溪形象商圈為115年補助名單，市府輔導商圈轉型，可留意與補助案特色形塑的銜接。",
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261113641523",
+     "published_at": "2026-11-13T21:02:00+08:00"
+    },
+    {
+     "outlet": "taiwanreports",
+     "url": "https://taiwanreports.com/archives/1026022",
+     "published_at": "2026-11-13T18:25:00+08:00"
+    },
+    {
+     "outlet": "中央社",
+     "url": "https://www.cna.com.tw/postwrite/chi/449946",
+     "published_at": "2026-11-13T04:36:00+08:00"
+    },
+    {
+     "outlet": "Yahoo奇摩新聞",
+     "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%95%86%E6%A5%AD%E8%BD%89%E5%9E%8B%E4%B8%AD%E5%BF%83%E4%B8%89%E5%B9%B4%E6%9C%89%E6%88%90-%E8%98%87%E4%BF%8A%E8%B3%93-%E5%B1%95%E7%A4%BA%E5%95%86%E5%9C%88%E5%9C%A8%E5%9C%B0%E7%89%B9%E8%89%B2-151134650.html",
+     "published_at": "2026-11-12T23:11:00+08:00"
+    },
+    {
+     "outlet": "風傳媒",
+     "url": "https://www.storm.mg/article/11181058",
+     "published_at": "2026-11-12T18:07:00+08:00"
+    },
+    {
+     "outlet": "風傳媒",
+     "url": "https://www.storm.mg/article/11181028",
+     "published_at": "2026-11-12T17:15:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261112134308",
+     "published_at": "2026-11-12T16:53:00+08:00"
+    },
+    {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/766671/",
+     "published_at": "2026-11-12T14:58:00+08:00"
+    },
+    {
+     "outlet": "台灣好新聞",
+     "url": "https://www.taiwanhot.net/news/1153914/%E6%A1%83%E5%9C%92%E5%95%86%E6%A5%AD%E8%BD%89%E5%9E%8B%E4%B8%AD%E5%BF%83%E4%B8%89%E5%B9%B4%E6%9C%89%E6%88%90+%E8%98%87%E4%BF%8A%E8%B3%93%EF%BC%9A%E6%96%B0%E7%A9%8E%E8%88%87%E5%82%B3%E7%B5%B1%E5%85%BC%E5%AE%B9%E5%B1%95%E7%A4%BA%E5%95%86%E5%9C%88%E5%9C%A8%E5%9C%B0%E7%89%B9%E8%89%B2",
+     "published_at": "2026-11-12T14:58:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261112581251",
+     "published_at": "2026-11-12T14:54:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261113/image004-689340016eb64fed.webp"
   },
   {
    "id": "20261112-rongcho-streetdance",
@@ -65,6 +191,41 @@
    "image": "https://imgs.tsna.com/article/2026N1794564892_0ebfabccfc224dd581256f92f2a49016.jpg"
   },
   {
+   "id": "20261113-heimaowu-nanjing",
+   "title": "黑毛屋插旗台北南京復興商圈開慶城店，主打夜經濟營業至晚間11點",
+   "summary": "日式鍋物品牌黑毛屋在南京復興商圈開設慶城店，為全台第21家門市，主打夜經濟並營業至晚間11點。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-13T16:14:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "南京復興商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "民視新聞網",
+     "url": "https://www.ftvnews.com.tw/news/detail/2026B13W0472",
+     "published_at": "2026-11-13T16:14:00+08:00"
+    },
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261113700662-431401",
+     "published_at": "2026-11-13T10:11:00+08:00"
+    },
+    {
+     "outlet": "中華新聞雲",
+     "url": "https://www.cdns.com.tw/articles/1489888",
+     "published_at": "2026-11-13T08:48:00+08:00"
+    }
+   ],
+   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/9303d404-cf1e-4881-bb6f-1c3d40a17554.jpg"
+  },
+  {
    "id": "20261111-songshan-rice-fest",
    "title": "松山商圈發展協會與宜蘭縣政府推「新米祭」，宜蘭好米進駐微風超市",
    "summary": "臺北市松山商圈發展協會與宜蘭縣政府共同推廣2026新米祭，讓宜蘭嚴選米進駐微風超市。",
@@ -85,6 +246,11 @@
     {
      "outlet": "Yahoo新聞",
      "url": "https://tw.news.yahoo.com/%E6%9D%BE%E5%B1%B1%E5%95%86%E5%9C%88%E8%BF%8E%E5%AE%9C%E8%98%AD%E5%A5%BD%E7%B1%B3-2026%E6%96%B0%E7%B1%B3%E7%A5%AD-13%E6%97%A5%E8%87%B315%E6%97%A5%E5%BE%AE%E9%A2%A8%E8%B6%85%E5%B8%82%E5%85%8D%E8%B2%BB%E8%A9%A6%E5%90%83-054243611.html",
+     "published_at": "2026-11-13T13:42:00+08:00"
+    },
+    {
+     "outlet": "警政時報",
+     "url": "https://www.tcpttw.com/local/2026/11/13/330213/",
      "published_at": "2026-11-13T13:42:00+08:00"
     },
     {
@@ -213,6 +379,11 @@
      "published_at": "2026-11-13T10:32:00+08:00"
     },
     {
+     "outlet": "新頭條",
+     "url": "https://www.thehubnews.net/archives/684194",
+     "published_at": "2026-11-13T10:32:00+08:00"
+    },
+    {
      "outlet": "工商時報",
      "url": "https://www.ctee.com.tw/news/20261112702012-431206",
      "published_at": "2026-11-12T19:12:00+08:00"
@@ -251,44 +422,9 @@
      "outlet": "中央社",
      "url": "https://www.cna.com.tw/postwrite/chi/449790",
      "published_at": "2026-11-12T11:51:00+08:00"
-    },
-    {
-     "outlet": "新北市政府",
-     "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=4ecf87f6252256433a04aa3fb8231ec4",
-     "published_at": "2026-11-12T11:30:00+08:00"
     }
    ],
    "image": "https://ni.yam.com/20261113/HyIEAj37TED3Bld9ZHjf-0ba7931dc2040f90.webp"
-  },
-  {
-   "id": "20261113-heimaowu-nanjing",
-   "title": "黑毛屋插旗台北南京復興商圈開慶城店，主打夜經濟營業至晚間11點",
-   "summary": "日式鍋物品牌黑毛屋在南京復興商圈開設慶城店，為全台第21家門市，主打夜經濟並營業至晚間11點。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-13T10:11:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "南京復興商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "工商時報",
-     "url": "https://www.ctee.com.tw/news/20261113700662-431401",
-     "published_at": "2026-11-13T10:11:00+08:00"
-    },
-    {
-     "outlet": "中華新聞雲",
-     "url": "https://www.cdns.com.tw/articles/1489888",
-     "published_at": "2026-11-13T08:48:00+08:00"
-    }
-   ],
-   "image": "https://images.ctee.com.tw/newsphoto/2026-11-13/1024/20261113700663.jpg"
   },
   {
    "id": "20261107-taichung-7th-warning",
@@ -334,77 +470,6 @@
     }
    ],
    "image": "https://ni.yam.com/20261113/NEWS-fe2c913d916759f9.webp"
-  },
-  {
-   "id": "20261112-taoyuan-biz-transform",
-   "title": "桃園商業轉型服務中心發表三年成果，副市長盼老街店家轉型、展現商圈特色",
-   "summary": "桃園市政府12日舉辦商業轉型服務中心成果發表會，以數位轉型、永續轉型與品牌行銷三大主軸輔導老店與商圈。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-12T23:11:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [
-    {
-     "name": "大溪形象商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "大溪形象商圈為115年補助名單，市府輔導商圈轉型，可留意與補助案特色形塑的銜接。",
-   "sources": [
-    {
-     "outlet": "Yahoo奇摩新聞",
-     "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%95%86%E6%A5%AD%E8%BD%89%E5%9E%8B%E4%B8%AD%E5%BF%83%E4%B8%89%E5%B9%B4%E6%9C%89%E6%88%90-%E8%98%87%E4%BF%8A%E8%B3%93-%E5%B1%95%E7%A4%BA%E5%95%86%E5%9C%88%E5%9C%A8%E5%9C%B0%E7%89%B9%E8%89%B2-151134650.html",
-     "published_at": "2026-11-12T23:11:00+08:00"
-    },
-    {
-     "outlet": "風傳媒",
-     "url": "https://www.storm.mg/article/11181058",
-     "published_at": "2026-11-12T18:07:00+08:00"
-    },
-    {
-     "outlet": "風傳媒",
-     "url": "https://www.storm.mg/article/11181028",
-     "published_at": "2026-11-12T17:15:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261112134308",
-     "published_at": "2026-11-12T16:53:00+08:00"
-    },
-    {
-     "outlet": "墨新聞",
-     "url": "https://more-news.tw/766671/",
-     "published_at": "2026-11-12T14:58:00+08:00"
-    },
-    {
-     "outlet": "台灣好新聞",
-     "url": "https://www.taiwanhot.net/news/1153914/%E6%A1%83%E5%9C%92%E5%95%86%E6%A5%AD%E8%BD%89%E5%9E%8B%E4%B8%AD%E5%BF%83%E4%B8%89%E5%B9%B4%E6%9C%89%E6%88%90+%E8%98%87%E4%BF%8A%E8%B3%93%EF%BC%9A%E6%96%B0%E7%A9%8E%E8%88%87%E5%82%B3%E7%B5%B1%E5%85%BC%E5%AE%B9%E5%B1%95%E7%A4%BA%E5%95%86%E5%9C%88%E5%9C%A8%E5%9C%B0%E7%89%B9%E8%89%B2",
-     "published_at": "2026-11-12T14:58:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261112581251",
-     "published_at": "2026-11-12T14:54:00+08:00"
-    },
-    {
-     "outlet": "桃園市政府",
-     "url": "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1972603",
-     "published_at": "2026-11-12T13:47:00+08:00"
-    },
-    {
-     "outlet": "翻爆",
-     "url": "https://turnnewsapp.com/livenews/life/20261112002544-260405",
-     "published_at": "2026-11-12T13:10:00+08:00"
-    },
-    {
-     "outlet": "中時新聞網",
-     "url": "https://www.chinatimes.com/realtimenews/20261112002544-260405",
-     "published_at": "2026-11-12T12:06:00+08:00"
-    }
-   ],
-   "image": "https://images.storm.mg/cloud/0bde0110af71e035165aaa1c909360f28cec43ad.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2252229%2FMEeyO4vQiw9I63cumZbYw6hC1GHNjjnMGfVZkM9e.jpeg&g=sm&h=900&resize=fill&w=1600&format=jpg"
   },
   {
    "id": "20261112-rongcho-wayo-carnival",
@@ -557,6 +622,77 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35510561.png&M=1&s=Y&x=0&y=0&sw=969&sh=646&sl=W&fw=800&exp=3600"
+  },
+  {
+   "id": "20261110-kaohsiung-xmas-fest",
+   "title": "高雄聖誕生活節13日在中央公園登場，連5個週末市集與音樂串聯商圈",
+   "summary": "高雄市經發局公布聖誕生活節13日起在中央公園舉辦，連5個週末推主題市集、音樂演出與燈飾，並串聯商圈帶動歲末消費。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-12T12:36:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [
+    {
+     "name": "中央公園商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "中央公園商圈為115年補助名單，市府聖誕活動串聯商圈，可留意與商圈自辦活動的銜接。",
+   "sources": [
+    {
+     "outlet": "全國旅遊時報",
+     "url": "https://z98737406.tw/?p=105653",
+     "published_at": "2026-11-12T12:36:00+08:00"
+    },
+    {
+     "outlet": "今傳媒",
+     "url": "https://focusnews.com.tw/2026/11/730605/",
+     "published_at": "2026-11-12T00:00:00+08:00"
+    },
+    {
+     "outlet": "僑新聞",
+     "url": "https://ocacnews.net/article/433828",
+     "published_at": "2026-11-11T18:00:00+08:00"
+    },
+    {
+     "outlet": "亞太新聞網",
+     "url": "https://www.tcpttw.com/other/other_consumer/2026/11/11/329376/",
+     "published_at": "2026-11-11T00:00:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261110673921",
+     "published_at": "2026-11-10T21:41:00+08:00"
+    },
+    {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/764883/",
+     "published_at": "2026-11-10T17:52:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7327/9868803",
+     "published_at": "2026-11-10T12:19:00+08:00"
+    },
+    {
+     "outlet": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611100088.aspx",
+     "published_at": "2026-11-10T11:56:00+08:00"
+    },
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5635399",
+     "published_at": "2026-11-10T11:25:00+08:00"
+    },
+    {
+     "outlet": "華視新聞網",
+     "url": "https://news.cts.com.tw/cna/local/202611/202611103099295.html",
+     "published_at": "2026-11-10T00:00:00+08:00"
+    }
+   ],
+   "image": "https://secure.gravatar.com/avatar/d423efdf0cbc405dac2d1158baac97ac0ea7b55d62131cb329a5253655fd5c9b?s=96&d=mm&r=g"
   },
   {
    "id": "20261111-taipei-south-vitality",
@@ -725,6 +861,11 @@
      "published_at": "2026-11-11T10:09:00+08:00"
     },
     {
+     "outlet": "Yahoo奇摩新聞",
+     "url": "https://tw.news.yahoo.com/20%E8%99%95%E5%95%86%E5%9C%88%E7%8D%B2%E9%A0%92%E5%85%A8%E5%9C%8B%E5%8D%93%E8%B6%8A%E5%95%86%E5%9C%88%E7%8D%8E-134613696.html",
+     "published_at": "2026-11-10T21:46:00+08:00"
+    },
+    {
      "outlet": "墨新聞",
      "url": "https://more-news.tw/765073/",
      "published_at": "2026-11-10T20:55:00+08:00"
@@ -753,85 +894,9 @@
      "outlet": "中央廣播電臺",
      "url": "https://www.rti.org.tw/news?uid=3&pid=1050641",
      "published_at": "2026-11-10T17:19:00+08:00"
-    },
-    {
-     "outlet": "Anue鉅亨",
-     "url": "https://news.cnyes.com/news/id/6656699",
-     "published_at": "2026-11-10T06:15:00+08:00"
     }
    ],
    "image": "https://17news.net/wp-content/uploads/2026/11/25e56216b327c43.webp"
-  },
-  {
-   "id": "20261110-kaohsiung-xmas-fest",
-   "title": "高雄聖誕生活節13日在中央公園登場，連5個週末市集與音樂串聯商圈",
-   "summary": "高雄市經發局公布聖誕生活節13日起在中央公園舉辦，連5個週末推主題市集、音樂演出與燈飾，並串聯商圈帶動歲末消費。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-11T18:00:00+08:00",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [
-    {
-     "name": "中央公園商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "中央公園商圈為115年補助名單，市府聖誕活動串聯商圈，可留意與商圈自辦活動的銜接。",
-   "sources": [
-    {
-     "outlet": "僑新聞",
-     "url": "https://ocacnews.net/article/433828",
-     "published_at": "2026-11-11T18:00:00+08:00"
-    },
-    {
-     "outlet": "亞太新聞網",
-     "url": "https://www.tcpttw.com/other/other_consumer/2026/11/11/329376/",
-     "published_at": "2026-11-11T00:00:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261110673921",
-     "published_at": "2026-11-10T21:41:00+08:00"
-    },
-    {
-     "outlet": "墨新聞",
-     "url": "https://more-news.tw/764883/",
-     "published_at": "2026-11-10T17:52:00+08:00"
-    },
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7327/9868803",
-     "published_at": "2026-11-10T12:19:00+08:00"
-    },
-    {
-     "outlet": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202611100088.aspx",
-     "published_at": "2026-11-10T11:56:00+08:00"
-    },
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5635399",
-     "published_at": "2026-11-10T11:25:00+08:00"
-    },
-    {
-     "outlet": "華視新聞網",
-     "url": "https://news.cts.com.tw/cna/local/202611/202611103099295.html",
-     "published_at": "2026-11-10T00:00:00+08:00"
-    },
-    {
-     "outlet": "中央社(MSN)",
-     "url": "https://www.msn.com/zh-tw/news/national/%E9%AB%98%E9%9B%84%E8%81%96%E8%AA%95%E7%94%9F%E6%B4%BB%E7%AF%80-13%E6%97%A5%E7%99%BB%E5%A0%B4-%E5%B8%82%E9%9B%86-%E9%9F%B3%E6%A8%82%E9%BB%9E%E4%BA%AE%E5%95%86%E5%9C%88/ar-AA2h7abz",
-     "published_at": "2026-11-10T00:00:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261110352167",
-     "published_at": "2026-11-10T00:00:00+08:00"
-    }
-   ],
-   "image": "https://ocacnews.net/storage/articleImages/20261110/M2_cmYP5XkcWKLRgQKn3T71lad5AcFpXkX6SIMa6aT3.jpg"
   },
   {
    "id": "20261110-ruifang-oldstreet-facade",
@@ -2748,37 +2813,6 @@
     }
    ],
    "image": "https://www.taiwanhot.net/cache/1315549/lg/medias-20261031-6ae5a7a160693.jpeg"
-  },
-  {
-   "id": "20261027-banqiao-fuzhong-ghost",
-   "title": "新北「府中搞什麼鬼」10/31至11/1板橋府中商圈登場，公布交管與替代路線",
-   "summary": "新北萬聖節「府中搞什麼鬼」於板橋府中廣場、重慶路徒步區等地舉辦兩天，並公布交通管制措施。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-31T14:30:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [
-    {
-     "name": "板橋府中商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "板橋府中商圈為115年補助名單，活動辦理與交管資訊可作為執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7323/9848902",
-     "published_at": "2026-10-31T14:30:00+08:00"
-    },
-    {
-     "outlet": "知新聞",
-     "url": "https://www.knews.com.tw/news/A1C6ACFFE99CF850ABB28DDDA5CBA34E",
-     "published_at": "2026-10-27T14:36:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472313.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
   }
  ],
  "discussions": []

@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-14T12:18:28+08:00",
+ "updated_at": "2026-11-14T16:51:55+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -347,6 +347,11 @@
    "item": "20261106-dongqu-anniv",
    "at": "2026-11-10"
   },
+  "https://n.yam.com/Article/20261110352167": {
+   "decision": "kept",
+   "item": "20261110-kaohsiung-xmas-fest",
+   "at": "2026-11-14"
+  },
   "https://n.yam.com/Article/20261110927080": {
    "decision": "kept",
    "item": "20261110-kaohsiung-xmas-fest",
@@ -377,11 +382,6 @@
    "item": "20261112-taoyuan-biz-transform",
    "at": "2026-11-13"
   },
-  "https://n.yam.com/Article/20261113641523": {
-   "decision": "kept",
-   "item": "20261112-taoyuan-biz-transform",
-   "at": "2026-11-14"
-  },
   "https://new-reporter.com/news/332964/": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -391,6 +391,11 @@
    "decision": "hidden",
    "reason": "企業人事",
    "at": "2026-11-04"
+  },
+  "https://news.cnyes.com/news/id/6656699": {
+   "decision": "kept",
+   "item": "20261110-moea-excellent-district-award",
+   "at": "2026-11-14"
   },
   "https://news.cts.com.tw/cna/local/202610/202610313096019.html": {
    "decision": "kept",
@@ -827,11 +832,6 @@
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-12"
   },
-  "https://www.cna.com.tw/postwrite/chi/449946": {
-   "decision": "kept",
-   "item": "20261112-taoyuan-biz-transform",
-   "at": "2026-11-14"
-  },
   "https://www.contentplatform.info/articles/557107/%E5%8F%B0%E5%8D%97%E8%B3%BC%E7%89%A9%E7%AF%80%E7%99%BB%E9%8C%84%E7%A0%B430%E5%84%84%E5%85%83%E3%80%8011%E6%9C%88%E5%95%86%E5%9C%88%E6%B4%BB%E5%8B%95%E3%80%81%E8%81%96%E8%AA%95%E9%BB%9E%E7%87%88/": {
    "decision": "kept",
    "item": "20261031-tainan-shopping-30b",
@@ -927,11 +927,6 @@
    "reason": "選舉",
    "at": "2026-11-10"
   },
-  "https://www.ftvnews.com.tw/news/detail/2026B13W0472": {
-   "decision": "kept",
-   "item": "20261113-heimaowu-nanjing",
-   "at": "2026-11-14"
-  },
   "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=5E9C939DC9E7D3B5": {
    "decision": "kept",
    "item": "20261106-dongqu-anniv",
@@ -1022,6 +1017,11 @@
    "reason": "治安車禍",
    "at": "2026-11-13"
   },
+  "https://www.msn.com/zh-tw/news/national/%E9%AB%98%E9%9B%84%E8%81%96%E8%AA%95%E7%94%9F%E6%B4%BB%E7%AF%80-13%E6%97%A5%E7%99%BB%E5%A0%B4-%E5%B8%82%E9%9B%86-%E9%9F%B3%E6%A8%82%E9%BB%9E%E4%BA%AE%E5%95%86%E5%9C%88/ar-AA2h7abz": {
+   "decision": "kept",
+   "item": "20261110-kaohsiung-xmas-fest",
+   "at": "2026-11-14"
+  },
   "https://www.msn.com/zh-tw/news/news/%E6%9C%80%E6%96%B0-%E8%94%A3%E8%90%AC%E5%AE%89%E5%90%88%E9%AB%94%E5%BC%B5%E5%96%84%E6%94%BF%E6%8E%83%E5%BB%B6%E4%B8%89-%E7%9F%B3%E8%88%AB%E4%BA%98%E6%94%BB%E7%9F%B3%E7%89%8C%E5%95%86%E5%9C%88-newsebc/vi-AA2ha70m": {
    "decision": "hidden",
    "reason": "選舉",
@@ -1101,11 +1101,6 @@
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-04"
-  },
-  "https://www.msn.com/zh-tw/news/other/%E7%B4%85%E7%81%B0%E5%9C%B0%E7%A3%9A%E7%9C%8B%E4%BC%BC%E4%BA%BA%E8%A1%8C%E9%81%93%E7%AB%9F%E6%98%AF%E7%A7%81%E4%BA%BA%E5%9C%B0-%E5%BA%97%E5%AE%B6%E5%8A%83%E8%BB%8A%E6%A0%BC%E5%81%9C%E8%BB%8A%E5%90%88%E6%B3%95-%E6%B0%91%E7%9C%BE%E5%B7%A8%E8%9B%8B%E5%95%86%E5%9C%88%E8%A2%AB%E8%BF%AB%E8%B5%B0%E8%BB%8A%E9%81%93-%E6%B0%91%E6%80%A8%E8%AA%BF%E6%9F%A5%E5%B1%80/vi-AA2hoVH3": {
-   "decision": "hidden",
-   "reason": "非商圈",
-   "at": "2026-11-14"
   },
   "https://www.msn.com/zh-tw/news/other/%E8%AA%A0%E5%93%81%E5%8F%96%E5%BE%97%E6%8D%B7%E9%81%8B%E4%B8%AD%E5%B1%B1%E7%AB%99%E5%95%86%E9%8B%AA%E4%BD%BF%E7%94%A8%E6%AC%8A-%E4%B8%B2%E9%80%A3%E5%8D%97%E8%A5%BF%E5%95%86%E5%9C%88/ar-AA2gqcVk": {
    "decision": "kept",
@@ -1212,11 +1207,6 @@
    "reason": "業配遊記",
    "at": "2026-11-06"
   },
-  "https://www.tcpttw.com/local/2026/11/13/330213/": {
-   "decision": "kept",
-   "item": "20261111-songshan-rice-fest",
-   "at": "2026-11-13"
-  },
   "https://www.tcpttw.com/other/other_local/2026/11/09/328487/": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -1226,6 +1216,11 @@
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-07"
+  },
+  "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1972603": {
+   "decision": "kept",
+   "item": "20261112-taoyuan-biz-transform",
+   "at": "2026-11-14"
   },
   "https://www.yesmedia.com.tw/%e5%ae%9c%e8%98%ad%e5%8f%8b%e6%84%9b%e7%99%be%e8%b2%a8%e5%82%b3%e6%b1%82%e5%94%ae%ef%bc%81%e5%be%9e%e6%98%94%e6%97%a5%e5%95%86%e6%a5%ad%e5%9c%b0%e6%a8%99%e5%88%b0%e8%bd%89%e5%9e%8b%e5%8d%81%e5%ad%97/": {
    "decision": "kept",
