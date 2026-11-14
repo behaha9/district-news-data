@@ -1,20 +1,50 @@
 {
- "fetched_at": "2026-11-14T07:17:52+08:00",
+ "fetched_at": "2026-11-14T09:30:07+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 146,
-  "kept": 83,
-  "resolved": 83,
-  "items": 82,
+  "raw": 142,
+  "kept": 81,
+  "resolved": 81,
+  "items": 80,
   "resolve_this_run": {
-   "online": 10
+   "online": 3
   },
   "dropped_old": [
    "洋流慧聚來了！沈伯洋．蘇巧慧三峽老街掃街（原文日期 2026-10-03）"
   ]
  },
  "items": [
+  {
+   "title": "全台商圈大洗牌！嘉義Outlet砸50億、台中會展正式營運商場、交通、科技改寫生活圈- 生活新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0MxRHF6TThGTlRBR0RzcTFDcldnSFQ3T3pfYjJnVnd0eWQxcnRGV0MtbGthS0RIUVVNMFRGVVdZZk9nZWRLbTJXUGQ3Tk1wdmNmY3B3YV84NDR3VFNhckRrSnBQbUl4U3h1UzBzbThNR0RsTlRwcWtyMWdvMHUtekVSU01sdlZC?oc=5",
+   "source": "PChome Online 新聞",
+   "source_site": "https://news.pchome.com.tw",
+   "published_at": "2026-11-14T09:17+08:00",
+   "query": "商圈",
+   "url": "https://news.pchome.com.tw/living/m00363/20261114/index-79464572033780363009.html",
+   "resolved": true
+  },
+  {
+   "title": "謝龍介、陳菁徽聚焦國會監督與司法爭議 產業界、商圈代表齊挺3號江啟臣",
+   "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5udzIxMTJ0bG82Vy1SN0szZHV5S1FyT3FiRTMwX2JFa000SkIyWExLSWMta2I0anFQbEE1VFNnNm5sdUZwdHFrLVJDdlRRRE8zcFFvbVFSVHNaOGM0OWlNSTltUGlyT2M?oc=5",
+   "source": "新華報導",
+   "source_site": "https://ccss3172.blogspot.com",
+   "published_at": "2026-11-14T07:31+08:00",
+   "query": "商圈",
+   "url": "https://ccss3172.blogspot.com/2026/11/3_02124316980.html",
+   "resolved": true
+  },
+  {
+   "title": "中原商圈知名牛排館將熄燈！在地經營30年…業者發道別文、老顧客不捨 | 三立新聞網",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKR05STkVLcy1WTnFJTW5IckI3WVRhTGFmZ3VnRURFaTNfb0FYYUpoN25NWnREa19JTXJ2d3NWYXJJT09ZbHBGT1JKMVhocHU2YjAxb1NR?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-14T07:12+08:00",
+   "query": "商圈",
+   "url": "https://today.line.me/tw/v3/article/JPyeLVX",
+   "resolved": true
+  },
   {
    "title": "萬華萬家福商圈機能佳| 區域觀測站",
    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GYk01VmlYeEZCelVQbFAzZ0tJeTFuOWZsUGszUmo0bW03MlpkQ0xudWIzMFUwZzBFQVJFYWctZFdrdmt2ekt1bXJVbjh6YkJvYm02T2MweDVydU5Z?oc=5",
@@ -783,56 +813,6 @@
    "published_at": "2026-11-12T09:34+08:00",
    "query": "商圈",
    "url": "https://news.pchome.com.tw/travel/liontravel/20261112/index-17944472609566956015.html",
-   "resolved": true
-  },
-  {
-   "title": "直播｜請假首日拚陸戰！蔣萬安公館商圈掃街 搶攻青年選票",
-   "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNzhEQzZLREVYamd6RzRtbVp0dWVId2U3YnpmQjEyYUloZU9Ca0JlN0FBTUJFS2pzZUxvdl9PbF9obWZUSzNMdlo5QVBLM21HcFdTdzJ0d3BDLVBZbG1ZakpjRjdaWEQ5Y0hRTWxaMA?oc=5",
-   "source": "知新聞",
-   "source_site": "https://www.knews.com.tw",
-   "published_at": "2026-11-12T09:30+08:00",
-   "query": "商圈",
-   "url": "https://www.knews.com.tw/news/BEA9FEFC85E0964C7022FDED3162A6C4",
-   "resolved": true
-  },
-  {
-   "title": "直播｜蔣萬安「最強分身」再出動！石舫亘現身艋舺商圈拜票",
-   "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DelFVZUdFbWxJaEJzbDg5OVZJOWFDWkMxRUUySkVSVHY2YTl0bjVVVTBjbjBSYU16bkR2RU5oTzAzb3EtZmNhbWc3c3JsaVpjUmV3cUUybTJIUWVBQ0dNdHZ2MHkyaC0zMGtER3RuSQ?oc=5",
-   "source": "知新聞",
-   "source_site": "https://www.knews.com.tw",
-   "published_at": "2026-11-12T09:30+08:00",
-   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
-   "url": "https://www.knews.com.tw/news/BC158775F56FB45CBB63E88038127F27",
-   "resolved": true
-  },
-  {
-   "title": "北市水源新天地&公館運動館搶先開箱！誠品明年開幕再掀商圈風光",
-   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wWnhhb1JuSzFSdTRMS0ZseV83aHdfSUp6amQzRnQ1VWhKRDVxV2lZX2t5Zkt3RURzV2VjdGhTMnpxRVo5OG1hZUluYVdFZ29PSHhMRDlwLTRhOHhod1phQUwybVBuWFEyQURR0gFwQVVfeXFMUFJrSTUyd2FyRnp0eXV0Ymw1VVBHWkR0dnB2c3JCWk1xUDFGaGhUbzVmdEdReGVEb05SYUZ5bllWUWprQUtUaV9LcmJNZ1pCRW1NMWVFRkdxVVI2VnlpdklhWExyOWd3bzhva1VubjFLRg?oc=5",
-   "source": "好房網News",
-   "source_site": "https://news.housefun.com.tw",
-   "published_at": "2026-11-12T08:50+08:00",
-   "query": "商圈",
-   "url": "https://news.housefun.com.tw/news/article/304019490959.html",
-   "resolved": true
-  },
-  {
-   "title": "旗山旅遊別只逛老街！6大特色景點帶逛百年建築與文化地標- 旅遊新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbHRPWDhfa19rTFhESEg2NmlSNWdrZk5yZDJnS1VOQUw0UDhoV1JWTms2dG5YWFRpUUxaMjl1TmVKUWpFNWJ4Y3ZRaWtleU1hR1I5YnVlQXlxVnVNbGFkVzR1NWhXT05iLTVqQk84SEx1YW1ZenN0eS1FdWpVdUJNOVpEVnlCaWduUFFlMw?oc=5",
-   "source": "PChome Online 新聞",
-   "source_site": "https://news.pchome.com.tw",
-   "published_at": "2026-11-12T08:00+08:00",
-   "query": "老街",
-   "url": "https://news.pchome.com.tw/travel/sharelife/20261112/index-79444160030139216015.html",
-   "resolved": true
-  },
-  {
-   "title": "桃園商圈閃耀全國！榮奪經濟部「2026全國卓越商圈獎」三獎項",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNDV3eE1RRm5naHp4cmhNb0hXa1ZVMHlkRXlRZTdCQlZwakVOaDN1eE41THo2aWFaNjNfRllYbE9lYWZ5WXUzWllHeENTNTMtZnc?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-12T07:55+08:00",
-   "query": "商圈",
-   "url": "https://n.yam.com/Article/20261112267455",
    "resolved": true
   }
  ]
