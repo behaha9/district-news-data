@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-14T20:56:12+08:00",
+ "updated_at": "2026-11-15T07:18:46+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -126,6 +126,11 @@
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-06"
+  },
+  "https://life.tw/article/%E5%88%A5%E5%8F%AA%E9%80%9B%E8%80%81%E8%A1%97-%E6%B7%A1%E6%B0%B4%E7%AC%AC%E4%B8%80%E6%BC%81%E6%B8%AF%E9%9A%B1%E8%97%8F%E7%89%88%E7%8E%A9%E6%B3%95-%E8%B5%B0%E8%AE%80%E6%AD%B7%E5%8F%B2-%E8%B3%9E%E6%BC%81%E6%B8%AF%E5%A0%A4%E5%BD%B1-3213600": {
+   "decision": "hidden",
+   "reason": "業配遊記",
+   "at": "2026-11-15"
   },
   "https://life.tw/article/%E5%95%86%E5%9C%88%E6%A3%8B%E7%89%8C%E7%A4%BE%E6%9A%97%E7%87%9F%E9%BA%BB%E5%B0%87%E8%B3%AD%E5%A0%B4-%E8%90%AC%E8%8F%AF%E8%AD%A6%E7%B2%BE%E6%BA%96%E4%BD%88%E7%BD%B2%E4%B8%80%E7%B6%B2%E6%89%93%E7%9B%A1-3208337": {
    "decision": "hidden",
@@ -382,6 +387,11 @@
    "item": "20261112-taoyuan-biz-transform",
    "at": "2026-11-13"
   },
+  "https://n.yam.com/Article/20261114882149": {
+   "decision": "kept",
+   "item": "20261111-songshan-rice-fest",
+   "at": "2026-11-15"
+  },
   "https://new-reporter.com/news/332964/": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -436,6 +446,11 @@
    "decision": "kept",
    "item": "20261031-hualien-halloween",
    "at": "2026-11-05"
+  },
+  "https://news.houseprice.tw/12913/": {
+   "decision": "kept",
+   "item": "20261112-banxin-mrt-tod",
+   "at": "2026-11-15"
   },
   "https://news.ltn.com.tw/amp/news/life/breakingnews/5628919": {
    "decision": "kept",
@@ -891,6 +906,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-06"
+  },
+  "https://www.ettoday.net/amp/3271482": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-15"
   },
   "https://www.ettoday.net/news/20261112/3270531.htm": {
    "decision": "hidden",

@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-14T20:56:12+08:00",
+ "generated_at": "2026-11-15T07:18:46+08:00",
  "items": [
   {
    "id": "20261111-songshan-rice-fest",
@@ -1576,7 +1576,7 @@
      "published_at": "2026-11-06T00:00:00+08:00"
     }
    ],
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/5631966_1_1.jpg"
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/06181531/77005a-20261106131139453-0-1024x768.jpg"
   },
   {
    "id": "20261105-taichung-wudiao-ranking",
@@ -1616,7 +1616,7 @@
      "published_at": "2026-11-05T00:00:00+08:00"
     }
    ],
-   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/06123955/taichung-cover-261106043953107.jpeg"
+   "image": "https://more-news.tw/more-news-media/2026/11/1-38.jpg"
   },
   {
    "id": "20261106-longshan-dumpling",
@@ -1712,7 +1712,7 @@
     }
    ],
    "admin_note": "東區商圈為115年補助名單，空店率與振興計畫進度可留意計畫成效與KPI對照。",
-   "image": "https://p1-news.hfcdn.com/p1-news/MTQwNDIzMzhuZXdz/573beae0bd7c4f38_1600x1200.jpg"
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/03/93.jpg"
   },
   {
    "id": "20261105-chifeng-rent",
@@ -2708,122 +2708,6 @@
     }
    ],
    "image": "https://static-cdn.nextapple.tw/prod/2026-11/533CAE3D47D8B381EF58AB1F79845570/4ea1e575c6b748fd61b983e800acc02e_1280.jpeg"
-  },
-  {
-   "id": "20261031-xinyi-crane-bus",
-   "title": "信義商圈大型吊車轉身時擊破公車玻璃，車上乘客受驚",
-   "summary": "信義商圈一輛大型吊車轉身時，鐵轉盤擊破行經公車的車窗玻璃，車上8名乘客受到驚嚇。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-11-01T00:10:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "信義商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "LINE TODAY",
-     "url": "https://today.line.me/tw/v3/article/vXLGM5m",
-     "published_at": "2026-11-01T00:10:00+08:00"
-    },
-    {
-     "outlet": "Yahoo新聞",
-     "url": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E5%90%8A%E8%BB%8A-%E8%BD%89-%E6%93%8A%E7%A0%B4%E5%85%AC%E8%BB%8A%E7%8E%BB%E7%92%83-%E5%9A%87%E5%A3%9E%E4%B9%98%E5%AE%A2-153300473.html",
-     "published_at": "2026-10-31T23:33:00+08:00"
-    },
-    {
-     "outlet": "東森新聞",
-     "url": "https://news.ebc.net.tw/news/society/578441",
-     "published_at": "2026-10-31T23:33:00+08:00"
-    },
-    {
-     "outlet": "東森財經",
-     "url": "https://www.msn.com/zh-tw/news/other/%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E9%A9%9A%E9%AD%82-%E5%A4%A7%E5%9E%8B%E5%90%8A%E8%BB%8A%E8%BD%89%E8%BA%AB-%E9%90%B5%E8%BD%89%E7%9B%A4%E6%93%8A%E7%A0%B4%E5%85%AC%E8%BB%8A%E7%8E%BB%E7%92%83-8%E4%B9%98%E5%AE%A2%E5%9A%87%E7%98%8B%E5%B0%96%E5%8F%AB%E9%80%83-%E7%9B%B4%E6%93%8A%E7%8F%BE%E5%A0%B4/vi-AA2gulRv",
-     "published_at": "2026-10-31T15:32:52+08:00"
-    },
-    {
-     "outlet": "EBC 東森新聞",
-     "url": "https://www.msn.com/zh-tw/news/other/%E7%8D%A8%E5%AE%B6-%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88%E5%90%8A%E8%BB%8A%E4%B8%80%E8%BD%89-%E6%93%8A%E7%A0%B4%E5%85%AC%E8%BB%8A%E7%8E%BB%E7%92%83-%E5%9A%87%E5%A3%9E%E4%B9%98%E5%AE%A2-newsebc/vi-AA2gtB7K",
-     "published_at": "2026-10-31T11:27:38+08:00"
-    }
-   ],
-   "image": "https://today-obs.line-scdn.net/0hQhIFffkrDkd0PxLGdwlxEExpAjZHWRROVgsRdlFvVnRZE0wYGlxdJFg4A2tQBxtBVAsRJgQ3VHRdDR0XGw/w1200"
-  },
-  {
-   "id": "20261031-sanxia-halloween",
-   "title": "三峽老街萬聖節親子動漫嘉年華登場，親子盛裝參加",
-   "summary": "三峽老街週六晚間舉辦萬聖節親子動漫嘉年華，吸引親子家庭變裝參加。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-31T22:47:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "民視新聞網",
-     "url": "https://www.ftvnews.com.tw/news/detail/2026A31L07M1",
-     "published_at": "2026-10-31T22:47:00+08:00"
-    }
-   ],
-   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/7870a3ee-e32d-4279-b2e1-e7b82638decd.jpg"
-  },
-  {
-   "id": "20261031-houpu-halloween",
-   "title": "金門「後浦搞什麼鬼」萬聖節活動在後浦商圈登場，21組變裝團體參與",
-   "summary": "金城鎮萬聖節活動於北鎮廟前中興路及後浦商圈舉行，大小朋友變裝參與，現場人潮眾多。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-31T22:09:00+08:00",
-   "cities": [
-    "金門縣"
-   ],
-   "districts": [
-    {
-     "name": "後浦商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "後浦商圈為115年補助名單，活動已順利辦理，可作為執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7327/9849362",
-     "published_at": "2026-10-31T22:09:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35473200.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
-  },
-  {
-   "id": "20261031-magong-halloween",
-   "title": "馬公萬聖節踩街，約1500人湧入中正商圈同樂",
-   "summary": "馬公市中正商圈舉辦萬聖節踩街，約1500位親子變裝參與，市長也變裝加入。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-10-31T21:34:00+08:00",
-   "cities": [
-    "澎湖縣"
-   ],
-   "districts": [
-    {
-     "name": "中正商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202610310195.aspx",
-     "published_at": "2026-10-31T21:34:00+08:00"
-    }
-   ],
-   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261031/1194x768_wmky_0_C20261031000215.jpg"
   }
  ],
  "discussions": []
