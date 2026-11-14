@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-14T12:17:07+08:00",
- "generated_at": "2026-11-14T12:17:07+08:00",
+ "fetched_at": "2026-11-14T14:46:26+08:00",
+ "generated_at": "2026-11-14T14:46:26+08:00",
  "window": "7d",
- "event_count": 111,
- "article_count": 175,
+ "event_count": 112,
+ "article_count": 177,
  "items": [
   {
    "url": "https://ccss3172.blogspot.com/2026/11/3_02124316980.html",
@@ -18,7 +18,15 @@
    "title": "中原商圈知名牛排館將熄燈!在地經營30年...業者發道別文、老顧客不捨 | 三立新聞網",
    "source": "LINE TODAY",
    "published_at": "2026-11-14T07:12:00+08:00",
-   "event_key": "art:8c8fc92dd509877a41070a6b160c62803597e1f02adba6b982c8c31959f5aad6",
+   "event_key": "art:671e926a2ef5530f4c05c65e9d7fa49d38a058a0911dbebf0f79547f3bebe69a",
+   "primary": false
+  },
+  {
+   "url": "https://www.setn.com/news/1938755",
+   "title": "中原商圈知名牛排館將熄燈!在地經營30年...業者發道別文、老顧客不捨",
+   "source": "三立新聞網SETN.com",
+   "published_at": "2026-11-14T07:09:00+08:00",
+   "event_key": "art:671e926a2ef5530f4c05c65e9d7fa49d38a058a0911dbebf0f79547f3bebe69a",
    "primary": true
   },
   {
@@ -317,10 +325,11 @@
    "title": "115年桃園市商業轉型服務中心暨桃金好禮好店成果發表助力商圈轉型升級、show好禮好店再造成果",
    "source": "新媒體經紀人",
    "published_at": "2026-11-13T01:43:00+08:00",
-   "event_key": "archive:ec113bb784530f5a",
+   "event_key": "art:e4e91273f3d61554cd21a079d6adbea50fef769f0d4452b2007f3506bce09abb",
    "primary": true,
-   "summary": "因應數位科技發展、淨零轉型及市場競爭挑戰,桃園市政府持續透過「桃園市商業轉型服務中心」整合中央與地方資源,提供專業輔導及補助申請服務,協助業者升級轉型,12日舉辦115年桃園市商業轉型服務中心暨桃金好禮好店成果發表會,展現年度推動成果,今年累計輔導104家業者,協助爭取約2,300萬元中央補助及輔導資源,並完成5處大型",
-   "date_only": true
+   "cities": [
+    "桃園市"
+   ]
   },
   {
    "url": "https://money.udn.com/money/story/11799/9875161",
@@ -494,10 +503,8 @@
    "title": "欣食旅新品牌「GIMME」進軍信義商圈!瞄準都會「輕社交」商機,推地中海小盤菜、台灣烏龍茶創意調酒",
    "source": "Yahoo新聞",
    "published_at": "2026-11-12T18:07:00+08:00",
-   "event_key": "art:9fc3ac6ce3e3faf8626ee2ce92ee288388d4cb808608648533e96c5ed58c8a8c",
-   "primary": false,
-   "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於今(12)日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」。 傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme ",
-   "date_only": true
+   "event_key": "art:0f7db66d4229a93c371893a4ae2b90e2365389814e266960592bcc7c05598305",
+   "primary": true
   },
   {
    "url": "https://www.ftvnews.com.tw/news/detail/2026B12W0675",
@@ -762,7 +769,7 @@
    "title": "公館運動館4億變身11/12搶預約!7天免費玩AI健身等科技,3000坪誠品駐水源新天地能救商圈?",
    "source": "城市學",
    "published_at": "2026-11-12T11:48:00+08:00",
-   "event_key": "art:0f3ad356e2fb3f50ddc899e4559b66bd88abf36f67f438611fc2f8145f9de50f",
+   "event_key": "archive:899699da8c6a19a",
    "primary": true
   },
   {
@@ -796,10 +803,8 @@
    "title": "欣食旅新品牌「GIMME」進軍信義商圈!瞄準都會「輕社交」商機,推地中海小盤菜、台灣烏龍茶創意調酒",
    "source": "蕃新聞",
    "published_at": "2026-11-12T09:34:00+08:00",
-   "event_key": "art:9fc3ac6ce3e3faf8626ee2ce92ee288388d4cb808608648533e96c5ed58c8a8c",
-   "primary": false,
-   "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於今(12)日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」。 傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme ",
-   "date_only": true
+   "event_key": "art:0f7db66d4229a93c371893a4ae2b90e2365389814e266960592bcc7c05598305",
+   "primary": false
   },
   {
    "url": "https://turnnewsapp.com/love-tw/422315.html",
@@ -841,6 +846,14 @@
    "date_only": true
   },
   {
+   "url": "https://www.xinmedia.com/article/306748",
+   "title": "欣食旅新品牌「GIMME」進軍信義商圈!瞄準都會「輕社交」商機,推地中海小盤菜、台灣烏龍茶創意調酒",
+   "source": "欣傳媒",
+   "published_at": "2026-11-12T00:00:00+08:00",
+   "event_key": "art:0f7db66d4229a93c371893a4ae2b90e2365389814e266960592bcc7c05598305",
+   "primary": false
+  },
+  {
    "url": "https://more-news.tw/766671/",
    "title": "桃園商業轉型中心三年有成 蘇俊賓:新穎與傳統兼容 展示商圈在地特色",
    "source": "more-news",
@@ -859,16 +872,6 @@
    "event_key": "art:31f72474dfc96ea1b38fa38d54b37d9f7767e7ae0983889236b3f87e7069f57e",
    "primary": false,
    "summary": "新北環狀線2020年通車以來,運量穩定成長,2025年年運量突破2200萬,今年每月運量達200萬人次,已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投",
-   "date_only": true
-  },
-  {
-   "url": "https://www.xinmedia.com/article/306748",
-   "title": "欣食旅新品牌「GIMME」進軍信義商圈!瞄準都會「輕社交」商機,推地中海小盤菜、台灣烏龍茶創意調酒",
-   "source": "欣傳媒",
-   "published_at": "2026-11-12T00:00:00+08:00",
-   "event_key": "art:9fc3ac6ce3e3faf8626ee2ce92ee288388d4cb808608648533e96c5ed58c8a8c",
-   "primary": true,
-   "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於今(12)日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」。 傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme ",
    "date_only": true
   },
   {
@@ -1104,6 +1107,16 @@
    "event_key": "art:7a0c09d6bbdc8f5e5c2f77e34add260f384596322eaa1064a61cad55bb15f346",
    "primary": true,
    "summary": "「2026全國卓越商圈獎」昨(10)日舉辦頒獎典禮,今年共有20處商圈獲得肯定,由經濟部長龔明鑫到場授獎給予肯定。從彰化田尾的花卉園藝、臺南鹽水的百年文化,到平溪天燈與小琉球海洋觀光,各地商圈以不同的產業特色、文化底蘊及服務體驗,展現臺灣地方商業的多元風貌。 商業署表示,每一處商圈都有自己的故事,可能來自世代傳承的歷史",
+   "date_only": true
+  },
+  {
+   "url": "https://tw.news.yahoo.com/20%E8%99%95%E5%95%86%E5%9C%88%E7%8D%B2%E9%A0%92%E5%85%A8%E5%9C%8B%E5%8D%93%E8%B6%8A%E5%95%86%E5%9C%88%E7%8D%8E-134613696.html",
+   "title": "20處商圈獲頒全國卓越商圈獎",
+   "source": "Yahoo奇摩新聞",
+   "published_at": "2026-11-10T21:46:13+08:00",
+   "event_key": "art:8e146c182c1b140da89178f46cce1275e8ebac3302208802cd85951712658796",
+   "primary": true,
+   "summary": "經濟部長龔明鑫昨(十)日主持「二○二六年全國卓越商圈獎頒獎典禮」,龔部長致詞肯定商圈組織及在地業者長期投入的努力與成果,今年計選出二十處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。經濟部自二○二四年辦理「全國卓越商圈獎」,為創造觀光亮點,吸引國際旅客,發揚城市魅力,營造",
    "date_only": true
   },
   {
