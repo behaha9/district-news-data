@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-14T20:49:58+08:00",
+ "fetched_at": "2026-11-14T22:21:13+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 109,
-  "kept": 62,
-  "resolved": 62,
-  "items": 60,
+  "raw": 103,
+  "kept": 52,
+  "resolved": 52,
+  "items": 50,
   "resolve_this_run": {
-   "online": 3
+   "online": 2
   },
   "dropped_old": [
    "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）",
@@ -188,12 +188,12 @@
   },
   {
    "title": "「從全家便利商店到在地商圈、從日常消費到交通出遊」 華南銀行深耕TWQR全面融入日常生活| 財富管理| 商情",
-   "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXZNMzU1cElkWGNhazVBYmZvNFU1SEprVldESlpGcDZaVXpGcmFvaFR5bGZHOGd4a2g2b1ZGTS02MlVDOXRXREwxWE5VcjlobnFlVC1Udi1adDdzUkRiNHRNYUd6MkdMZmVlaFJCblpmUFlNYlJOQTk5SkRlSVBfTUNB?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nWWM5SHRTUXp4Sy1XbVpRamZNU2RoWDlIY2dxNmdacEdWaU9TRENaU2lVRHUtMVNBamtxc3VaZ1R1LVU3Y2R6b1BpYld1d2dXN1I3cDhFYnZldjN3b2o4bnVHLW1EM3liYURHNGZFZjJLSjJmZzY1ag?oc=5",
    "source": "經濟日報",
    "source_site": "https://money.udn.com",
    "published_at": "2026-11-13T16:50+08:00",
    "query": "商圈",
-   "url": "https://money.udn.com/money/story/5636/9877059?from=edn_newestlist_cate_side",
+   "url": "https://money.udn.com/money/story/5636/9877059?from=edn_search_result",
    "resolved": true
   },
   {
@@ -318,12 +318,12 @@
   },
   {
    "title": "買滷味排隊吵架！宜蘭大學商圈2打1...男倒地被拖行　民眾急報案",
-   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Yc01QMEEtZkl5VDg4NUdiei12Ti16b2s2ZXpKZk5CWGtCeFVrV0FXNElvdEp1cm1oQzNoRV84dVpsemNLQ1kwWlBlMTdVSUhPQzUyM3ZCZjBiSE4zVWfSAUtBVV95cUxPM0h4UnZaNlgxdmlQSW85ZEl0RFRBX1Ntb0s5Mkl1ZWdOakVsb3UydDFwbDhGNnN2WEQwcG5MbndDSUs2NEwxeUlja0U?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zSHhSdlo2WDF2aVBJbzlkSXREVEFfU21vSzkySXVlZ05qRWxvdTJ0MXBsOEY2c3ZYRDBwbkxud0NJSzY0TDF5SWNrRdIBS0FVX3lxTE8zSHhSdlo2WDF2aVBJbzlkSXREVEFfU21vSzkySXVlZ05qRWxvdTJ0MXBsOEY2c3ZYRDBwbkxud0NJSzY0TDF5SWNrRQ?oc=5",
    "source": "ETtoday新聞雲",
    "source_site": "https://www.ettoday.net",
    "published_at": "2026-11-13T10:52+08:00",
    "query": "商圈",
-   "url": "https://www.ettoday.net/news/20261113/3271482.htm",
+   "url": "https://www.ettoday.net/amp/3271482",
    "resolved": true
   },
   {
@@ -514,106 +514,6 @@
    "published_at": "2026-11-12T22:59+08:00",
    "query": "商圈",
    "url": "https://n.yam.com/Article/20261112971220",
-   "resolved": true
-  },
-  {
-   "title": "警旺角亞皆老街搗非法麻雀檔拘10人 檢$1.2萬現金及賭具",
-   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qUEU5by1QTkJfaEVkVFdSdVNERTZzVlZkallyNWx3U0k3OEJZU1FUX1M2Q0haVHRlb3hJVTduUl9qOEowNWF5aG5oMmJxZw?oc=5",
-   "source": "香港01",
-   "source_site": "https://www.hk01.com",
-   "published_at": "2026-11-12T22:11+08:00",
-   "query": "老街",
-   "url": "https://www.hk01.com/article/60410227",
-   "resolved": true
-  },
-  {
-   "title": "旺角亞皆老街掃地下竹館 拘10人包括女主持",
-   "google_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWdVbXhxYS1XNXJydnZQdWw5bm1mQl9QU0N4d0NQckVOSFlQNG95M0lJUDBWOTdTRGtJLXRPelhrak1CVjYxVXp3SUFCaVBINjN3TG1memlsMzhzQzItNHowNlEyb0UwdkxuR3VFSnUxUXAwbVdRRmZCQmtPTFk0bXJFQXZLLXRoVl9N?oc=5",
-   "source": "on.cc東網",
-   "source_site": "https://hk.on.cc",
-   "published_at": "2026-11-12T22:07+08:00",
-   "query": "老街",
-   "url": "https://hk.on.cc/hk/bkn/cnt/news/20261112/bkn-20261112215500518-1112_00822_001.html",
-   "resolved": true
-  },
-  {
-   "title": "旗山老街走一回 從紅磚街屋看見香蕉城的歲月",
-   "google_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQb3psSzQ3aVJrZUdUNk5jNkNyam5VVGU0Nkp2RnFqLWkwZlFMZGZiNFRkZURkaWpybmt1RE5Ib2QxZElxSEhQWDlob0lscDZ0T3owOXJWTnBzNDAybXRLM2NYeGFLQjVVYjNqRmN1b3FScEo5a0NWRmMtbTRRVTJ1a0ZsdERMRWdZNXNjRUxzSmJxYkthRF9OVXFCX0Q4LTRNeEd4eVJ4NGh2UUliWlZMVmd4bm5FMlBwZGpJZnVEVGpoQ203cHdDNHRSbERYWk9sYWJwRWdXWHhLbV9Oa3lMMDdGZ2lLTVN2cTRyZDNxVmQxUW1Jd0NXMlZmZ3BuMUw1eDFJM1FueW85MEdWOEN5UFpUcWNndFU1UVhpdF95YXlWcnZ0ZXN5eFhFWUoxV3FlUWQ4dFdjNkwtdEFHY1JQUnNMY3N5eFU?oc=5",
-   "source": "台灣大紀元",
-   "source_site": "https://www.epochtimes.com.tw",
-   "published_at": "2026-11-12T21:53+08:00",
-   "query": "老街",
-   "url": "https://www.epochtimes.com.tw/n518161/%E6%97%97%E5%B1%B1%E8%80%81%E8%A1%97%E8%B5%B0%E4%B8%80%E5%9B%9E-%E5%BE%9E%E7%B4%85%E7%A3%9A%E8%A1%97%E5%B1%8B%E7%9C%8B%E8%A6%8B%E9%A6%99%E8%95%89%E5%9F%8E%E7%9A%84%E6%AD%B2%E6%9C%88.html",
-   "resolved": true
-  },
-  {
-   "title": "2026榮町商圈和洋嘉年華 和洋穿搭、COSPLAY展現榮町街區風情",
-   "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CT0pSYl9GaUlpSGN4VWRpWXFxWWFSMkJqS1J5UGlLZVQyNEp6NG40dE9Bc0NEUVQwQWFWeEV6dWpUX3JleDU3X3JHLWlEc1E5UEJF?oc=5",
-   "source": "民眾新聞網",
-   "source_site": "https://mypeoplevol.com",
-   "published_at": "2026-11-12T21:33+08:00",
-   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
-   "url": "https://mypeoplevol.com/2026/life/120221/",
-   "resolved": true
-  },
-  {
-   "title": "蔣萬安走訪公館商圈商家拜票 (圖)",
-   "google_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa0hwM000ZWhWOHhkbUlubGIyaVdLYm5RekQ2MHJfUUFIS1R1ejFtWHBQeElOOXNZX1Jvdjg0MFRxTU85blBZb09jbzV6WVZtclhsNFpnQjkyYlI5R2R0bWw1VDI3eVlORVJqRDl0VVVDMnFkYzlpQURucTQ1TzN1dXRDY2FtekUyRXZDMHVGX1dwaXpxTzNFQzRvR1p6UHRWeEdrMnpObGFSQUQzYlV3dTJuRER4T0ZKSHVGck5wMWFfYnpBQ08xX1c5SEN6b1BsTm9YbFlQNEhvVG9vNW1YYk9uRGt3OU4tT2NRREEwWmdMUXZXZlJocTdtU0s?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-12T21:18+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E8%B5%B0%E8%A8%AA%E5%85%AC%E9%A4%A8%E5%95%86%E5%9C%88%E5%95%86%E5%AE%B6%E6%8B%9C%E7%A5%A8-%E5%9C%96-131840754.html",
-   "resolved": true
-  },
-  {
-   "title": "蔣萬安公館商圈拜票 與民眾合影 (圖)",
-   "google_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObGY0bHlpbWY3M3oyRC1mQ2hXMXlBbThNemMyZXNtcWpELVQwSVhuM3lLc3p5ZWtCN1pVS2tmQjhXYks2NVBqNlczWS1UWDFveXBzYjVrODNtaHpwbDg1U2xtajljekxVYjU0UGxLUV94OUFNVHVFNGxkS3MxNWRrSFRLVjljSGVaYmNfYXcxS1ZWenVDQlNYSUFrMDhqZEJkM0dsdGF2N2gzd2FpNmNtOVpwSjNjZ3R1X2N1WmZTakRpcEtjQ1FtaFJST0tzbThXc3JmaVZXOHNyWkRSbGRZLTJIaUwwal90bFZfZlFXSDF1dW9IamlLSklVUHExS2Jpd3JXMTVxTENRdw?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-12T21:16+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E5%85%AC%E9%A4%A8%E5%95%86%E5%9C%88%E6%8B%9C%E7%A5%A8-%E8%88%87%E6%B0%91%E7%9C%BE%E5%90%88%E5%BD%B1-%E5%9C%96-131636853.html",
-   "resolved": true
-  },
-  {
-   "title": "蔣萬安掃公館商圈藍粉憂「人還不夠多」　民眾指人氣小輸沈伯洋",
-   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wMTc2Y3ZLVXpBdmJQTDltMHRYMklOb2JWQkxRR3ZITUdjMG9CbmZILTNWRnA1bENRWmt2cDczWDZVX3VSOFBMZnZhQ0VEVU1QbHg4TkhZS2hhMjlaMVHSAUtBVV95cUxQd3lRT3p1YWphd29jVG1hWEppT0JSeVFFX1dod3VYaVFuaHo3TUZGV3FRb0ZjWnp4TWdIalM0T2R2ZVBpVWE2WmIzaU0?oc=5",
-   "source": "ETtoday新聞雲",
-   "source_site": "https://www.ettoday.net",
-   "published_at": "2026-11-12T21:11+08:00",
-   "query": "商圈",
-   "url": "https://www.ettoday.net/news/20261112/3271243.htm",
-   "resolved": true
-  },
-  {
-   "title": "蔣萬安公館商圈掃街 支持者簇擁互動 (圖)",
-   "google_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPOGFJWWRqd0hXSURmX3c4bjQzZnhZVE9lemt3MEt4YUk4bWk5Q0MzNWlhWmVNLUJDQmZBVWZFejlsZ0VlMkxKTm42Q3dUYWdDdk11Nk9ZaTV0clExOXJfRm9zVHFKZk5MZkUyekMwTUdJRVhUUE81UmxFMkJmdVdia3NTZURYYlozdWpDUXp5dGdLUmtpRTI0U2c2WDVwWWdPRldWQ3RmSXhfcVh5eTlnanJhRkplRXhMbUY0NHBmSFhidEl1Slh2V1QyTk1tbnZmSk5LOG1BUVVzb1BWd3Ytd2pPeW1JVm0xRFF0UjFscHF0dEdoWWJzUkdvNEJYa1BYZnpEdWl4Ny1FSWViSzlGNEEzMUx6cFRrM1BIZlc5Q1Z3QQ?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-12T21:07+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E5%85%AC%E9%A4%A8%E5%95%86%E5%9C%88%E6%8E%83%E8%A1%97-%E6%94%AF%E6%8C%81%E8%80%85%E7%B0%87%E6%93%81%E4%BA%92%E5%8B%95-%E5%9C%96-130731032.html",
-   "resolved": true
-  },
-  {
-   "title": "台北信義商圈多一處輕社交餐廳 「GIMME」今（12）日開幕推3重優惠",
-   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMWDRyaExIc3IxUEgwN1RqS1FVMlliYi0zVk1BNFJhdTdDUGpEX2pnc1hsQXg1SWRuMElFNUI2a3gzdmNKZDJfZ21RSjloSlFqSWNGUUVNYlFERXROOC1mbdIBZkFVX3lxTE9Cb3EtRzNxWG5XejJ0YWQ1LUw3U092aFpoTG15QzhtQWpTQ0FUTjVaazFzbGZ0czJnVzBaUE9yTjlhbkhSNXpUWFh1U0M4X3laeC1NS1VPZnNERW1SSXlMQzFRcHdqdw?oc=5",
-   "source": "自由藝文網",
-   "source_site": "https://art.ltn.com.tw",
-   "published_at": "2026-11-12T20:59+08:00",
-   "query": "商圈",
-   "url": "https://art.ltn.com.tw/article/breakingnews/5638955",
-   "resolved": true
-  },
-  {
-   "title": "五千余張黑膠奏響老街新韻 杭州上城城市音樂客廳試營業啟幕",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3Q0tFRmJsSGkwOGFuSk1tMWRIeU1OdE9OU3FXTmJlaF9Fc1kyYlM1NGxsc253U29BeGJKY3JkQS1mTVNBdTJJODhwYjZVMURia3BMUVJB?oc=5",
-   "source": "經濟導報",
-   "source_site": "https://jdonline.com.hk",
-   "published_at": "2026-11-12T20:56+08:00",
-   "query": "老街",
-   "url": "https://jdonline.com.hk/content_110132.html",
    "resolved": true
   }
  ]
