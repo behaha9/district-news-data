@@ -1,40 +1,29 @@
 {
- "fetched_at": "2026-11-15T20:50:12+08:00",
+ "fetched_at": "2026-11-15T22:52:18+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 70,
-  "kept": 25,
-  "resolved": 25,
-  "items": 22,
+  "raw": 72,
+  "kept": 20,
+  "resolved": 20,
+  "items": 18,
   "resolve_this_run": {
-   "online": 11
+   "online": 2
   },
   "dropped_old": [
    "龍潭散散步：看大池、逛老街，到廟埕湊熱鬧 | 陳映霖 | 品味生活（原文日期 2026-09-05）",
-   "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）",
    "萬聖節人潮塞爆信義商圈！2車擦撞「狂冒白煙」 雙方駕駛下車火氣大（原文日期 2026-11-01）"
   ]
  },
  "items": [
   {
    "title": "高雄市議員湯詠瑜：老商圈新風貌，環境更安全",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kemRfZVJMTzhTX1p0eHQyRENaZ3JpRnNYWHFVVE9HNURaQXVhUFU3Z3RCY011Vk9EaUsxMUxOZ0NGZFB3OUY4b2szYjdtMmx4WHc?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqb1RpRFNULVVnYklUTDV3LU5Tbzk1dVFYRkpQc1AzTG5vcHg2YllTWVowMlNKMzRETHhZVndTdVFIS3NhRnBWbDE4Rklic2UyaWfSAVJBVV95cUxQam9UaURTVC1VZ2JJVEw1dy1OU285NXVRWEZKUHNQM0xub3B4NmJZU1laMDJTSjM0REx4WVZ3U3VRSEtzYUZwVmwxOEZJYnNlMmln?oc=5",
+   "source": "今傳媒 JNEWS",
+   "source_site": "https://focusnews.com.tw",
    "published_at": "2026-11-15T20:26+08:00",
    "query": "商圈",
-   "url": "https://n.yam.com/Article/20261115628174",
-   "resolved": true
-  },
-  {
-   "title": "活絡商圈商機！台中購物節買氣破86億",
-   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16ck03cVZjNHVLSmlLTWNweEZSdDVnQmRnWTdIWTRacEJEdTFlX1FYOHBHcnp0NUtBbVdFQjVlUXBHUTUtYVozbGxzQkV2WnBhMEZSSGhoWEVuQm1OeElz?oc=5",
-   "source": "工商時報",
-   "source_site": "https://www.ctee.com.tw",
-   "published_at": "2026-11-15T19:42+08:00",
-   "query": "商圈",
-   "url": "https://www.ctee.com.tw/news/20261115700623-431207",
+   "url": "https://focusnews.com.tw/2026/11/731714/",
    "resolved": true
   },
   {
@@ -88,16 +77,6 @@
    "resolved": true
   },
   {
-   "title": "小鎮魅力成功出圈 虎尾商圈奪大獎",
-   "google_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNTk1Gajdtc3h6RDdYM1kwVmFzWFNaQVppR2NnVzZXWm1KVjh6TmUzM01BQzZscm9qLVVaYlB4UV9wbUpydGF3NnJyT1FrSWIxbkRpVzNfamdmRDlYUWhuMGdWWWlVZXFPdWhJcTA3azFKQzdpdHpodkRUZ2dWSWxCS0VJbnhiTVV4dWplQzBuZS01TnV6aGVxVFlPZUVlWGtPRkxqQnNVVEtyX2ZlTlpXZlN3RE1yV3lhSm9nUVI0TURaYk5kOV9lLXpRdzRlRGZXNEFYRVBpRXFQSFFVMVFoeVJqQVh2d0hpUEo3UDBqMlVKQW5ydTJ0WHROQUxlajYtLVhFR2JYOUVuY00wWXlIWU1pWHg?oc=5",
-   "source": "行銷人",
-   "source_site": "https://www.marketersgo.com",
-   "published_at": "2026-11-15T15:35+08:00",
-   "query": "商圈",
-   "url": "https://www.marketersgo.com/uncategorized/202611/%E5%B0%8F%E9%8E%AE%E9%AD%85%E5%8A%9B%E6%88%90%E5%8A%9F%E5%87%BA%E5%9C%88-%E8%99%8E%E5%B0%BE%E5%95%86%E5%9C%88%E5%A5%AA%E5%A4%A7%E7%8D%8E/",
-   "resolved": true
-  },
-  {
    "title": "天王大啖台灣滷肉飯！木村拓哉現蹤中山商圈 1親民舉動暖翻粉絲",
    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTU2NhNmtZOU1sS2JsNnpmamtYWnVhS1hVdVNnUnFBVVRnVzRFZ1Q3WEw1aXNhWG9ncmpnd3pYME1Lc3VnUnBoM0REZ1RWS1h4ZGlwVXNjb2Q3Q2kw0gFiQVVfeXFMTnM5NjVLZVpoVzc2VmNDSHVwcXAyVllKUU5fa2Vrb191SHN4Mi11WUJ1eFpSdHFXOHh1Ny13ajZMTmJfU2dZNVNfQVkwcGpkTHp1clJvSFZZaGhObHlpVFREUHc?oc=5",
    "source": "自由娛樂",
@@ -105,6 +84,16 @@
    "published_at": "2026-11-15T15:18+08:00",
    "query": "商圈",
    "url": "https://ent.ltn.com.tw/news/breakingnews/5641549",
+   "resolved": true
+  },
+  {
+   "title": "小鎮魅力成功出圈 虎尾商圈奪大獎",
+   "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85YURnM2trTjVGRnNzTF9uQVRaak9QUFpHakJpYTJzMDFibk9vNDk3Wl9rVEFFbjNELWpYN2FibFBjZDlEX25aVEJB?oc=5",
+   "source": "17news民生好報",
+   "source_site": "https://17news.net",
+   "published_at": "2026-11-15T15:05+08:00",
+   "query": "商圈",
+   "url": "https://17news.net/archives/345984",
    "resolved": true
   },
   {
@@ -205,36 +194,6 @@
    "published_at": "2026-11-14T01:30+08:00",
    "query": "商圈",
    "url": "https://house.udn.com/house/story/123590/9877486?from=udn-indexnewnews_ch1025",
-   "resolved": true
-  },
-  {
-   "title": "吳興商圈拜票 蔣萬安遇婦人陳情",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lOTFxU2U2d3pQdW03SmdjNEI4d3pLQk13WXF4eXZockI2N1ljYWRfQkIwRE9YNnVSYS1DWXctRUpzRWFSRl9XaG1rZkk5YThhd3c?oc=5",
-   "source": "中華新聞雲／中華日報",
-   "source_site": "https://www.cdns.com.tw",
-   "published_at": "2026-11-13T21:07+08:00",
-   "query": "商圈",
-   "url": "https://www.cdns.com.tw/articles/1490226",
-   "resolved": true
-  },
-  {
-   "title": "桃市商業轉型服務中心暨桃金好禮好店成果發表會 助力商圈轉型升級",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IZEkwSEJKZG5rVUtVellHZ3JoNWlpc2VMMDlFVW5qcXJfaDVrOXVIYVoxbU45QVpNYk5aTmt3aER1SnVJMWNxSUk4Z2J1NzEycFE?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-13T21:02+08:00",
-   "query": "商圈",
-   "url": "https://n.yam.com/Article/20261113641523",
-   "resolved": true
-  },
-  {
-   "title": "松山商圈迎宜蘭好米！｢2026新米祭｣13日至15日微風超市免費試吃",
-   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzWFktSk9VUWtyQUkwLTRBZzVaajlaSTktejZ6SFk1Z1BUalQtQmpKZGFWNWNqdEY2dXprRVRwQndoblRzXzlsNDBFb1NjQQ?oc=5",
-   "source": "記者爆料網",
-   "source_site": "https://new-reporter.com",
-   "published_at": "2026-11-13T20:55+08:00",
-   "query": "商圈",
-   "url": "https://new-reporter.com/news/333449/",
    "resolved": true
   }
  ]
