@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-15T12:18:11+08:00",
+ "updated_at": "2026-11-15T16:50:12+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -11,6 +11,11 @@
    "decision": "kept",
    "item": "20261112-gimme-xinyi",
    "at": "2026-11-13"
+  },
+  "https://ccss3172.blogspot.com/2026/11/15.html": {
+   "decision": "hidden",
+   "reason": "國外",
+   "at": "2026-11-15"
   },
   "https://ccss3172.blogspot.com/2026/11/3_02124316980.html": {
    "decision": "hidden",

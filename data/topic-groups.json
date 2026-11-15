@@ -1,10 +1,18 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-15T12:40:00+08:00",
+  "updated_at": "2026-11-15T16:58:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
+        {
+          "id": "20261115-taishan-sue",
+          "note": "泰山因中聯致癌油事件提告求償1000萬元，營業用大豆油漲8%",
+          "representative": "https://www.chinatimes.com/realtimenews/20261115001563-260405",
+          "urls": [
+            "https://www.chinatimes.com/realtimenews/20261115001563-260405"
+          ]
+        },
         {
           "id": "20261114-taisugar-soybean",
           "note": "台糖下月再增購美國黃豆，12月起沙拉油多產600噸",
@@ -304,7 +312,8 @@
             "http://news.ftv.com.tw/news/detail/2026B08U03M1",
             "https://www.businesstoday.com.tw/article/category/183030/post/202611080011/",
             "https://today.line.me/tw/v3/hotspot/xWm69",
-            "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-08/2519526.html"
+            "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-08/2519526.html",
+            "https://today.line.me/tw/v3/article/3N1PPqy"
           ]
         },
         {
@@ -320,7 +329,8 @@
             "https://udn.com/news/story/7266/9867222",
             "https://tw.news.yahoo.com/%E5%B8%82%E5%A0%B4%E6%80%A5%E7%BC%BA%E6%B2%99%E6%8B%89%E6%B2%B9-%E9%BE%94%E6%98%8E%E9%91%AB%E8%AA%AA%E8%A9%B1%E4%BA%86-091000197.html",
             "https://www.nownews.com/news/6890755",
-            "https://tw.news.yahoo.com/%E5%B8%82%E5%A0%B4%E5%96%8A%E7%BC%BA%E6%B2%99%E6%8B%89%E6%B2%B9-%E9%BE%94%E6%98%8E%E9%91%AB-%E5%B9%B4%E5%BA%95%E5%A2%9E%E9%80%BE1-5%E8%90%AC%E5%99%B8-085630795.html"
+            "https://tw.news.yahoo.com/%E5%B8%82%E5%A0%B4%E5%96%8A%E7%BC%BA%E6%B2%99%E6%8B%89%E6%B2%B9-%E9%BE%94%E6%98%8E%E9%91%AB-%E5%B9%B4%E5%BA%95%E5%A2%9E%E9%80%BE1-5%E8%90%AC%E5%99%B8-085630795.html",
+            "https://news.pchome.com.tw/living/nownews/20261109/index-79421459003968207009.html"
           ]
         },
         {
