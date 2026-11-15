@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-15T20:56:28+08:00",
+ "updated_at": "2026-11-16T07:18:37+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -397,11 +397,6 @@
    "item": "20261112-taoyuan-biz-transform",
    "at": "2026-11-13"
   },
-  "https://n.yam.com/Article/20261114882149": {
-   "decision": "kept",
-   "item": "20261111-songshan-rice-fest",
-   "at": "2026-11-15"
-  },
   "https://new-reporter.com/news/332964/": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -692,6 +687,11 @@
    "item": "20261112-gimme-xinyi",
    "at": "2026-11-14"
   },
+  "https://tw.news.yahoo.com/%E6%B8%B8%E6%B7%91%E8%B2%9E%E6%8F%90%E8%88%8A%E5%9F%8E%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88%E7%AD%96%E7%95%A5-132619509.html": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-16"
+  },
   "https://tw.news.yahoo.com/%E6%B8%B8%E6%B7%91%E8%B2%9E%E6%8F%90%E8%8A%B1%E8%93%AE%E8%88%8A%E5%9F%8E%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88%E7%AD%96%E7%95%A5-%E6%96%87%E5%8C%96%E6%B7%B1%E8%80%95-%E8%A7%80%E5%85%89%E5%B0%8E%E6%B5%81%E9%9B%99%E8%BB%8C%E4%B8%A6%E9%80%B2-095646247.html": {
    "decision": "hidden",
    "reason": "選舉",
@@ -852,6 +852,11 @@
    "reason": "治安車禍",
    "at": "2026-11-13"
   },
+  "https://www.chinatimes.com/realtimenews/20261115002173-260407": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-16"
+  },
   "https://www.chinesedaily.com/article/detail-711508.html": {
    "decision": "hidden",
    "reason": "房地產",
@@ -861,6 +866,11 @@
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-13"
+  },
+  "https://www.cmoney.tw/forum/article/188733206": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-16"
   },
   "https://www.cna.com.tw/news/aipl/202611060266.aspx": {
    "decision": "hidden",
@@ -1006,6 +1016,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-05"
+  },
+  "https://www.ksnews.com.tw/e/159990": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-16"
   },
   "https://www.mirrormedia.mg/external/amp/setn_1938259": {
    "decision": "hidden",

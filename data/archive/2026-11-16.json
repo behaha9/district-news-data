@@ -1,0 +1,215 @@
+{
+ "date": "2026-11-16",
+ "runs": [
+  {
+   "at": "2026-11-16T07:18:32+08:00",
+   "added": 2,
+   "merged": 3,
+   "items": [
+    {
+     "id": "20261115-kaohsiung-tang-oldbiz",
+     "title": "高雄市議員湯詠瑜關注玉竹、南華商圈與公有市場環境安全改善",
+     "summary": "高雄市議員湯詠瑜表示，玉竹商圈、南華商圈和新興第一公有市場是高雄重要的在地生活場域，關注其環境與安全。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-15T20:26:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [
+      {
+       "name": "南華商圈",
+       "priority": true
+      },
+      {
+       "name": "玉竹商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "今傳媒",
+       "url": "https://focusnews.com.tw/2026/11/731714/",
+       "published_at": "2026-11-15T20:26:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261115628174",
+       "published_at": "2026-11-15T20:26:00+08:00"
+      }
+     ],
+     "image": "https://ni.yam.com/20261115/1405167-1125x1125-c56351df8c3a3110.webp"
+    },
+    {
+     "id": "20261115-tainan-houbi-fengtu",
+     "title": "後壁區公所與後壁商圈辦「風土旅行日」，花海大富翁串聯農村導覽",
+     "summary": "後壁區公所與後壁商圈於菁寮聖十字架天主堂後方花海農田舉辦風土旅行日，結合花海大富翁、遊戲包、野草導覽與商圈特色商品展售。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-15T20:48:00+08:00",
+     "cities": [
+      "台南市"
+     ],
+     "districts": [
+      {
+       "name": "後壁商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "後壁商圈為115年補助名單，活動已辦理，可作為執行佐證參考。",
+     "sources": [
+      {
+       "outlet": "Yahoo奇摩新聞",
+       "url": "https://tw.news.yahoo.com/%E7%B5%90%E5%90%88%E8%8A%B1%E6%B5%B7%E5%A4%A7%E5%AF%8C%E7%BF%81-%E9%81%8A%E6%88%B2%E5%8C%85-%E7%89%B9%E8%89%B2%E5%95%86%E5%93%81%E5%B1%95%E5%94%AE-%E5%BE%8C%E5%A3%81%E9%A2%A8%E5%9C%9F%E6%97%85%E8%A1%8C%E6%97%A5-%E6%84%9F%E5%8F%97%E8%BE%B2%E6%9D%91%E9%AD%85%E5%8A%9B-124818048.html",
+       "published_at": "2026-11-15T20:48:00+08:00"
+      },
+      {
+       "outlet": "中華新聞雲",
+       "url": "https://www.cdns.com.tw/articles/1490812",
+       "published_at": "2026-11-15T14:01:00+08:00"
+      }
+     ],
+     "image": "https://media.zenfs.com/ko/tssdnews.com.tw/57e975f51c9aa810e4693d268db9fee0.jpg"
+    },
+    {
+     "id": "20261110-yunlin-huwei-dounan-award",
+     "title": "雲林虎尾鎮魅力商圈、斗南商圈獲全國卓越商圈獎肯定",
+     "summary": "雲林縣虎尾鎮魅力商圈與斗南商圈在經濟部商業發展署主辦的全國卓越商圈評選中獲獎。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-15T15:35:00+08:00",
+     "cities": [
+      "雲林縣"
+     ],
+     "districts": [
+      {
+       "name": "虎尾鎮魅力商圈",
+       "priority": true
+      },
+      {
+       "name": "斗南商圈",
+       "priority": false
+      }
+     ],
+     "admin_note": "虎尾鎮魅力商圈為115年補助名單，獲獎可作為執行成效的參考。",
+     "sources": [
+      {
+       "outlet": "行銷人",
+       "url": "https://www.marketersgo.com/uncategorized/202611/%E5%B0%8F%E9%8E%AE%E9%AD%85%E5%8A%9B%E6%88%90%E5%8A%9F%E5%87%BA%E5%9C%88-%E8%99%8E%E5%B0%BE%E5%95%86%E5%9C%88%E5%A5%AA%E5%A4%A7%E7%8D%8E/",
+       "published_at": "2026-11-15T15:35:00+08:00"
+      },
+      {
+       "outlet": "商傳媒",
+       "url": "https://sunmedia.tw/news/collaborative/1i4pc1MpcXmZHD8KvBPi05uC9hZiCbYotnU4fsG6wR03x47yoHh0zNg8",
+       "published_at": "2026-11-15T15:05:00+08:00"
+      },
+      {
+       "outlet": "17news民生好報",
+       "url": "https://17news.net/archives/345984",
+       "published_at": "2026-11-15T15:05:00+08:00"
+      },
+      {
+       "outlet": "雲林縣政府",
+       "url": "https://www.yunlin.gov.tw/News_Content.aspx?n=1244&s=613563",
+       "published_at": "2026-11-10T15:32:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261110662902",
+       "published_at": "2026-11-10T00:00:00+08:00"
+      }
+     ],
+     "image": "https://secure.gravatar.com/avatar/1d376d4c5e0c105211d0995b2087c627be58097e649e78748f3571367e4399c0?s=96&d=mm&r=g"
+    },
+    {
+     "id": "20261111-songshan-rice-fest",
+     "title": "松山商圈發展協會與宜蘭縣政府推「新米祭」，宜蘭好米進駐微風超市",
+     "summary": "臺北市松山商圈發展協會與宜蘭縣政府共同推廣2026新米祭，讓宜蘭嚴選米進駐微風超市。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-14T18:12:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "松山商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "松山商圈為115年補助名單，協會與縣市合作推廣活動，可作為執行佐證參考。",
+     "sources": [
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/768619/",
+       "published_at": "2026-11-14T18:12:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261114882149",
+       "published_at": "2026-11-14T18:12:00+08:00"
+      },
+      {
+       "outlet": "記者爆料網",
+       "url": "https://new-reporter.com/news/333449/",
+       "published_at": "2026-11-13T20:55:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261113738382",
+       "published_at": "2026-11-13T15:49:00+08:00"
+      },
+      {
+       "outlet": "Yahoo新聞",
+       "url": "https://tw.news.yahoo.com/%E6%9D%BE%E5%B1%B1%E5%95%86%E5%9C%88%E8%BF%8E%E5%AE%9C%E8%98%AD%E5%A5%BD%E7%B1%B3-2026%E6%96%B0%E7%B1%B3%E7%A5%AD-13%E6%97%A5%E8%87%B315%E6%97%A5%E5%BE%AE%E9%A2%A8%E8%B6%85%E5%B8%82%E5%85%8D%E8%B2%BB%E8%A9%A6%E5%90%83-054243611.html",
+       "published_at": "2026-11-13T13:42:00+08:00"
+      },
+      {
+       "outlet": "警政時報",
+       "url": "https://www.tcpttw.com/local/2026/11/13/330213/",
+       "published_at": "2026-11-13T13:42:00+08:00"
+      },
+      {
+       "outlet": "警政時報",
+       "url": "https://www.tcpttw.com/life/2026/11/11/329449/",
+       "published_at": "2026-11-11T16:19:00+08:00"
+      },
+      {
+       "outlet": "觀傳媒",
+       "url": "https://www.watchmedia01.com/archives/568607",
+       "published_at": "2026-11-11T00:00:00+08:00"
+      }
+     ],
+     "image": "https://more-news.tw/more-news-media/2026/11/IMG_7438.jpeg"
+    },
+    {
+     "id": "20261115-taichung-shopping-86b",
+     "title": "臺中購物節登錄消費突破86億元，經發局說明活絡商圈商機",
+     "summary": "臺中市經發局表示，購物節累積登錄消費已突破86億元，台中通TCPASS APP下載量超過331萬次。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-15T19:42:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261115700623-431207",
+       "published_at": "2026-11-15T19:42:00+08:00"
+      },
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/5635/9880067",
+       "published_at": "2026-11-15T14:40:00+08:00"
+      }
+     ],
+     "image": "https://images.ctee.com.tw/newsphoto/2026-11-15/1024/20261115700625.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
+  }
+ ]
+}

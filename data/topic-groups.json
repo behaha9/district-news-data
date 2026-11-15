@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-15T16:58:00+08:00",
+  "updated_at": "2026-11-16T07:30:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -401,6 +401,14 @@
             "https://more-news.tw/769034/"
           ],
           "note": "台中市府追蹤查察11家經銷商、雜貨商行，未發現異常漲價或囤貨"
+        },
+        {
+          "id": "20261115-city-oil-trace",
+          "representative": "https://tw.news.yahoo.com/%E5%B8%82%E5%BA%9C%E8%BF%BD%E6%9F%A5%E9%A3%9F%E7%94%A8%E6%B2%B9%E6%A5%AD%E8%80%85-120232745.html",
+          "urls": [
+            "https://tw.news.yahoo.com/%E5%B8%82%E5%BA%9C%E8%BF%BD%E6%9F%A5%E9%A3%9F%E7%94%A8%E6%B2%B9%E6%A5%AD%E8%80%85-120232745.html"
+          ],
+          "note": "市府追查食用油業者（11/15 Yahoo）"
         }
       ],
       "exclude": [
