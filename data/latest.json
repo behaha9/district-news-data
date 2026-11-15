@@ -1,7 +1,67 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-15T16:50:12+08:00",
+ "generated_at": "2026-11-15T20:56:24+08:00",
  "items": [
+  {
+   "id": "20261115-taichung-shopping-86b",
+   "title": "臺中購物節登錄消費突破86億元，經發局說明活絡商圈商機",
+   "summary": "臺中市經發局表示，購物節累積登錄消費已突破86億元，台中通TCPASS APP下載量超過331萬次。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-15T19:42:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261115700623-431207",
+     "published_at": "2026-11-15T19:42:00+08:00"
+    }
+   ],
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-15/1024/20261115700625.jpg"
+  },
+  {
+   "id": "20261110-yunlin-huwei-dounan-award",
+   "title": "雲林虎尾鎮魅力商圈、斗南商圈獲全國卓越商圈獎肯定",
+   "summary": "雲林縣虎尾鎮魅力商圈與斗南商圈在經濟部商業發展署主辦的全國卓越商圈評選中獲獎。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-15T15:05:00+08:00",
+   "cities": [
+    "雲林縣"
+   ],
+   "districts": [
+    {
+     "name": "虎尾鎮魅力商圈",
+     "priority": true
+    },
+    {
+     "name": "斗南商圈",
+     "priority": false
+    }
+   ],
+   "admin_note": "虎尾鎮魅力商圈為115年補助名單，獲獎可作為執行成效的參考。",
+   "sources": [
+    {
+     "outlet": "商傳媒",
+     "url": "https://sunmedia.tw/news/collaborative/1i4pc1MpcXmZHD8KvBPi05uC9hZiCbYotnU4fsG6wR03x47yoHh0zNg8",
+     "published_at": "2026-11-15T15:05:00+08:00"
+    },
+    {
+     "outlet": "雲林縣政府",
+     "url": "https://www.yunlin.gov.tw/News_Content.aspx?n=1244&s=613563",
+     "published_at": "2026-11-10T15:32:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261110662902",
+     "published_at": "2026-11-10T00:00:00+08:00"
+    }
+   ],
+   "image": "https://17news.net/wp-content/uploads/2026/11/084b159a4d96599.webp"
+  },
   {
    "id": "20261111-songshan-rice-fest",
    "title": "松山商圈發展協會與宜蘭縣政府推「新米祭」，宜蘭好米進駐微風超市",
@@ -24,6 +84,11 @@
      "outlet": "墨新聞",
      "url": "https://more-news.tw/768619/",
      "published_at": "2026-11-14T18:12:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261113738382",
+     "published_at": "2026-11-13T15:49:00+08:00"
     },
     {
      "outlet": "Yahoo新聞",
@@ -1008,41 +1073,6 @@
     }
    ],
    "image": "https://i0.wp.com/886.news/wp-content/uploads/2026/11/1794299648315-1.jpg"
-  },
-  {
-   "id": "20261110-yunlin-huwei-dounan-award",
-   "title": "雲林虎尾鎮魅力商圈、斗南商圈獲全國卓越商圈獎肯定",
-   "summary": "雲林縣虎尾鎮魅力商圈與斗南商圈在經濟部商業發展署主辦的全國卓越商圈評選中獲獎。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-11-10T15:32:00+08:00",
-   "cities": [
-    "雲林縣"
-   ],
-   "districts": [
-    {
-     "name": "虎尾鎮魅力商圈",
-     "priority": true
-    },
-    {
-     "name": "斗南商圈",
-     "priority": false
-    }
-   ],
-   "admin_note": "虎尾鎮魅力商圈為115年補助名單，獲獎可作為執行成效的參考。",
-   "sources": [
-    {
-     "outlet": "雲林縣政府",
-     "url": "https://www.yunlin.gov.tw/News_Content.aspx?n=1244&s=613563",
-     "published_at": "2026-11-10T15:32:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261110662902",
-     "published_at": "2026-11-10T00:00:00+08:00"
-    }
-   ],
-   "image": "https://ni.yam.com/20261110/20261110183950-85f61a13a7e33737.webp"
   },
   {
    "id": "20261110-taichung-port-imported",
@@ -2521,103 +2551,6 @@
     }
    ],
    "image": "https://ni.yam.com/20261101/taichung-cover-261101054220643-c9b1ce4aa1da8eae.webp"
-  },
-  {
-   "id": "20261101-ximen-ai-painter",
-   "title": "西門町街頭畫家被指以AI作畫販售，觀光客消費爭議受關注",
-   "summary": "報導指西門町有街頭畫家被抓包以AI作畫，另提到芒果一袋破千元等觀光區價格問題。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-11-01T20:15:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "西門町商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "nexttv",
-     "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-01/2512936.html",
-     "published_at": "2026-11-01T20:15:00+08:00"
-    }
-   ],
-   "admin_note": "西門町商圈為115年補助名單，觀光客消費糾紛可能影響商圈形象，可留意相關輿情。",
-   "image": "https://image.nexttv.com.tw/material/news/img/2026/11/2f65bd307a88ee9146c4c106c9485fbb.jpg"
-  },
-  {
-   "id": "20261029-chengda-halloween",
-   "title": "成大商圈萬聖嘉年華10月31日、11月1日登場，首度加入趣味運動會與踩街討糖",
-   "summary": "第11屆成大商圈萬聖嘉年華將在勝利路台南一中門口至大學路口舉行，今年首度推出趣味運動會。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-01T19:36:00+08:00",
-   "cities": [
-    "台南市"
-   ],
-   "districts": [
-    {
-     "name": "成大商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "中華新聞雲",
-     "url": "https://www.cdns.com.tw/articles/1483649",
-     "published_at": "2026-11-01T19:36:00+08:00"
-    },
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5622367",
-     "published_at": "2026-10-29T11:18:00+08:00"
-    }
-   ],
-   "admin_note": "成大商圈為115年補助名單，活動公開辦理，可作為執行佐證參考。",
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/01193613/T90052a-20261101152734346-0-1024x907.jpg"
-  },
-  {
-   "id": "20261101-xinyi-halloween-crowd",
-   "title": "信義商圈萬聖節變裝人潮湧入，松壽路酒吧街單夜人流破萬",
-   "summary": "信義商圈萬聖夜舉辦變裝派對吸引大批民眾，警方估計松壽路20巷一帶單夜人流逾萬，周邊也傳出行車糾紛與衝突。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-01T17:13:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "信義商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "民視新聞網",
-     "url": "https://news.ftv.com.tw/news/detail/2026B01S03M1",
-     "published_at": "2026-11-01T17:13:00+08:00"
-    },
-    {
-     "outlet": "FTNN 新聞網",
-     "url": "https://www.ftnn.com.tw/news/591958",
-     "published_at": "2026-11-01T14:20:00+08:00"
-    },
-    {
-     "outlet": "民視新聞網",
-     "url": "https://today.line.me/tw/v3/article/XYp5Bzl",
-     "published_at": "2026-11-01T11:34:00+08:00"
-    },
-    {
-     "outlet": "鏡報",
-     "url": "https://www.mirrordaily.news/story/94977",
-     "published_at": "2026-11-01T09:50:00+08:00"
-    }
-   ],
-   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/def.jpg"
   }
  ],
  "discussions": []

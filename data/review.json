@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-15T16:50:12+08:00",
+ "updated_at": "2026-11-15T20:56:28+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -51,6 +51,11 @@
    "decision": "kept",
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-14"
+  },
+  "https://ent.ltn.com.tw/news/breakingnews/5641549": {
+   "decision": "hidden",
+   "reason": "業配遊記",
+   "at": "2026-11-15"
   },
   "https://estate.ltn.com.tw/article/29207": {
    "decision": "hidden",
@@ -687,6 +692,11 @@
    "item": "20261112-gimme-xinyi",
    "at": "2026-11-14"
   },
+  "https://tw.news.yahoo.com/%E6%B8%B8%E6%B7%91%E8%B2%9E%E6%8F%90%E8%8A%B1%E8%93%AE%E8%88%8A%E5%9F%8E%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88%E7%AD%96%E7%95%A5-%E6%96%87%E5%8C%96%E6%B7%B1%E8%80%95-%E8%A7%80%E5%85%89%E5%B0%8E%E6%B5%81%E9%9B%99%E8%BB%8C%E4%B8%A6%E9%80%B2-095646247.html": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-15"
+  },
   "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E8%B3%8A%E6%BD%9B%E5%BE%8C%E5%8F%B0%E8%A1%8C%E7%AB%8A-30%E7%A7%92%E5%85%A7%E5%81%B7%E5%8C%85%E5%BE%97%E6%89%8B5%E8%90%AC-134700153.html": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -746,6 +756,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-11"
+  },
+  "https://udn.com/news/story/124652/9880107": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-15"
   },
   "https://udn.com/news/story/6898/9854836": {
    "decision": "hidden",
@@ -902,6 +917,11 @@
    "reason": "房地產",
    "at": "2026-11-10"
   },
+  "https://www.ctee.com.tw/news/20261112700407-431207": {
+   "decision": "kept",
+   "item": "20261110-moea-excellent-district-award",
+   "at": "2026-11-15"
+  },
   "https://www.ctwant.com/amp/article/505472/": {
    "decision": "hidden",
    "reason": "選舉",
@@ -971,6 +991,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-04"
+  },
+  "https://www.hsnews.com.tw/political-news/you-shu-zhen-ti-hua-lian-jiu-cheng-shang-quan-zhen-xing-ce-lue-wen-hua-shen-geng-guan-guang-dao-liu-shuang-gui-bing-jin-chuan-lian-da-yu-jie-jiu-tie-dao-yu-jin-san-jiao-shang-quan-tui-dong-ting-che-gai-shan-shu-wei-xing-xiao-ji-qing-chuang-zhuan-xing-rang-guan-guang-ren-chao-bian-xiao-fei-shang-ji.html": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-15"
   },
   "https://www.knews.com.tw/news/EA572948B8AD95168A10F9C6FAE89A53": {
    "decision": "hidden",
