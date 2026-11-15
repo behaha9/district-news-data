@@ -1,21 +1,50 @@
 {
- "fetched_at": "2026-11-15T22:52:18+08:00",
+ "fetched_at": "2026-11-16T07:17:05+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 72,
-  "kept": 20,
-  "resolved": 20,
-  "items": 18,
+  "raw": 67,
+  "kept": 21,
+  "resolved": 21,
+  "items": 20,
   "resolve_this_run": {
-   "online": 2
+   "online": 4
   },
   "dropped_old": [
-   "龍潭散散步：看大池、逛老街，到廟埕湊熱鬧 | 陳映霖 | 品味生活（原文日期 2026-09-05）",
-   "萬聖節人潮塞爆信義商圈！2車擦撞「狂冒白煙」 雙方駕駛下車火氣大（原文日期 2026-11-01）"
+   "龍潭散散步：看大池、逛老街，到廟埕湊熱鬧 | 陳映霖 | 品味生活（原文日期 2026-09-05）"
   ]
  },
  "items": [
+  {
+   "title": "重振花蓮市金三角商圈 游淑貞拋舊城漫遊廊帶",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmSXB1Y05jLTVfa04yd19TV1g5OXN6dlEyZGlmYTc5UGh3T1JJaEpDZ2RISzA2aFVnNFdxaXBkTFp6VVNiY0g3d2FCSThVQmJGWGRGcl9aU2IwVzFaT0FLSE9wX1R2VEhwWkkw?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-16T04:10+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/newspapers/20261116000499-260118",
+   "resolved": true
+  },
+  {
+   "title": "晚下班也能吃好鍋！黑毛屋插旗南京復興商圈開新店、營業至晚間11點搶攻宵夜商機",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SVDc4OEpiZnNySFI3YzZkTU16N3huNjIzTzExU3JRZ01UWTJ3ZDZmSWJDejAydk9CQVV0MHRhZEpERkhua0lMN2tuaU1iWnF6MkE?oc=5",
+   "source": "Zeek玩家誌",
+   "source_site": "https://zeekmagazine.com",
+   "published_at": "2026-11-15T22:37+08:00",
+   "query": "商圈",
+   "url": "https://zeekmagazine.com/archives/266545",
+   "resolved": true
+  },
+  {
+   "title": "游淑貞提舊城商圈振興策略",
+   "google_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcjFtTFg5ZE43QVBMdVlfZEo3bXJ2VnN1cUZwcXRNT2dtZFZmTVpGdzd4V0hKU05BZWtFS0hvQ2RtMG84N0p5RlRXMmlic3VRN3U5bC1IU1pOSXpqVTgwenNTTFpZdXo3VV9UOHJGckN5RExpWHlqb2RhY1lNTXUwM1hBR1p2WVJwWDgxM011dVg2eFpwb2tWTWYxUHg2M1dBN182X1RZc3NzdnJERGtvUmlEZ3hsbS1zSFBxNlcydERVUk9selRZU0duSXpzUDlxX19PSHBiN2Fab3VUWEt4aTZObw?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-15T21:26+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E6%B8%B8%E6%B7%91%E8%B2%9E%E6%8F%90%E8%88%8A%E5%9F%8E%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88%E7%AD%96%E7%95%A5-132619509.html",
+   "resolved": true
+  },
   {
    "title": "高雄市議員湯詠瑜：老商圈新風貌，環境更安全",
    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqb1RpRFNULVVnYklUTDV3LU5Tbzk1dVFYRkpQc1AzTG5vcHg2YllTWVowMlNKMzRETHhZVndTdVFIS3NhRnBWbDE4Rklic2UyaWfSAVJBVV95cUxQam9UaURTVC1VZ2JJVEw1dy1OU285NXVRWEZKUHNQM0xub3B4NmJZU1laMDJTSjM0REx4WVZ3U3VRSEtzYUZwVmwxOEZJYnNlMmln?oc=5",
@@ -47,13 +76,23 @@
    "resolved": true
   },
   {
-   "title": "游淑貞、魏嘉賢互攻對方本命區 游提振興商圈 魏喊玉里設第二行政中心",
+   "title": "互攻對方本命區 游淑貞提振興商圈、魏嘉賢喊玉里設第二行政中心",
    "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pY3d3N012QkZyVTRqNy1JYkh6Z3RlOGdpNThKdlBWVlo1YjBhSEMxdnFHZ1NjTjVmVS10WU83dVdzZjNQU2FxVVlaRzNwbE9SYnFJ0gFYQVVfeXFMT1FfcUV2bTlCbXNDcGQtZ2lkeVMzX0gxYktQT2V6YlpJcTd5MmVUTnFiVjBacVRnellfLVlpNndGeVNMa1otZXlsRGFQejdVT2twSTB0V0xhcw?oc=5",
    "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-11-15T16:49+08:00",
    "query": "商圈",
    "url": "https://udn.com/news/story/124652/9880107",
+   "resolved": true
+  },
+  {
+   "title": "互攻對方本命區游淑貞提振興商圈、魏嘉賢喊玉里設第二行政中心| 2026九合一選舉",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBidlE4U3o0MGoyN0F3T0k3amtoTEtYRVFvSWdlZXFEZXJKZl9IZjNFeGFlbjIwbjl2SnpRaUQ5U2ZaV05UUGt2YUJYVUZtdXc1TmJjdjFoUUM?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
+   "published_at": "2026-11-15T16:49+08:00",
+   "query": "老街",
+   "url": "https://udn.com/vote2026/story/124652/9880107",
    "resolved": true
   },
   {
@@ -174,26 +213,6 @@
    "published_at": "2026-11-14T07:31+08:00",
    "query": "商圈",
    "url": "https://ccss3172.blogspot.com/2026/11/3_02124316980.html",
-   "resolved": true
-  },
-  {
-   "title": "中原商圈知名牛排館將熄燈！在地經營30年…業者發道別文、老顧客不捨",
-   "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nYXpCZE9tdU5adEVHZVREUXFROEJLQmZidXR6UzFwWEozemdpblhxWTlrc19lZmk5UnQxQ1hSSFhyTy1KRndzN9IBTEFVX3lxTE9WU3pDb3pkXzlSVDNtTEw4RlQ1RVpWRzBKN3RQN3ZFN1NQekR4SzRZanVRY1VUQTZ6azlCUGlKZy0yZGI2VU1YU1VpRno?oc=5",
-   "source": "三立新聞網SETN.com",
-   "source_site": "https://www.setn.com",
-   "published_at": "2026-11-14T07:09+08:00",
-   "query": "商圈",
-   "url": "https://www.setn.com/news/1938755",
-   "resolved": true
-  },
-  {
-   "title": "萬華萬家福商圈機能佳| 區域觀測站",
-   "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdlJGWjZkZmNWWWExUGlvU2tndktVOXBvYWZfdkZZdHhWV2RkTWltS0dCbXhCcUVTYWdScEdNTV9uQnZsM2x5M2lpRnFuYms4TlYwVlkwTURCbTZnYVJkeTFvdFlocERSXzRmTnZ5WU1JUjd3Q2N0cmdDUkI1YmJ1d2I5OA?oc=5",
-   "source": "udn房地產",
-   "source_site": "https://house.udn.com",
-   "published_at": "2026-11-14T01:30+08:00",
-   "query": "商圈",
-   "url": "https://house.udn.com/house/story/123590/9877486?from=udn-indexnewnews_ch1025",
    "resolved": true
   }
  ]
