@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-15T09:07:46+08:00",
- "generated_at": "2026-11-15T09:07:46+08:00",
+ "fetched_at": "2026-11-15T12:17:06+08:00",
+ "generated_at": "2026-11-15T12:17:06+08:00",
  "window": "7d",
- "event_count": 103,
- "article_count": 169,
+ "event_count": 104,
+ "article_count": 170,
  "items": [
   {
    "url": "https://n.yam.com/Article/20261114882149",
@@ -28,6 +28,14 @@
     "台北市",
     "宜蘭縣"
    ]
+  },
+  {
+   "url": "https://www.myhousing.com.tw/mediapartner/i-news/306203/",
+   "title": "中市7期商圈導入智慧行人警示系統 地面紅燈提醒駕駛注意行人",
+   "source": "住展雜誌",
+   "published_at": "2026-11-14T07:35:00+08:00",
+   "event_key": "art:170c6173e2d4719f4d91c0a18c90aeed61f6a839cf6c4dcc764e71b029dd14f1",
+   "primary": true
   },
   {
    "url": "https://ccss3172.blogspot.com/2026/11/3_02124316980.html",
@@ -100,6 +108,20 @@
    "primary": true
   },
   {
+   "url": "https://today.line.me/tw/v3/article/kEpVPVL",
+   "title": "總統盃街舞大賽11/14決戰凱道!串聯臺北榮町商圈「集點送禮」300份好禮等你拿 | TSNA",
+   "source": "LINE TODAY",
+   "published_at": "2026-11-13T18:49:00+08:00",
+   "event_key": "art:5d03264f3582f7a192fae68d74a9086e5bb1e7657110877914cdc71a9b3953c5",
+   "primary": true,
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    "榮町商圈"
+   ]
+  },
+  {
    "url": "https://news.tvbs.com.tw/life/4050252",
    "title": "中壢人共同回憶!中原商圈30年老店「米老鼠牛排館」11/15熄燈",
    "source": "TVBS新聞網",
@@ -108,11 +130,11 @@
    "primary": true
   },
   {
-   "url": "https://today.line.me/tw/v3/article/kEpVPVL",
-   "title": "總統盃街舞大賽11/14決戰凱道!串聯臺北榮町商圈「集點送禮」300份好禮等你拿 | TSNA",
-   "source": "LINE TODAY",
-   "published_at": "2026-11-13T18:37:00+08:00",
-   "event_key": "art:66066cfb284a35c15978469542758fde1f931ebb9220edcff7e8ab9d0024ab04",
+   "url": "https://tw.news.yahoo.com/%E7%B8%BD%E7%B5%B1%E7%9B%83%E8%A1%97%E8%88%9E%E5%A4%A7%E8%B3%BD11-14%E6%B1%BA%E6%88%B0%E5%87%B1%E9%81%93-%E4%B8%B2%E8%81%AF%E8%87%BA%E5%8C%97%E6%A6%AE%E7%94%BA%E5%95%86%E5%9C%88-%E9%9B%86%E9%BB%9E%E9%80%81%E7%A6%AE-300%E4%BB%BD%E5%A5%BD%E7%A6%AE%E7%AD%89%E4%BD%A0%E6%8B%BF-102047970.html",
+   "title": "​總統盃街舞大賽11/14決戰凱道!串聯臺北榮町商圈「集點送禮」300份好禮等你拿",
+   "source": "Yahoo新聞",
+   "published_at": "2026-11-13T18:20:00+08:00",
+   "event_key": "art:5d03264f3582f7a192fae68d74a9086e5bb1e7657110877914cdc71a9b3953c5",
    "primary": false,
    "cities": [
     "台北市"
@@ -126,21 +148,7 @@
    "title": "總統盃街舞大賽11/14決戰凱道!串聯臺北榮町商圈「集點送禮」300份好禮等你拿- 綜合",
    "source": "TSNA體育新聞團隊",
    "published_at": "2026-11-13T18:20:00+08:00",
-   "event_key": "art:66066cfb284a35c15978469542758fde1f931ebb9220edcff7e8ab9d0024ab04",
-   "primary": true,
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    "榮町商圈"
-   ]
-  },
-  {
-   "url": "https://tw.news.yahoo.com/%E7%B8%BD%E7%B5%B1%E7%9B%83%E8%A1%97%E8%88%9E%E5%A4%A7%E8%B3%BD11-14%E6%B1%BA%E6%88%B0%E5%87%B1%E9%81%93-%E4%B8%B2%E8%81%AF%E8%87%BA%E5%8C%97%E6%A6%AE%E7%94%BA%E5%95%86%E5%9C%88-%E9%9B%86%E9%BB%9E%E9%80%81%E7%A6%AE-300%E4%BB%BD%E5%A5%BD%E7%A6%AE%E7%AD%89%E4%BD%A0%E6%8B%BF-102047970.html",
-   "title": "​總統盃街舞大賽11/14決戰凱道!串聯臺北榮町商圈「集點送禮」300份好禮等你拿",
-   "source": "Yahoo新聞",
-   "published_at": "2026-11-13T18:20:00+08:00",
-   "event_key": "art:66066cfb284a35c15978469542758fde1f931ebb9220edcff7e8ab9d0024ab04",
+   "event_key": "art:5d03264f3582f7a192fae68d74a9086e5bb1e7657110877914cdc71a9b3953c5",
    "primary": false,
    "cities": [
     "台北市"
@@ -268,11 +276,13 @@
    "title": "宜蘭商圈滷味攤爆衝突!2男怒圍毆拖行1男",
    "source": "鏡週刊Mirror Media",
    "published_at": "2026-11-13T10:18:00+08:00",
-   "event_key": "art:96175435f3e91e7a8f02b9389034851458f16deba0eb82d50f64100635024469",
-   "primary": true,
+   "event_key": "art:44bd4d64873928055936206556fa009c0e730941e6a583917604b0a374b61ffc",
+   "primary": false,
+   "summary": "宜蘭大學神農商圈某滷味攤12日晚間驚傳暴力衝突,張姓與朱姓男子疑似因排隊買滷味與許姓男子發生口角,雙方當街大打出手。許男遭2人聯手圍毆並倒地拖行,造成全身受傷送醫。警方獲報後於3小時內逮獲涉案張男及朱男女友,但朱男為通緝犯仍在逃,警方正全力追緝中,全案依傷害等罪嫌移送法辦。",
    "cities": [
     "宜蘭縣"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://www.ctee.com.tw/news/20261113700662-431401",
@@ -319,23 +329,20 @@
    ]
   },
   {
-   "url": "https://news.houseprice.tw/12913/",
-   "title": "板新商圈新地標!最大捷運開發案開工 侯友宜:軌道經濟翻轉城市風貌",
-   "source": "5168實價登錄比價王",
-   "published_at": "2026-11-13T09:00:00+08:00",
-   "event_key": "art:d2218df3f5dc34e901980fd552bd80e4f2ea018dfcf8d35c23db8f86be5ae4f4",
-   "primary": true
-  },
-  {
    "url": "https://truemii.chinatimes.com/content/20261113000005-265001",
    "title": "新北市長候選人聚焦山海、河岸、文化與商圈活化考驗跨區整合與業者參與- 瘋台灣",
    "source": "觸mii",
    "published_at": "2026-11-13T09:00:00+08:00",
-   "event_key": "art:cd26c124c05a407d8948af8a94054e7cf6d1bcc837b040023fd51c35ec7f6526",
-   "primary": true,
-   "cities": [
-    "新北市"
-   ]
+   "event_key": "archive:b968900d105cd066",
+   "primary": true
+  },
+  {
+   "url": "https://news.houseprice.tw/12913/",
+   "title": "板新商圈新地標!最大捷運開發案開工 侯友宜:軌道經濟翻轉城市風貌",
+   "source": "5168實價登錄比價王",
+   "published_at": "2026-11-13T09:00:00+08:00",
+   "event_key": "archive:f64a0f9f7754549b",
+   "primary": true
   },
   {
    "url": "https://www.cdns.com.tw/articles/1489888",
@@ -352,8 +359,8 @@
    "title": "中市7期商圈導入智慧行人警示系統 地面紅燈提醒駕駛注意行人",
    "source": "蕃新聞",
    "published_at": "2026-11-13T08:04:00+08:00",
-   "event_key": "art:2fb1c1bb2a9fd0f7f702dec867b8ae2e1824cd8fc58b9faafd38c4f6b186946b",
-   "primary": false,
+   "event_key": "archive:c53710a438193c29",
+   "primary": true,
    "summary": "智慧行人友善設施-新光遠百公車專用道地嵌式警示燈及投射式紅綠燈。(圖/台中市政府提供) 台中市政府交通局為行人安全再添科技助力!近來很多到新光三越、大遠百商圈周邊消費、觀光的民眾,發現台灣大道與惠來路口地面也會發出紅綠燈訊號。市府交通局長葉昭甫表示,這套「智慧行人安全警示系統」,結合AI智慧攝影機、地嵌式警示燈及投射式",
    "date_only": true
   },
@@ -384,11 +391,13 @@
    "title": "宜蘭商圈滷味攤爆衝突!2男怒圍毆拖行1男",
    "source": "鏡週刊",
    "published_at": "2026-11-13T02:18:00+08:00",
-   "event_key": "art:96175435f3e91e7a8f02b9389034851458f16deba0eb82d50f64100635024469",
-   "primary": false,
+   "event_key": "art:44bd4d64873928055936206556fa009c0e730941e6a583917604b0a374b61ffc",
+   "primary": true,
+   "summary": "宜蘭大學神農商圈某滷味攤12日晚間驚傳暴力衝突,張姓與朱姓男子疑似因排隊買滷味與許姓男子發生口角,雙方當街大打出手。許男遭2人聯手圍毆並倒地拖行,造成全身受傷送醫。警方獲報後於3小時內逮獲涉案張男及朱男女友,但朱男為通緝犯仍在逃,警方正全力追緝中,全案依傷害等罪嫌移送法辦。",
    "cities": [
     "宜蘭縣"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://media.posu.tw/uninews_view.php?new_sn=149369",
@@ -411,18 +420,10 @@
    "title": "中市7期商圈導入智慧行人警示系統 地面紅燈提醒駕駛注意行人",
    "source": "more-news",
    "published_at": "2026-11-13T00:00:00+08:00",
-   "event_key": "art:2fb1c1bb2a9fd0f7f702dec867b8ae2e1824cd8fc58b9faafd38c4f6b186946b",
-   "primary": true,
+   "event_key": "archive:c53710a438193c29",
+   "primary": false,
    "summary": "智慧行人友善設施-新光遠百公車專用道地嵌式警示燈及投射式紅綠燈。(圖/台中市政府提供) 台中市政府交通局為行人安全再添科技助力!近來很多到新光三越、大遠百商圈周邊消費、觀光的民眾,發現台灣大道與惠來路口地面也會發出紅綠燈訊號。市府交通局長葉昭甫表示,這套「智慧行人安全警示系統」,結合AI智慧攝影機、地嵌式警示燈及投射式",
    "date_only": true
-  },
-  {
-   "url": "https://n.yam.com/Article/20261113345041",
-   "title": "板橋最大捷運開發案板新站開工 侯友宜預期打造板新商圈新地標",
-   "source": "蕃新聞・地方",
-   "published_at": "2026-11-13T00:00:00+08:00",
-   "event_key": "art:e6696eb76c8507fb02fdf79b8f012d35314875594fffa199882e371a9386ffdc",
-   "primary": true
   },
   {
    "url": "https://www.chinatimes.com/newspapers/20261113000682-260107",
@@ -438,16 +439,21 @@
    "date_only": true
   },
   {
+   "url": "https://n.yam.com/Article/20261113345041",
+   "title": "板橋最大捷運開發案板新站開工 侯友宜預期打造板新商圈新地標",
+   "source": "蕃新聞・地方",
+   "published_at": "2026-11-13T00:00:00+08:00",
+   "event_key": "archive:b9c0e23a27fa6edf",
+   "primary": true
+  },
+  {
    "url": "https://news.tvbs.com.tw/life/4049835",
    "title": "板新商圈新地標!板橋最大捷運開發案開工,侯友宜:新北軌道經濟發展 帶動商業動能",
    "source": "TVBS新聞網",
    "published_at": "2026-11-12T23:34:00+08:00",
-   "event_key": "art:5d4f17b5c4c0c0372a1900477045d026d91b20615c9f63784996fb4d74d8d2ad",
-   "primary": false,
-   "summary": "新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投資人團隊馥華集團副董事長陳光憲等人,共同祈福祝禱,祈求工程順利圓滿。 《詳全文...》",
-   "cities": [
-    "新北市"
-   ]
+   "event_key": "archive:34657ad8fbecbe43",
+   "primary": true,
+   "summary": "新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投資人團隊馥華集團副董事長陳光憲等人,共同祈福祝禱,祈求工程順利圓滿。 《詳全文...》"
   },
   {
    "url": "https://news.tvbs.com.tw/videos/d1o9D3wtqU4",
@@ -511,14 +517,6 @@
    "published_at": "2026-11-12T21:33:00+08:00",
    "event_key": "archive:686ec8868152c696",
    "primary": false
-  },
-  {
-   "url": "https://www.ettoday.net/news/20261112/3271243.htm",
-   "title": "蔣萬安掃公館商圈藍粉憂「人還不夠多」 民眾指人氣小輸沈伯洋",
-   "source": "ETtoday新聞雲",
-   "published_at": "2026-11-12T21:11:00+08:00",
-   "event_key": "archive:9f0bc6435c9c02fe",
-   "primary": true
   },
   {
    "url": "https://art.ltn.com.tw/article/breakingnews/5638955",
@@ -610,8 +608,8 @@
    "title": "基隆委託行商圈榮獲「2026全國卓越商圈獎」亮點觀光獎",
    "source": "LIFE 生活網",
    "published_at": "2026-11-12T17:40:00+08:00",
-   "event_key": "art:b7e92cf2ac30fd3f9b600f5f0fdc19d08df2ed7732091de0103dc2c28967bd81",
-   "primary": true,
+   "event_key": "art:c154a8981b243de1101e7b193bb8f4f5610c5b49f7cbf30c8e9ddf52e66adc05",
+   "primary": false,
    "summary": "經濟部商業發展署於11月10日在臺北凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部長龔明鑫親自頒獎。今年全國共有36個商圈獲地方政府推薦參選,最終選出20處卓越商圈。其中,基隆市委託行商圈榮獲「亮點觀光獎」,展現商圈在歷史文化保存、特色觀光營造、在地產業串聯及智慧旅遊創新上的努力成果,讓基隆傳統街區的文化價",
    "cities": [
     "基隆市"
@@ -709,12 +707,9 @@
    "title": "板新商圈新地標!板橋最大捷運開發案開工 侯友宜:新北軌道經濟發展帶動商業動能",
    "source": "ETtoday新聞雲・地方",
    "published_at": "2026-11-12T15:48:00+08:00",
-   "event_key": "art:5d4f17b5c4c0c0372a1900477045d026d91b20615c9f63784996fb4d74d8d2ad",
-   "primary": true,
-   "summary": "新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投資人團隊馥華集團副董事長陳光憲等人,共同祈福祝禱,祈求工程順利圓滿。 《詳全文...》",
-   "cities": [
-    "新北市"
-   ]
+   "event_key": "archive:34657ad8fbecbe43",
+   "primary": false,
+   "summary": "新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投資人團隊馥華集團副董事長陳光憲等人,共同祈福祝禱,祈求工程順利圓滿。 《詳全文...》"
   },
   {
    "url": "https://www.taiwanhot.net/news/1153914/%E6%A1%83%E5%9C%92%E5%95%86%E6%A5%AD%E8%BD%89%E5%9E%8B%E4%B8%AD%E5%BF%83%E4%B8%89%E5%B9%B4%E6%9C%89%E6%88%90+%E8%98%87%E4%BF%8A%E8%B3%93%EF%BC%9A%E6%96%B0%E7%A9%8E%E8%88%87%E5%82%B3%E7%B5%B1%E5%85%BC%E5%AE%B9%E5%B1%95%E7%A4%BA%E5%95%86%E5%9C%88%E5%9C%A8%E5%9C%B0%E7%89%B9%E8%89%B2",
@@ -742,27 +737,7 @@
    "title": "欣食旅新品牌「GIMME」進軍信義商圈",
    "source": "UDN",
    "published_at": "2026-11-12T14:26:00+08:00",
-   "event_key": "art:87fdcbeacaa5a52430b7161074733ff30fb35b2c651c2b60270e4a1f92a754ac",
-   "primary": false,
-   "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
-   "date_only": true
-  },
-  {
-   "url": "https://udn.com/news/story/7270/9874375",
-   "title": "欣食旅新品牌「GIMME」進軍信義商圈",
-   "source": "聯合新聞網",
-   "published_at": "2026-11-12T14:25:00+08:00",
-   "event_key": "art:87fdcbeacaa5a52430b7161074733ff30fb35b2c651c2b60270e4a1f92a754ac",
-   "primary": true,
-   "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
-   "date_only": true
-  },
-  {
-   "url": "https://udn.com/news/story/7241/9874375",
-   "title": "欣食旅新品牌「GIMME」進軍信義商圈",
-   "source": "聯合新聞網",
-   "published_at": "2026-11-12T14:25:00+08:00",
-   "event_key": "art:87fdcbeacaa5a52430b7161074733ff30fb35b2c651c2b60270e4a1f92a754ac",
+   "event_key": "art:d2e53db4b8f87e71664dd6f236156b8cfc021896648dcc89335a27fb67242d7b",
    "primary": false,
    "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
    "date_only": true
@@ -772,7 +747,27 @@
    "title": "欣食旅新品牌「GIMME」進軍信義商圈",
    "source": "經濟日報",
    "published_at": "2026-11-12T14:25:00+08:00",
-   "event_key": "art:87fdcbeacaa5a52430b7161074733ff30fb35b2c651c2b60270e4a1f92a754ac",
+   "event_key": "art:d2e53db4b8f87e71664dd6f236156b8cfc021896648dcc89335a27fb67242d7b",
+   "primary": true,
+   "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
+   "date_only": true
+  },
+  {
+   "url": "https://udn.com/news/story/7270/9874375",
+   "title": "欣食旅新品牌「GIMME」進軍信義商圈",
+   "source": "聯合新聞網",
+   "published_at": "2026-11-12T14:25:00+08:00",
+   "event_key": "art:d2e53db4b8f87e71664dd6f236156b8cfc021896648dcc89335a27fb67242d7b",
+   "primary": false,
+   "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
+   "date_only": true
+  },
+  {
+   "url": "https://udn.com/news/story/7241/9874375",
+   "title": "欣食旅新品牌「GIMME」進軍信義商圈",
+   "source": "聯合新聞網",
+   "published_at": "2026-11-12T14:25:00+08:00",
+   "event_key": "art:d2e53db4b8f87e71664dd6f236156b8cfc021896648dcc89335a27fb67242d7b",
    "primary": false,
    "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
    "date_only": true
@@ -795,8 +790,8 @@
    "title": "板新商圈新地標! 板橋最大捷運開發案動土2030年完工",
    "source": "民眾新聞網",
    "published_at": "2026-11-12T13:25:00+08:00",
-   "event_key": "art:31f72474dfc96ea1b38fa38d54b37d9f7767e7ae0983889236b3f87e7069f57e",
-   "primary": false,
+   "event_key": "archive:4429fb2538741813",
+   "primary": true,
    "summary": "新北環狀線2020年通車以來,運量穩定成長,2025年年運量突破2200萬,今年每月運量達200萬人次,已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投",
    "date_only": true
   },
@@ -805,7 +800,7 @@
    "title": "板新商圈新地標! 板橋最大捷運開發案動土2030年完工",
    "source": "商傳媒",
    "published_at": "2026-11-12T13:24:00+08:00",
-   "event_key": "art:31f72474dfc96ea1b38fa38d54b37d9f7767e7ae0983889236b3f87e7069f57e",
+   "event_key": "archive:4429fb2538741813",
    "primary": false,
    "summary": "新北環狀線2020年通車以來,運量穩定成長,2025年年運量突破2200萬,今年每月運量達200萬人次,已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投",
    "date_only": true
@@ -831,7 +826,7 @@
    "title": "雄獅集團展食力欣食旅新品牌「GIMME」進軍信義商圈- 產業",
    "source": "工商時報",
    "published_at": "2026-11-12T12:36:00+08:00",
-   "event_key": "art:87fdcbeacaa5a52430b7161074733ff30fb35b2c651c2b60270e4a1f92a754ac",
+   "event_key": "art:d2e53db4b8f87e71664dd6f236156b8cfc021896648dcc89335a27fb67242d7b",
    "primary": false,
    "summary": "雄獅集團跨足生活產業生態圈,旗下餐飲事業欣食旅持續擴大健康餐飲版圖,全新品牌「GIMME」於12日在信義商圈新光三越A8館正式開幕,品牌名稱「GIMME」靈感取自日常口語中的「Give me」傳達「Gimme more healthy food」、「Gimme more good stuff」與「Gimme somet",
    "date_only": true
@@ -841,7 +836,7 @@
    "title": "板橋最大捷開案開工 侯友宜:投資逾60億打造板新商圈新地標",
    "source": "聯合新聞網",
    "published_at": "2026-11-12T12:23:00+08:00",
-   "event_key": "art:e0463b14388f0263c08d91c8eb12b27d9ae68a7587c6a4341445797febabb7b7",
+   "event_key": "archive:9f6ba97edec1680b",
    "primary": true,
    "summary": "新北市長侯友宜今天出席「新北環狀線板新站捷運開發案」開工祈福典禮,率領新北市政府捷運工程局團隊,與投資人馥華集團副董事長陳光憲、執行董事游伯湖等人共同焚香祝禱,祈求工程順利圓滿。此案為板橋區規模最大的捷運開發案,預計投資金額高達60.4億元,不僅象徵新北軌道經濟邁入全新里程碑,更將為周邊地區注入強勁的商業與生活動能。",
    "date_only": true
@@ -851,8 +846,8 @@
    "title": "板新商圈新地標!板橋最大捷運開發案開工",
    "source": "中央社",
    "published_at": "2026-11-12T11:50:00+08:00",
-   "event_key": "art:31f72474dfc96ea1b38fa38d54b37d9f7767e7ae0983889236b3f87e7069f57e",
-   "primary": true,
+   "event_key": "archive:4429fb2538741813",
+   "primary": false,
    "summary": "新北環狀線2020年通車以來,運量穩定成長,2025年年運量突破2200萬,今年每月運量達200萬人次,已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投",
    "date_only": true
   },
@@ -877,7 +872,7 @@
    "title": "2026全國卓越商圈獎展現臺灣商圈魅力 20處特色商圈脫穎而出",
    "source": "經濟日報",
    "published_at": "2026-11-12T10:04:00+08:00",
-   "event_key": "art:9f6ba4a4c66991a216e10ea75eab6578eff2243fc0907b40234e73ffa0d4c9c9",
+   "event_key": "archive:9c6605e735b5cce3",
    "primary": true,
    "summary": "經濟部商業發展署10日凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。 商業署表示,每一處商圈都有屬於自己的故事,無論是歷史文化的傳承、",
    "date_only": true
@@ -887,8 +882,8 @@
    "title": "基隆委託行商圈榮獲「2026全國卓越商圈獎」亮點觀光獎",
    "source": "more-news",
    "published_at": "2026-11-12T09:40:00+08:00",
-   "event_key": "art:b7e92cf2ac30fd3f9b600f5f0fdc19d08df2ed7732091de0103dc2c28967bd81",
-   "primary": false,
+   "event_key": "art:c154a8981b243de1101e7b193bb8f4f5610c5b49f7cbf30c8e9ddf52e66adc05",
+   "primary": true,
    "summary": "經濟部商業發展署於11月10日在臺北凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部長龔明鑫親自頒獎。今年全國共有36個商圈獲地方政府推薦參選,最終選出20處卓越商圈。其中,基隆市委託行商圈榮獲「亮點觀光獎」,展現商圈在歷史文化保存、特色觀光營造、在地產業串聯及智慧旅遊創新上的努力成果,讓基隆傳統街區的文化價",
    "cities": [
     "基隆市"
@@ -921,7 +916,7 @@
    "title": "板新商圈新地標!板橋最大捷運開發案開工",
    "source": "翻爆",
    "published_at": "2026-11-12T08:53:00+08:00",
-   "event_key": "art:31f72474dfc96ea1b38fa38d54b37d9f7767e7ae0983889236b3f87e7069f57e",
+   "event_key": "archive:4429fb2538741813",
    "primary": false,
    "summary": "新北環狀線2020年通車以來,運量穩定成長,2025年年運量突破2200萬,今年每月運量達200萬人次,已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投",
    "date_only": true
@@ -981,9 +976,19 @@
    "title": "板新商圈新地標! 板橋最大捷運開發案動土2030年完工",
    "source": "報新聞",
    "published_at": "2026-11-12T00:00:00+08:00",
-   "event_key": "art:31f72474dfc96ea1b38fa38d54b37d9f7767e7ae0983889236b3f87e7069f57e",
+   "event_key": "archive:4429fb2538741813",
    "primary": false,
    "summary": "新北環狀線2020年通車以來,運量穩定成長,2025年年運量突破2200萬,今年每月運量達200萬人次,已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展(TOD)及活化捷運場站周邊土地,板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工,由新北市長侯友宜率領捷運工程局,與投",
+   "date_only": true
+  },
+  {
+   "url": "https://www.ettoday.net/news/20261112/3271243.htm",
+   "title": "蔣萬安掃公館商圈藍粉憂「人還不夠多」 民眾指人氣小輸沈伯洋",
+   "source": "ETtoday新聞雲",
+   "published_at": "2026-11-12T00:00:00+08:00",
+   "event_key": "art:76a2082d4dc43b252110d70d6797e60f94df1dc12e9bb2a31db6d7c9ee5365f6",
+   "primary": true,
+   "summary": "九合一選戰倒數16天,台北市長蔣萬安今(12日)開始請假全力拚連任,整天行程滿檔,上午先掃文山區木柵市場,晚間又來到公館商圈拜票,雖然是平日晚間但現場吸引不少支持者跟隨。蔣萬安沿途向攤商拜票,對於民眾要求合照也來者不拒,還有許多家長帶小孩要蔣萬安抱抱。但據周遭曾參與過民進黨候選人沈伯洋到公館商圈拜票的民眾直言,今天的景",
    "date_only": true
   },
   {
@@ -991,7 +996,7 @@
    "title": "蔣萬安、沈伯洋今起請假衝了 蔣直搗公館商圈、沈中正紀念堂發順報",
    "source": "ETtoday新聞雲",
    "published_at": "2026-11-12T00:00:00+08:00",
-   "event_key": "art:d4e6c055468c2da47c191082302445c96c6f51fd03fccdfafcaa90568a6dcfac",
+   "event_key": "archive:e19532e637d0fb8b",
    "primary": true,
    "summary": "九合一選舉倒數16天,台北市長蔣萬安、民進黨台北市長候選人沈伯洋都在今(12日)請假,正式進入選戰最後衝刺。蔣萬安一早將從木柵市場拜票展開行程,隨後連趕多個活動,更將在晚間直搗洋流颳起旋風的公館商圈夜市。而沈伯洋也是行程排滿滿,一早將在非常具有象徵意義的中正紀念堂捷運站發送第三期順報,更將召開「台北隊」擴大會議,討論選",
    "date_only": true
@@ -1001,8 +1006,8 @@
    "title": "2026全國卓越商圈獎揭曉 20處特色商圈脫穎而出",
    "source": "ENN台灣電報",
    "published_at": "2026-11-11T21:06:00+08:00",
-   "event_key": "art:2c305769c5b61c1af17826d3712ae3a0a152a0af5e40ed1b765ef401970e217f",
-   "primary": false,
+   "event_key": "archive:e60cae96646b968c",
+   "primary": true,
    "summary": "經濟部商業發展署10日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎。今年自地方政府推薦的36個商圈中,評選出20處卓越商圈,透過表揚樹立標竿典範,鼓勵各地商圈交流學習,充分展現臺灣街區的多元特色與生命力。 經濟部龔明鑫部長出席 2026全國卓越商圈獎 頒獎典禮,肯定全臺商圈持續深耕地方",
    "date_only": true
   },
@@ -1043,8 +1048,8 @@
    "title": "2026全國卓越商圈獎揭曉 20處特色商圈脫穎而出",
    "source": "商傳媒",
    "published_at": "2026-11-11T20:10:00+08:00",
-   "event_key": "art:2c305769c5b61c1af17826d3712ae3a0a152a0af5e40ed1b765ef401970e217f",
-   "primary": true,
+   "event_key": "archive:e60cae96646b968c",
+   "primary": false,
    "summary": "經濟部商業發展署10日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎。今年自地方政府推薦的36個商圈中,評選出20處卓越商圈,透過表揚樹立標竿典範,鼓勵各地商圈交流學習,充分展現臺灣街區的多元特色與生命力。 經濟部龔明鑫部長出席 2026全國卓越商圈獎 頒獎典禮,肯定全臺商圈持續深耕地方",
    "date_only": true
   },
@@ -1077,7 +1082,7 @@
    "title": "影/鄭朝方遭爆上班搭公務車赴西門町飯店商圈 跨黨派轟濫用公帑",
    "source": "聯合新聞網",
    "published_at": "2026-11-11T17:07:00+08:00",
-   "event_key": "art:934483caa3dc6f67e049dde714574d13355e61cd392cf0ac2a531ff476a93480",
+   "event_key": "archive:c7b7c0caae17bf1b",
    "primary": true,
    "summary": "「還我乾淨竹縣聯盟」今舉行記者會,質疑民進黨新竹縣長候選人、竹北市長鄭朝方2023年上班時間搭公務車前往台北西門町飯店商圈,涉嫌公私不分、濫用行政資源,要求公開當天行程、行車紀錄及隨行人員派勤依據,釐清是否符合公務用途。鄭團隊、竹北市公所表示「無回應。」 ...",
    "date_only": true
@@ -1087,7 +1092,7 @@
    "title": "影/鄭朝方遭爆上班搭公務車赴西門町飯店商圈跨黨派轟濫用公帑| 時事",
    "source": "聯合影音",
    "published_at": "2026-11-11T17:07:00+08:00",
-   "event_key": "art:934483caa3dc6f67e049dde714574d13355e61cd392cf0ac2a531ff476a93480",
+   "event_key": "archive:c7b7c0caae17bf1b",
    "primary": false,
    "summary": "「還我乾淨竹縣聯盟」今舉行記者會,質疑民進黨新竹縣長候選人、竹北市長鄭朝方2023年上班時間搭公務車前往台北西門町飯店商圈,涉嫌公私不分、濫用行政資源,要求公開當天行程、行車紀錄及隨行人員派勤依據,釐清是否符合公務用途。鄭團隊、竹北市公所表示「無回應。」 ...",
    "date_only": true
@@ -1248,7 +1253,7 @@
    "title": "20處商圈獲頒全國卓越商圈獎",
    "source": "Yahoo奇摩新聞",
    "published_at": "2026-11-10T21:46:13+08:00",
-   "event_key": "art:8e146c182c1b140da89178f46cce1275e8ebac3302208802cd85951712658796",
+   "event_key": "archive:a3d06fdcb2cdcd51",
    "primary": true,
    "summary": "經濟部長龔明鑫昨(十)日主持「二○二六年全國卓越商圈獎頒獎典禮」,龔部長致詞肯定商圈組織及在地業者長期投入的努力與成果,今年計選出二十處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈相互交流學習,展現臺灣商圈豐富的特色與生命力。經濟部自二○二四年辦理「全國卓越商圈獎」,為創造觀光亮點,吸引國際旅客,發揚城市魅力,營造",
    "date_only": true
@@ -1297,9 +1302,11 @@
    "published_at": "2026-11-10T17:52:00+08:00",
    "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
    "primary": false,
+   "summary": "【今傳媒/記者李祖東報導】 ...",
    "cities": [
     "高雄市"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124528",
@@ -1398,7 +1405,7 @@
    "title": "最新》蔣萬安合體張善政掃延三! 石舫亘攻石牌商圈@newsebc",
    "source": "EBC 東森新聞",
    "published_at": "2026-11-10T12:39:53+08:00",
-   "event_key": "art:45b42bd54a9be2706319c96efd811ae8622c4d6fbdfd61c00917fa4eb4f80100",
+   "event_key": "archive:b1fac55bc7b388af",
    "primary": true,
    "summary": "首都選戰倒數,台北市長蔣萬安,與桃園市長張善政,今天(10)晚間在延三夜市合體掃街,而他的夫人石舫亘,則到北投石牌商圈拜票,最新狀況連線記者張詠詠。#蔣萬安 #張善政 #延三夜市 #合體掃街 #石舫亘 #北投石牌商圈 #拜票 ...",
    "date_only": true
@@ -1502,24 +1509,28 @@
   {
    "url": "https://n.yam.com/Article/20261110673921",
    "title": "2026高雄聖誕生活節11/13浪漫登場! 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
-   "source": "蕃新聞・生活",
+   "source": "蕃新聞",
    "published_at": "2026-11-10T00:00:00+08:00",
    "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
    "primary": true,
+   "summary": "【今傳媒/記者李祖東報導】 ...",
    "cities": [
     "高雄市"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://n.yam.com/Article/20261110352167",
    "title": "2026高雄聖誕生活節11/13浪漫登場 五週末「耶誕小鎮」接力開逛 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
-   "source": "蕃新聞・生活",
+   "source": "蕃新聞",
    "published_at": "2026-11-10T00:00:00+08:00",
    "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
    "primary": false,
+   "summary": "【今傳媒/記者李祖東報導】 ...",
    "cities": [
     "高雄市"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://mknews.com.tw/2026/11/1016120/",
@@ -1528,9 +1539,11 @@
    "published_at": "2026-11-10T00:00:00+08:00",
    "event_key": "art:a913f8bbda16899e9f27a782b75378f46e19d1ffc66c0e836739911c44753276",
    "primary": false,
+   "summary": "【今傳媒/記者李祖東報導】 ...",
    "cities": [
     "高雄市"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://n.yam.com/Article/20261110662902",
@@ -1575,16 +1588,18 @@
   {
    "url": "https://udn.com/news/story/7325/9867344",
    "title": "占用騎樓遭限期拆除!一中商圈黃金店面爆整棟違建 台中都發局發聲了",
-   "source": "聯合新聞網・地方",
+   "source": "聯合新聞網",
    "published_at": "2026-11-09T17:53:00+08:00",
    "event_key": "art:55cc0992bafe26ecb3df34b113916d03af068f2a27b7505e0298d0a7f8fad5fb",
    "primary": true,
+   "summary": "台中市一中商圈太平路32號黃金三角窗店面,近日遭爆是長達30多年的整棟既存違建,且新承租戶仍在趕工裝潢。對此,台中市都發局說明,針對該建物未申請執照擅自興建部分已交由區公所查報;至於檢舉後現場仍持續施工一事,都發局今天下午實地會勘,查獲裝潢增建已「占用並封閉騎樓」,已於現場當場制止,並限期要求拆除改善。",
    "cities": [
     "台中市"
    ],
    "districts": [
     "一中街商圈"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://udn.com/news/amp/story/7325/9867344",
@@ -1593,12 +1608,14 @@
    "published_at": "2026-11-09T17:53:00+08:00",
    "event_key": "art:55cc0992bafe26ecb3df34b113916d03af068f2a27b7505e0298d0a7f8fad5fb",
    "primary": false,
+   "summary": "台中市一中商圈太平路32號黃金三角窗店面,近日遭爆是長達30多年的整棟既存違建,且新承租戶仍在趕工裝潢。對此,台中市都發局說明,針對該建物未申請執照擅自興建部分已交由區公所查報;至於檢舉後現場仍持續施工一事,都發局今天下午實地會勘,查獲裝潢增建已「占用並封閉騎樓」,已於現場當場制止,並限期要求拆除改善。",
    "cities": [
     "台中市"
    ],
    "districts": [
     "一中街商圈"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://house.udn.com/house/story/123590/9867344",
@@ -1607,19 +1624,21 @@
    "published_at": "2026-11-09T17:53:00+08:00",
    "event_key": "art:55cc0992bafe26ecb3df34b113916d03af068f2a27b7505e0298d0a7f8fad5fb",
    "primary": false,
+   "summary": "台中市一中商圈太平路32號黃金三角窗店面,近日遭爆是長達30多年的整棟既存違建,且新承租戶仍在趕工裝潢。對此,台中市都發局說明,針對該建物未申請執照擅自興建部分已交由區公所查報;至於檢舉後現場仍持續施工一事,都發局今天下午實地會勘,查獲裝潢增建已「占用並封閉騎樓」,已於現場當場制止,並限期要求拆除改善。",
    "cities": [
     "台中市"
    ],
    "districts": [
     "一中街商圈"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://www.scooptw.com/cnews/551856/%e6%9d%b1%e5%8d%80%e9%80%b1%e5%b9%b4%e6%85%b6%e7%9b%9b%e5%a4%a7%e9%96%8b%e8%b7%91%e3%80%80%e6%b0%b8%e6%85%b6%e6%88%bf%e7%94%a2%e9%9b%86%e5%9c%98%e5%8a%9b%e6%8c%ba%e5%95%86%e5%9c%88%e6%8c%af%e8%88%88/",
    "title": "東區週年慶盛大開跑 永慶房產集團力挺商圈振興注入人潮",
    "source": "SCOOP",
    "published_at": "2026-11-09T16:32:00+08:00",
-   "event_key": "art:603de8e34861727a26467de25f1c9eea006e6cf4b2e588e99b7bba41741a0524",
+   "event_key": "archive:c359caa774622fe9",
    "primary": true,
    "summary": "CNEWS匯流新聞網記者呂雅婷、李衣綸/台北報導 年度消費盛事「2026東區週年慶」即日起至11月22日熱鬧登場。本次活動串聯超過140間東區特約店家與各大百貨業者,攜手打造豐富的購物體驗。民眾於活動期間在特約店家單筆消費滿額,即可獲得摸彩券參與抽獎,有機會獲得最新款智慧型手機等總獎值超過百萬元的千項好禮。在地深耕的房",
    "date_only": true
@@ -1629,7 +1648,7 @@
    "title": "東區週年慶盛大開跑 永慶房產集團力挺商圈振興注入人潮",
    "source": "蕃新聞",
    "published_at": "2026-11-09T16:12:00+08:00",
-   "event_key": "art:603de8e34861727a26467de25f1c9eea006e6cf4b2e588e99b7bba41741a0524",
+   "event_key": "archive:c359caa774622fe9",
    "primary": false,
    "summary": "CNEWS匯流新聞網記者呂雅婷、李衣綸/台北報導 年度消費盛事「2026東區週年慶」即日起至11月22日熱鬧登場。本次活動串聯超過140間東區特約店家與各大百貨業者,攜手打造豐富的購物體驗。民眾於活動期間在特約店家單筆消費滿額,即可獲得摸彩券參與抽獎,有機會獲得最新款智慧型手機等總獎值超過百萬元的千項好禮。在地深耕的房",
    "date_only": true
@@ -1639,7 +1658,7 @@
    "title": "東區週年慶盛大開跑 永慶房產集團力挺商圈振興注入人潮",
    "source": "匯流新聞網",
    "published_at": "2026-11-09T16:05:00+08:00",
-   "event_key": "art:603de8e34861727a26467de25f1c9eea006e6cf4b2e588e99b7bba41741a0524",
+   "event_key": "archive:c359caa774622fe9",
    "primary": false,
    "summary": "CNEWS匯流新聞網記者呂雅婷、李衣綸/台北報導 年度消費盛事「2026東區週年慶」即日起至11月22日熱鬧登場。本次活動串聯超過140間東區特約店家與各大百貨業者,攜手打造豐富的購物體驗。民眾於活動期間在特約店家單筆消費滿額,即可獲得摸彩券參與抽獎,有機會獲得最新款智慧型手機等總獎值超過百萬元的千項好禮。在地深耕的房",
    "date_only": true
@@ -1689,17 +1708,7 @@
    "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
    "source": "記者爆料網",
    "published_at": "2026-11-09T06:35:00+08:00",
-   "event_key": "art:347fbe64073131ede200366b5a5c9f2dca0b3185b544dc4a0b6ffe9234397ec9",
-   "primary": false,
-   "summary": "【Lai傳媒、記者爆料網/地方中心/綜合報導】 台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人",
-   "date_only": true
-  },
-  {
-   "url": "https://pronews.tw/2026/11/09/330178/",
-   "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
-   "source": "pronews",
-   "published_at": "2026-11-09T00:00:00+08:00",
-   "event_key": "art:347fbe64073131ede200366b5a5c9f2dca0b3185b544dc4a0b6ffe9234397ec9",
+   "event_key": "archive:7f5c56268761299c",
    "primary": true,
    "summary": "【Lai傳媒、記者爆料網/地方中心/綜合報導】 台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人",
    "date_only": true
@@ -1709,7 +1718,17 @@
    "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
    "source": "tcpttw",
    "published_at": "2026-11-09T00:00:00+08:00",
-   "event_key": "art:347fbe64073131ede200366b5a5c9f2dca0b3185b544dc4a0b6ffe9234397ec9",
+   "event_key": "archive:7f5c56268761299c",
+   "primary": false,
+   "summary": "【Lai傳媒、記者爆料網/地方中心/綜合報導】 台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人",
+   "date_only": true
+  },
+  {
+   "url": "https://pronews.tw/2026/11/09/330178/",
+   "title": "東海商圈爆街頭衝突!轎車停店門口惹糾紛 2人當街爆發肢體拉扯",
+   "source": "pronews",
+   "published_at": "2026-11-09T00:00:00+08:00",
+   "event_key": "archive:7f5c56268761299c",
    "primary": false,
    "summary": "【Lai傳媒、記者爆料網/地方中心/綜合報導】 台中市東海商圈近日發生街頭衝突事件,有網友在社群平台Threads分享影片,指出疑似有汽車停在店家門口,隨後引發雙方糾紛,兩人甚至當街發生肢體衝突,過程被民眾拍下上傳,引起網友關注。 從網友公開的影片可見,一輛白色自小客車停在店家前方,現場有多名民眾及機車經過,兩名當事人",
    "date_only": true
@@ -1719,7 +1738,7 @@
    "title": "竹南科通勤買房怎麼選?頭份「群悅泱漫」坐落建國國中明星商圈",
    "source": "工商時報",
    "published_at": "2026-11-09T00:00:00+08:00",
-   "event_key": "art:08fc163faeb251191e089a297e09da9da18659d39fcb0c7508af560776a06d3d",
+   "event_key": "archive:c6bdf6039cd2b58a",
    "primary": true,
    "summary": "夫妻一人在竹南科學園區上班,另一人每天北上新竹科學園區,早上還要送孩子到校,家買在哪裡比較順路?頭份預售屋「群悅泱漫」位於建國國中第一排,從基地走平面道路到台積電竹南先進封測廠,行車距離約3.5公里。往竹科上班的家人,則可從約700公尺外的國道一號頭份交流道北上。對正在頭份、竹南看房的雙薪家庭來說, ...",
    "date_only": true
