@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-15T12:17:06+08:00",
- "generated_at": "2026-11-15T12:17:06+08:00",
+ "fetched_at": "2026-11-15T14:51:43+08:00",
+ "generated_at": "2026-11-15T14:51:42+08:00",
  "window": "7d",
- "event_count": 104,
- "article_count": 170,
+ "event_count": 105,
+ "article_count": 171,
  "items": [
   {
    "url": "https://n.yam.com/Article/20261114882149",
@@ -16,6 +16,14 @@
     "台北市",
     "宜蘭縣"
    ]
+  },
+  {
+   "url": "https://ccss3172.blogspot.com/2026/11/15.html",
+   "title": "重慶首條全自動運行城軌快線開通 15號線串聯居住區、商圈與江北機場",
+   "source": "新華報導",
+   "published_at": "2026-11-14T17:39:00+08:00",
+   "event_key": "art:28100e00e88604c64c024d19d77d38a7edac4672dfc5e63241216d982d2e670e",
+   "primary": true
   },
   {
    "url": "https://more-news.tw/768619/",
@@ -42,7 +50,7 @@
    "title": "謝龍介、陳菁徽聚焦國會監督與司法爭議 產業界、商圈代表齊挺3號江啟臣",
    "source": "新華報導",
    "published_at": "2026-11-14T07:31:00+08:00",
-   "event_key": "art:b5bb6102f7fc39121a8057219f11fdd59834aa660fe4bddee075486f72f978b1",
+   "event_key": "archive:8c1e271d6fb440b0",
    "primary": true
   },
   {
@@ -112,8 +120,8 @@
    "title": "總統盃街舞大賽11/14決戰凱道!串聯臺北榮町商圈「集點送禮」300份好禮等你拿 | TSNA",
    "source": "LINE TODAY",
    "published_at": "2026-11-13T18:49:00+08:00",
-   "event_key": "art:5d03264f3582f7a192fae68d74a9086e5bb1e7657110877914cdc71a9b3953c5",
-   "primary": true,
+   "event_key": "art:66066cfb284a35c15978469542758fde1f931ebb9220edcff7e8ab9d0024ab04",
+   "primary": false,
    "cities": [
     "台北市"
    ],
@@ -130,12 +138,12 @@
    "primary": true
   },
   {
-   "url": "https://tw.news.yahoo.com/%E7%B8%BD%E7%B5%B1%E7%9B%83%E8%A1%97%E8%88%9E%E5%A4%A7%E8%B3%BD11-14%E6%B1%BA%E6%88%B0%E5%87%B1%E9%81%93-%E4%B8%B2%E8%81%AF%E8%87%BA%E5%8C%97%E6%A6%AE%E7%94%BA%E5%95%86%E5%9C%88-%E9%9B%86%E9%BB%9E%E9%80%81%E7%A6%AE-300%E4%BB%BD%E5%A5%BD%E7%A6%AE%E7%AD%89%E4%BD%A0%E6%8B%BF-102047970.html",
-   "title": "​總統盃街舞大賽11/14決戰凱道!串聯臺北榮町商圈「集點送禮」300份好禮等你拿",
-   "source": "Yahoo新聞",
+   "url": "https://tsna.com/article/205698",
+   "title": "總統盃街舞大賽11/14決戰凱道!串聯臺北榮町商圈「集點送禮」300份好禮等你拿- 綜合",
+   "source": "TSNA體育新聞團隊",
    "published_at": "2026-11-13T18:20:00+08:00",
-   "event_key": "art:5d03264f3582f7a192fae68d74a9086e5bb1e7657110877914cdc71a9b3953c5",
-   "primary": false,
+   "event_key": "art:66066cfb284a35c15978469542758fde1f931ebb9220edcff7e8ab9d0024ab04",
+   "primary": true,
    "cities": [
     "台北市"
    ],
@@ -144,11 +152,11 @@
    ]
   },
   {
-   "url": "https://tsna.com/article/205698",
-   "title": "總統盃街舞大賽11/14決戰凱道!串聯臺北榮町商圈「集點送禮」300份好禮等你拿- 綜合",
-   "source": "TSNA體育新聞團隊",
+   "url": "https://tw.news.yahoo.com/%E7%B8%BD%E7%B5%B1%E7%9B%83%E8%A1%97%E8%88%9E%E5%A4%A7%E8%B3%BD11-14%E6%B1%BA%E6%88%B0%E5%87%B1%E9%81%93-%E4%B8%B2%E8%81%AF%E8%87%BA%E5%8C%97%E6%A6%AE%E7%94%BA%E5%95%86%E5%9C%88-%E9%9B%86%E9%BB%9E%E9%80%81%E7%A6%AE-300%E4%BB%BD%E5%A5%BD%E7%A6%AE%E7%AD%89%E4%BD%A0%E6%8B%BF-102047970.html",
+   "title": "​總統盃街舞大賽11/14決戰凱道!串聯臺北榮町商圈「集點送禮」300份好禮等你拿",
+   "source": "Yahoo新聞",
    "published_at": "2026-11-13T18:20:00+08:00",
-   "event_key": "art:5d03264f3582f7a192fae68d74a9086e5bb1e7657110877914cdc71a9b3953c5",
+   "event_key": "art:66066cfb284a35c15978469542758fde1f931ebb9220edcff7e8ab9d0024ab04",
    "primary": false,
    "cities": [
     "台北市"
@@ -208,7 +216,7 @@
    "title": "晚下班也能吃好鍋!黑毛屋插旗南京復興商圈",
    "source": "民視新聞網",
    "published_at": "2026-11-13T16:14:00+08:00",
-   "event_key": "art:e3ee471dc0c446ebe183aef94321404301cb7867fe6d59d0ad1dc64188ccc7ba",
+   "event_key": "archive:b01a3905cc05de29",
    "primary": true
   },
   {
@@ -235,7 +243,7 @@
    "title": "欣食旅「GIMME」進軍信義商圈瞄準都會「輕社交」商機推地中海小盤菜、創意調酒| 熱門亮點| 商情",
    "source": "經濟日報",
    "published_at": "2026-11-13T11:09:00+08:00",
-   "event_key": "art:064b0aa9128840d0ace505d3f0d5a4b1f75761f338e077aadc3d2daddc7da9c8",
+   "event_key": "archive:4c9861e0bfb6a17b",
    "primary": true
   },
   {
@@ -243,33 +251,21 @@
    "title": "買滷味排隊吵架!宜蘭大學商圈2打1...男倒地被拖行 民眾急報案",
    "source": "ETtoday新聞雲",
    "published_at": "2026-11-13T10:52:00+08:00",
-   "event_key": "art:f017dfb87ffdec3b98017ccda76c0a5b81aef71774c227a13165cc75cf547d04",
-   "primary": true,
-   "cities": [
-    "宜蘭縣"
-   ]
-  },
-  {
-   "url": "https://www.ettoday.net/news/20261113/3271482.htm",
-   "title": "買滷味排隊吵架!宜蘭大學商圈2打1...男倒地被拖行 民眾急報案",
-   "source": "ETtoday新聞雲",
-   "published_at": "2026-11-13T10:52:00+08:00",
-   "event_key": "art:f017dfb87ffdec3b98017ccda76c0a5b81aef71774c227a13165cc75cf547d04",
+   "event_key": "art:4bf98590941f5c9b81b3b350258c1fdf68c0c2672c05a1819d01d7632eda6f36",
    "primary": false,
+   "summary": "宜蘭大學神農商圈昨晚(12日)驚傳街頭暴力事件!張姓與朱姓兩名男子在進士路二段一家滷味攤買宵夜時,疑因排隊問題與另一名許姓男子發生口角,竟聯手將許男打倒在地還拖行,驚悚過程嚇壞不少目擊民眾。警方獲報後火速追查,於案發3小時內逮捕涉案的張姓男子,目前正全力追緝持木棍傷人、事後逃逸的朱姓主嫌。",
    "cities": [
     "宜蘭縣"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://www.setn.com/news/1938259",
    "title": "排隊爆肢體衝突!宜蘭商圈滷味攤前大亂鬥 男遭當街圍毆、1通緝犯在逃",
    "source": "三立新聞網SETN.com",
    "published_at": "2026-11-13T10:18:00+08:00",
-   "event_key": "art:9e13543b5d3430c3c56a511f3dd54b5fada1b1ca7b89b3e5cc003b78272726ae",
-   "primary": true,
-   "cities": [
-    "宜蘭縣"
-   ]
+   "event_key": "archive:eb3c83fc355024ee",
+   "primary": true
   },
   {
    "url": "https://www.mirrormedia.mg/external/amp/setn_1938259",
@@ -289,44 +285,32 @@
    "title": "黑毛屋搶攻「夜經濟」插旗台北南京復興商圈 慶城店營業至晚間11點",
    "source": "工商時報",
    "published_at": "2026-11-13T10:11:00+08:00",
-   "event_key": "art:ad4a344b7f647c4fcf2e8c19f4abc0ceda4413c0665d01cbf2f7e5bd30d30dad",
-   "primary": true,
-   "cities": [
-    "台北市"
-   ]
+   "event_key": "archive:368c088a0e123a94",
+   "primary": true
   },
   {
    "url": "https://www.cmoney.tw/forum/article/188604540",
    "title": "宜蘭商圈買滷味爆衝突1傷警漏夜逮人、1通緝犯在逃- 股市爆料同學會",
    "source": "CMoney",
    "published_at": "2026-11-13T09:47:00+08:00",
-   "event_key": "art:b26f5f263767f4be31993f26f54493cec0393422df7571c77969e310de7a30ba",
-   "primary": true,
-   "cities": [
-    "宜蘭縣"
-   ]
+   "event_key": "archive:7e057545ccb7b2db",
+   "primary": true
   },
   {
    "url": "https://news.ltn.com.tw/news/society/breakingnews/5639189",
    "title": "宜蘭商圈買滷味爆衝突1傷 警漏夜逮人、1通緝犯在逃",
    "source": "自由時報",
    "published_at": "2026-11-13T09:35:00+08:00",
-   "event_key": "art:b26f5f263767f4be31993f26f54493cec0393422df7571c77969e310de7a30ba",
-   "primary": false,
-   "cities": [
-    "宜蘭縣"
-   ]
+   "event_key": "archive:7e057545ccb7b2db",
+   "primary": false
   },
   {
    "url": "https://news.ltn.com.tw/amp/news/society/breakingnews/5639189",
    "title": "宜蘭商圈買滷味爆衝突1傷 警漏夜逮人、1通緝犯在逃",
    "source": "自由時報",
    "published_at": "2026-11-13T09:35:00+08:00",
-   "event_key": "art:b26f5f263767f4be31993f26f54493cec0393422df7571c77969e310de7a30ba",
-   "primary": false,
-   "cities": [
-    "宜蘭縣"
-   ]
+   "event_key": "archive:7e057545ccb7b2db",
+   "primary": false
   },
   {
    "url": "https://truemii.chinatimes.com/content/20261113000005-265001",
@@ -369,22 +353,16 @@
    "title": "排隊爆肢體衝突! 宜蘭商圈滷味攤前大亂鬥 男遭當街圍毆、1通緝犯在逃",
    "source": "三立新聞網",
    "published_at": "2026-11-13T02:18:00+08:00",
-   "event_key": "art:9e13543b5d3430c3c56a511f3dd54b5fada1b1ca7b89b3e5cc003b78272726ae",
-   "primary": false,
-   "cities": [
-    "宜蘭縣"
-   ]
+   "event_key": "archive:eb3c83fc355024ee",
+   "primary": false
   },
   {
    "url": "https://www.msn.com/zh-tw/news/national/%E6%8E%92%E9%9A%8A%E7%88%86%E8%82%A2%E9%AB%94%E8%A1%9D%E7%AA%81-%E5%AE%9C%E8%98%AD%E5%95%86%E5%9C%88%E6%BB%B7%E5%91%B3%E6%94%A4%E5%89%8D%E5%A4%A7%E4%BA%82%E9%AC%A5-%E7%94%B7%E9%81%AD%E7%95%B6%E8%A1%97%E5%9C%8D%E6%AF%86-1%E9%80%9A%E7%B7%9D%E7%8A%AF%E5%9C%A8%E9%80%83/ar-AA2hkzrH",
    "title": "排隊爆肢體衝突! 宜蘭商圈滷味攤前大亂鬥 男遭當街圍毆、1通緝犯在逃",
    "source": "三立新聞網",
    "published_at": "2026-11-13T02:18:00+08:00",
-   "event_key": "art:9e13543b5d3430c3c56a511f3dd54b5fada1b1ca7b89b3e5cc003b78272726ae",
-   "primary": false,
-   "cities": [
-    "宜蘭縣"
-   ]
+   "event_key": "archive:eb3c83fc355024ee",
+   "primary": false
   },
   {
    "url": "https://www.mirrormedia.mg/external/setn_1938259",
@@ -423,6 +401,19 @@
    "event_key": "archive:c53710a438193c29",
    "primary": false,
    "summary": "智慧行人友善設施-新光遠百公車專用道地嵌式警示燈及投射式紅綠燈。(圖/台中市政府提供) 台中市政府交通局為行人安全再添科技助力!近來很多到新光三越、大遠百商圈周邊消費、觀光的民眾,發現台灣大道與惠來路口地面也會發出紅綠燈訊號。市府交通局長葉昭甫表示,這套「智慧行人安全警示系統」,結合AI智慧攝影機、地嵌式警示燈及投射式",
+   "date_only": true
+  },
+  {
+   "url": "https://www.ettoday.net/news/20261113/3271482.htm",
+   "title": "買滷味排隊吵架!宜蘭大學商圈2打1...男倒地被拖行 民眾急報案",
+   "source": "ETtoday新聞雲",
+   "published_at": "2026-11-13T00:00:00+08:00",
+   "event_key": "art:4bf98590941f5c9b81b3b350258c1fdf68c0c2672c05a1819d01d7632eda6f36",
+   "primary": true,
+   "summary": "宜蘭大學神農商圈昨晚(12日)驚傳街頭暴力事件!張姓與朱姓兩名男子在進士路二段一家滷味攤買宵夜時,疑因排隊問題與另一名許姓男子發生口角,竟聯手將許男打倒在地還拖行,驚悚過程嚇壞不少目擊民眾。警方獲報後火速追查,於案發3小時內逮捕涉案的張姓男子,目前正全力追緝持木棍傷人、事後逃逸的朱姓主嫌。",
+   "cities": [
+    "宜蘭縣"
+   ],
    "date_only": true
   },
   {
