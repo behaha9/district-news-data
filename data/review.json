@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-15T07:18:46+08:00",
+ "updated_at": "2026-11-15T12:18:11+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -1156,6 +1156,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-07"
+  },
+  "https://www.pbs.npa.gov.tw/ch/app/data/view?module=wg183&id=18740&serno=19679e7f-333a-42a1-a495-d8b8b6c177ac": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-15"
   },
   "https://www.scooptw.com/cnews/547770/%e8%8a%b1%e8%93%ae%e9%87%91%e4%b8%89%e8%a7%92%e5%95%86%e5%9c%88%e6%a5%ad%e8%80%85%e5%98%86%e7%94%9f%e6%84%8f%e9%9b%a3%e5%81%9a%e3%80%80%e5%bc%b5%e5%b3%bb%e6%8f%903%e9%9a%8e%e6%ae%b5%e5%be%a9%e7%94%a6/": {
    "decision": "hidden",
