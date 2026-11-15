@@ -1,15 +1,18 @@
 {
- "fetched_at": "2026-11-15T07:17:47+08:00",
+ "fetched_at": "2026-11-15T09:07:50+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 93,
-  "kept": 44,
-  "resolved": 44,
-  "items": 44,
+  "raw": 91,
+  "kept": 41,
+  "resolved": 41,
+  "items": 40,
   "resolve_this_run": {
-   "online": 4
-  }
+   "online": 2
+  },
+  "dropped_old": [
+   "龍潭散散步：看大池、逛老街，到廟埕湊熱鬧 | 陳映霖 | 品味生活（原文日期 2026-09-05）"
+  ]
  },
  "items": [
   {
@@ -63,6 +66,16 @@
    "resolved": true
   },
   {
+   "title": "中市7期商圈導入智慧行人警示系統 地面紅燈提醒駕駛注意行人",
+   "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3RlRlOFVOMW1FVEJQZWdLaHp0eVpXdFpTTW85cEdMWlBOZ3d2WmNzVzJ5UGFhWHlQNGgtT0p3Yjcyd2Y2b0ZkeVpmSm50cmZNVVRIMV9rZWFRVGFWYnNBZi02Z29VOG8?oc=5",
+   "source": "住展雜誌",
+   "source_site": "https://www.myhousing.com.tw",
+   "published_at": "2026-11-14T07:35+08:00",
+   "query": "商圈",
+   "url": "https://www.myhousing.com.tw/mediapartner/i-news/306203/",
+   "resolved": true
+  },
+  {
    "title": "謝龍介、陳菁徽聚焦國會監督與司法爭議 產業界、商圈代表齊挺3號江啟臣",
    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5udzIxMTJ0bG82Vy1SN0szZHV5S1FyT3FiRTMwX2JFa000SkIyWExLSWMta2I0anFQbEE1VFNnNm5sdUZwdHFrLVJDdlRRRE8zcFFvbVFSVHNaOGM0OWlNSTltUGlyT2M?oc=5",
    "source": "新華報導",
@@ -113,6 +126,16 @@
    "resolved": true
   },
   {
+   "title": "總統盃街舞大賽11/14決戰凱道！串聯臺北榮町商圈「集點送禮」300份好禮等你拿 | TSNA",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16WUp4SzNHUUpsMDRzZjhXaERuM3BESGxSYU52eHJ6ZnFzT3RkM2Qydzl0SVphTU9Gc3FGTHNQVXQxX1RrQVdCYl9DdzNsY08yS1VYSGxn?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-13T18:49+08:00",
+   "query": "商圈",
+   "url": "https://today.line.me/tw/v3/article/kEpVPVL",
+   "resolved": true
+  },
+  {
    "title": "中壢人共同回憶！中原商圈30年老店「米老鼠牛排館」11/15熄燈",
    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OZ1NSTWFZd1E2b04xZVROYm9Oal9vVEJIVGhZSEU0QWwxbzZodklDZmFOUEFSX0N3cklNOEYzNVozTmZhLVZxU3hZMVZKZw?oc=5",
    "source": "TVBS新聞網",
@@ -120,16 +143,6 @@
    "published_at": "2026-11-13T18:42+08:00",
    "query": "商圈",
    "url": "https://news.tvbs.com.tw/life/4050252",
-   "resolved": true
-  },
-  {
-   "title": "總統盃街舞大賽11/14決戰凱道！串聯臺北榮町商圈「集點送禮」300份好禮等你拿- 綜合",
-   "google_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE54NTlZOGxMWjR3RHBJNjZrQl9aVVpnTXcwV1JyOW94WmNtd0lKNWRaVGlMbE5aNGpGMGNqYkx5eHFGSmxQaHc?oc=5",
-   "source": "TSNA體育新聞團隊",
-   "source_site": "https://tsna.com",
-   "published_at": "2026-11-13T18:20+08:00",
-   "query": "商圈",
-   "url": "https://tsna.com/article/205698",
    "resolved": true
   },
   {
@@ -333,6 +346,16 @@
    "resolved": true
   },
   {
+   "title": "板橋最大捷運開發案板新站開工 侯友宜預期打造板新商圈新地標",
+   "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GQk1kSkhrTkdyaEFNQy1LdnVjdlRtTVA5ckVrOW1SaHFjamJrbXE2M2pBVW8tM1lqeUMwLVVUTGduTVpWMDk4ZjVSMWoxQlBtSHZvXw?oc=5",
+   "source": "新頭條",
+   "source_site": "https://www.thehubnews.net",
+   "published_at": "2026-11-13T10:32+08:00",
+   "query": "商圈",
+   "url": "https://www.thehubnews.net/archives/684194",
+   "resolved": true
+  },
+  {
    "title": "排隊爆肢體衝突！宜蘭商圈滷味攤前大亂鬥　男遭當街圍毆、1通緝犯在逃",
    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JUDNDTWNXRFRsVllzQ2MtSV81RWhxMGpUTmdkQ0c0SWVyN25NM2NYVlNBUXhMcXF4TGh2SF9fTWdOcXJnbDJPSNIBTEFVX3lxTFB0aTdSZjBKVXVvSVNCbWJ4RGg2ZFpRNVg3MUxoQWtEWE90amlPNzdxOGotc0lpSWVmazZWcUtwMkZGSjZYb3N4bHB0VmQ?oc=5",
    "source": "三立新聞網SETN.com",
@@ -340,16 +363,6 @@
    "published_at": "2026-11-13T10:18+08:00",
    "query": "商圈",
    "url": "https://www.setn.com/news/1938259",
-   "resolved": true
-  },
-  {
-   "title": "宜蘭商圈滷味攤爆衝突！2男怒圍毆拖行1男",
-   "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Iak1RbG5ieE41c1FhOHhiVjczdDZMSF9JXzBjbDFqZkwySmx0SXYzZ0ZjbGF2enI0UVo5NlowVktOeElsR2d0MW9LX0tfYXByUndIbHhMbTJJb09OcWdveGhR0gFiQVVfeXFMTkhqTVFsbmJ4TjVzUWE4eGJWNzN0NkxIX0lfMGNsMWpmTDJKbHRJdjNnRmNsYXZ6cjRRWjk2WjBWS054SWxHZ3Qxb0tfS19hcHJSd0hseExtMklvT05xZ294aFE?oc=5",
-   "source": "鏡週刊Mirror Media",
-   "source_site": "https://www.mirrormedia.mg",
-   "published_at": "2026-11-13T10:18+08:00",
-   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
-   "url": "https://www.mirrormedia.mg/external/amp/setn_1938259",
    "resolved": true
   },
   {
@@ -383,6 +396,16 @@
    "resolved": true
   },
   {
+   "title": "板橋最大捷開案開工　侯友宜：投資逾60億打造板新商圈新地標",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5URjAwV1RISVlfb3duVXMzODNpeW55OTNCN3NBcEN0VmszRFhrUlpRcnEycWlrSVZlSlFyNFN3Ti1WejYyNDdoTndLdmx3NzItTWZ1LXdWbi1pZDJYQ244ZzUtd3NQcVNkRW530gFwQVVfeXFMTThUdC12NTI1VGRxbC01WlFfTWFtV00yNUJTaUU4QWFxejZKT2g1VmtzU3doODZoeVU5NzZCRTN2eUFUZDVDQVctUUpNSWVnaEVzUGdnMFRhc1Q0WTVRbjBSaFNCbkowNkZ6QUFqZnlzQw?oc=5",
+   "source": "好房網News",
+   "source_site": "https://news.housefun.com.tw",
+   "published_at": "2026-11-13T09:41+08:00",
+   "query": "商圈",
+   "url": "https://news.housefun.com.tw/news/article/886835491044.html",
+   "resolved": true
+  },
+  {
    "title": "宜蘭商圈買滷味爆衝突1傷 警漏夜逮人、1通緝犯在逃",
    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBveDdtX2o3ajJGTjR4bWI0cDRfSlBua3cxLWlvMzFBNWtwbERRUjN1V0s0SzdhaDl2TDlSZkVmcy1uTEpJX1FMNTg5T256M0k2Q0FUYVBpQjFQRWJGWGRvbUUxUS1HaTJL0gFuQVVfeXFMTncyUm1SZ25vZVBLSjY5ZHRndGFLTC13elR1eGJCWDFydGpQYU1FOFNuZzRJSklJSHVDd3I1YU8xXzBqV3N3UEJWNHoyTDlzREJucmJYRUZhTkhsZXlwTWRraXNQeGhMMWFSOXU2dEE?oc=5",
    "source": "自由時報",
@@ -390,66 +413,6 @@
    "published_at": "2026-11-13T09:35+08:00",
    "query": "商圈",
    "url": "https://news.ltn.com.tw/news/society/breakingnews/5639189",
-   "resolved": true
-  },
-  {
-   "title": "板新商圈新地標！最大捷運開發案開工 侯友宜：軌道經濟翻轉城市風貌",
-   "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92dVduc21vS0NYVm1LR3I3cjNKaEhvRGQxZlptWldTTkxYdk9lQTJWYUt5Q09EbHZycG9wQktNS2FRaEd0MU1WSg?oc=5",
-   "source": "5168實價登錄比價王",
-   "source_site": "https://news.houseprice.tw",
-   "published_at": "2026-11-13T09:00+08:00",
-   "query": "商圈",
-   "url": "https://news.houseprice.tw/12913/",
-   "resolved": true
-  },
-  {
-   "title": "新北市長候選人聚焦山海、河岸、文化與商圈活化考驗跨區整合與業者參與- 瘋台灣",
-   "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUMUtLd1U3b0RmamUzTmh5cmJfTVlxQ0pfZVBNYm1GcGE0UXgxa2pobVJnSjFnaGRnQzZLVVZUaXM1aURRTDhDTzNLeV9CVnluYnl2VW1odmZPREpRa28tVDEwS1R4SVBSRmtEdg?oc=5",
-   "source": "觸mii",
-   "source_site": "https://truemii.chinatimes.com",
-   "published_at": "2026-11-13T09:00+08:00",
-   "query": "商圈",
-   "url": "https://truemii.chinatimes.com/content/20261113000005-265001",
-   "resolved": true
-  },
-  {
-   "title": "走訪雙城「大溪」 漁港海味對決老街木藝 | 青年日報",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oNkE3X3dES3A0SHhXWTNPMzY0ZjExcEZ5Y05PS2hEX3pDaFpKME9EdmJkRl9vd1BtZTQ0Z0pEQjZTWGpmSU5MM3p3Z2dkVXR3RlJkUmN3?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-13T08:55+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/article/gzpxjM8",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 走訪雙城「大溪」 漁港海味對決老街木藝",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wNlNxRV93LXV0SWY5MDB1d2ZISWFhNWNQQkVtM2N3MVVaRUotcDQ1VnJXMkpKdTYzMTRpamdFUmozTXVVV2JzMVFTQzZFcEJsTFcwYlh6cl93UXJtWm5qSjhSNUc?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-13T08:36+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/gzpxjM8",
-   "resolved": true
-  },
-  {
-   "title": "紅茶愛好者來到空堀商店街別錯過，大阪谷町六丁目紅茶專賣店「IROHARAK（イロハラク）」",
-   "google_url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxNV3g4aVNKUkRyTjViUmM3NFFHa2MtNkd0NG82RGRHaGNyWWdTb3ZndHpfb1huY2xteXZxR1hOMDBJSFc3bkZVVFF0S3ZEdFFHaWJyRnVZdUZLQ2JFN3pqRmFRNUx3YXdqeGVzNC1qb0EtbmRfeVRzSmF6MFplcURmWDNsNnBRbGIzT0tONlpMTXBOZ3pvN0swaGFHNXVjWEVlLXFseG9OYWh4UnJVQkQtc1RqQkxFMkpmVnN4RndCeC1sMFN5VXQtVV84TllfaGJRckdfNldpLWZNNU85eGpSbGo2STZ4ck9LZHB0V1pHYUtzbk9PQm8xYlVCa3Z3aGxZVDVYMnM4Tm9ucHM5UGhPNmNXSG1IV1hhcC0xMlM5RGwydlhUVS1uenE0M01abHY1MXdPc19hMkdYU1F0WDA2TkNHeGZUNEpESkZGbjRRaVU0cDRSOXFmX3ZPVkxUYzlYSzdNcm43eTlyRnFTT3Y4N3AtR09MWUh4R0w4UjJtYzVFeXlEMGU2UFp1YzNTbDQ5dV9hNEFpLW8waDJEN01jbXk4WkF1STdHVFpqWXc0dDd3U2dfcGJVQ2p3cUhNdjRNSWlyODFCSVhCRHVUT29aT05ia3R0akJtRVVUSWotbXNsbFRxaEVTMG8tRlFhcjlOVnAwY2RLZFhsY0h4SGowUG1LQk05X3Fka3hiZXFKbUlMX25KdUlhMUZzODBGcFlUaUo3NDdOUQ?oc=5",
-   "source": "Japaholic",
-   "source_site": "https://www.japaholic.com",
-   "published_at": "2026-11-13T08:33+08:00",
-   "query": "商店街",
-   "url": "https://www.japaholic.com/tw/article/detail/945029-%E7%B4%85%E8%8C%B6%E6%84%9B%E5%A5%BD%E8%80%85%E4%BE%86%E5%88%B0%E7%A9%BA%E5%A0%80%E5%95%86%E5%BA%97%E8%A1%97%E5%88%A5%E9%8C%AF%E9%81%8E%EF%BC%8C%E5%A4%A7%E9%98%AA%E8%B0%B7%E7%94%BA%E5%85%AD%E4%B8%81%E7%9B%AE%E7%B4%85%E8%8C%B6%E5%B0%88%E8%B3%A3%E5%BA%97%E3%80%8CIROHARAK%EF%BC%88%E3%82%A4%E3%83%AD%E3%83%8F%E3%83%A9%E3%82%AF%EF%BC%89%E3%80%8D",
-   "resolved": true
-  },
-  {
-   "title": "中市7期商圈導入智慧行人警示系統地面紅燈提醒駕駛注意行人- 科技新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLXV0UEpVZlNnYkM5R0l5MzEzRFlNRDdkdjFSUjRfLXBPbDNmT0ZHamNOSmIzMWgyQXRxTUp3dmJJeVVhTFF6MTAtYVBZM1NkcEphazNnRGVxakEtdVRBSWR4V1NwN0xEd05aWDNDWmUxeFptYVVsQnN1dTlWeDFObzU2Sy1fX2hL?oc=5",
-   "source": "PChome Online 新聞",
-   "source_site": "https://news.pchome.com.tw",
-   "published_at": "2026-11-13T08:04+08:00",
-   "query": "商圈",
-   "url": "https://news.pchome.com.tw/science/inews/20261113/index-79452824820779351005.html",
    "resolved": true
   }
  ]
