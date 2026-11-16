@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-16T07:18:37+08:00",
+ "updated_at": "2026-11-16T12:18:20+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -782,6 +782,11 @@
    "reason": "選舉",
    "at": "2026-11-06"
   },
+  "https://udn.com/vote2026/story/124652/9880107": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-16"
+  },
   "https://video.ltn.com.tw/article/SUOr-mu1K4w/PLI7xntdRxhw1gDu9DJwSWvhyraLk-de62": {
    "decision": "hidden",
    "reason": "選舉",
@@ -831,6 +836,11 @@
    "decision": "kept",
    "item": "20261112-taoyuan-biz-transform",
    "at": "2026-11-13"
+  },
+  "https://www.chinatimes.com/newspapers/20261116000499-260118": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-16"
   },
   "https://www.chinatimes.com/realtimenews/20261103002965-260421": {
    "decision": "hidden",

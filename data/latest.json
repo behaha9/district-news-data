@@ -1,7 +1,67 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T07:18:32+08:00",
+ "generated_at": "2026-11-16T12:18:20+08:00",
  "items": [
+  {
+   "id": "20261116-yingge-architects-tour",
+   "title": "新北市建築師公會走訪鶯歌光點，雨中展開陶都老街藝文巡禮",
+   "summary": "新北市建築師公會11月14日走訪鶯歌光點，並在雨中展開陶都鶯歌老街的藝文巡禮。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-16T11:01:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261116335895",
+     "published_at": "2026-11-16T11:01:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261116/00450066.202611151603118994m-34c1b49b80a58bae.webp"
+  },
+  {
+   "id": "20261113-heimaowu-nanjing",
+   "title": "黑毛屋插旗台北南京復興商圈開慶城店，主打夜經濟營業至晚間11點",
+   "summary": "日式鍋物品牌黑毛屋在南京復興商圈開設慶城店，為全台第21家門市，主打夜經濟並營業至晚間11點。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-16T10:01:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "南京復興商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/7843/9877384",
+     "published_at": "2026-11-16T10:01:00+08:00"
+    },
+    {
+     "outlet": "民視新聞網",
+     "url": "https://www.ftvnews.com.tw/news/detail/2026B13W0472",
+     "published_at": "2026-11-13T16:14:00+08:00"
+    },
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261113700662-431401",
+     "published_at": "2026-11-13T10:11:00+08:00"
+    },
+    {
+     "outlet": "中華新聞雲",
+     "url": "https://www.cdns.com.tw/articles/1489888",
+     "published_at": "2026-11-13T08:48:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35515975.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&sl=W&fw=1050&exp=3600"
+  },
   {
    "id": "20261115-tainan-houbi-fengtu",
    "title": "後壁區公所與後壁商圈辦「風土旅行日」，花海大富翁串聯農村導覽",
@@ -485,41 +545,6 @@
     }
    ],
    "image": "https://imgs.tsna.com/article/2026N1794564892_0ebfabccfc224dd581256f92f2a49016.jpg"
-  },
-  {
-   "id": "20261113-heimaowu-nanjing",
-   "title": "黑毛屋插旗台北南京復興商圈開慶城店，主打夜經濟營業至晚間11點",
-   "summary": "日式鍋物品牌黑毛屋在南京復興商圈開設慶城店，為全台第21家門市，主打夜經濟並營業至晚間11點。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-13T16:14:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "南京復興商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "民視新聞網",
-     "url": "https://www.ftvnews.com.tw/news/detail/2026B13W0472",
-     "published_at": "2026-11-13T16:14:00+08:00"
-    },
-    {
-     "outlet": "工商時報",
-     "url": "https://www.ctee.com.tw/news/20261113700662-431401",
-     "published_at": "2026-11-13T10:11:00+08:00"
-    },
-    {
-     "outlet": "中華新聞雲",
-     "url": "https://www.cdns.com.tw/articles/1489888",
-     "published_at": "2026-11-13T08:48:00+08:00"
-    }
-   ],
-   "image": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/9303d404-cf1e-4881-bb6f-1c3d40a17554.jpg"
   },
   {
    "id": "20261113-lukang-transfer-station",
@@ -2462,88 +2487,6 @@
    ],
    "admin_note": "鹿港老街、北埔老街商圈為115年補助名單，月別人潮數據可留意活動檔期與KPI人流目標的對照。",
    "image": "https://images.storm.mg/cloud/1b94de651e889d80b92594b8ef543ad7425974d8.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2241661%2FNG7sygeKxuzJwqviNsCPXKJ1JMtuTDut7zPb6Sbc.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
-  },
-  {
-   "id": "20261102-zhuzhi-cleanup",
-   "title": "薔琵颱風後竹崎商圈協會動員志工淨山，維護觀音瀑布",
-   "summary": "嘉義縣竹崎商圈文化觀光發展協會在颱風過後號召志工清理山區被風吹落的樹枝，維護步道環境與遊客安全。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-02T12:00:00+08:00",
-   "cities": [
-    "嘉義縣"
-   ],
-   "districts": [
-    {
-     "name": "竹崎商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "竹崎商圈為115年補助名單，協會自辦公益淨山，可作為商圈營運與在地參與的參考。",
-   "sources": [
-    {
-     "outlet": "信吉衛視",
-     "url": "https://www.sjtv.com.tw/articles/120173",
-     "published_at": "2026-11-02T12:00:00+08:00"
-    }
-   ],
-   "image": "https://www.sjtv.com.tw/uploads/articles/thumbnails/2026/202611/20261102/img_6ae7f7185efbd2.79166856_1793586968_thumb.jpg"
-  },
-  {
-   "id": "20261102-taichung-wudiao-business",
-   "title": "臺中物調券帶動市場、商圈買氣升溫，使用期限至11月5日",
-   "summary": "臺中物調券發放100元變200元，吸引民眾排隊領取，市場、商圈買氣隨之升溫；使用期限為10月30日至11月5日。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-02T11:38:00+08:00",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "東森新聞",
-     "url": "https://news.ebc.net.tw/news/living/578648",
-     "published_at": "2026-11-02T11:38:00+08:00"
-    }
-   ],
-   "image": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/02/1793619322_48322.jpg"
-  },
-  {
-   "id": "20261030-xinzhuang-market",
-   "title": "新莊第一零售市場改造啟用，增設廚藝教室並更新老街周邊環境",
-   "summary": "新莊第一零售市場於10月30日改造後啟用，增設廚藝教室，報導指新莊老街周邊也一併更新。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-02T08:00:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [
-    {
-     "name": "新莊廟街商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "PChome Online新聞",
-     "url": "https://news.pchome.com.tw/travel/sharelife/20261102/index-79357760099",
-     "published_at": "2026-11-02T08:00:00+08:00"
-    },
-    {
-     "outlet": "LIFE生活網",
-     "url": "https://life.tw/article/%E6%96%B0%E5%8C%97%E6%96%B0%E8%8E%8A%E8%80%81%E8%A1%97%E6%96%B0%E9%A2%A8%E6%99%AF-%E7%AC%AC%E4%B8%80%E5%B8%82%E5%A0%B4%E6%94%B9%E9%80%A0%E5%AE%8C%E6%88%90-50%E5%B9%B4%E8%80%81%E5%B8%82%E5%A0%B4%E8%AE%8A%E7%BE%8E%E4%BA%86-3201112",
-     "published_at": "2026-11-02T00:00:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261030713572",
-     "published_at": "2026-10-30T12:28:00+08:00"
-    }
-   ],
-   "admin_note": "新莊廟街商圈為115年補助名單，市場與老街周邊環境更新可留意與商圈計畫的銜接。",
-   "image": "https://taiwan.sharelife.tw/tw-news-img/352215/9508011126051122.jpg"
   }
  ],
  "discussions": []
