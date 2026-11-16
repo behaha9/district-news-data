@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-16T20:55:21+08:00",
+ "updated_at": "2026-11-17T07:23:19+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -406,6 +406,11 @@
    "decision": "kept",
    "item": "20261112-taoyuan-biz-transform",
    "at": "2026-11-13"
+  },
+  "https://n.yam.com/Article/20261116165221": {
+   "decision": "hidden",
+   "reason": "業配遊記",
+   "at": "2026-11-17"
   },
   "https://new-reporter.com/news/332964/": {
    "decision": "hidden",
@@ -1042,6 +1047,11 @@
    "reason": "選舉",
    "at": "2026-11-15"
   },
+  "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=4E021CD9DDDE7E24": {
+   "decision": "kept",
+   "item": "20261116-kaohsiung-xmas",
+   "at": "2026-11-17"
+  },
   "https://www.knews.com.tw/news/EA572948B8AD95168A10F9C6FAE89A53": {
    "decision": "hidden",
    "reason": "選舉",
@@ -1356,6 +1366,11 @@
    "decision": "kept",
    "item": "20261029-yilan-youai-dept",
    "at": "2026-11-04"
+  },
+  "https://www.yesmedia.com.tw/%e7%be%8e%e8%a1%93%e5%9c%92%e9%81%93%e5%95%86%e5%9c%88%e3%80%8c%e7%be%8e%e5%ad%b8%e6%a3%ae%e6%b4%bb%e7%af%80%e3%80%8d-%e4%b8%b2%e8%81%af%e7%94%a2%e6%a5%ad%e8%a7%80%e5%85%89-%e5%89%b5%e9%80%a0%e8%bf%91/": {
+   "decision": "kept",
+   "item": "20261116-meishu-yuandao-fest",
+   "at": "2026-11-17"
   },
   "https://www.yesmedia.com.tw/%e8%87%ba%e5%8d%97%e8%b3%bc%e7%89%a9%e7%af%80%e6%b6%88%e8%b2%bb%e7%aa%81%e7%a0%b430%e5%84%84%e5%85%83%ef%bc%81%e5%8a%a0%e7%a2%bc%e6%8a%bd%e9%9b%bb%e5%8b%95%e8%bb%8a11%e6%9c%88%e5%95%86%e5%9c%88/": {
    "decision": "kept",
