@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-16T12:18:20+08:00",
+ "updated_at": "2026-11-16T16:55:31+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -547,6 +547,11 @@
    "reason": "選舉",
    "at": "2026-11-04"
   },
+  "https://news.tvbs.com.tw/politics/4051204": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-16"
+  },
   "https://news.tvbs.com.tw/videos/d1o9D3wtqU4": {
    "decision": "hidden",
    "reason": "選舉",
@@ -917,6 +922,11 @@
    "item": "20261107-taichung-7th-warning",
    "at": "2026-11-11"
   },
+  "https://www.crntt.tw/doc/docDetail.jsp?coluid=92&kindid=0&docid=160289434": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-16"
+  },
   "https://www.ctee.com.tw/news/20261103700028-430805": {
    "decision": "hidden",
    "reason": "國外",
@@ -941,6 +951,11 @@
    "decision": "kept",
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-15"
+  },
+  "https://www.ctee.com.tw/news/20261116701273-431401": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-16"
   },
   "https://www.ctwant.com/amp/article/505472/": {
    "decision": "hidden",
@@ -1016,6 +1031,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-15"
+  },
+  "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4E021CD9DDDE7E24": {
+   "decision": "kept",
+   "item": "20261110-kaohsiung-xmas-fest",
+   "at": "2026-11-16"
   },
   "https://www.knews.com.tw/news/EA572948B8AD95168A10F9C6FAE89A53": {
    "decision": "hidden",
@@ -1192,6 +1212,11 @@
    "reason": "治安車禍",
    "at": "2026-11-04"
   },
+  "https://www.msn.com/zh-tw/news/other/115%E5%B9%B4%E6%A1%83%E9%87%91%E5%A5%BD%E7%A6%AE%E5%A5%BD%E5%BA%97%E6%88%90%E6%9E%9C%E4%BA%AE%E7%9B%B8-%E5%B1%95%E7%8F%BE%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E6%96%B0%E6%B4%BB%E5%8A%9B/ar-AA2hlqqC": {
+   "decision": "kept",
+   "item": "20261112-taoyuan-biz-transform",
+   "at": "2026-11-16"
+  },
   "https://www.msn.com/zh-tw/travel/%E4%B8%80%E8%88%AC/2026%E5%85%A8%E5%9C%8B%E5%8D%93%E8%B6%8A%E5%95%86%E5%9C%88%E7%8D%8E-%E6%8F%AD%E6%9B%89-20%E8%99%95%E7%89%B9%E8%89%B2%E5%95%86%E5%9C%88%E7%8D%B2%E8%82%AF%E5%AE%9A/ar-AA2hhxxh": {
    "decision": "kept",
    "item": "20261110-moea-excellent-district-award",
@@ -1236,6 +1261,11 @@
    "decision": "kept",
    "item": "20261106-taoyuan-district-feature",
    "at": "2026-11-08"
+  },
+  "https://www.scooptw.com/tyenews/552782/%e6%a1%83%e5%9c%923%e5%a4%a7%e5%95%86%e5%9c%88%e7%8d%b2%e4%b8%ad%e5%a4%ae%e8%82%af%e5%ae%9a-%e7%b6%93%e7%99%bc%e5%b1%80%ef%bc%9a%e6%8c%81%e7%ba%8c%e6%8a%95%e5%85%a5%e6%8c%af%e8%88%88%e8%88%87%e8%bd%89/": {
+   "decision": "kept",
+   "item": "20261111-taoyuan-three-districts-merit",
+   "at": "2026-11-16"
   },
   "https://www.setn.com/news/1938259": {
    "decision": "hidden",
