@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T20:53:38+08:00",
+ "fetched_at": "2026-11-17T01:12:17+08:00",
  "articles": {
   "https://www.fclnews.com/235170/": {
    "checked_at": "2026-11-14T20:50+08:00",
@@ -31,34 +31,8 @@
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://news.ebc.net.tw/search/tags/度小月/": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": "error",
-   "error": "'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)"
-  },
   "https://www.aoc.gov.tw/showPublic/811": {
    "checked_at": "2026-11-16T20:53+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  "https://www.cdns.com.tw/articles/1486194": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-06T18:15+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者陳華興／桃園報導 桃園市政府率全國之先推出「商用廚餘機補助計畫」，獲得團膳業、餐飲業者一致好評。市府為進一步減輕中小型餐飲業者的負擔並擴大減量效益，特將商圈、傳統市場及夜市管理機構納入補助範圍，並將設備設計處理量增加一百公斤至五十公斤機型，同時展延申請期限至一一六年八月三十一日，藉以鼓勵更多業者投入廚餘及廢油脂回收",
-   "cities": {
-    "桃園市": 8
-   },
-   "districts": [],
-   "body_chars": 811,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/06181531/77005a-20261106131139453-0-1024x768.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-06",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.pchome.com.tw/public/taipei/20261106/index-79396742038585126016.html": {
-   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -67,74 +41,10 @@
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 13-25: ordinal not in range(128)"
   },
-  "https://www.cdns.com.tw/articles/1486711": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-07T18:14+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者陳華興／桃園報導 桃園市長張善政六日晚間出席「一一五年桃園市商圈特色亮點形塑成果發表會」。張善政表示，桃園商圈涵蓋山區、濱海及都會地帶，各具文化底蘊與產業特色，市府將持續推動「一商圈一特色」，整合經發、文化及農業等跨局處資源，協助商圈發掘在地特色、強化品牌行銷，讓桃園特色商圈走向全臺，進一步提升地方產業競爭力。 張",
-   "cities": {
-    "桃園市": 18
-   },
-   "districts": [],
-   "body_chars": 661,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/07181430/77005a-20261107082009928-0-1024x536.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-07",
-   "date_hint_from": "原文時間"
-  },
   "https://news.cts.com.tw/cna/local/202611/202611043097404.html": {
    "checked_at": "2026-11-16T20:53+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://www.cdns.com.tw/articles/1483649": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-01T19:36+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者林怡孜∕台南報導 萬聖節不只有鬼怪與糖果，連街頭變電箱也能成為心理健康宣導的主角。日前成大商圈舉辦萬聖節活動，關廟區社區心理衛生工作人員發揮創意，將變電箱、電線桿變成逗趣的萬聖節造型，搭配情緒圖卡及互動遊戲，吸引大小朋友在歡樂氣氛中學習認識情緒、紓解壓力。 這場「心衛出任務 攏來萬聖節」變裝遊行，最吸睛的莫過於工作",
-   "cities": {
-    "台南市": 2
-   },
-   "districts": [
-    "成大商圈（台南市）"
-   ],
-   "body_chars": 488,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/01193613/T90052a-20261101152734346-0-1024x907.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-01",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cdns.com.tw/articles/1484010": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T17:41+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者林雪娟／台南報導 陪伴市民三十年的新光三越中山店十月底正式結束營業，雖然傳出有企業接手，然許多人擔心站前商圈恐因而沒落。經發局表示，雖因租賃契約期滿及該企業整體營運布局調整而結束營業，然原有商業空間仍具發展潛力，未來可望透過不同經營模式與業態組合，持續發揮其位處台南交通門戶及舊城核心的區位優勢。 經發局表示，新光三",
-   "cities": {
-    "台南市": 24
-   },
-   "districts": [],
-   "body_chars": 873,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/02174100/1930248-1024x576.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cdns.com.tw/articles/1482837": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T21:12+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "本報綜合報導 中聯停工影響國內沙拉油供應。經濟部三十日表示，持續透過供需媒合、協調國內業者增產及鼓勵進口等方式增加供應，截至十月中旬合計已協助八十九家食品業者取得共一千八百四十二噸沙拉油，另已協調油品進口商第四季擴大進口五千噸，後續也將協助中小型業者以商圈或夜市自治會為單位進行媒合。 經濟部指出，國內供給方面，先前已協",
-   "cities": {},
-   "districts": [],
-   "body_chars": 689,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/10/30211209/81003a-20260818185256015-0_copy1-1024x659.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/society/thehubnews/20261105/index-79384856854895306009.html": {
    "checked_at": "2026-11-16T20:53+08:00",
@@ -166,34 +76,8 @@
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://www.cdns.com.tw/articles/1487373": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T21:04+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者陳金龍／台中報導 因應國內沙拉油供應短缺，中市府多管齊下，協調中央擴大供給、增加進口、盤點替代油品，並強化市場價格稽查。市長盧秀燕也親自召開會議，掌握食用油供需及價格變化，要求市府團隊積極協助業者。市府經發局說明，在食安優先原則下，市府食安處嚴格審查並抽驗福壽公司申請重新上架的油品，確認約一千二百零五公噸產品符合安",
-   "cities": {
-    "台中市": 4
-   },
-   "districts": [],
-   "body_chars": 794,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/08210438/81003a-20261108190539562-0-1024x744.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
   "https://news.pchome.com.tw/public/taipei/20261102/index-79361600023397126016.html": {
    "checked_at": "2026-11-16T20:53+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  "https://news.twhg.com.tw/re_news_details.php?ojb=61197": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  "https://news.twhg.com.tw/re_news_details.php?ojb=61198": {
-   "checked_at": "2026-11-13T23:32+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -272,22 +156,6 @@
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://www.cdns.com.tw/articles/1489171": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-12T14:30+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者蔡琇惠／新北報導 新北環狀線2020年通車以來，運量穩定成長，2025年年運量突破2200萬，今年每月運量達200萬人次，已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展（TOD）及活化捷運場站周邊土地，板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工，由新北市長侯友",
-   "cities": {
-    "新北市": 22
-   },
-   "districts": [],
-   "body_chars": 964,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/12142852/%E6%8A%95%E8%B3%87%E4%BA%BA%E5%9C%98%E9%9A%8A%E5%90%88%E5%BD%B1_0-1024x684.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-12",
-   "date_hint_from": "原文時間"
-  },
   "https://smiletaiwan.cw.com.tw/article/9581": {
    "checked_at": "2026-11-16T20:53+08:00",
    "status": 403,
@@ -343,25 +211,6 @@
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://www.taichung.gov.tw/3404107/post": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "臺中市政府全球資訊網",
-   "description": "幽靈、女巫、怪獸出沒東海藝術街！台中東海商圈萬聖搞怪趴熱鬧登場",
-   "cities": {
-    "台中市": 13
-   },
-   "districts": [
-    "東海藝術街商圈（台中市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1384,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
   "https://storystudio.tw/article/gushi/the-story-of-nanfang-ao": {
    "checked_at": "2026-11-16T20:53+08:00",
    "status": 404,
@@ -398,229 +247,10 @@
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://www.msn.com/zh-tw/news/news/%E7%8D%A8%E5%AE%B6-%E8%A5%BF%E9%96%80%E7%94%BA%E8%A8%82%E6%88%BF%E6%B2%92%E5%BE%97%E4%BD%8F-%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%B4%A9%E6%BD%B0-%E8%AA%AA%E6%B2%92%E6%88%BF%E9%96%93-newsebc/vi-AA2hmvF6": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
   "https://news.cts.com.tw/cts/life/202611/202611133100843.html": {
    "checked_at": "2026-11-16T20:53+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://tw.sports.yahoo.com/news/%E7%B8%BD%E7%B5%B1%E7%9B%83%E8%A1%97%E8%88%9E%E5%A4%A7%E8%B3%BD11-14%E6%B1%BA%E6%88%B0%E5%87%B1%E9%81%93-%E4%B8%B2%E8%81%AF%E8%87%BA%E5%8C%97%E6%A6%AE%E7%94%BA%E5%95%86%E5%9C%88-%E9%9B%86%E9%BB%9E%E9%80%81%E7%A6%AE-300%E4%BB%BD%E5%A5%BD%E7%A6%AE%E7%AD%89%E4%BD%A0%E6%8B%BF-102047970.html": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T18:20+08:00",
-   "site_name": "Yahoo News",
-   "description": "2026總統盃街舞大賽全國總決賽即將於11月14日（六）在臺北凱達格蘭大道熱血登場！今年除了邀請巴黎奧運舞者、世界冠軍及國際街舞名家齊聚臺灣，更結合臺北榮町商圈推出「集點送禮」活動，串聯23家特色店家，邀請民眾在欣賞精彩街舞賽事之餘，也能走進周邊商圈，體驗在地美食與文化魅力。",
-   "cities": {
-    "台北市": 10
-   },
-   "districts": [
-    "榮町商圈（台北市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 3387,
-   "image": "https://media.zenfs.com/ko/tsna.com.tw/d631db2c462a217b87dd094afa2cde6e.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://taiwanreports.com/archives/1026022": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T18:25+08:00",
-   "site_name": "臺灣導報",
-   "description": "【記者吳惠民桃園報導】桃園市副市長蘇俊賓日前在市府經濟發展局長張誠、法務局長賴彌鼎、婦幼發展局長杜慈容、桃園區長許敏松、桃園市商圈產業聯合會 .......繼續閱讀",
-   "cities": {
-    "桃園市": 17,
-    "高雄市": 1
-   },
-   "districts": [
-    "大溪形象商圈（桃園市）",
-    "拉拉山商圈（桃園市）"
-   ],
-   "body_chars": 954,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.storm.mg/lifestyle/11181296": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T15:07+08:00",
-   "site_name": null,
-   "description": "台北市作為台灣的首都，不論平日或假日都吸引許多觀光客造訪，去哪都很方便，根據《交通部觀光署觀光統計資料庫》最新統計，2026年1至8月期間，台北市各大熱門景點已吸引破千萬人次造訪，最熱門景點前三名分別由台北101及信義商圈、心中山線形公園及赤峰街商圈以及西門町商圈拿下，去過的網友都表示「交通便利」、「逛整天都不膩」。2",
-   "cities": {
-    "台北市": 29,
-    "新竹": 2
-   },
-   "districts": [
-    "赤峰街商圈（台北市）",
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 2580,
-   "image": "https://images.storm.mg/cloud/ba744d7c8f0b594a6ceb913c664e258f415f90e7.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2001603%2F20250108-040358_U16224_M1022221_38d3.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/amp/news/society/breakingnews/5639189": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T09:35+08:00",
-   "site_name": "自由時報電子報",
-   "description": "宜蘭市進士路2段一家滷味攤，昨晚客人買滷味時因排隊發生口角，進而引爆肢體衝突，2名男子聯手毆打1男，造成被打的許男受傷送醫，目前還在住院觀察。警方漏夜偵辦，連夜逮捕涉案張男，另名朱姓男子在逃；朱是通緝犯，其女友因藏匿人犯也被拘提到案，後續依傷害等罪移送宜蘭地檢察署偵辦。這起衝突發生在12日晚上7時左右，警方接獲民眾報案",
-   "cities": {
-    "宜蘭縣": 13,
-    "新北市": 1,
-    "台中市": 1,
-    "高雄市": 1
-   },
-   "districts": [
-    "神農商圈（宜蘭縣）"
-   ],
-   "body_chars": 940,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/13/5639189_2_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261113693698": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T21:13+08:00",
-   "site_name": "蕃新聞",
-   "description": "【今傳媒/記者李祖東報導】營業用桶裝沙拉油供貨吃緊。11月6日媒體報導，台北有小吃店用油從每桶850",
-   "cities": {
-    "高雄市": 8,
-    "台北市": 2,
-    "台中市": 1
-   },
-   "districts": [],
-   "body_chars": 1337,
-   "image": "https://ni.yam.com/20261113/431481-1500x1000-074ba7de400b1b90.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://mknews.com.tw/2026/11/1014429/": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-07T08:46+08:00",
-   "site_name": "天天上新聞",
-   "description": "墨新聞｜記者鄭富鈺／綜合報導 臺北市長蔣萬安今（6）日晚間出 … Read More",
-   "cities": {
-    "新竹市": 8,
-    "台中市": 7,
-    "高雄市": 7,
-    "嘉義": 7,
-    "台北市": 6
-   },
-   "districts": [
-    "東區商圈（台北市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 3628,
-   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-07",
-   "date_hint_from": "原文時間"
-  },
-  "https://mypeoplevol.com/2026/life/120221/": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-12T21:33+08:00",
-   "site_name": "民眾新聞網",
-   "description": "【記者張嘉誠／綜合報導】",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [
-    "榮町商圈（台北市）"
-   ],
-   "body_chars": 1024,
-   "image": "https://img.pressunion.net/wp-content/uploads/2026/11/2026111222-4.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-12",
-   "date_hint_from": "原文時間"
-  },
-  "https://mypeoplevol.com/2026/life/120122/": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-12T13:25+08:00",
-   "site_name": "民眾新聞網",
-   "description": "【記者葉柏成／新北報導】新北市板橋區最大規模捷運土地開發案正式啟動！新北環狀線板新站捷運開發案今〈12〉日開工，基地面積1392坪，投資金額約60.4億元，將興建地上38層、地下6層全鋼骨大樓，規劃商場、辦公空間及里民活動中心，預計2030年完工，未來可引進約1100名就業人口，市府盼藉由場站開發帶動板新商圈成形。",
-   "cities": {
-    "新北市": 8,
-    "台北市": 1
-   },
-   "districts": [],
-   "body_chars": 951,
-   "image": "https://img.pressunion.net/wp-content/uploads/2026/11/%E6%8D%B7%E8%B2%B4%E8%B3%93%E4%B8%80-4.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-12",
-   "date_hint_from": "原文時間"
-  },
-  "https://ec.ltn.com.tw/article/breakingnews/5639976": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T18:49+08:00",
-   "site_name": "自由時報電子報",
-   "description": "〔記者李靚慧／台北報導〕立法院今（13）日三讀通過《就業保險法》修正案，投保薪資上限與勞保脫鉤，由目前的上限4萬5800 元，未來規劃調高至至少5萬元，讓高薪資勞工在育兒或失業期間，可獲得更貼近",
-   "cities": {
-    "台北市": 2
-   },
-   "districts": [],
-   "body_chars": 1222,
-   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/13/5639976_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cdns.com.tw/articles/1490226": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T20:57+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者孫曜樟∕台北報導 國民黨台北市議員秦慧珠日前公開表示，台北市長蔣萬安在選戰期間「一場都沒有來掃」松山、信義區的市場。蔣萬安請假投入選戰的第二天，十三日的三場拜票行程全都排在松信選區。上午他先到吳興商圈逐攤拜票，途中一名婦人上前陳情，蔣萬安當場承諾會立即了解處理。 蔣萬安十三日上午走訪吳興市場，向攤商及採買民眾逐一握",
-   "cities": {
-    "台北市": 14,
-    "桃園市": 4
-   },
-   "districts": [],
-   "body_chars": 565,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/13205739/20261113000059-1024x768.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/article/yzGK5Z1?view=topic": {
-   "checked_at": "2026-11-13T23:32+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T13:42+08:00",
-   "site_name": "LINE TODAY",
-   "description": "〔即時新聞／綜合報導〕2026年九合一選舉倒數，民進黨台北市長候選人沈伯洋掀起的「洋流」風潮，如今也席捲日本！科技專家許美華分享日本名古屋知...",
-   "cities": {
-    "台北市": 2
-   },
-   "districts": [],
-   "body_chars": 588,
-   "image": "https://today-obs.line-scdn.net/0hAQHJ1VzPHn51MwLv3ethKU1lEg9GVQR3V1ZUEFhhSUlfH1khGV1NHVI3EFILAgwpVVJTEFExREhaVFh7GQ/w1200",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
   },
   "https://www.msn.com/zh-tw/%E6%8A%80%E8%A1%93/iot/%E4%B8%AD%E5%B8%827%E6%9C%9F%E5%95%86%E5%9C%88%E8%A8%AD%E6%99%BA%E6%85%A7%E8%AD%A6%E7%A4%BA%E7%B3%BB%E7%B5%B1-%E6%8F%90%E9%86%92%E9%A7%95%E9%A7%9B%E4%BA%BA%E6%8F%90%E9%AB%98%E8%AD%A6%E8%A6%BA/ar-AA2gWtBC": {
    "checked_at": "2026-11-14T07:18+08:00",
@@ -11225,6 +10855,402 @@
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
+  },
+  "https://www.yesmedia.com.tw/%e7%be%8e%e8%a1%93%e5%9c%92%e9%81%93%e5%95%86%e5%9c%88%e3%80%8c%e7%be%8e%e5%ad%b8%e6%a3%ae%e6%b4%bb%e7%af%80%e3%80%8d-%e4%b8%b2%e8%81%af%e7%94%a2%e6%a5%ad%e8%a7%80%e5%85%89-%e5%89%b5%e9%80%a0%e8%bf%91/": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://tw.sports.yahoo.com/news/%E7%B8%BD%E7%B5%B1%E7%9B%83%E8%A1%97%E8%88%9E%E5%A4%A7%E8%B3%BD11-14%E6%B1%BA%E6%88%B0%E5%87%B1%E9%81%93-%E4%B8%B2%E8%81%AF%E8%87%BA%E5%8C%97%E6%A6%AE%E7%94%BA%E5%95%86%E5%9C%88-%E9%9B%86%E9%BB%9E%E9%80%81%E7%A6%AE-300%E4%BB%BD%E5%A5%BD%E7%A6%AE%E7%AD%89%E4%BD%A0%E6%8B%BF-102047970.html": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T18:20+08:00",
+   "site_name": "Yahoo News",
+   "description": "2026總統盃街舞大賽全國總決賽即將於11月14日（六）在臺北凱達格蘭大道熱血登場！今年除了邀請巴黎奧運舞者、世界冠軍及國際街舞名家齊聚臺灣，更結合臺北榮町商圈推出「集點送禮」活動，串聯23家特色店家，邀請民眾在欣賞精彩街舞賽事之餘，也能走進周邊商圈，體驗在地美食與文化魅力。",
+   "cities": {
+    "台北市": 12
+   },
+   "districts": [
+    "榮町商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 3757,
+   "image": "https://media.zenfs.com/ko/tsna.com.tw/d631db2c462a217b87dd094afa2cde6e.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/article/11182056": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T20:54+08:00",
+   "site_name": null,
+   "description": "秋冬山藥飄香，陽明山在地好滋味即將登場！由士林區農會與財團法人七星農業發展基金會共同主辦的「2026士林陽明山山藥季－山藥秋收，都會慢活」，將於11月21日至22日在台北假日建國花市農業櫥窗舉行。今年活動首度攜手士林商圈特色店家，推出山藥烤栗子拿鐵、山藥麻糬銅鑼燒等聯名限定商品，讓在地農產跨界結合咖啡與甜點，活動期間自",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 1661,
+   "image": "https://images.storm.mg/cloud/870e3e6d38d1eb4763a30fec59bdea21cd9c1ce2.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2255095%2F3xU2xfp27rN8NcuQzMztOfQY0hKCeztr8aK3LX2W.jpeg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/amp/news/society/breakingnews/5639189": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T09:35+08:00",
+   "site_name": "自由時報電子報",
+   "description": "宜蘭市進士路2段一家滷味攤，昨晚客人買滷味時因排隊發生口角，進而引爆肢體衝突，2名男子聯手毆打1男，造成被打的許男受傷送醫，目前還在住院觀察。警方漏夜偵辦，連夜逮捕涉案張男，另名朱姓男子在逃；朱是通緝犯，其女友因藏匿人犯也被拘提到案，後續依傷害等罪移送宜蘭地檢察署偵辦。這起衝突發生在12日晚上7時左右，警方接獲民眾報案",
+   "cities": {
+    "宜蘭縣": 13,
+    "新北市": 1,
+    "南投縣": 1
+   },
+   "districts": [
+    "神農商圈（宜蘭縣）"
+   ],
+   "body_chars": 965,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/13/5639189_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cdns.com.tw/articles/1489171": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T14:30+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者蔡琇惠／新北報導 新北環狀線2020年通車以來，運量穩定成長，2025年年運量突破2200萬，今年每月運量達200萬人次，已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展（TOD）及活化捷運場站周邊土地，板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工，由新北市長侯友",
+   "cities": {
+    "新北市": 22
+   },
+   "districts": [],
+   "body_chars": 964,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/12142852/%E6%8A%95%E8%B3%87%E4%BA%BA%E5%9C%98%E9%9A%8A%E5%90%88%E5%BD%B1_0-1024x684.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/news/%E7%8D%A8%E5%AE%B6-%E8%A5%BF%E9%96%80%E7%94%BA%E8%A8%82%E6%88%BF%E6%B2%92%E5%BE%97%E4%BD%8F-%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%B4%A9%E6%BD%B0-%E8%AA%AA%E6%B2%92%E6%88%BF%E9%96%93-newsebc/vi-AA2hmvF6": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.cdns.com.tw/articles/1486194": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T18:15+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者陳華興／桃園報導 桃園市政府率全國之先推出「商用廚餘機補助計畫」，獲得團膳業、餐飲業者一致好評。市府為進一步減輕中小型餐飲業者的負擔並擴大減量效益，特將商圈、傳統市場及夜市管理機構納入補助範圍，並將設備設計處理量增加一百公斤至五十公斤機型，同時展延申請期限至一一六年八月三十一日，藉以鼓勵更多業者投入廚餘及廢油脂回收",
+   "cities": {
+    "桃園市": 8
+   },
+   "districts": [],
+   "body_chars": 811,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/06181531/77005a-20261106131139453-0-1024x768.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cdns.com.tw/articles/1486711": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-07T18:14+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者陳華興／桃園報導 桃園市長張善政六日晚間出席「一一五年桃園市商圈特色亮點形塑成果發表會」。張善政表示，桃園商圈涵蓋山區、濱海及都會地帶，各具文化底蘊與產業特色，市府將持續推動「一商圈一特色」，整合經發、文化及農業等跨局處資源，協助商圈發掘在地特色、強化品牌行銷，讓桃園特色商圈走向全臺，進一步提升地方產業競爭力。 張",
+   "cities": {
+    "桃園市": 18
+   },
+   "districts": [],
+   "body_chars": 661,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/07181430/77005a-20261107082009928-0-1024x536.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-07",
+   "date_hint_from": "原文時間"
+  },
+  "https://taiwanreports.com/archives/1026022": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T18:25+08:00",
+   "site_name": "臺灣導報",
+   "description": "【記者吳惠民桃園報導】桃園市副市長蘇俊賓日前在市府經濟發展局長張誠、法務局長賴彌鼎、婦幼發展局長杜慈容、桃園區長許敏松、桃園市商圈產業聯合會 .......繼續閱讀",
+   "cities": {
+    "桃園市": 17,
+    "高雄市": 1
+   },
+   "districts": [
+    "大溪形象商圈（桃園市）",
+    "拉拉山商圈（桃園市）"
+   ],
+   "body_chars": 954,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://mypeoplevol.com/2026/life/120221/": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T21:33+08:00",
+   "site_name": "民眾新聞網",
+   "description": "和洋MIX影音創作大賽揭曉得獎名單 文創輕食市集、親子手作同場登場",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [
+    "榮町商圈（台北市）"
+   ],
+   "body_chars": 1024,
+   "image": "https://img.pressunion.net/wp-content/uploads/2026/11/2026111222-4.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261116004172-260410": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T20:33+08:00",
+   "site_name": "中時新聞網",
+   "description": "中聯油脂因致癌油停產，近期食品通路出現沙拉油荒，業者喊苦。經濟部今（16）宣布再推出2大加速供貨措施，包括廠商擴大生產、媒合機制。合計11月、12月，可多生產近50萬桶18公升沙拉油到市面上。立委鍾佳濱在立法院",
+   "cities": {},
+   "districts": [],
+   "body_chars": 814,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-16/656/20261116004173.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E7%9F%B3%E8%88%AB%E4%BA%98%E5%9B%9B%E5%B9%B3%E5%95%86%E5%9C%88%E6%8E%83%E8%A1%97%E6%8B%9C%E7%A5%A8-1-%E5%9C%96-050431124.html": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T13:04+08:00",
+   "site_name": "Yahoo News",
+   "description": "台北市長蔣萬安妻子石舫亘（前左）16日在中山區四平商圈掃街拜票，向民眾爭取支持。",
+   "cities": {
+    "台北市": 24,
+    "桃園市": 4,
+    "台中市": 1,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 3450,
+   "image": "https://media.zenfs.com/zh-tw/cna.com.tw/8a7d550dfa73623db87249c88d30c9b9.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E7%BE%8E%E8%A1%93%E5%9C%92%E9%81%93%E5%95%86%E5%9C%88-%E7%BE%8E%E5%AD%B8%E6%A3%AE%E6%B4%BB%E7%AF%80-%E4%B8%B2%E8%81%AF%E7%94%A2%E6%A5%AD%E8%A7%80%E5%85%89-%E5%89%B5%E9%80%A0%E8%BF%91500%E8%90%AC%E5%85%83%E7%B6%93%E6%BF%9F%E6%95%88%E7%9B%8A-125327045.html": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T20:53+08:00",
+   "site_name": "Yahoo News",
+   "description": "圖:結合萬聖節主題，吸引眾多家庭攜帶小朋友盛裝參與，手持商圈聯名環保提袋，在歡樂的節慶氛圍中體驗萬聖節樂趣。( [...]",
+   "cities": {
+    "台北市": 13,
+    "桃園市": 3,
+    "台中市": 3,
+    "台南市": 1
+   },
+   "districts": [
+    "美術園道商圈（台中市）"
+   ],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/en/mypeople.tw/f3f1530635a8ed100036b4e48fe1d5c1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7238/9882439": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T20:08+08:00",
+   "site_name": "聯合新聞網",
+   "description": "因應中聯油脂停工影響國內沙拉油供應，經濟部今天表示，除協調國內業者增產及擴大進口外，上週起也啟動商圈、夜市及市場供需媒合...",
+   "cities": {
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 1799,
+   "image": "https://udn.com/static/img/UDN_BABY.png",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://mypeoplevol.com/2026/life/120122/": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T13:25+08:00",
+   "site_name": "民眾新聞網",
+   "description": "新北市板橋區最大規模捷運土地開發案正式啟動！新北環狀線板新站捷運開發案今〈12〉日開工，基地面積1392坪，投資金額約60.4億元，將興建地上38層、地下6層全鋼骨大樓，規劃商場、辦公空間及里民活動中心，預計2030年完工，未來可引進約1100名就業人口，市府盼藉由場站開發帶動板新商圈成形。",
+   "cities": {
+    "新北市": 7,
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 951,
+   "image": "https://img.pressunion.net/wp-content/uploads/2026/11/%E6%8D%B7%E8%B2%B4%E8%B3%93%E4%B8%80-4.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/lifestyle/11181296": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T15:07+08:00",
+   "site_name": null,
+   "description": "台北市作為台灣的首都，不論平日或假日都吸引許多觀光客造訪，去哪都很方便，根據《交通部觀光署觀光統計資料庫》最新統計，2026年1至8月期間，台北市各大熱門景點已吸引破千萬人次造訪，最熱門景點前三名分別由台北101及信義商圈、心中山線形公園及赤峰街商圈以及西門町商圈拿下，去過的網友都表示「交通便利」、「逛整天都不膩」。2",
+   "cities": {
+    "台北市": 29,
+    "新竹": 2
+   },
+   "districts": [
+    "赤峰街商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 2580,
+   "image": "https://images.storm.mg/cloud/ba744d7c8f0b594a6ceb913c664e258f415f90e7.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2001603%2F20250108-040358_U16224_M1022221_38d3.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taiwanhot.net/news/1154303/%E6%B4%BB%E7%B5%A1%E7%94%B0%E4%B8%AD%E8%80%81%E8%A1%97%E6%88%90%E7%82%BA%E7%94%B0%E4%B8%AD%E6%96%B0%E4%BA%AE%E9%BB%9E+%E7%94%B0%E4%B8%AD%E9%8E%AE%E7%AC%AC%E4%B8%80%E5%85%AC%E6%9C%89%E9%9B%B6%E5%94%AE%E5%B8%82%E5%A0%B4%E9%87%8D%E5%BB%BA%E5%8B%95%E5%9C%9F": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "台灣好新聞",
+   "description": "為讓田中鎮市中心帶來新的氣象，活絡田中老街成為田中新亮點，彰化縣田中鎮公所第一公有市場重建工程11月16日由鎮長蕭淑芬率領公所同仁在工程基地舉行動土典禮，將興建一座地上三層、地下一層鋼筋混凝土結構建築，並規劃一、二樓為攤位及鋪位，三樓社區聯合活動中心，地下室則為停車場及機房。周邊將設置多功能廣場，連",
+   "cities": {
+    "彰化縣": 6,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 1832,
+   "image": "https://www.taiwanhot.net/cache/1319021/lgnw/medias-20261116-6afaca582e868.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://ctinews.com/news/items/4OaZRlYNa6": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T16:16+08:00",
+   "site_name": "中天新聞網",
+   "description": "首都選戰倒數12天，尋求連任的台北市長蔣萬安「牽手」石舫亘，今（16）日午間前往四平商圈懇託，有店家巧用「安心貼紙」拼成大愛心，直接貼在店門口，成為吸睛的應援布置；石舫亘也以行動支持在地咖啡店，老闆娘則幽默秀出「已付款」圖卡，巧妙呼應時事，為現場增添趣味。",
+   "cities": {
+    "台北市": 4,
+    "桃園市": 1
+   },
+   "districts": [],
+   "body_chars": 606,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261113693698": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T21:13+08:00",
+   "site_name": "蕃新聞",
+   "description": "【今傳媒/記者李祖東報導】營業用桶裝沙拉油供貨吃緊。11月6日媒體報導，台北有小吃店用油從每桶850",
+   "cities": {
+    "高雄市": 8,
+    "台北市": 2,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 1317,
+   "image": "https://ni.yam.com/20261113/431481-1500x1000-074ba7de400b1b90.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ctee.com.tw/news/20261111701513-431401": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T14:43+08:00",
+   "site_name": "中時即時",
+   "description": "近期食用油漲、缺貨問題引發關注，一般民眾購買家用沙拉油則較不受缺油影響。台糖沙拉油為民生用小包裝沙拉油市占率第一名，相對市售油品多因應成本調整價位，但台糖的3公升沙拉油售價僅169元，台糖也透露，17年來從未調整過，因為經濟部要求不能漲價。 台灣糖業股份有限公司董事長吳明昌表示，台糖沙拉油價格主要反...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 543,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-11/1024/20261111701514.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cdns.com.tw/articles/1487373": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T21:04+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者陳金龍／台中報導 因應國內沙拉油供應短缺，中市府多管齊下，協調中央擴大供給、增加進口、盤點替代油品，並強化市場價格稽查。市長盧秀燕也親自召開會議，掌握食用油供需及價格變化，要求市府團隊積極協助業者。市府經發局說明，在食安優先原則下，市府食安處嚴格審查並抽驗福壽公司申請重新上架的油品，確認約一千二百零五公噸產品符合安",
+   "cities": {
+    "台中市": 4
+   },
+   "districts": [],
+   "body_chars": 794,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/08210438/81003a-20261108190539562-0-1024x744.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5643043": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T23:28+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台北市長蔣萬安上任後，發生多起重大兒虐事件、兒少安置及托育監督缺失，也有案件遭監察院糾正，前陣子更爆出社工盜領長者財產爭議，屢次引起外界關注社會安全網及社工制度問題。台北市社會工作人員職業工會今（16）晚在臉書發文表示，蔣萬安因選前繁忙，確定取消原定舉辦的「客廳會」，並向排除萬難安排時間參與的社工夥伴及會員致歉。台北市",
+   "cities": {
+    "台北市": 7,
+    "彰化縣": 1
+   },
+   "districts": [],
+   "body_chars": 713,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/16/5643043_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/Taipei/breakingnews/5642993": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T23:15+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台北市長蔣萬安上任近4年來，鬧出不少與社工相關的爭議，可不僅從未見他有積極解決的態度，如今還傳出他為了自己的選舉取消跟基層社工的對話交流。台北市社會工作人員職業工會今（16日）晚就突然宣布，和蔣萬安的客廳會選前確定取消，聲明中流露滿滿失望。北市社工工會今晚透過臉書粉專發布通知，「『蔣萬安市長候選人與社工的客廳會』，經過",
+   "cities": {
+    "台北市": 8
+   },
+   "districts": [],
+   "body_chars": 884,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/16/phpTR3aiN.png",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cdns.com.tw/articles/1482837": {
+   "checked_at": "2026-11-17T01:12+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T21:12+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "本報綜合報導 中聯停工影響國內沙拉油供應。經濟部三十日表示，持續透過供需媒合、協調國內業者增產及鼓勵進口等方式增加供應，截至十月中旬合計已協助八十九家食品業者取得共一千八百四十二噸沙拉油，另已協調油品進口商第四季擴大進口五千噸，後續也將協助中小型業者以商圈或夜市自治會為單位進行媒合。 經濟部指出，國內供給方面，先前已協",
+   "cities": {},
+   "districts": [],
+   "body_chars": 689,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/10/30211209/81003a-20260818185256015-0_copy1-1024x659.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
   }
  }
 }
