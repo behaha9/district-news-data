@@ -1,20 +1,91 @@
 {
- "fetched_at": "2026-11-16T14:51:07+08:00",
+ "fetched_at": "2026-11-16T20:53:28+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 74,
-  "kept": 23,
-  "resolved": 23,
-  "items": 22,
+  "raw": 81,
+  "kept": 27,
+  "resolved": 27,
+  "items": 25,
   "resolve_this_run": {
-   "online": 6
+   "online": 9
   },
   "dropped_old": [
+   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
    "龍潭散散步：看大池、逛老街，到廟埕湊熱鬧 | 陳映霖 | 品味生活（原文日期 2026-09-05）"
   ]
  },
  "items": [
+  {
+   "title": "陽明山山藥季11月21日登場 攜手士林商圈推限定聯名美食",
+   "google_url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQc0FmR05Ra19iajhCLUJHVWttLUpDTDhWY1NsaU5XSlA2eEdoVmNuU1BwSmhrQm9wbzVDeUppRzQtVktYdVFsZHdSRFFGa2VPS0tuNVhEdUxFV3BQMkhQdGZQMlBXWlQ5WVZpVlNkaXFPeDJFRnZ1dlpLSDBjR3dlRW1PdkVab0VYc1dOTmE5cXB5eGcyc3ZZbWl5eV9vQ2FxOFZMX0gyUnA5RFRHT0dYcWFseFFDWGNpd2lGYU0zRm1JT1p0OFhHbmxUc3FFWHB1MmNabnVFYllidF9ZQlFnQ0JocDJ5N2VCQ3ZOWFZTNFFDZkNZZXZ3eXRMWkN2Y3NQZGxJRVNnUWJibk1PSFBWVmQ1Q0lMTjlERGJwaFRNZ0NzLWU4Y1ZmTU5FN3o3bEFTMTc1Yk5seWVUTFliN3QwdTFkcTFNWDI1cEpKeGVCNEpQVU5OV2ZWbGNqWm5XYUNqR0xpeWh6Yl9iWEpza0E?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-16T18:04+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E9%99%BD%E6%98%8E%E5%B1%B1%E5%B1%B1%E8%97%A5%E5%AD%A311%E6%9C%8821%E6%97%A5%E7%99%BB%E5%A0%B4-%E6%94%9C%E6%89%8B%E5%A3%AB%E6%9E%97%E5%95%86%E5%9C%88%E6%8E%A8%E9%99%90%E5%AE%9A%E8%81%AF%E5%90%8D%E7%BE%8E%E9%A3%9F-100458625.html",
+   "resolved": true
+  },
+  {
+   "title": "鐵道轉鐵馬！YouBike進駐六堆園區 單車慢遊竹田、豐田老街",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85TklNLUhhX2FKb041MW9CdWpPdXhBbFo2dFJ2NWxLVUlqLUMwTVprN3F1UWFjejlMeDEwZFFxUXRXamc2M1pCY1BiT2NDXzZW?oc=5",
+   "source": "客新聞",
+   "source_site": "https://hakkanews.tw",
+   "published_at": "2026-11-16T17:32+08:00",
+   "query": "老街",
+   "url": "https://hakkanews.tw/2026/11/16/312518/",
+   "resolved": true
+  },
+  {
+   "title": "藏身東海商圈的平價港式美食 現蒸石磨腸粉、河粉與生滾粥搭出西屯中式小吃新風貌",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3Q1FnMFpBZ3JpSExIVFlPeUFnUkdQQ09DYlZzTnVNYVprQmtkcU9TZ0tKckRBZ0J4TnpfcjZvSHluRlE1d3FhQS1vMzFUTFotOEE?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-16T17:27+08:00",
+   "query": "商圈",
+   "url": "https://n.yam.com/Article/20261116165221",
+   "resolved": true
+  },
+  {
+   "title": "蔣萬安最強分身上線！石舫亘四平商圈拜票 店家用「安心貼紙」拼大愛心應援",
+   "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14R29GRDREcV9QNVFPbHprQ2dVLVAwQ25sMHhmZWhCSG1Ma2puRTBObG1HaDA0VV9JQkZtS0w4Z2tVZUVDeURmWlVhWDI4M0JaUVd0eUFhVjZrMkR5MEZnN1cyYk00a01wdDlyYktmOA?oc=5",
+   "source": "知新聞",
+   "source_site": "https://www.knews.com.tw",
+   "published_at": "2026-11-16T16:38+08:00",
+   "query": "商圈",
+   "url": "https://www.knews.com.tw/news/5CC4C7B0D68A43E7213FDB039EA80B53",
+   "resolved": true
+  },
+  {
+   "title": "店家幽默秀「已付款」圖卡 石舫亘展高人氣四平商圈掃街",
+   "google_url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOQUFEM3VzOHdaa05CYWJ4SUYxR2JWM0ZFa25XTkJTQTZPNzRrY0RROVVoYnFFREV1RHRQMnFZdl9IaUI3RzgyQTJXRzdQdXYwd0ZXMVg5c1U2WmdWdWJjaDNlWjdLLWJFaVk5X0NRMHhBNzVsZ3VJQXg1UEYxeW9DSG5hZXg5YVhHZ1JvV1k2M2lnNi1NME84ZWtOa3RhenEwVGhTT0NNLVdUWHY3OWpfWEIzbXVmNDQtWWpHTUI0VWxQelA1RWVZWlIxVE9haEEzQXU0N0MtN3RTa3dBRzZSMlBTVktsUENWRzhTSWF2SkpZeUtHSG9PTWwyaUFpWVdZamxpdldhMlZ6SWJYeWh6aGNRbGFpczVKcnZVNVFWWFdLT1hEQXA3Y2w0M1htcVY5R3FoUl80TXhScTZxUzdDMHdsZmpSdGJwazBVTU5Ud3ZaVHVaRVZaVXZJYW1kTVNvdkNGS25memthZGs?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-16T16:16+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E5%BA%97%E5%AE%B6%E5%B9%BD%E9%BB%98%E7%A7%80-%E5%B7%B2%E4%BB%98%E6%AC%BE-%E5%9C%96%E5%8D%A1-%E7%9F%B3%E8%88%AB%E4%BA%98%E5%B1%95%E9%AB%98%E4%BA%BA%E6%B0%A3%E5%9B%9B%E5%B9%B3%E5%95%86%E5%9C%88%E6%8E%83%E8%A1%97-081632333.html",
+   "resolved": true
+  },
+  {
+   "title": "蔣萬安太太石舫亘四平商圈拜票店家貼「安心貼紙」力挺、民眾拿書求簽名| 政治焦點",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kTzNzdlc5ZTh1S3lMcWZ5clJwSzRwV0FRTDNKQmQzUlhjSVlCdG9lSmZxcERjLXFtM3RQYVU0cmJwQWJmVWtqUFNtUE5WWlkwT2dGS2trNlNXRFJO?oc=5",
+   "source": "太報 TaiSounds",
+   "source_site": "https://www.taisounds.com",
+   "published_at": "2026-11-16T15:36+08:00",
+   "query": "商圈",
+   "url": "https://www.taisounds.com/news/content/71/310041",
+   "resolved": true
+  },
+  {
+   "title": "新北淡水老街尾端藏寶地！ 走進第一漁港一次收下歷史、漁船與河景",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UU0VsR2ZGSXhKcktDakFuOHdFTnR5Z0tmVTk5dUVHOWdPaXVRX0pETnhybVgwRjhzTllOTkl1OGd4Z01HT2dlVFdKZF90SXNSWkE?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-16T14:30+08:00",
+   "query": "老街",
+   "url": "https://n.yam.com/Article/20261116855307",
+   "resolved": true
+  },
   {
    "title": "「吃在北平、穿在天津、住在賴興」盧冬松深耕28年打造商圈與宜居社區- 生活",
    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsLXk1cm9zM2g5Sy0zWEZLT3k2UmtXQ1U3VHBxcUZsLXgzaHBvUjdCbHV2Wjl4R0dYYTB6Q2h3dXdtYzh0V0hnTi1CZkgtUUQ1em5ZdjRmYWhsbDBTdHQ0?oc=5",
@@ -76,23 +147,13 @@
    "resolved": true
   },
   {
-   "title": "晚下班也能吃好鍋！黑毛屋插旗南京復興商圈 營業至晚間11點 | 食品餐飲 | 商情",
-   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OUE44TU5kV1FFREZHSEJkRzRtdTZ4YWZOd1R1b1lFVUdqeEhqRXl3V092YWRsTkhMMG9hU1BpUldfSVRoQ09KVWZ2dXFTcUJ4UHE1T0lRTHZ3Zw?oc=5",
-   "source": "經濟日報",
-   "source_site": "https://money.udn.com",
-   "published_at": "2026-11-16T10:01+08:00",
-   "query": "商圈",
-   "url": "https://money.udn.com/money/story/7843/9877384",
-   "resolved": true
-  },
-  {
    "title": "「2026高雄聖誕生活節」紫色浪漫點燈！「耶誕小鎮」連續5個週末登場紫色限定美食、手作耳飾與商圈燈海迎接海內外ARMY",
-   "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTi1xRWhRMHYtOHdoQjBqLTI0bWlDTnJHRUo3emw4bFYwTmNIUjdSZ1pBVHdBS29wR0dBSlVOSkp6UTcwZkhaeldlRjh5MlREU1J5ZE1xaThtZ2VSb3d3NHJPc2J1bXRnaF9HUHpJMkpvRlBaa0IzRms1dU4zN241LTB3TUk?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejlLX0lYX2NLUnZTZlc2QUJKZ3dqd3Y2Sm5sWURxMmMwbjlpM1RETkJvYXRqb2hYRW9LbjJIdDNpU3JleFRqQWVqMlR5OEVGMFlkTnQzNG5uenMwWFJMUTJ3VExfcDk3S1JvSnZyMERTRm5BWWVvNXlCZnlrMnVmVjZxOGxrb2lsT2RRaFkzcWhnU0ZwYV8taWdjSk5fRFRZ?oc=5",
    "source": "高雄市政府全球資訊網",
    "source_site": "https://www.kcg.gov.tw",
-   "published_at": "2026-11-16T09:54+08:00",
+   "published_at": "2026-11-16T09:50+08:00",
    "query": "商圈",
-   "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4E021CD9DDDE7E24",
+   "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=4E021CD9DDDE7E24",
    "resolved": true
   },
   {
@@ -123,6 +184,16 @@
    "published_at": "2026-11-15T23:50+08:00",
    "query": "商圈",
    "url": "https://udn.com/vote2026/video/9FEY6QBG0dk",
+   "resolved": true
+  },
+  {
+   "title": "晚下班也能吃好鍋！黑毛屋插旗南京復興商圈開新店、營業至晚間11點搶攻宵夜商機",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SVDc4OEpiZnNySFI3YzZkTU16N3huNjIzTzExU3JRZ01UWTJ3ZDZmSWJDejAydk9CQVV0MHRhZEpERkhua0lMN2tuaU1iWnF6MkE?oc=5",
+   "source": "Zeek玩家誌",
+   "source_site": "https://zeekmagazine.com",
+   "published_at": "2026-11-15T22:37+08:00",
+   "query": "商圈",
+   "url": "https://zeekmagazine.com/archives/266545",
    "resolved": true
   },
   {
@@ -193,46 +264,6 @@
    "published_at": "2026-11-15T15:05+08:00",
    "query": "商圈",
    "url": "https://17news.net/archives/345984",
-   "resolved": true
-  },
-  {
-   "title": "討論牆| 紅茶愛好者來到空堀商店街別錯過，大阪谷町六丁目紅茶專賣店「IROHARAK（イロハラク）」",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MY3k3bjJYRDNzdmxHMDhUaDdiQ2MwRkg3UkhuQ1l4akxpTUI3OUY2N3RfSDBHWmdud1J5ZEVRRjJ5RG5hU1BIMjQ1a0dadnlCS3k2TExzRkdqQmRPaUJEbTBoUTU?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-14T18:42+08:00",
-   "query": "商店街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/VxpLyny",
-   "resolved": true
-  },
-  {
-   "title": "宜蘭好米進軍臺北核心商圈 微風超市限時三天開放免費試吃",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDdDZ3c3k3ZXpXa1NBSlFDdThtS2ZNQmdpWnUwWk85QVhZYTBhb2lGb1FSSjUxQWJpMkFOOGdtQVYwcUhrUlRyUklId21pWXctLXc?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-14T18:12+08:00",
-   "query": "商圈",
-   "url": "https://n.yam.com/Article/20261114882149",
-   "resolved": true
-  },
-  {
-   "title": "淡水耶誕點燈了！10公尺高聖誕樹閃耀老街 3大燈區展至12/27 | TVBS",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNVEE3dVBBQ0hqcG9jbHVXRl9WSHpZbEx1dzJoV1hpUHJxN3dYY3Jvb0R5QUVSSW53TEZ0OTZ6WGtOVW5QOGNqMWJUQ0hpZG5RT2Zsb0xR?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-14T16:51+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/article/Yapz1yW",
-   "resolved": true
-  },
-  {
-   "title": "全台商圈大洗牌！嘉義Outlet砸50億、台中會展正式營運商場、交通、科技改寫生活圈- 生活新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0MxRHF6TThGTlRBR0RzcTFDcldnSFQ3T3pfYjJnVnd0eWQxcnRGV0MtbGthS0RIUVVNMFRGVVdZZk9nZWRLbTJXUGQ3Tk1wdmNmY3B3YV84NDR3VFNhckRrSnBQbUl4U3h1UzBzbThNR0RsTlRwcWtyMWdvMHUtekVSU01sdlZC?oc=5",
-   "source": "PChome Online 新聞",
-   "source_site": "https://news.pchome.com.tw",
-   "published_at": "2026-11-14T16:43+08:00",
-   "query": "商圈",
-   "url": "https://news.pchome.com.tw/living/m00363/20261114/index-79464572033780363009.html",
    "resolved": true
   }
  ]
