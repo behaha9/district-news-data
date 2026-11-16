@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T12:17:26+08:00",
+ "fetched_at": "2026-11-16T14:51:17+08:00",
  "articles": {
   "https://www.fclnews.com/235170/": {
    "checked_at": "2026-11-14T20:50+08:00",
@@ -12,22 +12,22 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.fclnews.com/235770/": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.juksy.com/article/154111": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.housefun.com.tw/news/article/189863490667.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.yesmedia.com.tw/%e4%b8%ad%e5%b8%82%e7%89%a9%e8%aa%bf%e5%88%b8%e4%ba%ba%e6%b0%a3%e5%a0%b4%e5%9f%9f%e6%8f%ad%e6%9b%89%ef%bc%81%e4%b8%80%e4%b8%ad%e5%95%86%e5%9c%88%e5%a5%aa%e5%86%a0%e3%80%81%e9%80%a2%e7%94%b2%e5%a4%9c/": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -37,7 +37,7 @@
    "error": "'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)"
   },
   "https://www.aoc.gov.tw/showPublic/811": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -63,7 +63,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://life.tw/article/經濟部改造全台四大商圈市場-導入設計改善動線與消費環境-3207568": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 13-25: ordinal not in range(128)"
   },
@@ -84,7 +84,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cna/local/202611/202611043097404.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -137,7 +137,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/society/thehubnews/20261105/index-79384856854895306009.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -147,22 +147,22 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.cts.com.tw/cts/society/202611/202611083098664.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.pchome.com.tw/living/thehubnews/20261105/index-79384856854895306009.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.pchome.com.tw/expense/m00361/20261105/index-79385610973985361013.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.yesmedia.com.tw/%e6%a1%83%e5%9c%92%e6%8e%a8%e5%8b%95%e4%b8%80%e5%95%86%e5%9c%88%e4%b8%80%e7%89%b9%e8%89%b2-%e7%88%ad%e5%8f%962300%e8%90%ac%e8%a3%9c%e5%8a%a9%e8%bc%94%e5%b0%8e%e7%87%9f%e9%81%8b/": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -183,7 +183,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/public/taipei/20261102/index-79361600023397126016.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -198,52 +198,52 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.cts.com.tw/cts/life/202611/202611093098880.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.housefun.com.tw/news/article/135094490873.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://cnews.com.tw/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91%E3%80%80%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88/": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.rti.org.tw/news?uid=3&pid=990616": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.housefun.com.tw/news/article/126729490872.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.cts.com.tw/cna/local/202611/202611103099295.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.housefun.com.tw/news/article/amp/170107490902.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.rti.org.tw/news?uid=3&pid=1050641": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.yunlin.gov.tw/News_Content.aspx?n=1244&s=613563": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.verse.com.tw/article/ozone-wood": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 404,
    "error": "HTTP Error 404: Not Found"
   },
@@ -253,22 +253,22 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.watchmedia01.com/archives/568607": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.cts.com.tw/cts/life/202611/202611113099843.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.pchome.com.tw/living/lifetoutiao/20261110/index-79429134881352315009.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.housefun.com.tw/news/article/304019490959.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -289,12 +289,12 @@
    "date_hint_from": "原文時間"
   },
   "https://smiletaiwan.cw.com.tw/article/9581": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://city.gvm.com.tw/article/134469": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 202,
    "published_at": null,
    "site_name": null,
@@ -362,471 +362,10 @@
    "date_hint": null,
    "date_hint_from": null
   },
-  "https://www.msn.com/zh-tw/news/other/%E6%8E%92%E9%9A%8A%E7%88%86%E8%82%A2%E9%AB%94%E8%A1%9D%E7%AA%81-%E5%AE%9C%E8%98%AD%E5%95%86%E5%9C%88%E6%BB%B7%E5%91%B3%E6%94%A4%E5%89%8D%E5%A4%A7%E4%BA%82%E9%AC%A5-%E7%94%B7%E9%81%AD%E7%95%B6%E8%A1%97%E5%9C%8D%E6%AF%86-1%E9%80%9A%E7%B7%9D%E7%8A%AF%E5%9C%A8%E9%80%83/ar-AA2hkzrH": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://money.udn.com/money/story/11799/9875161": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T10:02+08:00",
-   "site_name": "經濟日報",
-   "description": "因應數位科技發展、淨零轉型及市場競爭挑戰，桃園市政府持續透過「桃園市商業轉型服務中心」整合中央與地方資源，提供專業輔導及補助申請服務，協助業者升級轉型，12日舉辦115年桃園市商業轉型服務中心暨桃金好禮好店成果發表會，展現年度推動成果，今年累計輔導104家業者，協助爭取約2,300萬元中央補助及輔導資源，並完成5處大型",
-   "cities": {
-    "桃園市": 20
-   },
-   "districts": [],
-   "body_chars": 1575,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35512458.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=529&sl=W&fw=1050&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://money.udn.com/money/story/5635/9875138": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T11:09+08:00",
-   "site_name": "經濟日報",
-   "description": "繼「gonna共樂遊」餐飲品牌打響名氣，跨足生活產業生態圈的雄獅集團，旗下餐飲事業欣食旅再插旗台北東區，持續擴大健康餐飲版圖，全新品牌「GIMME」於11月12日在信義商圈新光三越A8館正式開幕，鎖定都會「輕社交」商機，主打地中海小盤菜等健康美食、台灣烏龍茶創意調酒，預料又將會是台北東區另一新的餐飲社交熱門地點。 雄獅",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [],
-   "body_chars": 2106,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35512419.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=1049&sl=W&fw=1050&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261113345041": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T10:32+08:00",
-   "site_name": "蕃新聞",
-   "description": "記者黃俊育 / 新北報導新北環狀線2020年通車以來，運量穩定成長，2025年年運量突破2200萬，",
-   "cities": {
-    "新北市": 14
-   },
-   "districts": [],
-   "body_chars": 1099,
-   "image": "https://ni.yam.com/20261113/HyIEAj37TED3Bld9ZHjf-0ba7931dc2040f90.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261110138610": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-10T11:29+08:00",
-   "site_name": "蕃新聞",
-   "description": "報新聞/記者楊清瑜隨著白露時節到來，秋意逐漸染上海線街區。臺中港舶來品商圈持續打造年度特色活動，今年",
-   "cities": {
-    "台中市": 4
-   },
-   "districts": [],
-   "body_chars": 843,
-   "image": "https://ni.yam.com/20261110/1794280257917-1024x771-220cd9d51d460cf1.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-10",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.mirrormedia.mg/external/setn_1938259": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T10:18+08:00",
-   "site_name": "鏡週刊 Mirror Media",
-   "description": "宜蘭大學神農商圈某滷味攤12日晚間驚傳暴力衝突，張姓與朱姓男子疑似因排隊買滷味與許姓男子發生口角，雙方當街大打出手。許男遭2人聯手圍毆並倒地拖行，造成全身受傷送醫。警方獲報後於3小時內逮獲涉案張男及朱男女友，但朱男為通緝犯仍在逃，警方正全力追緝中，全案依傷害等罪嫌移送法辦。",
-   "cities": {
-    "宜蘭縣": 8,
-    "新北市": 1,
-    "高雄市": 1
-   },
-   "districts": [
-    "迪化街商圈（台北市）",
-    "神農商圈（宜蘭縣）"
-   ],
-   "body_chars": 819,
-   "image": "https://attach.setn.com/newsimages/2026/11/13/5786272-PH.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%B8%B6%E5%8B%95%E6%9D%B1%E5%8D%80%E4%BA%BA%E6%BD%AE-%E8%94%A3%E8%90%AC%E5%AE%89%E6%89%BF%E8%AB%BE%E5%95%86%E5%9C%88%E5%BB%BA%E8%A8%AD%E7%B6%93%E8%B2%BB-%E5%8F%AA%E6%9C%83%E5%A4%9A-%E4%B8%8D%E6%9C%83%E5%B0%91-154707948.html": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-06T23:47+08:00",
-   "site_name": "Yahoo News",
-   "description": "【互傳媒／記者 謝忠義／台北 報導】臺北市長蔣萬安今（6）日晚間出席「東區周年慶啟動儀式」，與遠東SOGO百貨",
-   "cities": {
-    "台北市": 20,
-    "新北市": 6,
-    "新竹縣": 4,
-    "桃園市": 1,
-    "基隆市": 1
-   },
-   "districts": [
-    "東區商圈（台北市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 3603,
-   "image": "https://media.zenfs.com/ko/hoomedia_675/2c250f9a3ed03a75eeae58461faf77b5.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-06",
-   "date_hint_from": "原文時間"
-  },
-  "https://sunmedia.tw/news/collaborative/37PnoorVSa5f1LfRamI1dz8T5RdLr89LmvJUoCXGBJxMqz44iYTF0WMOUc40pjbKjjFeCYZbduXfTkEJHNTx": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-12T13:25+08:00",
-   "site_name": "商傳媒",
-   "description": "板新商圈新地標！   板橋最大捷運開發案動土2030年完工",
-   "cities": {
-    "新北市": 5
-   },
-   "districts": [],
-   "body_chars": 816,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-11-12",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261112971220": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-12T22:59+08:00",
-   "site_name": "蕃新聞",
-   "description": "【創新聞記者李春台 / 桃園報導】桃園市副市長蘇俊賓今（12）日上午於市府一樓川堂，出席「桃園市商業",
-   "cities": {
-    "桃園市": 18
-   },
-   "districts": [
-    "大溪形象商圈（桃園市）",
-    "拉拉山商圈（桃園市）"
-   ],
-   "body_chars": 1337,
-   "image": "https://pronews.tw/wp-content/uploads/2026/11/A7309471.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-12",
-   "date_hint_from": "原文時間"
-  },
   "https://storystudio.tw/article/gushi/the-story-of-nanfang-ao": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 404,
    "error": "HTTP Error 404: Not Found"
-  },
-  "https://n.yam.com/Article/20261107489569": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-07T07:29+08:00",
-   "site_name": "蕃新聞",
-   "description": "（媒角抵加總主筆李彥謀／專訪）新北市樹林鶯歌區的立委是蘇巧慧，土城三峽的立委是吳琪銘，都是民進黨，看",
-   "cities": {
-    "新北市": 12,
-    "台中市": 1,
-    "台南市": 1,
-    "高雄市": 1
-   },
-   "districts": [],
-   "body_chars": 1754,
-   "image": "https://ni.yam.com/20261107/20261106-1---1ea735c9a6cc2f73.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-07",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ctee.com.tw/news/20261113700662-431401": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T10:11+08:00",
-   "site_name": "工商時報",
-   "description": "乾杯集團旗下日式鍋物品牌「黑毛屋」再拓新據點，正式插旗台北南京復興商圈開設「慶城店」，為黑毛屋全台第21家門店，也是第二間街邊店。為搶攻「夜經濟」，新店營業至晚間11點，主打四大經典日式鍋物，套餐380元起，上班族即使晚下班，也能從容享用鍋物美味，為商圈增添鍋物新選擇！ 黑毛屋慶城店看準南京復興商圈...",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [],
-   "body_chars": 883,
-   "image": "https://images.ctee.com.tw/newsphoto/2026-11-13/1024/20261113700663.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/realtimenews/20261107000881-260407": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-07T07:54+08:00",
-   "site_name": "中時新聞網",
-   "description": "選戰進入最後階段階段，台北市長蔣萬安妻子石舫亘近期積極代夫掃街，蔣昨（6日）到東區商圈、遼寧夜市拜票掃街，石晚間則在景美夜市拜票，兩人分進合擊。曾和石一起在市場拜票的國民黨台北市議員鍾沛君透露，最讓她",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [
-    "東區商圈（台北市）"
-   ],
-   "body_chars": 687,
-   "image": "https://images.chinatimes.com/newsphoto/2026-11-04/656/20261104003657.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-07",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/amp/news/politics/paper/1777571": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-07T05:30+08:00",
-   "site_name": "自由時報電子報",
-   "description": "台北市長蔣萬安日前在電視辯論會上說，「大巨蛋讓東區商圈活起來，店面出租率超過九成」，部分當地店家體感有別，蔣萬安昨利用出席「東區週年慶」活動之便，安排東區掃街，受到商家歡迎。此外，蔣萬安於昨天中午訪視成淵高中之前，一早也先出席在建中舉辦的「台北國際青年科學論壇（TIYSF）」，以全英語致詞，一洗之前陰霾。知名DJ林哲儀",
-   "cities": {
-    "台北市": 7,
-    "新竹": 1
-   },
-   "districts": [
-    "東區商圈（台北市）"
-   ],
-   "body_chars": 709,
-   "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-   "image_checked": true,
-   "date_hint": "2026-11-07",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261106229950": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-06T23:57+08:00",
-   "site_name": "蕃新聞",
-   "description": "【互傳媒／記者 謝忠義／台北 報導】臺北市長蔣萬安今（6）日晚間出席「東區周年慶啟動儀式」，與遠東S",
-   "cities": {
-    "台北市": 6
-   },
-   "districts": [
-    "東區商圈（台北市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 904,
-   "image": "https://ni.yam.com/20261106/8eda124fb936072c7c6590a0e84aee55-081f9352b3b7ca5e.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-06",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.upmedia.mg/tw/lifestyle/spotlight/273720": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-09T16:37+08:00",
-   "site_name": "上報",
-   "description": "由臺北市政府產業發展局商業處與臺北市東區商圈發展協會共同舉辦的「2026東區週年慶，東區Here We Go(購)」，於11月6日至22日盛大...",
-   "cities": {
-    "台北市": 2,
-    "新北市": 2,
-    "嘉義": 1
-   },
-   "districts": [
-    "東區商圈（台北市）"
-   ],
-   "body_chars": 685,
-   "image": "https://cdn.upmedia.mg/upfile/img/2026/1109/202611091636368023.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-09",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ettoday.net/news/20261113/3271482.htm": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T10:52+08:00",
-   "site_name": "ETtoday新聞雲",
-   "description": "宜蘭大學神農商圈昨晚（12日）驚傳街頭暴力事件！張姓與朱姓兩名男子在進士路二段一家滷味攤買宵夜時，疑因排隊問題與另一名許姓男子發生口角，竟聯手將許男打倒在地還拖行，驚悚過程嚇壞不少目擊民眾。警方獲報後火速追查，於案發3小時內逮捕涉案的張姓男子，目前正全力追緝持木棍傷人、事後逃逸的朱姓主嫌。",
-   "cities": {
-    "宜蘭縣": 10,
-    "高雄市": 2,
-    "台北市": 1
-   },
-   "districts": [
-    "神農商圈（宜蘭縣）"
-   ],
-   "body_chars": 1193,
-   "image": "https://cdn2.ettoday.net/images/9013/e9013021.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/124652/9862977": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-07T00:00+08:00",
-   "site_name": "聯合新聞網",
-   "description": "選戰倒數，台北市長蔣萬安利用小周末下班尖峰時段開啟「超級陸戰」行程，先在東區商圈走街，晚上到立委本命區掃遼寧夜市；妻子石舫亘到西寧市場和景美夜市，夫妻分進合擊，競總規畫掃街行程持續到選前。沈伯洋則選擇挺進深藍的安居市場，吸引粉絲追隨。",
-   "cities": {
-    "台北市": 7,
-    "新北市": 6,
-    "台中市": 3,
-    "台南市": 3,
-    "彰化縣": 3
-   },
-   "districts": [
-    "東區商圈（台北市）",
-    "小琉球商圈（屏東縣）"
-   ],
-   "body_chars": 1881,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35494128.jpg&M=1&s=Y&x=0&y=127&sw=1249&sh=833&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-07",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261106647956": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-06T13:18+08:00",
-   "site_name": "蕃新聞",
-   "description": "報新聞/編輯部臺北市政府財政局為結合大光華商圈地緣優勢並整合本市創新育成能量，11月5日與國立臺北科",
-   "cities": {
-    "台北市": 6
-   },
-   "districts": [
-    "大光華商圈（台北市）"
-   ],
-   "body_chars": 997,
-   "image": "https://ni.yam.com/20261106/taipei-cover-261106042116696-da9fb786ceddfedd.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-06",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E6%BC%8F%E7%B6%B2%E9%8F%A1%E9%A0%AD-%E8%94%A3%E8%90%AC%E5%AE%89%E6%9D%B1%E5%8D%80%E5%95%86%E5%9C%88%E6%8E%83%E8%A1%97%E6%8B%9C%E7%A5%A8-%E5%BC%B7%E7%A2%B0-%E6%B4%8B%E6%B5%81-%E4%BA%86-215805539.html": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-07T05:58+08:00",
-   "site_name": "Yahoo News",
-   "description": "台北市長蔣萬安6日下午出席東區周年慶啟動儀式，參觀攤位，接著從頂好廣場出發在商圈掃街拜票，再轉往忠孝東路騎樓、巷弄，逐一與商家、民眾握手或合照、簽名。有店家玻璃櫃上貼著「洋流」標語，他舉手請託、爭取握手。",
-   "cities": {
-    "台北市": 19,
-    "新北市": 7,
-    "新竹縣": 6,
-    "桃園市": 2,
-    "高雄市": 1
-   },
-   "districts": [
-    "東區商圈（台北市）"
-   ],
-   "body_chars": 3404,
-   "image": "https://media.zenfs.com/en/libertytimes_786/233afc6b0efa396d0077146f325697e5.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-07",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.storm.mg/lifestyle/11176820": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T11:35+08:00",
-   "site_name": null,
-   "description": "雲林縣擁有深厚的宗教文化、懷舊老街聚落、農村風情與自然山林景觀，從全台聞名的媽祖信仰中心北港、歷史悠久的西螺街區，到適合親子放電的主題樂園與綠地公園，各自展現鮮明魅力，成為不少民眾規畫中南部慢活輕旅行的熱門首選\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-   "cities": {
-    "雲林縣": 11
-   },
-   "districts": [
-    "太平老街商圈（嘉義縣）"
-   ],
-   "body_chars": 2232,
-   "image": "https://images.storm.mg/cloud/b82ac63674934b7541133031e4d87addcf8a8c9e.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2137632%2FfUhxYtoRXJojx3yZCdCTPQxsK0hMCLBObZQCWieP.webp&g=sm&h=900&resize=fill&w=1600&format=jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://turnnewsapp.com/love-tw/422315.html": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-12T16:53+08:00",
-   "site_name": "翻爆 - 翻報",
-   "description": "新北環狀線2020年通車以來，運量穩定成長，2025年年運量突破2200萬，今年每月運量達200萬人次，已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展（TOD）及活化捷運場站周邊土地，板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工，由新北市長侯友宜率領捷運工程局，與投",
-   "cities": {
-    "新北市": 17,
-    "桃園市": 1,
-    "連江縣": 1
-   },
-   "districts": [],
-   "body_chars": 1131,
-   "image": "https://imgv2.azureedge.net/wpupload/2026/11/1112-P4-scaled.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-12",
-   "date_hint_from": "原文時間"
-  },
-  "https://mknews.com.tw/2026/11/1014357/": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-07T06:05+08:00",
-   "site_name": "天天上新聞",
-   "description": "【今傳媒/記者李祖東報導】高雄市議員何權峰感謝黃茂竹榮譽會長 … Read More",
-   "cities": {
-    "高雄市": 5
-   },
-   "districts": [
-    "三鳳中街（高雄市）"
-   ],
-   "body_chars": 324,
-   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-07",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E5%85%AC%E9%A4%A8%E5%95%86%E5%9C%88%E6%8B%9C%E7%A5%A8-%E6%94%AF%E6%8C%81%E8%80%85%E6%B2%BF%E8%B7%AF%E6%8F%AE%E6%89%8B-%E5%9C%96-131533298.html": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-12T21:15+08:00",
-   "site_name": "Yahoo News",
-   "description": "台北市長蔣萬安12日晚間前往中正區公館商圈掃街拜票，沿途不少熱情支持者在人行道旁揮手致意，部分民眾手持寫著「挺台北 挺萬安」的標語表達支持。",
-   "cities": {
-    "台北市": 13,
-    "新北市": 6,
-    "新竹縣": 4,
-    "桃園市": 2,
-    "台中市": 2
-   },
-   "districts": [],
-   "body_chars": 3268,
-   "image": "https://media.zenfs.com/ko/cna.com.tw/5191d69d84e961d58c4dbe41cd5cc731.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-12",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cna.com.tw/topic/newstopic/5056.aspx": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-08-08T09:03+08:00",
-   "site_name": "中央社 CNA",
-   "description": "2026年九合一選舉於11月28日登場，涵蓋22縣市首長與地方民代等多項公職。選舉結果牽動各縣市執政版圖，是民意對地方施政成果的關鍵檢驗，也被視為2028年總統大選前哨戰。讓中央社帶您掌握選情動態與關鍵焦點。",
-   "cities": {
-    "新北市": 12,
-    "台北市": 10,
-    "台中市": 10,
-    "桃園市": 7,
-    "嘉義市": 5
-   },
-   "districts": [],
-   "body_chars": 2819,
-   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/newstopic/202609/800x600_088529201395.jpg",
-   "image_checked": true,
-   "date_hint": "2026-08-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-11-13/2524628.html": {
-   "checked_at": "2026-11-13T12:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T11:14+08:00",
-   "site_name": "壹電視",
-   "description": "選戰倒數，台北市長蔣萬安12日晚間直搗公館商圈掃街，現場湧入大批年輕人搶著自拍，人氣相當旺。",
-   "cities": {
-    "台北市": 3
-   },
-   "districts": [],
-   "body_chars": 300,
-   "image": "https://image.nexttv.com.tw/material/news/img/2026/11/20261113101530qbGi.png",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
   },
   "https://www.taichung.gov.tw/3401276/post": {
    "checked_at": "2026-11-13T20:52+08:00",
@@ -2125,7 +1664,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/society/tcpttw/20261113/index-79454856391617334002.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3044,7 +2583,7 @@
    "date_hint_from": null
   },
   "https://news.cts.com.tw/cts/life/202611/202611133100843.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4438,7 +3977,7 @@
    "date_hint_from": null
   },
   "https://news.pchome.com.tw/society/ctinews/20261113/index-79455365215514309002.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4519,7 +4058,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/living/m00363/20261114/index-79464572033780363009.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5586,7 +5125,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.houseprice.tw/12913/": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7567,7 +7106,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.myhousing.com.tw/mediapartner/i-news/306203/": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7833,7 +7372,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/living/nownews/20261109/index-79421459003968207009.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -9313,7 +8852,7 @@
    "date_hint_from": "原文時間"
   },
   "https://zeekmagazine.com/archives/266545": {
-   "checked_at": "2026-11-16T07:17+08:00",
+   "checked_at": "2026-11-16T14:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -9839,9 +9378,29 @@
    "date_hint_from": null
   },
   "https://new-reporter.com/news/332862/": {
-   "checked_at": "2026-11-16T07:17+08:00",
-   "status": 503,
-   "error": "HTTP Error 503: Service Unavailable"
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T00:55+08:00",
+   "site_name": "記者爆料網",
+   "description": "【警政時報",
+   "cities": {
+    "桃園市": 26,
+    "台中市": 3,
+    "嘉義": 2,
+    "台北市": 1,
+    "台南市": 1
+   },
+   "districts": [
+    "中壢車站商圈（桃園市）",
+    "藝文商圈（桃園市）",
+    "角板山商圈（桃園市）",
+    "枕頭山商圈（桃園市）"
+   ],
+   "body_chars": 2557,
+   "image": "https://www.tcpttw.com/wp-content/uploads/2026/11/145649.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
   },
   "https://www.chinatimes.com/realtimenews/20261106002611-260405": {
    "checked_at": "2026-11-16T07:17+08:00",
@@ -10607,9 +10166,20 @@
    "date_hint_from": "原文時間"
   },
   "https://www.kmt.org.tw/2026/11/blog-post_312.html": {
-   "checked_at": "2026-11-16T07:17+08:00",
-   "status": 429,
-   "error": "HTTP Error 429: Too Many Requests"
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "中國國民黨全球資訊網",
+   "description": null,
+   "cities": {
+    "台北市": 6
+   },
+   "districts": [],
+   "body_chars": 1211,
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVf9A33mB4t7pC2jNZEVUnrtJzrPKZeg2X_gzaeIaqGQFH_hi_o3RItEXg1GLLU4we35zWXNjD-2TB_iA5T5vosgaLYrosCSbnL3vQHV-TDOTpnZQ_sJo0cjix4HNW6C0utrGrXKFfIYoSCYQwS4PiPp2czetcvfHaMFV7Ktk1x9fs6BBTzZb5BaRLU5pQ/s1600/785A7200.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   },
   "https://www.nownews.com/news/6889076": {
    "checked_at": "2026-11-16T07:17+08:00",
@@ -11288,6 +10858,438 @@
    ],
    "body_chars": 1101,
    "image": "https://orgws.kcg.gov.tw/001/KcgOrgUploadFiles/334/RelPic/69492/544472/9b43593c-245f-4128-a93c-b9bb5f2acf79@710x470.jpg?rt=1151116121730",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://sunmedia.tw/news/collaborative/37PnoorVSa5f1LfRamI1dz8T5RdLr89LmvJUoCXGBJxMqz44iYTF0WMOUc40pjbKjjFeCYZbduXfTkEJHNTx": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T13:25+08:00",
+   "site_name": "商傳媒",
+   "description": "板新商圈新地標！   板橋最大捷運開發案動土2030年完工",
+   "cities": {
+    "新北市": 5
+   },
+   "districts": [],
+   "body_chars": 816,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/5635/9875138": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T11:09+08:00",
+   "site_name": "經濟日報",
+   "description": "繼「gonna共樂遊」餐飲品牌打響名氣，跨足生活產業生態圈的雄獅集團，旗下餐飲事業欣食旅再插旗台北東區，持續擴大健康餐飲版圖，全新品牌「GIMME」於11月12日在信義商圈新光三越A8館正式開幕，鎖定都會「輕社交」商機，主打地中海小盤菜等健康美食、台灣烏龍茶創意調酒，預料又將會是台北東區另一新的餐飲社交熱門地點。 雄獅",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 2019,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35512419.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=1049&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261113345041": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T10:32+08:00",
+   "site_name": "蕃新聞",
+   "description": "記者黃俊育 / 新北報導新北環狀線2020年通車以來，運量穩定成長，2025年年運量突破2200萬，",
+   "cities": {
+    "新北市": 14,
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 1078,
+   "image": "https://ni.yam.com/20261113/HyIEAj37TED3Bld9ZHjf-0ba7931dc2040f90.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261110138610": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-10T11:29+08:00",
+   "site_name": "蕃新聞",
+   "description": "報新聞/記者楊清瑜隨著白露時節到來，秋意逐漸染上海線街區。臺中港舶來品商圈持續打造年度特色活動，今年",
+   "cities": {
+    "台中市": 4
+   },
+   "districts": [],
+   "body_chars": 839,
+   "image": "https://ni.yam.com/20261110/1794280257917-1024x771-220cd9d51d460cf1.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-10",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/115%E5%B9%B4%E6%A1%83%E9%87%91%E5%A5%BD%E7%A6%AE%E5%A5%BD%E5%BA%97%E6%88%90%E6%9E%9C%E4%BA%AE%E7%9B%B8-%E5%B1%95%E7%8F%BE%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E6%96%B0%E6%B4%BB%E5%8A%9B/ar-AA2hlqqC": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.msn.com/zh-tw/news/other/%E6%8E%92%E9%9A%8A%E7%88%86%E8%82%A2%E9%AB%94%E8%A1%9D%E7%AA%81-%E5%AE%9C%E8%98%AD%E5%95%86%E5%9C%88%E6%BB%B7%E5%91%B3%E6%94%A4%E5%89%8D%E5%A4%A7%E4%BA%82%E9%AC%A5-%E7%94%B7%E9%81%AD%E7%95%B6%E8%A1%97%E5%9C%8D%E6%AF%86-1%E9%80%9A%E7%B7%9D%E7%8A%AF%E5%9C%A8%E9%80%83/ar-AA2hkzrH": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.ctee.com.tw/news/20261116701273-431401": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T14:23+08:00",
+   "site_name": "工商時報",
+   "description": "「吃在北平、穿在天津、住在賴興」，一句朗朗上口的地方口號，道出台中市賴興里的獨特魅力。北平路匯聚各式小吃美食，天津路則是知名服飾批發商圈，兩條街道各自發展出鮮明的產業特色，也成為賴興里的地方招牌。 從民國87年當選第一屆里長至今，盧冬松深耕地方28年，將商圈發展、社區營造與居民照顧結合，逐步打造兼具...",
+   "cities": {
+    "台中市": 2
+   },
+   "districts": [
+    "天津路服飾商圈（台中市）"
+   ],
+   "body_chars": 937,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-16/1024/20261116701274.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/11799/9875161": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T10:02+08:00",
+   "site_name": "經濟日報",
+   "description": "因應數位科技發展、淨零轉型及市場競爭挑戰，桃園市政府持續透過「桃園市商業轉型服務中心」整合中央與地方資源，提供專業輔導及補助申請服務，協助業者升級轉型，12日舉辦115年桃園市商業轉型服務中心暨桃金好禮好店成果發表會，展現年度推動成果，今年累計輔導104家業者，協助爭取約2,300萬元中央補助及輔導資源，並完成5處大型",
+   "cities": {
+    "桃園市": 20
+   },
+   "districts": [],
+   "body_chars": 1488,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35512458.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=529&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%B8%B6%E5%8B%95%E6%9D%B1%E5%8D%80%E4%BA%BA%E6%BD%AE-%E8%94%A3%E8%90%AC%E5%AE%89%E6%89%BF%E8%AB%BE%E5%95%86%E5%9C%88%E5%BB%BA%E8%A8%AD%E7%B6%93%E8%B2%BB-%E5%8F%AA%E6%9C%83%E5%A4%9A-%E4%B8%8D%E6%9C%83%E5%B0%91-154707948.html": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T23:47+08:00",
+   "site_name": "Yahoo News",
+   "description": "【互傳媒／記者 謝忠義／台北 報導】臺北市長蔣萬安今（6）日晚間出席「東區周年慶啟動儀式」，與遠東SOGO百貨",
+   "cities": {
+    "台北市": 37,
+    "桃園市": 2,
+    "高雄市": 2
+   },
+   "districts": [
+    "東區商圈（台北市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/hoomedia_675/2c250f9a3ed03a75eeae58461faf77b5.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E8%A5%BF%E9%96%80%E7%94%BA%E7%9F%A5%E5%90%8D%E9%A4%90%E5%BB%B3%E7%88%86%E6%8C%81%E5%88%80%E8%A1%9D%E7%AA%81-1%E7%94%B7%E9%81%AD%E8%AD%A6%E5%A3%93%E5%88%B6-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2hvXsn": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.ctee.com.tw/news/20261113700662-431401": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T10:11+08:00",
+   "site_name": "工商時報",
+   "description": "乾杯集團旗下日式鍋物品牌「黑毛屋」再拓新據點，正式插旗台北南京復興商圈開設「慶城店」，為黑毛屋全台第21家門店，也是第二間街邊店。為搶攻「夜經濟」，新店營業至晚間11點，主打四大經典日式鍋物，套餐380元起，上班族即使晚下班，也能從容享用鍋物美味，為商圈增添鍋物新選擇！ 黑毛屋慶城店看準南京復興商圈...",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 883,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-13/1024/20261113700663.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261112971220": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T22:59+08:00",
+   "site_name": "蕃新聞",
+   "description": "【創新聞記者李春台 / 桃園報導】桃園市副市長蘇俊賓今（12）日上午於市府一樓川堂，出席「桃園市商業",
+   "cities": {
+    "桃園市": 18
+   },
+   "districts": [
+    "大溪形象商圈（桃園市）",
+    "拉拉山商圈（桃園市）"
+   ],
+   "body_chars": 1324,
+   "image": "https://pronews.tw/wp-content/uploads/2026/11/A7309471.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ctv.com.tw/Article/闖西門町餐廳-亮刀揮舞-國道貨車-撞爆機械車-中視新聞-20261116": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": "error",
+   "error": "'ascii' codec can't encode characters in position 13-18: ordinal not in range(128)"
+  },
+  "https://news.tvbs.com.tw/local/4051219": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T14:05+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "台北市西門町商圈一間韓式餐廳於15日下午發生持刀事件，一名22歲葉姓男子持折疊刀闖入餐廳內閒晃，並在櫃檯前向店員亮刀理論，現場顧客見狀嚇壞立即報警。警方獲報後迅速抵達現場，成功將男子壓制逮捕，所幸事件未造成任何人員受傷。",
+   "cities": {
+    "台北市": 6,
+    "台南市": 4,
+    "新北市": 3,
+    "台東縣": 3,
+    "嘉義縣": 2
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 2930,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1e291-bf9f-7390-9f3c-3398e1fcc69f.jpg?t=16x9&c=0,139,1477,970&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://life.tw/article/%E8%A5%BF%E9%96%80%E7%94%BA%E9%A9%9A%E5%82%B3%E7%94%B7%E5%AD%90%E5%B0%8D%E5%BA%97%E5%93%A1%E4%BA%AE%E5%88%80-%E4%BB%96%E8%A2%AB%E6%8D%95%E7%A8%B1-%E9%81%AD%E5%BA%97%E5%93%A1%E8%BE%B1%E7%BD%B5-3219935": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-15T22:55+08:00",
+   "site_name": "LIFE 生活網",
+   "description": "一名男子在西門町的「兩餐」餐廳內，突然對櫃檯店員亮刀，引起民眾恐慌並報警。",
+   "cities": {},
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 683,
+   "image": "https://life.tw/proxy.php?url=https://static.ctwant.com/images/cover/29/506929/md-9a843956d78cbcae13dace53c53ba8df.png",
+   "image_checked": true,
+   "date_hint": "2026-11-15",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mirrormedia.mg/external/setn_1938259": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T10:18+08:00",
+   "site_name": "鏡週刊 Mirror Media",
+   "description": "宜蘭大學神農商圈某滷味攤12日晚間驚傳暴力衝突，張姓與朱姓男子疑似因排隊買滷味與許姓男子發生口角，雙方當街大打出手。許男遭2人聯手圍毆並倒地拖行，造成全身受傷送醫。警方獲報後於3小時內逮獲涉案張男及朱男女友，但朱男為通緝犯仍在逃，警方正全力追緝中，全案依傷害等罪嫌移送法辦。",
+   "cities": {
+    "宜蘭縣": 8,
+    "新北市": 1,
+    "高雄市": 1
+   },
+   "districts": [
+    "迪化街商圈（台北市）",
+    "神農商圈（宜蘭縣）"
+   ],
+   "body_chars": 819,
+   "image": "https://attach.setn.com/newsimages/2026/11/13/5786272-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.scooptw.com/tyenews/552782/%e6%a1%83%e5%9c%923%e5%a4%a7%e5%95%86%e5%9c%88%e7%8d%b2%e4%b8%ad%e5%a4%ae%e8%82%af%e5%ae%9a-%e7%b6%93%e7%99%bc%e5%b1%80%ef%bc%9a%e6%8c%81%e7%ba%8c%e6%8a%95%e5%85%a5%e6%8c%af%e8%88%88%e8%88%87%e8%bd%89/": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T10:41+08:00",
+   "site_name": "獨家報導",
+   "description": "桃園市魅力金三角商圈榮奪「亮點觀光獎」。圖：經發局提供 由經濟部商業發展署主辦的「2026全國卓越商圈獎」昨(10)日舉行頒獎典禮，桃園市三大商圈表現亮眼，包括桃園市魅力金三角商圈榮奪「亮點觀光獎」、桃園市桃園車站商圈與桃園市站前商圈則雙雙獲頒「優選」商圈，充分展現桃園商圈在文化融合、品牌創新與多元觀光領域的卓越成果。",
+   "cities": {
+    "桃園市": 30
+   },
+   "districts": [
+    "魅力金三角商圈（桃園市）"
+   ],
+   "body_chars": 984,
+   "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2026/11/s__357605385_0_result.webp?w=696&ssl=1",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261113/3271482.htm": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T10:52+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "宜蘭大學神農商圈昨晚（12日）驚傳街頭暴力事件！張姓與朱姓兩名男子在進士路二段一家滷味攤買宵夜時，疑因排隊問題與另一名許姓男子發生口角，竟聯手將許男打倒在地還拖行，驚悚過程嚇壞不少目擊民眾。警方獲報後火速追查，於案發3小時內逮捕涉案的張姓男子，目前正全力追緝持木棍傷人、事後逃逸的朱姓主嫌。",
+   "cities": {
+    "宜蘭縣": 11,
+    "高雄市": 2,
+    "台北市": 1
+   },
+   "districts": [
+    "神農商圈（宜蘭縣）"
+   ],
+   "body_chars": 1213,
+   "image": "https://cdn2.ettoday.net/images/9013/e9013021.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://hk.crntt.com/crn-webapp/wap/detail.jsp?coluid=92&kindid=0&docid=160289434": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "花蓮近年受天災重創及觀光人潮銳減衝擊，不少黃金店面陸續熄燈，出售、招租，花蓮市金三角商圈陷入嚴峻的商業低谷。中國國民黨籍縣長候選人游淑貞15日拋出“舊城文化再生、商圈經濟振興”策略，針對花蓮市金三角商圈、大禹街及舊鐵道文化徒步區面臨的天災與觀光低谷，提出振興藍圖。　　游淑貞表示，縣府過去雖持續對舊鐵道徒步區、大禹街及金",
+   "cities": {
+    "花蓮縣": 7
+   },
+   "districts": [
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 229,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://tw.news.yahoo.com/%E7%9F%B3%E8%88%AB%E4%BA%98%E5%9B%9B%E5%B9%B3%E5%95%86%E5%9C%88%E6%8E%83%E8%A1%97%E6%8B%9C%E7%A5%A8-2-%E5%9C%96-050533551.html": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T13:05+08:00",
+   "site_name": "Yahoo News",
+   "description": "台北市長蔣萬安妻子石舫亘（前中）16日在中山區四平商圈掃街拜票，向掛有民進黨台北市長候選人沈伯洋旗幟的店家握手致意。",
+   "cities": {
+    "台北市": 35,
+    "高雄市": 2,
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 3766,
+   "image": "https://media.zenfs.com/zh-tw/cna.com.tw/cfa1e942eb7c4780ae8dc53f4c678cc9.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.upmedia.mg/tw/lifestyle/spotlight/273720": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-09T16:37+08:00",
+   "site_name": "上報",
+   "description": "由臺北市政府產業發展局商業處與臺北市東區商圈發展協會共同舉辦的「2026東區週年慶，東區Here We Go(購)」，於11月6日至22日盛大...",
+   "cities": {
+    "台北市": 2,
+    "新北市": 2
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 672,
+   "image": "https://cdn.upmedia.mg/upfile/img/2026/1109/202611091636368023.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-09",
+   "date_hint_from": "原文時間"
+  },
+  "https://turnnewsapp.com/love-tw/422315.html": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T16:53+08:00",
+   "site_name": "翻爆 - 翻報",
+   "description": "新北環狀線2020年通車以來，運量穩定成長，2025年年運量突破2200萬，今年每月運量達200萬人次，已成為市民通勤及日常生活的重要交通運具。新北捷運工程局持續推動大眾運輸導向發展（TOD）及活化捷運場站周邊土地，板橋區規模最大的捷運開發案「新北環狀線板新站」今(12)日正式開工，由新北市長侯友宜率領捷運工程局，與投",
+   "cities": {
+    "新北市": 17
+   },
+   "districts": [],
+   "body_chars": 1120,
+   "image": "https://imgv2.azureedge.net/wpupload/2026/11/1112-P4-scaled.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.rthk.hk/rthk/ch/component/k2/1877954-20261116.htm": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "APEC深圳峰會即將舉行。深圳廣電集團聯同北京廣播電視台、上海廣播電視台推出《APEC「中國年」100小時全媒體大直播》節目。有報道提及記者在華強北將自己的要求變成人工智能眼鏡產品，全程只需要大約1小時，形容是「深圳周期」。 深圳如影隨形計...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 200,
+   "image": "https://newsstatic.rthk.hk/images/mfile_1877954_1_M_20261116130500.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "網址"
+  },
+  "https://today.line.me/tw/v3/article/Yapz1yW": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-14T13:52+08:00",
+   "site_name": "LINE TODAY",
+   "description": "新北市淡水區公所舉辦「2026淡水耶誕 逐光旅程」活動，13日晚間正式點燈。今年活動以旅行為主題，規劃三大燈區，串聯淡水老街、馬偕銅像三角公...",
+   "cities": {
+    "新北市": 4
+   },
+   "districts": [
+    "淡水老街商圈（新北市）"
+   ],
+   "body_chars": 665,
+   "image": "https://today-obs.line-scdn.net/0hqHpE-JuzLmdNPDL3uGBRMHVqIhZ-WjRubwppB2g1cQczEGkwIll9BGpudUtoX2FlbV9hAW07IlAwWTlhIQ/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-14",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.cn/zh-cn/news/other/%E6%97%85%E8%B5%8B%E8%83%BD%E4%BC%A0%E6%96%87%E8%84%89%E7%BB%A5%E5%8C%96%E8%80%81%E8%A1%97%E6%89%93%E9%80%A0%E5%9F%8E%E5%B8%82%E8%AE%B0%E5%BF%86%E6%96%B0%E5%9C%B0%E6%A0%87/ar-AA2hvSu1": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.cna.com.tw/news/aloc/202611160067.aspx": {
+   "checked_at": "2026-11-16T14:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T11:32+08:00",
+   "site_name": "中央社 CNA",
+   "description": "台南市楠西國中校舍因去年1月21日地震受損，師生暫借楠西國小上課，台南市政府與教育部共同投入逾新台幣2億元經費規劃重建，今天舉行動土典禮，預計2028年完工。",
+   "cities": {
+    "台南市": 9
+   },
+   "districts": [],
+   "body_chars": 737,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261116/1152x768_wmkn_0_C20261116000031.jpg",
    "image_checked": true,
    "date_hint": "2026-11-16",
    "date_hint_from": "原文時間"
