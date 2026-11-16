@@ -318,6 +318,295 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-16T20:55:21+08:00",
+   "added": 4,
+   "merged": 4,
+   "items": [
+    {
+     "id": "20261116-kaohsiung-xmas",
+     "title": "高雄聖誕生活節中央公園點燈，連5個週末辦耶誕小鎮並串聯商圈燈海",
+     "summary": "高雄聖誕生活節在中央公園點燈，連續5個週末舉辦耶誕小鎮，並結合商圈燈海與美食、手作攤位。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-16T17:03:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [
+      {
+       "name": "中央公園商圈",
+       "priority": true
+      },
+      {
+       "name": "南華商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "中華新聞雲",
+       "url": "https://www.cdns.com.tw/articles/1491430",
+       "published_at": "2026-11-16T17:03:00+08:00"
+      },
+      {
+       "outlet": "鏡新聞",
+       "url": "https://www.mnews.tw/story/20261116mkt00002",
+       "published_at": "2026-11-16T15:00:00+08:00"
+      },
+      {
+       "outlet": "高雄市政府全球資訊網",
+       "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4E021CD9DDDE7E24",
+       "published_at": "2026-11-16T00:00:00+08:00"
+      }
+     ],
+     "admin_note": "中央公園、南華商圈為115年補助名單，活動串聯商圈燈海，可留意商圈參與情形與執行佐證。",
+     "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/16170311/86009a-20261116155251698-0-1024x676.jpg"
+    },
+    {
+     "id": "20261114-bade-3c-dayy",
+     "title": "八德資訊商圈「3C哈樂DAY」14、15日主場週，六組樂團接力開唱",
+     "summary": "臺北市商業處公告八德資訊商圈11月14、15日舉辦3C哈樂DAY，安排六組樂團演出，並有軍武體驗與復古遊戲等活動。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-16T09:45:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "八德資訊商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "臺北旅遊網",
+       "url": "https://www.travel.taipei/zh-tw/news/details/68356",
+       "published_at": "2026-11-16T09:45:00+08:00"
+      },
+      {
+       "outlet": "臺北市商業處",
+       "url": "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=E00D80575E609565",
+       "published_at": "2026-11-14T00:00:00+08:00"
+      }
+     ],
+     "image": "https://www.travel.taipei/content/images/articles/584971/1024x768_articles-image-cvgutz-anegjd_fse_uj_g.jpg"
+    },
+    {
+     "id": "20261113-heimaowu-nanjing",
+     "title": "黑毛屋插旗台北南京復興商圈開慶城店，主打夜經濟營業至晚間11點",
+     "summary": "日式鍋物品牌黑毛屋在南京復興商圈開設慶城店，為全台第21家門市，主打夜經濟並營業至晚間11點。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-16T10:01:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "南京復興商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/7843/9877384",
+       "published_at": "2026-11-16T10:01:00+08:00"
+      },
+      {
+       "outlet": "ZEEK玩家誌",
+       "url": "https://zeekmagazine.com/archives/266545",
+       "published_at": "2026-11-15T00:00:00+08:00"
+      },
+      {
+       "outlet": "民視新聞網",
+       "url": "https://www.ftvnews.com.tw/news/detail/2026B13W0472",
+       "published_at": "2026-11-13T16:14:00+08:00"
+      },
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261113700662-431401",
+       "published_at": "2026-11-13T10:11:00+08:00"
+      },
+      {
+       "outlet": "中華新聞雲",
+       "url": "https://www.cdns.com.tw/articles/1489888",
+       "published_at": "2026-11-13T08:48:00+08:00"
+      }
+     ],
+     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35515975.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&sl=W&fw=1050&exp=3600"
+    },
+    {
+     "id": "20261121-shilin-yam-festival",
+     "title": "陽明山山藥季11月21日登場，與士林商圈合作推限定聯名美食",
+     "summary": "陽明山山藥季將於11月21日登場，並與士林商圈跨界合作推出限定聯名美食。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-16T18:04:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "士林商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "Yahoo新聞",
+       "url": "https://tw.news.yahoo.com/%E9%99%BD%E6%98%8E%E5%B1%B1%E5%B1%B1%E8%97%A5%E5%AD%A311%E6%9C%8821%E6%97%A5%E7%99%BB%E5%A0%B4-%E6%94%9C%E6%89%8B%E5%A3%AB%E6%9E%97%E5%95%86%E5%9C%88%E6%8E%A8%E9%99%90%E5%AE%9A%E8%81%AF%E5%90%8D%E7%BE%8E%E9%A3%9F-100458625.html",
+       "published_at": "2026-11-16T18:04:00+08:00"
+      }
+     ],
+     "image": "https://media.zenfs.com/ko/scoop_tw_461/3155ead97f01a05c61d504a45624768e.jpg"
+    },
+    {
+     "id": "20261107-yizhong-illegal-shop",
+     "title": "台中一中商圈黃金角店月租68萬，被指為違建占巷影響出入",
+     "summary": "影音報導指一中商圈一處黃金角店月租達68萬元，但被指為違建、占用巷道並擋住出入。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-09T09:59:00+08:00",
+     "cities": [
+      "台中市"
+     ],
+     "districts": [
+      {
+       "name": "一中街商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "聯合新聞網・地方",
+       "url": "https://udn.com/news/story/7325/9866142",
+       "published_at": "2026-11-09T09:59:00+08:00"
+      },
+      {
+       "outlet": "聯合影音",
+       "url": "https://video.udn.com/news/1331822",
+       "published_at": "2026-11-09T09:59:00+08:00"
+      },
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://www.ettoday.net/news/20261108/3268358.htm",
+       "published_at": "2026-11-08T11:34:00+08:00"
+      },
+      {
+       "outlet": "東森新聞",
+       "url": "https://www.msn.com/zh-tw/news/news/%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E9%BB%83%E9%87%91%E8%A7%92%E5%BA%97-%E6%9C%88%E7%A7%9F68%E8%90%AC-%E6%98%AF%E5%A4%A7%E9%81%95%E5%BB%BA-%E5%8D%A0%E5%B7%B7%E6%93%8B%E5%87%BA%E5%85%A5-shorts/vi-AA2gWavA",
+       "published_at": "2026-11-07T00:00:00+08:00"
+      },
+      {
+       "outlet": "東森新聞",
+       "url": "https://www.msn.com/zh-tw/money/%E4%B8%80%E8%88%AC/%E7%8D%A8%E5%AE%B6-%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E9%BB%83%E9%87%91%E8%A7%92%E5%BA%97-%E6%9C%88%E7%A7%9F68%E8%90%AC-%E6%98%AF%E5%A4%A7%E9%81%95%E5%BB%BA-%E5%8D%A0%E5%B7%B7%E6%93%8B%E5%87%BA%E5%85%A5-newsebc/vi-AA2gSII3",
+       "published_at": "2026-11-06T11:09:00+08:00"
+      }
+     ],
+     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35498745.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600",
+     "admin_note": "一中街商圈為115年補助名單，店面違建議題可能影響商圈環境觀感，可留意後續。"
+    },
+    {
+     "id": "20261110-moea-district-upgrade",
+     "title": "經濟部推商圈與市場改造，以設計加值升級宜居生活圈",
+     "summary": "經濟部推動商圈及傳統市場改造，以設計加值帶動地方創新、提升生活圈機能。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-10T00:00:00+08:00",
+     "cities": [],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "好房網News",
+       "url": "https://news.housefun.com.tw/news/article/126729490872.html",
+       "published_at": "2026-11-10T00:00:00+08:00"
+      },
+      {
+       "outlet": "微笑台灣",
+       "url": "https://smiletaiwan.cw.com.tw/article/9581",
+       "published_at": "2026-11-10T00:00:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261110-east-anniv",
+     "title": "台北東區商圈週年慶登場，消費滿額可參加抽獎",
+     "summary": "台北東區商圈週年慶開跑，消費滿額可參加抽獎活動。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-10T14:17:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "東區商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://www.ettoday.net/news/20261110/3269600.htm",
+       "published_at": "2026-11-10T14:17:00+08:00"
+      },
+      {
+       "outlet": "上報",
+       "url": "https://www.upmedia.mg/tw/lifestyle/spotlight/273720",
+       "published_at": "2026-11-09T16:37:00+08:00"
+      }
+     ],
+     "admin_note": "東區商圈為115年補助名單，週年慶活動可作為執行佐證參考。",
+     "image": "https://cdn2.ettoday.net/images/9008/e9008883.jpg"
+    },
+    {
+     "id": "20261112-rongcho-wayo-carnival",
+     "title": "2026榮町商圈和洋嘉年華登場，和洋穿搭與COSPLAY展現街區風情",
+     "summary": "榮町商圈舉辦和洋嘉年華，結合和洋穿搭、COSPLAY與和洋MIX影音創作大賽頒獎，展現榮町街區特色。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-12T21:33:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "榮町商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "榮町商圈為115年補助名單，報導顯示商圈活動已辦理，可作為活動執行佐證參考。",
+     "sources": [
+      {
+       "outlet": "Yahoo新聞",
+       "url": "https://tw.news.yahoo.com/2026%E6%A6%AE%E7%94%BA%E5%95%86%E5%9C%88%E5%92%8C%E6%B4%8B%E5%98%89%E5%B9%B4%E8%8F%AF-%E5%92%8C%E6%B4%8B%E7%A9%BF%E6%90%AD-cosplay%E5%B1%95%E7%8F%BE%E6%A6%AE%E7%94%BA%E8%A1%97%E5%8D%80%E9%A2%A8%E6%83%85-133334917.html",
+       "published_at": "2026-11-12T21:33:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261112133769",
+       "published_at": "2026-11-12T21:33:00+08:00"
+      },
+      {
+       "outlet": "民眾新聞網",
+       "url": "https://mypeoplevol.com/2026/life/120221/",
+       "published_at": "2026-11-12T21:33:00+08:00"
+      },
+      {
+       "outlet": "LIFE 生活網",
+       "url": "https://life.tw/article/2026%E6%A6%AE%E7%94%BA%E5%95%86%E5%9C%88%E5%92%8C%E6%B4%8B%E5%98%89%E5%B9%B4%E8%8F%AF-%E5%92%8C%E6%B4%8B%E7%A9%BF%E6%90%AD-cosplay%E5%B1%95%E7%8F%BE%E6%A6%AE%E7%94%BA-3216164",
+       "published_at": "2026-11-12T21:33:00+08:00"
+      }
+     ],
+     "image": "https://media.zenfs.com/en/mypeople.tw/0d162850a2b94745ed9148b436b5b3f5.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }

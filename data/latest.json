@@ -1,7 +1,72 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T16:55:31+08:00",
+ "generated_at": "2026-11-16T20:55:21+08:00",
  "items": [
+  {
+   "id": "20261121-shilin-yam-festival",
+   "title": "陽明山山藥季11月21日登場，與士林商圈合作推限定聯名美食",
+   "summary": "陽明山山藥季將於11月21日登場，並與士林商圈跨界合作推出限定聯名美食。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-16T18:04:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "士林商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E9%99%BD%E6%98%8E%E5%B1%B1%E5%B1%B1%E8%97%A5%E5%AD%A311%E6%9C%8821%E6%97%A5%E7%99%BB%E5%A0%B4-%E6%94%9C%E6%89%8B%E5%A3%AB%E6%9E%97%E5%95%86%E5%9C%88%E6%8E%A8%E9%99%90%E5%AE%9A%E8%81%AF%E5%90%8D%E7%BE%8E%E9%A3%9F-100458625.html",
+     "published_at": "2026-11-16T18:04:00+08:00"
+    }
+   ],
+   "image": "https://media.zenfs.com/ko/scoop_tw_461/3155ead97f01a05c61d504a45624768e.jpg"
+  },
+  {
+   "id": "20261116-kaohsiung-xmas",
+   "title": "高雄聖誕生活節中央公園點燈，連5個週末辦耶誕小鎮並串聯商圈燈海",
+   "summary": "高雄聖誕生活節在中央公園點燈，連續5個週末舉辦耶誕小鎮，並結合商圈燈海與美食、手作攤位。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-16T17:03:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [
+    {
+     "name": "中央公園商圈",
+     "priority": true
+    },
+    {
+     "name": "南華商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "中華新聞雲",
+     "url": "https://www.cdns.com.tw/articles/1491430",
+     "published_at": "2026-11-16T17:03:00+08:00"
+    },
+    {
+     "outlet": "鏡新聞",
+     "url": "https://www.mnews.tw/story/20261116mkt00002",
+     "published_at": "2026-11-16T15:00:00+08:00"
+    },
+    {
+     "outlet": "高雄市政府全球資訊網",
+     "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4E021CD9DDDE7E24",
+     "published_at": "2026-11-16T00:00:00+08:00"
+    }
+   ],
+   "admin_note": "中央公園、南華商圈為115年補助名單，活動串聯商圈燈海，可留意商圈參與情形與執行佐證。",
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/16170311/86009a-20261116155251698-0-1024x676.jpg"
+  },
   {
    "id": "20261116-yingge-architects-tour",
    "title": "新北市建築師公會走訪鶯歌光點，雨中展開陶都老街藝文巡禮",
@@ -43,6 +108,11 @@
      "outlet": "經濟日報",
      "url": "https://money.udn.com/money/story/7843/9877384",
      "published_at": "2026-11-16T10:01:00+08:00"
+    },
+    {
+     "outlet": "ZEEK玩家誌",
+     "url": "https://zeekmagazine.com/archives/266545",
+     "published_at": "2026-11-15T00:00:00+08:00"
     },
     {
      "outlet": "民視新聞網",
@@ -743,6 +813,11 @@
      "outlet": "民眾新聞網",
      "url": "https://mypeoplevol.com/2026/life/120221/",
      "published_at": "2026-11-12T21:33:00+08:00"
+    },
+    {
+     "outlet": "LIFE 生活網",
+     "url": "https://life.tw/article/2026%E6%A6%AE%E7%94%BA%E5%95%86%E5%9C%88%E5%92%8C%E6%B4%8B%E5%98%89%E5%B9%B4%E8%8F%AF-%E5%92%8C%E6%B4%8B%E7%A9%BF%E6%90%AD-cosplay%E5%B1%95%E7%8F%BE%E6%A6%AE%E7%94%BA-3216164",
+     "published_at": "2026-11-12T21:33:00+08:00"
     }
    ],
    "image": "https://media.zenfs.com/en/mypeople.tw/0d162850a2b94745ed9148b436b5b3f5.jpg"
@@ -1230,6 +1305,37 @@
    "image": "https://ni.yam.com/20261110/b5dd7b6a42309b6-85d1d93da675336c.webp"
   },
   {
+   "id": "20261110-east-anniv",
+   "title": "台北東區商圈週年慶登場，消費滿額可參加抽獎",
+   "summary": "台北東區商圈週年慶開跑，消費滿額可參加抽獎活動。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-10T14:17:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "東區商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "ETtoday新聞雲",
+     "url": "https://www.ettoday.net/news/20261110/3269600.htm",
+     "published_at": "2026-11-10T14:17:00+08:00"
+    },
+    {
+     "outlet": "上報",
+     "url": "https://www.upmedia.mg/tw/lifestyle/spotlight/273720",
+     "published_at": "2026-11-09T16:37:00+08:00"
+    }
+   ],
+   "admin_note": "東區商圈為115年補助名單，週年慶活動可作為執行佐證參考。",
+   "image": "https://cdn2.ettoday.net/images/9008/e9008883.jpg"
+  },
+  {
    "id": "20261109-yizhong-illegal-shop",
    "title": "台中一中商圈黃金角店被指為違建，都發局說明查報與拆除進度",
    "summary": "一中商圈太平路黃金三角窗店面被爆為30多年既存違建，台中市都發局表示未申請執照部分已交區公所查報，拆除時程難預測。",
@@ -1268,6 +1374,28 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35500653.jpg&M=1&s=Y&x=1&y=409&sw=1107&sh=738&exp=3600"
+  },
+  {
+   "id": "20261110-moea-district-upgrade",
+   "title": "經濟部推商圈與市場改造，以設計加值升級宜居生活圈",
+   "summary": "經濟部推動商圈及傳統市場改造，以設計加值帶動地方創新、提升生活圈機能。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-10T00:00:00+08:00",
+   "cities": [],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "好房網News",
+     "url": "https://news.housefun.com.tw/news/article/126729490872.html",
+     "published_at": "2026-11-10T00:00:00+08:00"
+    },
+    {
+     "outlet": "微笑台灣",
+     "url": "https://smiletaiwan.cw.com.tw/article/9581",
+     "published_at": "2026-11-10T00:00:00+08:00"
+    }
+   ]
   },
   {
    "id": "20261109-kaohsiung-bts-coupon",
@@ -1516,6 +1644,11 @@
      "published_at": "2026-11-09T09:59:00+08:00"
     },
     {
+     "outlet": "聯合影音",
+     "url": "https://video.udn.com/news/1331822",
+     "published_at": "2026-11-09T09:59:00+08:00"
+    },
+    {
      "outlet": "ETtoday新聞雲",
      "url": "https://www.ettoday.net/news/20261108/3268358.htm",
      "published_at": "2026-11-08T11:34:00+08:00"
@@ -1531,7 +1664,8 @@
      "published_at": "2026-11-06T11:09:00+08:00"
     }
    ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35498745.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600"
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35498745.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600",
+   "admin_note": "一中街商圈為115年補助名單，店面違建議題可能影響商圈環境觀感，可留意後續。"
   },
   {
    "id": "20261108-taipei-influencer-fest",
@@ -2425,41 +2559,6 @@
    ],
    "admin_note": "新莊廟街商圈為115年補助名單，報導指人潮流失，可留意活動成效與KPI達成。",
    "image": "https://images.storm.mg/cloud/516807246ed878e25b6d303aee038fcc605a72e2.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2067564%2FnQSd1L9tN7LYQx4BBvWWL1lOQ5MFp4WgENNMJGUU.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
-  },
-  {
-   "id": "20261102-tainan-zhanqian",
-   "title": "臺南站前商圈持續發展，市府樂見多元投資活化商業空間",
-   "summary": "臺南市政府表示站前商圈持續發展，樂見多元投資進駐，活化周邊商業空間。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-11-02T17:56:00+08:00",
-   "cities": [
-    "台南市"
-   ],
-   "districts": [
-    {
-     "name": "站前商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "中華日報",
-     "url": "https://www.cdns.com.tw/articles/1484010",
-     "published_at": "2026-11-02T17:56:00+08:00"
-    },
-    {
-     "outlet": "Yahoo新聞",
-     "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E7%AB%99%E5%89%8D%E5%95%86%E5%9C%88%E6%8C%81%E7%BA%8C%E7%99%BC%E5%B1%95-%E5%B8%82%E5%BA%9C%E6%A8%82%E8%A6%8B%E5%A4%9A%E5%85%83%E6%8A%95%E8%B3%87%E6%B4%BB%E5%8C%96%E5%95%86%E6%A5%AD%E7%A9%BA%E9%96%93-094124486.html",
-     "published_at": "2026-11-02T17:41:00+08:00"
-    },
-    {
-     "outlet": "臺南市政府",
-     "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8844696",
-     "published_at": "2026-11-02T15:30:00+08:00"
-    }
-   ],
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/02174100/1930248-1024x576.jpg"
   }
  ],
  "discussions": []

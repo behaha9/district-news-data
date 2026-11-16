@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-16T16:55:31+08:00",
+ "updated_at": "2026-11-16T20:55:21+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -87,6 +87,11 @@
    "reason": "業配遊記",
    "at": "2026-11-04"
   },
+  "https://hk.crntt.com/crn-webapp/wap/detail.jsp?coluid=92&kindid=0&docid=160289434": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-16"
+  },
   "https://hoomedia.com.tw/2026/10/30/177462/": {
    "decision": "kept",
    "item": "20261028-taichung-wudiaoquan-districts",
@@ -161,6 +166,11 @@
    "decision": "kept",
    "item": "20261112-taoyuan-biz-transform",
    "at": "2026-11-13"
+  },
+  "https://life.tw/article/%E6%A1%83%E5%B8%82%E5%95%86%E6%A5%AD%E8%BD%89%E5%9E%8B%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E6%9A%A8%E6%A1%83%E9%87%91%E5%A5%BD%E7%A6%AE%E5%A5%BD%E5%BA%97%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E6%9C%83-%E5%8A%A9%E5%8A%9B%E5%95%86%E5%9C%88%E8%BD%89%E5%9E%8B%E5%8D%87-3217776": {
+   "decision": "kept",
+   "item": "20261112-taoyuan-biz-transform",
+   "at": "2026-11-16"
   },
   "https://life.tw/article/%E8%87%BA%E5%8D%97%E8%B3%BC%E7%89%A9%E7%AF%80%E6%B6%88%E8%B2%BB%E7%AA%81%E7%A0%B430%E5%84%84%E5%85%83-%E5%8A%A0%E7%A2%BC%E6%8A%BD%E9%9B%BB%E5%8B%95%E8%BB%8A11%E6%9C%88%E5%95%86%E5%9C%88%E6%B4%BB%E5%8B%95%E6%8E%A5%E5%8A%9B%E7%99%BB-3199478": {
    "decision": "kept",
@@ -1032,11 +1042,6 @@
    "reason": "選舉",
    "at": "2026-11-15"
   },
-  "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4E021CD9DDDE7E24": {
-   "decision": "kept",
-   "item": "20261110-kaohsiung-xmas-fest",
-   "at": "2026-11-16"
-  },
   "https://www.knews.com.tw/news/EA572948B8AD95168A10F9C6FAE89A53": {
    "decision": "hidden",
    "reason": "選舉",
@@ -1207,6 +1212,11 @@
    "item": "20261030-eslite-zhongshan-station",
    "at": "2026-11-05"
   },
+  "https://www.msn.com/zh-tw/news/other/%E8%B2%B7%E6%BB%B7%E5%91%B3%E6%8E%92%E9%9A%8A%E5%90%B5%E6%9E%B6%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%AD%B8%E5%95%86%E5%9C%882%E6%89%931%E7%94%B7%E5%80%92%E5%9C%B0%E8%A2%AB%E6%8B%96%E8%A1%8C-%E6%B0%91%E7%9C%BE%E6%80%A5%E5%A0%B1%E6%A1%88/ar-AA2hkOQ4": {
+   "decision": "hidden",
+   "reason": "治安車禍",
+   "at": "2026-11-16"
+  },
   "https://www.msn.com/zh-tw/news/other/%E9%A3%B2%E6%96%99%E5%BA%97%E4%BA%BA%E6%BD%AE%E7%95%B6%E6%8E%A9%E8%AD%B7-%E5%8D%97%E7%A7%91%E5%95%86%E5%9C%88%E6%9A%97%E8%97%8F%E6%87%89%E5%8F%AC%E7%AB%99-%E4%B8%BB%E6%89%93-%E5%88%B6%E6%9C%8D%E8%AE%8A%E8%A3%9D-%E7%8B%82%E5%90%B8%E5%AE%A2/ar-AA2gp9XW": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -1265,6 +1275,11 @@
   "https://www.scooptw.com/tyenews/552782/%e6%a1%83%e5%9c%923%e5%a4%a7%e5%95%86%e5%9c%88%e7%8d%b2%e4%b8%ad%e5%a4%ae%e8%82%af%e5%ae%9a-%e7%b6%93%e7%99%bc%e5%b1%80%ef%bc%9a%e6%8c%81%e7%ba%8c%e6%8a%95%e5%85%a5%e6%8c%af%e8%88%88%e8%88%87%e8%bd%89/": {
    "decision": "kept",
    "item": "20261111-taoyuan-three-districts-merit",
+   "at": "2026-11-16"
+  },
+  "https://www.setn.com/klist/802339": {
+   "decision": "hidden",
+   "reason": "選舉",
    "at": "2026-11-16"
   },
   "https://www.setn.com/news/1938259": {
