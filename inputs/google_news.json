@@ -1,20 +1,70 @@
 {
- "fetched_at": "2026-11-16T09:09:55+08:00",
+ "fetched_at": "2026-11-16T12:17:16+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 69,
+  "raw": 63,
   "kept": 21,
   "resolved": 21,
   "items": 20,
   "resolve_this_run": {
-   "online": 2
+   "online": 6
   },
   "dropped_old": [
    "龍潭散散步：看大池、逛老街，到廟埕湊熱鬧 | 陳映霖 | 品味生活（原文日期 2026-09-05）"
   ]
  },
  "items": [
+  {
+   "title": "游淑貞提花蓮舊城商圈振興策略 文化深耕、觀光導流雙軌並進",
+   "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbGtTaU9KNWc5Mkl6M2ZQdUI1ZHg0cHgtRWVYMEgxX2JqVXUzaE1XQUZKN29GZm9EZVFrNFNZTHhwd1ZtVkdvTGVlT1A2VWhxNW84?oc=5",
+   "source": "TVBS新聞網",
+   "source_site": "https://news.tvbs.com.tw",
+   "published_at": "2026-11-16T11:49+08:00",
+   "query": "商圈",
+   "url": "https://news.tvbs.com.tw/politics/4051204",
+   "resolved": true
+  },
+  {
+   "title": "花蓮金三角商圈熄燈潮游淑貞拋振興藍圖",
+   "google_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XNEN6eUtZaUtuYWdoa0xLSFdCMmFKLVRBaU1XNXZOR0FNRjVyR29ZbVFXX2pOdzZIV0djUjQ5VlV2LVhIX29UVlE1M2czSFkwTGo2OEthdWR4cFBqU1k1cjJlMkhuNzlRdU1mb2wtV0txbFh1bHhpZmd5bVJodw?oc=5",
+   "source": "台灣中評網",
+   "source_site": "https://www.crntt.tw",
+   "published_at": "2026-11-16T11:02+08:00",
+   "query": "商圈",
+   "url": "https://www.crntt.tw/doc/docDetail.jsp?coluid=92&kindid=0&docid=160289434",
+   "resolved": true
+  },
+  {
+   "title": "新北市建築師公會走訪鶯歌光點 雨中展開陶都老街藝文巡禮",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mQnp0Y3dOSEtkcG9HTkpBaU5DeXBPVTY4WTNTQS1WMmNNemh5WkVGU045QzhkV3ZGMHR0dnpNbkhuN1hEVHl2aUcybl82ZXd5QkE?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-16T11:01+08:00",
+   "query": "老街",
+   "url": "https://n.yam.com/Article/20261116335895",
+   "resolved": true
+  },
+  {
+   "title": "「2026高雄聖誕生活節」紫色浪漫點燈！「耶誕小鎮」連續5個週末登場紫色限定美食、手作耳飾與商圈燈海迎接海內外ARMY",
+   "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTi1xRWhRMHYtOHdoQjBqLTI0bWlDTnJHRUo3emw4bFYwTmNIUjdSZ1pBVHdBS29wR0dBSlVOSkp6UTcwZkhaeldlRjh5MlREU1J5ZE1xaThtZ2VSb3d3NHJPc2J1bXRnaF9HUHpJMkpvRlBaa0IzRms1dU4zN241LTB3TUk?oc=5",
+   "source": "高雄市政府全球資訊網",
+   "source_site": "https://www.kcg.gov.tw",
+   "published_at": "2026-11-16T09:54+08:00",
+   "query": "商圈",
+   "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4E021CD9DDDE7E24",
+   "resolved": true
+  },
+  {
+   "title": "11/14、15「2026八德3C哈樂DAY」壓軸主場週嗨翻八德資訊商圈六組人氣樂團接力開唱軍武體驗、復古遊戲、人氣氣偶一次玩",
+   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XRThjdjlNckVPUkZfMzNBTkpCamRVb2E5RG5LekR3c3pzYjBIRFBqazZVRmVDdjJRWTZEQkFoRDlUdnBTOUZaaFlRdnZqZ3JrdUFrX25OMGd5WHRfbFZJ?oc=5",
+   "source": "臺北旅遊網",
+   "source_site": "https://www.travel.taipei",
+   "published_at": "2026-11-16T09:45+08:00",
+   "query": "商圈",
+   "url": "https://www.travel.taipei/zh-tw/news/details/68356",
+   "resolved": true
+  },
   {
    "title": "重振花蓮市金三角商圈 游淑貞拋舊城漫遊廊帶",
    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmSXB1Y05jLTVfa04yd19TV1g5OXN6dlEyZGlmYTc5UGh3T1JJaEpDZ2RISzA2aFVnNFdxaXBkTFp6VVNiY0g3d2FCSThVQmJGWGRGcl9aU2IwVzFaT0FLSE9wX1R2VEhwWkkw?oc=5",
@@ -66,16 +116,6 @@
    "resolved": true
   },
   {
-   "title": "游淑貞提花蓮舊城商圈振興策略 文化深耕、觀光導流雙軌並進",
-   "google_url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQcEJrR09GNm5oRUZ1endUXzRRcXVtdDItcGhBTzhlUXZQMF9vN29hT3lVa3dmN2liZzlqYlNBTjB6ekJRcW1qZnF6Y19DOFdqdGtVLWVQOFdwM0Z4VmVOSnNZMFRFRzhQWUExSnhLZW53QmZVVUZiOVI3eDZwTGs0VW1OYm5LU2FmVGQySDVkTzVydWg2RFpfTERpWTM1REJoT3dHR3BEV0JXcG1RS3lWNnZoS1k1RzVDRkxhQzhJOWJhd0ZtYnBrU2R1LXptMjZ6a0M4VVpXWENNWFBJck5XZWVfSWhPUFNZdmI3Z3p5ZnFvMHJoeVN4a0F1bmNsb2p6a1NQeVp0RkVpR0V6ZWVuVjVNRW80NFd0MEJ6YmJia21KdnkzaXJCM3lTajNRMEtuWF93WTlXT3FXYTMyUDBnbkE2V0x2WmhsRkdyX1FoQ0RJNGtQU1N4N0E2M3REc3RTVDVUMmJtMmlqRWxTTWMyN2xqMmRiRzZqZDZLNmk4V2lwc3RVNEVaVHdJSi1JQQ?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-15T17:56+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E6%B8%B8%E6%B7%91%E8%B2%9E%E6%8F%90%E8%8A%B1%E8%93%AE%E8%88%8A%E5%9F%8E%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88%E7%AD%96%E7%95%A5-%E6%96%87%E5%8C%96%E6%B7%B1%E8%80%95-%E8%A7%80%E5%85%89%E5%B0%8E%E6%B5%81%E9%9B%99%E8%BB%8C%E4%B8%A6%E9%80%B2-095646247.html",
-   "resolved": true
-  },
-  {
    "title": "游淑貞、魏嘉賢互攻對方本命區游提振興商圈魏喊玉里設第二行政中心- 股市爆料同學會",
    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KYkhsanhoNXNzcFpsQ0dTbFFIMVBVbzVyRVgxdTFLSEtnMXgwSUx6aE5GVU9GWWkxZzgwWkdCUXVCeEFnNUhXb0hKY0RhQS1uVjVWS3B2RmM?oc=5",
    "source": "CMoney",
@@ -106,16 +146,6 @@
    "resolved": true
   },
   {
-   "title": "游淑貞提花蓮舊城商圈振興策略",
-   "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MWmU3Ty05d3RKYTVIU0dJeUJoOWIyOGM4cFlETUlrQVBMSW9BWFJHUzhMMkF5TFRjb3Z1bzBIUHlsWmJDQlZtblBB?oc=5",
-   "source": "更生新聞網",
-   "source_site": "https://www.ksnews.com.tw",
-   "published_at": "2026-11-15T16:00+08:00",
-   "query": "老街",
-   "url": "https://www.ksnews.com.tw/e/159990",
-   "resolved": true
-  },
-  {
    "title": "天王大啖台灣滷肉飯！木村拓哉現蹤中山商圈 1親民舉動暖翻粉絲",
    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTU2NhNmtZOU1sS2JsNnpmamtYWnVhS1hVdVNnUnFBVVRnVzRFZ1Q3WEw1aXNhWG9ncmpnd3pYME1Lc3VnUnBoM0REZ1RWS1h4ZGlwVXNjb2Q3Q2kw0gFiQVVfeXFMTnM5NjVLZVpoVzc2VmNDSHVwcXAyVllKUU5fa2Vrb191SHN4Mi11WUJ1eFpSdHFXOHh1Ny13ajZMTmJfU2dZNVNfQVkwcGpkTHp1clJvSFZZaGhObHlpVFREUHc?oc=5",
    "source": "自由娛樂",
@@ -133,16 +163,6 @@
    "published_at": "2026-11-15T15:05+08:00",
    "query": "商圈",
    "url": "https://17news.net/archives/345984",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 買滷味排隊吵架！宜蘭大學商圈2打1...男倒地被拖行 民眾急報案",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vVWFZYVVYQlpjMm44bFpNb2JQZ2pnN1UyZjQydi1LLVBwYnlQOUwwOHBFeks0Q0FvemdCSzRWY2hiV0VXUjRpUnVLMXg0YmlidHF0b2pGNTgyMldLRmdqSWxEWFQ?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-15T06:53+08:00",
-   "query": "商圈",
-   "url": "https://today.line.me/tw/v3/posts/list/article/9m3kZaq",
    "resolved": true
   },
   {
@@ -166,16 +186,6 @@
    "resolved": true
   },
   {
-   "title": "重慶首條全自動運行城軌快線開通 15號線串聯居住區、商圈與江北機場",
-   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xSVpqUkUzLW9hR2owQ3RpYUQxY0Y1NzFFX3VMcTFISEFUa3ZCVVcwbVI2eDkwdlR5dGt5MTNYLTRBRVdBamJPdXZUamMwTE9ReGtySWRmamU?oc=5",
-   "source": "新華報導",
-   "source_site": "https://ccss3172.blogspot.com",
-   "published_at": "2026-11-14T17:39+08:00",
-   "query": "商圈",
-   "url": "https://ccss3172.blogspot.com/2026/11/15.html",
-   "resolved": true
-  },
-  {
    "title": "全台商圈大洗牌！嘉義Outlet砸50億、台中會展正式營運商場、交通、科技改寫生活圈- 生活新聞",
    "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0MxRHF6TThGTlRBR0RzcTFDcldnSFQ3T3pfYjJnVnd0eWQxcnRGV0MtbGthS0RIUVVNMFRGVVdZZk9nZWRLbTJXUGQ3Tk1wdmNmY3B3YV84NDR3VFNhckRrSnBQbUl4U3h1UzBzbThNR0RsTlRwcWtyMWdvMHUtekVSU01sdlZC?oc=5",
    "source": "PChome Online 新聞",
@@ -196,23 +206,13 @@
    "resolved": true
   },
   {
-   "title": "周五下班就飛香港！3大商圈變身耶誕小鎮 萬元有找玩3天2夜",
-   "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VQWwtNEtJbVNncXIwWjJmRXd5R19sb0ZnUGtTWU81N3EyWjJNUUt3eFA2bnJNcmh5YlJWcklpSThlRVJ1Y2FUdjBaenVnamkzblVuNk5oSDltM3M?oc=5",
-   "source": "udnSTYLE",
-   "source_site": "https://style.udn.com",
-   "published_at": "2026-11-14T12:03+08:00",
+   "title": "周五下班就飛香港！3大商圈變身耶誕小鎮　萬元有找玩3天2夜",
+   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jRTRCdHY2R2ozdTBnN0pGVkN3UXNvU185Z0JQMy1XYnhTRkM2Wm5NZ1NFZDZBMEtZa1VCUzE4d0ZELTJsYVNiUy16SUQxd2pDTGZuWFR5WXNFQdIBX0FVX3lxTE85X1cwLVhJLWNVNWU5MVVyS0pNOTJOMFptaUpUQmJWT0dOa0lWUzA3M1JuX0NMWmg4SzFZTHdITTdmMW1PMTFraTBvMW1LZG04WWNCYWJjSk5MRHRsSVhN?oc=5",
+   "source": "經濟日報",
+   "source_site": "https://money.udn.com",
+   "published_at": "2026-11-14T12:36+08:00",
    "query": "商圈",
-   "url": "https://style.udn.com/style/story/11350/9878456",
-   "resolved": true
-  },
-  {
-   "title": "高雄一日遊｜旗津不只逛老街！爆漿蕃薯椪、隱藏版老宅咖啡廳、燈塔限定甜點必收",
-   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wUmxxMEw0TnVKdmNsYWpBMFdIWmxOMDR1LXl5dlRRM3VaMVNwTHoyeVEtZEVUbFk1eFk5c0ZkdmJJMGVHRkdBUDFLUWY0NEpmVEhSVEZ6b0VjZVBy?oc=5",
-   "source": "UDN",
-   "source_site": "https://travel.udn.com",
-   "published_at": "2026-11-14T10:30+08:00",
-   "query": "老街",
-   "url": "https://travel.udn.com/travel/story/7209/9858844",
+   "url": "https://money.udn.com/money/story/5648/9878456",
    "resolved": true
   }
  ]

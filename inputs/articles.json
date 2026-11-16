@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T09:10:05+08:00",
+ "fetched_at": "2026-11-16T12:17:26+08:00",
  "articles": {
   "https://www.fclnews.com/235170/": {
    "checked_at": "2026-11-14T20:50+08:00",
@@ -358,93 +358,6 @@
    ],
    "body_chars": 1384,
    "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://n.yam.com/Article/20261113726567": {
-   "checked_at": "2026-11-13T09:58+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T08:04+08:00",
-   "site_name": "蕃新聞",
-   "description": "智慧行人友善設施-新光遠百公車專用道地嵌式警示燈及投射式紅綠燈。(圖／台中市政府提供)台中市政府交通",
-   "cities": {
-    "台中市": 4,
-    "新北市": 1
-   },
-   "districts": [],
-   "body_chars": 1359,
-   "image": "https://ni.yam.com/20261113/NEWS-fe2c913d916759f9.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://truemii.chinatimes.com/content/20261113000005-265001": {
-   "checked_at": "2026-11-13T09:58+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T09:00+08:00",
-   "site_name": "瘋台灣 - 觸mii",
-   "description": "新北市幅員廣大，山城、海岸、河岸、老街與城市商圈各有特色，卻也長期面臨觀光資源分散、交通接駁不易，以及熱門景點人潮集中等問題。對旅遊產業而言，真正的考驗不只是景點能否抵達，而是如何將人潮轉化為停留時間",
-   "cities": {
-    "新北市": 11,
-    "台北市": 2,
-    "桃園市": 1,
-    "基隆市": 1
-   },
-   "districts": [
-    "九份老街商圈（新北市）",
-    "八里渡船頭商圈（新北市）"
-   ],
-   "body_chars": 2725,
-   "image": "https://images.chinatimes.com/newsphoto/2026-11-08/1024/20261108001212.png",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/society/breakingnews/5639189": {
-   "checked_at": "2026-11-13T09:58+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T09:35+08:00",
-   "site_name": "自由時報電子報",
-   "description": "宜蘭市進士路2段一家滷味攤，昨晚客人買滷味時因排隊發生口角，進而引爆肢體衝突，2名男子聯手毆打1男，造成被打的許男受傷送醫，目前還在住院觀察。警方漏夜偵辦，連夜逮捕涉案張男，另名朱姓男子在逃；朱是通緝犯，其女友因藏匿人犯也被拘提到案，後續依傷害等罪移送宜蘭地檢察署偵辦。這起衝突發生在12日晚上7時左右，警方接獲民眾報案",
-   "cities": {
-    "宜蘭縣": 12
-   },
-   "districts": [
-    "神農商圈（宜蘭縣）"
-   ],
-   "body_chars": 814,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/13/5639189_2_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cmoney.tw/forum/article/188604540": {
-   "checked_at": "2026-11-13T09:58+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T09:47+08:00",
-   "site_name": "CMoney 股市爆料同學會",
-   "description": "宜蘭市進士路2段一家滷味攤，昨晚客人買滷味時因排隊發生口角，進而引爆肢體衝突，2名男子聯手毆打1男，造成被打的許男受傷送醫，目前還在住院觀察。警方漏夜偵辦，連夜",
-   "cities": {
-    "宜蘭縣": 3
-   },
-   "districts": [],
-   "body_chars": 223,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/13/5639189_2_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.japaholic.com/tw/article/detail/945029-%E7%B4%85%E8%8C%B6%E6%84%9B%E5%A5%BD%E8%80%85%E4%BE%86%E5%88%B0%E7%A9%BA%E5%A0%80%E5%95%86%E5%BA%97%E8%A1%97%E5%88%A5%E9%8C%AF%E9%81%8E%EF%BC%8C%E5%A4%A7%E9%98%AA%E8%B0%B7%E7%94%BA%E5%85%AD%E4%B8%81%E7%9B%AE%E7%B4%85%E8%8C%B6%E5%B0%88%E8%B3%A3%E5%BA%97%E3%80%8CIROHARAK%EF%BC%88%E3%82%A4%E3%83%AD%E3%83%8F%E3%83%A9%E3%82%AF%EF%BC%89%E3%80%8D": {
-   "checked_at": "2026-11-13T09:58+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "Japaholic",
-   "description": "來到大阪，除了心齋橋筋商店街、天神橋筋商店街等熱門景點之外，位於「谷町六丁目」車站的「空堀商店街」，也是一處頗值得好好探訪的景點。本次文章將介紹一家位於空堀商店街內的紅茶專賣店「IROHARAK（イロハラク）」，來到空堀商店街，可別錯過品嚐美味紅茶的機會。",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1268,
-   "image": "https://www.japaholic.com/storage/files/article_images/MzkyMDI2MTExMjE4Mzg0MTI4.jpg",
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
@@ -11090,6 +11003,294 @@
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
+  },
+  "https://truemii.chinatimes.com/content/20261113000005-265001": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T09:00+08:00",
+   "site_name": "瘋台灣 - 觸mii",
+   "description": "新北市幅員廣大，山城、海岸、河岸、老街與城市商圈各有特色，卻也長期面臨觀光資源分散、交通接駁不易，以及熱門景點人潮集中等問題。對旅遊產業而言，真正的考驗不只是景點能否抵達，而是如何將人潮轉化為停留時間",
+   "cities": {
+    "新北市": 11,
+    "台北市": 2,
+    "桃園市": 1,
+    "基隆市": 1
+   },
+   "districts": [
+    "九份老街商圈（新北市）",
+    "八里渡船頭商圈（新北市）"
+   ],
+   "body_chars": 2725,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-08/1024/20261108001212.png",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pchome.com.tw/public/kcg/20261116/index-79479242066086128016.html": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://n.yam.com/Article/20261113726567": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T08:04+08:00",
+   "site_name": "蕃新聞",
+   "description": "智慧行人友善設施-新光遠百公車專用道地嵌式警示燈及投射式紅綠燈。(圖／台中市政府提供)台中市政府交通",
+   "cities": {
+    "台中市": 4
+   },
+   "districts": [],
+   "body_chars": 1339,
+   "image": "https://ni.yam.com/20261113/NEWS-fe2c913d916759f9.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://storystudio.tw/article/gushi/ourhome-ourtaipei-03": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T00:00+08:00",
+   "site_name": "故事 StoryStudio",
+   "description": "博愛路二號店屋是北門相機街最顯眼的店鋪。有人在這裡買了人生中的第一臺相機，有人則記得空氣中飄散著牛肉麵香；有人曾經在二樓的西餐廳相親約會；而有些人則曾在門前等候 ...",
+   "cities": {
+    "台北市": 11
+   },
+   "districts": [
+    "北門相機街商圈（台北市）",
+    "北門商圈（台南市）"
+   ],
+   "body_chars": 1943,
+   "image": "https://storystudio.tw/storage/upload/article/coverPhoto_20261112200558_3uK.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/society/breakingnews/5639189": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T09:35+08:00",
+   "site_name": "自由時報電子報",
+   "description": "宜蘭市進士路2段一家滷味攤，昨晚客人買滷味時因排隊發生口角，進而引爆肢體衝突，2名男子聯手毆打1男，造成被打的許男受傷送醫，目前還在住院觀察。警方漏夜偵辦，連夜逮捕涉案張男，另名朱姓男子在逃；朱是通緝犯，其女友因藏匿人犯也被拘提到案，後續依傷害等罪移送宜蘭地檢察署偵辦。這起衝突發生在12日晚上7時左右，警方接獲民眾報案",
+   "cities": {
+    "宜蘭縣": 12
+   },
+   "districts": [
+    "神農商圈（宜蘭縣）"
+   ],
+   "body_chars": 752,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/13/5639189_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261116335895": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T11:01+08:00",
+   "site_name": "蕃新聞",
+   "description": "(中央社訊息服務20261116 11:01:59)新北市建築師公會於11月14日來到鶯",
+   "cities": {
+    "新北市": 6
+   },
+   "districts": [],
+   "body_chars": 741,
+   "image": "https://ni.yam.com/20261116/00450066.202611151603118994m-34c1b49b80a58bae.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/7843/9877384": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T10:01+08:00",
+   "site_name": "經濟日報",
+   "description": "下班晚了，也能好好吃頓鍋！乾杯集團旗下日式鍋物品牌「黑毛屋」再拓新據點，全台第21家門店「慶城店」插旗台北南京復興商圈，即日起開幕迎賓。新店營業至晚間11點，主打四大經典日式鍋物，套餐380元起，上班族即使晚下班，也能從容享用鍋物美味，為商圈增添鍋物新選擇！ 黑毛屋第21間店落腳慶城街 營業至晚間11點搶攻宵夜商機 慶",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 1327,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35515975.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.travel.taipei/zh-tw/news/details/68356": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T00:00+08:00",
+   "site_name": "臺北旅遊網",
+   "description": "由臺北市商業處輔導台北市八德資訊商圈發展協會舉辦的「2026八德3C哈樂DAY」，本週末11月14日至15日迎來眾所期待的「壓軸主場週」，於八德路一段（新生南路至金山北路間）封街舉行，集結軍武體驗、復古遊戲、現代痛車展示、哈樂市集及品牌互動等豐富內容，更邀請六組人氣樂團輪番獻唱，11月14日由東部壞男孩、甜約翰及芒果醬",
+   "cities": {
+    "台北市": 13
+   },
+   "districts": [],
+   "body_chars": 1980,
+   "image": "https://www.travel.taipei/content/images/articles/584971/1024x768_articles-image-cvgutz-anegjd_fse_uj_g.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261116682442": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T09:54+08:00",
+   "site_name": "蕃新聞",
+   "description": "東海大學副校長劉正出席青年模擬聯合國培訓營閉幕典禮，肯定活動促進全台青年跨區交流，透過國際議題討論與",
+   "cities": {
+    "台中市": 7,
+    "台南市": 1,
+    "屏東縣": 1,
+    "花蓮縣": 1
+   },
+   "districts": [],
+   "body_chars": 897,
+   "image": "https://ni.yam.com/20261116/20261116095012_87-4f50400044df51a5.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/society/breakingnews/5642151": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T10:24+08:00",
+   "site_name": "自由時報電子報",
+   "description": "42歲游姓男子昨天晚間6時許，駕駛全球限量的奧斯頓·馬丁（Aston Martin）超跑，行經台北市大安區延吉街、光復南路116巷左轉時，不慎擦撞交通分隔島，導致車體保險桿受損，所幸沒有造成傷亡，警方獲報到場了解，排除游男有毒、酒駕情事，詳細原因仍有待調查。",
+   "cities": {
+    "台北市": 3,
+    "高雄市": 2
+   },
+   "districts": [],
+   "body_chars": 976,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/16/5642151_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/politics/4051204": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T11:49+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "面對國旅市場疲軟、國際觀光客源不足等挑戰，國民黨提名3號花蓮縣長候選人游淑貞提出「舊城文化再生、商圈經濟振興」策略，主張整合花蓮市大禹街、舊鐵道文化徒步區及金三角商圈既有建設成果，從文化深耕、觀光消費、青年創業及交通改善四大面向著手，打造兼具文化特色與商業活力的城市觀光核心，讓過路客變成留宿客，讓觀光人潮真正轉化為店家",
+   "cities": {
+    "花蓮縣": 9,
+    "台北市": 2
+   },
+   "districts": [
+    "舊城商圈（高雄市）",
+    "花蓮市 百年老街商圈（花蓮縣）",
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 1411,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1e278-1008-70e6-a036-7e5e21afa262.png?t=16x9&c=0,12,832,480&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.crntt.tw/doc/docDetail.jsp?coluid=92&kindid=0&docid=160289434": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": "https://www.crntt.tw/upload/202611/16/160289465.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://udn.com/news/story/7314/9880944": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-15T16:35+08:00",
+   "site_name": "聯合新聞網",
+   "description": "搶搭台中購物節活動熱潮，台中市政府經濟發展局與太平長億夜市日前攜手推出「就市好買幸福in長億」嘉年華活動。活動現場人潮絡繹不絕，民眾在夜市消費不限金額，即可參加現場好禮抽獎，現場不僅祭出50吋4K電視、微電腦燒烤微波爐等精美大獎，更重磅抽出台中購物節第2台百萬汽車及韓國釜山來回機票，現場驚呼聲不斷，吸引大批市民朋友齊聚",
+   "cities": {
+    "台中市": 21,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 2238,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/16/35521193.jpg&M=1&s=Y&x=0&y=42&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-15",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cmoney.tw/forum/article/188604540": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T09:47+08:00",
+   "site_name": "CMoney 股市爆料同學會",
+   "description": "宜蘭市進士路2段一家滷味攤，昨晚客人買滷味時因排隊發生口角，進而引爆肢體衝突，2名男子聯手毆打1男，造成被打的許男受傷送醫，目前還在住院觀察。警方漏夜偵辦，連夜",
+   "cities": {
+    "宜蘭縣": 3
+   },
+   "districts": [],
+   "body_chars": 216,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/13/5639189_2_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://hk.crntt.com/doc/1_0_160289434_1_1116110238.html": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "花蓮近年受天災重創及觀光人潮銳減衝擊，不少黃金店面陸續熄燈，出售、招租，花蓮市金三角商圈陷入嚴峻的商業低谷。中國國民黨籍縣長候選人游淑貞15日拋出“舊城文化再生、商圈經濟振興”策略，針對花蓮市金三角商圈、大禹街及舊鐵道文化徒步區面臨的天災與觀光低谷，提出振興藍圖。　　游淑貞表示，縣府過去雖持續對舊鐵道徒步區、大禹街及金",
+   "cities": {
+    "花蓮縣": 6
+   },
+   "districts": [
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 183,
+   "image": "https://hkpic.crntt.com/upload/202611/16/160289466.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4E021CD9DDDE7E24": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T00:00+08:00",
+   "site_name": "高雄市政府全球資訊網",
+   "description": null,
+   "cities": {
+    "高雄市": 13
+   },
+   "districts": [
+    "南華商圈（高雄市）",
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 1168,
+   "image": "https://ws.kcg.gov.tw/001/KcgUploadFiles/263/relpic/7081/105028/5b8d8d63-1547-4137-8e50-519f317f6764@710x470.jpg?rt=1151116104213",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://edbkcg.kcg.gov.tw/News_Content.aspx?n=FA86438944BB37E5&sms=4773608F226124D4&s=4D014435B8FC4A54": {
+   "checked_at": "2026-11-16T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T00:00+08:00",
+   "site_name": "高雄市政府經濟發展局",
+   "description": null,
+   "cities": {
+    "高雄市": 12
+   },
+   "districts": [
+    "南華商圈（高雄市）",
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 1101,
+   "image": "https://orgws.kcg.gov.tw/001/KcgOrgUploadFiles/334/RelPic/69492/544472/9b43593c-245f-4128-a93c-b9bb5f2acf79@710x470.jpg?rt=1151116121730",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
   }
  }
 }
