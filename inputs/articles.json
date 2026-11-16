@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T07:17:16+08:00",
+ "fetched_at": "2026-11-16T09:10:05+08:00",
  "articles": {
   "https://www.fclnews.com/235170/": {
    "checked_at": "2026-11-14T20:50+08:00",
@@ -11020,6 +11020,76 @@
    "image_checked": true,
    "date_hint": "2026-11-15",
    "date_hint_from": "原文時間"
+  },
+  "https://ccss3172.blogspot.com/2026/11/11300.html": {
+   "checked_at": "2026-11-16T09:10+08:00",
+   "status": 429,
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  "https://www.cdns.com.tw/articles/1490108": {
+   "checked_at": "2026-11-16T09:10+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T08:00+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者李錫銘／台北報導 依據中共國務院通告，自2026年11月10日13時01分起，在兩個月內繼續暫停實施24%的對美加徵關稅稅率，保留10%的對美加徵關稅稅率。 中共國務院關稅稅則委員會發佈關於調整對原產于美國的進口商品加徵關稅措施公告指出，為落實中美兩國元首華盛頓會晤達成的成果共識，根據中方《關稅法》、《海關法》、《",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 530,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2024/11/23011305/%E4%B8%AD%E8%8F%AF%E6%96%B0%E8%81%9E%E9%9B%B2%E5%88%8A%E9%A0%AD-600x264-1.png",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/vote2026/video/9FEY6QBG0dk": {
+   "checked_at": "2026-11-16T09:10+08:00",
+   "status": 200,
+   "published_at": "2026-11-15T23:50+08:00",
+   "site_name": "2026九合一選舉",
+   "description": "台北市長蔣萬安的妻子石舫亘，中午前往四平商圈掃街拜票。\n\n#蔣萬安#石舫亘#聯合報直播#四平商圈#台北市選舉#2026九合一選舉#udn直播#社群熱搜 #news #udn #video \n-\n訂閱看更多精彩好片👉https://bit.ly/2WGgpks\n...",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 267,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-15",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/paper/1778676": {
+   "checked_at": "2026-11-16T09:10+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T05:30+08:00",
+   "site_name": "自由時報電子報",
+   "description": "苗栗縣敬老愛心卡於農會消費使用，現行規定每週限用一次、每次一百元。議員反映對偏鄉及行動不便長者不夠便利，縣府決定明年元月起取消單次一百元限制，讓長輩可依需求彈性消費，每月最高額度維持三百元。",
+   "cities": {
+    "苗栗縣": 6,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 691,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/16/103.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/9m3kZaq": {
+   "checked_at": "2026-11-16T09:10+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 買滷味排隊吵架！宜蘭大學商圈2打1...男倒地被拖行　民眾急報案",
+   "cities": {
+    "宜蘭縣": 3
+   },
+   "districts": [],
+   "body_chars": 126,
+   "image": "https://today-obs.line-scdn.net/0hx76oilBAJxgLFjuJwH9YTzNAK2k4cD0RKSA4K35BeHglOjIaZXF0ey4fKzR2IGQbK3U9fiwWeSghdGVJYw/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   }
  }
 }

@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-16T07:17:05+08:00",
+ "fetched_at": "2026-11-16T09:09:55+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 67,
+  "raw": 69,
   "kept": 21,
   "resolved": 21,
   "items": 20,
   "resolve_this_run": {
-   "online": 4
+   "online": 2
   },
   "dropped_old": [
    "龍潭散散步：看大池、逛老街，到廟埕湊熱鬧 | 陳映霖 | 品味生活（原文日期 2026-09-05）"
@@ -23,6 +23,16 @@
    "published_at": "2026-11-16T04:10+08:00",
    "query": "商圈",
    "url": "https://www.chinatimes.com/newspapers/20261116000499-260118",
+   "resolved": true
+  },
+  {
+   "title": "【LIVE】1116溫暖牽手出發！蔣萬安太太石舫亘四平商圈拜票| 2026九合一選舉",
+   "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lSGZiN1N2S0NGU24yR09sUTFlbWd3LWdIc00xdW5RTlNPWHQ5eU1SZGliVzN5cllhYkpZZ2dzX3dfQzBjY0JvdUpkUE5BM2ltNDdxWA?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
+   "published_at": "2026-11-15T23:50+08:00",
+   "query": "商圈",
+   "url": "https://udn.com/vote2026/video/9FEY6QBG0dk",
    "resolved": true
   },
   {
@@ -76,22 +86,12 @@
    "resolved": true
   },
   {
-   "title": "互攻對方本命區 游淑貞提振興商圈、魏嘉賢喊玉里設第二行政中心",
-   "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pY3d3N012QkZyVTRqNy1JYkh6Z3RlOGdpNThKdlBWVlo1YjBhSEMxdnFHZ1NjTjVmVS10WU83dVdzZjNQU2FxVVlaRzNwbE9SYnFJ0gFYQVVfeXFMT1FfcUV2bTlCbXNDcGQtZ2lkeVMzX0gxYktQT2V6YlpJcTd5MmVUTnFiVjBacVRnellfLVlpNndGeVNMa1otZXlsRGFQejdVT2twSTB0V0xhcw?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
-   "published_at": "2026-11-15T16:49+08:00",
-   "query": "商圈",
-   "url": "https://udn.com/news/story/124652/9880107",
-   "resolved": true
-  },
-  {
    "title": "互攻對方本命區游淑貞提振興商圈、魏嘉賢喊玉里設第二行政中心| 2026九合一選舉",
    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBidlE4U3o0MGoyN0F3T0k3amtoTEtYRVFvSWdlZXFEZXJKZl9IZjNFeGFlbjIwbjl2SnpRaUQ5U2ZaV05UUGt2YUJYVUZtdXc1TmJjdjFoUUM?oc=5",
    "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-11-15T16:49+08:00",
-   "query": "老街",
+   "query": "商圈",
    "url": "https://udn.com/vote2026/story/124652/9880107",
    "resolved": true
   },
@@ -136,6 +136,16 @@
    "resolved": true
   },
   {
+   "title": "討論牆 | 買滷味排隊吵架！宜蘭大學商圈2打1...男倒地被拖行 民眾急報案",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vVWFZYVVYQlpjMm44bFpNb2JQZ2pnN1UyZjQydi1LLVBwYnlQOUwwOHBFeks0Q0FvemdCSzRWY2hiV0VXUjRpUnVLMXg0YmlidHF0b2pGNTgyMldLRmdqSWxEWFQ?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-15T06:53+08:00",
+   "query": "商圈",
+   "url": "https://today.line.me/tw/v3/posts/list/article/9m3kZaq",
+   "resolved": true
+  },
+  {
    "title": "討論牆| 紅茶愛好者來到空堀商店街別錯過，大阪谷町六丁目紅茶專賣店「IROHARAK（イロハラク）」",
    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MY3k3bjJYRDNzdmxHMDhUaDdiQ2MwRkg3UkhuQ1l4akxpTUI3OUY2N3RfSDBHWmdud1J5ZEVRRjJ5RG5hU1BIMjQ1a0dadnlCS3k2TExzRkdqQmRPaUJEbTBoUTU?oc=5",
    "source": "LINE TODAY",
@@ -153,6 +163,16 @@
    "published_at": "2026-11-14T18:12+08:00",
    "query": "商圈",
    "url": "https://n.yam.com/Article/20261114882149",
+   "resolved": true
+  },
+  {
+   "title": "重慶首條全自動運行城軌快線開通 15號線串聯居住區、商圈與江北機場",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xSVpqUkUzLW9hR2owQ3RpYUQxY0Y1NzFFX3VMcTFISEFUa3ZCVVcwbVI2eDkwdlR5dGt5MTNYLTRBRVdBamJPdXZUamMwTE9ReGtySWRmamU?oc=5",
+   "source": "新華報導",
+   "source_site": "https://ccss3172.blogspot.com",
+   "published_at": "2026-11-14T17:39+08:00",
+   "query": "商圈",
+   "url": "https://ccss3172.blogspot.com/2026/11/15.html",
    "resolved": true
   },
   {
@@ -193,26 +213,6 @@
    "published_at": "2026-11-14T10:30+08:00",
    "query": "老街",
    "url": "https://travel.udn.com/travel/story/7209/9858844",
-   "resolved": true
-  },
-  {
-   "title": "中市7期商圈導入智慧行人警示系統 地面紅燈提醒駕駛注意行人",
-   "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3RlRlOFVOMW1FVEJQZWdLaHp0eVpXdFpTTW85cEdMWlBOZ3d2WmNzVzJ5UGFhWHlQNGgtT0p3Yjcyd2Y2b0ZkeVpmSm50cmZNVVRIMV9rZWFRVGFWYnNBZi02Z29VOG8?oc=5",
-   "source": "住展雜誌",
-   "source_site": "https://www.myhousing.com.tw",
-   "published_at": "2026-11-14T07:35+08:00",
-   "query": "商圈",
-   "url": "https://www.myhousing.com.tw/mediapartner/i-news/306203/",
-   "resolved": true
-  },
-  {
-   "title": "謝龍介、陳菁徽聚焦國會監督與司法爭議 產業界、商圈代表齊挺3號江啟臣",
-   "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5udzIxMTJ0bG82Vy1SN0szZHV5S1FyT3FiRTMwX2JFa000SkIyWExLSWMta2I0anFQbEE1VFNnNm5sdUZwdHFrLVJDdlRRRE8zcFFvbVFSVHNaOGM0OWlNSTltUGlyT2M?oc=5",
-   "source": "新華報導",
-   "source_site": "https://ccss3172.blogspot.com",
-   "published_at": "2026-11-14T07:31+08:00",
-   "query": "商圈",
-   "url": "https://ccss3172.blogspot.com/2026/11/3_02124316980.html",
    "resolved": true
   }
  ]
