@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-17T07:30:00+08:00",
+  "updated_at": "2026-11-17T16:40:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -423,6 +423,22 @@
             "https://tw.news.yahoo.com/%E5%B8%82%E5%BA%9C%E8%BF%BD%E6%9F%A5%E9%A3%9F%E7%94%A8%E6%B2%B9%E6%A5%AD%E8%80%85-120232745.html"
           ],
           "note": "市府追查食用油業者（11/15 Yahoo）"
+        },
+        {
+          "id": "20261117-ebc-donut-oil",
+          "representative": "https://news.ebc.net.tw/news/living/581098",
+          "urls": [
+            "https://news.ebc.net.tw/news/living/581098"
+          ],
+          "note": "18公升沙拉油難買又漲價，甜甜圈店苦撐（11/17 東森）"
+        },
+        {
+          "id": "20261117-taisugar-new-oil",
+          "representative": "https://news.pts.org.tw/article/836070",
+          "urls": [
+            "https://news.pts.org.tw/article/836070"
+          ],
+          "note": "中聯油脂停工衝擊供應，台糖新油品11/17鋪貨上市（公視）"
         }
       ],
       "exclude": [

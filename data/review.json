@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-17T12:17:53+08:00",
+ "updated_at": "2026-11-17T16:50:35+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -417,6 +417,11 @@
    "reason": "業配遊記",
    "at": "2026-11-17"
   },
+  "https://n.yam.com/Article/20261117406060": {
+   "decision": "hidden",
+   "reason": "國外",
+   "at": "2026-11-17"
+  },
   "https://new-reporter.com/news/332964/": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -561,6 +566,11 @@
    "decision": "kept",
    "item": "20261112-banxin-mrt-tod",
    "at": "2026-11-14"
+  },
+  "https://news.tvbs.com.tw/life/4051890": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-17"
   },
   "https://news.tvbs.com.tw/politics/4043062": {
    "decision": "hidden",
@@ -751,6 +761,11 @@
    "decision": "kept",
    "item": "20261107-shalu-monkey",
    "at": "2026-11-12"
+  },
+  "https://udn.com/news/amp/story/124652/9880107": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-17"
   },
   "https://udn.com/news/amp/story/6898/9854836": {
    "decision": "hidden",
