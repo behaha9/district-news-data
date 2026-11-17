@@ -1,8 +1,9 @@
-23:17:06 attempt=1 code=200 url=https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d bytes=133557
-首頁清單：100 件事件／161 篇
-7 天累積清單：161 篇（本次新增 1）
-重點商圈查詢：第 48–147 處（共 281 處），新增 3 則，失敗 0 處；目前保留 87 則
-Google 新聞：查詢 4／5，原始 44 則，標題相關 7 則，保留 7 則，已還原原文網址 6 則；本次還原 {'error': 1, 'examples': ['error:429']}；錯誤 ['商圈: 429']
-關注議題：食用油：Google 96 則，新增 2 則，保留 139 則 {'價格動態': 87, '店家相關': 52}
-原文預抓：新抓 42／42，成功 2；快取共 674 篇；縮圖 770 張
-23:17:25 filter_candidates exit=0
+04:00:29 attempt=1 code=200 url=https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d bytes=92518
+首頁清單：101 件事件／162 篇
+7 天累積清單：162 篇（本次新增 1）
+重點商圈查詢：第 148–247 處（共 281 處），新增 1 則，失敗 4 處；目前保留 88 則
+Google 新聞：查詢 4／5，原始 78 則，標題相關 29 則，保留 29 則，已還原原文網址 28 則；本次還原 {'online': 5, 'error': 1, 'examples': ['error:429']}；錯誤 ['老街: 429']
+關注議題：食用油／店家相關 查詢失敗：429；食用油：Google 34 則，新增 1 則，保留 138 則 {'價格動態': 86, '店家相關': 52}
+Google 新聞移除舊聞： 台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）
+原文預抓：新抓 61／61，成功 61；快取共 658 篇；縮圖 778 張
+04:01:02 filter_candidates exit=0
