@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-17T07:23:19+08:00",
+ "updated_at": "2026-11-17T12:17:53+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -401,6 +401,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-12"
+  },
+  "https://n.yam.com/Article/20261112814969": {
+   "decision": "kept",
+   "item": "20261112-gimme-xinyi",
+   "at": "2026-11-17"
   },
   "https://n.yam.com/Article/20261112971220": {
    "decision": "kept",
