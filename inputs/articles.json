@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-18T01:42:35+08:00",
+ "fetched_at": "2026-11-18T07:17:32+08:00",
  "articles": {
   "https://news.pchome.com.tw/travel/sharelife/20261102/index-79357760099": {
    "checked_at": "2026-11-16T07:17+08:00",
@@ -427,191 +427,6 @@
    "date_hint": "2026-11-13",
    "date_hint_from": "原文時間"
   },
-  "https://edb.tycg.gov.tw/News_Content.aspx?n=3749&s=1969810": {
-   "checked_at": "2026-11-15T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-11T00:00+08:00",
-   "site_name": "桃園市政府經濟發展局",
-   "description": null,
-   "cities": {
-    "桃園市": 19
-   },
-   "districts": [
-    "魅力金三角商圈（桃園市）"
-   ],
-   "body_chars": 1146,
-   "image": "https://ws.tycg.gov.tw/001/Upload/57/relpic/9954/1969810/bf808d5b-63a9-4dbc-b65d-378183856652@710x470.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-11",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/newspapers/20261112000579-260204": {
-   "checked_at": "2026-11-15T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-12T04:10+08:00",
-   "site_name": "中時新聞網",
-   "description": "臺南市玉秀雙語國小積極整合地方資源，透過雙語教育、跨域課程與社區參與，建立校園與在地商圈合作新模式，10月30日舉辦萬聖節英語與社區踩街活動，串聯鹽水14家商家，將英語學習延伸至真實生活場域，不僅展現雙語教",
-   "cities": {
-    "台南市": 2
-   },
-   "districts": [
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 540,
-   "image": "https://images.chinatimes.com/newsphoto/2026-11-12/656/A40A00_P_03_02.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-12",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.businesstoday.com.tw/article/category/183032/post/202611050023/": {
-   "checked_at": "2026-11-15T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T15:11+08:00",
-   "site_name": "今周刊",
-   "description": "謝金河女兒謝盈盈、阿嬤的家A Ma De Jia 2026首屆藝術博覽會、阿嬤的家時間12/11-12/20在雲林西螺登場，策展人謝盈盈笑道：「藝術品在老房子內很有感覺，很多人告訴我這樣很酷，其實在國外很多人做。」她觀察全台有很多老房子，她也決定延續這次的好評，催生了首屆全新藝術博覽會《阿嬤的家》，將於2026年12月",
-   "cities": {
-    "台北市": 3,
-    "雲林縣": 3,
-    "台中市": 1,
-    "台南市": 1
-   },
-   "districts": [],
-   "body_chars": 2024,
-   "image": "https://doqvf81n9htmm.cloudfront.net/data/petra_284/110500(1).jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261108761466": {
-   "checked_at": "2026-11-15T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T21:43+08:00",
-   "site_name": "蕃新聞",
-   "description": "【記者 潘靖茹／臺北報導】臺北市商業處協助台灣新媒體發展協會於11月7日至8日在香堤大道舉辦為期兩天",
-   "cities": {
-    "台北市": 10
-   },
-   "districts": [],
-   "body_chars": 892,
-   "image": "https://ni.yam.com/20261108/taipei-1E977767FABD2BB5-1-25aeb23f14ccfa97.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E7%B6%B2%E7%B4%85%E7%AF%80%E7%99%BB%E5%A0%B4-131%E7%B5%84%E5%89%B5%E4%BD%9C%E8%80%85%E8%A7%92%E9%80%90ty-star%E7%B6%B2%E7%B4%85%E7%8D%8E-28%E4%BD%8D%E7%B6%B2%E7%B4%85%E5%B8%B6%E8%B7%AF%E9%80%9B%E5%95%86%E5%9C%88-141817222.html": {
-   "checked_at": "2026-11-15T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T22:18+08:00",
-   "site_name": "Yahoo News",
-   "description": "【互傳媒／記者 謝忠義／台北 報導】為協助推廣網紅產業發展，臺北市商業處輔導台灣新媒體發展協會於11月7日至8",
-   "cities": {
-    "台北市": 34,
-    "高雄市": 3,
-    "桃園市": 2,
-    "新北市": 1
-   },
-   "districts": [
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 3725,
-   "image": "https://media.zenfs.com/ko/hoomedia_675/a66ee8c9f88719f53ec13cdd513e122d.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ctee.com.tw/news/20261112700352-439901": {
-   "checked_at": "2026-11-15T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-12T03:00+08:00",
-   "site_name": "工商時報",
-   "description": "臺南市玉秀雙語國小積極整合地方資源，透過雙語教育、跨域課程與社區參與，建立校園與在地商圈合作新模式，10月30日舉辦萬聖節英語與社區踩街活動，串聯鹽水14家商家，將英語學習延伸至真實生活場域，不僅展現雙語教育生活化成果，更透過學校與地方產業互動，為商圈注入節慶活力，開創教育與地方共榮新契機。 隨著雙...",
-   "cities": {
-    "台南市": 2
-   },
-   "districts": [
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 690,
-   "image": "https://images.ctee.com.tw/newsphoto/2026-11-12/1024/A40AC4_PictureItem_Clipping_03_4.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-12",
-   "date_hint_from": "原文時間"
-  },
-  "https://more-news.tw/760564/": {
-   "checked_at": "2026-11-15T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T16:08+08:00",
-   "site_name": "墨新聞 MORE News",
-   "description": "台中物調券帶動市集買氣，民眾好評持續延燒！市府經濟發展局日前於官方粉絲專頁發起物調券心得分享活動，短短4日吸引 […]",
-   "cities": {
-    "台中市": 5,
-    "嘉義市": 2
-   },
-   "districts": [
-    "美術園道商圈（台中市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1096,
-   "image": "https://more-news.tw/more-news-media/2026/11/1-38.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/politics/paper/1777014": {
-   "checked_at": "2026-11-15T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-03T05:30+08:00",
-   "site_name": "自由時報電子報",
-   "description": "知名DJ林哲儀發文指所在大樓店面閒置多年 本報記者走訪也見多處黃金店面待租台北市長蔣萬安日前於首場辯論會上表示，「大巨蛋讓東區商圈活起來，店面出租率超過九成，也迎來超過四百億經濟效益」，知名DJ林哲儀發文表示，蔣萬安說的東區跟他實際在開店的東區有沒有搭？提到他的唱片行所在大樓一樓有好幾間店面，已經閒置多年。記者實地走訪",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [
-    "東區商圈（台北市）"
-   ],
-   "body_chars": 1299,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/03/93.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-03",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/politics/breakingnews/5626673": {
-   "checked_at": "2026-11-15T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T15:47+08:00",
-   "site_name": "自由時報電子報",
-   "description": "台北市長蔣萬安日前於首場市長候選人辯論會表示，「大巨蛋讓東區商圈活起來，店面出租率超過9成，也迎來超過400億經濟效益。」台北市商業處指出，根據永慶房屋在地統計資料，東區商圈空店率已從2023年1月大巨蛋啟用前的13.48%，下降至2026年9月的8.85%，減少4.63個百分點。然而，記者實地走訪觀察，每走200公尺",
-   "cities": {
-    "台北市": 10
-   },
-   "districts": [
-    "東區商圈（台北市）"
-   ],
-   "body_chars": 1080,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/02/5626673_6_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://mknews.com.tw/2026/11/1013681/": {
-   "checked_at": "2026-11-15T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T18:14+08:00",
-   "site_name": "天天上新聞",
-   "description": "圖: 省下來的是荷包；累積起來的是生活的幸福感。(圖/臺中市 … Read More",
-   "cities": {
-    "台中市": 11
-   },
-   "districts": [
-    "美術園道商圈（台中市）",
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1307,
-   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
   "https://money.udn.com/money/story/10871/9860042": {
    "checked_at": "2026-11-15T07:18+08:00",
    "status": 200,
@@ -640,26 +455,6 @@
    "districts": [],
    "body_chars": 762,
    "image": "https://images.chinatimes.com/newsphoto/2026-11-05/656/20261105004025.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.tvbs.com.tw/money/4046288": {
-   "checked_at": "2026-11-15T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T22:00+08:00",
-   "site_name": "TVBS新聞網",
-   "description": "不論平日或假日，台北中山商圈總是人潮不斷，尤其赤峰街聚集老宅、咖啡店與特色小店，逐漸發展出獨特的文創風格。不過，隨著商圈知名度提升，店面租金也水漲船高，近期部分經營多年的特色店家陸續撤租，除了營運成本增加，高租金更成為業者難以承受的壓力。房仲業者指出，赤峰街店面租金10年來明顯上漲，熱門店面每坪月租甚至上看2萬元，商圈",
-   "cities": {
-    "台北市": 21
-   },
-   "districts": [
-    "赤峰街商圈（台北市）",
-    "中山商圈（台北市）",
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 3647,
-   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1aa31-958d-7198-b6a3-a6ae637393b7.jpg?t=16x9&wp=l,t&c=0,0,1920,1080&w=1200&h=675",
    "image_checked": true,
    "date_hint": "2026-11-05",
    "date_hint_from": "原文時間"
@@ -721,24 +516,6 @@
    "date_hint": "2026-11-02",
    "date_hint_from": "原文時間"
   },
-  "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=09F9BEB89B559353": {
-   "checked_at": "2026-11-15T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-02T00:00+08:00",
-   "site_name": "臺北市商業處",
-   "description": null,
-   "cities": {
-    "台北市": 7
-   },
-   "districts": [
-    "東區商圈（台北市）"
-   ],
-   "body_chars": 1141,
-   "image": "https://www.tcooc.gov.taipei/images/egov.png",
-   "image_checked": true,
-   "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
   "https://taiwanreports.com/archives/1023336": {
    "checked_at": "2026-11-15T07:18+08:00",
    "status": 200,
@@ -754,22 +531,6 @@
    "image": null,
    "image_checked": true,
    "date_hint": "2026-11-02",
-   "date_hint_from": "原文時間"
-  },
-  "https://money.udn.com/money/story/122328/9859177": {
-   "checked_at": "2026-11-15T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T19:11+08:00",
-   "site_name": "經濟日報",
-   "description": "嘉義市中正路二通商圈透過老店轉型與特色店家進駐，成為舊城區觀光亮點。市議員上午質詢二通商圈不少店家展現新風貌，市府除觀光行銷，也應改善商圈環境，建議參考日本韓國商店街模式，評估設置遮雨遮陽設施，規劃徒步街區，串聯火車站與舊城觀光動線。觀光新聞處長鄭雅文允諾跨局處評估。",
-   "cities": {
-    "嘉義市": 9
-   },
-   "districts": [],
-   "body_chars": 1046,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35487956.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
    "date_hint_from": "原文時間"
   },
   "https://udn.com/news/story/7241/9852481": {
@@ -10953,6 +10714,400 @@
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35492385.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600",
    "image_checked": true,
    "date_hint": "2026-11-06",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.businesstoday.com.tw/article/category/183032/post/202611050023/": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T15:11+08:00",
+   "site_name": "今周刊",
+   "description": "謝金河女兒謝盈盈、阿嬤的家A Ma De Jia 2026首屆藝術博覽會、阿嬤的家時間12/11-12/20在雲林西螺登場，策展人謝盈盈笑道：「藝術品在老房子內很有感覺，很多人告訴我這樣很酷，其實在國外很多人做。」她觀察全台有很多老房子，她也決定延續這次的好評，催生了首屆全新藝術博覽會《阿嬤的家》，將於2026年12月",
+   "cities": {
+    "台北市": 3,
+    "雲林縣": 3,
+    "台中市": 1,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 2024,
+   "image": "https://doqvf81n9htmm.cloudfront.net/data/petra_284/110500(1).jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/newspapers/20261112000579-260204": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T04:10+08:00",
+   "site_name": "中時新聞網",
+   "description": "臺南市玉秀雙語國小積極整合地方資源，透過雙語教育、跨域課程與社區參與，建立校園與在地商圈合作新模式，10月30日舉辦萬聖節英語與社區踩街活動，串聯鹽水14家商家，將英語學習延伸至真實生活場域，不僅展現雙語教",
+   "cities": {
+    "台南市": 2
+   },
+   "districts": [
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 540,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-12/656/A40A00_P_03_02.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261108761466": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T21:43+08:00",
+   "site_name": "蕃新聞",
+   "description": "【記者 潘靖茹／臺北報導】臺北市商業處協助台灣新媒體發展協會於11月7日至8日在香堤大道舉辦為期兩天",
+   "cities": {
+    "台北市": 10
+   },
+   "districts": [],
+   "body_chars": 905,
+   "image": "https://ni.yam.com/20261108/taipei-1E977767FABD2BB5-1-25aeb23f14ccfa97.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E7%B6%B2%E7%B4%85%E7%AF%80%E7%99%BB%E5%A0%B4-131%E7%B5%84%E5%89%B5%E4%BD%9C%E8%80%85%E8%A7%92%E9%80%90ty-star%E7%B6%B2%E7%B4%85%E7%8D%8E-28%E4%BD%8D%E7%B6%B2%E7%B4%85%E5%B8%B6%E8%B7%AF%E9%80%9B%E5%95%86%E5%9C%88-141817222.html": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T22:18+08:00",
+   "site_name": "Yahoo News",
+   "description": "【互傳媒／記者 謝忠義／台北 報導】為協助推廣網紅產業發展，臺北市商業處輔導台灣新媒體發展協會於11月7日至8",
+   "cities": {
+    "台北市": 30,
+    "高雄市": 3,
+    "桃園市": 2,
+    "新北市": 1
+   },
+   "districts": [
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/hoomedia_675/a66ee8c9f88719f53ec13cdd513e122d.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/politics/paper/1777014": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-03T05:30+08:00",
+   "site_name": "自由時報電子報",
+   "description": "知名DJ林哲儀發文指所在大樓店面閒置多年 本報記者走訪也見多處黃金店面待租台北市長蔣萬安日前於首場辯論會上表示，「大巨蛋讓東區商圈活起來，店面出租率超過九成，也迎來超過四百億經濟效益」，知名DJ林哲儀發文表示，蔣萬安說的東區跟他實際在開店的東區有沒有搭？提到他的唱片行所在大樓一樓有好幾間店面，已經閒置多年。記者實地走訪",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 1299,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/03/93.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-03",
+   "date_hint_from": "原文時間"
+  },
+  "https://more-news.tw/760564/": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T16:08+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "台中物調券帶動市集買氣，民眾好評持續延燒！市府經濟發展局日前於官方粉絲專頁發起物調券心得分享活動，短短4日吸引 […]",
+   "cities": {
+    "台中市": 5,
+    "嘉義市": 2
+   },
+   "districts": [
+    "美術園道商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1096,
+   "image": "https://more-news.tw/more-news-media/2026/11/1-38.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5626673": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T15:47+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台北市長蔣萬安日前於首場市長候選人辯論會表示，「大巨蛋讓東區商圈活起來，店面出租率超過9成，也迎來超過400億經濟效益。」台北市商業處指出，根據永慶房屋在地統計資料，東區商圈空店率已從2023年1月大巨蛋啟用前的13.48%，下降至2026年9月的8.85%，減少4.63個百分點。然而，記者實地走訪觀察，每走200公尺",
+   "cities": {
+    "台北市": 10
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 1080,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/02/5626673_6_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/autos/%E6%80%A7%E8%83%BD%E8%BB%8A%E8%BC%9B/%E7%B6%93%E5%85%B8%E4%BF%9D%E6%99%82%E6%8D%B7%E6%B7%AA%E7%83%8F%E8%B3%8A%E8%BB%8A-%E5%90%83%E6%A9%9F%E6%B2%B9-%E7%8B%82%E5%99%B4%E7%99%BD%E7%85%99-%E8%87%AD%E7%BF%BB%E8%A1%97-%E7%89%8C%E7%85%A7%E9%81%AD%E8%A8%BB%E9%8A%B7%E4%B8%8A%E8%B7%AF%E6%9C%80%E9%AB%98%E7%BD%B07%E8%90%AC-%E6%B0%91%E6%80%A8%E8%AA%BF%E6%9F%A5%E5%B1%80/vi-AA2heUHK": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://money.udn.com/money/story/122328/9859177": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T19:11+08:00",
+   "site_name": "經濟日報",
+   "description": "嘉義市中正路二通商圈透過老店轉型與特色店家進駐，成為舊城區觀光亮點。市議員上午質詢二通商圈不少店家展現新風貌，市府除觀光行銷，也應改善商圈環境，建議參考日本韓國商店街模式，評估設置遮雨遮陽設施，規劃徒步街區，串聯火車站與舊城觀光動線。觀光新聞處長鄭雅文允諾跨局處評估。",
+   "cities": {
+    "嘉義市": 9
+   },
+   "districts": [],
+   "body_chars": 1011,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35487956.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ctee.com.tw/news/20261112700352-439901": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T03:00+08:00",
+   "site_name": "工商時報",
+   "description": "臺南市玉秀雙語國小積極整合地方資源，透過雙語教育、跨域課程與社區參與，建立校園與在地商圈合作新模式，10月30日舉辦萬聖節英語與社區踩街活動，串聯鹽水14家商家，將英語學習延伸至真實生活場域，不僅展現雙語教育生活化成果，更透過學校與地方產業互動，為商圈注入節慶活力，開創教育與地方共榮新契機。 隨著雙...",
+   "cities": {
+    "台南市": 2
+   },
+   "districts": [
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 690,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-12/1024/A40AC4_PictureItem_Clipping_03_4.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://mknews.com.tw/2026/11/1013681/": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T18:14+08:00",
+   "site_name": "天天上新聞",
+   "description": "圖: 省下來的是荷包；累積起來的是生活的幸福感。(圖/臺中市 … Read More",
+   "cities": {
+    "台中市": 11
+   },
+   "districts": [
+    "美術園道商圈（台中市）",
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 1307,
+   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7333/9885242?from=udn-relatednews_ch2": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T05:33+08:00",
+   "site_name": "聯合新聞網",
+   "description": "深圳已進入ＡＰＥＣ時間。在「中國電子第一街」華強北，隨處可見ＡＰＥＣ的醒目標識。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1769,
+   "image": "https://udn.com/static/img/UDN_BABY.png",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/money/4046288": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T22:00+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "不論平日或假日，台北中山商圈總是人潮不斷，尤其赤峰街聚集老宅、咖啡店與特色小店，逐漸發展出獨特的文創風格。不過，隨著商圈知名度提升，店面租金也水漲船高，近期部分經營多年的特色店家陸續撤租，除了營運成本增加，高租金更成為業者難以承受的壓力。房仲業者指出，赤峰街店面租金10年來明顯上漲，熱門店面每坪月租甚至上看2萬元，商圈",
+   "cities": {
+    "台北市": 21
+   },
+   "districts": [
+    "赤峰街商圈（台北市）",
+    "中山商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 3647,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1aa31-958d-7198-b6a3-a6ae637393b7.jpg?t=16x9&wp=l,t&c=0,0,1920,1080&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pchome.com.tw/travel/thehubnews/20261116/index-79482349836682306009.html": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.chinatimes.com/newspapers/20261118000572-260106": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T04:10+08:00",
+   "site_name": "中時新聞網",
+   "description": "中聯油脂停工，食品通路出現沙拉油荒，售價貴桑桑。食品業者透露，沙拉油11月已斷貨，別說漲價，現在是有錢還買不到；鄰近竹南科學園區的餐飲業者更透露，沙拉油斷貨，炒菜只好用「耐炸油」，由於市場食用油都缺貨，",
+   "cities": {},
+   "districts": [],
+   "body_chars": 566,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-18/656/B07A00_P_06_02.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7333/9885242": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T05:33+08:00",
+   "site_name": "聯合新聞網",
+   "description": "深圳已進入ＡＰＥＣ時間。在「中國電子第一街」華強北，隨處可見ＡＰＥＣ的醒目標識。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1769,
+   "image": "https://udn.com/static/img/UDN_BABY.png",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://ct.org.tw/html/news/3-3.php?cat=26&article=1404807&fontsize=2": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "一提到新山，很多人腦海裡想到的，就是——新加坡的旁邊。但如果你真的願意花一天，走進新山的老城區，會發現這座城市其實很有意思。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 2762,
+   "image": "https://media.ct.org.tw/upload/news_article/2026/11/17/6afbfdc2d2a87.png?wm=LB",
+   "image_checked": true,
+   "date_hint": "2026-11-17",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://news.tvbs.com.tw/local/4051975": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-17T18:27+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "一組由智利籍人士組成的竊盜集團近日在台北落網，成員包括一對情侶檔及女方的哥哥共3人。該集團專門鎖定台北捷運板南線犯案，利用分工合作方式竊取乘客財物，手法細膩讓被害人難以察覺，3人落網後已遭限制出境。",
+   "cities": {
+    "台北市": 13,
+    "新北市": 4,
+    "桃園市": 1,
+    "彰化縣": 1
+   },
+   "districts": [
+    "永康商圈（台北市）",
+    "九份老街商圈（新北市）"
+   ],
+   "body_chars": 2806,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1e8cd-65b8-722d-8bf4-25d74448e90b.jpg?t=16x9&wp=l,t&c=0,44,1100,663&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-11-17",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/paper/1778881": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T05:30+08:00",
+   "site_name": "自由時報電子報",
+   "description": "今年年初Bolt司機丟包温姓男子致死事件，引發社會對叫車平台、車隊及駕駛責任歸屬關注；交通部昨天公告修法，除開放一車多車隊外，也將網路叫車平台納計程車業管理，明起上路，業者須在公告後一年內取得營業執照，違者最高罰二五〇〇萬元，並勒令歇業。過去叫車平台並未納入計程車業管理中，隨著網路叫車服務日益普及，交通部昨公告修正「計",
+   "cities": {
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 1165,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/18/42.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.cn/zh-cn/entertainment/%E9%80%9A%E7%94%A8/%E8%A1%A3%E8%A2%96%E9%9A%8F%E9%A3%8E%E8%B5%B7-%E6%B2%B3%E5%A4%B4%E8%80%81%E8%A1%97%E8%B0%A2%E9%98%BF%E8%9B%AE-%E4%B8%80%E8%88%9E%E9%87%8D%E7%8E%B0%E7%9B%9B%E5%94%90%E9%A3%8E%E5%8D%8E/ar-AA2hAXRW": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=09F9BEB89B559353": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-02T00:00+08:00",
+   "site_name": "臺北市商業處",
+   "description": null,
+   "cities": {
+    "台北市": 7
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 1141,
+   "image": "https://www.tcooc.gov.taipei/images/egov.png",
+   "image_checked": true,
+   "date_hint": "2026-11-02",
+   "date_hint_from": "原文時間"
+  },
+  "https://edb.tycg.gov.tw/News_Content.aspx?n=3749&s=1969810": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T00:00+08:00",
+   "site_name": "桃園市政府經濟發展局",
+   "description": null,
+   "cities": {
+    "桃園市": 19
+   },
+   "districts": [
+    "魅力金三角商圈（桃園市）"
+   ],
+   "body_chars": 1146,
+   "image": "https://ws.tycg.gov.tw/001/Upload/57/relpic/9954/1969810/bf808d5b-63a9-4dbc-b65d-378183856652@710x470.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.contentplatform.info/articles/579035/%E8%A5%BF%E6%AD%A6%E5%9C%92%E9%81%8A%E6%A8%82%E5%9C%92%E6%98%AD%E5%92%8C%E5%95%86%E5%BA%97%E8%A1%97%E8%80%B6%E8%AA%95%E6%B4%BB%E5%8B%9511-26%E8%B5%B7%E3%80%80%E7%87%88%E9%A3%BE%E8%88%9E%E8%B9%88/": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-17T10:58+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "西武園遊樂園「ノスタルジック・クリスマス」11月26日至12月25日商店街燈飾舞蹈秀每天16時30分起，約15分鐘烤雞盤配奶油蘇打為2,900日圓（約新台幣600元），12月3日起販售",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1006,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/17105138/jp-prt-11571-1017-1-261117025136919.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-17",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.orientaldaily.com.my/news/nation/2026/11/17/863708": {
+   "checked_at": "2026-11-18T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-17T16:30+08:00",
+   "site_name": "東方網 馬來西亞東方日報",
+   "description": "（吉隆坡17日讯）尽管法国总统马克龙的访马行程紧凑，他今日仍拨冗走访首都，由首相拿督斯里安华陪同在吉隆坡茨厂街一带漫步。两国领导人于下午约2时抵达茨厂街一带，随行者包括首相署（联邦直辖区）部长杨巧双、两国代表团及政府高级官员及随扈。在约30分钟的轻松行程中，安华与马克龙沿著店铺林立的街道步行，了解当地商业活动，以及这个",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1359,
+   "image": "https://www.orientaldaily.com.my/storage/resize_cache/images/uploads/news-cover/2026/NOV_2026/20261117/911961094_1149612360891577_1321573568905915003_n.jpg/90c45658791b9e2729a4ed7c3e2d9f5e.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-17",
    "date_hint_from": "原文時間"
   }
  }
