@@ -1,33 +1,15 @@
 {
- "fetched_at": "2026-11-17T20:51:12+08:00",
- "generated_at": "2026-11-17T20:51:11+08:00",
+ "fetched_at": "2026-11-18T01:42:20+08:00",
+ "generated_at": "2026-11-18T01:42:20+08:00",
  "window": "7d",
- "event_count": 103,
- "article_count": 166,
+ "event_count": 88,
+ "article_count": 142,
  "items": [
-  {
-   "url": "https://n.yam.com/Article/20261117406060",
-   "title": "西武園遊樂園昭和商店街耶誕活動11/26起 燈飾舞蹈秀、聖誕老人與焚火喫茶",
-   "source": "蕃新聞",
-   "published_at": "2026-11-17T10:58:00+08:00",
-   "event_key": "art:445327ccc410f4b7b35fffbdd751b9a187dacd5f5c03a91cc53d2c203b9a4284",
-   "primary": true
-  },
-  {
-   "url": "https://travel.udn.com/travel/story/7205/9875791",
-   "title": "欣食旅新品牌「GIMME」進軍信義商圈!瞄準都會「輕社交」商機,推地中海小盤菜、台灣烏龍茶創意調酒",
-   "source": "travel.udn",
-   "published_at": "2026-11-17T09:00:00+08:00",
-   "event_key": "art:92ba89b5c98efbac9c11c06d8702e2bc9478c3f960a05bed6776c0e3bcf37a0a",
-   "primary": true,
-   "summary": "欣食旅於2017年開啟餐飲版圖,積極打造以「好肉好菜」與「健康料理也要兼顧美味」為核心的「gonna共樂遊」餐飲品牌,目前旗下共擁有gonnaEAT6間、gonnaEXPRESS 2間、gonnaPLUS 1間、光一咖啡廳2間,加上全新開幕的GIMME,共計達12間門市。",
-   "date_only": true
-  },
   {
    "url": "https://news.tvbs.com.tw/life/4051890",
    "title": "游淑貞提花蓮舊城商圈振興策略 文化深耕、觀光導流雙軌並進",
    "source": "TVBS新聞網",
-   "published_at": "2026-11-17T01:42:00+08:00",
+   "published_at": "2026-11-17T15:42:00+08:00",
    "event_key": "art:a2cdd61b67a6bc289d97b62b79b8182cb594ba990368e0012897bb4300476b22",
    "primary": true,
    "summary": "面對國旅市場疲軟、國際觀光客源不足等挑戰,國民黨提名3號花蓮縣長候選人游淑貞提出「舊城文化再生、商圈經濟振興」策略,主張整合花蓮市大禹街、舊鐵道文化徒步區及金三角商圈既有建設成果,從文化深耕、觀光消費、青年創業及交通改善四大面向著手,打造兼具文化特色與商業活力的城市觀光核心,讓過路客變成留宿客,讓觀光人潮真正轉化為店家",
@@ -37,12 +19,36 @@
    "date_only": true
   },
   {
+   "url": "https://n.yam.com/Article/20261117406060",
+   "title": "西武園遊樂園昭和商店街耶誕活動11/26起 燈飾舞蹈秀、聖誕老人與焚火喫茶",
+   "source": "蕃新聞",
+   "published_at": "2026-11-17T10:58:00+08:00",
+   "event_key": "art:445327ccc410f4b7b35fffbdd751b9a187dacd5f5c03a91cc53d2c203b9a4284",
+   "primary": true
+  },
+  {
+   "url": "https://udn.com/news/story/7205/9875791",
+   "title": "欣食旅新品牌「GIMME」進軍信義商圈!瞄準都會「輕社交」商機,推地中海小盤菜、台灣烏龍茶創意調酒",
+   "source": "UDN",
+   "published_at": "2026-11-17T09:00:00+08:00",
+   "event_key": "art:326328b2fa258c626e32b1ba04e31e662085a369a1082333c305b5701f2d5ba4",
+   "primary": true
+  },
+  {
+   "url": "https://travel.udn.com/travel/story/7205/9875791",
+   "title": "欣食旅新品牌「GIMME」進軍信義商圈!瞄準都會「輕社交」商機,推地中海小盤菜、台灣烏龍茶創意調酒",
+   "source": "travel.udn",
+   "published_at": "2026-11-17T09:00:00+08:00",
+   "event_key": "art:326328b2fa258c626e32b1ba04e31e662085a369a1082333c305b5701f2d5ba4",
+   "primary": false
+  },
+  {
    "url": "https://www.contentplatform.info/articles/578706/%E7%BE%8E%E8%A1%93%E5%9C%92%E9%81%93%E5%95%86%E5%9C%88%E3%80%8C%E7%BE%8E%E5%AD%B8%E6%A3%AE%E6%B4%BB%E7%AF%80%E3%80%8D-%E4%B8%B2%E8%81%AF%E7%94%A2%E6%A5%AD%E8%A7%80%E5%85%89-%E5%89%B5%E9%80%A0/",
    "title": "美術園道商圈「美學森活節」 串聯產業觀光 創造近500萬元經濟效益",
    "source": "報新聞 Mega News",
    "published_at": "2026-11-16T21:01:00+08:00",
-   "event_key": "art:e3bf0cab04e9425a212f6c7fe0e260f79c16d2ecc568f01514310b92a6fe4200",
-   "primary": true,
+   "event_key": "art:bf08356d085ba423bdeded5a15aca6eb8812bdd9ba6811e3402fe9ec519be5f5",
+   "primary": false,
    "cities": [
     "台中市"
    ],
@@ -59,11 +65,25 @@
    "primary": true
   },
   {
+   "url": "https://www.scooptw.com/taiwanpost/555374/%E7%BE%8E%E8%A1%93%E5%9C%92%E9%81%93%E5%95%86%E5%9C%88%E3%80%8C%E7%BE%8E%E5%AD%B8%E6%A3%AE%E6%B4%BB%E7%AF%80%E3%80%8D-%E4%B8%B2%E8%81%AF%E7%94%A2%E6%A5%AD%E8%A7%80%E5%85%89-%E5%89%B5%E9%80%A0/",
+   "title": "美術園道商圈「美學森活節」 串聯產業觀光 創造近500萬元經濟效益",
+   "source": "獨家報導",
+   "published_at": "2026-11-16T20:53:00+08:00",
+   "event_key": "art:bf08356d085ba423bdeded5a15aca6eb8812bdd9ba6811e3402fe9ec519be5f5",
+   "primary": true,
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    "美術園道商圈"
+   ]
+  },
+  {
    "url": "https://tw.news.yahoo.com/%E7%BE%8E%E8%A1%93%E5%9C%92%E9%81%93%E5%95%86%E5%9C%88-%E7%BE%8E%E5%AD%B8%E6%A3%AE%E6%B4%BB%E7%AF%80-%E4%B8%B2%E8%81%AF%E7%94%A2%E6%A5%AD%E8%A7%80%E5%85%89-%E5%89%B5%E9%80%A0%E8%BF%91500%E8%90%AC%E5%85%83%E7%B6%93%E6%BF%9F%E6%95%88%E7%9B%8A-125327045.html",
    "title": "美術園道商圈「美學森活節」 串聯產業觀光 創造近500萬元經濟效益",
    "source": "Yahoo新聞",
    "published_at": "2026-11-16T20:53:00+08:00",
-   "event_key": "art:e3bf0cab04e9425a212f6c7fe0e260f79c16d2ecc568f01514310b92a6fe4200",
+   "event_key": "art:bf08356d085ba423bdeded5a15aca6eb8812bdd9ba6811e3402fe9ec519be5f5",
    "primary": false,
    "cities": [
     "台中市"
@@ -101,7 +121,7 @@
    "title": "美術園道商圈「美學森活節」 串聯產業觀光 創造近500萬元經濟效益",
    "source": "是新聞",
    "published_at": "2026-11-16T12:53:00+08:00",
-   "event_key": "art:e3bf0cab04e9425a212f6c7fe0e260f79c16d2ecc568f01514310b92a6fe4200",
+   "event_key": "art:bf08356d085ba423bdeded5a15aca6eb8812bdd9ba6811e3402fe9ec519be5f5",
    "primary": false,
    "cities": [
     "台中市"
@@ -142,29 +162,33 @@
   },
   {
    "url": "https://money.udn.com/money/story/7843/9877384",
-   "title": "晚下班也能吃好鍋!黑毛屋插旗南京復興商圈 營業至晚間11點",
+   "title": "晚下班也能吃好鍋!黑毛屋插旗南京復興商圈 營業至晚間11點 | 食品餐飲 | 商情",
    "source": "經濟日報",
    "published_at": "2026-11-16T10:01:00+08:00",
    "event_key": "art:347bc0d948b57032f38075b7b3570f64576735ccaa415f46ed0f4e991a24fd19",
-   "primary": true,
-   "summary": "下班晚了,也能好好吃頓鍋!乾杯集團旗下日式鍋物品牌「黑毛屋」再拓新據點,全台第21家門店「慶城店」插旗台北南京復興商圈,即日起開幕迎賓。新店營業至晚間11點,主打四大經典日式鍋物,套餐380元起,上班族即使晚下班,也能從容享用鍋物美味,為商圈增添鍋物新選擇! 黑毛屋第21間店落腳慶城街 營業至晚間11點搶攻宵夜商機 慶",
-   "date_only": true
+   "primary": true
   },
   {
    "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4E021CD9DDDE7E24",
    "title": "「2026高雄聖誕生活節」紫色浪漫點燈!「耶誕小鎮」連續5個週末登場紫色限定美食、手作耳飾與商圈燈海迎接海內外ARMY",
    "source": "高雄市政府全球資訊網",
    "published_at": "2026-11-16T09:54:00+08:00",
-   "event_key": "archive:75995c3910de2f5f",
-   "primary": true
+   "event_key": "art:2d50e2994c11bddffdbba37216e1fa8cf47bab72bbe6b8106f146ba82f73dd6c",
+   "primary": true,
+   "cities": [
+    "高雄市"
+   ]
   },
   {
    "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=4E021CD9DDDE7E24",
    "title": "「2026高雄聖誕生活節」紫色浪漫點燈!「耶誕小鎮」連續5個週末登場紫色限定美食、手作耳飾與商圈燈海迎接海內外ARMY",
    "source": "高雄市政府全球資訊網",
    "published_at": "2026-11-16T09:50:00+08:00",
-   "event_key": "archive:75995c3910de2f5f",
-   "primary": false
+   "event_key": "art:2d50e2994c11bddffdbba37216e1fa8cf47bab72bbe6b8106f146ba82f73dd6c",
+   "primary": false,
+   "cities": [
+    "高雄市"
+   ]
   },
   {
    "url": "https://www.travel.taipei/zh-tw/news/details/68356",
@@ -206,31 +230,37 @@
    "title": "游淑貞、魏嘉賢互攻對方本命區游提振興商圈魏喊玉里設第二行政中心- 股市爆料同學會",
    "source": "CMoney",
    "published_at": "2026-11-15T17:05:00+08:00",
-   "event_key": "art:abed0bb51ebf91fef5b6f2ee8de4693f3a4aa87dcac70cc43d90f31de6cead34",
-   "primary": true
+   "event_key": "art:28868d8f87d26a924406330c3d0b27a8e888921aa3ee91c2626cd84bb50f2d1e",
+   "primary": false,
+   "summary": "花蓮縣長選戰進入倒數,國民黨候選人、吉安鄉長游淑貞、無黨籍候選人、花蓮市前市長魏嘉賢近日分別前往對方本命區拜票。游淑貞到花蓮市中山路站街口,提出舊城文化再生、商圈經濟振興策略;魏嘉賢則走訪吉安慶豐,並提出玉里設立「花蓮第二行政中心」,強調讓13鄉鎮市都能公平獲得資源。",
+   "date_only": true
   },
   {
    "url": "https://udn.com/news/story/124652/9880107",
    "title": "游淑貞、魏嘉賢互攻對方本命區 游提振興商圈 魏喊玉里設第二行政中心",
    "source": "聯合新聞網",
    "published_at": "2026-11-15T16:50:00+08:00",
-   "event_key": "art:abed0bb51ebf91fef5b6f2ee8de4693f3a4aa87dcac70cc43d90f31de6cead34",
-   "primary": false
+   "event_key": "art:28868d8f87d26a924406330c3d0b27a8e888921aa3ee91c2626cd84bb50f2d1e",
+   "primary": true,
+   "summary": "花蓮縣長選戰進入倒數,國民黨候選人、吉安鄉長游淑貞、無黨籍候選人、花蓮市前市長魏嘉賢近日分別前往對方本命區拜票。游淑貞到花蓮市中山路站街口,提出舊城文化再生、商圈經濟振興策略;魏嘉賢則走訪吉安慶豐,並提出玉里設立「花蓮第二行政中心」,強調讓13鄉鎮市都能公平獲得資源。",
+   "date_only": true
   },
   {
    "url": "https://udn.com/news/amp/story/124652/9880107",
    "title": "游淑貞、魏嘉賢互攻對方本命區 游提振興商圈 魏喊玉里設第二行政中心",
    "source": "UDN",
    "published_at": "2026-11-15T16:49:00+08:00",
-   "event_key": "art:abed0bb51ebf91fef5b6f2ee8de4693f3a4aa87dcac70cc43d90f31de6cead34",
-   "primary": false
+   "event_key": "art:28868d8f87d26a924406330c3d0b27a8e888921aa3ee91c2626cd84bb50f2d1e",
+   "primary": false,
+   "summary": "花蓮縣長選戰進入倒數,國民黨候選人、吉安鄉長游淑貞、無黨籍候選人、花蓮市前市長魏嘉賢近日分別前往對方本命區拜票。游淑貞到花蓮市中山路站街口,提出舊城文化再生、商圈經濟振興策略;魏嘉賢則走訪吉安慶豐,並提出玉里設立「花蓮第二行政中心」,強調讓13鄉鎮市都能公平獲得資源。",
+   "date_only": true
   },
   {
    "url": "https://udn.com/vote2026/story/124652/9880107",
    "title": "互攻對方本命區游淑貞提振興商圈、魏嘉賢喊玉里設第二行政中心| 2026九合一選舉",
    "source": "UDN",
    "published_at": "2026-11-15T16:49:00+08:00",
-   "event_key": "art:7714c30b25cb32a1b3d9fee9a96c8683565b2a754757e7434f2737d407d1dba0",
+   "event_key": "archive:58f936b1517dcb5a",
    "primary": true
   },
   {
@@ -238,11 +268,8 @@
    "title": "搶救花蓮金三角商圈店面熄燈潮 游淑貞拋振興藍圖",
    "source": "中時新聞網",
    "published_at": "2026-11-15T16:30:00+08:00",
-   "event_key": "art:0e747d5351038f1cc8e6422c1646ee98b8a5b0db2e72c927c951a1f930150eec",
-   "primary": true,
-   "cities": [
-    "花蓮縣"
-   ]
+   "event_key": "archive:40fdb1ef22abb08a",
+   "primary": true
   },
   {
    "url": "https://www.ksnews.com.tw/e/159990",
@@ -383,7 +410,7 @@
    "title": "紅灰地磚看似人行道竟是私人地! 店家劃車格停車合法 民眾巨蛋商圈被迫走車道【民怨調查局】",
    "source": "EBC 東森新聞",
    "published_at": "2026-11-14T01:52:44+08:00",
-   "event_key": "art:4d88e6e7f723d4ff86e7e3292b9bc997efee363db421daad41213ab55a65029e",
+   "event_key": "archive:622195bb758d29b3",
    "primary": true,
    "summary": "這不是人行道!退縮地畫車格 民眾被迫走車道台中人行道旁多出\"詭異空間\" 停滿車擋住戶出入五金行違建貨梯降人行道 竟叫路人走馬路刪慢車道! 騎樓旁\"設人行道\" 住戶怨:多此一舉外掛貨梯強占人行道.私畫黃網線 業者道歉店家占騎樓 居民被迫走馬路旁「人行道」:很危險九如橋聯外道路遭設斜坡道惹議 里長勸導拆除獨家》控房東放任「",
    "date_only": true
@@ -647,8 +674,8 @@
    "title": "中市7期商圈導入智慧行人警示系統 地面紅燈提醒駕駛注意行人",
    "source": "蕃新聞",
    "published_at": "2026-11-13T08:04:00+08:00",
-   "event_key": "archive:c53710a438193c29",
-   "primary": true,
+   "event_key": "art:2fb1c1bb2a9fd0f7f702dec867b8ae2e1824cd8fc58b9faafd38c4f6b186946b",
+   "primary": false,
    "summary": "智慧行人友善設施-新光遠百公車專用道地嵌式警示燈及投射式紅綠燈。(圖/台中市政府提供) 台中市政府交通局為行人安全再添科技助力!近來很多到新光三越、大遠百商圈周邊消費、觀光的民眾,發現台灣大道與惠來路口地面也會發出紅綠燈訊號。市府交通局長葉昭甫表示,這套「智慧行人安全警示系統」,結合AI智慧攝影機、地嵌式警示燈及投射式",
    "date_only": true
   },
@@ -736,8 +763,8 @@
    "title": "中市7期商圈導入智慧行人警示系統 地面紅燈提醒駕駛注意行人",
    "source": "more-news",
    "published_at": "2026-11-13T00:00:00+08:00",
-   "event_key": "archive:c53710a438193c29",
-   "primary": false,
+   "event_key": "art:2fb1c1bb2a9fd0f7f702dec867b8ae2e1824cd8fc58b9faafd38c4f6b186946b",
+   "primary": true,
    "summary": "智慧行人友善設施-新光遠百公車專用道地嵌式警示燈及投射式紅綠燈。(圖/台中市政府提供) 台中市政府交通局為行人安全再添科技助力!近來很多到新光三越、大遠百商圈周邊消費、觀光的民眾,發現台灣大道與惠來路口地面也會發出紅綠燈訊號。市府交通局長葉昭甫表示,這套「智慧行人安全警示系統」,結合AI智慧攝影機、地嵌式警示燈及投射式",
    "date_only": true
   },
@@ -794,19 +821,6 @@
    "date_only": true
   },
   {
-   "url": "https://truemii.chinatimes.com/content/20261113000005-265001",
-   "title": "新北市長候選人聚焦山海、河岸、文化與商圈活化 考驗跨區整合與業者參與",
-   "source": "中時新聞網",
-   "published_at": "2026-11-13T00:00:00+08:00",
-   "event_key": "art:cd26c124c05a407d8948af8a94054e7cf6d1bcc837b040023fd51c35ec7f6526",
-   "primary": true,
-   "summary": "李四川提出參考日本觀光周遊券的做法,整合大眾運輸、景點、住宿、美食及消費優惠,規劃串聯新北29區,並延伸至台北、基隆及桃園,促進跨區旅遊。 周遊券的規劃方向,是將交通、景點與消費服務整合為更便利的旅遊工具,降低旅客安排跨區行程的門檻。透過交通票券搭配景點入場、住宿及地方商家優惠,可鼓勵旅客延長停留時間,將旅遊行程從單一",
-   "cities": [
-    "新北市"
-   ],
-   "date_only": true
-  },
-  {
    "url": "https://www.chinatimes.com/realtimenews/20261113002494-260402",
    "title": "排隊買滷味爆衝突!宜大商圈2打1還拖行馬路 警車湧入嚇壞居民",
    "source": "中時新聞網",
@@ -814,6 +828,16 @@
    "event_key": "art:4912f78c37edd46f90cb5a8cd426b06b4221c2e8d63b594d5e6ad1e46dd4b426",
    "primary": true,
    "summary": "買滷味竟買到爆發街頭鬥毆!宜蘭市進士路二段昨(12日)晚間驚傳暴力衝突,宜蘭大學神農商圈一家滷味攤前,顧客疑因排隊問題爆發口角,竟演變成2名男子聯手毆打1人,許姓男子遭打倒在地,甚至被拖行至馬路上,受傷送醫後目前仍住院觀察。警方獲報趕抵現場,多輛警車出現,也讓附近居民一度驚慌,不知究竟發生什麼大事。 據了解,12日晚間",
+   "date_only": true
+  },
+  {
+   "url": "https://truemii.chinatimes.com/content/20261113000005-265001",
+   "title": "新北市長候選人聚焦山海、河岸、文化與商圈活化 考驗跨區整合與業者參與",
+   "source": "中時新聞網",
+   "published_at": "2026-11-13T00:00:00+08:00",
+   "event_key": "archive:b968900d105cd066",
+   "primary": true,
+   "summary": "李四川提出參考日本觀光周遊券的做法,整合大眾運輸、景點、住宿、美食及消費優惠,規劃串聯新北29區,並延伸至台北、基隆及桃園,促進跨區旅遊。 周遊券的規劃方向,是將交通、景點與消費服務整合為更便利的旅遊工具,降低旅客安排跨區行程的門檻。透過交通票券搭配景點入場、住宿及地方商家優惠,可鼓勵旅客延長停留時間,將旅遊行程從單一",
    "date_only": true
   },
   {
@@ -1010,9 +1034,15 @@
    "title": "基隆委託行商圈榮獲「2026全國卓越商圈獎」亮點觀光獎",
    "source": "LIFE 生活網",
    "published_at": "2026-11-12T17:40:00+08:00",
-   "event_key": "archive:5f71e2ed233ec649",
-   "primary": true,
+   "event_key": "art:c154a8981b243de1101e7b193bb8f4f5610c5b49f7cbf30c8e9ddf52e66adc05",
+   "primary": false,
    "summary": "經濟部商業發展署於11月10日在臺北凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部長龔明鑫親自頒獎。今年全國共有36個商圈獲地方政府推薦參選,最終選出20處卓越商圈。其中,基隆市委託行商圈榮獲「亮點觀光獎」,展現商圈在歷史文化保存、特色觀光營造、在地產業串聯及智慧旅遊創新上的努力成果,讓基隆傳統街區的文化價",
+   "cities": [
+    "基隆市"
+   ],
+   "districts": [
+    "委託行商圈"
+   ],
    "date_only": true
   },
   {
@@ -1278,9 +1308,15 @@
    "title": "基隆委託行商圈榮獲「2026全國卓越商圈獎」亮點觀光獎",
    "source": "more-news",
    "published_at": "2026-11-12T09:40:00+08:00",
-   "event_key": "archive:5f71e2ed233ec649",
-   "primary": false,
+   "event_key": "art:c154a8981b243de1101e7b193bb8f4f5610c5b49f7cbf30c8e9ddf52e66adc05",
+   "primary": true,
    "summary": "經濟部商業發展署於11月10日在臺北凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部長龔明鑫親自頒獎。今年全國共有36個商圈獲地方政府推薦參選,最終選出20處卓越商圈。其中,基隆市委託行商圈榮獲「亮點觀光獎」,展現商圈在歷史文化保存、特色觀光營造、在地產業串聯及智慧旅遊創新上的努力成果,讓基隆傳統街區的文化價",
+   "cities": [
+    "基隆市"
+   ],
+   "districts": [
+    "委託行商圈"
+   ],
    "date_only": true
   },
   {
@@ -1399,266 +1435,6 @@
    "event_key": "archive:e19532e637d0fb8b",
    "primary": true,
    "summary": "九合一選舉倒數16天,台北市長蔣萬安、民進黨台北市長候選人沈伯洋都在今(12日)請假,正式進入選戰最後衝刺。蔣萬安一早將從木柵市場拜票展開行程,隨後連趕多個活動,更將在晚間直搗洋流颳起旋風的公館商圈夜市。而沈伯洋也是行程排滿滿,一早將在非常具有象徵意義的中正紀念堂捷運站發送第三期順報,更將召開「台北隊」擴大會議,討論選",
-   "date_only": true
-  },
-  {
-   "url": "https://enn.tw/805984/",
-   "title": "2026全國卓越商圈獎揭曉 20處特色商圈脫穎而出",
-   "source": "ENN台灣電報",
-   "published_at": "2026-11-11T21:06:00+08:00",
-   "event_key": "archive:e60cae96646b968c",
-   "primary": true,
-   "summary": "經濟部商業發展署10日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎。今年自地方政府推薦的36個商圈中,評選出20處卓越商圈,透過表揚樹立標竿典範,鼓勵各地商圈交流學習,充分展現臺灣街區的多元特色與生命力。 經濟部龔明鑫部長出席 2026全國卓越商圈獎 頒獎典禮,肯定全臺商圈持續深耕地方",
-   "date_only": true
-  },
-  {
-   "url": "https://today.line.me/tw/v3/article/LXeVleG",
-   "title": "合體蕭美琴訪石碇、深坑 蘇巧慧:當選後商圈補助增加3倍 | 自由電子報",
-   "source": "LINE TODAY",
-   "published_at": "2026-11-11T20:57:00+08:00",
-   "event_key": "archive:796b1d7f8c43420e",
-   "primary": true
-  },
-  {
-   "url": "https://www.cmoney.tw/forum/article/188568708",
-   "title": "6407 相互 - 紓解文化路商圈停車需求嘉市崇文國小地下停車場啟用- 股市爆料同學會",
-   "source": "CMoney",
-   "published_at": "2026-11-11T20:46:00+08:00",
-   "event_key": "archive:8227aa9c11f11c4c",
-   "primary": true
-  },
-  {
-   "url": "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5637527",
-   "title": "合體蕭美琴訪石碇、深坑 蘇巧慧:當選後商圈補助增加3倍",
-   "source": "自由時報・地方",
-   "published_at": "2026-11-11T20:26:37+08:00",
-   "event_key": "archive:796b1d7f8c43420e",
-   "primary": false
-  },
-  {
-   "url": "https://news.ltn.com.tw/news/politics/breakingnews/5637527",
-   "title": "合體蕭美琴訪石碇、深坑 蘇巧慧:當選後商圈補助增加3倍",
-   "source": "自由時報",
-   "published_at": "2026-11-11T20:26:00+08:00",
-   "event_key": "archive:796b1d7f8c43420e",
-   "primary": false
-  },
-  {
-   "url": "https://sunmedia.tw/news/collaborative/1i4pc1MpcXmZHD8KvBPi05uC9hZiCbYotnU4fsG6wR03x47yoHh0yXIe",
-   "title": "2026全國卓越商圈獎揭曉 20處特色商圈脫穎而出",
-   "source": "商傳媒",
-   "published_at": "2026-11-11T20:10:00+08:00",
-   "event_key": "archive:e60cae96646b968c",
-   "primary": false,
-   "summary": "經濟部商業發展署10日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎。今年自地方政府推薦的36個商圈中,評選出20處卓越商圈,透過表揚樹立標竿典範,鼓勵各地商圈交流學習,充分展現臺灣街區的多元特色與生命力。 經濟部龔明鑫部長出席 2026全國卓越商圈獎 頒獎典禮,肯定全臺商圈持續深耕地方",
-   "date_only": true
-  },
-  {
-   "url": "https://n.yam.com/Article/20261111637518",
-   "title": "深化數位應用與品牌行銷 經濟部長龔明鑫親頒2026全國卓越商圈獎樹立產業新標竿",
-   "source": "蕃新聞",
-   "published_at": "2026-11-11T20:05:00+08:00",
-   "event_key": "archive:d8cb0252137046ae",
-   "primary": true
-  },
-  {
-   "url": "https://focus.586.com.tw/2026/11/11/p411239/",
-   "title": "展現臺灣在地生命力!2026全國卓越商圈獎揭曉 20處標竿典範勝出",
-   "source": "焦點時報",
-   "published_at": "2026-11-11T19:38:00+08:00",
-   "event_key": "archive:dcf68efbfeed2f12",
-   "primary": true
-  },
-  {
-   "url": "https://ocacnews.net/article/433828",
-   "title": "「高雄聖誕生活節」13日登場 市集、音樂點亮商圈|藝文臺灣",
-   "source": "僑新聞",
-   "published_at": "2026-11-11T18:00:00+08:00",
-   "event_key": "archive:46586533867c2da8",
-   "primary": true
-  },
-  {
-   "url": "https://udn.com/news/story/124652/9872283",
-   "title": "影/鄭朝方遭爆上班搭公務車赴西門町飯店商圈 跨黨派轟濫用公帑",
-   "source": "聯合新聞網",
-   "published_at": "2026-11-11T17:07:00+08:00",
-   "event_key": "archive:c7b7c0caae17bf1b",
-   "primary": true,
-   "summary": "「還我乾淨竹縣聯盟」今舉行記者會,質疑民進黨新竹縣長候選人、竹北市長鄭朝方2023年上班時間搭公務車前往台北西門町飯店商圈,涉嫌公私不分、濫用行政資源,要求公開當天行程、行車紀錄及隨行人員派勤依據,釐清是否符合公務用途。鄭團隊、竹北市公所表示「無回應。」 ...",
-   "date_only": true
-  },
-  {
-   "url": "https://video.udn.com/news/1331984",
-   "title": "影/鄭朝方遭爆上班搭公務車赴西門町飯店商圈跨黨派轟濫用公帑| 時事",
-   "source": "聯合影音",
-   "published_at": "2026-11-11T17:07:00+08:00",
-   "event_key": "archive:c7b7c0caae17bf1b",
-   "primary": false,
-   "summary": "「還我乾淨竹縣聯盟」今舉行記者會,質疑民進黨新竹縣長候選人、竹北市長鄭朝方2023年上班時間搭公務車前往台北西門町飯店商圈,涉嫌公私不分、濫用行政資源,要求公開當天行程、行車紀錄及隨行人員派勤依據,釐清是否符合公務用途。鄭團隊、竹北市公所表示「無回應。」 ...",
-   "date_only": true
-  },
-  {
-   "url": "https://n.yam.com/Article/20261111820984",
-   "title": "蔣萬安市長推動南區活力計畫 整合商圈與文化資源",
-   "source": "蕃新聞",
-   "published_at": "2026-11-11T14:17:00+08:00",
-   "event_key": "archive:a5de008a930e251",
-   "primary": true
-  },
-  {
-   "url": "https://www.taiwanhot.net/news/1153738/%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E9%96%83%E8%80%80%E5%85%A8%E5%9C%8B+%E6%A6%AE%E5%A5%AA%E7%B6%93%E6%BF%9F%E9%83%A8%E3%80%8C2026%E5%85%A8%E5%9C%8B%E5%8D%93%E8%B6%8A%E5%95%86%E5%9C%88%E7%8D%8E%E3%80%8D%E4%B8%89%E7%8D%8E%E9%A0%85",
-   "title": "桃園商圈閃耀全國 榮奪經濟部「2026全國卓越商圈獎」三獎項",
-   "source": "台灣好新聞",
-   "published_at": "2026-11-11T13:25:00+08:00",
-   "event_key": "archive:dd8d3c7aba1214dc",
-   "primary": true,
-   "summary": "由經濟部商業發展署主辦的「2026全國卓越商圈獎」昨(10)日舉行頒獎典禮,桃園市三大商圈表現亮眼,包括桃園市魅力金三角商圈榮奪「亮點觀光獎」、桃園市桃園車站商圈與桃園市站前商圈則雙雙獲頒「優選」商圈,充分展現桃園商圈在文化融合、品牌創新與多元觀光領域的卓越成果。 每年舉辦的「全國卓越商圈獎」由中央與地方政府合作評選全",
-   "date_only": true
-  },
-  {
-   "url": "https://life.tw/article/%E5%88%A5%E5%8F%AA%E9%80%9B%E8%80%81%E8%A1%97-%E6%B7%A1%E6%B0%B4%E7%AC%AC%E4%B8%80%E6%BC%81%E6%B8%AF%E9%9A%B1%E8%97%8F%E7%89%88%E7%8E%A9%E6%B3%95-%E8%B5%B0%E8%AE%80%E6%AD%B7%E5%8F%B2-%E8%B3%9E%E6%BC%81%E6%B8%AF%E5%A0%A4%E5%BD%B1-3213600",
-   "title": "別只逛老街!淡水第一漁港隱藏版玩法 走讀歷史、賞漁港堤影",
-   "source": "LIFE 生活網",
-   "published_at": "2026-11-11T12:38:00+08:00",
-   "event_key": "archive:f0ca42b6be98806a",
-   "primary": true,
-   "summary": "新北市淡水除了熱鬧的老街與迷人的河岸風光,也蘊藏著豐富的漁業文化。位於淡水老街尾端的淡水第一漁港,保留昔日漁業發展的歷史印記,隨著港區環境持續改善,逐步展現結合漁業文化、休閒遊憩與河岸景觀的多元魅力。 淡水第一漁港港畔享受畫畫樂趣 新北市漁業處邀請民眾走訪淡水第一漁港,從漁船停泊的港灣景致、昔日漁業設施到珍貴的歷史影像",
-   "date_only": true
-  },
-  {
-   "url": "https://more-news.tw/766052/",
-   "title": "展現臺灣在地生命力!2026全國卓越商圈獎揭曉 20處標竿典範勝出",
-   "source": "more-news",
-   "published_at": "2026-11-11T11:59:00+08:00",
-   "event_key": "archive:dcf68efbfeed2f12",
-   "primary": false
-  },
-  {
-   "url": "https://www.scooptw.com/tyenews/552782/%e6%a1%83%e5%9c%923%e5%a4%a7%e5%95%86%e5%9c%88%e7%8d%b2%e4%b8%ad%e5%a4%ae%e8%82%af%e5%ae%9a-%e7%b6%93%e7%99%bc%e5%b1%80%ef%bc%9a%e6%8c%81%e7%ba%8c%e6%8a%95%e5%85%a5%e6%8c%af%e8%88%88%e8%88%87%e8%bd%89/",
-   "title": "桃園3大商圈獲中央肯定 經發局:持續投入振興與轉型資源",
-   "source": "SCOOP",
-   "published_at": "2026-11-11T10:40:00+08:00",
-   "event_key": "art:2733359c1dc25fa05107e2deade04e31d5687baac2aa2b0160011ddfab74017a",
-   "primary": true,
-   "summary": "桃園市魅力金三角商圈榮奪「亮點觀光獎」。圖:經發局提供 由經濟部商業發展署主辦的「2026全國卓越商圈獎」昨(10)日舉行頒獎典禮,桃園市三大商圈表現亮眼,包括桃園市魅力金三角商圈榮奪「亮點觀光獎」、桃園市桃園車站商圈與桃園市站前商圈則雙雙獲頒「優選」商圈,充分展現桃園商圈在文化融合、品牌創新與多元觀光領域的卓越成果。",
-   "cities": [
-    "桃園市"
-   ],
-   "date_only": true
-  },
-  {
-   "url": "https://tyenews.com/2026/11/1428580/",
-   "title": "桃園3大商圈獲中央肯定 經發局:持續投入振興與轉型資源",
-   "source": "桃園電子報",
-   "published_at": "2026-11-11T10:40:00+08:00",
-   "event_key": "art:2733359c1dc25fa05107e2deade04e31d5687baac2aa2b0160011ddfab74017a",
-   "primary": false,
-   "summary": "桃園市魅力金三角商圈榮奪「亮點觀光獎」。圖:經發局提供 由經濟部商業發展署主辦的「2026全國卓越商圈獎」昨(10)日舉行頒獎典禮,桃園市三大商圈表現亮眼,包括桃園市魅力金三角商圈榮奪「亮點觀光獎」、桃園市桃園車站商圈與桃園市站前商圈則雙雙獲頒「優選」商圈,充分展現桃園商圈在文化融合、品牌創新與多元觀光領域的卓越成果。",
-   "cities": [
-    "桃園市"
-   ],
-   "date_only": true
-  },
-  {
-   "url": "https://sunmedia.tw/news/collaborative/bmSlYsvnt9ZoK2uvI0VjRm19SNNTsIK86gdKNKfTQlvbN2GykL2L67tw6yey2nuwQ5Wjxs8eEe9BG5qrB",
-   "title": "桃園3大商圈獲中央肯定 經發局:持續投入振興與轉型資源",
-   "source": "商傳媒",
-   "published_at": "2026-11-11T10:40:00+08:00",
-   "event_key": "art:2733359c1dc25fa05107e2deade04e31d5687baac2aa2b0160011ddfab74017a",
-   "primary": false,
-   "summary": "桃園市魅力金三角商圈榮奪「亮點觀光獎」。圖:經發局提供 由經濟部商業發展署主辦的「2026全國卓越商圈獎」昨(10)日舉行頒獎典禮,桃園市三大商圈表現亮眼,包括桃園市魅力金三角商圈榮奪「亮點觀光獎」、桃園市桃園車站商圈與桃園市站前商圈則雙雙獲頒「優選」商圈,充分展現桃園商圈在文化融合、品牌創新與多元觀光領域的卓越成果。",
-   "cities": [
-    "桃園市"
-   ],
-   "date_only": true
-  },
-  {
-   "url": "https://life.tw/article/%E6%A1%83%E5%9C%923%E5%A4%A7%E5%95%86%E5%9C%88%E7%8D%B2%E4%B8%AD%E5%A4%AE%E8%82%AF%E5%AE%9A-%E7%B6%93%E7%99%BC%E5%B1%80-%E6%8C%81%E7%BA%8C%E6%8A%95%E5%85%A5%E6%8C%AF%E8%88%88%E8%88%87%E8%BD%89%E5%9E%8B%E8%B3%87%E6%BA%90-3213385",
-   "title": "桃園3大商圈獲中央肯定 經發局:持續投入振興與轉型資源",
-   "source": "LIFE 生活網",
-   "published_at": "2026-11-11T10:40:00+08:00",
-   "event_key": "art:2733359c1dc25fa05107e2deade04e31d5687baac2aa2b0160011ddfab74017a",
-   "primary": false,
-   "summary": "桃園市魅力金三角商圈榮奪「亮點觀光獎」。圖:經發局提供 由經濟部商業發展署主辦的「2026全國卓越商圈獎」昨(10)日舉行頒獎典禮,桃園市三大商圈表現亮眼,包括桃園市魅力金三角商圈榮奪「亮點觀光獎」、桃園市桃園車站商圈與桃園市站前商圈則雙雙獲頒「優選」商圈,充分展現桃園商圈在文化融合、品牌創新與多元觀光領域的卓越成果。",
-   "cities": [
-    "桃園市"
-   ],
-   "date_only": true
-  },
-  {
-   "url": "https://n.yam.com/Article/20261110927080",
-   "title": "2026高雄聖誕生活節11/13浪漫登場五週末「耶誕小鎮」接力開逛9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
-   "source": "蕃新聞",
-   "published_at": "2026-11-11T10:34:00+08:00",
-   "event_key": "archive:cde61209219d8897",
-   "primary": true,
-   "summary": "高雄歲末最令人期待的聖誕盛會即將登場!「2026高雄聖誕生活節」將於11月13日(五)在中央公園浪漫揭幕,今年活動規模再升級,除推出連續五個週末的「耶誕小鎮」主題市集,更將於12月19日至27日舉辦為期9天的「聖誕黃金周」,集結特色美食、節慶市集、精彩音樂演出及璀璨燈飾,打造高雄最具魅力的歲末節慶盛會。高雄市長陳其邁表",
-   "date_only": true
-  },
-  {
-   "url": "https://more-news.tw/765866/",
-   "title": "桃園商圈閃耀全國!榮奪經濟部「2026全國卓越商圈獎」三獎項",
-   "source": "more-news",
-   "published_at": "2026-11-11T09:58:00+08:00",
-   "event_key": "archive:dd8d3c7aba1214dc",
-   "primary": false,
-   "summary": "由經濟部商業發展署主辦的「2026全國卓越商圈獎」昨(10)日舉行頒獎典禮,桃園市三大商圈表現亮眼,包括桃園市魅力金三角商圈榮奪「亮點觀光獎」、桃園市桃園車站商圈與桃園市站前商圈則雙雙獲頒「優選」商圈,充分展現桃園商圈在文化融合、品牌創新與多元觀光領域的卓越成果。 每年舉辦的「全國卓越商圈獎」由中央與地方政府合作評選全",
-   "date_only": true
-  },
-  {
-   "url": "https://forum.ettoday.net/news/3269471",
-   "title": "請教下一任新北市長 如何讓中小微服務業與商圈擴大在地經濟效益?",
-   "source": "ETtoday新聞雲 - 雲論",
-   "published_at": "2026-11-11T06:00:00+08:00",
-   "event_key": "art:88fcc140df1467e900f072996772b9fc635d7c6d843b537320b76874eabd1a61",
-   "primary": true,
-   "summary": "新北市不僅人口居全臺之冠,根據經濟部《2025中小企業白皮書》,2024年新北市中小企業超過27萬家,家數亦居全國之首;按行業別觀察,服務業約占四分之三,批發零售業就超過12萬家。這些深入城市日常的企業,正是地方就業與經濟活力的重要基礎。",
-   "cities": [
-    "新北市"
-   ],
-   "date_only": true
-  },
-  {
-   "url": "https://more-news.tw/765408/",
-   "title": "桃園3大商圈獲中央肯定 經發局:持續投入振興與轉型資源",
-   "source": "more-news",
-   "published_at": "2026-11-11T00:00:00+08:00",
-   "event_key": "art:2733359c1dc25fa05107e2deade04e31d5687baac2aa2b0160011ddfab74017a",
-   "primary": false,
-   "summary": "桃園市魅力金三角商圈榮奪「亮點觀光獎」。圖:經發局提供 由經濟部商業發展署主辦的「2026全國卓越商圈獎」昨(10)日舉行頒獎典禮,桃園市三大商圈表現亮眼,包括桃園市魅力金三角商圈榮奪「亮點觀光獎」、桃園市桃園車站商圈與桃園市站前商圈則雙雙獲頒「優選」商圈,充分展現桃園商圈在文化融合、品牌創新與多元觀光領域的卓越成果。",
-   "cities": [
-    "桃園市"
-   ],
-   "date_only": true
-  },
-  {
-   "url": "https://www.tcpttw.com/other/other_consumer/2026/11/11/329376/",
-   "title": "2026高雄聖誕生活節11/13浪漫登場 五週末「耶誕小鎮」接力開逛 9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮",
-   "source": "tcpttw",
-   "published_at": "2026-11-11T00:00:00+08:00",
-   "event_key": "archive:cde61209219d8897",
-   "primary": false,
-   "summary": "高雄歲末最令人期待的聖誕盛會即將登場!「2026高雄聖誕生活節」將於11月13日(五)在中央公園浪漫揭幕,今年活動規模再升級,除推出連續五個週末的「耶誕小鎮」主題市集,更將於12月19日至27日舉辦為期9天的「聖誕黃金周」,集結特色美食、節慶市集、精彩音樂演出及璀璨燈飾,打造高雄最具魅力的歲末節慶盛會。高雄市長陳其邁表",
-   "date_only": true
-  },
-  {
-   "url": "https://n.yam.com/Article/20261111501936",
-   "title": "2026全國卓越商圈獎頒獎!20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
-   "source": "蕃新聞",
-   "published_at": "2026-11-11T00:00:00+08:00",
-   "event_key": "art:a8c268f38bced46bf45b361cee1ec6137a99d98d8fad344a8fdf3164d58cb130",
-   "primary": true,
-   "summary": "▲2026全國卓越商圈獎頒獎典禮受邀貴賓、縣市政府代表及獲獎商圈代表共同合影。(圖/中衛發展中心提供) 經濟部商業發展署11/10日於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」,由經濟部龔明鑫部長親自頒獎,肯定商圈組織及在地業者長期投入的努力與成果,今年計選出20處卓越商圈,透過獎項表揚樹立標竿典範,鼓勵各地商圈",
-   "date_only": true
-  },
-  {
-   "url": "https://money.udn.com/money/story/11799/9870234",
-   "title": "全國20處卓越商圈出爐 從田尾花園、鹽水老街到平溪天燈展現地方魅力",
-   "source": "經濟日報",
-   "published_at": "2026-11-11T00:00:00+08:00",
-   "event_key": "art:7a0c09d6bbdc8f5e5c2f77e34add260f384596322eaa1064a61cad55bb15f346",
-   "primary": true,
-   "summary": "「2026全國卓越商圈獎」昨(10)日舉辦頒獎典禮,今年共有20處商圈獲得肯定,由經濟部長龔明鑫到場授獎給予肯定。從彰化田尾的花卉園藝、臺南鹽水的百年文化,到平溪天燈與小琉球海洋觀光,各地商圈以不同的產業特色、文化底蘊及服務體驗,展現臺灣地方商業的多元風貌。 商業署表示,每一處商圈都有自己的故事,可能來自世代傳承的歷史",
    "date_only": true
   }
  ]
