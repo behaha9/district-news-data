@@ -1,18 +1,21 @@
 {
- "fetched_at": "2026-11-17T12:00:36+08:00",
+ "fetched_at": "2026-11-17T16:10:41+08:00",
  "stats": {
-  "queries": 4,
+  "queries": 3,
   "query_errors": [
-   "老街: 429"
+   "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延: 429",
+   "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業: 429"
   ],
-  "raw": 78,
-  "kept": 29,
-  "resolved": 28,
-  "items": 28,
+  "raw": 72,
+  "kept": 35,
+  "resolved": 31,
+  "items": 34,
   "resolve_this_run": {
-   "online": 5,
-   "error": 1,
+   "online": 3,
+   "error": 3,
    "examples": [
+    "error:429",
+    "error:429",
     "error:429"
    ]
   },
@@ -21,6 +24,56 @@
   ]
  },
  "items": [
+  {
+   "title": "深圳南山消費券第3期｜WeChat Pay搶滿$1000減$600彩蛋券/增3大商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNR3YxLUxZQjI0NW5hRWtIVWo2QldkT3RocXM5NDJlTHZmUFlQNHRIOTMzWmRTOWlncWd2cGFsTXFDZWRyRHg2dXJFOGpxNU81ZVpxd3FjQmNySkthMEo1bGN6NGtyV18ydFRYMThKbElRbnNNYmo4ay1TWHJyTHNPY3JuYmhEX3hXNGJkc1J2SkRQb0I5eVBIZWNwQzAxX3RnT1VGa1NlVjd5cWlkdUZyaG1USFFYMW9ldWJEOUtPRlNxWG9ycUxBd0pEUm1MQUk2blgzWXhDWXljQzJOeXpyZDB3TS1EUlJOcE9wa1dqMG11WFNEMHZnUnJvemM4Z0tpQ01fSlpVek1uWjh0bk1WSlF6LWpHdVdQTHdIZFpkUnRpUUM0bUt3ekF3eVdWVE9fdjZ1U0hsREZJWkw2ODhSZFVKOVg0aElNRGFqcEdwcmtfYTdPYXNoeDNRTGhVZw?oc=5",
+   "source": "UHK 港生活",
+   "source_site": "https://hk.ulifestyle.com.hk",
+   "published_at": "2026-11-17T15:49+08:00",
+   "query": "商圈",
+   "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNR3YxLUxZQjI0NW5hRWtIVWo2QldkT3RocXM5NDJlTHZmUFlQNHRIOTMzWmRTOWlncWd2cGFsTXFDZWRyRHg2dXJFOGpxNU81ZVpxd3FjQmNySkthMEo1bGN6NGtyV18ydFRYMThKbElRbnNNYmo4ay1TWHJyTHNPY3JuYmhEX3hXNGJkc1J2SkRQb0I5eVBIZWNwQzAxX3RnT1VGa1NlVjd5cWlkdUZyaG1USFFYMW9ldWJEOUtPRlNxWG9ycUxBd0pEUm1MQUk2blgzWXhDWXljQzJOeXpyZDB3TS1EUlJOcE9wa1dqMG11WFNEMHZnUnJvemM4Z0tpQ01fSlpVek1uWjh0bk1WSlF6LWpHdVdQTHdIZFpkUnRpUUM0bUt3ekF3eVdWVE9fdjZ1U0hsREZJWkw2ODhSZFVKOVg0aElNRGFqcEdwcmtfYTdPYXNoeDNRTGhVZw?oc=5",
+   "resolved": false
+  },
+  {
+   "title": "游淑貞提花蓮舊城商圈振興策略 文化深耕、觀光導流雙軌並進",
+   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1VWdfdm1RM2FYX3k0a24zR3hOXzVySS12QTFwZGlBSGI0UklOYlpaQzhUbGIxMU0yU0MzRnRjUk9xUzNLY3NTR0tOTVJLdw?oc=5",
+   "source": "TVBS新聞網",
+   "source_site": "https://news.tvbs.com.tw",
+   "published_at": "2026-11-17T15:42+08:00",
+   "query": "老街",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1VWdfdm1RM2FYX3k0a24zR3hOXzVySS12QTFwZGlBSGI0UklOYlpaQzhUbGIxMU0yU0MzRnRjUk9xUzNLY3NTR0tOTVJLdw?oc=5",
+   "resolved": false
+  },
+  {
+   "title": "新山，不只是新加坡旁邊 走一趟老街發現歷史與福音更發現神的恩典",
+   "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMVWNlX2g3LUUxRVFpWEc4TnBwUUxhc0RSZ2kxS0lYbzJCN2NxVzE4dVRvZEtUc2JNbXVzakFFLXVBRjBBMTBNYW5oNGJZelJRQnBLSEVMV2ptZUMyaE1VNTBwZmttTUdtbXc?oc=5",
+   "source": "基督教論壇報",
+   "source_site": "https://ct.org.tw",
+   "published_at": "2026-11-17T15:22+08:00",
+   "query": "老街",
+   "url": "https://ct.org.tw/html/news/3-3.php?cat=26&article=1404807",
+   "resolved": true
+  },
+  {
+   "title": "老街溪整治再爭取13億元 邱奕勝：中壢老城區轉型須超前規劃",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sTVNRR3F0Q2NKQk1TZG9jRWxxcWhGV3pIVlIzUmVoN2ZWV2xaQkV6OWhYV2w4eHgxMXlaMVotaWxaTGY3eERFMHdpYUJnZmlDMkE?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-17T14:34+08:00",
+   "query": "老街",
+   "url": "https://n.yam.com/Article/20261117446886",
+   "resolved": true
+  },
+  {
+   "title": "WeChat Pay大派南山消費券！新增3大商圈食買玩1文睇必搶千萬級彩蛋券／餐廳+酒店+交通+退稅折扣",
+   "google_url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxObjdZejJGUWlhRU9xNnZ5MHpQRzRxVWEzZGVQc09leC12S0ZZeWdTNTc2ZWFkbThWWnZEWXpoU25IcTA5ZXdyaVoxaGRVaDRVb05tUjdxSUNVcEpSbUMtbHA4OGlqTWdidjhXYWpkZEdnT09vTnVxWE5sRjNUNlVocDd0NlNPcDdwQ09xQTIwTTdmc0NReGVzclFpUTF1ekwtVXk0NDVQZUU2ZWVka19BcXg3WlBZSEJsQmluVTh3NnRhN1BnWmhmcmZ5cXJEbmlfS0RlazJlV0RiUTJWTk9GRnhKVmFYRDBwQWZ3R292RVJsUVl3LTZwS2ltUmhORGI2Tkl5T2VNakVISUFpVEhyTXhPckpLZ3ItZDBmSTZpYnIweDdpVVZWaDU5S2pULVZDTEQxdDkzTTZpOXRxQ1ZlZzNQZ2tjY0VIY1BNSnZXeGRhZFk2cVNuM1dXTlVsN0VpSFVWbGtuXzR3eVI3RkVUcUZPelJWNkNmcHBaSGNXZ2tHMUZZT2pwNnlzbVRtY3pNMTFpRHNaSlhFSkxVT0dUdjVsOGhNQzBuUUZydTJGVXdKTS02MURsVGI1a2tQamo3dUtsUUU5N21uclR3cFRMaHlvMVQtMjJHRWEyajZfTFJhRTBxaEZZUzd1RkZrMHpVU2p1Rw?oc=5",
+   "source": "U Food",
+   "source_site": "https://ufood.com.hk",
+   "published_at": "2026-11-17T13:46+08:00",
+   "query": "商圈",
+   "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxObjdZejJGUWlhRU9xNnZ5MHpQRzRxVWEzZGVQc09leC12S0ZZeWdTNTc2ZWFkbThWWnZEWXpoU25IcTA5ZXdyaVoxaGRVaDRVb05tUjdxSUNVcEpSbUMtbHA4OGlqTWdidjhXYWpkZEdnT09vTnVxWE5sRjNUNlVocDd0NlNPcDdwQ09xQTIwTTdmc0NReGVzclFpUTF1ekwtVXk0NDVQZUU2ZWVka19BcXg3WlBZSEJsQmluVTh3NnRhN1BnWmhmcmZ5cXJEbmlfS0RlazJlV0RiUTJWTk9GRnhKVmFYRDBwQWZ3R292RVJsUVl3LTZwS2ltUmhORGI2Tkl5T2VNakVISUFpVEhyTXhPckpLZ3ItZDBmSTZpYnIweDdpVVZWaDU5S2pULVZDTEQxdDkzTTZpOXRxQ1ZlZzNQZ2tjY0VIY1BNSnZXeGRhZFk2cVNuM1dXTlVsN0VpSFVWbGtuXzR3eVI3RkVUcUZPelJWNkNmcHBaSGNXZ2tHMUZZT2pwNnlzbVRtY3pNMTFpRHNaSlhFSkxVT0dUdjVsOGhNQzBuUUZydTJGVXdKTS02MURsVGI1a2tQamo3dUtsUUU5N21uclR3cFRMaHlvMVQtMjJHRWEyajZfTFJhRTBxaEZZUzd1RkZrMHpVU2p1Rw?oc=5",
+   "resolved": false
+  },
   {
    "title": "西武園遊樂園昭和商店街耶誕活動11/26起 燈飾舞蹈秀、聖誕老人與焚火喫茶",
    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiNUVmREVESkhiSEFTMG9zTXRNVGwtMVM3X3ZUeUs4SU5QdXlsTGtreVZXdEVTcHBXMmx5TkUtQW96V1BuRUdocndYdkpDbktHWFE?oc=5",
@@ -52,6 +105,16 @@
    "resolved": false
   },
   {
+   "title": "討論牆 | 活絡田中老街成為田中新亮點 田中鎮第一公有零售市場重建動土",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fRHg1WWZhNGkwczdVaVZuY0oxMDhMSnYyU091c09sN05UQmZOWHQ2SVYxajFIaFF4UEhmVXNKV2xyUkdQY0JQeURfMElsOElzVkoyTllMVXc2dDZwYWhHaHFleU8?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-16T23:05+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/gzpek78",
+   "resolved": true
+  },
+  {
    "title": "美術園道商圈「美學森活節」 串聯產業觀光 創造近500萬元經濟效益",
    "google_url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdFdhTjFEU1ZmMmVTOUpCT2s4d3ctdnNjUzZjVUZFZU5mVDV6T1lfbFhidk1iekdKUXB3ZUo5SmZWVlJXdGtlX2ladHp1WG9OSWNiX2JvYnBleUd6TmliRzBkamt3MVkwRWJwcGdVekdMU0JuTDBlTzF2YjVDSm0wOHM1V1RwX0RoUTIxNnA4RFBjWUh2YjdUdWxLQkh6cUFoNGFRZGdnZG1xRXBmNldwTlF0a2JjQmVTU2kyNGJ3ZzN6UDNwX2M2MzdVRUxWRUZPSUVjRlRlTnJ6RU5mSzRfUkhPWDJvRVlfSWx4cXhkNGwwRE8wcGRHbjZZeXZEXzRzRjBtYkp2YTRheTJtcFplb2ExcHBBTXFYenJwb0FERDVxZ1NfRVpDU0lwSTlueHUzMUZ3SGZYY0dKWU1USlRlTEtSMExabHoyX2pJRk16a0QyQnhEcWdZMkE0djhuZw?oc=5",
    "source": "報新聞 Mega News",
@@ -59,6 +122,16 @@
    "published_at": "2026-11-16T21:01+08:00",
    "query": "商圈",
    "url": "https://www.contentplatform.info/articles/578706/%E7%BE%8E%E8%A1%93%E5%9C%92%E9%81%93%E5%95%86%E5%9C%88%E3%80%8C%E7%BE%8E%E5%AD%B8%E6%A3%AE%E6%B4%BB%E7%AF%80%E3%80%8D-%E4%B8%B2%E8%81%AF%E7%94%A2%E6%A5%AD%E8%A7%80%E5%85%89-%E5%89%B5%E9%80%A0/",
+   "resolved": true
+  },
+  {
+   "title": "活絡田中老街成為田中新亮點 田中鎮第一公有零售市場重建動土",
+   "google_url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOd3lycy1PaFUyai1ieGRLbkV1M1ZPR2lBdEx4dF9zaDNuSndwaWJVcUs4UVo4TEd0ZFNVN3RlQnZHa2NiZjNibVFGZ3dWNmdnbkVNZ0pNMjQxVWN3VjZHbVV3S2JPOThKdkRnMHhESUtUa2N6c1pTVWlkV011cTY0V3FQRFN6T0M2c1hjMnZ4MGpEOF9BSlFJZDZIaENHOE9WbEJ5eU1ZV3Nmd01vdk8yYjQwdi1JdzRlNE5wUWhzdE12ZWtpVC16Xy1GQlJRakpJLWtaMC1IZlFhQ2gwMlA5dHUxWFlQUTV2LXk1R21yZ1hvMXRoRUVHRU94WWpfMWVTcWl3QVoyU2cyOXBZYXdVRUhLcnB3Z3J2OWd3U05nZ3FCOG9oZUhnLXRlblVscFF1OHQzYVl0WURVNjZEZlRyUTgwNEx2a3I2TU1DekNHU1BPMXNfY1dNaHpCVl9idUtUQzNTRnJYb1d0cU4tZmIwdTJpR21nb21kWTAyMjFZX2U5Q1I2cGNoTm10R1VsRnk5YlQ5aDJfeFdHR1ZwWVEyV0pn?oc=5",
+   "source": "台灣好新聞",
+   "source_site": "https://www.taiwanhot.net",
+   "published_at": "2026-11-16T21:01+08:00",
+   "query": "老街",
+   "url": "https://www.taiwanhot.net/news/1154303/%E6%B4%BB%E7%B5%A1%E7%94%B0%E4%B8%AD%E8%80%81%E8%A1%97%E6%88%90%E7%82%BA%E7%94%B0%E4%B8%AD%E6%96%B0%E4%BA%AE%E9%BB%9E+%E7%94%B0%E4%B8%AD%E9%8E%AE%E7%AC%AC%E4%B8%80%E5%85%AC%E6%9C%89%E9%9B%B6%E5%94%AE%E5%B8%82%E5%A0%B4%E9%87%8D%E5%BB%BA%E5%8B%95%E5%9C%9F",
    "resolved": true
   },
   {
@@ -82,13 +155,13 @@
    "resolved": true
   },
   {
-   "title": "候鳥過境迎賞鳥季 新北推「羽豐米」串聯在地商圈護生態",
-   "google_url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPS0hnLTg0OFpuUUNiSGFhNmxVc1JlLXlpRllJVFhmTGpDWGdDQU9DNjdqRUxDTTFrcFFEMmt6dnlsdWVQRm53dGZuQTZyM29XUDNnaXJPS1lqQ0RfcUVyMzUzd2ttakVELWd3cGlvbEdnN1JUVUt5UUJQQl9jb3ZUZnFfeHdFQ1lEUFhvMkpzOXRvTzl0R0Y4T2ZCQnIyb243cHItMmh5WFJudHpaSndKbjZKTGdYN3Y2Uk14VTM4MFZoR3o5VGRjTFdZSERlcXI4VzdoZU1JM1gyZ1k4dE11Y0tPWXJRV1JVd0NDUHBYZ1h4Mk14by00YUtFX0c2aThkVFhKTFBqcmhVVTMwak80bUlXYzNzQUcwckhybnFBbmVxZ21GT3dZT0xrTER0RWc5bjRQWmJHbXpmeTU3V0tmZGRKMTNrYkh0eHhIUmc0SWtZc1h4WW9IUVpzWmFOckFUSXFLbmp1cVliMmc?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-16T17:35+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E5%80%99%E9%B3%A5%E9%81%8E%E5%A2%83%E8%BF%8E%E8%B3%9E%E9%B3%A5%E5%AD%A3-%E6%96%B0%E5%8C%97%E6%8E%A8-%E7%BE%BD%E8%B1%90%E7%B1%B3-%E4%B8%B2%E8%81%AF%E5%9C%A8%E5%9C%B0%E5%95%86%E5%9C%88%E8%AD%B7%E7%94%9F%E6%85%8B-064552030.html",
+   "title": "鐵道轉鐵馬！YouBike進駐六堆園區 單車慢遊竹田、豐田老街",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85TklNLUhhX2FKb041MW9CdWpPdXhBbFo2dFJ2NWxLVUlqLUMwTVprN3F1UWFjejlMeDEwZFFxUXRXamc2M1pCY1BiT2NDXzZW?oc=5",
+   "source": "客新聞",
+   "source_site": "https://hakkanews.tw",
+   "published_at": "2026-11-16T17:32+08:00",
+   "query": "老街",
+   "url": "https://hakkanews.tw/2026/11/16/312518/",
    "resolved": true
   },
   {
@@ -132,6 +205,16 @@
    "resolved": true
   },
   {
+   "title": "新北淡水老街尾端藏寶地！ 走進第一漁港一次收下歷史、漁船與河景",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UU0VsR2ZGSXhKcktDakFuOHdFTnR5Z0tmVTk5dUVHOWdPaXVRX0pETnhybVgwRjhzTllOTkl1OGd4Z01HT2dlVFdKZF90SXNSWkE?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-16T14:30+08:00",
+   "query": "老街",
+   "url": "https://n.yam.com/Article/20261116855307",
+   "resolved": true
+  },
+  {
    "title": "「吃在北平、穿在天津、住在賴興」盧冬松深耕28年打造商圈與宜居社區- 生活",
    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsLXk1cm9zM2g5Sy0zWEZLT3k2UmtXQ1U3VHBxcUZsLXgzaHBvUjdCbHV2Wjl4R0dYYTB6Q2h3dXdtYzh0V0hnTi1CZkgtUUQ1em5ZdjRmYWhsbDBTdHQ0?oc=5",
    "source": "工商時報",
@@ -162,6 +245,16 @@
    "resolved": true
   },
   {
+   "title": "新北市建築師公會走訪鶯歌光點 雨中展開陶都老街藝文巡禮",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mQnp0Y3dOSEtkcG9HTkpBaU5DeXBPVTY4WTNTQS1WMmNNemh5WkVGU045QzhkV3ZGMHR0dnpNbkhuN1hEVHl2aUcybl82ZXd5QkE?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-16T11:01+08:00",
+   "query": "老街",
+   "url": "https://n.yam.com/Article/20261116335895",
+   "resolved": true
+  },
+  {
    "title": "深圳APEC｜APEC效應下華強北商圈外籍客日均逾萬人次",
    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HZ3VfbTFNMkQ3MUVtWTlFV1QwYWVjTHNSUjNNV3p3WXZXTzM2M0FzV1VQM1pCQm1scERScjFITDY2a01aUTgtVEJ0cUlhSFkwSnhxRUlPS01UV2Z1MnQ0RWM5ODd2U2hEbFFmYUhFdw?oc=5",
    "source": "RTHK News",
@@ -169,16 +262,6 @@
    "published_at": "2026-11-16T10:55+08:00",
    "query": "商圈",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1877954-20261116.htm",
-   "resolved": true
-  },
-  {
-   "title": "「2026高雄聖誕生活節」紫色浪漫點燈！「耶誕小鎮」連續5個週末登場紫色限定美食、手作耳飾與商圈燈海迎接海內外ARMY",
-   "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTi1xRWhRMHYtOHdoQjBqLTI0bWlDTnJHRUo3emw4bFYwTmNIUjdSZ1pBVHdBS29wR0dBSlVOSkp6UTcwZkhaeldlRjh5MlREU1J5ZE1xaThtZ2VSb3d3NHJPc2J1bXRnaF9HUHpJMkpvRlBaa0IzRms1dU4zN241LTB3TUk?oc=5",
-   "source": "高雄市政府全球資訊網",
-   "source_site": "https://www.kcg.gov.tw",
-   "published_at": "2026-11-16T09:54+08:00",
-   "query": "商圈",
-   "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4E021CD9DDDE7E24",
    "resolved": true
   },
   {
@@ -279,26 +362,6 @@
    "published_at": "2026-11-15T16:30+08:00",
    "query": "商圈",
    "url": "https://www.chinatimes.com/realtimenews/20261115002173-260407",
-   "resolved": true
-  },
-  {
-   "title": "天王大啖台灣滷肉飯！木村拓哉現蹤中山商圈 1親民舉動暖翻粉絲",
-   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTU2NhNmtZOU1sS2JsNnpmamtYWnVhS1hVdVNnUnFBVVRnVzRFZ1Q3WEw1aXNhWG9ncmpnd3pYME1Lc3VnUnBoM0REZ1RWS1h4ZGlwVXNjb2Q3Q2kw0gFiQVVfeXFMTnM5NjVLZVpoVzc2VmNDSHVwcXAyVllKUU5fa2Vrb191SHN4Mi11WUJ1eFpSdHFXOHh1Ny13ajZMTmJfU2dZNVNfQVkwcGpkTHp1clJvSFZZaGhObHlpVFREUHc?oc=5",
-   "source": "自由時報",
-   "source_site": "https://ent.ltn.com.tw",
-   "published_at": "2026-11-15T15:18+08:00",
-   "query": "商圈",
-   "url": "https://ent.ltn.com.tw/news/breakingnews/5641549",
-   "resolved": true
-  },
-  {
-   "title": "小鎮魅力成功出圈 虎尾商圈奪大獎",
-   "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85YURnM2trTjVGRnNzTF9uQVRaak9QUFpHakJpYTJzMDFibk9vNDk3Wl9rVEFFbjNELWpYN2FibFBjZDlEX25aVEJB?oc=5",
-   "source": "17news民生好報",
-   "source_site": "https://17news.net",
-   "published_at": "2026-11-15T15:05+08:00",
-   "query": "商圈",
-   "url": "https://17news.net/archives/345984",
    "resolved": true
   }
  ]

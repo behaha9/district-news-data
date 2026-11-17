@@ -1,9 +1,9 @@
-04:00:29 attempt=1 code=200 url=https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d bytes=92518
-首頁清單：101 件事件／162 篇
-7 天累積清單：162 篇（本次新增 1）
-重點商圈查詢：第 148–247 處（共 281 處），新增 1 則，失敗 4 處；目前保留 88 則
-Google 新聞：查詢 4／5，原始 78 則，標題相關 29 則，保留 29 則，已還原原文網址 28 則；本次還原 {'online': 5, 'error': 1, 'examples': ['error:429']}；錯誤 ['老街: 429']
-關注議題：食用油／店家相關 查詢失敗：429；食用油：Google 34 則，新增 1 則，保留 138 則 {'價格動態': 86, '店家相關': 52}
+08:10:36 attempt=1 code=200 url=https://business-district-monitor.behaha.chatgpt.site/api/public/v1/candidates?window=2d bytes=201717
+首頁清單：103 件事件／166 篇
+7 天累積清單：166 篇（本次新增 4）
+重點商圈查詢：第 248–347 處（共 281 處），新增 1 則，失敗 0 處；目前保留 88 則
+Google 新聞：查詢 3／5，原始 72 則，標題相關 35 則，保留 35 則，已還原原文網址 31 則；本次還原 {'online': 3, 'error': 3, 'examples': ['error:429', 'error:429', 'error:429']}；錯誤 ['商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延: 429', '商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業: 429']
+關注議題：食用油／店家相關 查詢失敗：429；食用油：Google 36 則，新增 3 則，保留 140 則 {'價格動態': 88, '店家相關': 52}
 Google 新聞移除舊聞： 台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）
-原文預抓：新抓 61／61，成功 61；快取共 658 篇；縮圖 778 張
-04:01:02 filter_candidates exit=0
+原文預抓：新抓 69／69，成功 29；快取共 660 篇；縮圖 789 張
+08:10:58 filter_candidates exit=0
