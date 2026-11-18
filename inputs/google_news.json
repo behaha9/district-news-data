@@ -1,29 +1,55 @@
 {
- "fetched_at": "2026-11-18T07:17:22+08:00",
+ "fetched_at": "2026-11-18T10:58:20+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 89,
-  "kept": 33,
-  "resolved": 33,
-  "items": 31,
+  "raw": 82,
+  "kept": 30,
+  "resolved": 30,
+  "items": 30,
   "resolve_this_run": {
-   "online": 4
-  },
-  "dropped_old": [
-   "台中精明商圈墜樓意外！39歲男高處墜地「四肢全斷」…昏迷送醫（原文日期 2026-03-31）",
-   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
-  ]
+   "online": 5
+  }
  },
  "items": [
   {
-   "title": "一鍵下單華強北商圈深圳周期醒目| 陸港經貿| 兩岸",
-   "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OZU5yd1BwSllXbzEtY2d0QkNVZHdyVWxiejZsYUlHTUFvTlprcGpWVWxPYUFQaEYxSjVzTkFpX0gwTU12M1EzMjFjakNuSmRRN3dlQ3FlVHhCZzFYUGFzWE84Z1VYVkFKQ195SUhaM0Z3dw?oc=5",
+   "title": "葉忠倫角逐竹南鎮長提6規劃 補足大埔機能、活化中港老街",
+   "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzT0g2SGpwbXFNRVRVa0ZEX0ZBZUhFR0JhdHNVNERwWHV2Qlp3aWtqc2IwZUp3QWRWSmU5ZVBFcVZ0NFFEVTM1T1pjRkRpTi1qWkl4RF9hV25sQ3VUSDdjMXluQXN4TXdLaVHSAW9BVV95cUxPOXh6V3BUSTQyX2syRFF3R1kwbzNZMzQzck1ScldVTmZ3RVNWaTNycXdFTy11M1NQN3dZMVdESTAxdnhPZkZNdW1aaTlHeTBOd0JITWpDV3dCZDA2azVvcHluRmFTejItV3otUnpxSFE?oc=5",
+   "source": "自由時報",
+   "source_site": "https://news.ltn.com.tw",
+   "published_at": "2026-11-18T10:37+08:00",
+   "query": "老街",
+   "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644546",
+   "resolved": true
+  },
+  {
+   "title": "投書／中路商圈的咖啡香與人情味 桃園「小天母」逐漸成形",
+   "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ISjlpVGNzdEQwQjU4aDdUU3BJaE9ybjV6SXA2dHI1LXZtUVFIQi03ZXVlalAtZ3FvMVdiN3ZrNGd3RmlqdWozdllvdm8?oc=5",
+   "source": "桃園電子報",
+   "source_site": "https://tyenews.com",
+   "published_at": "2026-11-18T10:13+08:00",
+   "query": "商圈",
+   "url": "https://tyenews.com/2026/11/1431187/",
+   "resolved": true
+  },
+  {
+   "title": "曼谷住宿推薦｜Grand Hyatt Erawan Bangkok 曼谷愛侶灣君悅酒店，住進四面佛與CentralWorld商圈的五星級飯店",
+   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44NlRxekFOVDVqY01CcUlHV1NXV25KejZ2WVZZUVMxbEpLMnAzbk1MRHY3UEVVMFpzVFp4VTRyTC0xdmVaN3VNOWJvNmFmZw?oc=5",
+   "source": "輕旅行",
+   "source_site": "https://travel.yam.com",
+   "published_at": "2026-11-18T09:31+08:00",
+   "query": "商圈",
+   "url": "https://travel.yam.com/article/141637",
+   "resolved": true
+  },
+  {
+   "title": "一鍵下單…華強北商圈 「深圳周期」醒目",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13S1otbW1ra21rTUZsSnpXYXozcTBkWnRTeGw4WDBNR1AzT3dEWlJDWEV6NXU0ZGtOTWo1ZFJUWWxDWGhpOGVBMDhuWnNwSndF?oc=5",
    "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-11-18T05:33+08:00",
    "query": "商圈",
-   "url": "https://udn.com/news/story/7333/9885242?from=udn-relatednews_ch2",
+   "url": "https://udn.com/news/story/7333/9885242",
    "resolved": true
   },
   {
@@ -107,16 +133,6 @@
    "resolved": true
   },
   {
-   "title": "深圳大派消費券最高慳$600！ 每日兩時段開搶 五大商圈餐飲、跨境交通及酒店低至4折",
-   "google_url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxOUVZPWEpoOEZISkhjaFpfb1NnSGJVUEkwSGZvQlZFSWh0WnBkTnZMdzhfNkNkNzEwcW8yNDltcWVwZ2kyVm9PUkVnWWp5Z2FwZVhIU3dZUHd2TFd2YUpoVHB4aUVjNmVBX1QzcS1ZYzI4b3dKRFVJQ1FaMFJod1AwM2pJU3daMk1SRDBmWU5XMnBQbXZndHR1LXRhUmRXZ2czUTdPUHpEUWJKbjVsVi1ULTkxbnZnTnVxdW84a01nZG10TEtLZkJGaEIzLTQta1ptd3hYZWVCb0otSG9LRUxxQ0xvTm1CS2lCRTlkdnBSTXVwSmViaUhZOC1Td0VVUmpOanlxT2U4TFlTUjZRR2w2X2s2QndYMFdPdjQ3QmE4U0FuXzRlLTZtV0dEdjl5YVlMdE14ZVotdWJUejdwZFJJNnlzT25nWkJBbmhfYmY3QU9TQTI3XzZWTXJzNEpuREI5emRKV2Y0WHdNOHp0TlRCYURkc19hcnJmeldOQTVfUlVMQUluc1pzaUc3a3dIUFc1R2hRM1ZONUl2Ql9hZUs2YXc1MmRndU5PUDFjcnZib0dCU1RTYVotUTctR25vMXNsRTFSUTY4Z2h1dzhmZmw4Nl9fMksxWnRodjlrZ0lrMWVVb3hyTGNBbw?oc=5",
-   "source": "U Travel",
-   "source_site": "https://utravel.com.hk",
-   "published_at": "2026-11-17T12:50+08:00",
-   "query": "商圈",
-   "url": "https://utravel.com.hk/news/detail/20119146/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E6%B4%BE%E6%B6%88%E8%B2%BB%E5%88%B8%E6%9C%80%E9%AB%98%E6%85%B3-%E6%AF%8F%E6%97%A5%E5%85%A9%E6%99%82%E6%AE%B5%E9%96%8B%E6%90%B6-%E4%BA%94%E5%A4%A7%E5%95%86%E5%9C%88%E9%A4%90%E9%A3%B2-%E8%B7%A8%E5%A2%83%E4%BA%A4%E9%80%9A%E5%8F%8A%E9%85%92%E5%BA%97%E4%BD%8E%E8%87%B3-%E6%8A%98",
-   "resolved": true
-  },
-  {
    "title": "西武園遊樂園昭和商店街耶誕活動11/26起 燈飾舞蹈秀、聖誕老人與焚火喫茶",
    "google_url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPbFBSUWxkRTVFcDBqSFVLU2JmalNuOXI3ZXZ5UzJxbUtMaU9nTW9ud1NlNTVkYUVBSks1OHJ5SEctaUp5WGlqUi1EbUoyeXpMSVdYOS1KZU15VzAtOEZRbldNcHVLcDUwdkdVZ181djVmOEthZEp1MEYyblVVb2lvdHpiUVBZMXM3RDM3SDYtbUt3NFNUQzJjcWQ0OWpfTE9jbjhxM1QyZmhrWE8wenpWTmVJVnNzZjlVSmxVSllBZ3h6YzZkbFZzeTVTcU44QjlBVFlQTTVqZXQtZzJPWkd1elFJV1g0cjZzaHpWSzNJM2ZOMVU4ZUZWVEI4X28wMlQwbHQ0UTBnRmx5dUd3VU5wZEVGOWJvc05OcHlZV3k4cTlQUklQSGNkWjUtM2lnSW5aM0RmUV95dkNwWld3Yl9Lenh5aXVYMTJDaHEwVWROdVJHUGtsbDRNajJUT0t2Q0RxeEE?oc=5",
    "source": "報新聞 Mega News",
@@ -147,6 +163,16 @@
    "resolved": true
   },
   {
+   "title": "美術園道商圈「美學森活節」 串聯產業觀光 創造近500萬元經濟效益",
+   "google_url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdFdhTjFEU1ZmMmVTOUpCT2s4d3ctdnNjUzZjVUZFZU5mVDV6T1lfbFhidk1iekdKUXB3ZUo5SmZWVlJXdGtlX2ladHp1WG9OSWNiX2JvYnBleUd6TmliRzBkamt3MVkwRWJwcGdVekdMU0JuTDBlTzF2YjVDSm0wOHM1V1RwX0RoUTIxNnA4RFBjWUh2YjdUdWxLQkh6cUFoNGFRZGdnZG1xRXBmNldwTlF0a2JjQmVTU2kyNGJ3ZzN6UDNwX2M2MzdVRUxWRUZPSUVjRlRlTnJ6RU5mSzRfUkhPWDJvRVlfSWx4cXhkNGwwRE8wcGRHbjZZeXZEXzRzRjBtYkp2YTRheTJtcFplb2ExcHBBTXFYenJwb0FERDVxZ1NfRVpDU0lwSTlueHUzMUZ3SGZYY0dKWU1USlRlTEtSMExabHoyX2pJRk16a0QyQnhEcWdZMkE0djhuZw?oc=5",
+   "source": "報新聞 Mega News",
+   "source_site": "https://www.contentplatform.info",
+   "published_at": "2026-11-16T21:01+08:00",
+   "query": "商圈",
+   "url": "https://www.contentplatform.info/articles/578706/%E7%BE%8E%E8%A1%93%E5%9C%92%E9%81%93%E5%95%86%E5%9C%88%E3%80%8C%E7%BE%8E%E5%AD%B8%E6%A3%AE%E6%B4%BB%E7%AF%80%E3%80%8D-%E4%B8%B2%E8%81%AF%E7%94%A2%E6%A5%AD%E8%A7%80%E5%85%89-%E5%89%B5%E9%80%A0/",
+   "resolved": true
+  },
+  {
    "title": "活絡田中老街成為田中新亮點 田中鎮第一公有零售市場重建動土",
    "google_url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOd3lycy1PaFUyai1ieGRLbkV1M1ZPR2lBdEx4dF9zaDNuSndwaWJVcUs4UVo4TEd0ZFNVN3RlQnZHa2NiZjNibVFGZ3dWNmdnbkVNZ0pNMjQxVWN3VjZHbVV3S2JPOThKdkRnMHhESUtUa2N6c1pTVWlkV011cTY0V3FQRFN6T0M2c1hjMnZ4MGpEOF9BSlFJZDZIaENHOE9WbEJ5eU1ZV3Nmd01vdk8yYjQwdi1JdzRlNE5wUWhzdE12ZWtpVC16Xy1GQlJRakpJLWtaMC1IZlFhQ2gwMlA5dHUxWFlQUTV2LXk1R21yZ1hvMXRoRUVHRU94WWpfMWVTcWl3QVoyU2cyOXBZYXdVRUhLcnB3Z3J2OWd3U05nZ3FCOG9oZUhnLXRlblVscFF1OHQzYVl0WURVNjZEZlRyUTgwNEx2a3I2TU1DekNHU1BPMXNfY1dNaHpCVl9idUtUQzNTRnJYb1d0cU4tZmIwdTJpR21nb21kWTAyMjFZX2U5Q1I2cGNoTm10R1VsRnk5YlQ5aDJfeFdHR1ZwWVEyV0pn?oc=5",
    "source": "台灣好新聞",
@@ -164,16 +190,6 @@
    "published_at": "2026-11-16T20:54+08:00",
    "query": "商圈",
    "url": "https://www.storm.mg/article/11182056",
-   "resolved": true
-  },
-  {
-   "title": "美術園道商圈「美學森活節」 串聯產業觀光 創造近500萬元經濟效益",
-   "google_url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNM1RTWnlsLW1iaDNLdnd3blQ5NUFISkt2V1g5R2VVUHhiZENENUxVSHo0Y2JRS19qSGRRZHlOWlo4X3JXRGdKdlF3Ym9YX3RvM1NOUUtsclBVLXFGTjBYR0VfTGNvclNrWWwtWEh1QnZTc3k4RWJ3LTREa2VxY1haTkNmZ1JjZmlIdWJLdDVpR3I4RFgzWGZqTG5YQmJMVWkwV3k0dFNTa0lqUlhzd0J1QUtnQVZVQ1d3SW5La0Rod2t5REtiOWw3NHhJTWMyRmNlbzdOQUM4U3A5c2lUTktPUUtka1FBdDlESjg0dkdKN0xJVWFKUjFKeG1XRElqNUk4NjVlb3U4d21JeEszRmhMSWg4OTZaYnI2NndheTVvR2lDVWo5WlBrby1VX3hXUHZmZ2pzdmFlTC1tV1BYZl8wanc4dzI3U25hNWEtNzdPZ1lsUVJU?oc=5",
-   "source": "獨家報導",
-   "source_site": "https://www.scooptw.com",
-   "published_at": "2026-11-16T20:53+08:00",
-   "query": "商圈",
-   "url": "https://www.scooptw.com/taiwanpost/555374/%E7%BE%8E%E8%A1%93%E5%9C%92%E9%81%93%E5%95%86%E5%9C%88%E3%80%8C%E7%BE%8E%E5%AD%B8%E6%A3%AE%E6%B4%BB%E7%AF%80%E3%80%8D-%E4%B8%B2%E8%81%AF%E7%94%A2%E6%A5%AD%E8%A7%80%E5%85%89-%E5%89%B5%E9%80%A0/",
    "resolved": true
   },
   {
@@ -227,6 +243,16 @@
    "resolved": true
   },
   {
+   "title": "【聖誕特輯】「2026高雄聖誕生活節」紫色浪漫點燈！「耶誕小鎮」連續5個週末登場 紫色限定美食、手作耳飾與商圈燈海　迎接海內外ARMY",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FZ1B3RE0xWmV0R01BWGZ5M2dFaHl5M0hHbnRUbC16TE1ZR1VYcGZHcm9SRGR0eGVTdVd5RzhnRkY3cVMxVEp2YV80LTk4aERXYXdJSmdn0gFbQVVfeXFMT2RGc29JOUo3azdQWFQ2SjdJeHZTSERwSVNlZDlOSmRMQ2NEM0xyOXJKQzhQU05nZjJwZ09mOHY1ck1UbDRNcjJrS0w4bEE3VDJHc1Z6SG16MHBQRQ?oc=5",
+   "source": "鏡新聞",
+   "source_site": "https://www.mnews.tw",
+   "published_at": "2026-11-16T15:00+08:00",
+   "query": "商圈",
+   "url": "https://www.mnews.tw/story/20261116mkt00002",
+   "resolved": true
+  },
+  {
    "title": "蔣萬安最強分身上線！石舫亘四平商圈拜票 店家用「安心貼紙」拼大愛心應援",
    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14R29GRDREcV9QNVFPbHprQ2dVLVAwQ25sMHhmZWhCSG1Ma2puRTBObG1HaDA0VV9JQkZtS0w4Z2tVZUVDeURmWlVhWDI4M0JaUVd0eUFhVjZrMkR5MEZnN1cyYk00a01wdDlyYktmOA?oc=5",
    "source": "知新聞",
@@ -257,13 +283,13 @@
    "resolved": true
   },
   {
-   "title": "石舫亘四平商圈掃街拜票（2） (圖)",
-   "google_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONEFNckx3enc5VUpGeFB1S24tUUxsYW91bHNpbW9wRW1BTFp4Ti11Z1RpNXlGUHROV3hhVFJKSTluYmlla1BTUV93ZmFDRW9ZTFowZ1JvQUlZVzJJWHNPT1RRRXQwMmxCWnMzSUlCbEhBc29QTHI3UzR1V3RVNTdEYy1mZFZxUDlhMnZwUDdKTzVENi0wV3JTcFdtcDBib3J0amw4bkRIVFY0ejUxdnFpWVlpcFJNZjRDT0duclY2OUFBd0hPT1JLVVJDd3dDWms5bjRIazlQSElWOFJVb1kwcThLbTRGLU0?oc=5",
+   "title": "石舫亘四平商圈掃街拜票（1） (圖)",
+   "google_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcnN1MDJnS0Uxd0F4M3l1a2NlM0QxX1NPYkV0OUJic3NzNmRvNjY2andBVy1pdXNaQnhGRm9Jb2t1VHE1UXdYRjVPeU40WUwtdVJEVWhWb0MxN2ZXQVNRM0pzcGxlQU9mVHg1MDNjTnBPQkRfSGgxQy1rQjQ4WDVJR3F1UEYyRGRseC1GRjk2S0pwTHBsdmJtc0NISzJuYkswT0UtTkJTMWc5MXd4SHBieHRoWHducVJzYWl3SGFyek1jNzdNUHo1QktDWUVCOUEydlVOT29oSUh0VVdTZFc5S1VTZzVkSFE?oc=5",
    "source": "Yahoo新聞",
    "source_site": "https://tw.news.yahoo.com",
    "published_at": "2026-11-16T13:20+08:00",
    "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E7%9F%B3%E8%88%AB%E4%BA%98%E5%9B%9B%E5%B9%B3%E5%95%86%E5%9C%88%E6%8E%83%E8%A1%97%E6%8B%9C%E7%A5%A8-2-%E5%9C%96-050533551.html",
+   "url": "https://tw.news.yahoo.com/%E7%9F%B3%E8%88%AB%E4%BA%98%E5%9B%9B%E5%B9%B3%E5%95%86%E5%9C%88%E6%8E%83%E8%A1%97%E6%8B%9C%E7%A5%A8-1-%E5%9C%96-050431124.html",
    "resolved": true
   },
   {
@@ -284,46 +310,6 @@
    "published_at": "2026-11-16T11:01+08:00",
    "query": "老街",
    "url": "https://n.yam.com/Article/20261116335895",
-   "resolved": true
-  },
-  {
-   "title": "深圳APEC｜APEC效應下華強北商圈外籍客日均逾萬人次",
-   "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HZ3VfbTFNMkQ3MUVtWTlFV1QwYWVjTHNSUjNNV3p3WXZXTzM2M0FzV1VQM1pCQm1scERScjFITDY2a01aUTgtVEJ0cUlhSFkwSnhxRUlPS01UV2Z1MnQ0RWM5ODd2U2hEbFFmYUhFdw?oc=5",
-   "source": "RTHK News",
-   "source_site": "https://news.rthk.hk",
-   "published_at": "2026-11-16T10:55+08:00",
-   "query": "商圈",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877954-20261116.htm",
-   "resolved": true
-  },
-  {
-   "title": "晚下班也能吃好鍋！黑毛屋插旗南京復興商圈 營業至晚間11點 | 食品餐飲 | 商情",
-   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OUE44TU5kV1FFREZHSEJkRzRtdTZ4YWZOd1R1b1lFVUdqeEhqRXl3V092YWRsTkhMMG9hU1BpUldfSVRoQ09KVWZ2dXFTcUJ4UHE1T0lRTHZ3Zw?oc=5",
-   "source": "經濟日報",
-   "source_site": "https://money.udn.com",
-   "published_at": "2026-11-16T10:01+08:00",
-   "query": "商圈",
-   "url": "https://money.udn.com/money/story/7843/9877384",
-   "resolved": true
-  },
-  {
-   "title": "「2026高雄聖誕生活節」紫色浪漫點燈！「耶誕小鎮」連續5個週末登場紫色限定美食、手作耳飾與商圈燈海迎接海內外ARMY",
-   "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTi1xRWhRMHYtOHdoQjBqLTI0bWlDTnJHRUo3emw4bFYwTmNIUjdSZ1pBVHdBS29wR0dBSlVOSkp6UTcwZkhaeldlRjh5MlREU1J5ZE1xaThtZ2VSb3d3NHJPc2J1bXRnaF9HUHpJMkpvRlBaa0IzRms1dU4zN241LTB3TUk?oc=5",
-   "source": "高雄市政府全球資訊網",
-   "source_site": "https://www.kcg.gov.tw",
-   "published_at": "2026-11-16T09:54+08:00",
-   "query": "商圈",
-   "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4E021CD9DDDE7E24",
-   "resolved": true
-  },
-  {
-   "title": "11/14、15「2026八德3C哈樂DAY」壓軸主場週嗨翻八德資訊商圈六組人氣樂團接力開唱軍武體驗、復古遊戲、人氣氣偶一次玩",
-   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XRThjdjlNckVPUkZfMzNBTkpCamRVb2E5RG5LekR3c3pzYjBIRFBqazZVRmVDdjJRWTZEQkFoRDlUdnBTOUZaaFlRdnZqZ3JrdUFrX25OMGd5WHRfbFZJ?oc=5",
-   "source": "臺北旅遊網",
-   "source_site": "https://www.travel.taipei",
-   "published_at": "2026-11-16T09:45+08:00",
-   "query": "商圈",
-   "url": "https://www.travel.taipei/zh-tw/news/details/68356",
    "resolved": true
   }
  ]
