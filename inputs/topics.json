@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T10:58:29+08:00",
+ "updated_at": "2026-11-18T15:44:36+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,24 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "沙拉油「缺貨」衝擊物價！？ 瓦城5品牌「喊漲」調幅約3.6%｜#鏡新聞",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNT09PX01ORHVlX2FxcGE4dmd1RXlwZFZrV05FUktGNTg0bm5LRUlmZlk3b0N6VS1Ta2p1aVRQcnNOYVpJTTZYa09yX3VUelpmSFlucG9JR042emMyQ2dqVVN4VS1CaUZfbnJkY1VfcUtpZllLdEU4c2dESTI4Q0kyRDg1NE42REtaMmlQZ0EwNXJzVHF4Q2xOZm9NZTZDUVRSZ0lCM0NZR1kzM01GZlRra0lkRXBWRVozdnFiY1BFeXhuQldvREJzZzRMRHBjdFNiblo3SkV5WGN4RFNMTlVOVnkxbWlfaHV1QmRqUnVJT1B3TGJOelJSVXk5QW1VdTh6MlEyTGo2bDQyd2kySGc?oc=5",
+     "source": "Yahoo新聞",
+     "published_at": "2026-11-18T13:53+08:00",
+     "url": "https://tw.news.yahoo.com/%E6%B2%99%E6%8B%89%E6%B2%B9-%E7%BC%BA%E8%B2%A8-%E8%A1%9D%E6%93%8A%E7%89%A9%E5%83%B9-%E7%93%A6%E5%9F%8E5%E5%93%81%E7%89%8C-%E5%96%8A%E6%BC%B2-054248070.html",
+     "resolved": true
+    },
+    {
+     "title": "中國食用油標準GB 31664-2025：馬來西亞棕櫚油局籲業者檢視",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeDh5cXp0YldoMm9zTGZUMGJ4RmRDNzh2clM1d29UZmFWSHVydnBxUU1UR216U3pta08wRTgzd19DaDVYZDM2T0w0TmlKY0tnZExuRjB6a3c2Mnk1VnNEc3NCUnJuV2FYYUlnVkl2V2pxTTM2OWYzUFBqTHdaVHhpUQ?oc=5",
+     "source": "索引新聞",
+     "published_at": "2026-11-18T10:57+08:00",
+     "url": "https://news.org.tw/malaysia-mpob-china-gb-31664-2025-3mcpde-ge-2026-11-15/",
+     "resolved": true
+    },
     {
      "title": "18公升沙拉油半個月漲14％？綠委：中盤商進價每桶飆至1200元",
      "kind": "價格動態",
