@@ -1,15 +1,13 @@
 {
- "fetched_at": "2026-11-19T01:23:15+08:00",
+ "fetched_at": "2026-11-19T07:17:42+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 89,
-  "kept": 33,
-  "resolved": 33,
-  "items": 32,
-  "resolve_this_run": {
-   "online": 4
-  },
+  "raw": 95,
+  "kept": 31,
+  "resolved": 31,
+  "items": 30,
+  "resolve_this_run": {},
   "dropped_old": [
    "市政新聞－信義中繼市場正式動工謝國樑盼兼顧攤商營運與商圈發展打造市場改建新里程碑（原文日期 2026-10-15）"
   ]
@@ -313,26 +311,6 @@
    "published_at": "2026-11-17T08:40+08:00",
    "query": "商圈",
    "url": "https://today.line.me/tw/v3/posts/list/article/ZapXVG7",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 蔣萬安太太石舫亘四平商圈拜票 店家貼「安心貼紙」力挺、民眾拿書求簽名",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ka2g2RUxsTHYtTUV1OVRPeVhta2txaVJoZHFPYnp3aG9YSjZLUzBpVXpJdDZ0Z3ZORTV4NlhVLWN4WkZYb1JvMFpzVWQ3cXo2WmhBcndBV0hfSEhvTC0wbFFwSnU?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-17T05:28+08:00",
-   "query": "商圈",
-   "url": "https://today.line.me/tw/v3/posts/list/article/WBp2k35",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 買滷味排隊吵架！宜蘭大學商圈2打1...男倒地被拖行 民眾急報案",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vVWFZYVVYQlpjMm44bFpNb2JQZ2pnN1UyZjQydi1LLVBwYnlQOUwwOHBFeks0Q0FvemdCSzRWY2hiV0VXUjRpUnVLMXg0YmlidHF0b2pGNTgyMldLRmdqSWxEWFQ?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-17T04:15+08:00",
-   "query": "商圈",
-   "url": "https://today.line.me/tw/v3/posts/list/article/9m3kZaq",
    "resolved": true
   }
  ]
