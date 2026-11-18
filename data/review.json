@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-18T12:17:10+08:00",
+ "updated_at": "2026-11-18T16:50:11+08:00",
  "reviewed": {
   "https://3kingtw.com/4007/": {
    "decision": "kept",
@@ -551,6 +551,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-12"
+  },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5644546": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-18"
   },
   "https://news.ltn.com.tw/news/politics/paper/1777571": {
    "decision": "hidden",
