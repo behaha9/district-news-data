@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T20:52:40+08:00",
+ "generated_at": "2026-11-19T07:18:55+08:00",
  "items": [
   {
    "id": "20261118-chaoyuan-oldstreet-paint",
@@ -23,7 +23,7 @@
      "published_at": "2026-11-17T17:05:00+08:00"
     }
    ],
-   "image": "https://news.st-media.com.tw/UserFiles/resource/n_37f7586b864da621e9c3db841133d587/file/111702.jpg"
+   "image": "https://www.cts.com.tw/data/news/photo/cts/202611/202611183102529.jpg"
   },
   {
    "id": "20261118-douliu-lantern-taiping",
@@ -2382,46 +2382,6 @@
      "published_at": "2026-11-05T11:23:00+08:00"
     }
    ]
-  },
-  {
-   "id": "20261104-chiayi-zhongshan-enforcement",
-   "title": "嘉義市中山路科技執法遭議員批衝擊商圈，警局長允檢討調整",
-   "summary": "議員質詢指中山路科技執法雖改善交通，卻造成商圈商機流失；警局長表示將檢討調整。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-05T00:00:00+08:00",
-   "cities": [
-    "嘉義市"
-   ],
-   "districts": [
-    {
-     "name": "中山路商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7326/9857999",
-     "published_at": "2026-11-05T00:00:00+08:00"
-    },
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/amp/story/7326/9857999",
-     "published_at": "2026-11-05T00:00:00+08:00"
-    },
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7326/9856210",
-     "published_at": "2026-11-04T11:00:00+08:00"
-    },
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/amp/story/7326/9856210",
-     "published_at": "2026-11-04T11:00:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35483446.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
   }
  ],
  "discussions": []
