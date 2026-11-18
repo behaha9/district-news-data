@@ -1,7 +1,33 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T07:18:11+08:00",
+ "generated_at": "2026-11-18T12:17:10+08:00",
  "items": [
+  {
+   "id": "20261118-zhonglu-coffee",
+   "title": "投書談桃園中路商圈：咖啡節與街區活動讓「小天母」逐漸成形",
+   "summary": "投書者從中路商圈發展協會舉辦的親子咖啡節談起，描述商圈以節慶與音樂演出吸引人潮、形塑街區氛圍。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-18T10:13:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [
+    {
+     "name": "中路商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "桃園電子報",
+     "url": "https://tyenews.com/2026/11/1431187/",
+     "published_at": "2026-11-18T10:13:00+08:00"
+    }
+   ],
+   "admin_note": "中路商圈為115年補助名單，投書提及商圈協會辦理咖啡節，可留意活動辦理與商圈營造成果。",
+   "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2026/11/1000138235_result.webp"
+  },
   {
    "id": "20261103-xiluo-art-fair",
    "title": "「阿嬤的家」藝博會12月在雲林西螺登場，西螺老街化身展場",
@@ -142,6 +168,11 @@
     {
      "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261116429669",
+     "published_at": "2026-11-16T20:53:00+08:00"
+    },
+    {
+     "outlet": "獨家報導",
+     "url": "https://www.scooptw.com/taiwanpost/555374/%E7%BE%8E%E8%A1%93%E5%9C%92%E9%81%93%E5%95%86%E5%9C%88%E3%80%8C%E7%BE%8E%E5%AD%B8%E6%A3%AE%E6%B4%BB%E7%AF%80%E3%80%8D-%E4%B8%B2%E8%81%AF%E7%94%A2%E6%A5%AD%E8%A7%80%E5%85%89-%E5%89%B5%E9%80%A0/",
      "published_at": "2026-11-16T20:53:00+08:00"
     }
    ],
