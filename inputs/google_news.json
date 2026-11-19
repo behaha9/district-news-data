@@ -1,20 +1,53 @@
 {
- "fetched_at": "2026-11-19T10:40:23+08:00",
+ "fetched_at": "2026-11-19T15:40:37+08:00",
  "stats": {
-  "queries": 5,
-  "query_errors": [],
-  "raw": 105,
-  "kept": 34,
-  "resolved": 34,
+  "queries": 4,
+  "query_errors": [
+   "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延: 429"
+  ],
+  "raw": 88,
+  "kept": 35,
+  "resolved": 35,
   "items": 33,
   "resolve_this_run": {
-   "online": 6
+   "online": 5
   },
   "dropped_old": [
-   "市政新聞－信義中繼市場正式動工謝國樑盼兼顧攤商營運與商圈發展打造市場改建新里程碑（原文日期 2026-10-15）"
+   "市政新聞－信義中繼市場正式動工謝國樑盼兼顧攤商營運與商圈發展打造市場改建新里程碑（原文日期 2026-10-15）",
+   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
   ]
  },
  "items": [
+  {
+   "title": "運動中心不只運動！中和第二運動中心開工 串聯捷運商圈與綠地",
+   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wbFBhSjR6cjFGNlJmblliMTJFTHo4YW80SGJLVWx3VHQ1TFpEbXdxczB5SUxEQklDUUtiVVJGbDZQS0V2emtkbUxmZU5ibG1qRXM2N3FCZ1U1Z05uekZ0Zw?oc=5",
+   "source": "民視新聞網",
+   "source_site": "https://www.ftvnews.com.tw",
+   "published_at": "2026-11-19T14:35+08:00",
+   "query": "商圈",
+   "url": "https://www.ftvnews.com.tw/news/detail/2026B19W0403",
+   "resolved": true
+  },
+  {
+   "title": "新北中和第二運動中心開工 串聯捷運商圈與綠地",
+   "google_url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOREU5dUVFRVhoSEMzekphOXZrSWNUaXJFaTZyVkZhTnRmem05czdvLUNhYkpJNzVBUWtsZEhSbGFrRUNCRUZxYjNMREFkVk11TTZEVUMtbkhOc1hfZ2RNbTBKODJ2al94RUYtWTlpVUg2cjZvWnlTeXQ2bjNLMWRibWFfSHV4LWg2c2p6OS1EbHZrSTdES1NYS2pKR2NnWHIzQlc0dW81RTFibzc0bFFzamgzdHo0b05qSEVGbnlfaUxXMk1BeXRubm1oaGdFVHE4R2hkNHhSMk1odHVMR2w0dXRRT2VqeVg1S2lTcVZ5aHd3REt2eWhXSHJweGlKZGYtYUxCcGdUeF9aeDZLamltcU51S2ItS194eDVuR2RZdHQ1aUN5dTBnTzBYclA3dENYbGx2S1JQSkhhVndPMFZPb0VsQmVkTlNLbnRQSVVsSlI?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-19T13:03+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E4%B8%AD%E5%92%8C%E7%AC%AC%E4%BA%8C%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83%E9%96%8B%E5%B7%A5-%E4%B8%B2%E8%81%AF%E6%8D%B7%E9%81%8B%E5%95%86%E5%9C%88%E8%88%87%E7%B6%A0%E5%9C%B0-043517345.html",
+   "resolved": true
+  },
+  {
+   "title": "百億娛樂城隱身昌平商圈！　1年賭資逾155億",
+   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tbnhQakh4SUtGSmZFRlBSeW1TMFo3YTRGUzNJRlp1MUh4eHpoUEg5cktYc2FUQlIxajNlME1ocDYxaG00Y09mOEE3REN2NnRTZ29KcGg0YXZXOUhpcmfSAV5BVV95cUxPLW54UGpIeElLRkpmRUZQUnltUzBaN2E0RlMzSUZadTFIeHh6aFBIOXJLWHNhVEJSMWozZTBNaHA2MWhtNGNPZjhBN0RDdjZ0U2dvSnBoNGF2VzlIaXJn?oc=5",
+   "source": "鏡新聞",
+   "source_site": "https://www.mnews.tw",
+   "published_at": "2026-11-19T12:22+08:00",
+   "query": "商圈",
+   "url": "https://www.mnews.tw/story/amp/20261119sot1222001",
+   "resolved": true
+  },
   {
    "title": "老街小吃外的慢食新風景 雲林西螺吹起「義式餐桌＋手作甜點」返鄉創業潮",
    "google_url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQeDdrUDRVY1kwWVJPbmFwTzdjbjl5eUVOUWg3aHE1X2hCMWtOVUZoNDlmV1BfWk03em1aUGkwR1VmdmJMQlpxQTE3ZnNSWkRTLWZ0TnhnUDYwV0JfQ2pYQkFWRDZjSURSa3p4MlBLd1B6YW9IRXNPNTlZWVNkME1uOS1WWlo0UUZXNzFEUjFCS0xzLXJpOVRGUGlFSzRsRW5CY3cxLXpzMlA3OEFGcVlPM2VEQnRTMm56ZHNGWk5HNWVWMkc0Y3NaT3lCZ1ZjNkJaMl9xQXRDYXVRWDhKZTJocW9ZZ0VBdVFzS2NvYU9zbnpKejR5SGVac2pfN0FETGp3WWRCM1pTQmJDcVV3Y2R4SEtmVW5ySGwwOFdDeWQxNWpfdDlKc1dhOEFUc0tacHZMOVJSTHVBeDFQejNHeXNQeE5INDdRSnBWdjN5TWhnVFZUYThTZlJTOW53ZXo5VjU1RER4cHhXX0ppUElLNWdlNjRuRDNJT054TXczWE1xLU1xR2t3UXFWaVkydU9lWWJuTmkxZ3RCR3lwck9xdC1hYVhySU1YNjR5R0YwVkhJNElyN216dnI1OTB6UUFicE9rdllUbktreDdsc1Q0VGNBY2hwSm16ekNiUE8zaEF3?oc=5",
@@ -36,13 +69,23 @@
    "resolved": true
   },
   {
+   "title": "柯文哲豐原徒步闖關！連小華拋「藍寶石珍珠項鍊」拚商圈復甦",
+   "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QY3F3TENJck9XUzhUbER2VEJXZnJxNUVGeEppdWRZSERYZ29mYnpYeHQ4bEZxRjZobkNQSGFSNzBjaUZkQU1GMlZUbk81XzBkbks4?oc=5",
+   "source": "TVBS新聞網",
+   "source_site": "https://news.tvbs.com.tw",
+   "published_at": "2026-11-19T09:53+08:00",
+   "query": "商圈",
+   "url": "https://news.tvbs.com.tw/politics/4052755",
+   "resolved": true
+  },
+  {
    "title": "鼎王重返桃園「插旗火車站前商圈」　11/24搶先試營運",
-   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XQzlGa0ptZTRFVnhVRVhEYzluUVpVSDI5NlkzamJDcjZ0blk4QTBrSWlyZWZkY0RhRVRDdHFCWFRhY3kxQUFGbnJBZ2NzYjZaMFlISFkzRVlTQdIBT0FVX3lxTE5SWFpXci1ydllydlc3Y1BmRk81cDZkNDhwdE4xS0ZGaWtaY3pLRnlNV0pyQUFoTlkyZ196aEFTUHpqRzBSZTBtSVVuRUs4dUk?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SWFpXci1ydllydlc3Y1BmRk81cDZkNDhwdE4xS0ZGaWtaY3pLRnlNV0pyQUFoTlkyZ196aEFTUHpqRzBSZTBtSVVuRUs4dUnSAU9BVV95cUxOUlhaV3ItcnZZcnZXN2NQZkZPNXA2ZDQ4cHROMUtGRmlrWmN6S0Z5TVdKckFBaE5ZMmdfemhBU1B6akcwUmUwbUlVbkVLOHVJ?oc=5",
    "source": "ETtoday旅遊雲",
    "source_site": "https://travel.ettoday.net",
    "published_at": "2026-11-19T09:46+08:00",
    "query": "商圈",
-   "url": "https://travel.ettoday.net/article/3274693.htm",
+   "url": "https://travel.ettoday.net/amp/3274693",
    "resolved": true
   },
   {
@@ -63,16 +106,6 @@
    "published_at": "2026-11-18T22:53+08:00",
    "query": "商圈",
    "url": "https://tw.news.yahoo.com/%E6%9F%AF%E5%BF%97%E6%81%A9%E5%88%86%E8%BA%AB%E6%8E%83%E5%B8%82%E5%A0%B4%E5%95%86%E5%9C%88-%E8%80%81%E5%85%AC%E6%B4%AA%E5%BE%B7%E6%88%90%E5%B8%B6%E8%B5%B7-%E6%B3%A2-%E6%B4%AA%E6%B5%81-145300179.html",
-   "resolved": true
-  },
-  {
-   "title": "廣州街騎樓、艋舺公園大變身！「鏈機能+鏈文化」雙軸改造萬華商圈展新貌打造行人友善觀光廊帶- 預約系統",
-   "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIcmE2c2t6U244Q2RTeGJvSFU4dWIxRXlxNWFkZFVPX2k0YXpsWUY3RnN3ZGpYQURYOXZqbWU0RjA2YW5EeEVib2xlekhBMUl3em52Y3lmWVYwYUV3ME1BOVN2OFdWdw?oc=5",
-   "source": "demo.52salon.com",
-   "source_site": "https://demo.52salon.com",
-   "published_at": "2026-11-18T22:44+08:00",
-   "query": "商圈",
-   "url": "https://demo.52salon.com/uninews_view.php?new_sn=150115",
    "resolved": true
   },
   {
@@ -210,7 +243,7 @@
    "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2lka3lBNXE3M1NUaElqbF9pV29WbV9UbnZuZnJJeVRodk5xX0tjNHpyVVdiZ2c4d0xSbDFtVm5semRrUHpjcXVSNnBOZmVfT3BpNWtHd1g1V2M0TzJoR2VnbUV1emNnOVFETk16U2hsdkxCelZaOVhKWWx6dTBQbGh5VV8?oc=5",
    "source": "LINE TODAY",
    "source_site": "https://today.line.me",
-   "published_at": "2026-11-18T11:21+08:00",
+   "published_at": "2026-11-18T10:39+08:00",
    "query": "老街",
    "url": "https://today.line.me/tw/v3/article/2D9aWaO?view=topic&referral=TOPIC-Election",
    "resolved": true
@@ -313,36 +346,6 @@
    "published_at": "2026-11-17T15:42+08:00",
    "query": "商圈",
    "url": "https://news.tvbs.com.tw/life/4051890",
-   "resolved": true
-  },
-  {
-   "title": "深圳南山消費券第3期｜WeChat Pay搶滿$1000減$600彩蛋券/增3大商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxObjdZejJGUWlhRU9xNnZ5MHpQRzRxVWEzZGVQc09leC12S0ZZeWdTNTc2ZWFkbThWWnZEWXpoU25IcTA5ZXdyaVoxaGRVaDRVb05tUjdxSUNVcEpSbUMtbHA4OGlqTWdidjhXYWpkZEdnT09vTnVxWE5sRjNUNlVocDd0NlNPcDdwQ09xQTIwTTdmc0NReGVzclFpUTF1ekwtVXk0NDVQZUU2ZWVka19BcXg3WlBZSEJsQmluVTh3NnRhN1BnWmhmcmZ5cXJEbmlfS0RlazJlV0RiUTJWTk9GRnhKVmFYRDBwQWZ3R292RVJsUVl3LTZwS2ltUmhORGI2Tkl5T2VNakVISUFpVEhyTXhPckpLZ3ItZDBmSTZpYnIweDdpVVZWaDU5S2pULVZDTEQxdDkzTTZpOXRxQ1ZlZzNQZ2tjY0VIY1BNSnZXeGRhZFk2cVNuM1dXTlVsN0VpSFVWbGtuXzR3eVI3RkVUcUZPelJWNkNmcHBaSGNXZ2tHMUZZT2pwNnlzbVRtY3pNMTFpRHNaSlhFSkxVT0dUdjVsOGhNQzBuUUZydTJGVXdKTS02MURsVGI1a2tQamo3dUtsUUU5N21uclR3cFRMaHlvMVQtMjJHRWEyajZfTFJhRTBxaEZZUzd1RkZrMHpVU2p1Rw?oc=5",
-   "source": "U Food",
-   "source_site": "https://ufood.com.hk",
-   "published_at": "2026-11-17T13:46+08:00",
-   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
-   "url": "https://ufood.com.hk/restaurant/news/detail/20119188/wechat-pay%E5%A4%A7%E6%B4%BE%E5%8D%97%E5%B1%B1%E6%B6%88%E8%B2%BB%E5%88%B8-%E6%96%B0%E5%A2%9E-%E5%A4%A7%E5%95%86%E5%9C%88%E9%A3%9F%E8%B2%B7%E7%8E%A9-%E6%96%87%E7%9D%87%E5%BF%85%E6%90%B6%E5%8D%83%E8%90%AC%E7%B4%9A%E5%BD%A9%E8%9B%8B%E5%88%B8%E5%8F%8A%E9%85%92%E5%BA%97%E4%BA%A4%E9%80%9A%E6%8A%98%E6%89%A3",
-   "resolved": true
-  },
-  {
-   "title": "西武園遊樂園昭和商店街耶誕活動11/26起 燈飾舞蹈秀、聖誕老人與焚火喫茶",
-   "google_url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPbFBSUWxkRTVFcDBqSFVLU2JmalNuOXI3ZXZ5UzJxbUtMaU9nTW9ud1NlNTVkYUVBSks1OHJ5SEctaUp5WGlqUi1EbUoyeXpMSVdYOS1KZU15VzAtOEZRbldNcHVLcDUwdkdVZ181djVmOEthZEp1MEYyblVVb2lvdHpiUVBZMXM3RDM3SDYtbUt3NFNUQzJjcWQ0OWpfTE9jbjhxM1QyZmhrWE8wenpWTmVJVnNzZjlVSmxVSllBZ3h6YzZkbFZzeTVTcU44QjlBVFlQTTVqZXQtZzJPWkd1elFJV1g0cjZzaHpWSzNJM2ZOMVU4ZUZWVEI4X28wMlQwbHQ0UTBnRmx5dUd3VU5wZEVGOWJvc05OcHlZV3k4cTlQUklQSGNkWjUtM2lnSW5aM0RmUV95dkNwWld3Yl9Lenh5aXVYMTJDaHEwVWROdVJHUGtsbDRNajJUT0t2Q0RxeEE?oc=5",
-   "source": "報新聞 Mega News",
-   "source_site": "https://www.contentplatform.info",
-   "published_at": "2026-11-17T10:58+08:00",
-   "query": "商店街",
-   "url": "https://www.contentplatform.info/articles/579035/%E8%A5%BF%E6%AD%A6%E5%9C%92%E9%81%8A%E6%A8%82%E5%9C%92%E6%98%AD%E5%92%8C%E5%95%86%E5%BA%97%E8%A1%97%E8%80%B6%E8%AA%95%E6%B4%BB%E5%8B%9511-26%E8%B5%B7%E3%80%80%E7%87%88%E9%A3%BE%E8%88%9E%E8%B9%88/",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 石舫亘四平商圈掃街拜票（2）(圖)",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pdnNhNVRlUU1ydnVrbGtnbTFmcTcyNHVzTlJnY3RUY2hoVjg5eG91OGRnS1J5ZFczS3FyZjZndGp1X0hnOG1kMkhFUmUyb01lbWNpWHNyRTktSk5vNml0X2xEU3Q?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-17T10:52+08:00",
-   "query": "商圈",
-   "url": "https://today.line.me/tw/v3/posts/list/article/RBKGmZw",
    "resolved": true
   }
  ]

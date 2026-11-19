@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T10:40:30+08:00",
+ "updated_at": "2026-11-19T15:40:43+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,51 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "炸油缺貨潮恐衝擊台南小吃美食招牌 議員李宗霖籲公開資訊穩油價",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Qemx0VFl6MmplRC1fMHBmYXpTQ1hPN0tpMlNnM0dJcGtCNXlNQVR0SWNULWlmQkpObVN4dFMxOU1reWNjeUlTcGlRakxrQ1lj0gFWQVVfeXFMTXpZNUNmSnRHYmhzVmhWT2pDYS1ZMUpIdXUwQ1NjbEY3VE93TWxkdkhXU2VGWGIwZXYwVkxPbWd0V20zWGtnOWc0TUNWUTdxOTloLXMwQkE?oc=5",
+     "source": "UDN",
+     "published_at": "2026-11-19T15:21+08:00",
+     "url": "https://udn.com/news/story/7266/9889168",
+     "resolved": true
+    },
+    {
+     "title": "炸油缺貨恐衝擊台南小吃美食招牌議員李宗霖籲公開資訊穩油價| 生活",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9haV8zVjBRdXczSnlCYy1zWjBPY2wtZ1hNRG5yMHJ4V1NYUURVY3dGaVdBa0I0Tnl1bjVudXBxTzhGei1iOFFxWUN3?oc=5",
+     "source": "聯合影音",
+     "published_at": "2026-11-19T15:21+08:00",
+     "url": "https://video.udn.com/news/1332564",
+     "resolved": true
+    },
+    {
+     "title": "食用油短缺飆漲 李宗霖籲市府快出手別讓美食變沒食",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPbDhTeDNMa0ZZOEhyRGUyRFlmeG1EYTN4ODF0NkdRU2IyNzV2Z0M4Y2hQNHh5elMtUC1qYVo5ZkJqN3RNRFJnMzAwLWotSGxncUJaNFR0bzNNWG9xRnRpaE9uS0I3emNKMVc0SU1QMndoYWxSMWxXZl90QzNvYVZoMHBmQkRUNVJPUXNCMXh0VjkzWWw4aF9kTDZfeUFkbnowbDlxSnM2TEVwRXdndVowbDYwR2c5LVRsYzVGQjNJLWlKdkNTZF9VREt1NGduQjFxVm1IMWRUVU5VTGxpU0JhOFE1ZGJhclZZaGotakRtZlZjbUI5RTA0OXJUck9LMUZBaU9xTEh2VUhjUjBZUXRtejdXYXd4dzVfbVBJTTBPR3BCaDRDbG1CVlBLX3dtRHdYUDQtdy1OMHNYWjlSRTVOVWJzVHdLelpfQTA1TUpGSEI2RkRZeXZ0MzE1U3MyNmpJZzA4UXhoRUY?oc=5",
+     "source": "Yahoo新聞",
+     "published_at": "2026-11-19T13:24+08:00",
+     "url": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%9F%AD%E7%BC%BA%E9%A3%86%E6%BC%B2-%E6%9D%8E%E5%AE%97%E9%9C%96%E7%B1%B2%E5%B8%82%E5%BA%9C%E5%BF%AB%E5%87%BA%E6%89%8B%E5%88%A5%E8%AE%93%E7%BE%8E%E9%A3%9F%E8%AE%8A%E6%B2%92%E9%A3%9F-050852451.html",
+     "resolved": true
+    },
+    {
+     "title": "炸油缺貨、價格飆漲衝擊臺南餐飲業臺南市議員李宗霖籲平價直供",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9saExhTHFFWnljUGo0ajd5dHU4bGRPR0cwNjVJelc1YTN0V0FtNzNSUGI0OEx0dzVsV2pFLUlrTEdJWlZKSE1qNzBwc0lKVGFka3c?oc=5",
+     "source": "蕃新聞",
+     "published_at": "2026-11-19T11:25+08:00",
+     "url": "https://n.yam.com/Article/20261119308415",
+     "resolved": true
+    },
+    {
+     "title": "炸油缺貨、價格飆漲衝擊臺南餐飲業臺南市議員李宗霖籲平價直供- 生活新聞",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFJPVmZkbG9kSHIzN09yVzB1RS02RzVXUnV3TUVEbDdiM2kzcVNCaW11OFVrc2RKN1pFc1A2OFMybkM5RzI2eHp1dm5KdjNBZzRxOURmcU1tZzFGbC1jSldmSy1fank3RTZ6VmVkS0NWV3NYMmdxU1JVblFrZm1hYVFsZTI5aF9wVGhQRnBWOA?oc=5",
+     "source": "PChome Online 新聞",
+     "published_at": "2026-11-19T11:25+08:00",
+     "url": "https://news.pchome.com.tw/living/twpowernews/20261119/index-17950587182817747009.html",
+     "resolved": true
+    },
     {
      "title": "食用油缺貨危機未解 政府應變需加強 李宗霖籲公開資訊穩油價",
      "kind": "價格動態",
