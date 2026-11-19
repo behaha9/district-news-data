@@ -1,23 +1,90 @@
 {
- "fetched_at": "2026-11-19T15:40:37+08:00",
+ "fetched_at": "2026-11-19T20:51:10+08:00",
  "stats": {
-  "queries": 4,
-  "query_errors": [
-   "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延: 429"
-  ],
-  "raw": 88,
-  "kept": 35,
-  "resolved": 35,
-  "items": 33,
+  "queries": 5,
+  "query_errors": [],
+  "raw": 99,
+  "kept": 37,
+  "resolved": 37,
+  "items": 36,
   "resolve_this_run": {
-   "online": 5
+   "online": 9
   },
   "dropped_old": [
-   "市政新聞－信義中繼市場正式動工謝國樑盼兼顧攤商營運與商圈發展打造市場改建新里程碑（原文日期 2026-10-15）",
-   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
+   "市政新聞－信義中繼市場正式動工謝國樑盼兼顧攤商營運與商圈發展打造市場改建新里程碑（原文日期 2026-10-15）"
   ]
  },
  "items": [
+  {
+   "title": "串聯捷運商圈與綠地 中和第二國運中心開工 侯友宜：提供市民多元運動環境",
+   "google_url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOcmZiRm4tSEhuY21SMjBTT1N2cDFPNk1fMnVOb1c1YzJtYmlJVDk5ekE2bEdHSGZmT0txWFlILW5QZmsxQWpDRk90UWZVa0VUWnkxRmtfbUV0Yms3azl0UXUyZWVpNURKNXQySVhCWFlwZ19RbDB5cFpTMmpQYnI5VlZQblpuMUpVbWY2X2ZkNkZuQ09hczc0cmNxekFqZUpJb19vbXRPSWFqUlU1aWRraUJlMTlBMURLaVlENXA5TUVKUHVHN1dXVTc2bGxTYjNtdENZNlFzaFhGN0ZiQWZQUS1VS00zRF92NHZWckdObG5hcm8wZDkxVEQtMWVOcVZoc002cDQ2Y09IaURJNG1PUnF1ZVlicU5OdEM4bFdOd0VsZVVSa2ZzLXlXRUJQdFRJLWl3cXRqZGF0SlF5eDBmelk5X3hLSXhTRm9KdVZ5eEFVaUhObUluNmJuaXpHUGpMSnBzT0ZWQQ?oc=5",
+   "source": "報新聞 Mega News",
+   "source_site": "https://www.contentplatform.info",
+   "published_at": "2026-11-19T18:30+08:00",
+   "query": "商圈",
+   "url": "https://www.contentplatform.info/articles/583422/%E4%B8%B2%E8%81%AF%E6%8D%B7%E9%81%8B%E5%95%86%E5%9C%88%E8%88%87%E7%B6%A0%E5%9C%B0%E3%80%80%E4%B8%AD%E5%92%8C%E7%AC%AC%E4%BA%8C%E5%9C%8B%E9%81%8B%E4%B8%AD%E5%BF%83%E9%96%8B%E5%B7%A5%E3%80%80%E4%BE%AF/",
+   "resolved": true
+  },
+  {
+   "title": "粉紅車跑開進「鑽石山城」 蘇巧慧：觀光不只停留在老街| 2026九合一選舉",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBibGh5ZVk4TXZPSWJfdFRXNXpRTGJoY1ZnVVF4ZWx5M3VHZlpOb3dXLTRXQXVWQUc1cVl2R0oxX1QwakZ0b0xRU2hPRExfMS03ellBUlBxdlU?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
+   "published_at": "2026-11-19T18:28+08:00",
+   "query": "老街",
+   "url": "https://udn.com/vote2026/story/124652/9889662",
+   "resolved": true
+  },
+  {
+   "title": "盛會有序運轉商圈煙火如常外籍遊客點讚深圳精細化治理溫度- 即時新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOTzNQUmhLcVUyU2xicUNNN2ZpZFJJZnRZSGt1c0RqWVRZSlVMb19kSHRkX0hOWHJ1TjFVZktiTmRUcUlXakVqdDZhQzU5TmdLM3RRdmwtaEl6Z1BQeVVIUlRNdlJsYmpFMVZYb0tlckRaZGRWSG1r?oc=5",
+   "source": "香港文匯報",
+   "source_site": "https://www.wenweipo.com",
+   "published_at": "2026-11-19T17:52+08:00",
+   "query": "商圈",
+   "url": "https://www.wenweipo.com/a/202611/19/AP6afec6e1e4b028ec0194b603.html",
+   "resolved": true
+  },
+  {
+   "title": "斗六燈海節11/21登場 燈飾升級.藝人卡司嗨翻老街",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95dlpGeDk5cnY2eWd4VDRwNHQ1cjF3R0FnaW16WVJyQ0hPVFdacGpkRHd6MWFONDJicEc1TFhLWEc3NjVVaWU0OW9memlkajR5?oc=5",
+   "source": "台灣生活新聞",
+   "source_site": "https://news.st-media.com.tw",
+   "published_at": "2026-11-19T17:50+08:00",
+   "query": "老街",
+   "url": "https://news.st-media.com.tw/news/64416",
+   "resolved": true
+  },
+  {
+   "title": "百億娛樂城隱身昌平商圈！ 1年賭資逾155億｜#鏡新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNSjFQMlJvWWpQXzVxTlpZTWM1Sm52YmF0UGZleHhSQjdYanFEbjlFNUUzcVdrd25YVFE2OFFzNWZKa3hGdkdrZXFPSDJKRmVraWZRSS0tdzM5MWRMNnNMN0NKR185Z1pvY090RjRMQzI0TzBfYkhsQzRfcjl2N1Babk5Mb0xhX2o0MkNGRzZ1SXlyeUhsZWZ0b1ppSlhNTW5RSHdxWU92UnphN2pXb3NsMExYTzV0dW5NVzU5cHdkRWJic05vRWJNRFQyNkJQTm54OVBLUFpJZFJVb3NVYUJ0WnVOeXYxNElzMlh6YWlNUWdobnQ2dW9nVzJEU09sWjVXaktGTnplR1o1SUZ0VzRKVU1jLXZPRHZwTjhjZUxBNk5YMVlhTVBMcFpFU2NiVUktSWVJSS1mUlBGb3c1di04?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-19T17:17+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E7%99%BE%E5%84%84%E5%A8%9B%E6%A8%82%E5%9F%8E%E9%9A%B1%E8%BA%AB%E6%98%8C%E5%B9%B3%E5%95%86%E5%9C%88-1%E5%B9%B4%E8%B3%AD%E8%B3%87%E9%80%BE155%E5%84%84-%E9%8F%A1%E6%96%B0%E8%81%9E-091728677.html",
+   "resolved": true
+  },
+  {
+   "title": "討論牆 | 他發文怨「竹北都沒發展商圈」 網曝「1殘酷真相」",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoc1dpYld6S0FlM2RNbnBwRW5tVlhBc3k1UHVCUGhObnpCcVBWRXd0dlZHaHYzenZseGxTcndVSktQYm9oQks0SlhvYkJkcXFHSDlZNkw5aUdIcmpNbG5YVWlsZ28?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-19T16:35+08:00",
+   "query": "商圈",
+   "url": "https://today.line.me/tw/v3/posts/list/article/PGza9y0",
+   "resolved": true
+  },
+  {
+   "title": "台北四平商圈必吃美食！「種福園」手作斤餅越嚼越香 合菜戴帽也不容錯過",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UTnRiTHhWZHBWLTZsWWp5QmFWNUFKelNybkI3Wkc1RFAzRXZaTjh0UTQ3MHliYU4tOUJBVnFqUndBZURqT2ZxWUFWVjBGTlBlcERua3NuU2RRSi1L?oc=5",
+   "source": "UDN",
+   "source_site": "https://travel.udn.com",
+   "published_at": "2026-11-19T16:00+08:00",
+   "query": "商圈",
+   "url": "https://travel.udn.com/travel/story/7205/9877738",
+   "resolved": true
+  },
   {
    "title": "運動中心不只運動！中和第二運動中心開工 串聯捷運商圈與綠地",
    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wbFBhSjR6cjFGNlJmblliMTJFTHo4YW80SGJLVWx3VHQ1TFpEbXdxczB5SUxEQklDUUtiVVJGbDZQS0V2emtkbUxmZU5ibG1qRXM2N3FCZ1U1Z05uekZ0Zw?oc=5",
@@ -30,12 +97,12 @@
   },
   {
    "title": "新北中和第二運動中心開工 串聯捷運商圈與綠地",
-   "google_url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOREU5dUVFRVhoSEMzekphOXZrSWNUaXJFaTZyVkZhTnRmem05czdvLUNhYkpJNzVBUWtsZEhSbGFrRUNCRUZxYjNMREFkVk11TTZEVUMtbkhOc1hfZ2RNbTBKODJ2al94RUYtWTlpVUg2cjZvWnlTeXQ2bjNLMWRibWFfSHV4LWg2c2p6OS1EbHZrSTdES1NYS2pKR2NnWHIzQlc0dW81RTFibzc0bFFzamgzdHo0b05qSEVGbnlfaUxXMk1BeXRubm1oaGdFVHE4R2hkNHhSMk1odHVMR2w0dXRRT2VqeVg1S2lTcVZ5aHd3REt2eWhXSHJweGlKZGYtYUxCcGdUeF9aeDZLamltcU51S2ItS194eDVuR2RZdHQ1aUN5dTBnTzBYclA3dENYbGx2S1JQSkhhVndPMFZPb0VsQmVkTlNLbnRQSVVsSlI?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-19T13:03+08:00",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4weUFObGR2VzV0NTUwRUdfT0k3aTRjSTVSQXFQQndkYjllN3ZDNDJVa3BkQ1FLY3htTHBkQkRqNFNOd21TMjR6YUJjYzhBaFEtRFpUVktTeURQV0FmNGtvMUJEUC3SAWpBVV95cUxQTkVtM0NmczVHRnNBWndkNWFmTjJGRTZnendHb3F6a2N6eVQ5dk83bHoydlZFMHFhUlVGalBSZ0JWN1ZlQ3E0S1dvOGNoY2YxSmxGUkxCZktoNXBmNm5adnJ0Vy1zLUtDTmZ3?oc=5",
+   "source": "自由時報",
+   "source_site": "https://news.ltn.com.tw",
+   "published_at": "2026-11-19T12:35+08:00",
    "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E4%B8%AD%E5%92%8C%E7%AC%AC%E4%BA%8C%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83%E9%96%8B%E5%B7%A5-%E4%B8%B2%E8%81%AF%E6%8D%B7%E9%81%8B%E5%95%86%E5%9C%88%E8%88%87%E7%B6%A0%E5%9C%B0-043517345.html",
+   "url": "https://news.ltn.com.tw/news/life/breakingnews/5646078",
    "resolved": true
   },
   {
@@ -49,21 +116,11 @@
    "resolved": true
   },
   {
-   "title": "老街小吃外的慢食新風景 雲林西螺吹起「義式餐桌＋手作甜點」返鄉創業潮",
-   "google_url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQeDdrUDRVY1kwWVJPbmFwTzdjbjl5eUVOUWg3aHE1X2hCMWtOVUZoNDlmV1BfWk03em1aUGkwR1VmdmJMQlpxQTE3ZnNSWkRTLWZ0TnhnUDYwV0JfQ2pYQkFWRDZjSURSa3p4MlBLd1B6YW9IRXNPNTlZWVNkME1uOS1WWlo0UUZXNzFEUjFCS0xzLXJpOVRGUGlFSzRsRW5CY3cxLXpzMlA3OEFGcVlPM2VEQnRTMm56ZHNGWk5HNWVWMkc0Y3NaT3lCZ1ZjNkJaMl9xQXRDYXVRWDhKZTJocW9ZZ0VBdVFzS2NvYU9zbnpKejR5SGVac2pfN0FETGp3WWRCM1pTQmJDcVV3Y2R4SEtmVW5ySGwwOFdDeWQxNWpfdDlKc1dhOEFUc0tacHZMOVJSTHVBeDFQejNHeXNQeE5INDdRSnBWdjN5TWhnVFZUYThTZlJTOW53ZXo5VjU1RER4cHhXX0ppUElLNWdlNjRuRDNJT054TXczWE1xLU1xR2t3UXFWaVkydU9lWWJuTmkxZ3RCR3lwck9xdC1hYVhySU1YNjR5R0YwVkhJNElyN216dnI1OTB6UUFicE9rdllUbktreDdsc1Q0VGNBY2hwSm16ekNiUE8zaEF3?oc=5",
-   "source": "台灣好新聞",
-   "source_site": "https://www.taiwanhot.net",
-   "published_at": "2026-11-19T10:30+08:00",
-   "query": "老街",
-   "url": "https://www.taiwanhot.net/news/1154641/%E8%80%81%E8%A1%97%E5%B0%8F%E5%90%83%E5%A4%96%E7%9A%84%E6%85%A2%E9%A3%9F%E6%96%B0%E9%A2%A8%E6%99%AF+%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E5%90%B9%E8%B5%B7%E3%80%8C%E7%BE%A9%E5%BC%8F%E9%A4%90%E6%A1%8C%EF%BC%8B%E6%89%8B%E4%BD%9C%E7%94%9C%E9%BB%9E%E3%80%8D%E8%BF%94%E9%84%89%E5%89%B5%E6%A5%AD%E6%BD%AE",
-   "resolved": true
-  },
-  {
    "title": "跨縣市傳承二十年家鄉味 北投復興崗商圈吹起「平價道地越式料理」風潮",
    "google_url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOa2M2WDlIMXdmNTZVVXhhNkI3cWx3TGwzTnoxSDdOcmJfZW85WkZZcFgtcUNvbWxKUW1oS0wzblZTS0FsZms5QjRSMWN5Y2tvbUI5OV9xd2ZVMWJTNXAxdFFGSjkwRy1iREMxZnltMDRDc3dyclh0MUVJaHBCdlBUY0F0MkJXeUluNDFUU0xBSlZpQTU3WTNYeHMwNnAtZWUxa2JzajNSSnNvaDZ3RHdTT1E4Vk1ieG5pblZEVUM2S2VBWmh5d2JiSHJ5NjlyTWQzU2ZwSXBRcVdMUmw5YmNNS0NRY0lNX2xHS0FVcVN3Tmpmd2hnVDNQUUFGTEFOaE1xWnVFLUZGdlFmRElOV2RuSUJBSU1nRE5nMTRKeTgtQ0RTc2tCZkhsek5zaFE3VEpOMktTTmpqUHVlX0ZRNGtwR18waDE4YWRERWpvOTd0R3FQOFQydVNqQ2VQZExRcWlIam9SZzhxRERYSzZWWmsweG9VRmFxUTlqRzc4SHRvQTZFZUtwUFIyZXVHR0c4dFdhNWlJTVNXVUdmampaVUhhWHE1cHM1eFB2OUhYNzFCd0JkMG40ZGo4cGNNak51MFpPa2Jwb216cVdIWnhGMld1MmhB?oc=5",
    "source": "台灣好新聞",
    "source_site": "https://www.taiwanhot.net",
-   "published_at": "2026-11-19T10:03+08:00",
+   "published_at": "2026-11-19T10:04+08:00",
    "query": "商圈",
    "url": "https://www.taiwanhot.net/news/1154636/%E8%B7%A8%E7%B8%A3%E5%B8%82%E5%82%B3%E6%89%BF%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%AE%B6%E9%84%89%E5%91%B3+%E5%8C%97%E6%8A%95%E5%BE%A9%E8%88%88%E5%B4%97%E5%95%86%E5%9C%88%E5%90%B9%E8%B5%B7%E3%80%8C%E5%B9%B3%E5%83%B9%E9%81%93%E5%9C%B0%E8%B6%8A%E5%BC%8F%E6%96%99%E7%90%86%E3%80%8D%E9%A2%A8%E6%BD%AE",
    "resolved": true
@@ -86,6 +143,16 @@
    "published_at": "2026-11-19T09:46+08:00",
    "query": "商圈",
    "url": "https://travel.ettoday.net/amp/3274693",
+   "resolved": true
+  },
+  {
+   "title": "老街小吃外的慢食新風景 雲林西螺吹起「義式餐桌＋手作甜點」返鄉創業潮",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WSFB0aFA3OXZpbHAyeUxlWDFRV2hxTENWLTZ3eUlxeUoxMFVmc09DOFpYVEZ6Mmg2d0ZibVdSd0pzcXQ0VUVydjVVVHk5MXJkaHc?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-19T08:00+08:00",
+   "query": "老街",
+   "url": "https://n.yam.com/Article/20261119129608",
    "resolved": true
   },
   {
@@ -176,16 +243,6 @@
    "published_at": "2026-11-18T14:04+08:00",
    "query": "商圈",
    "url": "https://newtalk.tw/news/view/2026-11-18/1071819",
-   "resolved": true
-  },
-  {
-   "title": "曼谷住宿推薦｜Grand Hyatt Erawan Bangkok 曼谷愛侶灣君悅酒店，住進四面佛與CentralWorld商圈的五星級飯店",
-   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44NlRxekFOVDVqY01CcUlHV1NXV25KejZ2WVZZUVMxbEpLMnAzbk1MRHY3UEVVMFpzVFp4VTRyTC0xdmVaN3VNOWJvNmFmZw?oc=5",
-   "source": "輕旅行",
-   "source_site": "https://travel.yam.com",
-   "published_at": "2026-11-18T14:03+08:00",
-   "query": "商圈",
-   "url": "https://travel.yam.com/article/141637",
    "resolved": true
   },
   {
@@ -316,36 +373,6 @@
    "published_at": "2026-11-17T21:33+08:00",
    "query": "老街",
    "url": "https://ct.org.tw/html/news/3-3.php?cat=26&article=1404807&fontsize=2",
-   "resolved": true
-  },
-  {
-   "title": "朝元宮老街彩繪 馬路繪畫重現老街風采",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YV1ZMQUR6ZFpKVDVPQzhGNVpaQ2tJV3ppckFTU0tBdnJBYUdlRjVhSHpkdExpTG8wQWZ6RDBnZ0F3ajJpcXk5dHFOOGNpWk11?oc=5",
-   "source": "台灣生活新聞",
-   "source_site": "https://news.st-media.com.tw",
-   "published_at": "2026-11-17T17:05+08:00",
-   "query": "老街",
-   "url": "https://news.st-media.com.tw/news/64344",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 一中商圈驚魂！中友百貨對面空地竄「數層樓黑煙」 烈火吞噬12機車",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82dXl3U0NXazU4WGw5eFpIaElWT2I1UHEtYS11MHBLYldETlFPalJKQ2Via0FjRlhYU0pRRGh0dUo3V3NRYlQxcVpHRUhpZlpZdE8wYVpfNmkzY09UZ3dibXo5YVQ?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-17T16:49+08:00",
-   "query": "商圈",
-   "url": "https://today.line.me/tw/v3/posts/list/article/JPgRjoK",
-   "resolved": true
-  },
-  {
-   "title": "游淑貞提花蓮舊城商圈振興策略 文化深耕、觀光導流雙軌並進",
-   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1VWdfdm1RM2FYX3k0a24zR3hOXzVySS12QTFwZGlBSGI0UklOYlpaQzhUbGIxMU0yU0MzRnRjUk9xUzNLY3NTR0tOTVJLdw?oc=5",
-   "source": "TVBS新聞網",
-   "source_site": "https://news.tvbs.com.tw",
-   "published_at": "2026-11-17T15:42+08:00",
-   "query": "商圈",
-   "url": "https://news.tvbs.com.tw/life/4051890",
    "resolved": true
   }
  ]

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-19T15:40:46+08:00",
+ "fetched_at": "2026-11-19T20:51:21+08:00",
  "articles": {
   "https://www.fclnews.com/235770/": {
    "checked_at": "2026-11-18T01:42+08:00",
@@ -5958,7 +5958,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/travel/thehubnews/20261116/index-79482349836682306009.html": {
-   "checked_at": "2026-11-19T10:40+08:00",
+   "checked_at": "2026-11-19T20:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -6579,9 +6579,20 @@
    "error": "The read operation timed out"
   },
   "https://ccss3172.blogspot.com/2026/11/15.html": {
-   "checked_at": "2026-11-19T10:40+08:00",
-   "status": 429,
-   "error": "HTTP Error 429: Too Many Requests"
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-14T17:39+08:00",
+   "site_name": "Blogger",
+   "description": null,
+   "cities": {
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 279,
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJGoc38EdZxvESdtMOyWpeiDRT_mfl5gqCDIpaVL82DCyPysCHa44GVVLyjYDPbvZPVM3gaTAsHGvkhcJmVwzOiOdatxFE74DaxpDJ1SZdXdi0rD1qgvxmnTvbMLEQQRUZcpSGbvV1Ul7gE5hV79-XrP3pTb1YAv_-yqbSAihaCCU9vvkY-Sp-MykWqIpo/w1200-h630-p-k-no-nu/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_14-11-2026_17384_kpzg.people.com.cn.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-14",
+   "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261113738382": {
    "checked_at": "2026-11-18T15:44+08:00",
@@ -9858,14 +9869,26 @@
    "date_hint_from": "原文時間"
   },
   "https://www.watchmedia01.com/archives/571401": {
-   "checked_at": "2026-11-19T10:40+08:00",
+   "checked_at": "2026-11-19T20:51+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://ccss3172.blogspot.com/2026/11/blog-post_599.html": {
-   "checked_at": "2026-11-19T10:40+08:00",
-   "status": 429,
-   "error": "HTTP Error 429: Too Many Requests"
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T07:35+08:00",
+   "site_name": "Blogger",
+   "description": null,
+   "cities": {
+    "高雄市": 5,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 1011,
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsQO2W-jgSSgeC6uTlnPeOC-GOHyvE4akL0pgIVSzkAk6TWjSMgeHVB4sBeLTHJfWEBeOF2rijI8Rw3ub1qi3V2fhfhPSfdAouaMjRsa1Dt75WMbUUqVIVcrfMaDlrDtSftmiYuzAYoE12LZsZCEAQYmcMf80t-vYlORkGC2gyVd81IQGe_VT0YriVwW1d/w1200-h630-p-k-no-nu/S__4161794.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
   },
   "https://www.taiwanhot.net/news/1154641/%E8%80%81%E8%A1%97%E5%B0%8F%E5%90%83%E5%A4%96%E7%9A%84%E6%85%A2%E9%A3%9F%E6%96%B0%E9%A2%A8%E6%99%AF+%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E5%90%B9%E8%B5%B7%E3%80%8C%E7%BE%A9%E5%BC%8F%E9%A4%90%E6%A1%8C%EF%BC%8B%E6%89%8B%E4%BD%9C%E7%94%9C%E9%BB%9E%E3%80%8D%E8%BF%94%E9%84%89%E5%89%B5%E6%A5%AD%E6%BD%AE": {
    "checked_at": "2026-11-19T10:40+08:00",
@@ -10743,6 +10766,394 @@
    "checked_at": "2026-11-19T15:40+08:00",
    "status": "error",
    "error": "The read operation timed out"
+  },
+  "https://udn.com/news/story/124652/9889662": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T18:28+08:00",
+   "site_name": "聯合新聞網",
+   "description": "選戰倒數，新北市長選情緊繃，藍綠陣營馬不停蹄車掃衝刺。民進黨新北市長候選人蘇巧慧今前往坪林、石碇、深坑展開車隊掃街，蘇暢談觀光願景，她說，「鑽石山城」將串連大文山地區步道、鐵道、礦道、茶道及老街道，打造山城觀光新品牌，讓新北山海景觀與人文特色被更多國內外旅客看見。",
+   "cities": {
+    "新北市": 10,
+    "台北市": 5,
+    "彰化縣": 2,
+    "高雄市": 1
+   },
+   "districts": [
+    "深坑老街商圈（新北市）"
+   ],
+   "body_chars": 1716,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35534603.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ftnn.com.tw/news/597237": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T13:07+08:00",
+   "site_name": "FTNN 新聞網",
+   "description": "記者吳欣穎／綜合報導台北市西門町商圈地標H&M西門旗艦店無預警熄燈，根據《三立新聞網》報導，店員證實今（19）天為最後營業日，而H&M松高店將在20日舉辦「旗艦店升級店裝亮相派對」，象徵「旗艦店」將由松高店接棒。台北市西門町商圈地標H&M西門旗艦店無預警熄燈。（圖／翻攝Goo...",
+   "cities": {
+    "台北市": 5
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1389,
+   "image": "https://i01.ftnn.com.tw/a/26/322/263221307081871286d1d5.png",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.contentplatform.info/articles/583422/%E4%B8%B2%E8%81%AF%E6%8D%B7%E9%81%8B%E5%95%86%E5%9C%88%E8%88%87%E7%B6%A0%E5%9C%B0%E3%80%80%E4%B8%AD%E5%92%8C%E7%AC%AC%E4%BA%8C%E5%9C%8B%E9%81%8B%E4%B8%AD%E5%BF%83%E9%96%8B%E5%B7%A5%E3%80%80%E4%BE%AF/": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T18:30+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "新北市中和第二國民運動中心19日上午由市長侯友宜主持開工祈福典禮，擴充中和地區運動服務量能；他表示，市府積極完善區域運動設施，目前已全市完成20座國民運動中心，未來將持續針對人口及運動需求較高的行政區規劃第二運動中心，提供多元豐富的運動選擇，打造全齡共享的健康城市。 侯友宜指出，新北市是全國興建最…",
+   "cities": {
+    "新北市": 5
+   },
+   "districts": [],
+   "body_chars": 846,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/19183010/111903-1024x682.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.bigmedia.com.tw/article/1795060803096": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T11:54+08:00",
+   "site_name": "鉅聞天下",
+   "description": "好房網News記者王震濂／台北報導\r\n\r\n\t\r\n\r\n\t捷運站周邊向來是業者拓展生意的重要選址考量，除了交通便利、通勤人潮帶來的消費商機外，周邊商圈特色、生活機能及街廓發展，也都會影響店面租金行情。\r\n\r\n\t\r\n\r\n\t永慶房產集團根據近一年的實價登錄租賃資料，統計台北捷運沿線各站點周邊800公尺內的店...",
+   "cities": {
+    "台北市": 12
+   },
+   "districts": [
+    "永康商圈（台北市）",
+    "東區商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1597,
+   "image": "https://p1-news.hfcdn.com/p1-news/MTQyOTI3MzZuZXdz/997a4620f8564d20_1475x1600.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/vote2026/story/124652/9889662": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T18:28+08:00",
+   "site_name": "2026九合一選舉",
+   "description": "選戰倒數，新北市長選情緊繃，藍綠陣營馬不停蹄車掃衝刺。民進黨新北市長候選人蘇巧慧今前往坪林、石碇、深坑展開車隊掃街，蘇暢談觀光願景，她說，「鑽石山城」將串連大文山地區步道、鐵道、礦道、茶道及老街道，打造山城觀光新品牌，讓新北山海景觀與人文特色被更多國內外旅客看見。",
+   "cities": {
+    "新北市": 10
+   },
+   "districts": [
+    "深坑老街商圈（新北市）"
+   ],
+   "body_chars": 656,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=/t3/2026/11/19/35534603.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://ctinews.com/news/items/14a1woj0nk": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T16:09+08:00",
+   "site_name": "中天新聞網",
+   "description": "台北市西門町地標「H&M西門旗艦店」19日宣布租約到期不再續租，房東也將月租金從1200萬元大幅調漲至1700萬元，如今這間亞洲最大旗艦店結束10年陪伴，許多民眾紛紛表達不捨。",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1095,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://travel.udn.com/travel/story/7205/9877738": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T16:00+08:00",
+   "site_name": "旅遊",
+   "description": "udn走跳美食／冰淇淋貓的軟爛生活　捷運松江南京站美食真推薦四平商圈的種福園。喜歡餅類或北方料理的朋友，種福園絕對值得一試！",
+   "cities": {
+    "台北市": 7,
+    "花蓮縣": 6,
+    "嘉義縣": 3
+   },
+   "districts": [],
+   "body_chars": 2912,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35516485.jpg&M=1&s=Y&x=102&y=0&sw=1080&sh=720&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mnews.tw/story/20261119nm017": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T16:36+08:00",
+   "site_name": "鏡新聞",
+   "description": "桃園也吃得到DIGIRO了！壽司郎擴大DIGIRO數位迴轉壽司布局，桃園國際路店將於明天（20日）改裝開幕，成為全台第2家導入DIGIRO的店鋪。歡慶開幕，壽司郎推出滿千送百折價券、限定周邊好禮，並祭出連續7天限定優惠，11月20日至11月26日到桃園國際路店用餐，「極上鮪魚大腹」優惠價每貫40元；「台北中華路店」則於",
+   "cities": {
+    "桃園市": 11,
+    "台北市": 5
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 915,
+   "image": "https://statics.mnews.tw/images/cd7b0a2a-7df7-47c1-a77b-7c2e8cefe705-w1600.png",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5646078": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T12:35+08:00",
+   "site_name": "自由時報電子報",
+   "description": "為推廣全民運動，新北市政府結合民間資源，規劃興建中和第二國民運動中心，今天（19日）舉行開工祈福典禮，除了擴充中和地區運動服務量能，更結合交通、商業、綠地及公共服務機能，為市民打造兼具健康、休閒與生活品質的嶄新城市空間，園區預計2034年完工。新北市長侯友宜表示，目前新北市已有20座國民運動中心，市府持續針對人口及運動",
+   "cities": {
+    "新北市": 12,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 1115,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/19/5646078_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E7%99%BE%E5%84%84%E5%A8%9B%E6%A8%82%E5%9F%8E%E9%9A%B1%E8%BA%AB%E6%98%8C%E5%B9%B3%E5%95%86%E5%9C%88-1%E5%B9%B4%E8%B3%AD%E8%B3%87%E9%80%BE155%E5%84%84-%E9%8F%A1%E6%96%B0%E8%81%9E-091728677.html": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T17:17+08:00",
+   "site_name": "Yahoo News",
+   "description": "警方破獲百億娛樂城！台中刑事局查獲線上娛樂城，抽絲剝繭兵分二路，攻堅博弈機房、主嫌住處，查扣現金120多萬、實體下注機台，這個博弈集團分工縝密，公司企業化管理，主嫌是一名22歲的羅姓男子掛名總監，底下有多名代理商，甚至為了規避金流查緝，安排交收人員，與賭客面交賭金，不過最後22人仍然通通落網。",
+   "cities": {
+    "台南市": 4,
+    "台北市": 2,
+    "桃園市": 2,
+    "台中市": 2,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 3306,
+   "image": "https://media.zenfs.com/en/mnews_tw_258/730c23d9c72cb060cd4fcf7171e07ce8",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261119129608": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T08:00+08:00",
+   "site_name": "蕃新聞",
+   "description": "美食中心／綜合報導提到雲林西螺，多數遊客與在地人的第一印象，往往離不開延平老街的懷舊氛圍、香火鼎盛",
+   "cities": {
+    "雲林縣": 6,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 1179,
+   "image": "https://ni.yam.com/20261119/20260320101408_1-bcf45cd3d0ad9ed5.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8-%E8%AD%B0%E5%93%A1%E7%B1%B2%E8%90%BD%E5%AF%A6%E5%B9%B3%E5%83%B9%E7%9B%B4%E4%BE%9B-123143908.html": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T20:31+08:00",
+   "site_name": "Yahoo News",
+   "description": "記者林雪娟∕台南報導 雖然台糖增產，議員李宗霖指食用油缺貨與飆漲危機仍未解，台南餐飲…",
+   "cities": {
+    "台南市": 15,
+    "台北市": 8,
+    "高雄市": 2
+   },
+   "districts": [],
+   "body_chars": 3190,
+   "image": "https://media.zenfs.com/ko/cdns.com.tw/3781c534ab4b236169a8997fb3f48bd8.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/PGza9y0": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 他發文怨「竹北都沒發展商圈」　網曝「1殘酷真相」",
+   "cities": {},
+   "districts": [],
+   "body_chars": 118,
+   "image": "https://today-obs.line-scdn.net/0h7FXZykH-aGllI3TyDUcXPl11ZBhWRXJgR0ImBkUlNgpMDyZvXxY7CkEnY0VBQyo6RUMhDBQkMFBLFyc-WA/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.st-media.com.tw/news/64416": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {
+    "雲林縣": 2
+   },
+   "districts": [
+    "太平老街商圈（嘉義縣）"
+   ],
+   "body_chars": 468,
+   "image": "https://news.st-media.com.tw/UserFiles/resource/n_a7a693b00c67ce6a0028eda45e569952/file/c7c7684c7eedc7e9622fb6fbe57502ba.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.ctee.com.tw/news/20261119701546-430503": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T15:57+08:00",
+   "site_name": "工商時報",
+   "description": "中聯油脂苯駢芘超標事件爆發逾4個月，油品供應鏈逐步解封。台中市食安處11月2日核准福壽約1,205公噸油品重新上架販售，餐飲業者卻面臨另一波市場變化。 餐飲業者陳先生表示，毒油事件發生後，店內慣用的「美食家」炸油每桶從950元漲至1,200元，漲幅約26％，部分同業甚至一度有錢也買不到貨。如今隨著大...",
+   "cities": {
+    "台中市": 4
+   },
+   "districts": [],
+   "body_chars": 1381,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-19/1024/20261119701549.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://ec.ltn.com.tw/article/breakingnews/5646861": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T20:30+08:00",
+   "site_name": "自由時報電子報",
+   "description": "〔財經頻道／綜合報導〕美國商務部16日宣布進一步收緊中國取得輝達等企業先進AI晶片的管道，衝擊中國科技業者的晶片供應鏈。根據《金融時報》報導，台積電與三星電子（Samsung Electroni",
+   "cities": {},
+   "districts": [],
+   "body_chars": 933,
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/19/php9N98lq.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.cn/zh-cn/entertainment/music/%E6%95%B4%E6%9D%A1%E8%80%81%E8%A1%97%E9%83%BD%E6%98%AF%E8%88%9E%E5%8F%B0-%E9%87%8D%E5%BA%86-%E5%B1%B1%E5%9F%8E%E5%B7%B7%E6%96%B9%E8%A8%80%E6%88%8F%E5%89%A7%E8%8A%82%E9%82%80%E4%BD%A0%E4%B8%8B%E6%9C%88%E6%9D%A5%E8%80%8D/ar-AA2hLhK6": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.worldjournal.com/wj/story/121519/9889036": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T14:14+08:00",
+   "site_name": "世界新聞網",
+   "description": "強烈風雨18日持續侵襲灣區。舊金山市中心當日截至中午，累積雨量就逼近該市108年的單日降雨紀錄，市內多處地區出現海水倒灌、街道內澇、樹木倒塌，舊金山國際機場（SFO）宣布航班停飛，灣區沿海城市出現大面積停電；南灣庫比蒂諾大華99超市也傳出店內淹水情況。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1618,
+   "image": "https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35533577.jpg&M=1&s=Y&x=0&y=0&sw=1179&sh=786&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.sports.yahoo.com/tv/tv-partners/%E5%A4%8F%E8%8E%89%E7%B5%B2%E8%99%90%E7%AB%A5%E6%A1%88%E8%AA%BF%E8%A7%A3%E9%81%B8%E5%89%8D%E5%8F%96%E6%B6%88-%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91%E8%94%A3%E8%90%AC%E5%AE%89%E8%AA%AA%E8%A9%9E%E7%9F%9B%E7%9B%BE%E8%BD%9F%E6%94%BF%E6%B2%BB%E8%80%83%E9%87%8F-102804396.html": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "生活中心／綜合報導<p>台北市夏莉絲幼兒園，今年六月爆出虐童案，原定11月27號、投票前一天，要召開調解會，沒想到法務局，突然以業者身體不適為由，宣布取消，讓受害家長氣得痛哭，北市議員徐立信痛批，根本是政治考量，對此，蔣萬安強調，業者不出席，也會依法提出調解方案，立刻被議員抓到矛盾，質疑何必還延期，根本是故意拖過選舉。",
+   "cities": {
+    "台北市": 4,
+    "新北市": 3,
+    "台中市": 3,
+    "高雄市": 2,
+    "宜蘭縣": 2
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/en/video.asiaftv.com/7614bb5c151dc2e51c8d2e8eca629441.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.cna.com.tw/news/ahel/202611190168.aspx": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T14:23+08:00",
+   "site_name": "中央社 CNA",
+   "description": "今年10月23日颱風過境，文化大學宿舍門框受損未完全修復，導致一名視障生近日遭玻璃殘屑刮傷，在網路引發熱議。校方今天坦承隔離防護不完備，已全面清查宿舍設施的潛在風險。",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 752,
+   "image": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.sohu.com/a/1103710265_122091088": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T17:02+08:00",
+   "site_name": "搜狐网",
+   "description": "🎭整条老街化身为戏剧舞台，重庆的山城巷即将迎来一场独特的方言戏剧盛宴！时间：2026年12月4日至6日地点：重庆·山城巷无论是老墙下的幽默对话，还是巷口转角的热情表演，方言戏剧节将让你体验到重庆独特的语言魅…",
+   "cities": {},
+   "districts": [],
+   "body_chars": 524,
+   "image": "https://q8.itc.cn/q_70/images01/20241119/71c1f56679164ab6b2062ac7186db252.png",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.sohu.com/a/1103718404_121123740": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T17:09+08:00",
+   "site_name": "搜狐网",
+   "description": "老摊位、早酒铺子原样保留，荆州花鼓戏被搬进街巷，1.6公里行进式演出，让\"戏在街上演，人在戏中游\"。荆州监利市城发集团党委副书记、总经理陈勇：一边托稳物质的菜篮子，保障了居民日常的生活所需，一边搭起了精神的菜…",
+   "cities": {},
+   "districts": [],
+   "body_chars": 846,
+   "image": "https://q3.itc.cn/q_70/images03/20261119/2fe7360a1c1b4a3581e9d7468e0c2a38.png",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.wenweipo.com/a/202611/19/AP6afec6e1e4b028ec0194b603.html": {
+   "checked_at": "2026-11-19T20:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "香港文匯報",
+   "description": "盛會期間，深圳實施精準、柔性的安保交通保障舉措，會場周邊秩序井然、運行平穩，僅百米之隔的商圈依舊人氣興旺、煙火不息，充分展現了這座國際化大都市高效精細、以人為本的城市治理能力，收穫外籍遊客高度認可。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 719,
+   "image": "https://dw-media.wenweipo.com/dams/wwpproduct/image/202611/19/6afec42ce4b0f8c5b415f1721.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "圖片路徑"
   }
  }
 }

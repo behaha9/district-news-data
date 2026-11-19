@@ -1,10 +1,18 @@
 {
- "fetched_at": "2026-11-19T15:40:33+08:00",
- "generated_at": "2026-11-19T15:40:33+08:00",
+ "fetched_at": "2026-11-19T20:51:05+08:00",
+ "generated_at": "2026-11-19T20:51:05+08:00",
  "window": "7d",
- "event_count": 68,
- "article_count": 103,
+ "event_count": 69,
+ "article_count": 105,
  "items": [
+  {
+   "url": "https://www.ftvnews.com.tw/news/detail/2026B19W0403",
+   "title": "運動中心不只運動!中和第二運動中心開工 串聯捷運商圈與綠地",
+   "source": "民視新聞網",
+   "published_at": "2026-11-19T14:35:00+08:00",
+   "event_key": "art:58070055c617ba5b07cb546a609a9076a9a37420e977a51e7104396f37d8970c",
+   "primary": true
+  },
   {
    "url": "https://www.taiwanhot.net/news/1154636/%E8%B7%A8%E7%B8%A3%E5%B8%82%E5%82%B3%E6%89%BF%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%AE%B6%E9%84%89%E5%91%B3+%E5%8C%97%E6%8A%95%E5%BE%A9%E8%88%88%E5%B4%97%E5%95%86%E5%9C%88%E5%90%B9%E8%B5%B7%E3%80%8C%E5%B9%B3%E5%83%B9%E9%81%93%E5%9C%B0%E8%B6%8A%E5%BC%8F%E6%96%99%E7%90%86%E3%80%8D%E9%A2%A8%E6%BD%AE",
    "title": "跨縣市傳承二十年家鄉味 北投復興崗商圈吹起「平價道地越式料理」風潮",
@@ -14,24 +22,43 @@
    "primary": true
   },
   {
-   "url": "https://travel.ettoday.net/article/3274693.htm",
+   "url": "https://news.tvbs.com.tw/politics/4052755",
+   "title": "柯文哲豐原徒步闖關!連小華拋「藍寶石珍珠項鍊」拚商圈復甦",
+   "source": "TVBS新聞網",
+   "published_at": "2026-11-19T09:53:00+08:00",
+   "event_key": "art:58f6f47f382b1c85607fad8bbc13e76552d0243198f60dcba726a60abd6bec00",
+   "primary": true
+  },
+  {
+   "url": "https://travel.ettoday.net/amp/3274693",
    "title": "鼎王重返桃園「插旗火車站前商圈」 11/24搶先試營運",
    "source": "ETtoday旅遊雲",
    "published_at": "2026-11-19T09:46:00+08:00",
-   "event_key": "art:e10d179403f6681ae210df20e4f27d99a624f27fe1b4915088dda6c136b069e2",
+   "event_key": "art:0827ce9545cb5c01afe07af58c149bdd0186af29df9d0662d760e0f74b9b438f",
    "primary": true,
    "cities": [
     "桃園市"
    ]
   },
   {
-   "url": "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html",
-   "title": "五中全会精神在基层丨党建引领“微改造” 老街焕新机",
-   "source": "法治网",
-   "published_at": "2026-11-19T00:01:00+08:00",
-   "event_key": "art:ad1ce980c49f729f7f11b0b638fc6e74b43106fc3bd0c0027249d61a4a959a89",
+   "url": "https://travel.ettoday.net/article/3274693.htm",
+   "title": "鼎王重返桃園「插旗火車站前商圈」 11/24搶先試營運",
+   "source": "ETtoday旅遊雲",
+   "published_at": "2026-11-19T09:46:00+08:00",
+   "event_key": "art:0827ce9545cb5c01afe07af58c149bdd0186af29df9d0662d760e0f74b9b438f",
+   "primary": false,
+   "cities": [
+    "桃園市"
+   ]
+  },
+  {
+   "url": "https://udn.com/news/story/124652/9889662",
+   "title": "粉紅車跑開進「鑽石山城」 蘇巧慧:觀光不只停留在老街",
+   "source": "聯合新聞網",
+   "published_at": "2026-11-19T04:28:00+08:00",
+   "event_key": "art:ca4721bca3296613997ab2ef3178bb78e2a2710fd8485f755f8f1b88679250a4",
    "primary": true,
-   "summary": "夜幕降临,湖北省荆州市沙市区五一路霓虹闪烁、游人如织。这条百年老街曾是无序的“三无街区”。 党的二十届五中全会指出,“深化党建引领基层治理和基层政权建设”,“拓宽基层组织和群众依法有序参与基层治理渠道”。五一路的实践,就是把支部建在项目上,把治理服务送到街区一线。当地坚持党建引领,在城市更新项目启动之初即成立临时党支部",
+   "summary": "選戰倒數,新北市長選情緊繃,藍綠陣營馬不停蹄車掃衝刺。民進黨新北市長候選人蘇巧慧今前往坪林、石碇、深坑展開車隊掃街,蘇暢談觀光願景,她說,「鑽石山城」將串連大文山地區步道、鐵道、礦道、茶道及老街道,打造山城觀光新品牌,讓新北山海景觀與人文特色被更多國內外旅客看見。",
    "date_only": true
   },
   {
@@ -39,18 +66,8 @@
    "title": "廣州街騎樓、艋舺公園大變身!「鏈機能+鏈文化」雙軸改造萬華商圈展新貌打造行人友善觀光廊帶- 預約系統",
    "source": "demo.52salon.com",
    "published_at": "2026-11-18T22:44:00+08:00",
-   "event_key": "art:5288ca32426846e427f781ea56e68f8ca6d2b9d45c820510efb3265c898ad984",
+   "event_key": "archive:61d88a80d0327e39",
    "primary": true
-  },
-  {
-   "url": "https://news.tvbs.com.tw/politics/4052755",
-   "title": "柯文哲豐原徒步闖關!連小華拋「藍寶石珍珠項鍊」拚商圈復甦",
-   "source": "TVBS新聞網",
-   "published_at": "2026-11-18T19:53:00+08:00",
-   "event_key": "archive:d120879652247539",
-   "primary": true,
-   "summary": "九合一選戰進入最後倒數,台灣民眾黨創黨主席柯文哲(17)日晚間現身台中豐原,陪同市議員候選人連小華徒步走訪地方商圈,首度在《來接你下班》直播節目挑戰全程步行,從豐原火車站出發,沿著水岸花都一路走進廟東商圈,以八站闖關方式介紹連小華提出的「豐原藍寶石珍珠項鍊計畫」。面對徒步行程,柯文哲笑稱,過去當兵曾接受負重行軍訓練,走",
-   "date_only": true
   },
   {
    "url": "https://www.contentplatform.info/articles/580827/%E5%8F%B0%E5%8C%97%E8%90%AC%E8%8F%AF%E5%95%86%E5%9C%88%E5%BB%8A%E5%B8%B6%E9%9B%99%E8%BB%B8%E4%B8%B2%E8%81%AF-%E5%BB%A3%E5%B7%9E%E8%A1%97%E8%88%87%E8%89%8B%E8%88%BA%E5%85%AC%E5%9C%92%E7%92%B0%E5%A2%83/",
@@ -88,7 +105,7 @@
    "url": "https://today.line.me/tw/v3/article/2D9aWaO?view=topic",
    "title": "葉忠倫角逐竹南鎮長提6規劃 補足大埔機能、活化中港老街 | 自由電子報",
    "source": "LINE TODAY",
-   "published_at": "2026-11-18T11:21:00+08:00",
+   "published_at": "2026-11-18T10:39:00+08:00",
    "event_key": "art:f95c87d9a6fb9a6e8df03c4f9a87ae0edaecd2020bfaf802c84efc873eacfb39",
    "primary": true
   },
@@ -146,7 +163,7 @@
    "title": "西武園遊樂園昭和商店街耶誕活動11/26起 燈飾舞蹈秀、聖誕老人與焚火喫茶",
    "source": "報新聞 Mega News",
    "published_at": "2026-11-17T10:58:00+08:00",
-   "event_key": "art:ccdf34aa20e02a290d80a86872dd49f0488ef5b365165e38e447fbfba11a2ea1",
+   "event_key": "archive:d470b4ed52fc50b9",
    "primary": true
   },
   {
@@ -154,7 +171,7 @@
    "title": "西武園遊樂園昭和商店街耶誕活動11/26起 燈飾舞蹈秀、聖誕老人與焚火喫茶",
    "source": "蕃新聞",
    "published_at": "2026-11-17T10:58:00+08:00",
-   "event_key": "art:ccdf34aa20e02a290d80a86872dd49f0488ef5b365165e38e447fbfba11a2ea1",
+   "event_key": "archive:d470b4ed52fc50b9",
    "primary": false
   },
   {
@@ -294,16 +311,6 @@
    "primary": false
   },
   {
-   "url": "https://money.udn.com/money/story/7843/9877384",
-   "title": "晚下班也能吃好鍋!黑毛屋插旗南京復興商圈 營業至晚間11點",
-   "source": "經濟日報",
-   "published_at": "2026-11-16T10:01:00+08:00",
-   "event_key": "art:347bc0d948b57032f38075b7b3570f64576735ccaa415f46ed0f4e991a24fd19",
-   "primary": true,
-   "summary": "下班晚了,也能好好吃頓鍋!乾杯集團旗下日式鍋物品牌「黑毛屋」再拓新據點,全台第21家門店「慶城店」插旗台北南京復興商圈,即日起開幕迎賓。新店營業至晚間11點,主打四大經典日式鍋物,套餐380元起,上班族即使晚下班,也能從容享用鍋物美味,為商圈增添鍋物新選擇! 黑毛屋第21間店落腳慶城街 營業至晚間11點搶攻宵夜商機 慶",
-   "date_only": true
-  },
-  {
    "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4E021CD9DDDE7E24",
    "title": "「2026高雄聖誕生活節」紫色浪漫點燈!「耶誕小鎮」連續5個週末登場紫色限定美食、手作耳飾與商圈燈海迎接海內外ARMY",
    "source": "高雄市政府全球資訊網",
@@ -369,6 +376,16 @@
    "event_key": "art:9e33ba6b1c9d1b67b2a067230def50366d06188d55c2820fb60c7799f32bc5e2",
    "primary": true,
    "summary": "面對國旅市場疲軟、國際觀光客源不足等挑戰,國民黨提名花蓮縣長候選人游淑貞提出「舊城文化再生、商圈經濟振興」策略,主張整合花蓮市大禹街、舊鐵道文化徒步區及金三角商圈既有建設成果(見圖),從文化深耕、觀光消費、青年創業及交通改善四大面向著手,打造兼具文化特色與商業活力的城市觀光核心,讓過路客變成留宿客,讓觀光人潮真正轉化為",
+   "date_only": true
+  },
+  {
+   "url": "https://money.udn.com/money/story/7843/9877384",
+   "title": "晚下班也能吃好鍋!黑毛屋插旗南京復興商圈 營業至晚間11點",
+   "source": "經濟日報",
+   "published_at": "2026-11-15T20:01:00+08:00",
+   "event_key": "art:347bc0d948b57032f38075b7b3570f64576735ccaa415f46ed0f4e991a24fd19",
+   "primary": true,
+   "summary": "下班晚了,也能好好吃頓鍋!乾杯集團旗下日式鍋物品牌「黑毛屋」再拓新據點,全台第21家門店「慶城店」插旗台北南京復興商圈,即日起開幕迎賓。新店營業至晚間11點,主打四大經典日式鍋物,套餐380元起,上班族即使晚下班,也能從容享用鍋物美味,為商圈增添鍋物新選擇! 黑毛屋第21間店落腳慶城街 營業至晚間11點搶攻宵夜商機 慶",
    "date_only": true
   },
   {
@@ -644,9 +661,12 @@
    "title": "松山商圈迎宜蘭好米!「2026新米祭」13日至15日微風超市免費試吃",
    "source": "記者爆料網",
    "published_at": "2026-11-13T20:55:00+08:00",
-   "event_key": "archive:2eb4487389720989",
-   "primary": true,
+   "event_key": "art:22644b7b9ca5ba38e0c96aceacfd1a6b114ab1b7e1dbcda0b905c0503094db8b",
+   "primary": false,
    "summary": "台北市松山商圈發展協會與宜蘭縣政府攜手推廣「2026新米祭」,將宜蘭嚴選冠軍米及特選優質米引進微風超市。今(13)日起至15日每天中午12時至晚間8時免費試吃,14日預計由代理縣長林茂盛出席推廣記者會。活動讓臺北民眾在逛街採買時就能品嚐一年一期的宜蘭新米,也為宜蘭農民拓展都會銷售通路,讓松山商圈多一項具產地特色的消費體",
+   "cities": [
+    "宜蘭縣"
+   ],
    "date_only": true
   },
   {
@@ -664,7 +684,7 @@
    "title": "中壢人共同回憶!中原商圈30年老店「米老鼠牛排館」11/15熄燈",
    "source": "TVBS新聞網",
    "published_at": "2026-11-13T18:42:00+08:00",
-   "event_key": "archive:d439f9c355345e18",
+   "event_key": "art:ebcec962d274ff2ba8220a6dd5c8bb5ebbcd28f34b41142798863fa3b2b0f009",
    "primary": true,
    "summary": "位於桃園中壢中原大學商圈的「米老鼠牛排館」,開業超過30年,是不少中原校友的共同回憶,沒想到店家近日突然宣布,將於11月15日正式結束營業,坦言老闆年事已高,加上無人接班,經過考量後只能忍痛熄燈。消息一出,讓大批老顧客相當不捨。",
    "date_only": true
@@ -827,7 +847,7 @@
    "title": "黑毛屋插旗南京復興商圈 營業至晚間11點搶攻宵夜商機",
    "source": "中華新聞雲",
    "published_at": "2026-11-13T08:48:00+08:00",
-   "event_key": "archive:4039cc1f03bf7928",
+   "event_key": "art:b38934c0e6f0627b5bdab2bb94b7ea2c21ce08b89e9edde33aac4137ed093191",
    "primary": true,
    "summary": "記者陳建興/台北報導 下班晚了,也能好好吃頓鍋!乾杯集團旗下日式鍋物品牌「黑毛屋」再拓新據點,全台第21家門店「慶城店」插旗台北南京復興商圈,即日起開幕迎賓。新店營業至晚間11點,主打四大經典日式鍋物,套餐380元起,上班族即使晚下班,也能從容享用鍋物美味,為商圈增添鍋物新選擇! 慶城店為黑毛屋全台第21家門店,也是第",
    "date_only": true
@@ -860,9 +880,12 @@
    "title": "松山商圈迎宜蘭好米!「2026新米祭」13日至15日微風超市免費試吃",
    "source": "tcpttw",
    "published_at": "2026-11-13T05:42:00+08:00",
-   "event_key": "archive:2eb4487389720989",
-   "primary": false,
+   "event_key": "art:22644b7b9ca5ba38e0c96aceacfd1a6b114ab1b7e1dbcda0b905c0503094db8b",
+   "primary": true,
    "summary": "台北市松山商圈發展協會與宜蘭縣政府攜手推廣「2026新米祭」,將宜蘭嚴選冠軍米及特選優質米引進微風超市。今(13)日起至15日每天中午12時至晚間8時免費試吃,14日預計由代理縣長林茂盛出席推廣記者會。活動讓臺北民眾在逛街採買時就能品嚐一年一期的宜蘭新米,也為宜蘭農民拓展都會銷售通路,讓松山商圈多一項具產地特色的消費體",
+   "cities": [
+    "宜蘭縣"
+   ],
    "date_only": true
   },
   {
@@ -939,9 +962,12 @@
    "title": "松山商圈迎宜蘭好米!「2026新米祭」13日至15日微風超市免費試吃",
    "source": "yam",
    "published_at": "2026-11-13T00:00:00+08:00",
-   "event_key": "archive:2eb4487389720989",
+   "event_key": "art:22644b7b9ca5ba38e0c96aceacfd1a6b114ab1b7e1dbcda0b905c0503094db8b",
    "primary": false,
    "summary": "台北市松山商圈發展協會與宜蘭縣政府攜手推廣「2026新米祭」,將宜蘭嚴選冠軍米及特選優質米引進微風超市。今(13)日起至15日每天中午12時至晚間8時免費試吃,14日預計由代理縣長林茂盛出席推廣記者會。活動讓臺北民眾在逛街採買時就能品嚐一年一期的宜蘭新米,也為宜蘭農民拓展都會銷售通路,讓松山商圈多一項具產地特色的消費體",
+   "cities": [
+    "宜蘭縣"
+   ],
    "date_only": true
   },
   {
@@ -952,6 +978,16 @@
    "event_key": "art:2fb1c1bb2a9fd0f7f702dec867b8ae2e1824cd8fc58b9faafd38c4f6b186946b",
    "primary": true,
    "summary": "智慧行人友善設施-新光遠百公車專用道地嵌式警示燈及投射式紅綠燈。(圖/台中市政府提供) 台中市政府交通局為行人安全再添科技助力!近來很多到新光三越、大遠百商圈周邊消費、觀光的民眾,發現台灣大道與惠來路口地面也會發出紅綠燈訊號。市府交通局長葉昭甫表示,這套「智慧行人安全警示系統」,結合AI智慧攝影機、地嵌式警示燈及投射式",
+   "date_only": true
+  },
+  {
+   "url": "https://money.udn.com/money/story/5636/9877059",
+   "title": "「從全家便利商店到在地商圈、從日常消費到交通出遊」 華南銀行深耕TWQR全面融入日常生活",
+   "source": "經濟日報",
+   "published_at": "2026-11-13T00:00:00+08:00",
+   "event_key": "art:d923d397a339ba66e1cdf000ccb25ccbf9bcd798e457f390bb012a467f1e4da2",
+   "primary": true,
+   "summary": "華南銀行積極拓展「TWQR(台灣Pay)生態圈」,今年上半年展店與營運成效亮眼。特別從數萬間合作夥伴中,精選出450間具備在地特色、或在社群上擁有高人氣與優質評價的店家,邀請其加入「特色店家」行列。透過華南銀行社群與行銷活動,協助店家獲得強大的宣傳曝光與精準導流。顯見華南銀行深耕在地特色店家的策略,已成功創造龐大綜效。",
    "date_only": true
   },
   {
@@ -1036,16 +1072,6 @@
    "published_at": "2026-11-13T00:00:00+08:00",
    "event_key": "archive:b9c0e23a27fa6edf",
    "primary": true
-  },
-  {
-   "url": "https://money.udn.com/money/story/5636/9877059",
-   "title": "「從全家便利商店到在地商圈、從日常消費到交通出遊」 華南銀行深耕TWQR全面融入日常生活",
-   "source": "經濟日報",
-   "published_at": "2026-11-13T00:00:00+08:00",
-   "event_key": "archive:1af06bbc3601633a",
-   "primary": true,
-   "summary": "華南銀行積極拓展「TWQR(台灣Pay)生態圈」,今年上半年展店與營運成效亮眼。特別從數萬間合作夥伴中,精選出450間具備在地特色、或在社群上擁有高人氣與優質評價的店家,邀請其加入「特色店家」行列。透過華南銀行社群與行銷活動,協助店家獲得強大的宣傳曝光與精準導流。顯見華南銀行深耕在地特色店家的策略,已成功創造龐大綜效。",
-   "date_only": true
   }
  ]
 }
