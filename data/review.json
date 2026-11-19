@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-19T07:18:55+08:00",
+ "updated_at": "2026-11-19T12:17:24+08:00",
  "reviewed": {
   "https://art.ltn.com.tw/article/breakingnews/5638955": {
    "decision": "kept",
@@ -536,6 +536,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-16"
+  },
+  "https://news.tvbs.com.tw/politics/4052755": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-19"
   },
   "https://news.tvbs.com.tw/videos/d1o9D3wtqU4": {
    "decision": "hidden",

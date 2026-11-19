@@ -1,7 +1,27 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T07:18:55+08:00",
+ "generated_at": "2026-11-19T12:17:24+08:00",
  "items": [
+  {
+   "id": "20261119-dingwang-taoyuan-station",
+   "title": "鼎王麻辣鍋重返桃園，插旗火車站前商圈11月24日試營運",
+   "summary": "報導指鼎王麻辣鍋將在桃園火車站前商圈開設新店，11月24日起搶先試營運。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-19T09:46:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "ETtoday旅遊雲",
+     "url": "https://travel.ettoday.net/article/3274693.htm",
+     "published_at": "2026-11-19T09:46:00+08:00"
+    }
+   ],
+   "image": "https://cdn2.ettoday.net/images/8700/e8700306.jpg"
+  },
   {
    "id": "20261118-chaoyuan-oldstreet-paint",
    "title": "朝元宮老街舉辦馬路彩繪親子創意比拚",
@@ -581,6 +601,37 @@
     }
    ],
    "image": "https://images.ctee.com.tw/newsphoto/2026-11-15/1024/20261115700625.jpg"
+  },
+  {
+   "id": "20261115-kaohsiung-bts-guide",
+   "title": "高雄市府推「紫愛你應援指南」，BTS演唱會前串聯商圈店家與數位券",
+   "summary": "報導指高雄市府針對BTS高雄演唱會推出應援指南，結合隨播活動、店家串聯與百元數位券，帶動中央公園周邊商圈消費。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-15T16:06:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [
+    {
+     "name": "中央公園商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261115929572",
+     "published_at": "2026-11-15T16:06:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261115193513",
+     "published_at": "2026-11-15T16:01:00+08:00"
+    }
+   ],
+   "admin_note": "中央公園商圈為115年補助名單，演唱會期間店家串聯活動可留意作為執行佐證或成效參考。",
+   "image": "https://ni.yam.com/20261115/1-63-4f7184bfd7a7debc.webp"
   },
   {
    "id": "20261110-yunlin-huwei-dounan-award",
@@ -2357,31 +2408,6 @@
     }
    ],
    "image": "https://images.chinatimes.com/newsphoto/2026-11-05/656/20261105004025.jpg"
-  },
-  {
-   "id": "20261105-nanchang-furniture-fair",
-   "title": "南昌家具商圈11月7、8日舉辦「南昌家聚節」",
-   "summary": "臺北市南昌家具商圈將於11月7日至8日舉辦南昌家聚節，為期兩天。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-05T11:23:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "南昌家具街商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "南昌家具街商圈為115年補助名單，活動已對外公告，可作為執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261105849112",
-     "published_at": "2026-11-05T11:23:00+08:00"
-    }
-   ]
   }
  ],
  "discussions": []
