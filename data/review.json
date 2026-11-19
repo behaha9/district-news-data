@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-19T16:50:30+08:00",
+ "updated_at": "2026-11-19T20:52:20+08:00",
  "reviewed": {
   "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html": {
    "decision": "hidden",
@@ -762,6 +762,11 @@
    "reason": "選舉",
    "at": "2026-11-15"
   },
+  "https://udn.com/news/story/124652/9889662": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-19"
+  },
   "https://udn.com/news/story/6898/9854836": {
    "decision": "hidden",
    "reason": "非商圈",
@@ -971,6 +976,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-10"
+  },
+  "https://www.ftvnews.com.tw/news/detail/2026B19W0403": {
+   "decision": "hidden",
+   "reason": "非商圈",
+   "at": "2026-11-19"
   },
   "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=5E9C939DC9E7D3B5": {
    "decision": "kept",

@@ -117,6 +117,101 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-19T20:52:20+08:00",
+   "added": 1,
+   "merged": 2,
+   "items": [
+    {
+     "id": "20261119-hm-ximen-closing",
+     "title": "西門町H&M旗艦店19日熄燈，報導指租約到期不續租",
+     "summary": "報導指西門町H&M西門旗艦店19日為最後營業日，中天新聞網提到房東租金由1200萬元調漲至1700萬元，松高店將接手。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-19T16:09:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "西門町商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "西門町商圈為115年補助名單，地標店家撤出可能影響人潮，可留意商圈營運與KPI變化。",
+     "sources": [
+      {
+       "outlet": "中天新聞網",
+       "url": "https://ctinews.com/news/items/14a1woj0nk",
+       "published_at": "2026-11-19T16:09:00+08:00"
+      },
+      {
+       "outlet": "FTNN 新聞網",
+       "url": "https://www.ftnn.com.tw/news/597237",
+       "published_at": "2026-11-19T13:07:00+08:00"
+      }
+     ],
+     "image": "https://i01.ftnn.com.tw/a/26/322/263221307081871286d1d5.png"
+    },
+    {
+     "id": "20261119-dingwang-taoyuan-station",
+     "title": "鼎王麻辣鍋重返桃園，插旗火車站前商圈11月24日試營運",
+     "summary": "報導指鼎王麻辣鍋將在桃園火車站前商圈開設新店，11月24日起搶先試營運。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-19T09:46:00+08:00",
+     "cities": [
+      "桃園市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "ETtoday旅遊雲",
+       "url": "https://travel.ettoday.net/article/3274693.htm",
+       "published_at": "2026-11-19T09:46:00+08:00"
+      },
+      {
+       "outlet": "ETtoday旅遊雲",
+       "url": "https://travel.ettoday.net/amp/3274693",
+       "published_at": "2026-11-19T09:45:00+08:00"
+      }
+     ],
+     "image": "https://cdn2.ettoday.net/images/8700/e8700306.jpg"
+    },
+    {
+     "id": "20261118-douliu-lantern-taiping",
+     "title": "斗六燈海節11/21登場，太平老街換新裝",
+     "summary": "標題指2026斗六燈海節11月21日登場，太平老街換新裝，卡司陣容齊聚。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-19T00:00:00+08:00",
+     "cities": [
+      "雲林縣"
+     ],
+     "districts": [
+      {
+       "name": "太平老街",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "TDN台灣生活新聞",
+       "url": "https://news.st-media.com.tw/news/64416",
+       "published_at": "2026-11-19T00:00:00+08:00"
+      },
+      {
+       "outlet": "中華新聞雲",
+       "url": "https://www.cdns.com.tw/articles/1492401",
+       "published_at": "2026-11-18T16:16:00+08:00"
+      }
+     ],
+     "image": "https://news.st-media.com.tw/UserFiles/resource/n_a7a693b00c67ce6a0028eda45e569952/file/c7c7684c7eedc7e9622fb6fbe57502ba.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }

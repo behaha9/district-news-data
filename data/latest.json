@@ -1,7 +1,38 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T16:50:15+08:00",
+ "generated_at": "2026-11-19T20:52:20+08:00",
  "items": [
+  {
+   "id": "20261119-hm-ximen-closing",
+   "title": "西門町H&M旗艦店19日熄燈，報導指租約到期不續租",
+   "summary": "報導指西門町H&M西門旗艦店19日為最後營業日，中天新聞網提到房東租金由1200萬元調漲至1700萬元，松高店將接手。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-19T16:09:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "西門町商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "西門町商圈為115年補助名單，地標店家撤出可能影響人潮，可留意商圈營運與KPI變化。",
+   "sources": [
+    {
+     "outlet": "中天新聞網",
+     "url": "https://ctinews.com/news/items/14a1woj0nk",
+     "published_at": "2026-11-19T16:09:00+08:00"
+    },
+    {
+     "outlet": "FTNN 新聞網",
+     "url": "https://www.ftnn.com.tw/news/597237",
+     "published_at": "2026-11-19T13:07:00+08:00"
+    }
+   ],
+   "image": "https://i01.ftnn.com.tw/a/26/322/263221307081871286d1d5.png"
+  },
   {
    "id": "20261119-xiluo-italian-startup",
    "title": "西螺延平老街周邊吹起義式餐桌與手作甜點的返鄉創業風",
@@ -58,9 +89,44 @@
      "outlet": "ETtoday旅遊雲",
      "url": "https://travel.ettoday.net/article/3274693.htm",
      "published_at": "2026-11-19T09:46:00+08:00"
+    },
+    {
+     "outlet": "ETtoday旅遊雲",
+     "url": "https://travel.ettoday.net/amp/3274693",
+     "published_at": "2026-11-19T09:45:00+08:00"
     }
    ],
    "image": "https://cdn2.ettoday.net/images/8700/e8700306.jpg"
+  },
+  {
+   "id": "20261118-douliu-lantern-taiping",
+   "title": "斗六燈海節11/21登場，太平老街換新裝",
+   "summary": "標題指2026斗六燈海節11月21日登場，太平老街換新裝，卡司陣容齊聚。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-19T00:00:00+08:00",
+   "cities": [
+    "雲林縣"
+   ],
+   "districts": [
+    {
+     "name": "太平老街",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "TDN台灣生活新聞",
+     "url": "https://news.st-media.com.tw/news/64416",
+     "published_at": "2026-11-19T00:00:00+08:00"
+    },
+    {
+     "outlet": "中華新聞雲",
+     "url": "https://www.cdns.com.tw/articles/1492401",
+     "published_at": "2026-11-18T16:16:00+08:00"
+    }
+   ],
+   "image": "https://news.st-media.com.tw/UserFiles/resource/n_a7a693b00c67ce6a0028eda45e569952/file/c7c7684c7eedc7e9622fb6fbe57502ba.jpg"
   },
   {
    "id": "20261118-chaoyuan-oldstreet-paint",
@@ -84,31 +150,6 @@
     }
    ],
    "image": "https://www.cts.com.tw/data/news/photo/cts/202611/202611183102529.jpg"
-  },
-  {
-   "id": "20261118-douliu-lantern-taiping",
-   "title": "斗六燈海節11/21登場，太平老街換新裝",
-   "summary": "標題指2026斗六燈海節11月21日登場，太平老街換新裝，卡司陣容齊聚。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-18T16:16:00+08:00",
-   "cities": [
-    "雲林縣"
-   ],
-   "districts": [
-    {
-     "name": "太平老街",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "中華新聞雲",
-     "url": "https://www.cdns.com.tw/articles/1492401",
-     "published_at": "2026-11-18T16:16:00+08:00"
-    }
-   ],
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/18161615/57662-1024x699.jpg"
   },
   {
    "id": "20261118-tainan-shennong-light",
@@ -2358,71 +2399,6 @@
     }
    ],
    "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1aa31-958d-7198-b6a3-a6ae637393b7.jpg?t=16x9&wp=l,t&c=0,0,1920,1080&w=1200&h=675"
-  },
-  {
-   "id": "20261105-chiayi-erton",
-   "title": "嘉義二通商圈老店轉型成觀光亮點，議員促建遮雨遮陽徒步街",
-   "summary": "議員質詢指二通商圈老店轉型、特色店家進駐帶動人潮，建議市府參考日韓商店街模式，評估設置遮雨遮陽徒步街並改善商圈環境。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-05T19:11:00+08:00",
-   "cities": [
-    "嘉義市"
-   ],
-   "districts": [
-    {
-     "name": "二通商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "經濟日報",
-     "url": "https://money.udn.com/money/story/122328/9859177",
-     "published_at": "2026-11-05T19:11:00+08:00"
-    },
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7326/9859177",
-     "published_at": "2026-11-05T12:43:00+08:00"
-    },
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/vote2026/story/7326/9859177",
-     "published_at": "2026-11-05T12:43:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35487956.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
-  },
-  {
-   "id": "20261105-momo-xinyi-1111",
-   "title": "momo攜手台北網紅節，11月7至8日在信義新天地辦雙11品牌嘉年華",
-   "summary": "momo購物網與台北網紅節11月7日至8日在信義新天地香堤大道舉辦雙11品牌嘉年華，集結逾20家品牌與多位網紅。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-05T17:38:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "信義商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "經濟日報",
-     "url": "https://money.udn.com/money/story/10871/9860042",
-     "published_at": "2026-11-05T17:38:00+08:00"
-    },
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7241/9860042",
-     "published_at": "2026-11-05T17:37:00+08:00"
-    }
-   ],
-   "image": "https://money.udn.com/static/img/moneyudn.jpg"
   }
  ],
  "discussions": []
