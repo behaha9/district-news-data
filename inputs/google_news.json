@@ -1,21 +1,27 @@
 {
- "fetched_at": "2026-11-20T01:28:01+08:00",
+ "fetched_at": "2026-11-20T07:17:30+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 98,
-  "kept": 41,
-  "resolved": 41,
+  "raw": 101,
+  "kept": 39,
+  "resolved": 39,
   "items": 39,
   "resolve_this_run": {
    "online": 3
-  },
-  "dropped_old": [
-   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
-   "市政新聞－信義中繼市場正式動工謝國樑盼兼顧攤商營運與商圈發展打造市場改建新里程碑（原文日期 2026-10-15）"
-  ]
+  }
  },
  "items": [
+  {
+   "title": "討論牆 | 老街小吃外的慢食新風景 雲林西螺吹起「義式餐桌＋手作甜點」返鄉創業潮",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTOC0xd2Zyb2xpOVJ1V0xzOFBENGtUSmdWV1p1NkhtalJkQ2VUcWNhRTZlVVVYUWJveXQ2b0xzMzFuQUE2ME5OXzRFZnVvVzhBLUZOaEhnd2IwdG5uY21INm9NX1c?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-20T03:55+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/YapowBP",
+   "resolved": true
+  },
   {
    "title": "東區商圈回來了！大巨蛋3年吸445億 「3站」店面年交易95件「單坪站穩4千」",
    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwLU5rRTY1bVBBY3B3Rmh1ZUVOZE5MV0ktdmcyTGFxWnRqdVdUMGNYWDZkem1TVFUtN2xERElNWFBFcW01b1haTjVpYjJBYjU3?oc=5",
@@ -37,13 +43,13 @@
    "resolved": true
   },
   {
-   "title": "斗六燈海節11/21登場 燈飾升級.藝人卡司嗨翻老街 | 台灣生活新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBudk1VUmVuWHRFckVIdXZiQVBjSWRLRi00dS0zQmFTYnE5bTZ6LWR4SGIwenJSLTNjSUZSRUxsTy1oSGtLYWFLV2loZnI0LTV4cmNQR3VR?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-19T19:11+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/article/nXp7mxJ",
+   "title": "2027台北跨年音樂晚會與三大多元舞台全攻略！信義商圈跨夜音浪101煙火迎新指南｜喚月部落格",
+   "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWl9BSVZyT254bC1NLUhyeTdBX0JselRSMkE3N1B5NW0zRmplZmMydTNaTjlPcC1wNWlpaW1YeU5vV05KeUlESUg0Y0FVWHJ0NGY0eFE0bV9xYkFEWTVldEVtNUtGYl9aYTAtODlkVHVtdDZ0dXZIOW4tV0k3RGdBdU9wLTgwTXBabzJTRFM2VQ?oc=5",
+   "source": "moonvoke.com",
+   "source_site": "https://moonvoke.com",
+   "published_at": "2026-11-19T19:57+08:00",
+   "query": "商圈",
+   "url": "https://moonvoke.com/posts/taipei-new-years-eve-countdown-stages-fireworks-guide-2027/",
    "resolved": true
   },
   {
@@ -217,16 +223,6 @@
    "resolved": true
   },
   {
-   "title": "廣州街騎樓、艋舺公園大變身！「鏈機能+鏈文化」雙軸改造萬華商圈展新貌打造行人友善觀光廊帶- 預約系統",
-   "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIcmE2c2t6U244Q2RTeGJvSFU4dWIxRXlxNWFkZFVPX2k0YXpsWUY3RnN3ZGpYQURYOXZqbWU0RjA2YW5EeEVib2xlekhBMUl3em52Y3lmWVYwYUV3ME1BOVN2OFdWdw?oc=5",
-   "source": "demo.52salon.com",
-   "source_site": "https://demo.52salon.com",
-   "published_at": "2026-11-18T22:44+08:00",
-   "query": "商圈",
-   "url": "https://demo.52salon.com/uninews_view.php?new_sn=150115",
-   "resolved": true
-  },
-  {
    "title": "老街溪整治再爭取13億元 邱奕勝：中壢老城區轉型須超前規劃",
    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vSW1QSDBCRERFS0YyaVBoZnBPSVlyQ0ctdDhaV2N3a1ptOGRERmctTWVidkV3UFRobDg4TVdYcnEzd1cwcnRoY2Y1b3ZEUzJrOWJUNkVoUQ?oc=5",
    "source": "觀傳媒",
@@ -244,6 +240,16 @@
    "published_at": "2026-11-18T18:00+08:00",
    "query": "商圈",
    "url": "https://www.wowlavie.com/article/260027645",
+   "resolved": true
+  },
+  {
+   "title": "斗六燈海節將於11月21〜22日在圓環及太平老街登場",
+   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16dnVQbjVUbDhSb1JxNWVjU2hOT2NfaTdwb0gzSjlURTV4bkU4eGt0NmJJNFFaRUlmWkRaY2JEVnh1S3FhbmE3X1g3M3hGemVWVHJiQm8ydVR6WGdiZk1J?oc=5",
+   "source": "www.tynews.com.tw",
+   "source_site": "https://www.tynews.com.tw",
+   "published_at": "2026-11-18T17:59+08:00",
+   "query": "老街",
+   "url": "https://www.tynews.com.tw/index/Video/Show/id/4983",
    "resolved": true
   },
   {
@@ -394,16 +400,6 @@
    "published_at": "2026-11-18T08:12+08:00",
    "query": "商圈",
    "url": "https://today.line.me/tw/v3/posts/list/article/Kw7pOq0",
-   "resolved": true
-  },
-  {
-   "title": "一鍵下單…華強北商圈 「深圳周期」醒目",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13S1otbW1ra21rTUZsSnpXYXozcTBkWnRTeGw4WDBNR1AzT3dEWlJDWEV6NXU0ZGtOTWo1ZFJUWWxDWGhpOGVBMDhuWnNwSndF?oc=5",
-   "source": "udn",
-   "source_site": "https://udn.com",
-   "published_at": "2026-11-18T05:33+08:00",
-   "query": "商圈",
-   "url": "https://udn.com/news/story/7333/9885242",
    "resolved": true
   }
  ]
