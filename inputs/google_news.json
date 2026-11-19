@@ -1,20 +1,51 @@
 {
- "fetched_at": "2026-11-19T20:51:10+08:00",
+ "fetched_at": "2026-11-20T01:28:01+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 99,
-  "kept": 37,
-  "resolved": 37,
-  "items": 36,
+  "raw": 98,
+  "kept": 41,
+  "resolved": 41,
+  "items": 39,
   "resolve_this_run": {
-   "online": 9
+   "online": 3
   },
   "dropped_old": [
+   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
    "市政新聞－信義中繼市場正式動工謝國樑盼兼顧攤商營運與商圈發展打造市場改建新里程碑（原文日期 2026-10-15）"
   ]
  },
  "items": [
+  {
+   "title": "東區商圈回來了！大巨蛋3年吸445億 「3站」店面年交易95件「單坪站穩4千」",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwLU5rRTY1bVBBY3B3Rmh1ZUVOZE5MV0ktdmcyTGFxWnRqdVdUMGNYWDZkem1TVFUtN2xERElNWFBFcW01b1haTjVpYjJBYjU3?oc=5",
+   "source": "自由時報",
+   "source_site": "https://estate.ltn.com.tw",
+   "published_at": "2026-11-19T22:39+08:00",
+   "query": "商圈",
+   "url": "https://estate.ltn.com.tw/article/29397",
+   "resolved": true
+  },
+  {
+   "title": "粉紅車跑開進「鑽石山城」蘇巧慧：觀光不只停留在老街",
+   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RWW53cmxRd1V1NjNoVGhrSkE3WllUYWFST2RJNFBHNzVEaEEwSlBsWGtZYUM4MnF3QXZXcUtncG1ZVElXdVhMNUFuemZOX0NrQzVSVkNVQ05FNGh0dlZCUdIBYEFVX3lxTE5RWW53cmxRd1V1NjNoVGhrSkE3WllUYWFST2RJNFBHNzVEaEEwSlBsWGtZYUM4MnF3QXZXcUtncG1ZVElXdVhMNUFuemZOX0NrQzVSVkNVQ05FNGh0dlZCUQ?oc=5",
+   "source": "經濟日報",
+   "source_site": "https://money.udn.com",
+   "published_at": "2026-11-19T22:16+08:00",
+   "query": "老街",
+   "url": "https://money.udn.com/money/amp/story/12622/9889662",
+   "resolved": true
+  },
+  {
+   "title": "斗六燈海節11/21登場 燈飾升級.藝人卡司嗨翻老街 | 台灣生活新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBudk1VUmVuWHRFckVIdXZiQVBjSWRLRi00dS0zQmFTYnE5bTZ6LWR4SGIwenJSLTNjSUZSRUxsTy1oSGtLYWFLV2loZnI0LTV4cmNQR3VR?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-19T19:11+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/article/nXp7mxJ",
+   "resolved": true
+  },
   {
    "title": "串聯捷運商圈與綠地 中和第二國運中心開工 侯友宜：提供市民多元運動環境",
    "google_url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOcmZiRm4tSEhuY21SMjBTT1N2cDFPNk1fMnVOb1c1YzJtYmlJVDk5ekE2bEdHSGZmT0txWFlILW5QZmsxQWpDRk90UWZVa0VUWnkxRmtfbUV0Yms3azl0UXUyZWVpNURKNXQySVhCWFlwZ19RbDB5cFpTMmpQYnI5VlZQblpuMUpVbWY2X2ZkNkZuQ09hczc0cmNxekFqZUpJb19vbXRPSWFqUlU1aWRraUJlMTlBMURLaVlENXA5TUVKUHVHN1dXVTc2bGxTYjNtdENZNlFzaFhGN0ZiQWZQUS1VS00zRF92NHZWckdObG5hcm8wZDkxVEQtMWVOcVZoc002cDQ2Y09IaURJNG1PUnF1ZVlicU5OdEM4bFdOd0VsZVVSa2ZzLXlXRUJQdFRJLWl3cXRqZGF0SlF5eDBmelk5X3hLSXhTRm9KdVZ5eEFVaUhObUluNmJuaXpHUGpMSnBzT0ZWQQ?oc=5",
@@ -166,6 +197,16 @@
    "resolved": true
   },
   {
+   "title": "討論牆 | 活絡田中老街成為田中新亮點 田中鎮第一公有零售市場重建動土",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fRHg1WWZhNGkwczdVaVZuY0oxMDhMSnYyU091c09sN05UQmZOWHQ2SVYxajFIaFF4UEhmVXNKV2xyUkdQY0JQeURfMElsOElzVkoyTllMVXc2dDZwYWhHaHFleU8?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-18T22:55+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/gzpek78",
+   "resolved": true
+  },
+  {
    "title": "柯志恩分身掃市場商圈 老公洪德成帶起一波「洪流」",
    "google_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQUm16bVkxMnE1U0JGcHVodUszcUFJTlQ0UlhEN1hlaWh2dGRKMWsyZE0xWjBzODdvRGV3LWJ0ZmttNExpQTJGZ0tlNElHc29KNUNVVVBGN2xhUzFXekdxN1A1NUJfaWFGbGRJMllLV1A4SVZiUENqUmI0TWNSU2dBQWxnT3ZXOXFqdEtLWXNmOTZBV3RreFpFVy1SSjNYRm9WdnpDX1R3clJyaFU3S2t4UmlHR2NBWmU5MGZJQnNJOUxydEJOeXBrVlJoOTdvMHBudUl0NjhuX2NIQ0pwUXVZTG5Fc2dsUjk2LUUwMGdOYUVoN2l4N0tOd2pELXlSRGxHZkFPT050bF91YnVRemRxTFhHb3Y0eENfSFBRX0ZVM3phZFplUC1aVE43RWxjV3BiUi1tVkh6dVpyQjYxOENEOVI1M3lFSU0?oc=5",
    "source": "Yahoo新聞",
@@ -173,6 +214,16 @@
    "published_at": "2026-11-18T22:53+08:00",
    "query": "商圈",
    "url": "https://tw.news.yahoo.com/%E6%9F%AF%E5%BF%97%E6%81%A9%E5%88%86%E8%BA%AB%E6%8E%83%E5%B8%82%E5%A0%B4%E5%95%86%E5%9C%88-%E8%80%81%E5%85%AC%E6%B4%AA%E5%BE%B7%E6%88%90%E5%B8%B6%E8%B5%B7-%E6%B3%A2-%E6%B4%AA%E6%B5%81-145300179.html",
+   "resolved": true
+  },
+  {
+   "title": "廣州街騎樓、艋舺公園大變身！「鏈機能+鏈文化」雙軸改造萬華商圈展新貌打造行人友善觀光廊帶- 預約系統",
+   "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIcmE2c2t6U244Q2RTeGJvSFU4dWIxRXlxNWFkZFVPX2k0YXpsWUY3RnN3ZGpYQURYOXZqbWU0RjA2YW5EeEVib2xlekhBMUl3em52Y3lmWVYwYUV3ME1BOVN2OFdWdw?oc=5",
+   "source": "demo.52salon.com",
+   "source_site": "https://demo.52salon.com",
+   "published_at": "2026-11-18T22:44+08:00",
+   "query": "商圈",
+   "url": "https://demo.52salon.com/uninews_view.php?new_sn=150115",
    "resolved": true
   },
   {
@@ -348,31 +399,11 @@
   {
    "title": "一鍵下單…華強北商圈 「深圳周期」醒目",
    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13S1otbW1ra21rTUZsSnpXYXozcTBkWnRTeGw4WDBNR1AzT3dEWlJDWEV6NXU0ZGtOTWo1ZFJUWWxDWGhpOGVBMDhuWnNwSndF?oc=5",
-   "source": "UDN",
+   "source": "udn",
    "source_site": "https://udn.com",
    "published_at": "2026-11-18T05:33+08:00",
    "query": "商圈",
    "url": "https://udn.com/news/story/7333/9885242",
-   "resolved": true
-  },
-  {
-   "title": "他發文怨「竹北都沒發展商圈」 網曝「1殘酷真相」",
-   "google_url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxObkEzSkRiWnlUcC1YZG1fWGVyaW9HN3JwMnY1UElqQnZoM0lhUGZDZ0loV1JRWG14clpDUnBCRC1fdEZNTEJMUUg0QmtsbDExNUpXeVc1bDZzb0RuUXF0RmMwRF80Y1NNWnMzODJNZmVkeEtSaWpIOEQ1MTQwVjJhZGxyWkhQOU9EZXpmUHZLMDJoM0w4T3Z1bmEzRGJuTmRvQjBMVjg3dnAwQjJIN0h1azBZcC1wUFI2bTA0emhkUEVzSnFUaFZlbFBxVmN1UFJpZGpoVUREaWlwN1cyNmM4dzYxbGFBSEgwUERrMVRIM0RocDNEMWcwc0JEeC1KcUVxNVpmRlVRbjU2a0hBcFpkektlNlJlWmk1aDdleEtyUFNXQmNOeHVzN1VKSnlJVFAy?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-17T22:22+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E4%BB%96%E7%99%BC%E6%96%87%E6%80%A8-%E7%AB%B9%E5%8C%97%E9%83%BD%E6%B2%92%E7%99%BC%E5%B1%95%E5%95%86%E5%9C%88-%E7%B6%B2%E6%9B%9D-1%E6%AE%98%E9%85%B7%E7%9C%9F%E7%9B%B8-142220908.html",
-   "resolved": true
-  },
-  {
-   "title": "新山，不只是新加坡旁邊 走一趟老街發現歷史與福音更發現神的恩典",
-   "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yN0dFbzc2Q21VcUFnWG1teXYxX0c2ZkFSZXYxTDJhT0VscC1pQVpLbUc5MUt2bVBHUjJkRFdzdFpwSFIzMEVCQjlFc2lXMERpaWtIQjQwOG16TlUwWGZmUjBrel82elFJYlB3c2s2ZHZCaWFUUDBTbg?oc=5",
-   "source": "基督教論壇報",
-   "source_site": "https://ct.org.tw",
-   "published_at": "2026-11-17T21:33+08:00",
-   "query": "老街",
-   "url": "https://ct.org.tw/html/news/3-3.php?cat=26&article=1404807&fontsize=2",
    "resolved": true
   }
  ]
