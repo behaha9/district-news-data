@@ -1,18 +1,14 @@
 {
- "fetched_at": "2026-11-20T20:51:34+08:00",
+ "fetched_at": "2026-11-21T01:03:38+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 94,
-  "kept": 30,
-  "resolved": 26,
-  "items": 28,
+  "raw": 98,
+  "kept": 28,
+  "resolved": 27,
+  "items": 26,
   "resolve_this_run": {
-   "online": 4,
-   "error": 1,
-   "examples": [
-    "error:429"
-   ]
+   "online": 6
   },
   "dropped_old": [
    "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬一圖看懂禁止區| 生活（原文日期 2026-08-01）",
@@ -47,8 +43,8 @@
    "source_site": "https://tw.news.yahoo.com",
    "published_at": "2026-11-20T14:28+08:00",
    "query": "商圈",
-   "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQQUxnY0lNb0o5NEowOEViNGlYUVZxZk1GMW5hdWdHb29GWWtUNjFuMUhUU1hqWVQyM1JfMW1VU0ZONDdnYmtsVXpyZzdpV21zQ1JrVzBNbk05SHZhVVVNRm8xamZUMUJlSmdhZnFjYU9VN0JwNVNXSHR3b1NROWRIRjdEQ1RqbmlSenNISmFQMzNjTUQ0REZKYjdMNmlnYm5fX0xYQ3Exb2hPQWtXNlpnNGJYWkV6VDRaRjB1TWRycnA5aDFIRks4elJ2WTUyNmVoSm9SZFlVMTR4SzZGLW5HVjJqbG85MjdMd1ozMFMyQXN4V0JCSTNaOWM1ZlQ4X3BZbnRvdktBUFJSb1pOclE0MlhRYkNEZEVGcjVqS2pnTlBrN0RLLXhVaUd3X00xOTJYQU0wWEo0VVVqZnRsbW43VkNraXpCLU0yZWx1X0dqcTRRbWt2Z1lxYVYzZmM?oc=5",
-   "resolved": false
+   "url": "https://tw.news.yahoo.com/%E5%90%B3%E6%97%AD%E6%99%BA%E6%8E%83%E8%A1%97%E5%90%8C%E6%AD%A5%E7%9B%A4%E9%BB%9E%E5%B8%82%E5%A0%B4%E5%8D%B8%E8%B2%A8%E5%8B%95%E7%B7%9A-%E7%9B%BC%E4%B8%B2%E8%81%AF%E5%91%A8%E9%82%8A%E5%95%86%E5%9C%88-062817588.html",
+   "resolved": true
   },
   {
    "title": "桃園花彩節浪漫綻放 賞繽紛花海玩大溪！落羽松秘境、老街美食、日式宿舍一日漫遊",
@@ -57,17 +53,7 @@
    "source_site": "https://tw.news.yahoo.com",
    "published_at": "2026-11-20T13:16+08:00",
    "query": "老街",
-   "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxNa19CQlJucHhtVndjNTM4ZTVpSExpdmt4eFowRko5NXRxd3BaMXhEY2tUZGVLdkhYOUZCaTltQnFZVk5rNWs0LXV3bjUtaWpQZlNUUWdjb3JlTjM4YjRuZENKRk9ENG9KaHNpN1RQRVF0UHB5bGFua0xxa1NhN2pZOWVJaFlvR0hMQ1NtbHllT2xXd3VKd2RsY2hNWWFyaWJUMEdwbUdyczVJSEllTk5SNXdZUXVNeTcyTFhTUjRiMkVRVmFLWEJ6QnlPYnZ3OUdsQUJaX3ZRMWxsa3VuRkdlMlN2VmM1YUgzZ1lNb2lIdFBSMDRHb3M1cDF0SmU3TnA2X09nX3h0OXAzaXJEV0ljak1YTk5vaUhibHNUV3I1TUhHdlBUWVpHYXJJcGRJRkhuZ2RnekowTEdXbk9ibXZ4Tk5nNFRRdjE0SjFST3EyQlZSVjlnUUlUYlBCVGdtbXQ1QVhaa2pQb1BRWWppV3VuMzZtX1dkeUpqQWNTLTNnUEhjbHRzM3drUk42THU5LXFOUUFMUHhhcE5iUXNiVXl4NXllZGt4WWlUamdOWjFqWlhIZGhwTzJsVWg1Mk85XzUydmhxRXBrcElyUzhzeVhGUTJsSFNMY2JnMW53OWlibzMyTmRiTTVLcEFsMWUtanNuVFVjWm1mUmluQjRxV25RWXQxalF4UHlzNnJPcnhjLTE?oc=5",
-   "resolved": false
-  },
-  {
-   "title": "9米高寶可夢耶誕樹現身嘉義 百貨前商圈添節慶色彩",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qSUJTMXg2SDRBVjVrNFlJeEJWa3FhZ3RxZU5jWm9wY2lBdGdxQlZWQllVQkRoQ2drSXNFWjgtX0hFdV9KdkktaWZ5eVZJOWdIeXZkMENEbUZhQThPN3hRZTYtLXnSAWpBVV95cUxNUlY0YS1MTVFHREU1MVhnZllsazU5N2xiNEgwamdWZDNHdGwzNDRUZTRwd1NNclpqc1hMNmhBa1lyRm1NaDBEaV9PY1FzZ191MVB4LW44QlpIV2VuQ01YeHBLTm11LXZqaVN3?oc=5",
-   "source": "自由時報",
-   "source_site": "https://news.ltn.com.tw",
-   "published_at": "2026-11-20T12:21+08:00",
-   "query": "商圈",
-   "url": "https://news.ltn.com.tw/news/life/breakingnews/5647352",
+   "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E8%8A%B1%E5%BD%A9%E7%AF%80%E6%B5%AA%E6%BC%AB%E7%B6%BB%E6%94%BE-%E8%B3%9E%E7%B9%BD%E7%B4%9B%E8%8A%B1%E6%B5%B7%E7%8E%A9%E5%A4%A7%E6%BA%AA%EF%BC%81%E8%90%BD%E7%BE%BD%E6%9D%BE%E7%A7%98%E5%A2%83%E3%80%81%E8%80%81%E8%A1%97%E7%BE%8E%E9%A3%9F%E3%80%81%E6%97%A5%E5%BC%8F%E5%AE%BF%E8%88%8D%E4%B8%80%E6%97%A5%E6%BC%AB%E9%81%8A-051142025.html",
    "resolved": true
   },
   {
@@ -82,12 +68,22 @@
   },
   {
    "title": "當年亞洲最大旗艦店！H&M西門町十年租約到期熄燈 戰線轉移信義商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWJ2VTVVN2pnSVFkektiZTMwRmlXRWxfZ3NRYkpxNlVBYTJ4VGxwdHpuak9rdTBBX3gxVUQzcHpkaWp2Qk1vME1KclAyZXFEYUpIQ0Z1SkNSUjZzMlNDbnlfTmlzb3dfRnlnbHpfM1laeWFZSS1lWHJab2FQV2FXc9IBYEFVX3lxTE5qM2VOcEhfN1RON3I1am9xNVNWTHpQQ2VDclI2bUhVR0tJV2xGa3dld1hEY0dlbDJHVXc3V0RQUE9mU1EtSVFWaFFLSV9tMFNsQVBlVDlRMEZXNGVNckJLUA?oc=5",
-   "source": "udnSTYLE",
-   "source_site": "https://style.udn.com",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1cFlKLVFvaWZzRjF6RzlsXzUzN1NRN2Q4V0g0TzZKV1kwSnh6dWp1UVZQdWZSR19aMklUdjZQVl9EYlZlY1NHTDMzU3VudlpD0gFWQVVfeXFMTXhMblZ0WWNkRGlFRzZqeDJvTlo0SWJXNk5McndLRUpNTTliWXlxUFBjTTNJRGdnYkZCRDUxZGNDb3BNXzNNc1BxU2dTeU55aHRXZk8zc0E?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
    "published_at": "2026-11-20T09:55+08:00",
    "query": "商圈",
-   "url": "https://style.udn.com/style/story/11350/9890620?from=udn-catenewnews_ch2002",
+   "url": "https://udn.com/news/story/7270/9890620",
+   "resolved": true
+  },
+  {
+   "title": "神農商圈拚擴區 張勝德提四項會勘結論",
+   "google_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOT2xYNnhjZlYtWGc5YmZKV1dEQzZTbjFoV3E3T3BxUHRUQVB5UnA4dkplb2dDMHJYT19sYjlFQUFNaG05ODZGRDhFTlg3SzB2NWZYR2tiUUFHNVBhd2gwTmctQ0NSUDd5T0tnOEhWeFRGUmZ3UVFTLUdQVE1heHlxRWFRNjVJRDZFRXlUbjg4aWVFY0xQeGpHdmVSUVVLV0l1aWVqcE13MG10S190TFlBSlcwaHJ6TldSN1ZpTEdlcENFS3hZcXlXSjdYSHMxUkVFTWZrOTZ2cDJzb041d0tHNm44YjlSNWlZR3ZIZndTQ0kya3duTnZFTFNIblhiMXVweWVlR1JfM1U0YlJLOXJ4cDZyWkVxV3ZJbnoxczhSWQ?oc=5",
+   "source": "宜蘭新聞網",
+   "source_site": "https://www.travelnews.tw",
+   "published_at": "2026-11-20T09:39+08:00",
+   "query": "商圈",
+   "url": "https://www.travelnews.tw/news/%E7%A5%9E%E8%BE%B2%E5%95%86%E5%9C%88%E6%8B%9A%E6%93%B4%E5%8D%80%E3%80%80%E5%BC%B5%E5%8B%9D%E5%BE%B7%E6%8F%90%E5%9B%9B%E9%A0%85%E6%9C%83%E5%8B%98%E7%B5%90%E8%AB%96/",
    "resolved": true
   },
   {
@@ -237,17 +233,7 @@
    "source_site": "https://www.travel.taipei",
    "published_at": "2026-11-19T10:18+08:00",
    "query": "商圈",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rWlpWTUZkNkctSTg1MHhqSDF4RTdNTF8yWW1kcmpsbHVrYno1ckZqRjl3SFp2d2ZBWWxra3VkU0xqU2RsNDNmOXhBY25HWjEteTdUX3NoS3NnNEl5S1hn?oc=5",
-   "resolved": false
-  },
-  {
-   "title": "跨縣市傳承二十年家鄉味 北投復興崗商圈吹起「平價道地越式料理」風潮",
-   "google_url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOa2M2WDlIMXdmNTZVVXhhNkI3cWx3TGwzTnoxSDdOcmJfZW85WkZZcFgtcUNvbWxKUW1oS0wzblZTS0FsZms5QjRSMWN5Y2tvbUI5OV9xd2ZVMWJTNXAxdFFGSjkwRy1iREMxZnltMDRDc3dyclh0MUVJaHBCdlBUY0F0MkJXeUluNDFUU0xBSlZpQTU3WTNYeHMwNnAtZWUxa2JzajNSSnNvaDZ3RHdTT1E4Vk1ieG5pblZEVUM2S2VBWmh5d2JiSHJ5NjlyTWQzU2ZwSXBRcVdMUmw5YmNNS0NRY0lNX2xHS0FVcVN3Tmpmd2hnVDNQUUFGTEFOaE1xWnVFLUZGdlFmRElOV2RuSUJBSU1nRE5nMTRKeTgtQ0RTc2tCZkhsek5zaFE3VEpOMktTTmpqUHVlX0ZRNGtwR18waDE4YWRERWpvOTd0R3FQOFQydVNqQ2VQZExRcWlIam9SZzhxRERYSzZWWmsweG9VRmFxUTlqRzc4SHRvQTZFZUtwUFIyZXVHR0c4dFdhNWlJTVNXVUdmampaVUhhWHE1cHM1eFB2OUhYNzFCd0JkMG40ZGo4cGNNak51MFpPa2Jwb216cVdIWnhGMld1MmhB?oc=5",
-   "source": "台灣好新聞",
-   "source_site": "https://www.taiwanhot.net",
-   "published_at": "2026-11-19T10:04+08:00",
-   "query": "商圈",
-   "url": "https://www.taiwanhot.net/news/1154636/%E8%B7%A8%E7%B8%A3%E5%B8%82%E5%82%B3%E6%89%BF%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%AE%B6%E9%84%89%E5%91%B3+%E5%8C%97%E6%8A%95%E5%BE%A9%E8%88%88%E5%B4%97%E5%95%86%E5%9C%88%E5%90%B9%E8%B5%B7%E3%80%8C%E5%B9%B3%E5%83%B9%E9%81%93%E5%9C%B0%E8%B6%8A%E5%BC%8F%E6%96%99%E7%90%86%E3%80%8D%E9%A2%A8%E6%BD%AE",
+   "url": "https://www.travel.taipei/zh-tw/news/details/68386",
    "resolved": true
   },
   {
@@ -262,12 +248,22 @@
   },
   {
    "title": "鼎王重返桃園「插旗火車站前商圈」　11/24搶先試營運",
-   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SWFpXci1ydllydlc3Y1BmRk81cDZkNDhwdE4xS0ZGaWtaY3pLRnlNV0pyQUFoTlkyZ196aEFTUHpqRzBSZTBtSVVuRUs4dUnSAU9BVV95cUxOUlhaV3ItcnZZcnZXN2NQZkZPNXA2ZDQ4cHROMUtGRmlrWmN6S0Z5TVdKckFBaE5ZMmdfemhBU1B6akcwUmUwbUlVbkVLOHVJ?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XQzlGa0ptZTRFVnhVRVhEYzluUVpVSDI5NlkzamJDcjZ0blk4QTBrSWlyZWZkY0RhRVRDdHFCWFRhY3kxQUFGbnJBZ2NzYjZaMFlISFkzRVlTQdIBT0FVX3lxTE5SWFpXci1ydllydlc3Y1BmRk81cDZkNDhwdE4xS0ZGaWtaY3pLRnlNV0pyQUFoTlkyZ196aEFTUHpqRzBSZTBtSVVuRUs4dUk?oc=5",
    "source": "ETtoday旅遊雲",
    "source_site": "https://travel.ettoday.net",
    "published_at": "2026-11-19T09:46+08:00",
    "query": "商圈",
-   "url": "https://travel.ettoday.net/amp/3274693",
+   "url": "https://travel.ettoday.net/article/3274693.htm",
+   "resolved": true
+  },
+  {
+   "title": "跨縣市傳承二十年家鄉味 北投復興崗商圈吹起「平價道地越式料理」風潮",
+   "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wcFZDN0t0MDdRdXdEaVBISGZEbjBjYXBGUkRhVndQZTVLS3dGTGdOTDFpdEJGbDcxcGFOUzk0S0IxRWN2aGJnazZnMXBVN0UwOWJBOGlRSUFyNVQ4d2kxMVFWUzF4NHhvVlY3ZldRbw?oc=5",
+   "source": "理財周刊",
+   "source_site": "https://www.moneyweekly.com.tw",
+   "published_at": "2026-11-19T09:40+08:00",
+   "query": "商圈",
+   "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/263276",
    "resolved": true
   },
   {
@@ -279,26 +275,6 @@
    "query": "老街",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14UVh6UkVCNDdMR0hLSS1yQTl5STFhNV93Qmc1U2NXYXBoT1QwWWp2SnYtVEM0S0tfQkpudTAtbXVCTEtOaUJqazFqSGxMZw?oc=5",
    "resolved": false
-  },
-  {
-   "title": "討論牆 | 活絡田中老街成為田中新亮點 田中鎮第一公有零售市場重建動土",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fRHg1WWZhNGkwczdVaVZuY0oxMDhMSnYyU091c09sN05UQmZOWHQ2SVYxajFIaFF4UEhmVXNKV2xyUkdQY0JQeURfMElsOElzVkoyTllMVXc2dDZwYWhHaHFleU8?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-18T22:55+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/gzpek78",
-   "resolved": true
-  },
-  {
-   "title": "柯志恩分身掃市場商圈 老公洪德成帶起一波「洪流」",
-   "google_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQUm16bVkxMnE1U0JGcHVodUszcUFJTlQ0UlhEN1hlaWh2dGRKMWsyZE0xWjBzODdvRGV3LWJ0ZmttNExpQTJGZ0tlNElHc29KNUNVVVBGN2xhUzFXekdxN1A1NUJfaWFGbGRJMllLV1A4SVZiUENqUmI0TWNSU2dBQWxnT3ZXOXFqdEtLWXNmOTZBV3RreFpFVy1SSjNYRm9WdnpDX1R3clJyaFU3S2t4UmlHR2NBWmU5MGZJQnNJOUxydEJOeXBrVlJoOTdvMHBudUl0NjhuX2NIQ0pwUXVZTG5Fc2dsUjk2LUUwMGdOYUVoN2l4N0tOd2pELXlSRGxHZkFPT050bF91YnVRemRxTFhHb3Y0eENfSFBRX0ZVM3phZFplUC1aVE43RWxjV3BiUi1tVkh6dVpyQjYxOENEOVI1M3lFSU0?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-18T22:53+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E6%9F%AF%E5%BF%97%E6%81%A9%E5%88%86%E8%BA%AB%E6%8E%83%E5%B8%82%E5%A0%B4%E5%95%86%E5%9C%88-%E8%80%81%E5%85%AC%E6%B4%AA%E5%BE%B7%E6%88%90%E5%B8%B6%E8%B5%B7-%E6%B3%A2-%E6%B4%AA%E6%B5%81-145300179.html",
-   "resolved": true
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T20:51:45+08:00",
+ "fetched_at": "2026-11-21T01:03:49+08:00",
  "articles": {
   "https://www.fclnews.com/235770/": {
    "checked_at": "2026-11-18T01:42+08:00",
@@ -1178,7 +1178,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/travel/thehubnews/20261116/index-79482349836682306009.html": {
-   "checked_at": "2026-11-20T15:31+08:00",
+   "checked_at": "2026-11-21T01:03+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -8708,14 +8708,23 @@
    "date_hint_from": "原文時間"
   },
   "https://www.ftvnews.com.tw/news/detail/2026B13W0472": {
-   "checked_at": "2026-11-20T15:31+08:00",
+   "checked_at": "2026-11-21T01:03+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.msn.com/zh-tw/%E6%8A%80%E8%A1%93/iot/%E4%B8%AD%E5%B8%827%E6%9C%9F%E5%95%86%E5%9C%88%E8%A8%AD%E6%99%BA%E6%85%A7%E8%AD%A6%E7%A4%BA%E7%B3%BB%E7%B5%B1-%E6%8F%90%E9%86%92%E9%A7%95%E9%A7%9B%E4%BA%BA%E6%8F%90%E9%AB%98%E8%AD%A6%E8%A6%BA/ar-AA2gWtBC": {
-   "checked_at": "2026-11-20T15:31+08:00",
-   "status": 404,
-   "error": "HTTP Error 404: Not Found"
+   "checked_at": "2026-11-21T01:03+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   },
   "https://money.udn.com/money/story/5637/9854832": {
    "checked_at": "2026-11-20T15:31+08:00",
@@ -9440,9 +9449,25 @@
    "date_hint_from": "圖片路徑"
   },
   "https://www.limedia.tw/comm/75372/": {
-   "checked_at": "2026-11-20T15:31+08:00",
-   "status": "error",
-   "error": "The read operation timed out"
+   "checked_at": "2026-11-21T01:03+08:00",
+   "status": 200,
+   "published_at": "2026-11-09T12:25+08:00",
+   "site_name": "立報傳媒 | 教育．傳播．科技．影視文化新聞",
+   "description": "商業署完成４處商圈與市場示範改造，以照明指引、用餐空間及步行設計，改善採買與街區遊逛體驗。 逛百年市場容易迷路",
+   "cities": {
+    "屏東縣": 3,
+    "台中市": 2,
+    "宜蘭縣": 2,
+    "台北市": 1
+   },
+   "districts": [
+    "南方澳商圈（宜蘭縣）"
+   ],
+   "body_chars": 1066,
+   "image": "https://www.limedia.tw/wp-content/uploads/2026/11/20261109.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-09",
+   "date_hint_from": "原文時間"
   },
   "https://n.yam.com/Article/20261114882149": {
    "checked_at": "2026-11-20T20:51+08:00",
@@ -10427,6 +10452,160 @@
    "image": "https://ni.yam.com/20261111/tainan-8846350-1-6c9470e9c9ce67ef.webp",
    "image_checked": true,
    "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.travelnews.tw/news/%E7%A5%9E%E8%BE%B2%E5%95%86%E5%9C%88%E6%8B%9A%E6%93%B4%E5%8D%80%E3%80%80%E5%BC%B5%E5%8B%9D%E5%BE%B7%E6%8F%90%E5%9B%9B%E9%A0%85%E6%9C%83%E5%8B%98%E7%B5%90%E8%AB%96/": {
+   "checked_at": "2026-11-21T01:03+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://woman.udn.com/woman/story/123162/9891794": {
+   "checked_at": "2026-11-21T01:03+08:00",
+   "status": 200,
+   "published_at": "2026-11-20T17:08+08:00",
+   "site_name": "udn 女子漾",
+   "description": "Meat Up 覓晌中山店位於台北中山商圈，以酒紅色牆面、紅色皮革座椅及木質元素打造復古風格空間。餐點提供多樣選擇，包括售價395元的辣味明太子花枝義大利麵，以及345元的黑松露野菇奶油燉飯，另有甜點與飲品，適合安排正餐或午後聚會。",
+   "cities": {
+    "台北市": 7,
+    "桃園市": 1,
+    "雲林縣": 1
+   },
+   "districts": [
+    "中山商圈（台北市）"
+   ],
+   "body_chars": 4000,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/20/35537830.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-20",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.travel.taipei/zh-tw/news/details/68386": {
+   "checked_at": "2026-11-21T01:03+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T00:00+08:00",
+   "site_name": "臺北旅遊網",
+   "description": "秋意漸濃、氣溫轉涼，陽明山上的山藥進入最肥美的季節，一年一度的山藥季即將開始，由臺北市政府輔導，士林區農會與財團法人七星農業發展基金會共同主辦的『2026士林陽明山山藥季-山藥秋收，都會慢活』將於11月21日至11月22日於臺北假日建國花市農業櫥窗正式登場！士林陽明山山藥深受廣大民眾喜愛，擁有得天獨厚的天然環境，土壤富",
+   "cities": {
+    "台北市": 11
+   },
+   "districts": [],
+   "body_chars": 1267,
+   "image": "https://www.travel.taipei/content/images/articles/585109/1024x768_articles-image-o1qwmuwbmk2dmnaxajc6mw.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E8%8A%B1%E5%BD%A9%E7%AF%80%E6%B5%AA%E6%BC%AB%E7%B6%BB%E6%94%BE-%E8%B3%9E%E7%B9%BD%E7%B4%9B%E8%8A%B1%E6%B5%B7%E7%8E%A9%E5%A4%A7%E6%BA%AA%EF%BC%81%E8%90%BD%E7%BE%BD%E6%9D%BE%E7%A7%98%E5%A2%83%E3%80%81%E8%80%81%E8%A1%97%E7%BE%8E%E9%A3%9F%E3%80%81%E6%97%A5%E5%BC%8F%E5%AE%BF%E8%88%8D%E4%B8%80%E6%97%A5%E6%BC%AB%E9%81%8A-051142025.html": {
+   "checked_at": "2026-11-21T01:03+08:00",
+   "status": 200,
+   "published_at": "2026-11-20T13:11+08:00",
+   "site_name": "Yahoo News",
+   "description": "隨著微涼秋風吹過大漢溪畔，桃園大溪悄悄換上了一年中色彩最繽紛、氣氛最浪漫的秋冬盛裝！2026桃園花彩節現正於大溪浪漫綻放，除了能走進一望無際的幾何花毯拍照、聽樂團開唱，周邊更匯集了轉紅變色的水岸落羽松秘境、香氣四溢的老街古早味美食、好逛好買的園藝花市，以及充滿昭和風情的日式宿舍群。",
+   "cities": {
+    "桃園市": 29,
+    "台北市": 6,
+    "台南市": 2,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/910738119-1491550546181006-8563253940496387187-n_0961.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-20",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.travelnews.tw/news/%e7%a5%9e%e8%be%b2%e5%95%86%e5%9c%88%e6%8b%9a%e6%93%b4%e5%8d%80%e3%80%80%e5%bc%b5%e5%8b%9d%e5%be%b7%e6%8f%90%e5%9b%9b%e9%a0%85%e6%9c%83%e5%8b%98%e7%b5%90%e8%ab%96/": {
+   "checked_at": "2026-11-21T01:03+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://tw.news.yahoo.com/%E5%90%B3%E6%97%AD%E6%99%BA%E6%8E%83%E8%A1%97%E5%90%8C%E6%AD%A5%E7%9B%A4%E9%BB%9E%E5%B8%82%E5%A0%B4%E5%8D%B8%E8%B2%A8%E5%8B%95%E7%B7%9A-%E7%9B%BC%E4%B8%B2%E8%81%AF%E5%91%A8%E9%82%8A%E5%95%86%E5%9C%88-062817588.html": {
+   "checked_at": "2026-11-21T01:03+08:00",
+   "status": 200,
+   "published_at": "2026-11-20T14:28+08:00",
+   "site_name": "Yahoo News",
+   "description": "CNEWS匯流新聞網記者李映儒／台北報導 竹北市長候選人吳旭智今（20）日與新竹縣長候選人徐欣瑩服務團隊、新竹縣議員候選人杜文中，前往市場掃街，向攤商及採買民眾逐一問候、懇託支持，受到鄉親熱烈回應。吳旭智感謝鄉親的肯定，並表示未來將從市場基礎設施、採買交通、攤商經營及特色行銷著手，讓市場的進步落實在攤商與消費者每天的感",
+   "cities": {
+    "台北市": 15,
+    "新竹縣": 15,
+    "高雄市": 5,
+    "桃園市": 3,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/cnews.com.tw/8c5793682f306ef0612e72bf16ff5a8b.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-20",
+   "date_hint_from": "原文時間"
+  },
+  "https://style.udn.com/style/story/11350/9890620": {
+   "checked_at": "2026-11-21T01:03+08:00",
+   "status": 200,
+   "published_at": "2026-11-20T09:55+08:00",
+   "site_name": "udnSTYLE",
+   "description": "台北西門町商圈指標性地標H&M西門旗艦店，因十年租約期滿不再續約，於11月19日低調結束營業，H&M台灣今早也在官方社群證實發文：「在西門町待了十年，先跟老朋友說聲謝啦」，接下來台灣旗艦店重任將由信義商圈的「台北微風松高店」接棒。",
+   "cities": {
+    "台北市": 5
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 622,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/20/35535705.png&M=1&s=Y&x=0&y=0&sw=1279&sh=852&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-20",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ctee.com.tw/news/20261120701232-430503": {
+   "checked_at": "2026-11-21T01:03+08:00",
+   "status": 200,
+   "published_at": "2026-11-20T14:17+08:00",
+   "site_name": "時報資訊",
+   "description": "【時報記者郭鴻慧台北報導】捷運站周邊向來是業者拓展生意的重要選址考量，除了交通便利、通勤人潮帶來的消費商機外，周邊商圈特色、生活機能及街廓發展，也都會影響店面租金行情。 永慶房產集團根據近一年的實價登錄租賃資料，統計台北捷運沿線各站點周邊800公尺內的店面租賃交易和租金行情。其中，東門站以平均單坪租...",
+   "cities": {
+    "台北市": 8
+   },
+   "districts": [
+    "永康商圈（台北市）",
+    "東區商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 970,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-17/Miscellaneous/h20261117639304738604925847.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-20",
+   "date_hint_from": "原文時間"
+  },
+  "https://cn.nhandan.vn/article-post163145.html": {
+   "checked_at": "2026-11-21T01:03+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.moneyweekly.com.tw/ArticleData/Info/Article/263276": {
+   "checked_at": "2026-11-21T01:03+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T00:00+08:00",
+   "site_name": "理財周刊",
+   "description": "圖說:多樣化的越式涼拌菜色生春捲（$90），是北投上班族夏天消暑的平價小吃優質選擇（圖/Medick Marketing Ltd.",
+   "cities": {
+    "台北市": 4,
+    "苗栗縣": 1
+   },
+   "districts": [],
+   "body_chars": 1145,
+   "image": "https://www.moneyweekly.com.tw/Photo/Article/20260318110524_1_m2.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
    "date_hint_from": "原文時間"
   }
  }
