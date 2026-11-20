@@ -1,7 +1,43 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T07:18:28+08:00",
+ "generated_at": "2026-11-20T12:16:58+08:00",
  "items": [
+  {
+   "id": "20261119-hm-ximen-closing",
+   "title": "西門町H&M旗艦店19日熄燈，報導指租約到期不續租",
+   "summary": "報導指西門町H&M西門旗艦店19日為最後營業日，中天新聞網提到房東租金由1200萬元調漲至1700萬元，松高店將接手。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-20T09:55:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "西門町商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "西門町商圈為115年補助名單，地標店家撤出可能影響人潮，可留意商圈營運與KPI變化。",
+   "sources": [
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7270/9890620",
+     "published_at": "2026-11-20T09:55:00+08:00"
+    },
+    {
+     "outlet": "中天新聞網",
+     "url": "https://ctinews.com/news/items/14a1woj0nk",
+     "published_at": "2026-11-19T16:09:00+08:00"
+    },
+    {
+     "outlet": "FTNN 新聞網",
+     "url": "https://www.ftnn.com.tw/news/597237",
+     "published_at": "2026-11-19T13:07:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/20/35535705.png&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600"
+  },
   {
    "id": "20261118-douliu-lantern-taiping",
    "title": "斗六燈海節11/21登場，太平老街換新裝",
@@ -38,37 +74,6 @@
    "image": "https://today-obs.line-scdn.net/0hbAjtvHvjPW5XDSH3nOtCOW9bMR9kaydndTglDnELagp6IXM_PD5uDSYNMUJzO304d2t6DyZZZAx-PS5taA/w1200"
   },
   {
-   "id": "20261119-hm-ximen-closing",
-   "title": "西門町H&M旗艦店19日熄燈，報導指租約到期不續租",
-   "summary": "報導指西門町H&M西門旗艦店19日為最後營業日，中天新聞網提到房東租金由1200萬元調漲至1700萬元，松高店將接手。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-19T16:09:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "西門町商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "西門町商圈為115年補助名單，地標店家撤出可能影響人潮，可留意商圈營運與KPI變化。",
-   "sources": [
-    {
-     "outlet": "中天新聞網",
-     "url": "https://ctinews.com/news/items/14a1woj0nk",
-     "published_at": "2026-11-19T16:09:00+08:00"
-    },
-    {
-     "outlet": "FTNN 新聞網",
-     "url": "https://www.ftnn.com.tw/news/597237",
-     "published_at": "2026-11-19T13:07:00+08:00"
-    }
-   ],
-   "image": "https://i01.ftnn.com.tw/a/26/322/263221307081871286d1d5.png"
-  },
-  {
    "id": "20261119-xiluo-italian-startup",
    "title": "西螺延平老街周邊吹起義式餐桌與手作甜點的返鄉創業風",
    "summary": "報導指雲林西螺除延平老街的傳統小吃外，近年有返鄉青年開設義式餐廳與手作甜點店，帶來街區新風貌。",
@@ -84,6 +89,11 @@
      "outlet": "台灣好新聞",
      "url": "https://www.taiwanhot.net/news/1154641/%E8%80%81%E8%A1%97%E5%B0%8F%E5%90%83%E5%A4%96%E7%9A%84%E6%85%A2%E9%A3%9F%E6%96%B0%E9%A2%A8%E6%99%AF+%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E5%90%B9%E8%B5%B7%E3%80%8C%E7%BE%A9%E5%BC%8F%E9%A4%90%E6%A1%8C%EF%BC%8B%E6%89%8B%E4%BD%9C%E7%94%9C%E9%BB%9E%E3%80%8D%E8%BF%94%E9%84%89%E5%89%B5%E6%A5%AD%E6%BD%AE",
      "published_at": "2026-11-19T10:30:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261119129608",
+     "published_at": "2026-11-19T08:00:00+08:00"
     }
    ],
    "image": "https://www.taiwanhot.net/cache/1319578/lgnw/medias-20261119-6afe5f3341b9f.jpg"
@@ -2278,102 +2288,6 @@
     }
    ],
    "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/06123955/taichung-cover-261106043953107.jpeg"
-  },
-  {
-   "id": "20261106-longshan-dumpling",
-   "title": "龍山商圈蒸餃店遭爆外帶酸辣湯疑有異物，北市衛生局回應",
-   "summary": "自由時報報導，民眾指在龍山商圈一家蒸餃店外帶酸辣湯發現異物，北市衛生局已回應處理。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-06T11:43:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "龍山商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5631352",
-     "published_at": "2026-11-06T11:43:00+08:00"
-    }
-   ],
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/5631352_1_1.jpg"
-  },
-  {
-   "id": "20261106-guijinbang-zhongshan",
-   "title": "拉麵名店「鬼金棒中山別館」撤出中山商圈，仲介說明店面條件",
-   "summary": "ETtoday報導，位於中山北路一段的拉麵名店中山別館悄悄撤出，在地房仲就店面狀況提出看法。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-06T11:20:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "中山商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "ETtoday房產雲",
-     "url": "https://house.ettoday.net/news/3267224",
-     "published_at": "2026-11-06T11:20:00+08:00"
-    }
-   ],
-   "image": "https://cdn2.ettoday.net/images/9002/e9002441.jpg"
-  },
-  {
-   "id": "20261102-east-district-vacancy",
-   "title": "臺北市商業處：大巨蛋帶動東區商機，空店率降至8.85%，振興計畫持續推動",
-   "summary": "北市商業處表示大巨蛋串聯帶動忠孝東區商機，東區商圈空店率降至8.85%，並持續推動軟硬體升級的振興計畫。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-06T10:26:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "東區商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "鉅聞天下",
-     "url": "https://www.bigmedia.com.tw/article/1793934006057",
-     "published_at": "2026-11-06T10:26:00+08:00"
-    },
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/paper/1777014",
-     "published_at": "2026-11-03T05:30:00+08:00"
-    },
-    {
-     "outlet": "PChome Online新聞",
-     "url": "https://news.pchome.com.tw/public/taipei/20261102/index-79361600023397126016.html",
-     "published_at": "2026-11-02T18:40:00+08:00"
-    },
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5626673",
-     "published_at": "2026-11-02T15:47:00+08:00"
-    },
-    {
-     "outlet": "臺北市商業處",
-     "url": "https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&s=09F9BEB89B559353",
-     "published_at": "2026-11-02T00:00:00+08:00"
-    }
-   ],
-   "admin_note": "東區商圈為115年補助名單，空店率與振興計畫進度可留意計畫成效與KPI對照。",
-   "image": "https://p1-news.hfcdn.com/p1-news/MTQwNDIzMzhuZXdz/573beae0bd7c4f38_1600x1200.jpg"
   }
  ],
  "discussions": []
