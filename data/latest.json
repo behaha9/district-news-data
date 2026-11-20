@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T20:53:08+08:00",
+ "generated_at": "2026-11-21T07:17:58+08:00",
  "items": [
   {
    "id": "20261120-chiayi-chuiyang-pokemon-tree",
@@ -62,6 +62,30 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/20/35535705.png&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600"
+  },
+  {
+   "id": "20261120-yilan-shennong-expand",
+   "title": "宜蘭神農商圈謀擴大範圍，張勝德提出四項會勘結論",
+   "summary": "宜蘭新聞網報導神農商圈爭取擴大範圍，張勝德就會勘提出四項結論（內文未能讀取，依標題整理）。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-20T09:39:00+08:00",
+   "cities": [
+    "宜蘭縣"
+   ],
+   "districts": [
+    {
+     "name": "神農商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "宜蘭新聞網",
+     "url": "https://www.travelnews.tw/news/%E7%A5%9E%E8%BE%B2%E5%95%86%E5%9C%88%E6%8B%9A%E6%93%B4%E5%8D%80%E3%80%80%E5%BC%B5%E5%8B%9D%E5%BE%B7%E6%8F%90%E5%9B%9B%E9%A0%85%E6%9C%83%E5%8B%98%E7%B5%90%E8%AB%96/",
+     "published_at": "2026-11-20T09:39:00+08:00"
+    }
+   ]
   },
   {
    "id": "20261118-douliu-lantern-taiping",
@@ -139,6 +163,11 @@
      "outlet": "台灣好新聞",
      "url": "https://www.taiwanhot.net/news/1154636/%E8%B7%A8%E7%B8%A3%E5%B8%82%E5%82%B3%E6%89%BF%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%AE%B6%E9%84%89%E5%91%B3+%E5%8C%97%E6%8A%95%E5%BE%A9%E8%88%88%E5%B4%97%E5%95%86%E5%9C%88%E5%90%B9%E8%B5%B7%E3%80%8C%E5%B9%B3%E5%83%B9%E9%81%93%E5%9C%B0%E8%B6%8A%E5%BC%8F%E6%96%99%E7%90%86%E3%80%8D%E9%A2%A8%E6%BD%AE",
      "published_at": "2026-11-19T10:03:00+08:00"
+    },
+    {
+     "outlet": "理財周刊",
+     "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/263276",
+     "published_at": "2026-11-19T00:00:00+08:00"
     }
    ],
    "image": "https://www.taiwanhot.net/cache/1319569/lgnw/medias-20261119-6afe583a3953c.jpg"
@@ -167,6 +196,61 @@
     }
    ],
    "image": "https://cdn2.ettoday.net/images/8700/e8700306.jpg"
+  },
+  {
+   "id": "20261121-shilin-yam-festival",
+   "title": "陽明山山藥季11月21日登場，與士林商圈合作推限定聯名美食",
+   "summary": "陽明山山藥季將於11月21日登場，並與士林商圈跨界合作推出限定聯名美食。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-19T00:00:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "士林商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "臺北旅遊網",
+     "url": "https://www.travel.taipei/zh-tw/news/details/68386",
+     "published_at": "2026-11-19T00:00:00+08:00"
+    },
+    {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/771481/",
+     "published_at": "2026-11-18T12:39:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261118895404",
+     "published_at": "2026-11-18T00:00:00+08:00"
+    },
+    {
+     "outlet": "風傳媒",
+     "url": "https://www.storm.mg/article/11182056",
+     "published_at": "2026-11-16T20:54:00+08:00"
+    },
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E9%99%BD%E6%98%8E%E5%B1%B1%E5%B1%B1%E8%97%A5%E5%AD%A311%E6%9C%8821%E6%97%A5%E7%99%BB%E5%A0%B4-%E6%94%9C%E6%89%8B%E5%A3%AB%E6%9E%97%E5%95%86%E5%9C%88%E6%8E%A8%E9%99%90%E5%AE%9A%E8%81%AF%E5%90%8D%E7%BE%8E%E9%A3%9F-100458625.html",
+     "published_at": "2026-11-16T18:04:00+08:00"
+    },
+    {
+     "outlet": "PChome Online 新聞",
+     "url": "https://news.pchome.com.tw/travel/thehubnews/20261116/index-79482349836682306009.html",
+     "published_at": "2026-11-16T18:04:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261116604903",
+     "published_at": "2026-11-16T18:04:00+08:00"
+    }
+   ],
+   "image": "https://www.travel.taipei/content/images/articles/585109/1024x768_articles-image-o1qwmuwbmk2dmnaxajc6mw.jpg"
   },
   {
    "id": "20261118-chaoyuan-oldstreet-paint",
@@ -300,56 +384,6 @@
     }
    ],
    "image": "https://cdn.upmedia.mg/upfile/img/2026/1118/202611181333581246.webp"
-  },
-  {
-   "id": "20261121-shilin-yam-festival",
-   "title": "陽明山山藥季11月21日登場，與士林商圈合作推限定聯名美食",
-   "summary": "陽明山山藥季將於11月21日登場，並與士林商圈跨界合作推出限定聯名美食。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-18T12:39:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "士林商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "墨新聞",
-     "url": "https://more-news.tw/771481/",
-     "published_at": "2026-11-18T12:39:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261118895404",
-     "published_at": "2026-11-18T00:00:00+08:00"
-    },
-    {
-     "outlet": "風傳媒",
-     "url": "https://www.storm.mg/article/11182056",
-     "published_at": "2026-11-16T20:54:00+08:00"
-    },
-    {
-     "outlet": "Yahoo新聞",
-     "url": "https://tw.news.yahoo.com/%E9%99%BD%E6%98%8E%E5%B1%B1%E5%B1%B1%E8%97%A5%E5%AD%A311%E6%9C%8821%E6%97%A5%E7%99%BB%E5%A0%B4-%E6%94%9C%E6%89%8B%E5%A3%AB%E6%9E%97%E5%95%86%E5%9C%88%E6%8E%A8%E9%99%90%E5%AE%9A%E8%81%AF%E5%90%8D%E7%BE%8E%E9%A3%9F-100458625.html",
-     "published_at": "2026-11-16T18:04:00+08:00"
-    },
-    {
-     "outlet": "PChome Online 新聞",
-     "url": "https://news.pchome.com.tw/travel/thehubnews/20261116/index-79482349836682306009.html",
-     "published_at": "2026-11-16T18:04:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261116604903",
-     "published_at": "2026-11-16T18:04:00+08:00"
-    }
-   ],
-   "image": "https://more-news.tw/more-news-media/2026/11/f426c32a-80f5-487c-bffc-3bfe2ea7276a-1-scaled.jpg"
   },
   {
    "id": "20261118-zhonglu-coffee",
@@ -2218,26 +2252,6 @@
     }
    ],
    "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/07181430/77005a-20261107082009928-0-1024x536.jpg"
-  },
-  {
-   "id": "20261106-xinhua-newyear-street",
-   "title": "2027新化年貨大街籌備啟動，盼第16屆重返高峰帶動商圈",
-   "summary": "視傳媒報導，2027新化年貨大街將啟動，主辦方期盼第16屆能重返高峰、帶動地方商圈繁榮。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-06T22:17:00+08:00",
-   "cities": [
-    "台南市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "視傳媒",
-     "url": "https://www.nvns.net/news_view.php?new_sn=148670&new_csn=1467",
-     "published_at": "2026-11-06T22:17:00+08:00"
-    }
-   ],
-   "image": "https://uploads.posu.tw/73/738/b2026110622171280.jpg"
   }
  ],
  "discussions": []
