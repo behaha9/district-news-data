@@ -1,22 +1,18 @@
 {
- "fetched_at": "2026-11-20T15:31:14+08:00",
+ "fetched_at": "2026-11-20T20:51:34+08:00",
  "stats": {
-  "queries": 4,
-  "query_errors": [
-   "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業: 429"
-  ],
-  "raw": 82,
-  "kept": 35,
-  "resolved": 30,
-  "items": 33,
+  "queries": 5,
+  "query_errors": [],
+  "raw": 94,
+  "kept": 30,
+  "resolved": 26,
+  "items": 28,
   "resolve_this_run": {
-   "error": 5,
+   "online": 4,
+   "error": 1,
    "examples": [
-    "error:429",
-    "error:429",
     "error:429"
-   ],
-   "online": 4
+   ]
   },
   "dropped_old": [
    "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬一圖看懂禁止區| 生活（原文日期 2026-08-01）",
@@ -24,6 +20,26 @@
   ]
  },
  "items": [
+  {
+   "title": "陽明山山藥季開跑倒數 士林區農會攜手商圈推聯名限定美味",
+   "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NR2s2eHdzcEhTcVdjMU9jYk80OUFaTmhZTjhCRlNXczBaRGtrRE1FVTcyNmNIMWtrNGl3bVg2Zk5aZmYtSnpzeUxR?oc=5",
+   "source": "匯流新聞網",
+   "source_site": "https://cnews.com.tw",
+   "published_at": "2026-11-20T18:36+08:00",
+   "query": "商圈",
+   "url": "https://cnews.com.tw/204261120a04/",
+   "resolved": true
+  },
+  {
+   "title": "大阪鬧區火警！心齋橋商店街旁大樓竄火舌 出動33輛消防車灌救",
+   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wQkRkYTFxOXotSzlLdkdJRnk3MHpQOFYzcHI0V2VpdHU1eUNaUGFIMlBCWF8tNzFVbWJyZ1cxOUptV0xURzZvUk5aa1pBbnc?oc=5",
+   "source": "TVBS新聞網",
+   "source_site": "https://news.tvbs.com.tw",
+   "published_at": "2026-11-20T16:45+08:00",
+   "query": "商店街",
+   "url": "https://news.tvbs.com.tw/world/4053568",
+   "resolved": true
+  },
   {
    "title": "吳旭智掃街同步盤點市場卸貨動線 盼串聯周邊商圈",
    "google_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQQUxnY0lNb0o5NEowOEViNGlYUVZxZk1GMW5hdWdHb29GWWtUNjFuMUhUU1hqWVQyM1JfMW1VU0ZONDdnYmtsVXpyZzdpV21zQ1JrVzBNbk05SHZhVVVNRm8xamZUMUJlSmdhZnFjYU9VN0JwNVNXSHR3b1NROWRIRjdEQ1RqbmlSenNISmFQMzNjTUQ0REZKYjdMNmlnYm5fX0xYQ3Exb2hPQWtXNlpnNGJYWkV6VDRaRjB1TWRycnA5aDFIRks4elJ2WTUyNmVoSm9SZFlVMTR4SzZGLW5HVjJqbG85MjdMd1ozMFMyQXN4V0JCSTNaOWM1ZlQ4X3BZbnRvdktBUFJSb1pOclE0MlhRYkNEZEVGcjVqS2pnTlBrN0RLLXhVaUd3X00xOTJYQU0wWEo0VVVqZnRsbW43VkNraXpCLU0yZWx1X0dqcTRRbWt2Z1lxYVYzZmM?oc=5",
@@ -66,13 +82,13 @@
   },
   {
    "title": "當年亞洲最大旗艦店！H&M西門町十年租約到期熄燈 戰線轉移信義商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1cFlKLVFvaWZzRjF6RzlsXzUzN1NRN2Q4V0g0TzZKV1kwSnh6dWp1UVZQdWZSR19aMklUdjZQVl9EYlZlY1NHTDMzU3VudlpD0gFWQVVfeXFMTXhMblZ0WWNkRGlFRzZqeDJvTlo0SWJXNk5McndLRUpNTTliWXlxUFBjTTNJRGdnYkZCRDUxZGNDb3BNXzNNc1BxU2dTeU55aHRXZk8zc0E?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
+   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWJ2VTVVN2pnSVFkektiZTMwRmlXRWxfZ3NRYkpxNlVBYTJ4VGxwdHpuak9rdTBBX3gxVUQzcHpkaWp2Qk1vME1KclAyZXFEYUpIQ0Z1SkNSUjZzMlNDbnlfTmlzb3dfRnlnbHpfM1laeWFZSS1lWHJab2FQV2FXc9IBYEFVX3lxTE5qM2VOcEhfN1RON3I1am9xNVNWTHpQQ2VDclI2bUhVR0tJV2xGa3dld1hEY0dlbDJHVXc3V0RQUE9mU1EtSVFWaFFLSV9tMFNsQVBlVDlRMEZXNGVNckJLUA?oc=5",
+   "source": "udnSTYLE",
+   "source_site": "https://style.udn.com",
    "published_at": "2026-11-20T09:55+08:00",
    "query": "商圈",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1cFlKLVFvaWZzRjF6RzlsXzUzN1NRN2Q4V0g0TzZKV1kwSnh6dWp1UVZQdWZSR19aMklUdjZQVl9EYlZlY1NHTDMzU3VudlpD0gFWQVVfeXFMTXhMblZ0WWNkRGlFRzZqeDJvTlo0SWJXNk5McndLRUpNTTliWXlxUFBjTTNJRGdnYkZCRDUxZGNDb3BNXzNNc1BxU2dTeU55aHRXZk8zc0E?oc=5",
-   "resolved": false
+   "url": "https://style.udn.com/style/story/11350/9890620?from=udn-catenewnews_ch2002",
+   "resolved": true
   },
   {
    "title": "討論牆 | 老街小吃外的慢食新風景 雲林西螺吹起「義式餐桌＋手作甜點」返鄉創業潮",
@@ -105,16 +121,6 @@
    "resolved": true
   },
   {
-   "title": "串聯捷運商圈與綠地 中和第二國運中心開工 侯友宜：提供市民多元運動環境",
-   "google_url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOcmZiRm4tSEhuY21SMjBTT1N2cDFPNk1fMnVOb1c1YzJtYmlJVDk5ekE2bEdHSGZmT0txWFlILW5QZmsxQWpDRk90UWZVa0VUWnkxRmtfbUV0Yms3azl0UXUyZWVpNURKNXQySVhCWFlwZ19RbDB5cFpTMmpQYnI5VlZQblpuMUpVbWY2X2ZkNkZuQ09hczc0cmNxekFqZUpJb19vbXRPSWFqUlU1aWRraUJlMTlBMURLaVlENXA5TUVKUHVHN1dXVTc2bGxTYjNtdENZNlFzaFhGN0ZiQWZQUS1VS00zRF92NHZWckdObG5hcm8wZDkxVEQtMWVOcVZoc002cDQ2Y09IaURJNG1PUnF1ZVlicU5OdEM4bFdOd0VsZVVSa2ZzLXlXRUJQdFRJLWl3cXRqZGF0SlF5eDBmelk5X3hLSXhTRm9KdVZ5eEFVaUhObUluNmJuaXpHUGpMSnBzT0ZWQQ?oc=5",
-   "source": "報新聞 Mega News",
-   "source_site": "https://www.contentplatform.info",
-   "published_at": "2026-11-19T18:30+08:00",
-   "query": "商圈",
-   "url": "https://www.contentplatform.info/articles/583422/%E4%B8%B2%E8%81%AF%E6%8D%B7%E9%81%8B%E5%95%86%E5%9C%88%E8%88%87%E7%B6%A0%E5%9C%B0%E3%80%80%E4%B8%AD%E5%92%8C%E7%AC%AC%E4%BA%8C%E5%9C%8B%E9%81%8B%E4%B8%AD%E5%BF%83%E9%96%8B%E5%B7%A5%E3%80%80%E4%BE%AF/",
-   "resolved": true
-  },
-  {
    "title": "粉紅車跑開進「鑽石山城」 蘇巧慧：觀光不只停留在老街| 2026九合一選舉",
    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBibGh5ZVk4TXZPSWJfdFRXNXpRTGJoY1ZnVVF4ZWx5M3VHZlpOb3dXLTRXQXVWQUc1cVl2R0oxX1QwakZ0b0xRU2hPRExfMS03ellBUlBxdlU?oc=5",
    "source": "UDN",
@@ -122,6 +128,16 @@
    "published_at": "2026-11-19T18:28+08:00",
    "query": "老街",
    "url": "https://udn.com/vote2026/story/124652/9889662",
+   "resolved": true
+  },
+  {
+   "title": "串聯捷運商圈與綠地 中和第二國運中心開工 侯友宜：提供市民多元運動環境",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4teVQzd3FURktWU016ZTg3cmp3Rzh5Z082MkIyZnR3RDdfbkxzSWhqRHpBazhQekIzZURTaUh6YmU2WXR2QTM1LTNIbk92THdm?oc=5",
+   "source": "很角色時報",
+   "source_site": "https://taidaily.com",
+   "published_at": "2026-11-19T18:19+08:00",
+   "query": "商圈",
+   "url": "https://taidaily.com/2026/11/19/585808/",
    "resolved": true
   },
   {
@@ -195,14 +211,14 @@
    "resolved": true
   },
   {
-   "title": "選前大掃蕩！嚴查地下賭盤　維安警力提升1／百億娛樂城隱身昌平商圈！　1年賭資逾155億",
-   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4YWQxRklSSUhCNzdyZ3Jvb1Y4OTU1QXF6ZVU2V190MElMbE9odW83VDM4cUVWUWM3LXVEcFlNVHdVX2VqdGdKRmJncE9DTVVrSFRhWjJkMnPSAV5BVV95cUxPLW54UGpIeElLRkpmRUZQUnltUzBaN2E0RlMzSUZadTFIeHh6aFBIOXJLWHNhVEJSMWozZTBNaHA2MWhtNGNPZjhBN0RDdjZ0U2dvSnBoNGF2VzlIaXJn?oc=5",
+   "title": "百億娛樂城隱身昌平商圈！　1年賭資逾155億",
+   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tbnhQakh4SUtGSmZFRlBSeW1TMFo3YTRGUzNJRlp1MUh4eHpoUEg5cktYc2FUQlIxajNlME1ocDYxaG00Y09mOEE3REN2NnRTZ29KcGg0YXZXOUhpcmfSAV5BVV95cUxPLW54UGpIeElLRkpmRUZQUnltUzBaN2E0RlMzSUZadTFIeHh6aFBIOXJLWHNhVEJSMWozZTBNaHA2MWhtNGNPZjhBN0RDdjZ0U2dvSnBoNGF2VzlIaXJn?oc=5",
    "source": "鏡新聞",
    "source_site": "https://www.mnews.tw",
    "published_at": "2026-11-19T12:22+08:00",
    "query": "商圈",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4YWQxRklSSUhCNzdyZ3Jvb1Y4OTU1QXF6ZVU2V190MElMbE9odW83VDM4cUVWUWM3LXVEcFlNVHdVX2VqdGdKRmJncE9DTVVrSFRhWjJkMnPSAV5BVV95cUxPLW54UGpIeElLRkpmRUZQUnltUzBaN2E0RlMzSUZadTFIeHh6aFBIOXJLWHNhVEJSMWozZTBNaHA2MWhtNGNPZjhBN0RDdjZ0U2dvSnBoNGF2VzlIaXJn?oc=5",
-   "resolved": false
+   "url": "https://www.mnews.tw/story/amp/20261119sot1222001",
+   "resolved": true
   },
   {
    "title": "老街小吃外的慢食新風景 雲林西螺吹起「義式餐桌＋手作甜點」返鄉創業潮",
@@ -255,14 +271,14 @@
    "resolved": true
   },
   {
-   "title": "柯志恩衝刺選戰派出神隊友 夫婿洪德成走進市場商圈掀起「小洪流」",
-   "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OQ0NnazVLUGZKcmluSFR1Z1NZNTJfak9JSVNUc0hUOFlhdzI2OG9wSHZzS0prT1NiRC15a1RxeXZjdlN2TFFGVnVBemE4Y1BXeDY1Smw1R3M0TlRmQTd2cUZvTjNfUG8?oc=5",
-   "source": "新華報導",
-   "source_site": "https://ccss3172.blogspot.com",
-   "published_at": "2026-11-19T07:35+08:00",
-   "query": "商圈",
-   "url": "https://ccss3172.blogspot.com/2026/11/blog-post_599.html",
-   "resolved": true
+   "title": "老街溪整治再爭取13億元 邱奕勝：中壢老城區轉型須超前規劃",
+   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14UVh6UkVCNDdMR0hLSS1yQTl5STFhNV93Qmc1U2NXYXBoT1QwWWp2SnYtVEM0S0tfQkpudTAtbXVCTEtOaUJqazFqSGxMZw?oc=5",
+   "source": "記者爆料網",
+   "source_site": "https://new-reporter.com",
+   "published_at": "2026-11-19T06:55+08:00",
+   "query": "老街",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14UVh6UkVCNDdMR0hLSS1yQTl5STFhNV93Qmc1U2NXYXBoT1QwWWp2SnYtVEM0S0tfQkpudTAtbXVCTEtOaUJqazFqSGxMZw?oc=5",
+   "resolved": false
   },
   {
    "title": "討論牆 | 活絡田中老街成為田中新亮點 田中鎮第一公有零售市場重建動土",
@@ -282,76 +298,6 @@
    "published_at": "2026-11-18T22:53+08:00",
    "query": "商圈",
    "url": "https://tw.news.yahoo.com/%E6%9F%AF%E5%BF%97%E6%81%A9%E5%88%86%E8%BA%AB%E6%8E%83%E5%B8%82%E5%A0%B4%E5%95%86%E5%9C%88-%E8%80%81%E5%85%AC%E6%B4%AA%E5%BE%B7%E6%88%90%E5%B8%B6%E8%B5%B7-%E6%B3%A2-%E6%B4%AA%E6%B5%81-145300179.html",
-   "resolved": true
-  },
-  {
-   "title": "老街溪整治再爭取13億元 邱奕勝：中壢老城區轉型須超前規劃",
-   "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vSW1QSDBCRERFS0YyaVBoZnBPSVlyQ0ctdDhaV2N3a1ptOGRERmctTWVidkV3UFRobDg4TVdYcnEzd1cwcnRoY2Y1b3ZEUzJrOWJUNkVoUQ?oc=5",
-   "source": "觀傳媒",
-   "source_site": "https://www.watchmedia01.com",
-   "published_at": "2026-11-18T20:56+08:00",
-   "query": "老街",
-   "url": "https://www.watchmedia01.com/archives/571401",
-   "resolved": true
-  },
-  {
-   "title": "從商圈到市場，設計如何活絡地方經濟？結合地方生活、文化與商業，4大場域改造亮點一次看",
-   "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jTGI4b3hjREpLVDVHTnNsM1hsdEp6a2lZOWxWUTFLdGFENVRlUTZ6bmFhVGFuTWp2X1pZenBOMzctUGwtWDNaZU5kaThkQk0xVUlOYw?oc=5",
-   "source": "La Vie | 設計美學",
-   "source_site": "https://www.wowlavie.com",
-   "published_at": "2026-11-18T18:00+08:00",
-   "query": "商圈",
-   "url": "https://www.wowlavie.com/article/260027645",
-   "resolved": true
-  },
-  {
-   "title": "斗六燈海節將於11月21〜22日在圓環及太平老街登場",
-   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16dnVQbjVUbDhSb1JxNWVjU2hOT2NfaTdwb0gzSjlURTV4bkU4eGt0NmJJNFFaRUlmWkRaY2JEVnh1S3FhbmE3X1g3M3hGemVWVHJiQm8ydVR6WGdiZk1J?oc=5",
-   "source": "www.tynews.com.tw",
-   "source_site": "https://www.tynews.com.tw",
-   "published_at": "2026-11-18T17:59+08:00",
-   "query": "老街",
-   "url": "https://www.tynews.com.tw/index/Video/Show/id/4983",
-   "resolved": true
-  },
-  {
-   "title": "【台語新聞】馬路當畫紙！朝元宮老街彩繪親子創意比拚- 地方",
-   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2Wnp2WmVDYXMtbVJXc25MeC10cDZIaG9WVnVKUExCXzU2REwwdkpydjh0aUF5bXlrd0pKbEVwUGdqa1FoTXNYV2M4RFpZdkFhSHVKQi1rM19PQ0hPOXlHM1Z5NHVKVklpTmU3Vkt3?oc=5",
-   "source": "華視新聞網",
-   "source_site": "https://news.cts.com.tw",
-   "published_at": "2026-11-18T16:45+08:00",
-   "query": "老街",
-   "url": "https://news.cts.com.tw/cts/local/202611/202611183102529.html",
-   "resolved": true
-  },
-  {
-   "title": "溫州風情1／從永嘉學派到市井煙火走進老街尋味甌越文化- 旅遊新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkJJYnl5VE5JbVlrVmtBaURoc042TndKbDhXR3VYaWV5Tktjd2E5R2l4M2tUd2M5Z1AzZzVnY2RhLTFxYk9vVDc4Z0FFRzVEdnQ1ZkF0U3lYX1NQN3ZCUlNIX0VuVE12ZzlvUllvWVlXWjZhZzJXNzJlSlZINnM3M0drMUhadnBZ?oc=5",
-   "source": "PChome Online 新聞",
-   "source_site": "https://news.pchome.com.tw",
-   "published_at": "2026-11-18T16:30+08:00",
-   "query": "老街",
-   "url": "https://news.pchome.com.tw/travel/m00361/20261118/index-79499060064698361015.html",
-   "resolved": true
-  },
-  {
-   "title": "2026斗六燈海節11/21登場！太平老街換新裝、卡司陣容齊聚吸睛",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yOXNPYkpMQmxJbEpCY204ZmFMTElDaWNuNWxEVVN0bTNVaEJhX2pUQWJ6R2dISjh1WnYwWTZ3V1Y2ek9JenY1UGZDY25HVGZTWFE?oc=5",
-   "source": "中華新聞雲／中華日報",
-   "source_site": "https://www.cdns.com.tw",
-   "published_at": "2026-11-18T16:20+08:00",
-   "query": "老街",
-   "url": "https://www.cdns.com.tw/articles/1492401",
-   "resolved": true
-  },
-  {
-   "title": "從一條老街到國際共創 南臺科大USR與577名學生迎接神農街燈展十週年",
-   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iaHVKLWJUTkhfTklOWFRVWU1JbnBqR2pwRjhoQ0M2blhENDk0Y0JOdTU4VkZPUWQweUdRdE5hdWhZUmwweFQ4SmFTUmN6eUQxQVZ5NWhSc2VBX1Jp?oc=5",
-   "source": "104職場力",
-   "source_site": "https://blog.104.com.tw",
-   "published_at": "2026-11-18T15:49+08:00",
-   "query": "老街",
-   "url": "https://blog.104.com.tw/?post_type=post&p=264531",
    "resolved": true
   }
  ]

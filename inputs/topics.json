@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T15:31:21+08:00",
+ "updated_at": "2026-11-20T20:51:41+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,24 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "食用油供應吃緊衝擊台南餐飲業 業者反映缺貨與價格上漲",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPdnhBdlEtNjRYbWdzSjRJbEh2cE1lSDNERW5hMDktZVZQM0VydWNUcXltQlhVZy1lMUdUZnNsRzhHVG9NRzJqTUJSS01ya2IyUW02QUYyNVZCdzlGd0pVVXlGQnZVMlQ4bXBrVlZ6Vnl5QjJtU19JTFNzN3pqRzEzM1AyR1FDTS1tVUgxbDZwY2lkckhxZjQ3S0JERklZOWVyS19BUU1vWDZNcjV1LWxlN01HU2FraXRySUhfVzA2UU1hM1VNYWZldHRTek5kUVJIaWJuWG5yRFI4cERZWGhxM3NsUGNCNWlUaU00MDVBZnJVVE53TUhzcU1Kbjc2UDg5ZW1BRjBfYzVKNHRLQ0RTVXl3TmZOa3pOQXJZQWpmcXQ5Tjd6eXRod3pWUlBHZkNHZ3FpS3g4bzdScHQ3dXZaeGptZHh6ZHphdGRHRTBKMHJfOHlCRWxXS25ySTluOVR4VTNtTU9STVluVWNWem9DclpfVUQ?oc=5",
+     "source": "LIFE 生活網",
+     "published_at": "2026-11-20T18:47+08:00",
+     "url": "https://life.tw/article/%E9%A3%9F%E7%94%A8%E6%B2%B9%E4%BE%9B%E6%87%89%E5%90%83%E7%B7%8A%E8%A1%9D%E6%93%8A%E5%8F%B0%E5%8D%97%E9%A4%90%E9%A3%B2%E6%A5%AD-%E6%A5%AD%E8%80%85%E5%8F%8D%E6%98%A0%E7%BC%BA%E8%B2%A8%E8%88%87%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2-3227654",
+     "resolved": true
+    },
+    {
+     "title": "【餐飲漲價1】王品、瓦城接連喊漲！小吃店叫苦：桶裝沙拉油飆破千元 「漲價是為了生存」",
+     "kind": "店家相關",
+     "google_url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNbU45cTgxdklHZGlLblE3c1lNTHlHck5YXzdOcVI2aFZWOWZWMEdyWnhnVEc5U3RyeDBfYzdXSHZfZ1I4elJpbnRWcmlnVjhTVzNLeVZmZWxJUVVKR3F5RHk4cGNKcHNSZUcxY1hQVl9RQnQ1eUp0UnNrOFZ0SVVwNGlCMGRqNVRrNGlLa1pvLVhMTGs0LTNNWjhlYUpPN3ZzcTJZREl3WVdHbnd0dVoydEpveU14M2M5QV9RVlMySkhNZUVIeDQ1Ylh4S09ZVFBUSEZzcWdQXzZUaDFGZnE3TjNLWUJoWlZfZE9VSFhmV3dLX2Q5TVNTWlM2LU1CWWRtNWZHOEczaTZZTU9fOE5GUTRvMnRtNVc0RlpNZDZ3ZFltRERiNzMzalVmakt0U0c0REJpbjB5YjYyRW5QUEdST1Rhci1BMl9qbXZHZVBsT1RTUkhoUVY4d0tROG9mVnNPVDhvWkc4SEpGQTVsem1zUkdMbEFEUWZyREJpRnBLWDRjWHlNbHZhdHVueXg0SC01UDFfTXNKMFdZdW5EdFZxSnJtSW9tbzUwOG9fazVfQ1cyOHYxQ1J4TmVzNGhMQ0ZjOXU1RHJTWThxcThYUUM3WlZoVF9XeDF6VWFSWEZKcFNwNVMtVjdMV0tqV1Frb3dVTUEyZXZtd2pmQU9uS20tYzExeWVYdE03cGRwMzZjUkxVY3piT05PUVEyc0Mxc3hmdDVXSkwxY2hJN25QWXR2VXFNVjBpY25CSktpajl3?oc=5",
+     "source": "Yahoo股市",
+     "published_at": "2026-11-20T16:51+08:00",
+     "url": "https://tw.stock.yahoo.com/news/%E3%80%90%E9%A4%90%E9%A3%B2%E6%BC%B2%E5%83%B91%E3%80%91%E7%8E%8B%E5%93%81%E3%80%81%E7%93%A6%E5%9F%8E%E6%8E%A5%E9%80%A3%E5%96%8A%E6%BC%B2%EF%BC%81%E5%B0%8F%E5%90%83%E5%BA%97%E5%8F%AB%E8%8B%A6%EF%BC%9A%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E3%80%8C%E6%BC%B2%E5%83%B9%E6%98%AF%E7%82%BA%E4%BA%86%E7%94%9F%E5%AD%98%E3%80%8D-085124823.html",
+     "resolved": true
+    },
     {
      "title": "食用油荒 缺貨又漲價 衝擊台南餐飲業",
      "kind": "店家相關",
@@ -321,6 +339,15 @@
      "source": "墨新聞-MORE News",
      "published_at": "2026-11-15T11:09+08:00",
      "url": "https://more-news.tw/769034/",
+     "resolved": true
+    },
+    {
+     "title": "桶裝沙拉油傳缺貨價格飆漲台南市府聯手台糖闢謠:供應絕對夠－民視新聞- 民視新聞網",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3dWRfcDVBSDFNU285c1ltLVNXN3kyY1p3end0R0ticlFsbW9nZ3BqSGRhbDJkem50NC11WHFONlRWSV9jQlA4VmhrMU5xVkdEZkcxbXJERTZNbG95WVI4WF9EQWNVMjA?oc=5",
+     "source": "民視新聞網",
+     "published_at": "2026-11-15T07:59+08:00",
+     "url": "https://www.ftvnews.com.tw/shortvideo/detail/8fxB8STJoJI",
      "resolved": true
     },
     {
