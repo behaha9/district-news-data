@@ -1,15 +1,13 @@
 {
- "fetched_at": "2026-11-20T07:17:30+08:00",
+ "fetched_at": "2026-11-20T10:25:51+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 101,
-  "kept": 39,
-  "resolved": 39,
-  "items": 39,
-  "resolve_this_run": {
-   "online": 3
-  }
+  "raw": 100,
+  "kept": 37,
+  "resolved": 37,
+  "items": 37,
+  "resolve_this_run": {}
  },
  "items": [
   {
@@ -380,26 +378,6 @@
    "published_at": "2026-11-18T10:35+08:00",
    "query": "商圈",
    "url": "https://www.storm.mg/article/11182622",
-   "resolved": true
-  },
-  {
-   "title": "投書／中路商圈的咖啡香與人情味 桃園「小天母」逐漸成形",
-   "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ISjlpVGNzdEQwQjU4aDdUU3BJaE9ybjV6SXA2dHI1LXZtUVFIQi03ZXVlalAtZ3FvMVdiN3ZrNGd3RmlqdWozdllvdm8?oc=5",
-   "source": "桃園電子報",
-   "source_site": "https://tyenews.com",
-   "published_at": "2026-11-18T10:13+08:00",
-   "query": "商圈",
-   "url": "https://tyenews.com/2026/11/1431187/",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 石舫亘四平商圈掃街拜票（3）(圖)",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BSkRaY0VqRmxVd05YM0t0dlRpOHBzTVVrNFFfUWpGdFJta2pjNWY4Y0hBS21DUXU4cWh2d0tXenRuRlRjRE16S2o3eGh3UmEwSzQ1MG1ORFFWVWpfNG92dFZ1Y0o?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-18T08:12+08:00",
-   "query": "商圈",
-   "url": "https://today.line.me/tw/v3/posts/list/article/Kw7pOq0",
    "resolved": true
   }
  ]
