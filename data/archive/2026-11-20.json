@@ -122,6 +122,90 @@
    "items": [],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-20T20:53:08+08:00",
+   "added": 1,
+   "merged": 1,
+   "items": [
+    {
+     "id": "20261120-chiayi-chuiyang-pokemon-tree",
+     "title": "嘉義垂楊商圈出現9米高寶可夢耶誕樹，百貨業者營造節慶氛圍",
+     "summary": "嘉義市百貨業者在垂楊商圈打造9米高寶可夢耶誕樹，以燈飾與精靈球裝飾為商圈增添節慶氣氛。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-20T12:21:00+08:00",
+     "cities": [
+      "嘉義市"
+     ],
+     "districts": [
+      {
+       "name": "垂楊商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://news.ltn.com.tw/news/life/breakingnews/5647352",
+       "published_at": "2026-11-20T12:21:00+08:00"
+      }
+     ],
+     "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/20/5647352_1_1.jpg"
+    },
+    {
+     "id": "20261121-shilin-yam-festival",
+     "title": "陽明山山藥季11月21日登場，與士林商圈合作推限定聯名美食",
+     "summary": "陽明山山藥季將於11月21日登場，並與士林商圈跨界合作推出限定聯名美食。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-18T12:39:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "士林商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/771481/",
+       "published_at": "2026-11-18T12:39:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261118895404",
+       "published_at": "2026-11-18T00:00:00+08:00"
+      },
+      {
+       "outlet": "風傳媒",
+       "url": "https://www.storm.mg/article/11182056",
+       "published_at": "2026-11-16T20:54:00+08:00"
+      },
+      {
+       "outlet": "Yahoo新聞",
+       "url": "https://tw.news.yahoo.com/%E9%99%BD%E6%98%8E%E5%B1%B1%E5%B1%B1%E8%97%A5%E5%AD%A311%E6%9C%8821%E6%97%A5%E7%99%BB%E5%A0%B4-%E6%94%9C%E6%89%8B%E5%A3%AB%E6%9E%97%E5%95%86%E5%9C%88%E6%8E%A8%E9%99%90%E5%AE%9A%E8%81%AF%E5%90%8D%E7%BE%8E%E9%A3%9F-100458625.html",
+       "published_at": "2026-11-16T18:04:00+08:00"
+      },
+      {
+       "outlet": "PChome Online 新聞",
+       "url": "https://news.pchome.com.tw/travel/thehubnews/20261116/index-79482349836682306009.html",
+       "published_at": "2026-11-16T18:04:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261116604903",
+       "published_at": "2026-11-16T18:04:00+08:00"
+      }
+     ],
+     "image": "https://more-news.tw/more-news-media/2026/11/f426c32a-80f5-487c-bffc-3bfe2ea7276a-1-scaled.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }

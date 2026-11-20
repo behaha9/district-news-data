@@ -1,7 +1,32 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T16:49:56+08:00",
+ "generated_at": "2026-11-20T20:53:08+08:00",
  "items": [
+  {
+   "id": "20261120-chiayi-chuiyang-pokemon-tree",
+   "title": "嘉義垂楊商圈出現9米高寶可夢耶誕樹，百貨業者營造節慶氛圍",
+   "summary": "嘉義市百貨業者在垂楊商圈打造9米高寶可夢耶誕樹，以燈飾與精靈球裝飾為商圈增添節慶氣氛。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-20T12:21:00+08:00",
+   "cities": [
+    "嘉義市"
+   ],
+   "districts": [
+    {
+     "name": "垂楊商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "自由時報",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5647352",
+     "published_at": "2026-11-20T12:21:00+08:00"
+    }
+   ],
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/20/5647352_1_1.jpg"
+  },
   {
    "id": "20261119-hm-ximen-closing",
    "title": "西門町H&M旗艦店19日熄燈，報導指租約到期不續租",
@@ -297,6 +322,11 @@
      "outlet": "墨新聞",
      "url": "https://more-news.tw/771481/",
      "published_at": "2026-11-18T12:39:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261118895404",
+     "published_at": "2026-11-18T00:00:00+08:00"
     },
     {
      "outlet": "風傳媒",
@@ -2208,46 +2238,6 @@
     }
    ],
    "image": "https://uploads.posu.tw/73/738/b2026110622171280.jpg"
-  },
-  {
-   "id": "20261106-taoyuan-kitchen-waste",
-   "title": "桃園擴大商用廚餘機補助，商圈與傳統市場管理機構可申請",
-   "summary": "桃園市政府將商圈、傳統市場等管理機構納入商用廚餘機補助範圍，以減輕業者負擔並擴大減量效益。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-06T18:30:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5631966",
-     "published_at": "2026-11-06T18:30:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261106399888",
-     "published_at": "2026-11-06T14:58:00+08:00"
-    },
-    {
-     "outlet": "工商時報",
-     "url": "https://www.ctee.com.tw/news/20261106701166-431401",
-     "published_at": "2026-11-06T13:06:00+08:00"
-    },
-    {
-     "outlet": "中時新聞網",
-     "url": "https://www.chinatimes.com/realtimenews/20261106002611-260405",
-     "published_at": "2026-11-06T13:06:00+08:00"
-    },
-    {
-     "outlet": "中華新聞雲",
-     "url": "https://www.cdns.com.tw/articles/1486194",
-     "published_at": "2026-11-06T00:00:00+08:00"
-    }
-   ],
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/5631966_1_1.jpg"
   }
  ],
  "discussions": []
