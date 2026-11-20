@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-20T12:16:58+08:00",
+ "updated_at": "2026-11-20T16:49:56+08:00",
  "reviewed": {
   "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html": {
    "decision": "hidden",
@@ -346,6 +346,11 @@
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-17"
+  },
+  "https://n.yam.com/Article/20261117285363": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-20"
   },
   "https://n.yam.com/Article/20261117406060": {
    "decision": "hidden",
@@ -1091,6 +1096,11 @@
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-07"
+  },
+  "https://www.scooptw.com/taiwanpost/555374/%e7%be%8e%e8%a1%93%e5%9c%92%e9%81%93%e5%95%86%e5%9c%88%e3%80%8c%e7%be%8e%e5%ad%b8%e6%a3%ae%e6%b4%bb%e7%af%80%e3%80%8d-%e4%b8%b2%e8%81%af%e7%94%a2%e6%a5%ad%e8%a7%80%e5%85%89-%e5%89%b5%e9%80%a0/": {
+   "decision": "kept",
+   "item": "20261116-meishu-yuandao-fest",
+   "at": "2026-11-20"
   },
   "https://www.scooptw.com/tyenews/551009/%e6%a1%83%e5%9c%92%e6%8e%a8%e5%8b%95%e4%b8%80%e5%95%86%e5%9c%88%e4%b8%80%e7%89%b9%e8%89%b2-%e7%88%ad%e5%8f%962300%e8%90%ac%e8%a3%9c%e5%8a%a9%e8%bc%94%e5%b0%8e%e7%87%9f%e9%81%8b/": {
    "decision": "kept",
