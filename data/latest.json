@@ -1,7 +1,58 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-21T16:50:23+08:00",
+ "generated_at": "2026-11-21T20:51:04+08:00",
  "items": [
+  {
+   "id": "20261118-mrt-rent-dongqu",
+   "title": "北捷店租統計出爐，東區商圈三站店面租賃熱絡，報導指受大巨蛋外溢帶動",
+   "summary": "永慶房屋統計北捷十大店租站點，東門站每坪月租居冠，報導指東區三站店面租賃熱絡，並提到大巨蛋賽事與演唱會帶來商機。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-21T04:10:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "東區商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "東區商圈為115年補助名單，報導指店面租賃熱絡，可留意商圈人潮與店家營運變化。",
+   "sources": [
+    {
+     "outlet": "中時新聞網",
+     "url": "https://www.chinatimes.com/newspapers/20261121000463-260110",
+     "published_at": "2026-11-21T04:10:00+08:00"
+    },
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261120701232-430503",
+     "published_at": "2026-11-20T14:17:00+08:00"
+    },
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/5621/9886734",
+     "published_at": "2026-11-18T15:17:00+08:00"
+    },
+    {
+     "outlet": "太報",
+     "url": "https://www.taisounds.com/news/content/75/310474",
+     "published_at": "2026-11-18T15:17:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7241/9886557",
+     "published_at": "2026-11-18T14:04:00+08:00"
+    },
+    {
+     "outlet": "中央社",
+     "url": "https://www.cna.com.tw/business/chinese/450444",
+     "published_at": "2026-11-18T05:32:00+08:00"
+    }
+   ],
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-21/656/B07A00_P_03_02.jpg"
+  },
   {
    "id": "20261121-shilin-yam-festival",
    "title": "陽明山山藥季11月21日登場，與士林商圈合作推限定聯名美食",
@@ -2182,96 +2233,6 @@
     }
    ],
    "image": "https://www.tcpttw.com/wp-content/uploads/2026/11/145649.jpg"
-  },
-  {
-   "id": "20261107-shalu-monkey",
-   "title": "台中沙鹿成衣商圈獼猴出沒，農業局架設誘捕籠",
-   "summary": "沙鹿成衣商圈近日有獼猴出沒、闖入後巷，居民3天內兩度目擊；農業局指非棲地，疑為民眾違規飼養，已架設誘捕籠。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-11-07T19:47:00+08:00",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "Yahoo新聞",
-     "url": "https://tw.news.yahoo.com/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E-114753534.html",
-     "published_at": "2026-11-07T19:47:00+08:00"
-    },
-    {
-     "outlet": "鏡新聞",
-     "url": "https://www.mnews.tw/story/20261107sot1840001",
-     "published_at": "2026-11-07T18:40:00+08:00"
-    },
-    {
-     "outlet": "公視新聞網",
-     "url": "https://news.pts.org.tw/article/834774",
-     "published_at": "2026-11-07T18:39:00+08:00"
-    },
-    {
-     "outlet": "雅虎體育香港",
-     "url": "https://hk.sports.yahoo.com/tv/mnews/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E-114753534.html",
-     "published_at": "2026-11-07T12:04:00+08:00"
-    }
-   ],
-   "image": "https://media.zenfs.com/en/mnews_tw_258/38710c41986413a8acd2151a54bfe3eb"
-  },
-  {
-   "id": "20261106-taoyuan-district-feature",
-   "title": "桃園市舉辦商圈特色亮點形塑成果發表，市長盼深化一商圈一特色",
-   "summary": "桃園市政府發表商圈特色亮點形塑成果，市長表示將深化一商圈一特色、提升地方產業競爭力。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-07T19:07:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "中華新聞雲",
-     "url": "https://www.cdns.com.tw/articles/1486711",
-     "published_at": "2026-11-07T19:07:00+08:00"
-    },
-    {
-     "outlet": "Yahoo奇摩新聞",
-     "url": "https://tw.news.yahoo.com/%E5%BC%B5%E5%96%84%E6%94%BF%E5%87%BA%E5%B8%AD%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8-%E6%8E%A8-%E5%95%86%E5%9C%88-%E7%89%B9%E8%89%B2%E5%8D%87%E7%B4%9A-101443673.html",
-     "published_at": "2026-11-07T18:14:00+08:00"
-    },
-    {
-     "outlet": "行銷人",
-     "url": "https://www.marketersgo.com/%E5%AA%92%E9%AB%94%E6%96%B0%E8%81%9E/202611/%E6%A1%83%E5%9C%92%E6%8E%A8%E5%8B%95%E4%B8%80%E5%95%86%E5%9C%88%E4%B8%80%E7%89%B9%E8%89%B2-%E7%88%AD%E5%8F%962300%E8%90%AC%E8%A3%9C%E5%8A%A9%E8%BC%94%E5%B0%8E%E7%87%9F%E9%81%8B/",
-     "published_at": "2026-11-07T10:40:00+08:00"
-    },
-    {
-     "outlet": "桃園電子報",
-     "url": "https://tyenews.com/2026/11/1426951/",
-     "published_at": "2026-11-07T09:24:00+08:00"
-    },
-    {
-     "outlet": "報新聞",
-     "url": "https://www.contentplatform.info/articles/566359/%E6%A1%83%E5%9C%92%E5%95%86%E5%9C%88%E7%89%B9%E8%89%B2%E4%BA%AE%E9%BB%9E%E5%BD%A2%E5%A1%91%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E3%80%80%E5%BC%B5%E5%96%84%E6%94%BF%EF%BC%9A%E6%B7%B1%E5%8C%96%E4%B8%80/",
-     "published_at": "2026-11-07T09:20:00+08:00"
-    },
-    {
-     "outlet": "是新聞",
-     "url": "https://www.yesmedia.com.tw/%e6%a1%83%e5%9c%92%e6%8e%a8%e5%8b%95%e4%b8%80%e5%95%86%e5%9c%88%e4%b8%80%e7%89%b9%e8%89%b2-%e7%88%ad%e5%8f%962300%e8%90%ac%e8%a3%9c%e5%8a%a9%e8%bc%94%e5%b0%8e%e7%87%9f%e9%81%8b/",
-     "published_at": "2026-11-07T01:25:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261107876344",
-     "published_at": "2026-11-07T00:00:00+08:00"
-    },
-    {
-     "outlet": "桃園市政府",
-     "url": "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1957392",
-     "published_at": "2026-11-06T21:48:00+08:00"
-    }
-   ],
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/07181430/77005a-20261107082009928-0-1024x536.jpg"
   }
  ],
  "discussions": []

@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-21T16:50:23+08:00",
+ "updated_at": "2026-11-21T20:50:34+08:00",
  "reviewed": {
   "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html": {
    "decision": "hidden",
@@ -631,6 +631,11 @@
    "decision": "kept",
    "item": "20261112-gimme-xinyi",
    "at": "2026-11-13"
+  },
+  "https://udn.com/news/amp/story/7270/9890620": {
+   "decision": "kept",
+   "item": "20261119-hm-ximen-closing",
+   "at": "2026-11-21"
   },
   "https://udn.com/news/amp/story/7325/9866142": {
    "decision": "kept",

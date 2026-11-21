@@ -266,6 +266,66 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-21T20:51:04+08:00",
+   "added": 1,
+   "merged": 0,
+   "items": [
+    {
+     "id": "20261118-mrt-rent-dongqu",
+     "title": "北捷店租統計出爐，東區商圈三站店面租賃熱絡，報導指受大巨蛋外溢帶動",
+     "summary": "永慶房屋統計北捷十大店租站點，東門站每坪月租居冠，報導指東區三站店面租賃熱絡，並提到大巨蛋賽事與演唱會帶來商機。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-21T04:10:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "東區商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "東區商圈為115年補助名單，報導指店面租賃熱絡，可留意商圈人潮與店家營運變化。",
+     "sources": [
+      {
+       "outlet": "中時新聞網",
+       "url": "https://www.chinatimes.com/newspapers/20261121000463-260110",
+       "published_at": "2026-11-21T04:10:00+08:00"
+      },
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261120701232-430503",
+       "published_at": "2026-11-20T14:17:00+08:00"
+      },
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/5621/9886734",
+       "published_at": "2026-11-18T15:17:00+08:00"
+      },
+      {
+       "outlet": "太報",
+       "url": "https://www.taisounds.com/news/content/75/310474",
+       "published_at": "2026-11-18T15:17:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7241/9886557",
+       "published_at": "2026-11-18T14:04:00+08:00"
+      },
+      {
+       "outlet": "中央社",
+       "url": "https://www.cna.com.tw/business/chinese/450444",
+       "published_at": "2026-11-18T05:32:00+08:00"
+      }
+     ],
+     "image": "https://images.chinatimes.com/newsphoto/2026-11-21/656/B07A00_P_03_02.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
