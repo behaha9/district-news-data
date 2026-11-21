@@ -1,10 +1,18 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-20T21:00:00+08:00",
+  "updated_at": "2026-11-21T12:30:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
+        {
+          "id": "20261121-cna-demand-gap",
+          "note": "經濟部協調增產、進口並媒合供貨，沙拉油月需求2.41萬噸，補缺口",
+          "representative": "https://www.cna.com.tw/news/afe/202611210038.aspx",
+          "urls": [
+            "https://www.cna.com.tw/news/afe/202611210038.aspx"
+          ]
+        },
         {
           "id": "20261116-moea-supply-newyear",
           "note": "經濟部表示沙拉油供應至年底無虞，增產並進口近1.5萬噸，春節前貨源已佈署",
