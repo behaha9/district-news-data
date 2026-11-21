@@ -1,19 +1,17 @@
 {
- "fetched_at": "2026-11-21T10:33:41+08:00",
- "generated_at": "2026-11-21T10:33:41+08:00",
+ "fetched_at": "2026-11-21T15:27:20+08:00",
+ "generated_at": "2026-11-21T15:27:19+08:00",
  "window": "7d",
- "event_count": 49,
- "article_count": 72,
+ "event_count": 50,
+ "article_count": 76,
  "items": [
   {
    "url": "https://www.storm.mg/lifestyle/11182682",
-   "title": "老街別只會去淡水、北埔!1超強景點狂吸120人次,遊客讚:美食多環境優美、價位也很親民",
+   "title": "老街別只會去淡水、北埔!1超強景點狂吸120人次,遊客讚:美食多環境優美、 價位也很親民",
    "source": "風傳媒",
-   "published_at": "2026-11-21T00:00:00+08:00",
+   "published_at": "2026-11-21T09:30:00+08:00",
    "event_key": "art:cc4d4aff3b6f3bf45003954958c73dea6cee01a7f4f8ec717c53376c13c5ee88",
-   "primary": true,
-   "summary": "新竹除了以科技產業聞名,還擁有豐富的歷史文化與自然景觀,有著存老城風貌的歷史建築和具有特色的藝文空間,想安排旅行去走走看看,都有不少值得探索的去處。根據《交通部觀光署》2026年1-9月的統計資料顯示,旅客最喜歡去的新竹景點第一名為「內灣老街」,有著120萬的觀光人次,第二名為「獅頭山風景區(新竹地區)」,有著99萬的",
-   "date_only": true
+   "primary": true
   },
   {
    "url": "https://travel.udn.com/travel/story/7209/9877753",
@@ -37,12 +35,28 @@
    "primary": true
   },
   {
+   "url": "https://style.udn.com/style/story/11350/9890620",
+   "title": "當年亞洲最大旗艦店!H&M西門町十年租約到期熄燈 戰線轉移信義商圈",
+   "source": "udnSTYLE",
+   "published_at": "2026-11-20T09:55:00+08:00",
+   "event_key": "art:522363f2ccbd012f6d40068e4657dcc42aa7e3ef8b2d7f5ee301004a7eb0f945",
+   "primary": true
+  },
+  {
+   "url": "https://travel.udn.com/travel/story/7160/9890620",
+   "title": "當年亞洲最大店H&M西門旗艦店 十年租約到期熄燈戰線轉移信義商圈",
+   "source": "UDN",
+   "published_at": "2026-11-20T09:55:00+08:00",
+   "event_key": "art:522363f2ccbd012f6d40068e4657dcc42aa7e3ef8b2d7f5ee301004a7eb0f945",
+   "primary": false
+  },
+  {
    "url": "https://udn.com/news/story/7270/9890620",
    "title": "當年亞洲最大旗艦店!H&M西門町十年租約到期熄燈 戰線轉移信義商圈",
    "source": "UDN",
    "published_at": "2026-11-20T09:55:00+08:00",
-   "event_key": "art:65dd75a8026bcafc0faf33227077171a62a8c14d1fb26881e657168ef751b7c7",
-   "primary": true
+   "event_key": "art:522363f2ccbd012f6d40068e4657dcc42aa7e3ef8b2d7f5ee301004a7eb0f945",
+   "primary": false
   },
   {
    "url": "https://www.travelnews.tw/news/%E7%A5%9E%E8%BE%B2%E5%95%86%E5%9C%88%E6%8B%9A%E6%93%B4%E5%8D%80%E3%80%80%E5%BC%B5%E5%8B%9D%E5%BE%B7%E6%8F%90%E5%9B%9B%E9%A0%85%E6%9C%83%E5%8B%98%E7%B5%90%E8%AB%96/",
@@ -83,11 +97,8 @@
    "title": "2027台北跨年音樂晚會與三大多元舞台全攻略!信義商圈跨夜音浪101煙火迎新指南|喚月部落格",
    "source": "moonvoke.com",
    "published_at": "2026-11-19T19:57:00+08:00",
-   "event_key": "art:433d6b84deed474ca63d5abcff02d4d17e3bf46d697a53af0658b364b1aa69ce",
-   "primary": true,
-   "cities": [
-    "台北市"
-   ]
+   "event_key": "archive:33b857581d24da06",
+   "primary": true
   },
   {
    "url": "https://www.contentplatform.info/articles/583422/%E4%B8%B2%E8%81%AF%E6%8D%B7%E9%81%8B%E5%95%86%E5%9C%88%E8%88%87%E7%B6%A0%E5%9C%B0%E3%80%80%E4%B8%AD%E5%92%8C%E7%AC%AC%E4%BA%8C%E5%9C%8B%E9%81%8B%E4%B8%AD%E5%BF%83%E9%96%8B%E5%B7%A5%E3%80%80%E4%BE%AF/",
@@ -145,7 +156,7 @@
    "title": "陽明山山藥季開跑!攜手士林商圈推出聯名限定美味",
    "source": "臺北旅遊網",
    "published_at": "2026-11-19T10:18:00+08:00",
-   "event_key": "art:329e33c94f76ab83eaaabb178fed10bd6973d2ec25acb3e6568174b3283deed7",
+   "event_key": "archive:92aeb8f06c5d4be7",
    "primary": true
   },
   {
@@ -153,15 +164,17 @@
    "title": "跨縣市傳承二十年家鄉味 北投復興崗商圈吹起「平價道地越式料理」風潮",
    "source": "台灣好新聞",
    "published_at": "2026-11-19T10:04:00+08:00",
-   "event_key": "art:c03404364a88ad776e45b4f32c6c1966b0967385069e6a8dc1389be8faf1ecb3",
-   "primary": false
+   "event_key": "art:eaf6ce84fc340df8073b07c2333a56aea1f6fb9f3af6ff0a3e6d4d55248619bc",
+   "primary": false,
+   "summary": "隨著外食成本攀升與飲食文化日益多元,兼具飽足感與親民價格的東南亞料理,已成為大台北學區與住宅商圈不可或缺的日常風景。觀察台北市北投區中央北路二段、鄰近捷運復興崗站與國防大學周邊的餐飲生態,近年陸續有主打道地家鄉風味的越式小吃店進駐,以邱記台越美食為例,主餐價格多落在140至160元區間,炒飯與炒麵則約90至140元,憑",
+   "date_only": true
   },
   {
    "url": "https://news.tvbs.com.tw/politics/4052755",
    "title": "柯文哲豐原徒步闖關!連小華拋「藍寶石珍珠項鍊」拚商圈復甦",
    "source": "TVBS新聞網",
    "published_at": "2026-11-19T09:53:00+08:00",
-   "event_key": "art:58f6f47f382b1c85607fad8bbc13e76552d0243198f60dcba726a60abd6bec00",
+   "event_key": "archive:d120879652247539",
    "primary": true
   },
   {
@@ -169,30 +182,36 @@
    "title": "鼎王重返桃園「插旗火車站前商圈」 11/24搶先試營運",
    "source": "ETtoday旅遊雲",
    "published_at": "2026-11-19T09:46:00+08:00",
-   "event_key": "art:e10d179403f6681ae210df20e4f27d99a624f27fe1b4915088dda6c136b069e2",
-   "primary": true,
-   "cities": [
-    "桃園市"
-   ]
+   "event_key": "archive:e14f52892562d8b4",
+   "primary": true
   },
   {
    "url": "https://travel.ettoday.net/amp/3274693",
    "title": "鼎王重返桃園「插旗火車站前商圈」 11/24搶先試營運",
    "source": "ETtoday旅遊雲",
    "published_at": "2026-11-19T09:46:00+08:00",
-   "event_key": "art:e10d179403f6681ae210df20e4f27d99a624f27fe1b4915088dda6c136b069e2",
-   "primary": false,
-   "cities": [
-    "桃園市"
-   ]
+   "event_key": "archive:e14f52892562d8b4",
+   "primary": false
   },
   {
    "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/263276",
    "title": "跨縣市傳承二十年家鄉味 北投復興崗商圈吹起「平價道地越式料理」風潮",
    "source": "理財周刊",
    "published_at": "2026-11-19T09:40:00+08:00",
-   "event_key": "art:c03404364a88ad776e45b4f32c6c1966b0967385069e6a8dc1389be8faf1ecb3",
-   "primary": true
+   "event_key": "art:eaf6ce84fc340df8073b07c2333a56aea1f6fb9f3af6ff0a3e6d4d55248619bc",
+   "primary": false,
+   "summary": "隨著外食成本攀升與飲食文化日益多元,兼具飽足感與親民價格的東南亞料理,已成為大台北學區與住宅商圈不可或缺的日常風景。觀察台北市北投區中央北路二段、鄰近捷運復興崗站與國防大學周邊的餐飲生態,近年陸續有主打道地家鄉風味的越式小吃店進駐,以邱記台越美食為例,主餐價格多落在140至160元區間,炒飯與炒麵則約90至140元,憑",
+   "date_only": true
+  },
+  {
+   "url": "https://life.tw/article/%E8%B7%A8%E7%B8%A3%E5%B8%82%E5%82%B3%E6%89%BF%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%AE%B6%E9%84%89%E5%91%B3-%E5%8C%97%E6%8A%95%E5%BE%A9%E8%88%88%E5%B4%97%E5%95%86%E5%9C%88%E5%90%B9%E8%B5%B7-%E5%B9%B3%E5%83%B9%E9%81%93%E5%9C%B0%E8%B6%8A%E5%BC%8F%E6%96%99%E7%90%86-3225709",
+   "title": "跨縣市傳承二十年家鄉味 北投復興崗商圈吹起「平價道地越式料理」風潮",
+   "source": "LIFE 生活網",
+   "published_at": "2026-11-19T08:59:00+08:00",
+   "event_key": "art:eaf6ce84fc340df8073b07c2333a56aea1f6fb9f3af6ff0a3e6d4d55248619bc",
+   "primary": true,
+   "summary": "隨著外食成本攀升與飲食文化日益多元,兼具飽足感與親民價格的東南亞料理,已成為大台北學區與住宅商圈不可或缺的日常風景。觀察台北市北投區中央北路二段、鄰近捷運復興崗站與國防大學周邊的餐飲生態,近年陸續有主打道地家鄉風味的越式小吃店進駐,以邱記台越美食為例,主餐價格多落在140至160元區間,炒飯與炒麵則約90至140元,憑",
+   "date_only": true
   },
   {
    "url": "https://money.udn.com/money/story/12622/9889662",
@@ -209,6 +228,16 @@
    "published_at": "2026-11-19T04:28:00+08:00",
    "event_key": "art:9235e55ec7b97aa5efed596a1d080f120c1d8c9f2e86fc26e73783fb8b85954c",
    "primary": false
+  },
+  {
+   "url": "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html",
+   "title": "五中全会精神在基层丨党建引领“微改造” 老街焕新机",
+   "source": "法治网",
+   "published_at": "2026-11-19T00:01:00+08:00",
+   "event_key": "art:ad1ce980c49f729f7f11b0b638fc6e74b43106fc3bd0c0027249d61a4a959a89",
+   "primary": true,
+   "summary": "夜幕降临,湖北省荆州市沙市区五一路霓虹闪烁、游人如织。这条百年老街曾是无序的“三无街区”。 党的二十届五中全会指出,“深化党建引领基层治理和基层政权建设”,“拓宽基层组织和群众依法有序参与基层治理渠道”。五一路的实践,就是把支部建在项目上,把治理服务送到街区一线。当地坚持党建引领,在城市更新项目启动之初即成立临时党支部",
+   "date_only": true
   },
   {
    "url": "https://demo.52salon.com/uninews_view.php?new_sn=150115",
@@ -233,16 +262,6 @@
    "published_at": "2026-11-18T14:00:00+08:00",
    "event_key": "archive:f49f400ec9f89c6c",
    "primary": true
-  },
-  {
-   "url": "https://more-news.tw/771481/",
-   "title": "陽明山山藥季開跑 攜手士林商圈推出聯名限定美味",
-   "source": "墨新聞-MORE News",
-   "published_at": "2026-11-18T12:39:00+08:00",
-   "event_key": "archive:be3f2c05a9da9c36",
-   "primary": true,
-   "summary": "士林陽明山山藥深受廣大民眾喜愛,擁有得天獨厚的天然環境,土壤富含豐富的礦物質、純淨的水質,在農業部、臺北市政府及其他單位多年的輔導之下,農民採用「天溝」栽培方式,產出之「士林陽明山山藥」肉質特別細膩,Q感十足,每年11月底就令人非常期待臺灣在地的好滋味。",
-   "date_only": true
   },
   {
    "url": "https://n.yam.com/Article/20261118544382",
@@ -285,22 +304,32 @@
    "date_only": true
   },
   {
-   "url": "https://n.yam.com/Article/20261118895404",
-   "title": "陽明山山藥季開跑 攜手士林商圈推出聯名限定美味",
-   "source": "蕃新聞",
-   "published_at": "2026-11-18T00:00:00+08:00",
-   "event_key": "archive:be3f2c05a9da9c36",
-   "primary": false,
-   "summary": "士林陽明山山藥深受廣大民眾喜愛,擁有得天獨厚的天然環境,土壤富含豐富的礦物質、純淨的水質,在農業部、臺北市政府及其他單位多年的輔導之下,農民採用「天溝」栽培方式,產出之「士林陽明山山藥」肉質特別細膩,Q感十足,每年11月底就令人非常期待臺灣在地的好滋味。",
-   "date_only": true
-  },
-  {
    "url": "https://life.tw/article/%E8%90%AC%E8%8F%AF%E5%95%86%E5%9C%88%E5%BB%8A%E5%B8%B6%E7%92%B0%E5%A2%83%E5%84%AA%E5%8C%96%E8%A8%88%E7%95%AB%E5%95%9F%E5%8B%95-3223425",
    "title": "萬華商圈廊帶環境優化計畫啟動",
    "source": "LIFE 生活網",
    "published_at": "2026-11-18T00:00:00+08:00",
    "event_key": "archive:4698dd589621332d",
    "primary": false
+  },
+  {
+   "url": "https://more-news.tw/771481/",
+   "title": "陽明山山藥季開跑 攜手士林商圈推出聯名限定美味",
+   "source": "more-news",
+   "published_at": "2026-11-18T00:00:00+08:00",
+   "event_key": "art:8f5d92336d348013253d1c20e6ac36cb881ccde48fd06d22cefcf0eb73777b19",
+   "primary": true,
+   "summary": "秋意漸濃、氣溫轉涼,陽明山上的山藥進入最肥美的季節,一年一度的山藥季即將開始,由臺北市政府輔導,士林區農會與財團法人七星農業發展基金會共同主辦的『2026士林陽明山山藥季-山藥秋收,都會慢活』將於11月21日(六)至11月22日(日)於臺北假日建國花市農業櫥窗正式登場! 士林陽明山山藥深受廣大民眾喜愛,擁有得天獨厚的天",
+   "date_only": true
+  },
+  {
+   "url": "https://n.yam.com/Article/20261118895404",
+   "title": "陽明山山藥季開跑 攜手士林商圈推出聯名限定美味",
+   "source": "蕃新聞",
+   "published_at": "2026-11-18T00:00:00+08:00",
+   "event_key": "art:8f5d92336d348013253d1c20e6ac36cb881ccde48fd06d22cefcf0eb73777b19",
+   "primary": false,
+   "summary": "秋意漸濃、氣溫轉涼,陽明山上的山藥進入最肥美的季節,一年一度的山藥季即將開始,由臺北市政府輔導,士林區農會與財團法人七星農業發展基金會共同主辦的『2026士林陽明山山藥季-山藥秋收,都會慢活』將於11月21日(六)至11月22日(日)於臺北假日建國花市農業櫥窗正式登場! 士林陽明山山藥深受廣大民眾喜愛,擁有得天獨厚的天",
+   "date_only": true
   },
   {
    "url": "https://tw.news.yahoo.com/%E4%BB%96%E7%99%BC%E6%96%87%E6%80%A8-%E7%AB%B9%E5%8C%97%E9%83%BD%E6%B2%92%E7%99%BC%E5%B1%95%E5%95%86%E5%9C%88-%E7%B6%B2%E6%9B%9D-1%E6%AE%98%E9%85%B7%E7%9C%9F%E7%9B%B8-142220908.html",
@@ -498,6 +527,16 @@
    "primary": false
   },
   {
+   "url": "https://money.udn.com/money/story/7843/9877384",
+   "title": "晚下班也能吃好鍋!黑毛屋插旗南京復興商圈 營業至晚間11點",
+   "source": "經濟日報",
+   "published_at": "2026-11-16T10:01:00+08:00",
+   "event_key": "art:347bc0d948b57032f38075b7b3570f64576735ccaa415f46ed0f4e991a24fd19",
+   "primary": true,
+   "summary": "下班晚了,也能好好吃頓鍋!乾杯集團旗下日式鍋物品牌「黑毛屋」再拓新據點,全台第21家門店「慶城店」插旗台北南京復興商圈,即日起開幕迎賓。新店營業至晚間11點,主打四大經典日式鍋物,套餐380元起,上班族即使晚下班,也能從容享用鍋物美味,為商圈增添鍋物新選擇! 黑毛屋第21間店落腳慶城街 營業至晚間11點搶攻宵夜商機 慶",
+   "date_only": true
+  },
+  {
    "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4E021CD9DDDE7E24",
    "title": "「2026高雄聖誕生活節」紫色浪漫點燈!「耶誕小鎮」連續5個週末登場紫色限定美食、手作耳飾與商圈燈海迎接海內外ARMY",
    "source": "高雄市政府全球資訊網",
@@ -546,16 +585,6 @@
    "date_only": true
   },
   {
-   "url": "https://www.storm.mg/article/11182056",
-   "title": "陽明山山藥季11/21登場!攜手士林商圈推限定美食 山藥拿鐵、銅鑼燒搶攻味蕾",
-   "source": "風傳媒",
-   "published_at": "2026-11-16T00:00:00+08:00",
-   "event_key": "art:679c91a8b31b5fd606db8e2ce6d18d5e9f9ade6fda075dcb0537512fc9aa6faf",
-   "primary": true,
-   "summary": "秋冬山藥飄香,陽明山在地好滋味即將登場!由士林區農會與財團法人七星農業發展基金會共同主辦的「2026士林陽明山山藥季-山藥秋收,都會慢活」,將於11月21日至22日在台北假日建國花市農業櫥窗舉行。今年活動首度攜手士林商圈特色店家,推出山藥烤栗子拿鐵、山藥麻糬銅鑼燒等聯名限定商品,讓在地農產跨界結合咖啡與甜點,活動期間自",
-   "date_only": true
-  },
-  {
    "url": "https://www.ctee.com.tw/news/20261116701273-431401",
    "title": "「吃在北平、穿在天津、住在賴興」盧冬松深耕28年打造商圈與宜居社區",
    "source": "工商時報",
@@ -566,6 +595,16 @@
    "date_only": true
   },
   {
+   "url": "https://www.storm.mg/article/11182056",
+   "title": "陽明山山藥季11/21登場!攜手士林商圈推限定美食 山藥拿鐵、銅鑼燒搶攻味蕾",
+   "source": "風傳媒",
+   "published_at": "2026-11-16T00:00:00+08:00",
+   "event_key": "archive:780d033b03865bc",
+   "primary": true,
+   "summary": "秋冬山藥飄香,陽明山在地好滋味即將登場!由士林區農會與財團法人七星農業發展基金會共同主辦的「2026士林陽明山山藥季-山藥秋收,都會慢活」,將於11月21日至22日在台北假日建國花市農業櫥窗舉行。今年活動首度攜手士林商圈特色店家,推出山藥烤栗子拿鐵、山藥麻糬銅鑼燒等聯名限定商品,讓在地農產跨界結合咖啡與甜點,活動期間自",
+   "date_only": true
+  },
+  {
    "url": "https://tw.news.yahoo.com/%E6%B8%B8%E6%B7%91%E8%B2%9E%E6%8F%90%E8%88%8A%E5%9F%8E%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88%E7%AD%96%E7%95%A5-132619509.html",
    "title": "游淑貞提舊城商圈振興策略",
    "source": "Yahoo奇摩新聞",
@@ -573,16 +612,6 @@
    "event_key": "art:9e33ba6b1c9d1b67b2a067230def50366d06188d55c2820fb60c7799f32bc5e2",
    "primary": true,
    "summary": "面對國旅市場疲軟、國際觀光客源不足等挑戰,國民黨提名花蓮縣長候選人游淑貞提出「舊城文化再生、商圈經濟振興」策略,主張整合花蓮市大禹街、舊鐵道文化徒步區及金三角商圈既有建設成果(見圖),從文化深耕、觀光消費、青年創業及交通改善四大面向著手,打造兼具文化特色與商業活力的城市觀光核心,讓過路客變成留宿客,讓觀光人潮真正轉化為",
-   "date_only": true
-  },
-  {
-   "url": "https://money.udn.com/money/story/7843/9877384",
-   "title": "晚下班也能吃好鍋!黑毛屋插旗南京復興商圈 營業至晚間11點",
-   "source": "經濟日報",
-   "published_at": "2026-11-15T20:01:00+08:00",
-   "event_key": "art:347bc0d948b57032f38075b7b3570f64576735ccaa415f46ed0f4e991a24fd19",
-   "primary": true,
-   "summary": "下班晚了,也能好好吃頓鍋!乾杯集團旗下日式鍋物品牌「黑毛屋」再拓新據點,全台第21家門店「慶城店」插旗台北南京復興商圈,即日起開幕迎賓。新店營業至晚間11點,主打四大經典日式鍋物,套餐380元起,上班族即使晚下班,也能從容享用鍋物美味,為商圈增添鍋物新選擇! 黑毛屋第21間店落腳慶城街 營業至晚間11點搶攻宵夜商機 慶",
    "date_only": true
   },
   {

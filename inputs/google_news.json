@@ -1,20 +1,31 @@
 {
- "fetched_at": "2026-11-21T10:33:47+08:00",
+ "fetched_at": "2026-11-21T15:27:24+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 102,
+  "raw": 94,
   "kept": 26,
   "resolved": 26,
-  "items": 25,
+  "items": 24,
   "resolve_this_run": {
-   "online": 3
+   "online": 5
   },
   "dropped_old": [
+   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
    "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬一圖看懂禁止區| 生活（原文日期 2026-08-01）"
   ]
  },
  "items": [
+  {
+   "title": "大阪堺中百舌鳥商店街燈飾11/25點燈 回收炸油發電、規模擴大到200公尺",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZMzFMNG40SWlpbHRBMHJaS09RRk93Ymxaa3FPM2U5UmY1XzJXcHhubnZ1Tm90R3dGWDF5aUVmWlJTU05hRDZrOTR4ekQ1V01oOVE?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-21T10:54+08:00",
+   "query": "商店街",
+   "url": "https://n.yam.com/Article/20261121283518",
+   "resolved": true
+  },
   {
    "title": "老街別只會去淡水、北埔！1超強景點狂吸120人次，遊客讚：美食多環境優美、 價位也很親民",
    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ITDA2bWJjMGJPM0Z3emJod1lhNDdfN0xLVW5PRjJzNmNMV29zc1BqV3FaVGdScEN1YTZXM2Qyc2U0QUZreE5PdG5BdkNqWkQt?oc=5",
@@ -86,6 +97,16 @@
    "resolved": true
   },
   {
+   "title": "9米高寶可夢耶誕樹現身嘉義百貨前商圈添節慶色彩- 生活",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qSUJTMXg2SDRBVjVrNFlJeEJWa3FhZ3RxZU5jWm9wY2lBdGdxQlZWQllVQkRoQ2drSXNFWjgtX0hFdV9KdkktaWZ5eVZJOWdIeXZkMENEbUZhQThPN3hRZTYtLXk?oc=5",
+   "source": "自由時報",
+   "source_site": "https://news.ltn.com.tw",
+   "published_at": "2026-11-20T12:21+08:00",
+   "query": "商圈",
+   "url": "https://news.ltn.com.tw/news/life/breakingnews/5647352",
+   "resolved": true
+  },
+  {
    "title": "2026臺北溫泉季活動改期至11月20日舉行",
    "google_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcjRoR0NYam81b1lKbmUtSmZzbWxYczJVTjVqTi1iU3h6dXE3MmJua3pSTHVHcUpDRlJ0NkJRb21vSWxhVXhjS1l5bmREdS1yRnN0T3dqcnA0cnpMY3ZVRnNxYWVBX0tJMDlqb2dtMlVwb2NmVE52VmhFX3NmTW9CTThLeGFUdTZHYlN2S1h5LWtieW5QS292dzh2ZmVNRklCMmlHYXJJOVNqcEQ1Sy1TcUpmeGcxZlU0TUItSXNLNktfZ19xUWxPWFFDamdxRVN3OVdha3kwTjdHeGdTOTF5dmRINTBIbG40UjdoWXd0Q2VGQW9QNTl5a253?oc=5",
    "source": "LIFE 生活網",
@@ -96,23 +117,13 @@
    "resolved": true
   },
   {
-   "title": "當年亞洲最大旗艦店！H&M西門町十年租約到期熄燈 戰線轉移信義商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWJ2VTVVN2pnSVFkektiZTMwRmlXRWxfZ3NRYkpxNlVBYTJ4VGxwdHpuak9rdTBBX3gxVUQzcHpkaWp2Qk1vME1KclAyZXFEYUpIQ0Z1SkNSUjZzMlNDbnlfTmlzb3dfRnlnbHpfM1laeWFZSS1lWHJab2FQV2FXc9IBYEFVX3lxTE5qM2VOcEhfN1RON3I1am9xNVNWTHpQQ2VDclI2bUhVR0tJV2xGa3dld1hEY0dlbDJHVXc3V0RQUE9mU1EtSVFWaFFLSV9tMFNsQVBlVDlRMEZXNGVNckJLUA?oc=5",
-   "source": "udnSTYLE",
-   "source_site": "https://style.udn.com",
-   "published_at": "2026-11-20T09:55+08:00",
-   "query": "商圈",
-   "url": "https://style.udn.com/style/story/11350/9890620?from=udn-catenewnews_ch2002",
-   "resolved": true
-  },
-  {
    "title": "當年亞洲最大店H&M西門旗艦店 十年租約到期熄燈戰線轉移信義商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5Q3ZaUzNPRTZuaWNQTUN1ams5aHFlNVdhZzJ6OXhtSmRGQ3FIOGwwb2dEQmVZallPLUMwS1MwakpqNXNNLVEzalZTR2xGSVNrZ0x4QW9yMW9KX05E?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14TG5WdFljZERpRUc2angyb05aNEliVzZOTHJ3S0VKTU05Yll5cVBQY00zSURnZ2JGQkQ1MWRjQ29wTV8zTXNQcVNnU3lOeWh0V2ZPM3NB0gFWQVVfeXFMTXhMblZ0WWNkRGlFRzZqeDJvTlo0SWJXNk5McndLRUpNTTliWXlxUFBjTTNJRGdnYkZCRDUxZGNDb3BNXzNNc1BxU2dTeU55aHRXZk8zc0E?oc=5",
    "source": "UDN",
-   "source_site": "https://travel.udn.com",
+   "source_site": "https://udn.com",
    "published_at": "2026-11-20T09:55+08:00",
    "query": "商圈",
-   "url": "https://travel.udn.com/travel/story/7160/9890620",
+   "url": "https://udn.com/news/amp/story/7270/9890620",
    "resolved": true
   },
   {
@@ -123,6 +134,16 @@
    "published_at": "2026-11-20T09:39+08:00",
    "query": "商圈",
    "url": "https://www.travelnews.tw/news/%E7%A5%9E%E8%BE%B2%E5%95%86%E5%9C%88%E6%8B%9A%E6%93%B4%E5%8D%80%E3%80%80%E5%BC%B5%E5%8B%9D%E5%BE%B7%E6%8F%90%E5%9B%9B%E9%A0%85%E6%9C%83%E5%8B%98%E7%B5%90%E8%AB%96/",
+   "resolved": true
+  },
+  {
+   "title": "討論牆 | 台灣好行／暑期三大主題遊程 一次玩透！台中超夯景點與商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xa1VrSWg5MS1UazJXUEhrclFvMnJ3aml2RER1eU5wMGJYRkZaczBxdzhYV0Q1RjRuRnNTLTVYVlZSSlE3UU9uVXJXVTQ4ZXJjcnVfdlhyY1g4Z1lheHIwR01ocUw?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-20T04:26+08:00",
+   "query": "商圈",
+   "url": "https://today.line.me/tw/v3/posts/list/article/Op7eKZy",
    "resolved": true
   },
   {
@@ -206,6 +227,16 @@
    "resolved": true
   },
   {
+   "title": "成都金牛區蓉北商圈商業用地拍賣出讓 起始價31249.73萬元",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44elpNTlJtaVBJWi05THduc3lpQzVDaEk3RDRQLVBTYmdveWpWZ2FrNTFBQTJPa2pyeTY3ZEp5NG1QUXJ4NnpGTmI1Y3ZEQUlaTkhZOGpGUWVXQ0JTQ185eXQ3NV8?oc=5",
+   "source": "觀點網",
+   "source_site": "https://www.guandian.hk",
+   "published_at": "2026-11-19T17:17+08:00",
+   "query": "商圈",
+   "url": "https://www.guandian.hk/article/20261119/10069873.html",
+   "resolved": true
+  },
+  {
    "title": "老街小吃外的慢食新風景 雲林西螺吹起「義式餐桌＋手作甜點」返鄉創業潮",
    "google_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOdVY4RDN1SjMxOENWajk1WmJWcUdydjZLR3owd0xELTEwbVEwVVhSZnVmZm16by14aGhwYWZ5aTkwTUxsSWMxVU1ucExyemtDX04wbnFFV25qT25LTDNPR2pZYkMzUGtNSGRCX0ZzbnpnMGdvcHVLY2hsYmp0dGtoUllZYUtycy16OGw4YkJRYUk4T3EwWFN4R0VWMmhOYnNnVkxUVE5vZW1VeE9ad3ZUTzhNRUlmMEEyQnE4VmZEanRXQnFURTdZSW9wRXdFZEZwSnlsblY5elVERXd3cUFxXzRyczlaV3V1eDA3UmVsaDQ2SDZFaVJ2SHozcHFyOWEyV2t4eUxjMF8wdDR6ZXRua1RodVZ3YmxRZzcxN0RIOGZ5MzFhSW9pQXNQM2tSNHEwZy1yQUdiU1V1UlhHaXZZY204RVpCei1CMVFnYkNPOUxtWEdoSTNmeUxyN1Z1UW1sZTY3cFg4S0JMRHl5WnF4RU9NdE5ON2N0VHZqY01teno4enJvVnNCOWdZdUV6TFU?oc=5",
    "source": "LIFE 生活網",
@@ -216,16 +247,6 @@
    "resolved": true
   },
   {
-   "title": "討論牆 | 他發文怨「竹北都沒發展商圈」 網曝「1殘酷真相」",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoc1dpYld6S0FlM2RNbnBwRW5tVlhBc3k1UHVCUGhObnpCcVBWRXd0dlZHaHYzenZseGxTcndVSktQYm9oQks0SlhvYkJkcXFHSDlZNkw5aUdIcmpNbG5YVWlsZ28?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-19T16:35+08:00",
-   "query": "商圈",
-   "url": "https://today.line.me/tw/v3/posts/list/article/PGza9y0",
-   "resolved": true
-  },
-  {
    "title": "台北四平商圈必吃美食！「種福園」手作斤餅越嚼越香 合菜戴帽也不容錯過",
    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UTnRiTHhWZHBWLTZsWWp5QmFWNUFKelNybkI3Wkc1RFAzRXZaTjh0UTQ3MHliYU4tOUJBVnFqUndBZURqT2ZxWUFWVjBGTlBlcERua3NuU2RRSi1L?oc=5",
    "source": "UDN",
@@ -233,36 +254,6 @@
    "published_at": "2026-11-19T16:00+08:00",
    "query": "商圈",
    "url": "https://travel.udn.com/travel/story/7205/9877738",
-   "resolved": true
-  },
-  {
-   "title": "運動中心不只運動！中和第二運動中心開工 串聯捷運商圈與綠地",
-   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wbFBhSjR6cjFGNlJmblliMTJFTHo4YW80SGJLVWx3VHQ1TFpEbXdxczB5SUxEQklDUUtiVVJGbDZQS0V2emtkbUxmZU5ibG1qRXM2N3FCZ1U1Z05uekZ0Zw?oc=5",
-   "source": "民視新聞網",
-   "source_site": "https://www.ftvnews.com.tw",
-   "published_at": "2026-11-19T14:35+08:00",
-   "query": "商圈",
-   "url": "https://www.ftvnews.com.tw/news/detail/2026B19W0403",
-   "resolved": true
-  },
-  {
-   "title": "新北中和第二運動中心開工 串聯捷運商圈與綠地",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4weUFObGR2VzV0NTUwRUdfT0k3aTRjSTVSQXFQQndkYjllN3ZDNDJVa3BkQ1FLY3htTHBkQkRqNFNOd21TMjR6YUJjYzhBaFEtRFpUVktTeURQV0FmNGtvMUJEUC3SAWpBVV95cUxQTkVtM0NmczVHRnNBWndkNWFmTjJGRTZnendHb3F6a2N6eVQ5dk83bHoydlZFMHFhUlVGalBSZ0JWN1ZlQ3E0S1dvOGNoY2YxSmxGUkxCZktoNXBmNm5adnJ0Vy1zLUtDTmZ3?oc=5",
-   "source": "自由時報",
-   "source_site": "https://news.ltn.com.tw",
-   "published_at": "2026-11-19T12:35+08:00",
-   "query": "商圈",
-   "url": "https://news.ltn.com.tw/news/life/breakingnews/5646078",
-   "resolved": true
-  },
-  {
-   "title": "百億娛樂城隱身昌平商圈！　1年賭資逾155億",
-   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tbnhQakh4SUtGSmZFRlBSeW1TMFo3YTRGUzNJRlp1MUh4eHpoUEg5cktYc2FUQlIxajNlME1ocDYxaG00Y09mOEE3REN2NnRTZ29KcGg0YXZXOUhpcmfSAV5BVV95cUxPLW54UGpIeElLRkpmRUZQUnltUzBaN2E0RlMzSUZadTFIeHh6aFBIOXJLWHNhVEJSMWozZTBNaHA2MWhtNGNPZjhBN0RDdjZ0U2dvSnBoNGF2VzlIaXJn?oc=5",
-   "source": "鏡新聞",
-   "source_site": "https://www.mnews.tw",
-   "published_at": "2026-11-19T12:22+08:00",
-   "query": "商圈",
-   "url": "https://www.mnews.tw/story/amp/20261119sot1222001",
    "resolved": true
   }
  ]
