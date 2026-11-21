@@ -1,20 +1,30 @@
 {
- "fetched_at": "2026-11-21T07:17:05+08:00",
+ "fetched_at": "2026-11-21T10:33:47+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 99,
-  "kept": 30,
-  "resolved": 30,
-  "items": 29,
+  "raw": 102,
+  "kept": 26,
+  "resolved": 26,
+  "items": 25,
   "resolve_this_run": {
-   "online": 2
+   "online": 3
   },
   "dropped_old": [
    "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬一圖看懂禁止區| 生活（原文日期 2026-08-01）"
   ]
  },
  "items": [
+  {
+   "title": "老街別只會去淡水、北埔！1超強景點狂吸120人次，遊客讚：美食多環境優美、 價位也很親民",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ITDA2bWJjMGJPM0Z3emJod1lhNDdfN0xLVW5PRjJzNmNMV29zc1BqV3FaVGdScEN1YTZXM2Qyc2U0QUZreE5PdG5BdkNqWkQt?oc=5",
+   "source": "風傳媒",
+   "source_site": "https://www.storm.mg",
+   "published_at": "2026-11-21T09:30+08:00",
+   "query": "老街",
+   "url": "https://www.storm.mg/lifestyle/11182682",
+   "resolved": true
+  },
   {
    "title": "新北房市 林口三井生活圈 商圈成熟房價有撐",
    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwalBkam1lUUNGck8xbHZGekdCc0I1aUM3YVcwbVN3N2hsYlBweTNWaUltZ0NJV1V1TERRMHU4Ul9TWkhWZ2FEaW05Z0pRQklfVTJtSHl3LXpkcjRvcURud0RmeS1YbjVRd0M4?oc=5",
@@ -87,12 +97,22 @@
   },
   {
    "title": "當年亞洲最大旗艦店！H&M西門町十年租約到期熄燈 戰線轉移信義商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1cFlKLVFvaWZzRjF6RzlsXzUzN1NRN2Q4V0g0TzZKV1kwSnh6dWp1UVZQdWZSR19aMklUdjZQVl9EYlZlY1NHTDMzU3VudlpD0gFWQVVfeXFMTXhMblZ0WWNkRGlFRzZqeDJvTlo0SWJXNk5McndLRUpNTTliWXlxUFBjTTNJRGdnYkZCRDUxZGNDb3BNXzNNc1BxU2dTeU55aHRXZk8zc0E?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
+   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWJ2VTVVN2pnSVFkektiZTMwRmlXRWxfZ3NRYkpxNlVBYTJ4VGxwdHpuak9rdTBBX3gxVUQzcHpkaWp2Qk1vME1KclAyZXFEYUpIQ0Z1SkNSUjZzMlNDbnlfTmlzb3dfRnlnbHpfM1laeWFZSS1lWHJab2FQV2FXc9IBYEFVX3lxTE5qM2VOcEhfN1RON3I1am9xNVNWTHpQQ2VDclI2bUhVR0tJV2xGa3dld1hEY0dlbDJHVXc3V0RQUE9mU1EtSVFWaFFLSV9tMFNsQVBlVDlRMEZXNGVNckJLUA?oc=5",
+   "source": "udnSTYLE",
+   "source_site": "https://style.udn.com",
    "published_at": "2026-11-20T09:55+08:00",
    "query": "商圈",
-   "url": "https://udn.com/news/story/7270/9890620",
+   "url": "https://style.udn.com/style/story/11350/9890620?from=udn-catenewnews_ch2002",
+   "resolved": true
+  },
+  {
+   "title": "當年亞洲最大店H&M西門旗艦店 十年租約到期熄燈戰線轉移信義商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5Q3ZaUzNPRTZuaWNQTUN1ams5aHFlNVdhZzJ6OXhtSmRGQ3FIOGwwb2dEQmVZallPLUMwS1MwakpqNXNNLVEzalZTR2xGSVNrZ0x4QW9yMW9KX05E?oc=5",
+   "source": "UDN",
+   "source_site": "https://travel.udn.com",
+   "published_at": "2026-11-20T09:55+08:00",
+   "query": "商圈",
+   "url": "https://travel.udn.com/travel/story/7160/9890620",
    "resolved": true
   },
   {
@@ -133,16 +153,6 @@
    "published_at": "2026-11-19T22:16+08:00",
    "query": "老街",
    "url": "https://money.udn.com/money/amp/story/12622/9889662",
-   "resolved": true
-  },
-  {
-   "title": "2027台北跨年音樂晚會與三大多元舞台全攻略！信義商圈跨夜音浪101煙火迎新指南｜喚月部落格",
-   "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWl9BSVZyT254bC1NLUhyeTdBX0JselRSMkE3N1B5NW0zRmplZmMydTNaTjlPcC1wNWlpaW1YeU5vV05KeUlESUg0Y0FVWHJ0NGY0eFE0bV9xYkFEWTVldEVtNUtGYl9aYTAtODlkVHVtdDZ0dXZIOW4tV0k3RGdBdU9wLTgwTXBabzJTRFM2VQ?oc=5",
-   "source": "moonvoke.com",
-   "source_site": "https://moonvoke.com",
-   "published_at": "2026-11-19T19:57+08:00",
-   "query": "商圈",
-   "url": "https://moonvoke.com/posts/taipei-new-years-eve-countdown-stages-fireworks-guide-2027/",
    "resolved": true
   },
   {
@@ -196,6 +206,16 @@
    "resolved": true
   },
   {
+   "title": "老街小吃外的慢食新風景 雲林西螺吹起「義式餐桌＋手作甜點」返鄉創業潮",
+   "google_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOdVY4RDN1SjMxOENWajk1WmJWcUdydjZLR3owd0xELTEwbVEwVVhSZnVmZm16by14aGhwYWZ5aTkwTUxsSWMxVU1ucExyemtDX04wbnFFV25qT25LTDNPR2pZYkMzUGtNSGRCX0ZzbnpnMGdvcHVLY2hsYmp0dGtoUllZYUtycy16OGw4YkJRYUk4T3EwWFN4R0VWMmhOYnNnVkxUVE5vZW1VeE9ad3ZUTzhNRUlmMEEyQnE4VmZEanRXQnFURTdZSW9wRXdFZEZwSnlsblY5elVERXd3cUFxXzRyczlaV3V1eDA3UmVsaDQ2SDZFaVJ2SHozcHFyOWEyV2t4eUxjMF8wdDR6ZXRua1RodVZ3YmxRZzcxN0RIOGZ5MzFhSW9pQXNQM2tSNHEwZy1yQUdiU1V1UlhHaXZZY204RVpCei1CMVFnYkNPOUxtWEdoSTNmeUxyN1Z1UW1sZTY3cFg4S0JMRHl5WnF4RU9NdE5ON2N0VHZqY01teno4enJvVnNCOWdZdUV6TFU?oc=5",
+   "source": "LIFE 生活網",
+   "source_site": "https://life.tw",
+   "published_at": "2026-11-19T16:59+08:00",
+   "query": "老街",
+   "url": "https://life.tw/article/%E8%80%81%E8%A1%97%E5%B0%8F%E5%90%83%E5%A4%96%E7%9A%84%E6%85%A2%E9%A3%9F%E6%96%B0%E9%A2%A8%E6%99%AF-%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E5%90%B9%E8%B5%B7-%E7%BE%A9%E5%BC%8F%E9%A4%90%E6%A1%8C%E6%89%8B%E4%BD%9C%E7%94%9C%E9%BB%9E-%E8%BF%94%E9%84%89-3225704",
+   "resolved": true
+  },
+  {
    "title": "討論牆 | 他發文怨「竹北都沒發展商圈」 網曝「1殘酷真相」",
    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoc1dpYld6S0FlM2RNbnBwRW5tVlhBc3k1UHVCUGhObnpCcVBWRXd0dlZHaHYzenZseGxTcndVSktQYm9oQks0SlhvYkJkcXFHSDlZNkw5aUdIcmpNbG5YVWlsZ28?oc=5",
    "source": "LINE TODAY",
@@ -243,66 +263,6 @@
    "published_at": "2026-11-19T12:22+08:00",
    "query": "商圈",
    "url": "https://www.mnews.tw/story/amp/20261119sot1222001",
-   "resolved": true
-  },
-  {
-   "title": "陽明山山藥季開跑！攜手士林商圈推出聯名限定美味",
-   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rWlpWTUZkNkctSTg1MHhqSDF4RTdNTF8yWW1kcmpsbHVrYno1ckZqRjl3SFp2d2ZBWWxra3VkU0xqU2RsNDNmOXhBY25HWjEteTdUX3NoS3NnNEl5S1hn?oc=5",
-   "source": "臺北旅遊網",
-   "source_site": "https://www.travel.taipei",
-   "published_at": "2026-11-19T10:18+08:00",
-   "query": "商圈",
-   "url": "https://www.travel.taipei/zh-tw/news/details/68386",
-   "resolved": true
-  },
-  {
-   "title": "柯文哲豐原徒步闖關！連小華拋「藍寶石珍珠項鍊」拚商圈復甦",
-   "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QY3F3TENJck9XUzhUbER2VEJXZnJxNUVGeEppdWRZSERYZ29mYnpYeHQ4bEZxRjZobkNQSGFSNzBjaUZkQU1GMlZUbk81XzBkbks4?oc=5",
-   "source": "TVBS新聞網",
-   "source_site": "https://news.tvbs.com.tw",
-   "published_at": "2026-11-19T09:53+08:00",
-   "query": "商圈",
-   "url": "https://news.tvbs.com.tw/politics/4052755",
-   "resolved": true
-  },
-  {
-   "title": "鼎王重返桃園「插旗火車站前商圈」　11/24搶先試營運",
-   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XQzlGa0ptZTRFVnhVRVhEYzluUVpVSDI5NlkzamJDcjZ0blk4QTBrSWlyZWZkY0RhRVRDdHFCWFRhY3kxQUFGbnJBZ2NzYjZaMFlISFkzRVlTQdIBT0FVX3lxTE5SWFpXci1ydllydlc3Y1BmRk81cDZkNDhwdE4xS0ZGaWtaY3pLRnlNV0pyQUFoTlkyZ196aEFTUHpqRzBSZTBtSVVuRUs4dUk?oc=5",
-   "source": "ETtoday旅遊雲",
-   "source_site": "https://travel.ettoday.net",
-   "published_at": "2026-11-19T09:46+08:00",
-   "query": "商圈",
-   "url": "https://travel.ettoday.net/article/3274693.htm",
-   "resolved": true
-  },
-  {
-   "title": "跨縣市傳承二十年家鄉味 北投復興崗商圈吹起「平價道地越式料理」風潮",
-   "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wcFZDN0t0MDdRdXdEaVBISGZEbjBjYXBGUkRhVndQZTVLS3dGTGdOTDFpdEJGbDcxcGFOUzk0S0IxRWN2aGJnazZnMXBVN0UwOWJBOGlRSUFyNVQ4d2kxMVFWUzF4NHhvVlY3ZldRbw?oc=5",
-   "source": "理財周刊",
-   "source_site": "https://www.moneyweekly.com.tw",
-   "published_at": "2026-11-19T09:40+08:00",
-   "query": "商圈",
-   "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/263276",
-   "resolved": true
-  },
-  {
-   "title": "老街小吃外的慢食新風景 雲林西螺吹起「義式餐桌＋手作甜點」返鄉創業潮",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WSFB0aFA3OXZpbHAyeUxlWDFRV2hxTENWLTZ3eUlxeUoxMFVmc09DOFpYVEZ6Mmg2d0ZibVdSd0pzcXQ0VUVydjVVVHk5MXJkaHc?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-19T08:00+08:00",
-   "query": "老街",
-   "url": "https://n.yam.com/Article/20261119129608",
-   "resolved": true
-  },
-  {
-   "title": "柯志恩衝刺選戰派出神隊友 夫婿洪德成走進市場商圈掀起「小洪流」",
-   "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OQ0NnazVLUGZKcmluSFR1Z1NZNTJfak9JSVNUc0hUOFlhdzI2OG9wSHZzS0prT1NiRC15a1RxeXZjdlN2TFFGVnVBemE4Y1BXeDY1Smw1R3M0TlRmQTd2cUZvTjNfUG8?oc=5",
-   "source": "新華報導",
-   "source_site": "https://ccss3172.blogspot.com",
-   "published_at": "2026-11-19T07:35+08:00",
-   "query": "商圈",
-   "url": "https://ccss3172.blogspot.com/2026/11/blog-post_599.html",
    "resolved": true
   }
  ]

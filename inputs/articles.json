@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T07:17:14+08:00",
+ "fetched_at": "2026-11-21T10:33:58+08:00",
  "articles": {
   "https://www.juksy.com/article/154111": {
    "checked_at": "2026-11-18T20:51+08:00",
@@ -9325,7 +9325,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.travelnews.tw/news/%e7%a5%9e%e8%be%b2%e5%95%86%e5%9c%88%e6%8b%9a%e6%93%b4%e5%8d%80%e3%80%80%e5%bc%b5%e5%8b%9d%e5%be%b7%e6%8f%90%e5%9b%9b%e9%a0%85%e6%9c%83%e5%8b%98%e7%b5%90%e8%ab%96/": {
-   "checked_at": "2026-11-21T01:03+08:00",
+   "checked_at": "2026-11-21T10:33+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -10171,6 +10171,140 @@
    "image": "https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg",
    "image_checked": true,
    "date_hint": "2026-11-20",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E6%A1%83%E6%A9%9F%E5%82%B3%E7%81%BD%E6%83%85-%E4%BA%8C%E8%88%AA%E6%B0%B4%E7%AE%A1%E7%A0%B4%E8%A3%82-%E7%BE%8E%E9%A3%9F%E8%A1%97-%E4%B8%8B%E7%80%91%E5%B8%83%E9%9B%A8-%E6%85%98%E6%B7%B9%E6%B0%B4/ar-AA2hRq4d": {
+   "checked_at": "2026-11-21T10:33+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://travel.udn.com/travel/story/7160/9890620": {
+   "checked_at": "2026-11-21T10:33+08:00",
+   "status": 200,
+   "published_at": "2026-11-20T09:55+08:00",
+   "site_name": "旅遊",
+   "description": "台北西門町商圈指標性地標H&M西門旗艦店，因十年租約期滿不再續約，於11月19日低調結束營業，H&M台灣今早也在官方社群證實發文：「在西門町待了十年，先跟老朋友說聲謝啦」，接下來台灣旗艦店重任將由信義商圈的「台北微風松高店」接棒。",
+   "cities": {
+    "台北市": 12
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1270,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/20/35535705.png&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-20",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.mirrormedia.mg/external/setn_1942480": {
+   "checked_at": "2026-11-21T10:33+08:00",
+   "status": 200,
+   "published_at": "2026-11-20T21:57+08:00",
+   "site_name": "鏡週刊 Mirror Media",
+   "description": "桃園國際機場第二航廈地下二樓，擁有美食區與一些櫃位品牌。今（20）日晚間地下二樓發生水管破裂事件，水一度不斷流出導致地上多處積水，只見維修人員急忙搶修、清潔人員清理地板，現場也放小心地滑標示、維護隔板；約大概有五、六家店面因積水不能營業，現場民眾表示，要去部分區域買東西，但不能過去。",
+   "cities": {
+    "桃園市": 4,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 1006,
+   "image": "https://attach.setn.com/newsimages/2026/11/20/5796518-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-20",
+   "date_hint_from": "原文時間"
+  },
+  "https://life.tw/article/%E8%80%81%E8%A1%97%E5%B0%8F%E5%90%83%E5%A4%96%E7%9A%84%E6%85%A2%E9%A3%9F%E6%96%B0%E9%A2%A8%E6%99%AF-%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E5%90%B9%E8%B5%B7-%E7%BE%A9%E5%BC%8F%E9%A4%90%E6%A1%8C%E6%89%8B%E4%BD%9C%E7%94%9C%E9%BB%9E-%E8%BF%94%E9%84%89-3225704": {
+   "checked_at": "2026-11-21T10:33+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T16:59+08:00",
+   "site_name": "LIFE 生活網",
+   "description": "雲林西螺出現返鄉青年創業潮，以「義式餐桌＋手作甜點」為特色，為小鎮注入新飲食風景。",
+   "cities": {
+    "雲林縣": 8,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 1558,
+   "image": "https://www.moneyweekly.com.tw/Photo/Article/20260320101408_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/Taichung/breakingnews/5648325": {
+   "checked_at": "2026-11-21T10:33+08:00",
+   "status": 200,
+   "published_at": "2026-11-21T10:11+08:00",
+   "site_name": "自由時報電子報",
+   "description": "氣溫驟降，台中市谷關溫泉區因山谷燈光節登場，泡湯遊客增多，各飯店週末住房率約8成滿，另外，龍谷大飯店11月30日將暫停營業，近日吸引遊客拍照留念。昨起氣溫下降，泡湯遊客增加，谷關社區發展協會理事長尹敬倫今（21）日說，谷關週末各飯店約有8成住宿率，較多是趁著低溫，專程住宿泡湯的遊客，另外，山谷燈光節登場，對谷關的訂房是",
+   "cities": {
+    "台中市": 3,
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 446,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/21/5648325_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/lifestyle/11182682": {
+   "checked_at": "2026-11-21T10:33+08:00",
+   "status": 200,
+   "published_at": "2026-11-21T09:30+08:00",
+   "site_name": null,
+   "description": "新竹除了以科技產業聞名，還擁有豐富的歷史文化與自然景觀，有著存老城風貌的歷史建築和具有特色的藝文空間，想安排旅行去走走看看，都有不少值得探索的去處。根據《交通部觀光署》2026年1-9月的統計資料顯示，旅客最喜歡去的新竹景點第一名為「內灣老街」，有著120萬的觀光人次，第二名為「獅頭山風景區(新竹地區)」，有著99萬的",
+   "cities": {
+    "新竹縣": 21,
+    "苗栗縣": 2,
+    "雲林縣": 2
+   },
+   "districts": [
+    "太平老街商圈（嘉義縣）"
+   ],
+   "body_chars": 2554,
+   "image": "https://images.storm.mg/cloud/e439d8208510ec2b0171a6a0893d4f7f366bb680.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2056316%2Fo5ghzTFlVvSALo1WLkXWJmDCHTdtxHRSE6qwCVIl.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.sohu.com/a/1104167535_100133113": {
+   "checked_at": "2026-11-21T10:33+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "2026年8月3日，中国公路学会发布了全国美丽公路项目展示交流活动名单，浙江省宁波市内的细北线和韩天线两条农村公路入选，都是美丽的风景线。 韩天线，西起东钱湖韩岭古村，东至东吴镇天童寺，全长约24公里，一路人文与风光荟萃，适合自驾和骑行，最美秋色斑斓时。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 128,
+   "image": "https://q8.itc.cn/images01/20261120/41e1820ffdcd4e9bbfedb496f6f98fd6.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-20",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://www.cna.com.tw/news/afe/202611210038.aspx": {
+   "checked_at": "2026-11-21T10:33+08:00",
+   "status": 200,
+   "published_at": "2026-11-21T09:27+08:00",
+   "site_name": "中央社 CNA",
+   "description": "中聯油脂停工影響國內沙拉油供應，經濟部表示，國內沙拉油每月需求約2.41萬噸，目前已協調國內業者增產、擴大進口，並自上週啟動供需媒合機制協助業者取得油源。統計11月10日至19日，業者累計登記需求7343桶、約121公噸，截至19日，台糖已完成50家業者、共1341桶油品配送。",
+   "cities": {
+    "台北市": 1,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 1132,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261121/1200x800_wmky_464465292447_202609150131000000.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-21",
    "date_hint_from": "原文時間"
   }
  }
