@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T15:27:34+08:00",
+ "fetched_at": "2026-11-21T20:50:21+08:00",
  "articles": {
   "https://www.juksy.com/article/154111": {
    "checked_at": "2026-11-18T20:51+08:00",
@@ -178,439 +178,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJGoc38EdZxvESdtMOyWpeiDRT_mfl5gqCDIpaVL82DCyPysCHa44GVVLyjYDPbvZPVM3gaTAsHGvkhcJmVwzOiOdatxFE74DaxpDJ1SZdXdi0rD1qgvxmnTvbMLEQQRUZcpSGbvV1Ul7gE5hV79-XrP3pTb1YAv_-yqbSAihaCCU9vvkY-Sp-MykWqIpo/w1200-h630-p-k-no-nu/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_14-11-2026_17384_kpzg.people.com.cn.jpeg",
    "image_checked": true,
    "date_hint": "2026-11-14",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261113738382": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-13T13:42+08:00",
-   "site_name": "蕃新聞",
-   "description": "宜蘭縣代理縣長林茂盛親自到場推薦宜蘭新米。(圖／記者翻攝)【警政時報 包克明／臺北報導】今年逛微風超",
-   "cities": {
-    "宜蘭縣": 20,
-    "台北市": 6,
-    "嘉義市": 2,
-    "彰化縣": 1,
-    "連江縣": 1
-   },
-   "districts": [
-    "松山商圈（台北市）"
-   ],
-   "body_chars": 996,
-   "image": "https://ni.yam.com/20261113/s--91185184-c8fa80b5f5d18b59.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-13",
-   "date_hint_from": "原文時間"
-  },
-  "https://money.udn.com/money/story/5635/9872588": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-12T10:04+08:00",
-   "site_name": "經濟日報",
-   "description": "經濟部商業發展署10日凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」，由經濟部龔明鑫部長親自頒獎，肯定商圈組織及在地業者長期投入的努力與成果，今年計選出20處卓越商圈，透過獎項表揚樹立標竿典範，鼓勵各地商圈相互交流學習，展現臺灣商圈豐富的特色與生命力。 商業署表示，每一處商圈都有屬於自己的故事，無論是歷史文化的傳承、",
-   "cities": {
-    "新北市": 2,
-    "彰化縣": 2,
-    "嘉義縣": 2,
-    "台北市": 1,
-    "台南市": 1
-   },
-   "districts": [
-    "新北投溫泉商圈（台北市）",
-    "縣府太子商圈（嘉義縣）",
-    "鹽水商圈（台南市）",
-    "小琉球商圈（屏東縣）"
-   ],
-   "body_chars": 1789,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/11/35508401.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=903&sl=W&fw=1050&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-12",
-   "date_hint_from": "原文時間"
-  },
-  "https://life.tw/article/%E8%90%AC%E8%8F%AF%E5%95%86%E5%9C%88%E5%BB%8A%E5%B8%B6%E7%92%B0%E5%A2%83%E5%84%AA%E5%8C%96%E8%A8%88%E7%95%AB%E5%95%9F%E5%8B%95-3223425": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T11:56+08:00",
-   "site_name": "LIFE 生活網",
-   "description": "臺北市政府啟動萬華商圈廊帶環境優化計畫，旨在結合跨局處專業與地方團體，推動公共環境、文化景觀及商業服務發展。",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [],
-   "body_chars": 481,
-   "image": "https://img.talknews.app/2026/11/taipei-EC2F8B84ED4A2304-1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cardu.com.tw/news/detail.php?66601": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-14T08:30+08:00",
-   "site_name": "全家掃台灣Pay打9折　萬家福日街口回饋18%｜卡優新聞網",
-   "description": "抓住年末消費與觀光出遊商機，支付業者活動一波波。華南銀行力推「台灣Pay」優惠，不僅在全家便利商店消費滿額享10%現金回饋，在台北市條通商圈更有20%高回饋好康。街口支付攜手萬家福與樂家康舉辦品牌日活動，每週日祭出最高18%回饋。愛金卡公司則開賣5款聯名icash2.0，包括WING STARS女孩卡及迪士尼小熊維尼拉",
-   "cities": {
-    "台北市": 4,
-    "彰化縣": 1
-   },
-   "districts": [
-    "條通商圈（台北市）"
-   ],
-   "body_chars": 1695,
-   "image": "https://imgcloud.cardu.com.tw/201910/20261114/Cardu_6af7aa3a8b11c.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-14",
-   "date_hint_from": "原文時間"
-  },
-  "https://more-news.tw/771481/": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T12:39+08:00",
-   "site_name": "墨新聞 MORE News",
-   "description": "秋意漸濃、氣溫轉涼，陽明山上的山藥進入最肥美的季節，一年一度的山藥季即將開始，由臺北市政府輔導，士林區農會與財 […]",
-   "cities": {
-    "台北市": 7,
-    "嘉義市": 2
-   },
-   "districts": [],
-   "body_chars": 977,
-   "image": "https://more-news.tw/more-news-media/2026/11/f426c32a-80f5-487c-bffc-3bfe2ea7276a-1-scaled.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.upmedia.mg/tw/lifestyle/food/274610": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T14:00+08:00",
-   "site_name": "上報",
-   "description": "夜猫族和加班社畜有福囉！乾杯集團旗下日式鍋物品牌「黑毛屋」全台第 21 家門市「慶城店」正式插旗南京復興商圈。新店與集團旗下高端燒肉品牌「老乾...",
-   "cities": {
-    "新北市": 2,
-    "台北市": 1
-   },
-   "districts": [],
-   "body_chars": 655,
-   "image": "https://cdn.upmedia.mg/upfile/img/2026/1118/202611181333581246.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.contentplatform.info/articles/580827/%E5%8F%B0%E5%8C%97%E8%90%AC%E8%8F%AF%E5%95%86%E5%9C%88%E5%BB%8A%E5%B8%B6%E9%9B%99%E8%BB%B8%E4%B8%B2%E8%81%AF-%E5%BB%A3%E5%B7%9E%E8%A1%97%E8%88%87%E8%89%8B%E8%88%BA%E5%85%AC%E5%9C%92%E7%92%B0%E5%A2%83/": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T14:41+08:00",
-   "site_name": "報新聞 Mega News",
-   "description": "百年艋舺展現城市新風景！從廣州街騎樓與街道環境改善、艋舺公園景觀更新，到老松國小「萬華故事牆」及3處新設文化意象節點，臺北市政府持續推動萬華商圈廊帶發展，讓歷史街區展現嶄新活力。市府自112年以萬華作為首例商圈廊帶示範區域，秉持「攜舊扶新」理念，以「鏈機能、鏈文化」雙軸串聯街區資源，結合跨局處專業…",
-   "cities": {
-    "台北市": 8
-   },
-   "districts": [
-    "萬華街區商圈（台北市）"
-   ],
-   "body_chars": 1539,
-   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/18125557/taipei-cover-261118045555815.jpeg",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://newtalk.tw/news/view/2026-11-18/1071819": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T14:04+08:00",
-   "site_name": "Newtalk新聞",
-   "description": "九合一大選進入最後10天的衝刺階段，高雄市幅員遼闊，共有38個行政區，藍綠陣營兩位高雄市長候選人，不約而同開始展開選前最後車隊大掃街。柯志恩在車掃的同時，也默默派出一位重量級「伏兵」幫忙跑基層，老公洪德成成為她的分身，利用最後幾天密集在市場及商圈拜票，爽朗的個性現親和力，立刻擄獲婆婆媽媽的心，不少人",
-   "cities": {
-    "高雄市": 8
-   },
-   "districts": [],
-   "body_chars": 1172,
-   "image": "https://s.newtalk.tw/album/news/1072/6afd37f91c12d.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://hk.crntt.com/doc/192_21953_107256351_1_1115095635.html": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": "2026年高雄市長選舉，國民黨柯志恩、民進黨賴瑞隆、司法改革黨張靜、無黨籍王肇民、無黨籍洪方隆等5人競逐。有YouTube頻道針對“高雄市長大對決，你支持哪一方？”進行直播街頭民調，地點在高雄三多商圈、中央公園、新堀江商圈周遭，結果顯示柯志恩25票、賴瑞隆25票、雙方平手；張靜1票、王肇民1票、洪方隆0票。　　《中時新",
-   "cities": {
-    "高雄市": 6
-   },
-   "districts": [
-    "新堀江商圈（高雄市）",
-    "中央公園商圈（高雄市）",
-    "三多商圈（高雄市）"
-   ],
-   "body_chars": 183,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.tcpttw.com/life/2026/11/11/329449/": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-11T16:19+08:00",
-   "site_name": "警政時報",
-   "description": "由臺北市松山商圈發展協會與宜蘭縣政府共同推廣的「2026新米祭」，將帶領一年一期的宜蘭嚴選米進駐微風超市，代理縣長林茂盛邀請民眾一同品嚐宜蘭優質好米。",
-   "cities": {
-    "宜蘭縣": 32,
-    "台北市": 10
-   },
-   "districts": [
-    "松山商圈（台北市）"
-   ],
-   "body_chars": 1501,
-   "image": "https://www.tcpttw.com/wp-content/uploads/2026/11/s--90931265.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-11",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.storm.mg/article/11182622": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T10:35+08:00",
-   "site_name": null,
-   "description": "九合一選舉進入最後倒數，高雄市長選戰也進入陸戰衝刺階段。藍綠兩陣營市長候選人不約而同展開全市38個行政區車隊掃街，力拚選前最後一波選票。國民黨候選人柯志恩除了親自車掃，更派出神秘「重量級分身」深入基層，老公洪德成近期密集走訪市場、商圈，從幕後走向第一線，憑著爽朗個性與親切作風，意外擄獲婆婆媽媽的心，所到之處民眾爭相合照",
-   "cities": {
-    "高雄市": 7
-   },
-   "districts": [],
-   "body_chars": 1501,
-   "image": "https://images.storm.mg/cloud/25f40d65e2fb2cb0800aa88d4cc9b336c7af9fb3.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2256150%2FKWfOKu5L2be1fMYO6AnFGpmhJGnSNFRkg00EQnoY.jpeg&g=sm&h=900&resize=fill&w=1600&format=jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ettoday.net/news/20261112/3270531.htm": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-12T07:00+08:00",
-   "site_name": "ETtoday新聞雲",
-   "description": "九合一選舉倒數16天，台北市長蔣萬安、民進黨台北市長候選人沈伯洋都在今（12日）請假，正式進入選戰最後衝刺。蔣萬安一早將從木柵市場拜票展開行程，隨後連趕多個活動，更將在晚間直搗洋流颳起旋風的公館商圈夜市。而沈伯洋也是行程排滿滿，一早將在非常具有象徵意義的中正紀念堂捷運站發送第三期順報，更將召開「台北隊」擴大會議，討論選",
-   "cities": {
-    "台北市": 12,
-    "高雄市": 2
-   },
-   "districts": [],
-   "body_chars": 1171,
-   "image": "https://cdn2.ettoday.net/images/9011/e9011246.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-12",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.xinmedia.com/article/306792": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T11:40+08:00",
-   "site_name": "XINMEDIA欣傳媒",
-   "description": "雲林縣擁有深厚的宗教文化、懷舊老街聚落、農村風情與自然山林景觀，從全台聞名的媽祖信仰中心北港、歷史悠久的西螺街區，到適合親子放電的主題樂園與綠地公園，各自展現鮮明魅力，成為不少民眾規畫中南部慢活輕旅行的熱門首選。",
-   "cities": {
-    "雲林縣": 9,
-    "台北市": 1
-   },
-   "districts": [
-    "太平老街商圈（嘉義縣）"
-   ],
-   "body_chars": 2234,
-   "image": "https://icrvb3jy2.xinmedia.com/solomo/article/306792/3f4e6c49-bf0e-4bfa-ac77-a52b6a406a27.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261118544382": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T11:57+08:00",
-   "site_name": "蕃新聞",
-   "description": "【記者 潘靖茹／臺北報導】臺北市政府持續推動萬華商圈廊帶發展，從廣州街的環境改善與艋舺公園的景觀更新",
-   "cities": {
-    "台北市": 5
-   },
-   "districts": [],
-   "body_chars": 606,
-   "image": "https://ni.yam.com/20261118/taipei-EC2F8B84ED4A2304-1-6a48f40bdb56a563.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/realtimenews/20261115001563-260405": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-15T12:42+08:00",
-   "site_name": "中時新聞網",
-   "description": "中聯油脂6月底爆出大豆油苯駢芘（致癌物）超標事件，引起用油市場震盪，台中市經發局15日表示，18公升營業用油目前均價落在1000元，較8月上漲約8％，經查11家經銷商、雜貨商行未發現異常漲價或囤貨情形。此外，泰山9",
-   "cities": {
-    "台中市": 3
-   },
-   "districts": [],
-   "body_chars": 864,
-   "image": "https://images.chinatimes.com/newsphoto/2026-11-15/656/20261115001564.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-15",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.org.tw/malaysia-mpob-china-gb-31664-2025-3mcpde-ge-2026-11-15/": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T10:57+08:00",
-   "site_name": "索引新聞 INDEX News",
-   "description": "馬來西亞棕櫚油局11月14日建議業者檢視中國GB 31664-2025，標準管控精煉食用油的3-MCPDE與GE，一般適用精煉植物油與魚油。",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1880,
-   "image": "https://news.org.tw/wp-content/uploads/2026/11/malaysia-mpob-china-gb-31664-2025-3mcpde-ge-2026-11-15_final_featured.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E6%B2%99%E6%8B%89%E6%B2%B9-%E7%BC%BA%E8%B2%A8-%E8%A1%9D%E6%93%8A%E7%89%A9%E5%83%B9-%E7%93%A6%E5%9F%8E5%E5%93%81%E7%89%8C-%E5%96%8A%E6%BC%B2-054248070.html": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T13:42+08:00",
-   "site_name": "Yahoo News",
-   "description": "受到中聯油脂停工影響，現在傳出市場上的沙拉油出現斷貨危機嗎。就有食品業者透露，說別說漲價了，現在是連有錢都可能買不到。對此經濟部出手祭出2大措施，包括擴大生產及加速供貨。但面對成本壓力，瓦城集團旗下五大品牌，已經宣布要調漲部分品項價格。",
-   "cities": {
-    "台北市": 10,
-    "高雄市": 1
-   },
-   "districts": [],
-   "body_chars": 3440,
-   "image": "https://media.zenfs.com/en/mnews_tw_258/6a5a9371a4813772d2438b493d3852df",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/article/2D9aWaO?view=topic&referral=TOPIC-Election": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T10:37+08:00",
-   "site_name": "LINE TODAY",
-   "description": "〔記者蔡政珉／苗栗報導〕無黨籍苗栗縣議員葉忠倫角逐竹南鎮長選戰，他提出「竹南未來式」政見，針對鎮內新興的大埔地區與歷史悠久的中港舊城區，主張...",
-   "cities": {
-    "苗栗縣": 4
-   },
-   "districts": [],
-   "body_chars": 559,
-   "image": "https://today-obs.line-scdn.net/0hHp-O4QU_F18QNgvFDPFoCChgGy4jUA1WMlUIPz0wSWs4GlUOK1FEPD1jSHM1BVdcMFkNOGEzHT05BFMJeA/w1200",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E5%A4%AA%E5%A4%AA%E7%9F%B3%E8%88%AB%E4%BA%98%E5%9B%9B%E5%B9%B3%E5%95%86%E5%9C%88%E6%8B%9C%E7%A5%A8-%E5%BA%97%E5%AE%B6%E8%B2%BC-%E5%AE%89%E5%BF%83%E8%B2%BC%E7%B4%99-%E5%8A%9B%E6%8C%BA-%E6%B0%91%E7%9C%BE%E6%8B%BF%E6%9B%B8%E6%B1%82%E7%B0%BD%E5%90%8D-073651990.html": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-16T15:36+08:00",
-   "site_name": "Yahoo News",
-   "description": "台北市長候選人蔣萬安「牽手」石舫亘今（11/16）中午前往四平商圈懇託拜票，沿途獲得店家及民眾熱情支持。有店家巧用「安心貼紙」拼出大愛心貼在店門口，成為吸睛應援布置；石舫亘也走訪在地店家、品嘗咖啡，現場互動熱絡。",
-   "cities": {
-    "台北市": 33,
-    "嘉義市": 4,
-    "桃園市": 1,
-    "台南市": 1
-   },
-   "districts": [],
-   "body_chars": 3775,
-   "image": "https://media.zenfs.com/ko/taisounds_com_380/918f2f096d2f7c38b70df1676a406c46.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-16",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/article/3N1PPqy": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T12:20+08:00",
-   "site_name": "LINE TODAY",
-   "description": "台南小吃選擇多，不少店家都得靠食用油料理，尤其炸物店更是少不了油，但最近不少業者都大喊吃不消，不只油價一路飆漲，甚至有錢也買不到油。以18公...",
-   "cities": {
-    "台南市": 4
-   },
-   "districts": [],
-   "body_chars": 728,
-   "image": "https://today-obs.line-scdn.net/0hQJTNWhEuDmVpNxLx1BJxMlFhAhRaURRsS1BCBh40AFVAG0owUwZdBk5nVElNUh4wSVARVh9lAFVCBUlmBg/w1200",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.msn.cn/zh-cn/news/other/%E7%94%B0%E5%AE%B6%E5%BA%B5%E8%80%81%E8%A1%97%E7%9A%84%E5%B8%82%E4%BA%95%E6%96%B0%E7%94%9F/ar-AA2hFisl": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.taisounds.com/news/content/70/310041": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-16T15:36+08:00",
-   "site_name": "太報 TaiSounds",
-   "description": "台北市長候選人蔣萬安「牽手」石舫亘今（11/16）中午前往四平商圈懇託拜票，沿途獲得店家及民眾熱情支持。有店家巧用「安心貼紙」拼出大愛心貼在店門口，成為吸睛應援布置；石舫亘也走訪在地店家、品嘗咖啡，現場互動熱絡。",
-   "cities": {
-    "台北市": 1
-   },
-   "districts": [],
-   "body_chars": 215,
-   "image": "https://cdn.taisounds.com/newsimages/img/2026/1116/a25b566aaa4d411997e145387e421431.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-16",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.nownews.com/amp/news/6893363": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T12:05+08:00",
-   "site_name": "NOWnews今日新聞",
-   "description": "選戰進入最後倒數階段，國民黨候選人柯志恩積極展開38個行政區車隊掃街。柯志恩在車掃的同時，也派出一位重量級「伏兵」幫忙跑基層，老公洪德成代替她密集在市場及商圈...",
-   "cities": {},
-   "districts": [],
-   "body_chars": 136,
-   "image": "https://media.nownews.com/nn_media/thumbnail/2026/11/1794974301062-2e555393f1c14448a960116981b3be08-1200x675.webp?unShow=false",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://more-news.tw/769034/": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-15T11:09+08:00",
-   "site_name": "墨新聞 MORE News",
-   "description": "因應中聯油品事件引發的營業用食用油短缺，近期市面上仍有部分餐飲業者反映缺貨及異常漲價情形。為嚴防不肖業者趁機發 […]",
-   "cities": {
-    "台中市": 2,
-    "嘉義市": 2
-   },
-   "districts": [],
-   "body_chars": 978,
-   "image": "https://more-news.tw/more-news-media/2026/11/1-137-scaled.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-15",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.nownews.com/news/6893363": {
-   "checked_at": "2026-11-18T15:44+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T12:05+08:00",
-   "site_name": "NOWnews今日新聞",
-   "description": "選戰進入最後倒數階段，國民黨候選人柯志恩積極展開38個行政區車隊掃街。柯志恩在車掃的同時，也派出一位重量級「伏兵」幫忙跑基層，老公洪德成代替她密集在市場及商圈...",
-   "cities": {
-    "高雄市": 3,
-    "嘉義": 1
-   },
-   "districts": [],
-   "body_chars": 563,
-   "image": "https://media.nownews.com/nn_media/thumbnail/2026/11/1794974301062-2e555393f1c14448a960116981b3be08-1200x675.webp?unShow=false",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
    "date_hint_from": "原文時間"
   },
   "https://bj.crntt.com/doc/7_0_107256351_1_1115095635.html": {
@@ -8867,7 +8434,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.travelnews.tw/news/%e7%a5%9e%e8%be%b2%e5%95%86%e5%9c%88%e6%8b%9a%e6%93%b4%e5%8d%80%e3%80%80%e5%bc%b5%e5%8b%9d%e5%be%b7%e6%8f%90%e5%9b%9b%e9%a0%85%e6%9c%83%e5%8b%98%e7%b5%90%e8%ab%96/": {
-   "checked_at": "2026-11-21T10:33+08:00",
+   "checked_at": "2026-11-21T20:50+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -10448,6 +10015,390 @@
    "image": "https://n.sinaimg.cn/front20261121ac/225/w1280h545/20261121/96e0-f986ec1a8b925d13386d656c28e9210a.jpg",
    "image_checked": true,
    "date_hint": "2026-11-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.fclnews.com/239060/": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://n.yam.com/Article/20261118544382": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T11:57+08:00",
+   "site_name": "蕃新聞",
+   "description": "【記者 潘靖茹／臺北報導】臺北市政府持續推動萬華商圈廊帶發展，從廣州街的環境改善與艋舺公園的景觀更新",
+   "cities": {
+    "台北市": 5
+   },
+   "districts": [],
+   "body_chars": 599,
+   "image": "https://ni.yam.com/20261118/taipei-EC2F8B84ED4A2304-1-6a48f40bdb56a563.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261113738382": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-13T13:42+08:00",
+   "site_name": "蕃新聞",
+   "description": "宜蘭縣代理縣長林茂盛親自到場推薦宜蘭新米。(圖／記者翻攝)【警政時報 包克明／臺北報導】今年逛微風超",
+   "cities": {
+    "宜蘭縣": 20,
+    "台北市": 6,
+    "彰化縣": 1,
+    "連江縣": 1
+   },
+   "districts": [
+    "松山商圈（台北市）"
+   ],
+   "body_chars": 1018,
+   "image": "https://ni.yam.com/20261113/s--91185184-c8fa80b5f5d18b59.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-13",
+   "date_hint_from": "原文時間"
+  },
+  "https://life.tw/article/%E8%90%AC%E8%8F%AF%E5%95%86%E5%9C%88%E5%BB%8A%E5%B8%B6%E7%92%B0%E5%A2%83%E5%84%AA%E5%8C%96%E8%A8%88%E7%95%AB%E5%95%9F%E5%8B%95-3223425": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T11:56+08:00",
+   "site_name": "LIFE 生活網",
+   "description": "臺北市政府啟動萬華商圈廊帶環境優化計畫，旨在結合跨局處專業與地方團體，推動公共環境、文化景觀及商業服務發展。",
+   "cities": {
+    "台北市": 4
+   },
+   "districts": [],
+   "body_chars": 481,
+   "image": "https://img.talknews.app/2026/11/taipei-EC2F8B84ED4A2304-1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.contentplatform.info/articles/580827/%E5%8F%B0%E5%8C%97%E8%90%AC%E8%8F%AF%E5%95%86%E5%9C%88%E5%BB%8A%E5%B8%B6%E9%9B%99%E8%BB%B8%E4%B8%B2%E8%81%AF-%E5%BB%A3%E5%B7%9E%E8%A1%97%E8%88%87%E8%89%8B%E8%88%BA%E5%85%AC%E5%9C%92%E7%92%B0%E5%A2%83/": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T14:41+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "百年艋舺展現城市新風景！從廣州街騎樓與街道環境改善、艋舺公園景觀更新，到老松國小「萬華故事牆」及3處新設文化意象節點，臺北市政府持續推動萬華商圈廊帶發展，讓歷史街區展現嶄新活力。市府自112年以萬華作為首例商圈廊帶示範區域，秉持「攜舊扶新」理念，以「鏈機能、鏈文化」雙軸串聯街區資源，結合跨局處專業…",
+   "cities": {
+    "台北市": 8
+   },
+   "districts": [
+    "萬華街區商圈（台北市）"
+   ],
+   "body_chars": 1539,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/18125557/taipei-cover-261118045555815.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://more-news.tw/771481/": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T12:39+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "秋意漸濃、氣溫轉涼，陽明山上的山藥進入最肥美的季節，一年一度的山藥季即將開始，由臺北市政府輔導，士林區農會與財 […]",
+   "cities": {
+    "台北市": 7,
+    "嘉義市": 2
+   },
+   "districts": [],
+   "body_chars": 977,
+   "image": "https://more-news.tw/more-news-media/2026/11/f426c32a-80f5-487c-bffc-3bfe2ea7276a-1-scaled.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5648814": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-21T17:33+08:00",
+   "site_name": "自由時報電子報",
+   "description": "民進黨桃園市長候選人黃世杰今下午前往復興區福興宮參香，隨後沿角板山形象商圈徒步拜票。他表示，復興區幅員廣大、部落分散，即使同在一個行政區，族人面對的土地使用、居住及產業發展問題也不盡相同，未來若當選市長，會照顧桃園13個行政區，不會因為復興區人口較少、距離較遠，就忽略原鄉的需求。黃世杰說，9月曾安排一系列行程走訪復興區",
+   "cities": {
+    "桃園市": 8,
+    "台北市": 1
+   },
+   "districts": [
+    "角板山商圈（桃園市）"
+   ],
+   "body_chars": 643,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/21/5648814_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.upmedia.mg/tw/lifestyle/food/274610": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T14:00+08:00",
+   "site_name": "上報",
+   "description": "夜猫族和加班社畜有福囉！乾杯集團旗下日式鍋物品牌「黑毛屋」全台第 21 家門市「慶城店」正式插旗南京復興商圈。新店與集團旗下高端燒肉品牌「老乾...",
+   "cities": {
+    "新北市": 2
+   },
+   "districts": [],
+   "body_chars": 775,
+   "image": "https://cdn.upmedia.mg/upfile/img/2026/1118/202611181333581246.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261115001563-260405": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-15T12:42+08:00",
+   "site_name": "中時新聞網",
+   "description": "中聯油脂6月底爆出大豆油苯駢芘（致癌物）超標事件，引起用油市場震盪，台中市經發局15日表示，18公升營業用油目前均價落在1000元，較8月上漲約8％，經查11家經銷商、雜貨商行未發現異常漲價或囤貨情形。此外，泰山9",
+   "cities": {
+    "台中市": 3
+   },
+   "districts": [],
+   "body_chars": 864,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-15/656/20261115001564.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-15",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.tcpttw.com/life/2026/11/11/329449/": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T16:19+08:00",
+   "site_name": "警政時報",
+   "description": "由臺北市松山商圈發展協會與宜蘭縣政府共同推廣的「2026新米祭」，將帶領一年一期的宜蘭嚴選米進駐微風超市，代理縣長林茂盛邀請民眾一同品嚐宜蘭優質好米。",
+   "cities": {
+    "宜蘭縣": 32,
+    "台北市": 10
+   },
+   "districts": [
+    "松山商圈（台北市）"
+   ],
+   "body_chars": 1501,
+   "image": "https://www.tcpttw.com/wp-content/uploads/2026/11/s--90931265.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E8%B5%B4%E8%A7%92%E6%9D%BF%E5%B1%B1%E5%95%86%E5%9C%88%E5%BE%92%E6%AD%A5%E6%8B%9C%E7%A5%A8-%E9%BB%83%E4%B8%96%E6%9D%B0-%E4%B8%8D%E5%9B%A0%E4%BA%BA%E5%8F%A3%E5%B0%91-%E8%B7%9D%E9%9B%A2%E9%81%A0%E5%BF%BD%E7%95%A5%E5%BE%A9%E8%88%88%E5%8D%80/ar-AA2hUW0h": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.taiwanhot.net/news/1154926/%E4%B8%8D%E5%9B%A0%E4%BA%BA%E5%8F%A3%E5%B0%91%E8%B7%9D%E9%9B%A2%E9%81%A0%E8%80%8C%E5%BF%BD%E7%95%A5%E5%BE%A9%E8%88%88%E5%8D%80+%E9%BB%83%E4%B8%96%E6%9D%B0%E8%B5%B4%E8%A7%92%E6%9D%BF%E5%B1%B1%E5%95%86%E5%9C%88%E5%BE%92%E6%AD%A5%E6%8B%9C%E7%A5%A8": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "台灣好新聞",
+   "description": "民進黨桃園市長候選人黃世杰21日下午前往復興區爭取支持，先赴福興宮參香，再到角板山形象商圈展開徒步拜票，黃世杰表示，選舉最後關頭，他特別回到復興區向大家請託，懇請鄉親讓他與同黨的北北基候選人一同當選，他們會擘劃北北基桃區域治理願景；另外，他要照顧全桃園13個行政區，不會因為復興區人口較少、距離較遠，",
+   "cities": {
+    "桃園市": 9,
+    "台北市": 1,
+    "新北市": 1,
+    "台中市": 1,
+    "基隆市": 1
+   },
+   "districts": [
+    "角板山商圈（桃園市）"
+   ],
+   "body_chars": 1332,
+   "image": "https://www.taiwanhot.net/cache/1320097/lg/medias-20261121-6b014b31c9ff5.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-21",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://tw.news.yahoo.com/%E6%B2%99%E6%8B%89%E6%B2%B9-%E7%BC%BA%E8%B2%A8-%E8%A1%9D%E6%93%8A%E7%89%A9%E5%83%B9-%E7%93%A6%E5%9F%8E5%E5%93%81%E7%89%8C-%E5%96%8A%E6%BC%B2-054248070.html": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T13:42+08:00",
+   "site_name": "Yahoo News",
+   "description": "受到中聯油脂停工影響，現在傳出市場上的沙拉油出現斷貨危機嗎。就有食品業者透露，說別說漲價了，現在是連有錢都可能買不到。對此經濟部出手祭出2大措施，包括擴大生產及加速供貨。但面對成本壓力，瓦城集團旗下五大品牌，已經宣布要調漲部分品項價格。",
+   "cities": {
+    "基隆市": 4,
+    "台北市": 2,
+    "新北市": 1,
+    "高雄市": 1,
+    "宜蘭縣": 1
+   },
+   "districts": [],
+   "body_chars": 2915,
+   "image": "https://media.zenfs.com/en/mnews_tw_258/6a5a9371a4813772d2438b493d3852df",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/LXeWQp0": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 百億娛樂城隱身昌平商圈！　1年賭資逾155億",
+   "cities": {},
+   "districts": [],
+   "body_chars": 116,
+   "image": "https://today-obs.line-scdn.net/0hiM7eMh1iNmIKHCr7gMtJNTJKOhM5eixrKH8sVC4UPQUjMCQ9Y35lASYbOE4uL3A9KnMqBioYPVJzJSJmMw/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5648814": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-21T17:33+08:00",
+   "site_name": "自由時報電子報",
+   "description": "民進黨桃園市長候選人黃世杰今下午前往復興區福興宮參香，隨後沿角板山形象商圈徒步拜票。他表示，復興區幅員廣大、部落分散，即使同在一個行政區，族人面對的土地使用、居住及產業發展問題也不盡相同，未來若當選市長，會照顧桃園13個行政區，不會因為復興區人口較少、距離較遠，就忽略原鄉的需求。黃世杰說，9月曾安排一系列行程走訪復興區",
+   "cities": {
+    "桃園市": 9,
+    "台北市": 1
+   },
+   "districts": [
+    "角板山商圈（桃園市）"
+   ],
+   "body_chars": 643,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/21/5648814_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261121/3276169.htm": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-21T19:29+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "民進黨桃園市長候選人黃世杰今（21）日下午抵達復興區，先後至福興宮參香再到角板山形象商圈徒步拜票，爭取緊握每一雙鄉親雙手，黃世杰表示，選舉到最後關頭，特別回到復興區向鄉親請託，懇請大家讓他與同黨的北北基候選人一同當選，他們會擘劃北北基桃區域治理願景；此外，更要照顧全桃園13個行政區，不會因為復興區人口較少、距離較遠，就",
+   "cities": {
+    "桃園市": 10,
+    "台北市": 3,
+    "新北市": 3,
+    "高雄市": 2,
+    "台中市": 1
+   },
+   "districts": [
+    "角板山商圈（桃園市）"
+   ],
+   "body_chars": 1468,
+   "image": "https://cdn2.ettoday.net/images/9025/e9025965.png",
+   "image_checked": true,
+   "date_hint": "2026-11-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261120169092": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-20T06:28+08:00",
+   "site_name": "蕃新聞",
+   "description": "CNEWS匯流新聞網記者李映儒／台北報導竹北市長候選人吳旭智今（20）日與新竹縣長候選人徐欣瑩服務團",
+   "cities": {
+    "新竹縣": 6,
+    "台北市": 3
+   },
+   "districts": [],
+   "body_chars": 1046,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-20",
+   "date_hint_from": "原文時間"
+  },
+  "https://art.ltn.com.tw/article/breakingnews/5648819": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-21T17:14+08:00",
+   "site_name": "自由時報電子報",
+   "description": "隨著選戰進入倒數階段，各界催票方式花樣百出，連校園周邊的庶民美食也加入戰局。作家羅毓嘉近日在社群平台發文，轉達位於台大後門商圈的知名老店「親來食堂」老闆娘心聲，半開玩笑地向台大校友與熟客喊話，若是民進黨候選人沈伯洋未能順利當選，店內的招牌爌肉飯將會先取消，甚至不排除歇業一段時間好好「療傷」。貼文曝光",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 717,
+   "image": "https://img.ltn.com.tw/Upload/art/page/800/2026/11/21/5648819_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://more-news.tw/769034/": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-15T11:09+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "因應中聯油品事件引發的營業用食用油短缺，近期市面上仍有部分餐飲業者反映缺貨及異常漲價情形。為嚴防不肖業者趁機發 […]",
+   "cities": {
+    "台中市": 2,
+    "嘉義市": 2
+   },
+   "districts": [],
+   "body_chars": 978,
+   "image": "https://more-news.tw/more-news-media/2026/11/1-137-scaled.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-15",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.sohu.com/a/1104555436_121124415": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-21T15:25+08:00",
+   "site_name": "搜狐网",
+   "description": "双河口镇自古以来就是文化重镇，古镇历史悠久，文物古迹丰富，古寺院、古宅、古栈道、遗址等诸多类别，老街、双溪寺、石板桥等文物古迹集中，老街古建筑群是现存完整规模较大的明清民居，具有典型陕南传统民居风貌，珍贵的历…",
+   "cities": {},
+   "districts": [],
+   "body_chars": 2108,
+   "image": "https://q5.itc.cn/q_70/images03/20261121/03557ddcc9824568891a74948ea163fd.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.sohu.com/a/1104571868_121106994": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-21T16:03+08:00",
+   "site_name": "搜狐网",
+   "description": "依托城东街道胜利片区城市更新项目，昔日管线交织杂乱、老旧破败的街巷，正蝶变为宜居宜业、承载旧城记忆、饱含市井烟火的特色街区。改造后的街区融合烟火气息与复古风貌，依托街巷空间创新设置潮汐市场，实行公共空间错时利…",
+   "cities": {},
+   "districts": [],
+   "body_chars": 720,
+   "image": "https://q3.itc.cn/q_70/images03/20261121/db0ec754f7ff46228b4f72c91d240ddf.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.org.tw/malaysia-mpob-china-gb-31664-2025-3mcpde-ge-2026-11-15/": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T10:57+08:00",
+   "site_name": "索引新聞 INDEX News",
+   "description": "馬來西亞棕櫚油局11月14日建議業者檢視中國GB 31664-2025，標準管控精煉食用油的3-MCPDE與GE，一般適用精煉植物油與魚油。",
+   "cities": {
+    "新北市": 2
+   },
+   "districts": [],
+   "body_chars": 1913,
+   "image": "https://news.org.tw/wp-content/uploads/2026/11/malaysia-mpob-china-gb-31664-2025-3mcpde-ge-2026-11-15_final_featured.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/3N1PPqy": {
+   "checked_at": "2026-11-21T20:50+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T12:20+08:00",
+   "site_name": "LINE TODAY",
+   "description": "台南小吃選擇多，不少店家都得靠食用油料理，尤其炸物店更是少不了油，但最近不少業者都大喊吃不消，不只油價一路飆漲，甚至有錢也買不到油。以18公...",
+   "cities": {
+    "台南市": 4
+   },
+   "districts": [],
+   "body_chars": 728,
+   "image": "https://today-obs.line-scdn.net/0hQJTNWhEuDmVpNxLx1BJxMlFhAhRaURRsS1BCBh40AFVAG0owUwZdBk5nVElNUh4wSVARVh9lAFVCBUlmBg/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
    "date_hint_from": "原文時間"
   }
  }
