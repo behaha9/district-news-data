@@ -1,17 +1,25 @@
 {
- "fetched_at": "2026-11-22T00:15:41+08:00",
- "generated_at": "2026-11-22T00:15:41+08:00",
+ "fetched_at": "2026-11-22T07:17:34+08:00",
+ "generated_at": "2026-11-22T07:17:34+08:00",
  "window": "7d",
- "event_count": 41,
- "article_count": 65,
+ "event_count": 42,
+ "article_count": 67,
  "items": [
+  {
+   "url": "https://news.fclnews.com/60722",
+   "title": "推廣在地農產、串聯商圈美食 士林陽明山山藥季邀民眾支持小農",
+   "source": "天晴報媒體",
+   "published_at": "2026-11-21T22:10:00+08:00",
+   "event_key": "art:b2e7342001a56a0c6600483c43d864277a21e4ee2c01d8d1b8bd39889eae96c2",
+   "primary": true
+  },
   {
    "url": "https://www.fclnews.com/239060/",
    "title": "推廣在地農產、串聯商圈美食 士林陽明山山藥季邀民眾支持小農",
    "source": "台灣新聞雲報",
    "published_at": "2026-11-21T20:36:00+08:00",
-   "event_key": "art:158c48b54f37cf856c8019226521483185ccfb18369a1cf4b86938970d0d6ab1",
-   "primary": true
+   "event_key": "art:b2e7342001a56a0c6600483c43d864277a21e4ee2c01d8d1b8bd39889eae96c2",
+   "primary": false
   },
   {
    "url": "https://www.storm.mg/lifestyle/11182682",
@@ -26,7 +34,7 @@
    "title": "推廣在地農產、串聯商圈美食 士林陽明山山藥季邀民眾支持小農",
    "source": "蕃新聞・生活",
    "published_at": "2026-11-21T00:00:00+08:00",
-   "event_key": "art:158c48b54f37cf856c8019226521483185ccfb18369a1cf4b86938970d0d6ab1",
+   "event_key": "art:b2e7342001a56a0c6600483c43d864277a21e4ee2c01d8d1b8bd39889eae96c2",
    "primary": false
   },
   {
@@ -51,35 +59,35 @@
    "primary": true
   },
   {
-   "url": "https://udn.com/news/amp/story/7270/9890620",
-   "title": "當年亞洲最大店H&M西門旗艦店 十年租約到期熄燈戰線轉移信義商圈",
-   "source": "UDN",
-   "published_at": "2026-11-20T09:55:00+08:00",
-   "event_key": "art:e5fe60eec02dbaddf54ff8b02a19adc30a890e95973ee50042b1a93b395dc2f2",
-   "primary": true
-  },
-  {
-   "url": "https://udn.com/news/story/7270/9890620",
+   "url": "https://style.udn.com/style/story/11350/9890620",
    "title": "當年亞洲最大旗艦店!H&M西門町十年租約到期熄燈 戰線轉移信義商圈",
-   "source": "UDN",
+   "source": "udnSTYLE",
    "published_at": "2026-11-20T09:55:00+08:00",
-   "event_key": "art:e5fe60eec02dbaddf54ff8b02a19adc30a890e95973ee50042b1a93b395dc2f2",
-   "primary": false
+   "event_key": "art:522363f2ccbd012f6d40068e4657dcc42aa7e3ef8b2d7f5ee301004a7eb0f945",
+   "primary": true
   },
   {
    "url": "https://travel.udn.com/travel/story/7160/9890620",
    "title": "當年亞洲最大店H&M西門旗艦店 十年租約到期熄燈戰線轉移信義商圈",
    "source": "UDN",
    "published_at": "2026-11-20T09:55:00+08:00",
-   "event_key": "art:e5fe60eec02dbaddf54ff8b02a19adc30a890e95973ee50042b1a93b395dc2f2",
+   "event_key": "art:522363f2ccbd012f6d40068e4657dcc42aa7e3ef8b2d7f5ee301004a7eb0f945",
    "primary": false
   },
   {
-   "url": "https://style.udn.com/style/story/11350/9890620",
+   "url": "https://udn.com/news/story/7270/9890620",
    "title": "當年亞洲最大旗艦店!H&M西門町十年租約到期熄燈 戰線轉移信義商圈",
-   "source": "udnSTYLE",
+   "source": "UDN",
    "published_at": "2026-11-20T09:55:00+08:00",
-   "event_key": "art:e5fe60eec02dbaddf54ff8b02a19adc30a890e95973ee50042b1a93b395dc2f2",
+   "event_key": "art:522363f2ccbd012f6d40068e4657dcc42aa7e3ef8b2d7f5ee301004a7eb0f945",
+   "primary": false
+  },
+  {
+   "url": "https://udn.com/news/amp/story/7270/9890620",
+   "title": "當年亞洲最大店H&M西門旗艦店 十年租約到期熄燈戰線轉移信義商圈",
+   "source": "UDN",
+   "published_at": "2026-11-20T09:55:00+08:00",
+   "event_key": "art:522363f2ccbd012f6d40068e4657dcc42aa7e3ef8b2d7f5ee301004a7eb0f945",
    "primary": false
   },
   {
@@ -95,7 +103,7 @@
    "title": "党建引领“微改造” 老街焕新机",
    "source": "凤凰网资讯频道",
    "published_at": "2026-11-20T09:12:00+08:00",
-   "event_key": "archive:5424281281aa48f8",
+   "event_key": "art:4e7311be769ccd563d5d2a9f1af7ae833e581d885764ef8cfd6b6a546d172502",
    "primary": true,
    "summary": "党的二十届五中全会指出,“深化党建引领基层治理和基层政权建设”,“拓宽基层组织和群众依法有序参与基层治理渠道”。五一路的实践,就是把支部建在项目上,把治理服务送到街区一线。当地坚持党建引领,在城市更新项目启动之初即成立临时党支部,街道、社区、运营方、施工方四方联动,党员在一线协调堵点,并将商户、居民的多条建议写入改造方",
    "date_only": true
@@ -105,7 +113,7 @@
    "title": "東區商圈回來了!大巨蛋3年吸445億 「3站」店面年交易95件「單坪站穩4千」",
    "source": "自由時報",
    "published_at": "2026-11-19T22:39:00+08:00",
-   "event_key": "art:0c99eb04d8741e26844823bca74004e965aaa65ad8ee25d39f7e7d0dcb2fab90",
+   "event_key": "archive:ab944300e6a650c4",
    "primary": true
   },
   {
@@ -113,8 +121,10 @@
    "title": "粉紅車跑開進「鑽石山城」蘇巧慧:觀光不只停留在老街",
    "source": "經濟日報",
    "published_at": "2026-11-19T22:16:00+08:00",
-   "event_key": "art:9235e55ec7b97aa5efed596a1d080f120c1d8c9f2e86fc26e73783fb8b85954c",
-   "primary": true
+   "event_key": "art:ca4721bca3296613997ab2ef3178bb78e2a2710fd8485f755f8f1b88679250a4",
+   "primary": false,
+   "summary": "選戰倒數,新北市長選情緊繃,藍綠陣營馬不停蹄車掃衝刺。民進黨新北市長候選人蘇巧慧今前往坪林、石碇、深坑展開車隊掃街,蘇暢談觀光願景,她說,「鑽石山城」將串連大文山地區步道、鐵道、礦道、茶道及老街道,打造山城觀光新品牌,讓新北山海景觀與人文特色被更多國內外旅客看見。",
+   "date_only": true
   },
   {
    "url": "https://moonvoke.com/posts/taipei-new-years-eve-countdown-stages-fireworks-guide-2027/",
@@ -131,6 +141,16 @@
    "published_at": "2026-11-19T18:30:00+08:00",
    "event_key": "archive:448f58d748232372",
    "primary": true
+  },
+  {
+   "url": "https://udn.com/news/story/124652/9889662",
+   "title": "粉紅車跑開進「鑽石山城」 蘇巧慧:觀光不只停留在老街",
+   "source": "聯合新聞網",
+   "published_at": "2026-11-19T18:28:00+08:00",
+   "event_key": "art:ca4721bca3296613997ab2ef3178bb78e2a2710fd8485f755f8f1b88679250a4",
+   "primary": true,
+   "summary": "選戰倒數,新北市長選情緊繃,藍綠陣營馬不停蹄車掃衝刺。民進黨新北市長候選人蘇巧慧今前往坪林、石碇、深坑展開車隊掃街,蘇暢談觀光願景,她說,「鑽石山城」將串連大文山地區步道、鐵道、礦道、茶道及老街道,打造山城觀光新品牌,讓新北山海景觀與人文特色被更多國內外旅客看見。",
+   "date_only": true
   },
   {
    "url": "https://taidaily.com/2026/11/19/585808/",
@@ -153,12 +173,9 @@
    "title": "台北四平商圈必吃美食!「種福園」手作斤餅越嚼越香 合菜戴帽也不容錯過",
    "source": "travel.udn",
    "published_at": "2026-11-19T16:00:00+08:00",
-   "event_key": "art:a8b764e5f1701eb6a8ece4970477e329d552a653b4d4883063826d98cd61b3e3",
+   "event_key": "archive:b6c4c44abd61b530",
    "primary": true,
    "summary": "捷運松江南京站美食真推薦四平商圈的種福園。喜歡餅類或北方料理的朋友,種福園絕對值得一試!他們家的主打是斤餅,老師傅親手揉麵團烤餅,口感Q彈且越嚼越香又略帶溼潤,搭配菜單上的餡料都很合拍。(文末有種福園影片) ...",
-   "cities": [
-    "台北市"
-   ],
    "date_only": true
   },
   {
@@ -166,16 +183,26 @@
    "title": "運動中心不只運動!中和第二運動中心開工 串聯捷運商圈與綠地",
    "source": "民視新聞網",
    "published_at": "2026-11-19T14:35:00+08:00",
-   "event_key": "archive:7676b5d9d7e3e48f",
-   "primary": true
+   "event_key": "art:db87b7121a85fabb7737b4f8bc6e03e69a777abf43b9be3f0dd5f6b43aa915d7",
+   "primary": false,
+   "summary": "為推廣全民運動,新北市政府結合民間資源,規劃興建中和第二國民運動中心,今天(19日)舉行開工祈福典禮,除了擴充中和地區運動服務量能,更結合交通、商業、綠地及公共服務機能,為市民打造兼具健康、休閒與生活品質的嶄新城市空間,園區預計2034年完工。新北市長侯友宜表示,目前新北市已有20座國民運動中心,市府持續針對人口及運動",
+   "cities": [
+    "新北市"
+   ],
+   "date_only": true
   },
   {
    "url": "https://news.ltn.com.tw/news/life/breakingnews/5646078",
    "title": "新北中和第二運動中心開工 串聯捷運商圈與綠地",
-   "source": "自由時報",
+   "source": "自由時報電子報",
    "published_at": "2026-11-19T12:35:00+08:00",
-   "event_key": "archive:7676b5d9d7e3e48f",
-   "primary": false
+   "event_key": "art:db87b7121a85fabb7737b4f8bc6e03e69a777abf43b9be3f0dd5f6b43aa915d7",
+   "primary": true,
+   "summary": "為推廣全民運動,新北市政府結合民間資源,規劃興建中和第二國民運動中心,今天(19日)舉行開工祈福典禮,除了擴充中和地區運動服務量能,更結合交通、商業、綠地及公共服務機能,為市民打造兼具健康、休閒與生活品質的嶄新城市空間,園區預計2034年完工。新北市長侯友宜表示,目前新北市已有20座國民運動中心,市府持續針對人口及運動",
+   "cities": [
+    "新北市"
+   ],
+   "date_only": true
   },
   {
    "url": "https://www.travel.taipei/zh-tw/news/details/68386",
@@ -200,8 +227,10 @@
    "title": "柯文哲豐原徒步闖關!連小華拋「藍寶石珍珠項鍊」拚商圈復甦",
    "source": "TVBS新聞網",
    "published_at": "2026-11-19T09:53:00+08:00",
-   "event_key": "archive:d120879652247539",
-   "primary": true
+   "event_key": "art:58f6f47f382b1c85607fad8bbc13e76552d0243198f60dcba726a60abd6bec00",
+   "primary": true,
+   "summary": "九合一選戰進入最後倒數,台灣民眾黨創黨主席柯文哲(17)日晚間現身台中豐原,陪同市議員候選人連小華徒步走訪地方商圈,首度在《來接你下班》直播節目挑戰全程步行,從豐原火車站出發,沿著水岸花都一路走進廟東商圈,以八站闖關方式介紹連小華提出的「豐原藍寶石珍珠項鍊計畫」。面對徒步行程,柯文哲笑稱,過去當兵曾接受負重行軍訓練,走",
+   "date_only": true
   },
   {
    "url": "https://travel.ettoday.net/article/3274693.htm",
@@ -244,16 +273,20 @@
    "title": "粉紅車跑開進「鑽石山城」蘇巧慧:觀光不只停留在老街",
    "source": "經濟日報",
    "published_at": "2026-11-19T08:16:00+08:00",
-   "event_key": "art:9235e55ec7b97aa5efed596a1d080f120c1d8c9f2e86fc26e73783fb8b85954c",
-   "primary": false
+   "event_key": "art:ca4721bca3296613997ab2ef3178bb78e2a2710fd8485f755f8f1b88679250a4",
+   "primary": false,
+   "summary": "選戰倒數,新北市長選情緊繃,藍綠陣營馬不停蹄車掃衝刺。民進黨新北市長候選人蘇巧慧今前往坪林、石碇、深坑展開車隊掃街,蘇暢談觀光願景,她說,「鑽石山城」將串連大文山地區步道、鐵道、礦道、茶道及老街道,打造山城觀光新品牌,讓新北山海景觀與人文特色被更多國內外旅客看見。",
+   "date_only": true
   },
   {
-   "url": "https://udn.com/news/story/124652/9889662",
-   "title": "粉紅車跑開進「鑽石山城」 蘇巧慧:觀光不只停留在老街",
-   "source": "聯合新聞網",
-   "published_at": "2026-11-19T04:28:00+08:00",
-   "event_key": "art:9235e55ec7b97aa5efed596a1d080f120c1d8c9f2e86fc26e73783fb8b85954c",
-   "primary": false
+   "url": "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html",
+   "title": "五中全会精神在基层丨党建引领“微改造” 老街焕新机",
+   "source": "法治网",
+   "published_at": "2026-11-19T00:01:00+08:00",
+   "event_key": "art:ad1ce980c49f729f7f11b0b638fc6e74b43106fc3bd0c0027249d61a4a959a89",
+   "primary": true,
+   "summary": "夜幕降临,湖北省荆州市沙市区五一路霓虹闪烁、游人如织。这条百年老街曾是无序的“三无街区”。 党的二十届五中全会指出,“深化党建引领基层治理和基层政权建设”,“拓宽基层组织和群众依法有序参与基层治理渠道”。五一路的实践,就是把支部建在项目上,把治理服务送到街区一线。当地坚持党建引领,在城市更新项目启动之初即成立临时党支部",
+   "date_only": true
   },
   {
    "url": "https://demo.52salon.com/uninews_view.php?new_sn=150115",
@@ -328,21 +361,21 @@
    "primary": false
   },
   {
-   "url": "https://n.yam.com/Article/20261118895404",
+   "url": "https://more-news.tw/771481/",
    "title": "陽明山山藥季開跑 攜手士林商圈推出聯名限定美味",
-   "source": "蕃新聞",
+   "source": "more-news",
    "published_at": "2026-11-18T00:00:00+08:00",
-   "event_key": "archive:1d563e95d881ec91",
+   "event_key": "art:8f5d92336d348013253d1c20e6ac36cb881ccde48fd06d22cefcf0eb73777b19",
    "primary": true,
    "summary": "秋意漸濃、氣溫轉涼,陽明山上的山藥進入最肥美的季節,一年一度的山藥季即將開始,由臺北市政府輔導,士林區農會與財團法人七星農業發展基金會共同主辦的『2026士林陽明山山藥季-山藥秋收,都會慢活』將於11月21日(六)至11月22日(日)於臺北假日建國花市農業櫥窗正式登場! 士林陽明山山藥深受廣大民眾喜愛,擁有得天獨厚的天",
    "date_only": true
   },
   {
-   "url": "https://more-news.tw/771481/",
+   "url": "https://n.yam.com/Article/20261118895404",
    "title": "陽明山山藥季開跑 攜手士林商圈推出聯名限定美味",
-   "source": "more-news",
+   "source": "蕃新聞",
    "published_at": "2026-11-18T00:00:00+08:00",
-   "event_key": "archive:1d563e95d881ec91",
+   "event_key": "art:8f5d92336d348013253d1c20e6ac36cb881ccde48fd06d22cefcf0eb73777b19",
    "primary": false,
    "summary": "秋意漸濃、氣溫轉涼,陽明山上的山藥進入最肥美的季節,一年一度的山藥季即將開始,由臺北市政府輔導,士林區農會與財團法人七星農業發展基金會共同主辦的『2026士林陽明山山藥季-山藥秋收,都會慢活』將於11月21日(六)至11月22日(日)於臺北假日建國花市農業櫥窗正式登場! 士林陽明山山藥深受廣大民眾喜愛,擁有得天獨厚的天",
    "date_only": true
@@ -409,7 +442,7 @@
    "title": "游淑貞提舊城文化再生、商圈振興 整合金三角街區改善4面向",
    "source": "蕃新聞",
    "published_at": "2026-11-17T00:00:00+08:00",
-   "event_key": "archive:f2c02ea55f9f44f3",
+   "event_key": "art:15e3db941cc302f7324e14accd9e8f41578bdd0c37d426fc1fc03d8bca221d5d",
    "primary": true,
    "summary": "面對國旅市場疲軟、國際觀光客源不足等挑戰,國民黨花蓮縣長候選人游淑貞提出「舊城文化再生、商圈經濟振興」策略,主張整合花蓮市大禹街、舊鐵道文化徒步區及金三角商圈既有建設成果,從文化深耕、觀光消費、青年創業及交通改善4大面向著手,打造兼具文化特色與商業活力的城市觀光核心,讓過路客變成留宿客,讓觀光人潮真正轉化為店家營收。",
    "date_only": true
@@ -427,9 +460,15 @@
    "title": "美術園道商圈「美學森活節」 串聯產業觀光 創造近500萬元經濟效益",
    "source": "SCOOP",
    "published_at": "2026-11-16T21:01:00+08:00",
-   "event_key": "archive:4c484451ef4ad7ed",
+   "event_key": "art:7668d6339e1a3cb757ca1e622317be51ff8cc0d4434c4205b86680b42455680e",
    "primary": true,
    "summary": "圖:結合萬聖節主題,吸引眾多家庭攜帶小朋友盛裝參與,手持商圈聯名環保提袋,在歡樂的節慶氛圍中體驗萬聖節樂趣。(圖/主辦單位提供) 【記者張嘉誠/綜合報導】 臺中市美術園道透過經濟部商業發展署「115年活絡商圈補助計畫」,推動「美學森活節.串聯產業觀光的漫遊計畫」,整合在地特色產業、文化藝術、永續生活及數位行銷等多元資源",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    "美術園道商圈"
+   ],
    "date_only": true
   },
   {
@@ -437,9 +476,15 @@
    "title": "美術園道商圈「美學森活節」 串聯產業觀光 創造近500萬元經濟效益",
    "source": "報新聞 Mega News",
    "published_at": "2026-11-16T21:01:00+08:00",
-   "event_key": "archive:4c484451ef4ad7ed",
+   "event_key": "art:7668d6339e1a3cb757ca1e622317be51ff8cc0d4434c4205b86680b42455680e",
    "primary": false,
    "summary": "圖:結合萬聖節主題,吸引眾多家庭攜帶小朋友盛裝參與,手持商圈聯名環保提袋,在歡樂的節慶氛圍中體驗萬聖節樂趣。(圖/主辦單位提供) 【記者張嘉誠/綜合報導】 臺中市美術園道透過經濟部商業發展署「115年活絡商圈補助計畫」,推動「美學森活節.串聯產業觀光的漫遊計畫」,整合在地特色產業、文化藝術、永續生活及數位行銷等多元資源",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    "美術園道商圈"
+   ],
    "date_only": true
   },
   {
@@ -447,9 +492,15 @@
    "title": "美術園道商圈「美學森活節」 串聯產業觀光 創造近500萬元經濟效益",
    "source": "獨家報導",
    "published_at": "2026-11-16T20:53:00+08:00",
-   "event_key": "archive:4c484451ef4ad7ed",
+   "event_key": "art:7668d6339e1a3cb757ca1e622317be51ff8cc0d4434c4205b86680b42455680e",
    "primary": false,
    "summary": "圖:結合萬聖節主題,吸引眾多家庭攜帶小朋友盛裝參與,手持商圈聯名環保提袋,在歡樂的節慶氛圍中體驗萬聖節樂趣。(圖/主辦單位提供) 【記者張嘉誠/綜合報導】 臺中市美術園道透過經濟部商業發展署「115年活絡商圈補助計畫」,推動「美學森活節.串聯產業觀光的漫遊計畫」,整合在地特色產業、文化藝術、永續生活及數位行銷等多元資源",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    "美術園道商圈"
+   ],
    "date_only": true
   },
   {
@@ -457,9 +508,15 @@
    "title": "美術園道商圈「美學森活節」 串聯產業觀光 創造近500萬元經濟效益",
    "source": "Yahoo新聞",
    "published_at": "2026-11-16T20:53:00+08:00",
-   "event_key": "archive:4c484451ef4ad7ed",
+   "event_key": "art:7668d6339e1a3cb757ca1e622317be51ff8cc0d4434c4205b86680b42455680e",
    "primary": false,
    "summary": "圖:結合萬聖節主題,吸引眾多家庭攜帶小朋友盛裝參與,手持商圈聯名環保提袋,在歡樂的節慶氛圍中體驗萬聖節樂趣。(圖/主辦單位提供) 【記者張嘉誠/綜合報導】 臺中市美術園道透過經濟部商業發展署「115年活絡商圈補助計畫」,推動「美學森活節.串聯產業觀光的漫遊計畫」,整合在地特色產業、文化藝術、永續生活及數位行銷等多元資源",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    "美術園道商圈"
+   ],
    "date_only": true
   },
   {
@@ -483,9 +540,15 @@
    "title": "美術園道商圈「美學森活節」 串聯產業觀光 創造近500萬元經濟效益",
    "source": "是新聞",
    "published_at": "2026-11-16T12:53:00+08:00",
-   "event_key": "archive:4c484451ef4ad7ed",
+   "event_key": "art:7668d6339e1a3cb757ca1e622317be51ff8cc0d4434c4205b86680b42455680e",
    "primary": false,
    "summary": "圖:結合萬聖節主題,吸引眾多家庭攜帶小朋友盛裝參與,手持商圈聯名環保提袋,在歡樂的節慶氛圍中體驗萬聖節樂趣。(圖/主辦單位提供) 【記者張嘉誠/綜合報導】 臺中市美術園道透過經濟部商業發展署「115年活絡商圈補助計畫」,推動「美學森活節.串聯產業觀光的漫遊計畫」,整合在地特色產業、文化藝術、永續生活及數位行銷等多元資源",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    "美術園道商圈"
+   ],
    "date_only": true
   },
   {
@@ -517,7 +580,7 @@
    "title": "晚下班也能吃好鍋!黑毛屋插旗南京復興商圈 營業至晚間11點",
    "source": "經濟日報",
    "published_at": "2026-11-16T10:01:00+08:00",
-   "event_key": "archive:ce95bade5f341319",
+   "event_key": "art:347bc0d948b57032f38075b7b3570f64576735ccaa415f46ed0f4e991a24fd19",
    "primary": true,
    "summary": "下班晚了,也能好好吃頓鍋!乾杯集團旗下日式鍋物品牌「黑毛屋」再拓新據點,全台第21家門店「慶城店」插旗台北南京復興商圈,即日起開幕迎賓。新店營業至晚間11點,主打四大經典日式鍋物,套餐380元起,上班族即使晚下班,也能從容享用鍋物美味,為商圈增添鍋物新選擇! 黑毛屋第21間店落腳慶城街 營業至晚間11點搶攻宵夜商機 慶",
    "date_only": true
@@ -551,19 +614,15 @@
    "title": "美術園道商圈「美學森活節」 串聯產業觀光 創造近500萬元經濟效益",
    "source": "蕃新聞",
    "published_at": "2026-11-16T00:00:00+08:00",
-   "event_key": "archive:4c484451ef4ad7ed",
+   "event_key": "art:7668d6339e1a3cb757ca1e622317be51ff8cc0d4434c4205b86680b42455680e",
    "primary": false,
    "summary": "圖:結合萬聖節主題,吸引眾多家庭攜帶小朋友盛裝參與,手持商圈聯名環保提袋,在歡樂的節慶氛圍中體驗萬聖節樂趣。(圖/主辦單位提供) 【記者張嘉誠/綜合報導】 臺中市美術園道透過經濟部商業發展署「115年活絡商圈補助計畫」,推動「美學森活節.串聯產業觀光的漫遊計畫」,整合在地特色產業、文化藝術、永續生活及數位行銷等多元資源",
-   "date_only": true
-  },
-  {
-   "url": "https://www.travel.taipei/zh-tw/news/details/68356",
-   "title": "11/14、15「2026八德3C哈樂DAY」壓軸主場週 嗨翻八德資訊商圈六組人氣樂團接力開唱 軍武體驗、復古遊戲、人氣氣偶一次玩",
-   "source": "臺北旅遊網",
-   "published_at": "2026-11-16T00:00:00+08:00",
-   "event_key": "art:0be23ca13f4cc36d5b5e9cd5d91af06743721440c22ccc84c75171417b67d23e",
-   "primary": true,
-   "summary": "由臺北市商業處輔導台北市八德資訊商圈發展協會舉辦的「2026八德3C哈樂DAY」,本週末11月14日至15日迎來眾所期待的「壓軸主場週」,於八德路一段(新生南路至金山北路間)封街舉行,集結軍武體驗、復古遊戲、現代痛車展示、哈樂市集及品牌互動等豐富內容,更邀請六組人氣樂團輪番獻唱,11月14日由東部壞男孩、甜約翰及芒果醬",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    "美術園道商圈"
+   ],
    "date_only": true
   },
   {
@@ -574,6 +633,16 @@
    "event_key": "art:1b8793e27f6129ac60153aebd6a7a9e39d45f104d0d555a2b621a22ff4404e87",
    "primary": true,
    "summary": "「吃在北平、穿在天津、住在賴興」,一句朗朗上口的地方口號,道出台中市賴興里的獨特魅力。北平路匯聚各式小吃美食,天津路則是知名服飾批發商圈,兩條街道各自發展出鮮明的產業特色,也成為賴興里的地方招牌。",
+   "date_only": true
+  },
+  {
+   "url": "https://www.travel.taipei/zh-tw/news/details/68356",
+   "title": "11/14、15「2026八德3C哈樂DAY」壓軸主場週 嗨翻八德資訊商圈六組人氣樂團接力開唱 軍武體驗、復古遊戲、人氣氣偶一次玩",
+   "source": "臺北旅遊網",
+   "published_at": "2026-11-16T00:00:00+08:00",
+   "event_key": "archive:929db6f06c4ed54e",
+   "primary": true,
+   "summary": "由臺北市商業處輔導台北市八德資訊商圈發展協會舉辦的「2026八德3C哈樂DAY」,本週末11月14日至15日迎來眾所期待的「壓軸主場週」,於八德路一段(新生南路至金山北路間)封街舉行,集結軍武體驗、復古遊戲、現代痛車展示、哈樂市集及品牌互動等豐富內容,更邀請六組人氣樂團輪番獻唱,11月14日由東部壞男孩、甜約翰及芒果醬",
    "date_only": true
   },
   {

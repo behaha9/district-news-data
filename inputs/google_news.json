@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-22T00:15:47+08:00",
+ "fetched_at": "2026-11-22T07:17:38+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 92,
-  "kept": 19,
-  "resolved": 19,
-  "items": 18,
+  "raw": 94,
+  "kept": 18,
+  "resolved": 18,
+  "items": 17,
   "resolve_this_run": {
-   "online": 1
+   "online": 3
   },
   "dropped_old": [
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
@@ -33,6 +33,16 @@
    "published_at": "2026-11-21T19:29+08:00",
    "query": "商圈",
    "url": "https://www.ettoday.net/news/20261121/3276169.htm",
+   "resolved": true
+  },
+  {
+   "title": "赴角板山商圈徒步拜票 黃世杰：不因人口少、距離遠而忽略復興區",
+   "google_url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNSGFJZmd4UjBuaTZtWmpPRnZiT1BCNjdrX21qUXQyWjQzTldhVUFIeVA2SDVhYzBwWlJxR083MUJrSzFOTHJVQktiYzl6aU9jZ1c3U3oyQnJVZG9KNGhVN3dtbllOV09rMjl1UlFHNzF5Z2wxa3ZuUTA0NTVEcnVfWlVBUjFwQ1M4b1RieTBNcWtEYmlCay0waS1MSXl6SF9yaWlkQzJlM0hBejdwajZELW9xcmFKQmRvVkdyWENpeEpDdkd4ZlY1SWpvOXRvaXgyRlRoRWVIbG9qZ0hIVC04bDdhckxJVnQyNVpxZm5hSGpGb0txeWpfWlR4R0FuNkx0Wnh6d2pMZklMdmRzZGEwSUlhMEllLUR2WnRVYl82XzFaOU5mZmRERjZmd2Q1dlNCT1FfMFJIRE5uREhEdEs3VXJDdVBZTmRhVTJad3doQ0lUZk1OT0VMMU00Qnc0ZUx0bDE2RjVYWWs?oc=5",
+   "source": "行銷人",
+   "source_site": "https://www.marketersgo.com",
+   "published_at": "2026-11-21T18:00+08:00",
+   "query": "商圈",
+   "url": "https://www.marketersgo.com/uncategorized/202611/%E8%B5%B4%E8%A7%92%E6%9D%BF%E5%B1%B1%E5%95%86%E5%9C%88%E5%BE%92%E6%AD%A5%E6%8B%9C%E7%A5%A8-%E9%BB%83%E4%B8%96%E6%9D%B0%EF%BC%9A%E4%B8%8D%E5%9B%A0%E4%BA%BA%E5%8F%A3%E5%B0%91%E3%80%81%E8%B7%9D%E9%9B%A2/",
    "resolved": true
   },
   {
@@ -106,6 +116,16 @@
    "resolved": true
   },
   {
+   "title": "宜蘭市商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMUhJNEFlU3FWN0dHN3AtNDlfREpFOXFVWW52SEJIWkFBYk1RZUx3aFh6dG5aRWNxT2d2Z3luTmFJVlZROEZGS1ExdWc5alE5SnpJZGZkLTloTGdkaHAxaW42bVZoaXEzMFBMakRRYmxZWjd3bW1DVjFoeHpSLTd3ZWRxLVAycEpa?oc=5",
+   "source": "宜蘭新聞網",
+   "source_site": "https://www.travelnews.tw",
+   "published_at": "2026-11-20T21:26+08:00",
+   "query": "商圈",
+   "url": "https://www.travelnews.tw/news/tag/%E5%AE%9C%E8%98%AD%E5%B8%82%E5%95%86%E5%9C%88/",
+   "resolved": true
+  },
+  {
    "title": "陽明山山藥季開跑倒數 士林區農會攜手商圈推聯名限定美味",
    "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NR2s2eHdzcEhTcVdjMU9jYk80OUFaTmhZTjhCRlNXczBaRGtrRE1FVTcyNmNIMWtrNGl3bVg2Zk5aZmYtSnpzeUxR?oc=5",
    "source": "匯流新聞網",
@@ -156,43 +176,13 @@
    "resolved": true
   },
   {
-   "title": "當年亞洲最大旗艦店！H&M西門町十年租約到期熄燈 戰線轉移信義商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWJ2VTVVN2pnSVFkektiZTMwRmlXRWxfZ3NRYkpxNlVBYTJ4VGxwdHpuak9rdTBBX3gxVUQzcHpkaWp2Qk1vME1KclAyZXFEYUpIQ0Z1SkNSUjZzMlNDbnlfTmlzb3dfRnlnbHpfM1laeWFZSS1lWHJab2FQV2FXc9IBYEFVX3lxTE5qM2VOcEhfN1RON3I1am9xNVNWTHpQQ2VDclI2bUhVR0tJV2xGa3dld1hEY0dlbDJHVXc3V0RQUE9mU1EtSVFWaFFLSV9tMFNsQVBlVDlRMEZXNGVNckJLUA?oc=5",
-   "source": "udnSTYLE",
-   "source_site": "https://style.udn.com",
-   "published_at": "2026-11-20T09:55+08:00",
-   "query": "商圈",
-   "url": "https://style.udn.com/style/story/11350/9890620?from=udn-catenewnews_ch2002",
-   "resolved": true
-  },
-  {
    "title": "當年亞洲最大店H&M西門旗艦店 十年租約到期熄燈戰線轉移信義商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5Q3ZaUzNPRTZuaWNQTUN1ams5aHFlNVdhZzJ6OXhtSmRGQ3FIOGwwb2dEQmVZallPLUMwS1MwakpqNXNNLVEzalZTR2xGSVNrZ0x4QW9yMW9KX05E?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVnFYSXlzWEQ1WXZublJqQ0tZU2hwcG04ZW1XbXBlT1dtVUZyUnM3Z1ZUTi1EbEF2NmVBcXk2MDVIbC0tVHlLdlBYVWtCLVd5UnFnbF9jN2ZEYzN3QnB4bmhHdUF4QjNnay1fZUwxaW42RFR3Y21jX1doUkE5LVJwbEJn?oc=5",
    "source": "UDN",
    "source_site": "https://travel.udn.com",
    "published_at": "2026-11-20T09:55+08:00",
    "query": "商圈",
-   "url": "https://travel.udn.com/travel/story/7160/9890620",
-   "resolved": true
-  },
-  {
-   "title": "神農商圈拚擴區 張勝德提四項會勘結論",
-   "google_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOT2xYNnhjZlYtWGc5YmZKV1dEQzZTbjFoV3E3T3BxUHRUQVB5UnA4dkplb2dDMHJYT19sYjlFQUFNaG05ODZGRDhFTlg3SzB2NWZYR2tiUUFHNVBhd2gwTmctQ0NSUDd5T0tnOEhWeFRGUmZ3UVFTLUdQVE1heHlxRWFRNjVJRDZFRXlUbjg4aWVFY0xQeGpHdmVSUVVLV0l1aWVqcE13MG10S190TFlBSlcwaHJ6TldSN1ZpTEdlcENFS3hZcXlXSjdYSHMxUkVFTWZrOTZ2cDJzb041d0tHNm44YjlSNWlZR3ZIZndTQ0kya3duTnZFTFNIblhiMXVweWVlR1JfM1U0YlJLOXJ4cDZyWkVxV3ZJbnoxczhSWQ?oc=5",
-   "source": "宜蘭新聞網",
-   "source_site": "https://www.travelnews.tw",
-   "published_at": "2026-11-20T09:39+08:00",
-   "query": "商圈",
-   "url": "https://www.travelnews.tw/news/%E7%A5%9E%E8%BE%B2%E5%95%86%E5%9C%88%E6%8B%9A%E6%93%B4%E5%8D%80%E3%80%80%E5%BC%B5%E5%8B%9D%E5%BE%B7%E6%8F%90%E5%9B%9B%E9%A0%85%E6%9C%83%E5%8B%98%E7%B5%90%E8%AB%96/",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 老街小吃外的慢食新風景 雲林西螺吹起「義式餐桌＋手作甜點」返鄉創業潮",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTOC0xd2Zyb2xpOVJ1V0xzOFBENGtUSmdWV1p1NkhtalJkQ2VUcWNhRTZlVVVYUWJveXQ2b0xzMzFuQUE2ME5OXzRFZnVvVzhBLUZOaEhnd2IwdG5uY21INm9NX1c?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-20T03:55+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/YapowBP",
+   "url": "https://travel.udn.com/travel/story/7160/9890620?from=udn-catehotnews_ch1013",
    "resolved": true
   }
  ]
