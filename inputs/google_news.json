@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-21T20:50:12+08:00",
+ "fetched_at": "2026-11-22T00:15:47+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 82,
-  "kept": 20,
-  "resolved": 20,
-  "items": 19,
+  "raw": 92,
+  "kept": 19,
+  "resolved": 19,
+  "items": 18,
   "resolve_this_run": {
-   "online": 5
+   "online": 1
   },
   "dropped_old": [
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
@@ -17,12 +17,12 @@
  "items": [
   {
    "title": "推廣在地農產、串聯商圈美食 士林陽明山山藥季邀民眾支持小農",
-   "google_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HdF90eF95ZkdjU0FBYkl5eE1HUWFncl9lTGRyUEkxX2FPbVhBNEhlWnI0eG9wMkp2dTZJai1ldXY2OHNCZkE?oc=5",
-   "source": "台灣新聞雲報",
-   "source_site": "https://www.fclnews.com",
-   "published_at": "2026-11-21T20:36+08:00",
+   "google_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1lbGdyY01ST0FGcW04WFVWRnZpMUNwWXh3a3Jxa2FxWTJxWGVHS1otS093ZzNlbjNPWDA1OUY5YVJ0R2Fw?oc=5",
+   "source": "天晴報媒體",
+   "source_site": "https://news.fclnews.com",
+   "published_at": "2026-11-21T22:10+08:00",
    "query": "商圈",
-   "url": "https://www.fclnews.com/239060/",
+   "url": "https://news.fclnews.com/60722",
    "resolved": true
   },
   {
@@ -130,7 +130,7 @@
    "google_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQQUxnY0lNb0o5NEowOEViNGlYUVZxZk1GMW5hdWdHb29GWWtUNjFuMUhUU1hqWVQyM1JfMW1VU0ZONDdnYmtsVXpyZzdpV21zQ1JrVzBNbk05SHZhVVVNRm8xamZUMUJlSmdhZnFjYU9VN0JwNVNXSHR3b1NROWRIRjdEQ1RqbmlSenNISmFQMzNjTUQ0REZKYjdMNmlnYm5fX0xYQ3Exb2hPQWtXNlpnNGJYWkV6VDRaRjB1TWRycnA5aDFIRks4elJ2WTUyNmVoSm9SZFlVMTR4SzZGLW5HVjJqbG85MjdMd1ozMFMyQXN4V0JCSTNaOWM1ZlQ4X3BZbnRvdktBUFJSb1pOclE0MlhRYkNEZEVGcjVqS2pnTlBrN0RLLXhVaUd3X00xOTJYQU0wWEo0VVVqZnRsbW43VkNraXpCLU0yZWx1X0dqcTRRbWt2Z1lxYVYzZmM?oc=5",
    "source": "Yahoo新聞",
    "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-20T14:36+08:00",
+   "published_at": "2026-11-20T14:28+08:00",
    "query": "商圈",
    "url": "https://tw.news.yahoo.com/%E5%90%B3%E6%97%AD%E6%99%BA%E6%8E%83%E8%A1%97%E5%90%8C%E6%AD%A5%E7%9B%A4%E9%BB%9E%E5%B8%82%E5%A0%B4%E5%8D%B8%E8%B2%A8%E5%8B%95%E7%B7%9A-%E7%9B%BC%E4%B8%B2%E8%81%AF%E5%91%A8%E9%82%8A%E5%95%86%E5%9C%88-062817588.html",
    "resolved": true
@@ -156,13 +156,23 @@
    "resolved": true
   },
   {
-   "title": "當年亞洲最大店H&M西門旗艦店 十年租約到期熄燈戰線轉移信義商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14TG5WdFljZERpRUc2angyb05aNEliVzZOTHJ3S0VKTU05Yll5cVBQY00zSURnZ2JGQkQ1MWRjQ29wTV8zTXNQcVNnU3lOeWh0V2ZPM3NB0gFWQVVfeXFMTXhMblZ0WWNkRGlFRzZqeDJvTlo0SWJXNk5McndLRUpNTTliWXlxUFBjTTNJRGdnYkZCRDUxZGNDb3BNXzNNc1BxU2dTeU55aHRXZk8zc0E?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
+   "title": "當年亞洲最大旗艦店！H&M西門町十年租約到期熄燈 戰線轉移信義商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWJ2VTVVN2pnSVFkektiZTMwRmlXRWxfZ3NRYkpxNlVBYTJ4VGxwdHpuak9rdTBBX3gxVUQzcHpkaWp2Qk1vME1KclAyZXFEYUpIQ0Z1SkNSUjZzMlNDbnlfTmlzb3dfRnlnbHpfM1laeWFZSS1lWHJab2FQV2FXc9IBYEFVX3lxTE5qM2VOcEhfN1RON3I1am9xNVNWTHpQQ2VDclI2bUhVR0tJV2xGa3dld1hEY0dlbDJHVXc3V0RQUE9mU1EtSVFWaFFLSV9tMFNsQVBlVDlRMEZXNGVNckJLUA?oc=5",
+   "source": "udnSTYLE",
+   "source_site": "https://style.udn.com",
    "published_at": "2026-11-20T09:55+08:00",
    "query": "商圈",
-   "url": "https://udn.com/news/amp/story/7270/9890620",
+   "url": "https://style.udn.com/style/story/11350/9890620?from=udn-catenewnews_ch2002",
+   "resolved": true
+  },
+  {
+   "title": "當年亞洲最大店H&M西門旗艦店 十年租約到期熄燈戰線轉移信義商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5Q3ZaUzNPRTZuaWNQTUN1ams5aHFlNVdhZzJ6OXhtSmRGQ3FIOGwwb2dEQmVZallPLUMwS1MwakpqNXNNLVEzalZTR2xGSVNrZ0x4QW9yMW9KX05E?oc=5",
+   "source": "UDN",
+   "source_site": "https://travel.udn.com",
+   "published_at": "2026-11-20T09:55+08:00",
+   "query": "商圈",
+   "url": "https://travel.udn.com/travel/story/7160/9890620",
    "resolved": true
   },
   {
@@ -183,26 +193,6 @@
    "published_at": "2026-11-20T03:55+08:00",
    "query": "老街",
    "url": "https://today.line.me/tw/v3/posts/list/article/YapowBP",
-   "resolved": true
-  },
-  {
-   "title": "東區商圈回來了！大巨蛋3年吸445億 「3站」店面年交易95件「單坪站穩4千」",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwLU5rRTY1bVBBY3B3Rmh1ZUVOZE5MV0ktdmcyTGFxWnRqdVdUMGNYWDZkem1TVFUtN2xERElNWFBFcW01b1haTjVpYjJBYjU3?oc=5",
-   "source": "自由時報",
-   "source_site": "https://estate.ltn.com.tw",
-   "published_at": "2026-11-19T22:39+08:00",
-   "query": "商圈",
-   "url": "https://estate.ltn.com.tw/article/29397",
-   "resolved": true
-  },
-  {
-   "title": "粉紅車跑開進「鑽石山城」蘇巧慧：觀光不只停留在老街",
-   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RWW53cmxRd1V1NjNoVGhrSkE3WllUYWFST2RJNFBHNzVEaEEwSlBsWGtZYUM4MnF3QXZXcUtncG1ZVElXdVhMNUFuemZOX0NrQzVSVkNVQ05FNGh0dlZCUdIBYEFVX3lxTE5RWW53cmxRd1V1NjNoVGhrSkE3WllUYWFST2RJNFBHNzVEaEEwSlBsWGtZYUM4MnF3QXZXcUtncG1ZVElXdVhMNUFuemZOX0NrQzVSVkNVQ05FNGh0dlZCUQ?oc=5",
-   "source": "經濟日報",
-   "source_site": "https://money.udn.com",
-   "published_at": "2026-11-19T22:16+08:00",
-   "query": "老街",
-   "url": "https://money.udn.com/money/amp/story/12622/9889662",
    "resolved": true
   }
  ]
