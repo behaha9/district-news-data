@@ -121,6 +121,151 @@
    "items": [],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-21T16:50:23+08:00",
+   "added": 0,
+   "merged": 3,
+   "items": [
+    {
+     "id": "20261119-hm-ximen-closing",
+     "title": "西門町H&M旗艦店19日熄燈，報導指租約到期不續租",
+     "summary": "報導指西門町H&M西門旗艦店19日為最後營業日，中天新聞網提到房東租金由1200萬元調漲至1700萬元，松高店將接手。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-20T12:47:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "西門町商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "西門町商圈為115年補助名單，地標店家撤出可能影響人潮，可留意商圈營運與KPI變化。",
+     "sources": [
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://www.nownews.com/news/6894024",
+       "published_at": "2026-11-20T12:47:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7270/9890620",
+       "published_at": "2026-11-20T09:55:00+08:00"
+      },
+      {
+       "outlet": "udnSTYLE",
+       "url": "https://style.udn.com/style/story/11350/9890620",
+       "published_at": "2026-11-20T09:55:00+08:00"
+      },
+      {
+       "outlet": "中天新聞網",
+       "url": "https://ctinews.com/news/items/14a1woj0nk",
+       "published_at": "2026-11-19T16:09:00+08:00"
+      },
+      {
+       "outlet": "FTNN 新聞網",
+       "url": "https://www.ftnn.com.tw/news/597237",
+       "published_at": "2026-11-19T13:07:00+08:00"
+      }
+     ],
+     "image": "https://media.nownews.com/nn_media/thumbnail/2026/07/1783069236914-1cb5f241793f477b92851a94ec60be2c-1047x880.webp?unShow=false"
+    },
+    {
+     "id": "20261119-fuxinggang-vietnamese",
+     "title": "北投復興崗商圈平價越式料理店受學區與住宅客群青睞",
+     "summary": "報導指台北市北投中央北路二段、捷運復興崗站周邊商圈，平價道地的越式料理成為日常外食選擇。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-19T10:03:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "台灣好新聞",
+       "url": "https://www.taiwanhot.net/news/1154636/%E8%B7%A8%E7%B8%A3%E5%B8%82%E5%82%B3%E6%89%BF%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%AE%B6%E9%84%89%E5%91%B3+%E5%8C%97%E6%8A%95%E5%BE%A9%E8%88%88%E5%B4%97%E5%95%86%E5%9C%88%E5%90%B9%E8%B5%B7%E3%80%8C%E5%B9%B3%E5%83%B9%E9%81%93%E5%9C%B0%E8%B6%8A%E5%BC%8F%E6%96%99%E7%90%86%E3%80%8D%E9%A2%A8%E6%BD%AE",
+       "published_at": "2026-11-19T10:03:00+08:00"
+      },
+      {
+       "outlet": "LIFE 生活網",
+       "url": "https://life.tw/article/%E8%B7%A8%E7%B8%A3%E5%B8%82%E5%82%B3%E6%89%BF%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%AE%B6%E9%84%89%E5%91%B3-%E5%8C%97%E6%8A%95%E5%BE%A9%E8%88%88%E5%B4%97%E5%95%86%E5%9C%88%E5%90%B9%E8%B5%B7-%E5%B9%B3%E5%83%B9%E9%81%93%E5%9C%B0%E8%B6%8A%E5%BC%8F%E6%96%99%E7%90%86-3225709",
+       "published_at": "2026-11-19T08:59:00+08:00"
+      },
+      {
+       "outlet": "理財周刊",
+       "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/263276",
+       "published_at": "2026-11-19T00:00:00+08:00"
+      }
+     ],
+     "image": "https://www.taiwanhot.net/cache/1319569/lgnw/medias-20261119-6afe583a3953c.jpg"
+    },
+    {
+     "id": "20261121-shilin-yam-festival",
+     "title": "陽明山山藥季11月21日登場，與士林商圈合作推限定聯名美食",
+     "summary": "陽明山山藥季將於11月21日登場，並與士林商圈跨界合作推出限定聯名美食。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-20T18:36:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "士林商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "匯流新聞網",
+       "url": "https://cnews.com.tw/204261120a04/",
+       "published_at": "2026-11-20T18:36:00+08:00"
+      },
+      {
+       "outlet": "臺北旅遊網",
+       "url": "https://www.travel.taipei/zh-tw/news/details/68386",
+       "published_at": "2026-11-19T00:00:00+08:00"
+      },
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/771481/",
+       "published_at": "2026-11-18T12:39:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261118895404",
+       "published_at": "2026-11-18T00:00:00+08:00"
+      },
+      {
+       "outlet": "風傳媒",
+       "url": "https://www.storm.mg/article/11182056",
+       "published_at": "2026-11-16T20:54:00+08:00"
+      },
+      {
+       "outlet": "Yahoo新聞",
+       "url": "https://tw.news.yahoo.com/%E9%99%BD%E6%98%8E%E5%B1%B1%E5%B1%B1%E8%97%A5%E5%AD%A311%E6%9C%8821%E6%97%A5%E7%99%BB%E5%A0%B4-%E6%94%9C%E6%89%8B%E5%A3%AB%E6%9E%97%E5%95%86%E5%9C%88%E6%8E%A8%E9%99%90%E5%AE%9A%E8%81%AF%E5%90%8D%E7%BE%8E%E9%A3%9F-100458625.html",
+       "published_at": "2026-11-16T18:04:00+08:00"
+      },
+      {
+       "outlet": "PChome Online 新聞",
+       "url": "https://news.pchome.com.tw/travel/thehubnews/20261116/index-79482349836682306009.html",
+       "published_at": "2026-11-16T18:04:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261116604903",
+       "published_at": "2026-11-16T18:04:00+08:00"
+      }
+     ],
+     "image": "https://www.travel.taipei/content/images/articles/585109/1024x768_articles-image-o1qwmuwbmk2dmnaxajc6mw.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
