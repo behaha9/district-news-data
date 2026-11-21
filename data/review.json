@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-21T20:50:34+08:00",
+ "updated_at": "2026-11-22T07:18:26+08:00",
  "reviewed": {
   "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html": {
    "decision": "hidden",
@@ -21,11 +21,6 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-14"
-  },
-  "https://ctinews.com/news/items/yDa2G5RbxK": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-07"
   },
   "https://demo.52salon.com/uninews_view.php?new_sn=150115": {
    "decision": "kept",
@@ -82,16 +77,6 @@
    "reason": "房地產",
    "at": "2026-11-12"
   },
-  "https://house.udn.com/house/story/123590/9862676": {
-   "decision": "hidden",
-   "reason": "房地產",
-   "at": "2026-11-07"
-  },
-  "https://house.udn.com/house/story/123590/9862676?form=udn_ch2_common3_cate": {
-   "decision": "hidden",
-   "reason": "房地產",
-   "at": "2026-11-07"
-  },
   "https://house.udn.com/house/story/123590/9862676?list_ch2_index": {
    "decision": "hidden",
    "reason": "房地產",
@@ -111,16 +96,6 @@
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-15"
-  },
-  "https://life.tw/article/%E5%95%86%E5%9C%88%E6%A3%8B%E7%89%8C%E7%A4%BE%E6%9A%97%E7%87%9F%E9%BA%BB%E5%B0%87%E8%B3%AD%E5%A0%B4-%E8%90%AC%E8%8F%AF%E8%AD%A6%E7%B2%BE%E6%BA%96%E4%BD%88%E7%BD%B2%E4%B8%80%E7%B6%B2%E6%89%93%E7%9B%A1-3208337": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-07"
-  },
-  "https://life.tw/article/%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%B8%B6%E5%8B%95%E6%9D%B1%E5%8D%80%E4%BA%BA%E6%BD%AE-%E8%94%A3%E8%90%AC%E5%AE%89%E6%89%BF%E8%AB%BE%E5%95%86%E5%9C%88%E5%BB%BA%E8%A8%AD%E7%B6%93%E8%B2%BB-%E5%8F%AA%E6%9C%83%E5%A4%9A-%E4%B8%8D%E6%9C%83%E5%B0%91-3208039": {
-   "decision": "kept",
-   "item": "20261106-dongqu-anniv",
-   "at": "2026-11-07"
   },
   "https://life.tw/article/%E5%AA%92%E8%A7%92%E4%B8%89%E9%B6%AF%E6%96%87%E5%89%B5-%E5%9C%9F%E6%A8%B9%E5%B7%A5%E6%A5%AD%E5%9C%92%E5%8D%80-%E5%91%82%E5%AE%B6%E6%84%B7-%E4%BF%83%E9%80%B2%E6%96%B0%E5%8C%9728%E5%95%86%E5%9C%88%E5%A4%9C%E7%B6%93%E6%BF%9F-3208126": {
    "decision": "hidden",
@@ -142,11 +117,6 @@
    "item": "20261106-taoyuan-district-feature",
    "at": "2026-11-08"
   },
-  "https://media.posu.tw/uninews_view.php?new_sn=148670": {
-   "decision": "kept",
-   "item": "20261106-xinhua-newyear-street",
-   "at": "2026-11-07"
-  },
   "https://media.posu.tw/uninews_view.php?new_sn=149369": {
    "decision": "kept",
    "item": "20261112-taoyuan-biz-transform",
@@ -156,11 +126,6 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-09"
-  },
-  "https://mknews.com.tw/2026/11/1014448/": {
-   "decision": "kept",
-   "item": "20261106-taoyuan-district-feature",
-   "at": "2026-11-07"
   },
   "https://mknews.com.tw/2026/11/1016108/": {
    "decision": "kept",
@@ -202,11 +167,6 @@
    "reason": "業配遊記",
    "at": "2026-11-13"
   },
-  "https://money.udn.com/money/story/5720/9861439": {
-   "decision": "hidden",
-   "reason": "非商圈",
-   "at": "2026-11-07"
-  },
   "https://money.udn.com/money/story/5930/9877486": {
    "decision": "hidden",
    "reason": "房地產",
@@ -216,11 +176,6 @@
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-20"
-  },
-  "https://more-news.tw/761603/": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-07"
   },
   "https://mypeoplevol.com/2026/life/120122/": {
    "decision": "kept",
@@ -232,40 +187,10 @@
    "reason": "選舉",
    "at": "2026-11-08"
   },
-  "https://n.yam.com/Article/20261106229950": {
-   "decision": "kept",
-   "item": "20261106-dongqu-anniv",
-   "at": "2026-11-07"
-  },
-  "https://n.yam.com/Article/20261106392418": {
-   "decision": "kept",
-   "item": "20261106-dongqu-anniv",
-   "at": "2026-11-07"
-  },
-  "https://n.yam.com/Article/20261106399142": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-07"
-  },
-  "https://n.yam.com/Article/20261106692970": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-07"
-  },
   "https://n.yam.com/Article/20261106947182": {
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-08"
-  },
-  "https://n.yam.com/Article/20261107129736": {
-   "decision": "kept",
-   "item": "20261106-taoyuan-district-feature",
-   "at": "2026-11-07"
-  },
-  "https://n.yam.com/Article/20261107489569": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-07"
   },
   "https://n.yam.com/Article/20261107704049": {
    "decision": "kept",
@@ -327,6 +252,11 @@
    "reason": "業配遊記",
    "at": "2026-11-17"
   },
+  "https://n.yam.com/Article/20261116604903": {
+   "decision": "kept",
+   "item": "20261121-shilin-yam-festival",
+   "at": "2026-11-22"
+  },
   "https://n.yam.com/Article/20261117285363": {
    "decision": "hidden",
    "reason": "選舉",
@@ -372,16 +302,6 @@
    "reason": "國外",
    "at": "2026-11-20"
   },
-  "https://news.ltn.com.tw/amp/news/politics/breakingnews/5631220": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-07"
-  },
-  "https://news.ltn.com.tw/amp/news/politics/paper/1777571": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-07"
-  },
   "https://news.ltn.com.tw/amp/news/society/breakingnews/5639189": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -391,11 +311,6 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-11"
-  },
-  "https://news.ltn.com.tw/news/Taipei/paper/1777571": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-07"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5638912": {
    "decision": "kept",
@@ -422,20 +337,10 @@
    "reason": "選舉",
    "at": "2026-11-18"
   },
-  "https://news.ltn.com.tw/news/politics/paper/1777571": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-07"
-  },
   "https://news.ltn.com.tw/news/society/breakingnews/5639189": {
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-13"
-  },
-  "https://news.org.tw/%E4%B8%8D%E7%8E%A9%E8%99%9B%E7%9A%84%EF%BC%81%E6%9E%97%E6%8F%9A%E5%BA%AD%E5%BE%9E%E6%80%A5%E9%9B%A3%E6%95%91%E5%8A%A9%E3%80%81%E5%AF%B5%E7%89%A9%E5%81%A5%E6%AA%A2%E5%88%B0%E5%95%86%E5%9C%88%E4%BC%81/": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-07"
   },
   "https://news.tvbs.com.tw/life/4049835": {
    "decision": "kept",
@@ -572,11 +477,6 @@
    "item": "20261112-taoyuan-biz-transform",
    "at": "2026-11-12"
   },
-  "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E6%8E%A8%E5%8B%95-%E5%95%86%E5%9C%88-%E7%89%B9%E8%89%B2-%E7%88%AD%E5%8F%962300%E8%90%AC%E8%A3%9C%E5%8A%A9%E8%BC%94%E5%B0%8E%E7%87%9F%E9%81%8B-012457212.html": {
-   "decision": "kept",
-   "item": "20261106-taoyuan-district-feature",
-   "at": "2026-11-07"
-  },
   "https://tw.news.yahoo.com/%E6%AC%A3%E9%A3%9F%E6%97%85%E6%96%B0%E5%93%81%E7%89%8C-gimme-%E9%80%B2%E8%BB%8D%E4%BF%A1%E7%BE%A9%E5%95%86%E5%9C%88-%E7%9E%84%E6%BA%96%E9%83%BD%E6%9C%83-%E8%BC%95%E7%A4%BE%E4%BA%A4-013420558.html": {
    "decision": "kept",
    "item": "20261112-gimme-xinyi",
@@ -692,11 +592,6 @@
    "reason": "選舉",
    "at": "2026-11-12"
   },
-  "https://www.chinatimes.com/newspapers/20261107000414-260204": {
-   "decision": "hidden",
-   "reason": "房地產",
-   "at": "2026-11-07"
-  },
   "https://www.chinatimes.com/newspapers/20261113000682-260107": {
    "decision": "kept",
    "item": "20261112-taoyuan-biz-transform",
@@ -737,11 +632,6 @@
    "reason": "選舉",
    "at": "2026-11-16"
   },
-  "https://www.cna.com.tw/news/aipl/202611060266.aspx": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-07"
-  },
   "https://www.cna.com.tw/postwrite/chi/449863": {
    "decision": "kept",
    "item": "20261110-moea-excellent-district-award",
@@ -776,11 +666,6 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-16"
-  },
-  "https://www.ctee.com.tw/news/20261107700241-439902": {
-   "decision": "hidden",
-   "reason": "房地產",
-   "at": "2026-11-07"
   },
   "https://www.ctee.com.tw/news/20261109701492-431206": {
    "decision": "hidden",
@@ -821,11 +706,6 @@
    "decision": "hidden",
    "reason": "房地產",
    "at": "2026-11-10"
-  },
-  "https://www.fountmedia.io/article/442101": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-07"
   },
   "https://www.ftnn.com.tw/news/594542": {
    "decision": "hidden",
@@ -877,11 +757,6 @@
    "item": "20261106-taoyuan-district-feature",
    "at": "2026-11-08"
   },
-  "https://www.msn.cn/zh-cn/lifestyle/lifestyle/%E6%BD%AE%E5%B7%9E-%E5%8F%8C11-%E5%85%A8%E5%9F%8E%E5%95%86%E5%9C%88%E5%98%89%E5%B9%B4%E5%8D%8E%E6%9D%A5%E4%BA%86-7%E5%A4%A7%E5%95%86%E5%9C%88%E4%BC%98%E6%83%A0-%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82/ar-AA2gFzJV": {
-   "decision": "hidden",
-   "reason": "國外",
-   "at": "2026-11-07"
-  },
   "https://www.msn.com/zh-tw/entertainment/music/%E9%AB%98%E9%9B%84%E8%81%96%E8%AA%95%E7%94%9F%E6%B4%BB%E7%AF%80-13%E6%97%A5%E7%99%BB%E5%A0%B4-%E5%B8%82%E9%9B%86-%E9%9F%B3%E6%A8%82%E9%BB%9E%E4%BA%AE%E5%95%86%E5%9C%88/ar-AA2h7abz": {
    "decision": "kept",
    "item": "20261110-kaohsiung-xmas-fest",
@@ -912,11 +787,6 @@
    "reason": "治安車禍",
    "at": "2026-11-08"
   },
-  "https://www.msn.com/zh-tw/news/other/%E5%BD%B0%E5%B8%82%E6%B0%B8%E6%A8%82%E5%95%86%E5%9C%88%E6%96%BD%E5%B7%A5%E5%BA%97%E5%AE%B6%E4%B8%8D%E4%BE%BF-%E5%90%B3%E9%9F%8B%E9%81%94%E4%BF%83%E7%B8%A3%E5%BA%9C%E7%9B%A3%E7%9D%A3%E5%8D%94%E5%8A%A9/ar-AA2gJ282": {
-   "decision": "kept",
-   "item": "20261104-yongle-construction-inconvenience",
-   "at": "2026-11-07"
-  },
   "https://www.msn.com/zh-tw/news/other/%E6%8E%92%E9%9A%8A%E7%88%86%E8%82%A2%E9%AB%94%E8%A1%9D%E7%AA%81-%E5%AE%9C%E8%98%AD%E5%95%86%E5%9C%88%E6%BB%B7%E5%91%B3%E6%94%A4%E5%89%8D%E5%A4%A7%E4%BA%82%E9%AC%A5-%E7%94%B7%E9%81%AD%E7%95%B6%E8%A1%97%E5%9C%8D%E6%AF%86-1%E9%80%9A%E7%B7%9D%E7%8A%AF%E5%9C%A8%E9%80%83/ar-AA2hkzrH": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -926,11 +796,6 @@
    "decision": "kept",
    "item": "20261107-shalu-monkey",
    "at": "2026-11-10"
-  },
-  "https://www.msn.com/zh-tw/news/other/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gXe6B": {
-   "decision": "kept",
-   "item": "20261107-shalu-monkey",
-   "at": "2026-11-07"
   },
   "https://www.msn.com/zh-tw/news/other/%E7%8D%A8%E5%AE%B6-%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E8%B3%8A%E6%BD%9B%E5%BE%8C%E9%96%80%E8%A1%8C%E7%AB%8A-30%E7%A7%92%E5%85%A7%E5%81%B7%E5%8C%85%E5%BE%97%E6%89%8B5%E8%90%AC-newsebc/vi-AA2h0xcG": {
    "decision": "hidden",
@@ -952,20 +817,10 @@
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-14"
   },
-  "https://www.myhousing.com.tw/n/n01/south-taiwan/tainan-estate/303513/": {
-   "decision": "hidden",
-   "reason": "房地產",
-   "at": "2026-11-07"
-  },
   "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-11-09/2520165.html": {
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-09"
-  },
-  "https://www.nownews.com/news/6889920": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-07"
   },
   "https://www.pbs.npa.gov.tw/ch/app/data/view?module=wg183&id=18740&serno=19679e7f-333a-42a1-a495-d8b8b6c177ac": {
    "decision": "hidden",
@@ -976,11 +831,6 @@
    "decision": "kept",
    "item": "20261106-dongqu-anniv",
    "at": "2026-11-11"
-  },
-  "https://www.scooptw.com/taiwanpost/551064/%E5%95%86%E5%9C%88%E6%A3%8B%E7%89%8C%E7%A4%BE%E6%9A%97%E7%87%9F%E9%BA%BB%E5%B0%87%E8%B3%AD%E5%A0%B4-%E8%90%AC%E8%8F%AF%E8%AD%A6%E7%B2%BE%E6%BA%96%E4%BD%88%E7%BD%B2%E4%B8%80%E7%B6%B2%E6%89%93/": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-07"
   },
   "https://www.scooptw.com/taiwanpost/555374/%e7%be%8e%e8%a1%93%e5%9c%92%e9%81%93%e5%95%86%e5%9c%88%e3%80%8c%e7%be%8e%e5%ad%b8%e6%a3%ae%e6%b4%bb%e7%af%80%e3%80%8d-%e4%b8%b2%e8%81%af%e7%94%a2%e6%a5%ad%e8%a7%80%e5%85%89-%e5%89%b5%e9%80%a0/": {
    "decision": "kept",
@@ -1031,11 +881,6 @@
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-11"
-  },
-  "https://www.tristarnews.com.tw/news_ii.html?ID=39000": {
-   "decision": "hidden",
-   "reason": "業配遊記",
-   "at": "2026-11-07"
   },
   "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1972603": {
    "decision": "kept",
