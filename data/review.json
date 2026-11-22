@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-22T20:51:02+08:00",
+ "updated_at": "2026-11-23T07:18:34+08:00",
  "reviewed": {
   "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html": {
    "decision": "hidden",
@@ -92,11 +92,6 @@
    "reason": "房地產",
    "at": "2026-11-14"
   },
-  "https://i-news.com.tw/2026/11/500012/": {
-   "decision": "kept",
-   "item": "20261110-moea-excellent-district-award",
-   "at": "2026-11-22"
-  },
   "https://jdonline.com.hk/content_110132.html": {
    "decision": "hidden",
    "reason": "國外",
@@ -121,11 +116,6 @@
    "decision": "kept",
    "item": "20261112-taoyuan-biz-transform",
    "at": "2026-11-16"
-  },
-  "https://lifenews.com.tw/611028": {
-   "decision": "kept",
-   "item": "20261106-taoyuan-district-feature",
-   "at": "2026-11-08"
   },
   "https://media.posu.tw/uninews_view.php?new_sn=149369": {
    "decision": "kept",
@@ -196,26 +186,6 @@
    "decision": "kept",
    "item": "20261112-banxin-mrt-tod",
    "at": "2026-11-14"
-  },
-  "https://n.yam.com/Article/20261102788075": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-08"
-  },
-  "https://n.yam.com/Article/20261106947182": {
-   "decision": "hidden",
-   "reason": "業配遊記",
-   "at": "2026-11-08"
-  },
-  "https://n.yam.com/Article/20261107704049": {
-   "decision": "kept",
-   "item": "20261106-taoyuan-district-feature",
-   "at": "2026-11-08"
-  },
-  "https://n.yam.com/Article/20261108880730": {
-   "decision": "hidden",
-   "reason": "業配遊記",
-   "at": "2026-11-08"
   },
   "https://n.yam.com/Article/20261109355042": {
    "decision": "kept",
@@ -302,10 +272,10 @@
    "reason": "選舉",
    "at": "2026-11-09"
   },
-  "https://news.ebc.net.tw/news/society/579578": {
+  "https://news.cts.com.tw/cts/general/202611/202611223104038.html": {
    "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-08"
+   "reason": "非商圈",
+   "at": "2026-11-23"
   },
   "https://news.ebc.net.tw/news/society/579726": {
    "decision": "hidden",
@@ -346,11 +316,6 @@
    "decision": "hidden",
    "reason": "非商圈",
    "at": "2026-11-20"
-  },
-  "https://news.ltn.com.tw/news/politics/breakingnews/5633209": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-08"
   },
   "https://news.ltn.com.tw/news/politics/breakingnews/5637527": {
    "decision": "hidden",
@@ -442,16 +407,6 @@
    "reason": "選舉",
    "at": "2026-11-12"
   },
-  "https://today.line.me/tw/v3/article/Opl7VvB?view=topic": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-08"
-  },
-  "https://today.line.me/tw/v3/article/WBpRGaa": {
-   "decision": "kept",
-   "item": "20261107-taichung-7th-warning",
-   "at": "2026-11-08"
-  },
   "https://today.line.me/tw/v3/article/peppEz6": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -491,11 +446,6 @@
    "decision": "hidden",
    "reason": "非商圈",
    "at": "2026-11-18"
-  },
-  "https://tw.news.yahoo.com/%E5%BD%B1-%E8%A5%BF%E9%96%80%E7%94%BA%E5%95%86%E5%9C%88%E6%A3%8B%E7%89%8C%E7%A4%BE%E8%97%8F%E8%81%B7%E6%A5%AD%E8%B3%AD%E5%A0%B4-%E8%AD%A6%E7%AA%81%E8%A5%B2%E6%94%BB%E5%A0%85%E9%80%AE38%E4%BA%BA-121015081.html": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-08"
   },
   "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%B8%82%E5%95%86%E6%A5%AD%E8%BD%89%E5%9E%8B%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E6%9A%A8%E6%A1%83%E9%87%91%E5%A5%BD%E7%A6%AE%E5%A5%BD%E5%BA%97%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E6%9C%83-%E5%8A%A9%E5%8A%9B%E5%95%86%E5%9C%88%E8%BD%89%E5%9E%8B%E5%8D%87%E7%B4%9A-%E6%A1%83%E5%B8%82%E5%95%86%E6%A5%AD%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83show%E5%A5%BD%E7%A6%AE%E5%A5%BD%E5%BA%97%E6%88%90%E6%9E%9C-003237581.html": {
    "decision": "kept",
@@ -612,11 +562,6 @@
    "reason": "選舉",
    "at": "2026-11-09"
   },
-  "https://video.ltn.com.tw/article/SUOr-mu1K4w/PLI7xntdRxhw1rpX3OIi9nX4jeQoPimc9q": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-08"
-  },
   "https://video.udn.com/news/1331984": {
    "decision": "hidden",
    "reason": "選舉",
@@ -652,11 +597,6 @@
    "reason": "選舉",
    "at": "2026-11-16"
   },
-  "https://www.chinatimes.com/realtimenews/20261122001495-260421": {
-   "decision": "hidden",
-   "reason": "非商圈",
-   "at": "2026-11-22"
-  },
   "https://www.cmoney.tw/forum/article/188604540": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -676,11 +616,6 @@
    "decision": "kept",
    "item": "20261106-dongqu-anniv",
    "at": "2026-11-11"
-  },
-  "https://www.contentplatform.info/articles/567777/%E6%B7%B1%E8%80%95%E5%8F%B0%E5%8C%97%E8%90%AC%E8%8F%AF%E8%89%8B%E8%88%BA%E6%AD%B7%E5%8F%B2%E6%9C%8D%E9%A3%BE%E5%95%86%E5%9C%88%EF%BC%81%E7%9B%9B%E6%98%8C%E5%85%A7%E8%A1%A3%E8%A1%8C%E4%BB%A5%E5%A4%9A/": {
-   "decision": "hidden",
-   "reason": "業配遊記",
-   "at": "2026-11-08"
   },
   "https://www.contentplatform.info/articles/568033/%E5%9C%B0%E9%9D%A2%E4%B9%9F%E6%9C%83%E4%BA%AE%E7%B4%85%E7%87%88%E3%80%80%E4%B8%AD%E5%B8%827%E6%9C%9F%E5%95%86%E5%9C%88%E8%B7%AF%E5%8F%A3%E8%A8%AD%E6%99%BA%E6%85%A7%E8%A1%8C%E4%BA%BA%E5%AE%89%E5%85%A8/": {
    "decision": "kept",
@@ -787,11 +722,6 @@
    "reason": "治安車禍",
    "at": "2026-11-13"
   },
-  "https://www.mnews.tw/external/tyenews_1426951": {
-   "decision": "kept",
-   "item": "20261106-taoyuan-district-feature",
-   "at": "2026-11-08"
-  },
   "https://www.msn.com/zh-tw/entertainment/music/%E9%AB%98%E9%9B%84%E8%81%96%E8%AA%95%E7%94%9F%E6%B4%BB%E7%AF%80-13%E6%97%A5%E7%99%BB%E5%A0%B4-%E5%B8%82%E9%9B%86-%E9%9F%B3%E6%A8%82%E9%BB%9E%E4%BA%AE%E5%95%86%E5%9C%88/ar-AA2h7abz": {
    "decision": "kept",
    "item": "20261110-kaohsiung-xmas-fest",
@@ -817,11 +747,6 @@
    "reason": "選舉",
    "at": "2026-11-12"
   },
-  "https://www.msn.com/zh-tw/news/other/%E5%BA%9C%E4%B8%AD%E5%95%86%E5%9C%88%E6%97%81-2%E9%A8%8E%E5%A3%AB%E8%B7%AF%E4%B8%AD%E9%96%8B%E6%89%93-%E6%89%94%E5%AE%89%E5%85%A8%E5%B8%BD%E9%9A%AA%E7%A0%B8%E8%BB%8A-shorts/vi-AA2gYyBE": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-08"
-  },
   "https://www.msn.com/zh-tw/news/other/%E6%8E%92%E9%9A%8A%E7%88%86%E8%82%A2%E9%AB%94%E8%A1%9D%E7%AA%81-%E5%AE%9C%E8%98%AD%E5%95%86%E5%9C%88%E6%BB%B7%E5%91%B3%E6%94%A4%E5%89%8D%E5%A4%A7%E4%BA%82%E9%AC%A5-%E7%94%B7%E9%81%AD%E7%95%B6%E8%A1%97%E5%9C%8D%E6%AF%86-1%E9%80%9A%E7%B7%9D%E7%8A%AF%E5%9C%A8%E9%80%83/ar-AA2hkzrH": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -831,11 +756,6 @@
    "decision": "kept",
    "item": "20261107-shalu-monkey",
    "at": "2026-11-10"
-  },
-  "https://www.msn.com/zh-tw/news/other/%E7%8D%A8%E5%AE%B6-%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E8%B3%8A%E6%BD%9B%E5%BE%8C%E9%96%80%E8%A1%8C%E7%AB%8A-30%E7%A7%92%E5%85%A7%E5%81%B7%E5%8C%85%E5%BE%97%E6%89%8B5%E8%90%AC-newsebc/vi-AA2h0xcG": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-08"
   },
   "https://www.msn.com/zh-tw/news/other/%E8%B2%B7%E6%BB%B7%E5%91%B3%E6%8E%92%E9%9A%8A%E5%90%B5%E6%9E%B6%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%AD%B8%E5%95%86%E5%9C%882%E6%89%931%E7%94%B7%E5%80%92%E5%9C%B0%E8%A2%AB%E6%8B%96%E8%A1%8C-%E6%B0%91%E7%9C%BE%E6%80%A5%E5%A0%B1%E6%A1%88/ar-AA2hkOQ4": {
    "decision": "hidden",
@@ -871,11 +791,6 @@
    "decision": "kept",
    "item": "20261116-meishu-yuandao-fest",
    "at": "2026-11-20"
-  },
-  "https://www.scooptw.com/tyenews/551009/%e6%a1%83%e5%9c%92%e6%8e%a8%e5%8b%95%e4%b8%80%e5%95%86%e5%9c%88%e4%b8%80%e7%89%b9%e8%89%b2-%e7%88%ad%e5%8f%962300%e8%90%ac%e8%a3%9c%e5%8a%a9%e8%bc%94%e5%b0%8e%e7%87%9f%e9%81%8b/": {
-   "decision": "kept",
-   "item": "20261106-taoyuan-district-feature",
-   "at": "2026-11-08"
   },
   "https://www.scooptw.com/tyenews/552782/%e6%a1%83%e5%9c%923%e5%a4%a7%e5%95%86%e5%9c%88%e7%8d%b2%e4%b8%ad%e5%a4%ae%e8%82%af%e5%ae%9a-%e7%b6%93%e7%99%bc%e5%b1%80%ef%bc%9a%e6%8c%81%e7%ba%8c%e6%8a%95%e5%85%a5%e6%8c%af%e8%88%88%e8%88%87%e8%bd%89/": {
    "decision": "kept",
@@ -941,16 +856,6 @@
    "decision": "kept",
    "item": "20261116-meishu-yuandao-fest",
    "at": "2026-11-17"
-  },
-  "https://yuanfengmedia.tw/detail.php?type=gallery&id=62913": {
-   "decision": "hidden",
-   "reason": "非商圈",
-   "at": "2026-11-08"
-  },
-  "https://yuanfengmedia.tw/detail.php?type=lastest&id=62913": {
-   "decision": "hidden",
-   "reason": "非商圈",
-   "at": "2026-11-08"
   }
  }
 }
