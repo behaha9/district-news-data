@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-22T15:30:00+08:00",
+  "updated_at": "2026-11-22T20:58:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -542,7 +542,8 @@
           "representative": "https://n.yam.com/Article/20261121172973",
           "urls": [
             "https://n.yam.com/Article/20261121172973",
-            "https://n.yam.com/Article/20261122252056"
+            "https://n.yam.com/Article/20261122252056",
+            "https://focus.586.com.tw/2026/11/22/p412812/"
           ]
         },
         {
@@ -551,6 +552,15 @@
           "representative": "https://tw.news.yahoo.com/%E7%87%9F%E6%A5%AD%E7%94%A8%E6%B2%99%E6%8B%89%E6%B2%B9%E5%9D%87%E5%83%B9%E7%AB%99%E4%B8%8A%E5%8D%83%E5%85%83-%E9%A4%90%E9%A3%B2%E8%88%87%E5%AE%B6%E5%BA%AD%E5%B0%8B%E6%9B%BF%E4%BB%A3%E7%94%A8%E6%B2%B9-%E9%A2%A8%E5%91%B3%E8%88%87%E8%80%90%E9%AB%98%E6%BA%AB%E6%88%90%E9%97%9C%E9%8D%B5-065110450.html",
           "urls": [
             "https://tw.news.yahoo.com/%E7%87%9F%E6%A5%AD%E7%94%A8%E6%B2%99%E6%8B%89%E6%B2%B9%E5%9D%87%E5%83%B9%E7%AB%99%E4%B8%8A%E5%8D%83%E5%85%83-%E9%A4%90%E9%A3%B2%E8%88%87%E5%AE%B6%E5%BA%AD%E5%B0%8B%E6%9B%BF%E4%BB%A3%E7%94%A8%E6%B2%B9-%E9%A2%A8%E5%91%B3%E8%88%87%E8%80%90%E9%AB%98%E6%BA%AB%E6%88%90%E9%97%9C%E9%8D%B5-065110450.html"
+          ]
+        },
+        {
+          "id": "20261122-moea-oil-supply-stable",
+          "note": "經濟部表示沙拉油11月中旬起逐步到貨，年底前穩定增加供應",
+          "representative": "https://udn.com/news/amp/story/7238/9894681",
+          "urls": [
+            "https://udn.com/news/amp/story/7238/9894681",
+            "https://today.line.me/tw/v3/article/GgN7E3L"
           ]
         }
       ],

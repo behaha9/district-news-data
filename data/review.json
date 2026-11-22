@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-22T16:49:46+08:00",
+ "updated_at": "2026-11-22T20:51:02+08:00",
  "reviewed": {
   "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html": {
    "decision": "hidden",
@@ -21,6 +21,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-14"
+  },
+  "https://ccss3172.blogspot.com/2026/11/x-3.html": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-22"
   },
   "https://demo.52salon.com/uninews_view.php?new_sn=150115": {
    "decision": "kept",
@@ -886,6 +891,11 @@
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-13"
+  },
+  "https://www.storm.mg/article/11182682": {
+   "decision": "hidden",
+   "reason": "業配遊記",
+   "at": "2026-11-22"
   },
   "https://www.storm.mg/lifestyle/11180259": {
    "decision": "hidden",
