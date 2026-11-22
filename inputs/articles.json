@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T07:17:48+08:00",
+ "fetched_at": "2026-11-22T09:26:38+08:00",
  "articles": {
   "https://www.yesmedia.com.tw/%e4%b8%ad%e5%b8%82%e7%89%a9%e8%aa%bf%e5%88%b8%e4%ba%ba%e6%b0%a3%e5%a0%b4%e5%9f%9f%e6%8f%ad%e6%9b%89%ef%bc%81%e4%b8%80%e4%b8%ad%e5%95%86%e5%9c%88%e5%a5%aa%e5%86%a0%e3%80%81%e9%80%a2%e7%94%b2%e5%a4%9c/": {
    "checked_at": "2026-11-20T10:26+08:00",
@@ -208,302 +208,6 @@
    "checked_at": "2026-11-22T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://www.chinatimes.com/realtimenews/20261030003398-260410": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T17:37+08:00",
-   "site_name": "中時新聞網",
-   "description": "中聯致癌油事件停工後，對國內沙拉油供應衝擊未解。經濟部今（30）日證實，國內油品缺口仍然很大，因應食品業者用油需求，已責成台糖12月起每月再增產500噸，另協調油品進口商第四季多進口5000公噸。經濟部也呼籲地",
-   "cities": {},
-   "districts": [],
-   "body_chars": 712,
-   "image": "https://images.chinatimes.com/newsphoto/2026-10-30/656/20261030003399_20261030173538.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://money.udn.com/money/amp/story/7307/9847302": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T15:52+08:00",
-   "site_name": "經濟日報",
-   "description": "經濟部30日表示，為因應中聯油脂停工對國內沙拉油供應造成的影響，持續受理食品業者用油需求，透過供需媒合、協調增產及鼓勵進口等措施，增加市場供應來源，協助業者取得所需原料。目前經濟部收到各界用油請求，除先前媒合大型業者外，也將協助中小型業者以商圈或夜市自治會為單位，由經濟部進行媒合協助，另外也呼籲地方政府及業者能讓合格檢",
-   "cities": {},
-   "districts": [],
-   "body_chars": 700,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/13/35129897.jpg&M=1&s=Y&x=0&y=29&sw=929&sh=619&sl=W&fw=1200&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/amp/story/7238/9847358": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T16:16+08:00",
-   "site_name": "聯合新聞網",
-   "description": "經濟部今（30）日表示，為因應中聯油脂停工對國內沙拉油供應造成的影響，持續受理食品業者用油需求，透過供需媒合、協調增產及鼓勵進口等措施，增加市場供應來源，協助業者取得所需原料。目前經濟部收到各界用油請求，除先前媒合大型業者外，也將協助中小型業者以商圈或夜市自治會為單位，由經濟部進行媒合協助，另外也呼籲地方政府及業者能讓",
-   "cities": {},
-   "districts": [],
-   "body_chars": 692,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/30/35470093.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=889&sl=W&fw=800&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8%E5%8F%88%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E5%B0%8F%E5%90%83%E5%BA%97%E5%93%80%E8%99%9F%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%BF%AB%E6%AF%94%E7%99%BB%E5%A4%A9%E9%9B%A3-095050772.html": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-31T17:50+08:00",
-   "site_name": "Yahoo News",
-   "description": "食用油近期傳出短缺問題，嘉義多家自助餐、炸物店哀號「買不到油」，原本22公升沙拉油750元，近日已漲破千元，本周甚至直接缺貨，商家叫苦連天。朴子市一間食品材料行被問到怕，索性在門口立黑板寫「沒有油，油在對面」，但對面是加油站，大家只能無奈苦笑。",
-   "cities": {
-    "台北市": 5,
-    "嘉義": 4,
-    "高雄市": 2
-   },
-   "districts": [],
-   "body_chars": 3770,
-   "image": "https://media.zenfs.com/ko/udn.com/63163d84ee0aacce7d7b35faf1bcb982.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-31",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%8D%94%E8%AA%BF%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35000%E5%99%B8-090547595.html": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T17:05+08:00",
-   "site_name": "Yahoo News",
-   "description": "經濟部今（30）日表示，為因應中聯油脂停工對國內沙拉油供應造成的影響，持續受理食品業者用油需求，透過供需媒合、協調增產及鼓勵進口等措施，增加市場供應來源，協助業者取得所需原料。目前經濟部收到各界用油請",
-   "cities": {
-    "台北市": 3,
-    "高雄市": 2
-   },
-   "districts": [],
-   "body_chars": 3733,
-   "image": "https://media.zenfs.com/ko/news_ttv_com_tw_433/9d5cd9aa12e3ffb1326d1e798d726053.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-28/2509249.html": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-28T18:56+08:00",
-   "site_name": "壹電視",
-   "description": "七月爆發中聯食用油風暴，至今盤商庫存幾乎見底，甚至有人發現一桶18公升食用油，已翻倍漲到1500元。",
-   "cities": {},
-   "districts": [],
-   "body_chars": 325,
-   "image": "https://image.nexttv.com.tw/material/news/img/2026/10/202610281841373QZm.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-28",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.pts.org.tw/article/833042": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T20:53+08:00",
-   "site_name": "公視新聞 PNN",
-   "description": "中聯油脂遭到勒令停工，因為市占率超過3成，甚至導致有雲林古坑的學校買不到油，影響到為學童準備的餐食。實際走訪小吃店，店家普遍提及油品漲價，卻只能自行吸收。對此，經濟部強調，除了請3家業者增產供應，也會進口油品，填補空缺。",
-   "cities": {
-    "雲林縣": 3,
-    "台北市": 2,
-    "台中市": 1
-   },
-   "districts": [],
-   "body_chars": 809,
-   "image": "https://news-data.pts.org.tw/media/299725/conversions/PpjsfHJKnyW6aBUHSJXFhAen9Epb8WOQBfLQOq1g-og_jpg.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/posts/list/article/zNM1E2j": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "LINE TODAY",
-   "description": "1則貼文 | 快來參與LINE TODAY討論牆上的討論 | 中聯停工引爆沙拉油荒 經部協調第4季擴大進口5千噸",
-   "cities": {},
-   "districts": [],
-   "body_chars": 119,
-   "image": "https://today-obs.line-scdn.net/0hN7f5FlSZERhbTA2bz8FuT2MaHWloKgsReSlaKy1PGyBxYAVJZCxCeytMHDR-dQYaeyhYKXhOTC4kKwVOZg/w1200",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://udn.com/news/story/7266/9835468": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-25T00:00+08:00",
-   "site_name": "聯合新聞網",
-   "description": "中聯油脂生產的大豆沙拉油七月爆出致癌物苯駢芘超標，遭勒令停工，中聯油品市占率達三成，經濟部喊話已協調其他業者增產、庫存無虞，不過各地仍傳供銷吃緊，雲林縣有學校自購營養午餐沙拉油，因當地食品行每人限購一桶、現金結帳，校方拜託家長、教師排隊搶購；餐飲業者則抱怨，油不僅難買，每桶還從八百元，漲到破千元。",
-   "cities": {
-    "雲林縣": 7,
-    "金門縣": 4,
-    "桃園市": 2,
-    "台東縣": 2,
-    "台北市": 1
-   },
-   "districts": [],
-   "body_chars": 1889,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451422.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-25",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cna.com.tw/news/afe/202610300234.aspx": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-30T17:14+08:00",
-   "site_name": "中央社 CNA",
-   "description": "中聯油脂停工影響國內沙拉油供應，經濟部今天表示，持續透過供需媒合、協調國內業者增產及鼓勵進口等方式增加供應，截至10月中旬，合計已協助89家食品業者取得共1842噸沙拉油，另已協調油品進口商第4季擴大進口5000噸，後續也將協助中小型業者以商圈或夜市自治會為單位進行媒合。",
-   "cities": {
-    "台北市": 1
-   },
-   "districts": [],
-   "body_chars": 992,
-   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261030/2000x1333_wmky_235466486830_202607060033000000.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-30",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.tvbs.com.tw/life/4041024": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T18:50+08:00",
-   "site_name": "TVBS新聞網",
-   "description": "中聯油脂因苯駢芘超標遭勒令停工，導致市面食用油供貨吃緊，價格漲幅將近30%，油品批發商更祭出限購措施，每人僅能購買一桶。雲林縣古坑樟湖生態國中小學校長陳清圳在社群發文求助，請求幫忙上山採購油品，凸顯供貨緊張問題已延燒至校園，影響學校營養午餐供應。",
-   "cities": {
-    "雲林縣": 3,
-    "台北市": 2
-   },
-   "districts": [],
-   "body_chars": 935,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
-  "https://udn.com/news/story/7266/9835478": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-25T00:00+08:00",
-   "site_name": "聯合新聞網",
-   "description": "市占逾三成的中聯油脂繼續停工，國內沙拉油供應吃緊，經濟部表示，沙拉油百分之五進口關稅自十月起已減免，並鼓勵油品進口商擴大進口量，第四季可擴大進口五千噸沙拉油，以緩解國內沙拉油供應壓力；同時，責成台糖評估各種增加沙拉油供應量的可能方案。",
-   "cities": {
-    "金門縣": 4,
-    "台東縣": 2,
-    "宜蘭縣": 1,
-    "花蓮縣": 1
-   },
-   "districts": [],
-   "body_chars": 1571,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451487.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-10-25",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.crntt.tw/doc/docDetail.jsp?coluid=92&kindid=0&docid=160282749": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": "https://www.crntt.tw/upload/202610/29/160282756.jpg",
-   "image_checked": true,
-   "date_hint": "2026-10-29",
-   "date_hint_from": "圖片路徑"
-  },
-  "https://www.sohu.com/a/1103290977_121106832": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T16:58+08:00",
-   "site_name": "搜狐网",
-   "description": "今年以来，惠山区聚焦居民集聚区、文旅风景区等重点片区，以精细化治理为针、以民生需求为线，串起11个区域性综合提升单元，让一个个“单元”更新都扎根民生、贴合需求、留住温度。该单元聚焦环卫保洁、公厕“三适一助”、…",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1149,
-   "image": "https://q7.itc.cn/q_70/images03/20261118/9f567723e67e49368d3d988cbf5c85a6.jpeg",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.msn.cn/zh-cn/news/other/%E6%B2%99%E5%B8%82%E8%83%9C%E5%88%A9%E8%A1%97%E6%96%B0%E7%94%9F-%E4%B8%80%E9%92%88%E4%B8%80%E7%BA%BF-%E7%BB%A3-%E5%87%BA%E8%80%81%E8%A1%97%E7%83%9F%E7%81%AB/ar-AA2hFYJ6": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.sohu.com/a/1103204256_120645266": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T21:26+08:00",
-   "site_name": "搜狐网",
-   "description": "太原柳巷汇聚老字号，以蒸饺、元宵、酱肉、灌肠等为代表，品味三晋风味。",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1364,
-   "image": "https://q7.itc.cn/images01/20261118/b21408b8bb64466ab7603e59ab80ba7b.png",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.sohu.com/a/1103260036_120001354": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T17:02+08:00",
-   "site_name": "搜狐网",
-   "description": "影像分享、语言表演展演、摄影作品义卖接连开展，高校课堂不再关在围墙之内，而是融进老城的市井日常，路过的市民、游客都能近距离接触专业艺术教学。但露天广场是完全开放的环境，课程一旦开展，就会和场地、来往行人、天气…",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1190,
-   "image": "https://q2.itc.cn/q_70/images03/20261118/99fddb3c44a3497e996e472aca3d9bc0.jpeg",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.pts.org.tw/video/22788": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-10-26T21:23+08:00",
-   "site_name": "公視新聞 PNN",
-   "description": "中聯油脂遭到勒令停工，因為市占率超過3成，甚至導致有雲林古坑的學校買不到油，影響到為學童準備的餐食。實際走訪小吃店，店家普遍提及油品漲價，卻只能自行吸收。對此，經濟部強調，除了請3家業者增產供應，也會進口油品，填補空缺。 詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw/article/8",
-   "cities": {
-    "宜蘭縣": 2,
-    "雲林縣": 1
-   },
-   "districts": [],
-   "body_chars": 545,
-   "image": "https://news-data.pts.org.tw/media/302178/conversions/M6M5oxpKomvM2QY4fQ3ShJBxn6Sdh0Fbw6A96mVM-cover_lg.webp",
-   "image_checked": true,
-   "date_hint": "2026-10-26",
-   "date_hint_from": "原文時間"
-  },
-  "https://finance.sina.com.cn/wm/2026-11-18/doc-inizeacc6941033.shtml": {
-   "checked_at": "2026-11-19T07:18+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T18:17+08:00",
-   "site_name": null,
-   "description": "别只拍白墙黛瓦！跟着这些石雕纹路漫逛青溪老街",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1244,
-   "image": "https://n.sinaimg.cn/front20261118ac/640/w720h720/20261118/e0d1-31ed4a000184411ebe8d9df10337567c.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
   },
   "https://www.taisounds.com/news/content/75/310474": {
    "checked_at": "2026-11-19T10:40+08:00",
@@ -10002,6 +9706,359 @@
    "image": "https://q2.itc.cn/q_70/images03/20261121/c22ce5b8f91148cead2b26d027107f67.jpeg",
    "image_checked": true,
    "date_hint": "2026-11-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.yesmedia.com.tw/%e3%80%8c2026%e5%85%a8%e5%9c%8b%e5%8d%93%e8%b6%8a%e5%95%86%e5%9c%88%e7%8d%8e%e3%80%8d20%e8%99%95%e7%89%b9%e8%89%b2%e5%95%86%e5%9c%88%e8%84%ab%e7%a9%8e%e8%80%8c%e5%87%ba-%e6%a8%b9%e7%ab%8b%e5%8d%93-3/": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://n.yam.com/Article/20261122366050": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-11-22T07:04+08:00",
+   "site_name": "蕃新聞",
+   "description": "圖/ 經濟部提供經濟部商業發展署日前於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」，由經濟部龔明",
+   "cities": {
+    "新北市": 2,
+    "嘉義縣": 2,
+    "台北市": 1,
+    "台南市": 1,
+    "彰化縣": 1
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）",
+    "縣府太子商圈（嘉義縣）",
+    "鹽水商圈（台南市）",
+    "小琉球商圈（屏東縣）"
+   ],
+   "body_chars": 1472,
+   "image": "https://ni.yam.com/20261122/a5u24-d9acx-beb1d8f541c7df7c.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-22",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261122252056": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-11-22T07:45+08:00",
+   "site_name": "蕃新聞",
+   "description": "本文原刊於品傳媒：食用油缺貨要趕快多囤嗎？破解「囤越多越有保障」迷思，看懂適量的智慧示意圖（圖／St",
+   "cities": {
+    "台南市": 6
+   },
+   "districts": [],
+   "body_chars": 1966,
+   "image": "https://ni.yam.com/20261122/pantry-jars-hoarding-myth-20261122-c40b6b5aef94a29a.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-22",
+   "date_hint_from": "原文時間"
+  },
+  "https://more-news.tw/774892/": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-11-22T07:59+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "圖/ 經濟部提供 經濟部商業發展署日前於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」，由經濟部龔明鑫部長親 […]",
+   "cities": {
+    "嘉義": 4,
+    "新北市": 2,
+    "台北市": 1,
+    "台南市": 1,
+    "彰化縣": 1
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）",
+    "縣府太子商圈（嘉義縣）",
+    "鹽水商圈（台南市）",
+    "小琉球商圈（屏東縣）"
+   ],
+   "body_chars": 1346,
+   "image": "https://i-news.com.tw/wp-content/uploads/2026/11/a5u24-d9acx-600x400.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-22",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8%E5%8F%88%E6%BC%B2%E5%83%B9-%E6%A1%B6%E8%A3%9D%E6%B2%99%E6%8B%89%E6%B2%B9%E9%A3%86%E7%A0%B4%E5%8D%83%E5%85%83-%E5%B0%8F%E5%90%83%E5%BA%97%E5%93%80%E8%99%9F%E8%B2%B7%E4%B8%8D%E5%88%B0-%E5%BF%AB%E6%AF%94%E7%99%BB%E5%A4%A9%E9%9B%A3-095050772.html": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-10-31T17:50+08:00",
+   "site_name": "Yahoo News",
+   "description": "食用油近期傳出短缺問題，嘉義多家自助餐、炸物店哀號「買不到油」，原本22公升沙拉油750元，近日已漲破千元，本周甚至直接缺貨，商家叫苦連天。朴子市一間食品材料行被問到怕，索性在門口立黑板寫「沒有油，油在對面」，但對面是加油站，大家只能無奈苦笑。",
+   "cities": {
+    "台北市": 7,
+    "嘉義": 4,
+    "新北市": 1,
+    "高雄市": 1,
+    "彰化縣": 1
+   },
+   "districts": [],
+   "body_chars": 2821,
+   "image": "https://media.zenfs.com/ko/udn.com/63163d84ee0aacce7d7b35faf1bcb982.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-31",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261030003398-260410": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T17:37+08:00",
+   "site_name": "中時新聞網",
+   "description": "中聯致癌油事件停工後，對國內沙拉油供應衝擊未解。經濟部今（30）日證實，國內油品缺口仍然很大，因應食品業者用油需求，已責成台糖12月起每月再增產500噸，另協調油品進口商第四季多進口5000公噸。經濟部也呼籲地",
+   "cities": {},
+   "districts": [],
+   "body_chars": 712,
+   "image": "https://images.chinatimes.com/newsphoto/2026-10-30/656/20261030003399_20261030173538.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%81%9C%E5%B7%A5-%E6%B2%99%E6%8B%89%E6%B2%B9%E7%BC%BA%E5%8F%A3%E4%BB%8D%E5%A4%A7-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%8D%94%E8%AA%BF%E7%AC%AC4%E5%AD%A3%E6%93%B4%E5%A4%A7%E9%80%B2%E5%8F%A35000%E5%99%B8-090547595.html": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T17:05+08:00",
+   "site_name": "Yahoo News",
+   "description": "經濟部今（30）日表示，為因應中聯油脂停工對國內沙拉油供應造成的影響，持續受理食品業者用油需求，透過供需媒合、協調增產及鼓勵進口等措施，增加市場供應來源，協助業者取得所需原料。目前經濟部收到各界用油請",
+   "cities": {
+    "台北市": 5,
+    "新北市": 1,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 2771,
+   "image": "https://media.zenfs.com/ko/news_ttv_com_tw_433/9d5cd9aa12e3ffb1326d1e798d726053.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://finance.biggo.com.tw/news/1587148d-bb4d-44d5-89cf-6d3f3240befe": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-11-22T08:55+08:00",
+   "site_name": "BigGo 財經",
+   "description": "韓國首爾明洞在全球147個主要商圈中租金排名第9。每平方英尺年租金為739美元，較一年前上漲9%，遠高於全球平均3%的漲幅；換算每坪月租金約295萬韓元（約新台幣7.…",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1861,
+   "image": "https://img.biggo.com/JOy4gX72OdQIzx6PbEd94J_iGlm8iRizS3Bin639j8o/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzE1ODcxNDhkLWJiNGQtNDRkNS04OWNmLTZkM2YzMjQwYmVmZV8xNzk1MzA5MjQ5X2RlZmF1bHQuanBn.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-22",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/Nv50LqP": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 食用油缺貨 議員籲落實平價直供",
+   "cities": {},
+   "districts": [],
+   "body_chars": 109,
+   "image": "https://today-obs.line-scdn.net/0hIedYLd4uFkpZIArTuTJpHWF2GjtqRgxDe05dLH0lGilzDFAUYUJFKS8iTWZ8FlEUeRYKKy4pSH5xQAEVZA/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://today.line.me/tw/v3/posts/list/article/zNM1E2j": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "1則貼文 | 快來參與LINE TODAY討論牆上的討論 | 中聯停工引爆沙拉油荒 經部協調第4季擴大進口5千噸",
+   "cities": {},
+   "districts": [],
+   "body_chars": 119,
+   "image": "https://today-obs.line-scdn.net/0hN7f5FlSZERhbTA2bz8FuT2MaHWloKgsReSlaKy1PGyBxYAVJZCxCeytMHDR-dQYaeyhYKXhOTC4kKwVOZg/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://money.udn.com/money/amp/story/7307/9847302": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T15:52+08:00",
+   "site_name": "經濟日報",
+   "description": "經濟部30日表示，為因應中聯油脂停工對國內沙拉油供應造成的影響，持續受理食品業者用油需求，透過供需媒合、協調增產及鼓勵進口等措施，增加市場供應來源，協助業者取得所需原料。目前經濟部收到各界用油請求，除先前媒合大型業者外，也將協助中小型業者以商圈或夜市自治會為單位，由經濟部進行媒合協助，另外也呼籲地方政府及業者能讓合格檢",
+   "cities": {},
+   "districts": [],
+   "body_chars": 700,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/13/35129897.jpg&M=1&s=Y&x=0&y=29&sw=929&sh=619&sl=W&fw=1200&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/news/afe/202610300234.aspx": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T17:14+08:00",
+   "site_name": "中央社 CNA",
+   "description": "中聯油脂停工影響國內沙拉油供應，經濟部今天表示，持續透過供需媒合、協調國內業者增產及鼓勵進口等方式增加供應，截至10月中旬，合計已協助89家食品業者取得共1842噸沙拉油，另已協調油品進口商第4季擴大進口5000噸，後續也將協助中小型業者以商圈或夜市自治會為單位進行媒合。",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 983,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261030/2000x1333_wmky_235466486830_202607060033000000.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.crntt.tw/doc/docDetail.jsp?coluid=92&kindid=0&docid=160282749": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": "https://www.crntt.tw/upload/202610/29/160282756.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-29",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://news.pts.org.tw/video/22788": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T21:23+08:00",
+   "site_name": "公視新聞 PNN",
+   "description": "中聯油脂遭到勒令停工，因為市占率超過3成，甚至導致有雲林古坑的學校買不到油，影響到為學童準備的餐食。實際走訪小吃店，店家普遍提及油品漲價，卻只能自行吸收。對此，經濟部強調，除了請3家業者增產供應，也會進口油品，填補空缺。 詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw/article/8",
+   "cities": {
+    "新北市": 1,
+    "高雄市": 1,
+    "雲林縣": 1
+   },
+   "districts": [],
+   "body_chars": 536,
+   "image": "https://news-data.pts.org.tw/media/302439/conversions/P1avhZiwGTJTwPNFLfIMvnq8No23uDRBLsHygUeu-cover_lg.webp",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/amp/story/7238/9847358": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-10-30T16:16+08:00",
+   "site_name": "聯合新聞網",
+   "description": "經濟部今（30）日表示，為因應中聯油脂停工對國內沙拉油供應造成的影響，持續受理食品業者用油需求，透過供需媒合、協調增產及鼓勵進口等措施，增加市場供應來源，協助業者取得所需原料。目前經濟部收到各界用油請求，除先前媒合大型業者外，也將協助中小型業者以商圈或夜市自治會為單位，由經濟部進行媒合協助，另外也呼籲地方政府及業者能讓",
+   "cities": {},
+   "districts": [],
+   "body_chars": 692,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/30/35470093.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=889&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-30",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-10-28/2509249.html": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-10-28T18:56+08:00",
+   "site_name": "壹電視",
+   "description": "七月爆發中聯食用油風暴，至今盤商庫存幾乎見底，甚至有人發現一桶18公升食用油，已翻倍漲到1500元。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 325,
+   "image": "https://image.nexttv.com.tw/material/news/img/2026/10/202610281841373QZm.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-28",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/life/4041024": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T18:50+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "中聯油脂因苯駢芘超標遭勒令停工，導致市面食用油供貨吃緊，價格漲幅將近30%，油品批發商更祭出限購措施，每人僅能購買一桶。雲林縣古坑樟湖生態國中小學校長陳清圳在社群發文求助，請求幫忙上山採購油品，凸顯供貨緊張問題已延燒至校園，影響學校營養午餐供應。",
+   "cities": {
+    "雲林縣": 3,
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 935,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pts.org.tw/article/833042": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-10-26T20:53+08:00",
+   "site_name": "公視新聞 PNN",
+   "description": "中聯油脂遭到勒令停工，因為市占率超過3成，甚至導致有雲林古坑的學校買不到油，影響到為學童準備的餐食。實際走訪小吃店，店家普遍提及油品漲價，卻只能自行吸收。對此，經濟部強調，除了請3家業者增產供應，也會進口油品，填補空缺。",
+   "cities": {
+    "雲林縣": 3,
+    "台北市": 2,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 809,
+   "image": "https://news-data.pts.org.tw/media/299725/conversions/PpjsfHJKnyW6aBUHSJXFhAen9Epb8WOQBfLQOq1g-og_jpg.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7266/9835468": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T00:00+08:00",
+   "site_name": "聯合新聞網",
+   "description": "中聯油脂生產的大豆沙拉油七月爆出致癌物苯駢芘超標，遭勒令停工，中聯油品市占率達三成，經濟部喊話已協調其他業者增產、庫存無虞，不過各地仍傳供銷吃緊，雲林縣有學校自購營養午餐沙拉油，因當地食品行每人限購一桶、現金結帳，校方拜託家長、教師排隊搶購；餐飲業者則抱怨，油不僅難買，每桶還從八百元，漲到破千元。",
+   "cities": {
+    "雲林縣": 7,
+    "金門縣": 4,
+    "桃園市": 3,
+    "台北市": 1,
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 1949,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451422.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-25",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7266/9835478": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-10-25T00:00+08:00",
+   "site_name": "聯合新聞網",
+   "description": "市占逾三成的中聯油脂繼續停工，國內沙拉油供應吃緊，經濟部表示，沙拉油百分之五進口關稅自十月起已減免，並鼓勵油品進口商擴大進口量，第四季可擴大進口五千噸沙拉油，以緩解國內沙拉油供應壓力；同時，責成台糖評估各種增加沙拉油供應量的可能方案。",
+   "cities": {
+    "金門縣": 4,
+    "桃園市": 1,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 1631,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451487.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-10-25",
+   "date_hint_from": "原文時間"
+  },
+  "https://twline365.com/2026/11/1281562/": {
+   "checked_at": "2026-11-22T09:26+08:00",
+   "status": 200,
+   "published_at": "2026-11-22T07:23+08:00",
+   "site_name": "台灣線報",
+   "description": "圖/ 經濟部提供 經濟部商業發展署日前於凱達大飯店舉辦「2026全國卓越商圈獎頒獎典禮」，由經濟部龔明鑫部長親 […]",
+   "cities": {
+    "新北市": 2,
+    "嘉義縣": 2,
+    "台北市": 1,
+    "台南市": 1,
+    "彰化縣": 1
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）",
+    "縣府太子商圈（嘉義縣）",
+    "鹽水商圈（台南市）",
+    "小琉球商圈（屏東縣）"
+   ],
+   "body_chars": 1353,
+   "image": "https://i0.wp.com/twline365.com/wp-content/uploads/img_1794443520_5712.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-22",
    "date_hint_from": "原文時間"
   }
  }

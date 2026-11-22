@@ -1,20 +1,40 @@
 {
- "fetched_at": "2026-11-22T07:17:38+08:00",
+ "fetched_at": "2026-11-22T09:26:28+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
   "raw": 94,
-  "kept": 18,
-  "resolved": 18,
-  "items": 17,
+  "kept": 19,
+  "resolved": 19,
+  "items": 18,
   "resolve_this_run": {
-   "online": 3
+   "online": 2
   },
   "dropped_old": [
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
   ]
  },
  "items": [
+  {
+   "title": "韓國明洞蟬聯全球第9貴商圈，每坪月租金約295萬韓元",
+   "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKcXphZFBZV0Q1VlpOSWtIQ2VXbGNrbFJNNTc0YTRMR0ZpV3VTbGxwVXBTYzE4OUwxbTQ2eTFFalpnR05UTjZSa3hvQXV6T3k1QzdpRTk2OW9DQ21KdmlWTXZTRU45MXlXbm9SZW5nNHZhaVlMd0xxVS13?oc=5",
+   "source": "BigGo 財經",
+   "source_site": "https://finance.biggo.com.tw",
+   "published_at": "2026-11-22T08:55+08:00",
+   "query": "商圈",
+   "url": "https://finance.biggo.com.tw/news/1587148d-bb4d-44d5-89cf-6d3f3240befe",
+   "resolved": true
+  },
+  {
+   "title": "「2026全國卓越商圈獎」20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlci1iQmhTemRpU2ZuUFFvUHhyTkNLelByZXZnTlBuUFdnWjlrMHFyVWJ4eDRxRElyejZQZ2pwR1gtVzd3c1hHdVV4SDEwVW5NekE?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-22T07:04+08:00",
+   "query": "商圈",
+   "url": "https://n.yam.com/Article/20261122366050",
+   "resolved": true
+  },
   {
    "title": "推廣在地農產、串聯商圈美食 士林陽明山山藥季邀民眾支持小農",
    "google_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1lbGdyY01ST0FGcW04WFVWRnZpMUNwWXh3a3Jxa2FxWTJxWGVHS1otS093ZzNlbjNPWDA1OUY5YVJ0R2Fw?oc=5",
@@ -33,16 +53,6 @@
    "published_at": "2026-11-21T19:29+08:00",
    "query": "商圈",
    "url": "https://www.ettoday.net/news/20261121/3276169.htm",
-   "resolved": true
-  },
-  {
-   "title": "赴角板山商圈徒步拜票 黃世杰：不因人口少、距離遠而忽略復興區",
-   "google_url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNSGFJZmd4UjBuaTZtWmpPRnZiT1BCNjdrX21qUXQyWjQzTldhVUFIeVA2SDVhYzBwWlJxR083MUJrSzFOTHJVQktiYzl6aU9jZ1c3U3oyQnJVZG9KNGhVN3dtbllOV09rMjl1UlFHNzF5Z2wxa3ZuUTA0NTVEcnVfWlVBUjFwQ1M4b1RieTBNcWtEYmlCay0waS1MSXl6SF9yaWlkQzJlM0hBejdwajZELW9xcmFKQmRvVkdyWENpeEpDdkd4ZlY1SWpvOXRvaXgyRlRoRWVIbG9qZ0hIVC04bDdhckxJVnQyNVpxZm5hSGpGb0txeWpfWlR4R0FuNkx0Wnh6d2pMZklMdmRzZGEwSUlhMEllLUR2WnRVYl82XzFaOU5mZmRERjZmd2Q1dlNCT1FfMFJIRE5uREhEdEs3VXJDdVBZTmRhVTJad3doQ0lUZk1OT0VMMU00Qnc0ZUx0bDE2RjVYWWs?oc=5",
-   "source": "行銷人",
-   "source_site": "https://www.marketersgo.com",
-   "published_at": "2026-11-21T18:00+08:00",
-   "query": "商圈",
-   "url": "https://www.marketersgo.com/uncategorized/202611/%E8%B5%B4%E8%A7%92%E6%9D%BF%E5%B1%B1%E5%95%86%E5%9C%88%E5%BE%92%E6%AD%A5%E6%8B%9C%E7%A5%A8-%E9%BB%83%E4%B8%96%E6%9D%B0%EF%BC%9A%E4%B8%8D%E5%9B%A0%E4%BA%BA%E5%8F%A3%E5%B0%91%E3%80%81%E8%B7%9D%E9%9B%A2/",
    "resolved": true
   },
   {
@@ -150,7 +160,7 @@
    "google_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQQUxnY0lNb0o5NEowOEViNGlYUVZxZk1GMW5hdWdHb29GWWtUNjFuMUhUU1hqWVQyM1JfMW1VU0ZONDdnYmtsVXpyZzdpV21zQ1JrVzBNbk05SHZhVVVNRm8xamZUMUJlSmdhZnFjYU9VN0JwNVNXSHR3b1NROWRIRjdEQ1RqbmlSenNISmFQMzNjTUQ0REZKYjdMNmlnYm5fX0xYQ3Exb2hPQWtXNlpnNGJYWkV6VDRaRjB1TWRycnA5aDFIRks4elJ2WTUyNmVoSm9SZFlVMTR4SzZGLW5HVjJqbG85MjdMd1ozMFMyQXN4V0JCSTNaOWM1ZlQ4X3BZbnRvdktBUFJSb1pOclE0MlhRYkNEZEVGcjVqS2pnTlBrN0RLLXhVaUd3X00xOTJYQU0wWEo0VVVqZnRsbW43VkNraXpCLU0yZWx1X0dqcTRRbWt2Z1lxYVYzZmM?oc=5",
    "source": "Yahoo新聞",
    "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-20T14:28+08:00",
+   "published_at": "2026-11-20T14:36+08:00",
    "query": "商圈",
    "url": "https://tw.news.yahoo.com/%E5%90%B3%E6%97%AD%E6%99%BA%E6%8E%83%E8%A1%97%E5%90%8C%E6%AD%A5%E7%9B%A4%E9%BB%9E%E5%B8%82%E5%A0%B4%E5%8D%B8%E8%B2%A8%E5%8B%95%E7%B7%9A-%E7%9B%BC%E4%B8%B2%E8%81%AF%E5%91%A8%E9%82%8A%E5%95%86%E5%9C%88-062817588.html",
    "resolved": true

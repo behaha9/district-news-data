@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T07:17:45+08:00",
+ "updated_at": "2026-11-22T09:26:35+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,15 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "食用油缺貨要趕快多囤嗎？破解「囤越多越有保障」迷思，看懂適量的智慧",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GSkNEN2N5eFdRVExEWDZVcFgydWdadTFqWXlaNzMyakc0eU1LcllVV043NzlrNmtBNDZwWTk4ZHJSSk9OUFdsMXZrTTJvREpCRVE?oc=5",
+     "source": "蕃新聞",
+     "published_at": "2026-11-22T07:45+08:00",
+     "url": "https://n.yam.com/Article/20261122252056",
+     "resolved": true
+    },
     {
      "title": "食用油囤積恐酸敗變質 台南市衛生局籲按需採購",
      "kind": "價格動態",
@@ -18,12 +27,30 @@
      "resolved": true
     },
     {
+     "title": "沙拉油每月需求2.41萬噸經部協調增產進口、媒合供貨補缺口| 財經焦點| 產經",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkWlMzVFUzSmRLQWhHUTZGRWJ0bHFkcXJ5QVB1ZUVrMVV1aUIzaWc5WTJhbEpvWS1nc2FYTXZvN1ZnYVpZczNRdGZ3MG1OTl9XVnlOMWZXTVY2UnR5WXRlaDBDdmNUMFdfTXZTUU5rWmpIRjNqRTJTcQ?oc=5",
+     "source": "UDN",
+     "published_at": "2026-11-21T10:00+08:00",
+     "url": "http://udn.com/news/story/7238/9892771?from=udn_ch2_menu_v2_main_cate",
+     "resolved": true
+    },
+    {
      "title": "沙拉油每月需求2.41萬噸經部協調增產進口、媒合供貨補缺口| 產經",
      "kind": "價格動態",
      "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uNTg4TzdNdXBtSnZ1SXd6YXE4R3ZZUDRJdHNlUnFwYUtlYkhpc1FoSWxrajZQVktLQV92TUVEMVJvM1hXbl9HQ3EzNV9yWHlNa01FeG9qSEVCMkhaS0E?oc=5",
      "source": "中央社 CNA",
      "published_at": "2026-11-21T09:27+08:00",
      "url": "https://www.cna.com.tw/news/afe/202611210038.aspx",
+     "resolved": true
+    },
+    {
+     "title": "討論牆 | 食用油缺貨 議員籲落實平價直供",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NX1VOblhndXZHQkRlQUxxSW9zanZ1cXl0eHIyeEI4WkxLc3ZrT1Noc0tYNWNQMk1pNFFNYVBUWXZBdTZrM0ZOMEhpZWRkQkE1VFY0UzR2ZHEzdEpTb1NTa2J6a1A?oc=5",
+     "source": "LINE TODAY",
+     "published_at": "2026-11-20T21:36+08:00",
+     "url": "https://today.line.me/tw/v3/posts/list/article/Nv50LqP",
      "resolved": true
     },
     {
