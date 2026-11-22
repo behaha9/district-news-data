@@ -1,29 +1,68 @@
 {
- "fetched_at": "2026-11-22T23:29:15+08:00",
+ "fetched_at": "2026-11-23T07:17:05+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 86,
-  "kept": 25,
-  "resolved": 25,
-  "items": 23,
+  "raw": 82,
+  "kept": 26,
+  "resolved": 26,
+  "items": 25,
   "resolve_this_run": {
-   "online": 4
+   "online": 5
   },
   "dropped_old": [
-   "一中商圈被米粉擠爆！小米之家台中店開幕　明星商品一折（原文日期 2017-11-18）",
-   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
+   "一中商圈被米粉擠爆！小米之家台中店開幕　明星商品一折（原文日期 2017-11-18）"
   ]
  },
  "items": [
   {
+   "title": "從元代村落到百年商圈：走進北京王府井的前世今生",
+   "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Na1F5N3dMQU9VMWlnSU1VZUtIa2o3aWJOaGlTRnlPdk90a3o0XzNMUVlDZkpWcmdCTVY3LTBiSV9teEsxbldKSg?oc=5",
+   "source": "PeoPo 公民新聞",
+   "source_site": "https://www.peopo.org",
+   "published_at": "2026-11-23T07:00+08:00",
+   "query": "商圈",
+   "url": "https://www.peopo.org/news/859557",
+   "resolved": true
+  },
+  {
+   "title": "2026苗栗獅潭仙草花節｜山城慢活賞花之旅！悠哉漫步紫色夢幻仙境，順遊新店老街、鳴鳳古道| 銀髮一起玩",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kdVZWcUNIZHBnV0VBeVEyYlRrN3BqTmhYYWZwLW9uNHUxSkRFMTZqMzM3bjJRclUwVXQzbUFEbGthbGlYcXFoT0hEbWtJWXlqTC1YcVZn?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-23T05:18+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/article/2D9oPRj",
+   "resolved": true
+  },
+  {
+   "title": "萬華商圈廊帶翻新 5主題路線漫步艋舺",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUT2xGSF9IQ3ZadWJvYjdYRXM0dHpjOGM0Rk1xdDBGblIyRjNrd0FwSWVHc2VuQTlYV0FlNG05T2hUbVhaeWR3S3pjMHh4dWxlN21WN3lqYndFSmRNVkRaZTE4cElIRWlpejNz?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-23T04:10+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/newspapers/20261123000577-260107",
+   "resolved": true
+  },
+  {
    "title": "萬顆燈籠點亮太平老街！ 雲林「斗六燈海節」人潮爆滿 芒果醬熱力開唱嗨翻全場！",
-   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sTGtWS1IwcVlCYlFVXzhnMlZMekR2ZHpLSXB4b25VVXRaQnR0b0lGLWNHMHB1ZjZheEJoRUpQRkNWeDBwa0JUbm51TXJJV0NqSDUzV0I0X0p6bTFyZGZBM3VGbTR3c0NleF9r?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FZi1ZQUFoRDktZEFMMUFud2trbWJaM3diSHUzOW0tUXN0ZFgybk5QcDRuWGZNRXJpcEQ5NGpmSy1YMWpZMy1keXc3dkY0cGNKQ3lfVUtEd0p2Qm9Yd1ptdlhPV2tFOE80TW0xZi1zZ0J3RUllMERhRkNDcnFGUQ?oc=5",
    "source": "台灣華報",
    "source_site": "https://www.kingtop.com.tw",
-   "published_at": "2026-11-22T23:13+08:00",
+   "published_at": "2026-11-23T04:04+08:00",
    "query": "老街",
-   "url": "https://www.kingtop.com.tw/detail.php?type=lastest&id=56048",
+   "url": "https://www.kingtop.com.tw/detail.php?type=catalog&catalog_id=14&id=56048",
+   "resolved": true
+  },
+  {
+   "title": "蔣萬安赴晴光商圈掃街！ 支持者熱情要求簽名合照",
+   "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ReFI0NGtfbXlLOVVBbjBBRGtoS3ZWS2NnOE02aXdIQ0xuaXBvY0FxMUZlYnRfTDR0UWlYa2pjc0k5NmxwaDNVYVU1VlNEcHlzTDBpd2x4WkcyZ21QVzhhMlA1V3Q3aUxacmVIVHdQMUFyT2RRS0owS0hHYUc?oc=5",
+   "source": "台視全球資訊網",
+   "source_site": "https://www.ttv.com.tw",
+   "published_at": "2026-11-22T23:37+08:00",
+   "query": "商圈",
+   "url": "https://www.ttv.com.tw/videocity/video_play.asp?id=956548&sid=5&from=707",
    "resolved": true
   },
   {
@@ -224,26 +263,6 @@
    "published_at": "2026-11-21T09:30+08:00",
    "query": "老街",
    "url": "https://www.storm.mg/article/11182682",
-   "resolved": true
-  },
-  {
-   "title": "新北房市 林口三井生活圈 商圈成熟房價有撐",
-   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwalBkam1lUUNGck8xbHZGekdCc0I1aUM3YVcwbVN3N2hsYlBweTNWaUltZ0NJV1V1TERRMHU4Ul9TWkhWZ2FEaW05Z0pRQklfVTJtSHl3LXpkcjRvcURud0RmeS1YbjVRd0M4?oc=5",
-   "source": "中時新聞網",
-   "source_site": "https://www.chinatimes.com",
-   "published_at": "2026-11-21T04:10+08:00",
-   "query": "商圈",
-   "url": "https://www.chinatimes.com/newspapers/20261121000374-260204",
-   "resolved": true
-  },
-  {
-   "title": "新北房市林口三井生活圈商圈成熟房價有撐- 日報",
-   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KTzYxU3dEVm1KZ21QTFhSNVJodk43TlNxQTktLW93a0k1REdic0k5UHUxSDZLQTRvSTdzYzFzZ3NZdEZpdm5nXzFteWdxdGZROW9JNjdUS1RrRVlmWE9r?oc=5",
-   "source": "工商時報",
-   "source_site": "https://www.ctee.com.tw",
-   "published_at": "2026-11-21T03:00+08:00",
-   "query": "商圈",
-   "url": "https://www.ctee.com.tw/news/20261121700238-439902",
    "resolved": true
   }
  ]
