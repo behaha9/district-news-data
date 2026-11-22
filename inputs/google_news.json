@@ -1,20 +1,31 @@
 {
- "fetched_at": "2026-11-22T12:17:42+08:00",
+ "fetched_at": "2026-11-22T15:09:02+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 86,
+  "raw": 83,
   "kept": 21,
   "resolved": 21,
-  "items": 20,
+  "items": 19,
   "resolve_this_run": {
-   "online": 4
+   "online": 2
   },
   "dropped_old": [
+   "一中商圈被米粉擠爆！小米之家台中店開幕　明星商品一折（原文日期 2017-11-18）",
    "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
   ]
  },
  "items": [
+  {
+   "title": "老街別只會去淡水、北埔！1超強景點狂吸120萬人次，遊客讚：美食多環境優美、 價位也很親民",
+   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TcUw0ekVDWi1xakh4LUhTUWUya1Fpa2ZFRlg0YXREM0hHcG1TVDhrUmtqbDFibXprSEtNakk2RFlqZEs3RUhGSG1VQkdoZw?oc=5",
+   "source": "風傳媒",
+   "source_site": "https://www.storm.mg",
+   "published_at": "2026-11-22T11:57+08:00",
+   "query": "老街",
+   "url": "https://www.storm.mg/article/11182682",
+   "resolved": true
+  },
   {
    "title": "樟之細路北端起點在桃園！龍潭三坑串聯老街、古道打造觀光廊帶",
    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSNGc2Wk9keTFHdm9LMkF5cy1jTkQzdHRmU1B1SlBZbWJNc3FWOUw3akQ2UTljRzJPMWoyMTJkNEVUWV9oa1REVWdSV2VqU2pPT3JYTURkQTZES1lEbDBOc0V0NnJySE5sNHUzVFl3?oc=5",
@@ -193,26 +204,6 @@
    "published_at": "2026-11-20T16:45+08:00",
    "query": "商店街",
    "url": "https://news.tvbs.com.tw/world/4053568",
-   "resolved": true
-  },
-  {
-   "title": "吳旭智掃街同步盤點市場卸貨動線 盼串聯周邊商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQQUxnY0lNb0o5NEowOEViNGlYUVZxZk1GMW5hdWdHb29GWWtUNjFuMUhUU1hqWVQyM1JfMW1VU0ZONDdnYmtsVXpyZzdpV21zQ1JrVzBNbk05SHZhVVVNRm8xamZUMUJlSmdhZnFjYU9VN0JwNVNXSHR3b1NROWRIRjdEQ1RqbmlSenNISmFQMzNjTUQ0REZKYjdMNmlnYm5fX0xYQ3Exb2hPQWtXNlpnNGJYWkV6VDRaRjB1TWRycnA5aDFIRks4elJ2WTUyNmVoSm9SZFlVMTR4SzZGLW5HVjJqbG85MjdMd1ozMFMyQXN4V0JCSTNaOWM1ZlQ4X3BZbnRvdktBUFJSb1pOclE0MlhRYkNEZEVGcjVqS2pnTlBrN0RLLXhVaUd3X00xOTJYQU0wWEo0VVVqZnRsbW43VkNraXpCLU0yZWx1X0dqcTRRbWt2Z1lxYVYzZmM?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-20T14:36+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E5%90%B3%E6%97%AD%E6%99%BA%E6%8E%83%E8%A1%97%E5%90%8C%E6%AD%A5%E7%9B%A4%E9%BB%9E%E5%B8%82%E5%A0%B4%E5%8D%B8%E8%B2%A8%E5%8B%95%E7%B7%9A-%E7%9B%BC%E4%B8%B2%E8%81%AF%E5%91%A8%E9%82%8A%E5%95%86%E5%9C%88-062817588.html",
-   "resolved": true
-  },
-  {
-   "title": "桃園花彩節浪漫綻放 賞繽紛花海玩大溪！落羽松秘境、老街美食、日式宿舍一日漫遊",
-   "google_url": "https://news.google.com/rss/articles/CBMikARBVV95cUxNa19CQlJucHhtVndjNTM4ZTVpSExpdmt4eFowRko5NXRxd3BaMXhEY2tUZGVLdkhYOUZCaTltQnFZVk5rNWs0LXV3bjUtaWpQZlNUUWdjb3JlTjM4YjRuZENKRk9ENG9KaHNpN1RQRVF0UHB5bGFua0xxa1NhN2pZOWVJaFlvR0hMQ1NtbHllT2xXd3VKd2RsY2hNWWFyaWJUMEdwbUdyczVJSEllTk5SNXdZUXVNeTcyTFhTUjRiMkVRVmFLWEJ6QnlPYnZ3OUdsQUJaX3ZRMWxsa3VuRkdlMlN2VmM1YUgzZ1lNb2lIdFBSMDRHb3M1cDF0SmU3TnA2X09nX3h0OXAzaXJEV0ljak1YTk5vaUhibHNUV3I1TUhHdlBUWVpHYXJJcGRJRkhuZ2RnekowTEdXbk9ibXZ4Tk5nNFRRdjE0SjFST3EyQlZSVjlnUUlUYlBCVGdtbXQ1QVhaa2pQb1BRWWppV3VuMzZtX1dkeUpqQWNTLTNnUEhjbHRzM3drUk42THU5LXFOUUFMUHhhcE5iUXNiVXl4NXllZGt4WWlUamdOWjFqWlhIZGhwTzJsVWg1Mk85XzUydmhxRXBrcElyUzhzeVhGUTJsSFNMY2JnMW53OWlibzMyTmRiTTVLcEFsMWUtanNuVFVjWm1mUmluQjRxV25RWXQxalF4UHlzNnJPcnhjLTE?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-20T13:13+08:00",
-   "query": "老街",
-   "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E8%8A%B1%E5%BD%A9%E7%AF%80%E6%B5%AA%E6%BC%AB%E7%B6%BB%E6%94%BE-%E8%B3%9E%E7%B9%BD%E7%B4%9B%E8%8A%B1%E6%B5%B7%E7%8E%A9%E5%A4%A7%E6%BA%AA%EF%BC%81%E8%90%BD%E7%BE%BD%E6%9D%BE%E7%A7%98%E5%A2%83%E3%80%81%E8%80%81%E8%A1%97%E7%BE%8E%E9%A3%9F%E3%80%81%E6%97%A5%E5%BC%8F%E5%AE%BF%E8%88%8D%E4%B8%80%E6%97%A5%E6%BC%AB%E9%81%8A-051142025.html",
    "resolved": true
   }
  ]

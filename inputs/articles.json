@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T12:17:52+08:00",
+ "fetched_at": "2026-11-22T15:09:12+08:00",
  "articles": {
   "https://www.yesmedia.com.tw/%e4%b8%ad%e5%b8%82%e7%89%a9%e8%aa%bf%e5%88%b8%e4%ba%ba%e6%b0%a3%e5%a0%b4%e5%9f%9f%e6%8f%ad%e6%9b%89%ef%bc%81%e4%b8%80%e4%b8%ad%e5%95%86%e5%9c%88%e5%a5%aa%e5%86%a0%e3%80%81%e9%80%a2%e7%94%b2%e5%a4%9c/": {
    "checked_at": "2026-11-20T10:26+08:00",
@@ -7,27 +7,27 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.aoc.gov.tw/showPublic/811": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://life.tw/article/經濟部改造全台四大商圈市場-導入設計改善動線與消費環境-3207568": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 13-25: ordinal not in range(128)"
   },
   "https://news.pchome.com.tw/society/thehubnews/20261105/index-79384856854895306009.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.pchome.com.tw/living/thehubnews/20261105/index-79384856854895306009.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.pchome.com.tw/expense/m00361/20261105/index-79385610973985361013.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -42,37 +42,73 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.housefun.com.tw/news/article/135094490873.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 202,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   },
   "https://news.housefun.com.tw/news/article/126729490872.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 202,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   },
   "https://news.housefun.com.tw/news/article/amp/170107490902.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 202,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   },
   "https://www.yunlin.gov.tw/News_Content.aspx?n=1244&s=613563": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.housefun.com.tw/news/article/304019490959.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 202,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   },
   "https://smiletaiwan.cw.com.tw/article/9581": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://city.gvm.com.tw/article/134469": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 202,
    "published_at": null,
    "site_name": null,
@@ -96,47 +132,47 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.myhousing.com.tw/mediapartner/i-news/306203/": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.pchome.com.tw/living/nownews/20261109/index-79421459003968207009.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://zeekmagazine.com/archives/266545": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.pchome.com.tw/public/kcg/20261116/index-79479242066086128016.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.ctv.com.tw/Article/闖西門町餐廳-亮刀揮舞-國道貨車-撞爆機械車-中視新聞-20261116": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 13-18: ordinal not in range(128)"
   },
   "https://life.tw/article/bts高雄開唱倒數-高雄紫愛你應援指南-k-pop隨播即跳-3219408": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": "error",
    "error": "'ascii' codec can't encode characters in position 16-21: ordinal not in range(128)"
   },
   "https://www.yesmedia.com.tw/%e7%be%8e%e8%a1%93%e5%9c%92%e9%81%93%e5%95%86%e5%9c%88%e3%80%8c%e7%be%8e%e5%ad%b8%e6%a3%ae%e6%b4%bb%e7%af%80%e3%80%8d-%e4%b8%b2%e8%81%af%e7%94%a2%e6%a5%ad%e8%a7%80%e5%85%89-%e5%89%b5%e9%80%a0%e8%bf%91/": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124528": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.pchome.com.tw/travel/thehubnews/20261116/index-79482349836682306009.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -176,9 +212,18 @@
    "date_hint_from": "原文時間"
   },
   "https://news.housefun.com.tw/news/article/211191491188.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 202,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   },
   "https://news.pchome.com.tw/travel/m00361/20261118/index-79499060064698361015.html": {
    "checked_at": "2026-11-20T10:26+08:00",
@@ -186,7 +231,7 @@
    "error": "HTTP Error 403: Forbidden"
   },
   "https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124495": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -832,7 +877,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.pchome.com.tw/living/twpowernews/20261119/index-17950587182817747009.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -3628,7 +3673,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.ftvnews.com.tw/news/detail/2026B13W0472": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -4921,12 +4966,23 @@
    "date_hint_from": "原文時間"
   },
   "https://cnews.com.tw/204261120a04/": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-20T18:36+08:00",
+   "site_name": "匯流新聞網",
+   "description": "CNEWS匯流新聞網記者謝東明／台北報導 秋意漸濃、氣溫轉涼，陽明山上的山藥也進入最肥美的季節，一年一度的山藥季也即將開始，由士林區農會與七星農業發展基金會，共同主辦的「2026士林陽明山山藥季山藥秋收、都會慢活」展售會，將於11月21日、11月22日，在台北市假日建國花市農業櫥窗登場！ 士林區農會表示，每年廣受民眾喜",
+   "cities": {
+    "台北市": 6
+   },
+   "districts": [],
+   "body_chars": 1269,
+   "image": "https://cnews.com.tw/wp-content/uploads/2026/11/2026-11-20_18-32-54_242394.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-20",
+   "date_hint_from": "原文時間"
   },
   "https://taidaily.com/2026/11/19/585808/": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5023,7 +5079,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.ftvnews.com.tw/shortvideo/detail/8fxB8STJoJI": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5042,7 +5098,7 @@
    "date_hint_from": null
   },
   "https://www.ftvnews.com.tw/news/detail/2026B14F04M1": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5375,7 +5431,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.travelnews.tw/news/%E7%A5%9E%E8%BE%B2%E5%95%86%E5%9C%88%E6%8B%9A%E6%93%B4%E5%8D%80%E3%80%80%E5%BC%B5%E5%8B%9D%E5%BE%B7%E6%8F%90%E5%9B%9B%E9%A0%85%E6%9C%83%E5%8B%98%E7%B5%90%E8%AB%96/": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5435,7 +5491,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.travelnews.tw/news/%e7%a5%9e%e8%be%b2%e5%95%86%e5%9c%88%e6%8b%9a%e6%93%b4%e5%8d%80%e3%80%80%e5%bc%b5%e5%8b%9d%e5%be%b7%e6%8f%90%e5%9b%9b%e9%a0%85%e6%9c%83%e5%8b%98%e7%b5%90%e8%ab%96/": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -5529,14 +5585,28 @@
    "date_hint_from": "原文時間"
   },
   "https://www.watchmedia01.com/archives/568607": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.cts.com.tw/cna/local/202611/202611103099295.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-10T11:56+08:00",
+   "site_name": "華視新聞網",
+   "description": "「高雄聖誕生活節」13日登場　市集、音樂點亮商圈",
+   "cities": {
+    "高雄市": 13
+   },
+   "districts": [
+    "在地商圈（南投縣）",
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 679,
+   "image": "https://www.cts.com.tw/data/images/news/photo/cna/202611/202611103099295.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-10",
+   "date_hint_from": "原文時間"
   },
   "https://www.businesstoday.com.tw/article/category/183032/post/202611050023/": {
    "checked_at": "2026-11-21T07:17+08:00",
@@ -5635,19 +5705,56 @@
    "date_hint_from": "原文時間"
   },
   "https://www.rti.org.tw/news?uid=3&pid=1050641": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-10T17:19+08:00",
+   "site_name": "Rti 中央廣播電臺",
+   "description": "[Rti央廣新聞]  經濟部長龔明鑫今天(10日)出席2026全國卓越商圈獎頒獎典禮時指出，經濟部明年將啟動「支持及壯大中小微...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 695,
+   "image": "https://d1qd3zoyy91a2c.cloudfront.net/image/rti/images/listimg/2026/11/large/0785c034-10b6-47e7-bb40-f2c187cbfd2e.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-10",
+   "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/life/202611/202611093098880.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-09T11:25+08:00",
+   "site_name": "華視新聞網",
+   "description": "BTS高雄開唱！憑票就送「50元優惠券」　發放時間、地點一次看",
+   "cities": {
+    "高雄市": 21
+   },
+   "districts": [
+    "在地商圈（南投縣）",
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 1439,
+   "image": "https://www.cts.com.tw/data/images/61/59/c1/b8/6159c1b807b25dd143010b610d8ebcee.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-09",
+   "date_hint_from": "原文時間"
   },
   "https://cnews.com.tw/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91%E3%80%80%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88/": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-09T16:05+08:00",
+   "site_name": "匯流新聞網",
+   "description": "CNEWS匯流新聞網記者呂雅婷、李衣綸／台北報導 年度消費盛事「2026東區週年慶」即日起至11月22日熱鬧登場。本次活動串聯超過140間東區特約店家與各大百貨業者，攜手打造豐富的購物體驗。民眾於活動期間在特約店家單筆消費滿額，即可獲得摸彩券參與抽獎，有機會獲得最新款智慧型手機等總獎值超過百萬元的千項好禮。在地深耕的房",
+   "cities": {
+    "台北市": 5,
+    "花蓮縣": 2
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 1107,
+   "image": "https://cnews.com.tw/wp-content/uploads/2026/11/2026-11-09_15-49-42_516661.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-09",
+   "date_hint_from": "原文時間"
   },
   "https://taiwanreports.com/archives/1025433": {
    "checked_at": "2026-11-21T07:17+08:00",
@@ -5923,9 +6030,20 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/life/202611/202611113099843.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T15:36+08:00",
+   "site_name": "華視新聞網",
+   "description": "台南市政府與台糖聯手調節食用油供需  黃偉哲籲理性採購、勿囤積貨物",
+   "cities": {
+    "台南市": 7
+   },
+   "districts": [],
+   "body_chars": 1070,
+   "image": "https://www.cts.com.tw/data/images/b1/65/28/bb/b16528bb543c2c81f241c4c9b9d6a943.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
   },
   "https://www.ettoday.net/news/20261110/3269600.htm": {
    "checked_at": "2026-11-21T07:17+08:00",
@@ -5947,9 +6065,20 @@
    "date_hint_from": "原文時間"
   },
   "https://www.rti.org.tw/news?uid=3&pid=990616": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-09T16:55+08:00",
+   "site_name": "Rti 中央廣播電臺",
+   "description": "[Rti央廣新聞]  受中聯油脂致癌油風暴衝擊，國內沙拉油傳出供不應求、價格飆漲。經濟部長龔明鑫今天(9日)指出，經濟...",
+   "cities": {
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 772,
+   "image": "https://d1qd3zoyy91a2c.cloudfront.net/image/rti/images/listimg/2026/11/large/20261028000031.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-09",
+   "date_hint_from": "原文時間"
   },
   "https://www.chinatimes.com/newspapers/20261118000572-260106": {
    "checked_at": "2026-11-21T07:17+08:00",
@@ -6068,14 +6197,25 @@
    "date_hint_from": "原文時間"
   },
   "https://www.ftvnews.com.tw/shortvideo/detail/OYVHjNJbrWk": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
   "https://news.cts.com.tw/cts/society/202611/202611083098664.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T12:20+08:00",
+   "site_name": "華視新聞網",
+   "description": "沙拉油漲價每桶破千　餐飲業者哀嚎：缺油危機",
+   "cities": {
+    "台南市": 3
+   },
+   "districts": [],
+   "body_chars": 677,
+   "image": "https://www.cts.com.tw/data/news/photo/cts/202611/202611083098664.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
   },
   "https://www.contentplatform.info/articles/579035/%E8%A5%BF%E6%AD%A6%E5%9C%92%E9%81%8A%E6%A8%82%E5%9C%92%E6%98%AD%E5%92%8C%E5%95%86%E5%BA%97%E8%A1%97%E8%80%B6%E8%AA%95%E6%B4%BB%E5%8B%9511-26%E8%B5%B7%E3%80%80%E7%87%88%E9%A3%BE%E8%88%9E%E8%B9%88/": {
    "checked_at": "2026-11-21T07:17+08:00",
@@ -6465,7 +6605,7 @@
    "date_hint_from": null
   },
   "https://news.pchome.com.tw/society/ctinews/20261121/index-79522146142572309002.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7019,7 +7159,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.fclnews.com/239060/": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -7941,7 +8081,7 @@
    "date_hint_from": "原文時間"
   },
   "https://news.fclnews.com/60722": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -8190,9 +8330,20 @@
    "date_hint_from": "原文時間"
   },
   "https://news.cts.com.tw/cts/local/202611/202611183102529.html": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T16:45+08:00",
+   "site_name": "華視新聞網",
+   "description": "【台語新聞】馬路當畫紙！朝元宮老街彩繪　親子創意比拚",
+   "cities": {
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 534,
+   "image": "https://www.cts.com.tw/data/news/photo/cts/202611/202611183102529.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
   },
   "https://artouch.com/art-exhibition/content-271495.html": {
    "checked_at": "2026-11-22T07:17+08:00",
@@ -8372,7 +8523,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.ftvnews.com.tw/news/detail/2026B12W0675": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -8847,9 +8998,23 @@
    "date_hint_from": null
   },
   "https://cnews.com.tw/174261121a12/": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-21T18:19+08:00",
+   "site_name": "匯流新聞網",
+   "description": "CNEWS匯流新聞網記者邱璽臣／台北報導 選戰進入最後黃金週，民進黨桃園市長候選人黃世杰今（21）日前往復興區角板山商圈掃街，明（22）日則將返回故鄉新屋區徒步拜票，並未將行程全部集中在人口稠密地區，引發地方熱議。桃園地方人士表示，黃世杰照顧桃園的心不因人口較少、距離較遠而改變，也反映選情有多詭譎，每一票都不放過。綠營",
+   "cities": {
+    "桃園市": 22,
+    "台北市": 2
+   },
+   "districts": [
+    "角板山商圈（桃園市）"
+   ],
+   "body_chars": 1160,
+   "image": "https://cnews.com.tw/wp-content/uploads/2026/11/2026-11-21_18-15-03_468545.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-21",
+   "date_hint_from": "原文時間"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5634880": {
    "checked_at": "2026-11-22T07:17+08:00",
@@ -8926,9 +9091,22 @@
    "date_hint_from": "原文時間"
   },
   "https://newtalk.tw/news/view/2026-11-18/1071891": {
-   "checked_at": "2026-11-22T07:17+08:00",
-   "status": 502,
-   "error": "HTTP Error 502: Bad Gateway"
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T18:39+08:00",
+   "site_name": "Newtalk新聞",
+   "description": "2026士林官邸菊展「菊映方圓」，於11月27日至12月13日登場，台北市公園路燈工程管理處表示，旅客可以走進士林官邸，在賞花時放慢腳步，探索周邊特色店家，讓花展帶動在地商圈活力，也讓美好的賞菊記憶延伸至城市的每個角落。公園處表示，今年除了有15大主題展區展現菊花與幾何藝術交織的萬千姿態，更攜手周邊",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 763,
+   "image": "https://s.newtalk.tw/album/news/1072/6afd71b96a8cc.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
   },
   "https://tw.news.yahoo.com/%E4%B8%8D%E5%9B%A0%E4%BA%BA%E5%8F%A3%E5%B0%91%E8%B7%9D%E9%9B%A2%E9%81%A0%E8%80%8C%E5%BF%BD%E7%95%A5%E5%BE%A9%E8%88%88%E5%8D%80-%E9%BB%83%E4%B8%96%E6%9D%B0%E8%B5%B4%E8%A7%92%E6%9D%BF%E5%B1%B1%E5%95%86%E5%9C%88%E5%BE%92%E6%AD%A5%E6%8B%9C%E7%A5%A8-075635196.html": {
    "checked_at": "2026-11-22T07:17+08:00",
@@ -8974,7 +9152,7 @@
    "date_hint_from": "原文時間"
   },
   "https://www.travelnews.tw/news/tag/%E5%AE%9C%E8%98%AD%E5%B8%82%E5%95%86%E5%9C%88/": {
-   "checked_at": "2026-11-22T07:17+08:00",
+   "checked_at": "2026-11-22T15:09+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -10142,6 +10320,82 @@
    "image_checked": true,
    "date_hint": "2026-11-22",
    "date_hint_from": "網址"
+  },
+  "https://funtaipeiasean.travel.taipei/zh-tw/news/details/68356": {
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T00:00+08:00",
+   "site_name": "臺北旅遊網",
+   "description": "由臺北市商業處輔導台北市八德資訊商圈發展協會舉辦的「2026八德3C哈樂DAY」，本週末11月14日至15日迎來眾所期待的「壓軸主場週」，於八德路一段（新生南路至金山北路間）封街舉行，集結軍武體驗、復古遊戲、現代痛車展示、哈樂市集及品牌互動等豐富內容，更邀請六組人氣樂團輪番獻唱，11月14日由東部壞男孩、甜約翰及芒果醬",
+   "cities": {
+    "台北市": 15
+   },
+   "districts": [],
+   "body_chars": 2038,
+   "image": "https://www.travel.taipei/content/images/articles/584977/1024x768_articles-image-8q2srfp0ceafkffwto-40a.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E7%87%9F%E6%A5%AD%E7%94%A8%E6%B2%99%E6%8B%89%E6%B2%B9%E5%9D%87%E5%83%B9%E7%AB%99%E4%B8%8A%E5%8D%83%E5%85%83-%E9%A4%90%E9%A3%B2%E8%88%87%E5%AE%B6%E5%BA%AD%E5%B0%8B%E6%9B%BF%E4%BB%A3%E7%94%A8%E6%B2%B9-%E9%A2%A8%E5%91%B3%E8%88%87%E8%80%90%E9%AB%98%E6%BA%AB%E6%88%90%E9%97%9C%E9%8D%B5-065110450.html": {
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-22T14:51+08:00",
+   "site_name": "Yahoo News",
+   "description": "生活中心／綜合報導 近期因國內大型油脂廠產線停工，國內沙拉油市場供應一度出現波動，連帶影響餐飲業進貨成本。據台中市政府11月公布的市場稽查結果顯示，18公升營業用食用油平均價格已由8月的925元攀升至約 […]",
+   "cities": {
+    "台北市": 7,
+    "台中市": 4,
+    "基隆市": 4,
+    "桃園市": 2,
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/lifetoutiao_news_333/ace94ebe806a4606284a7405b7eee93a.jpg_up.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-22",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.setn.com/news/316430": {
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "三立新聞網",
+   "description": "中部米粉不必羨慕台北了，一中商圈的小米之家在今（18）日開幕！台灣小米今日宣布小米之家台中店正式開幕，而小米台南FOCUS專賣店也在明（19）日開幕。另外小米透露，小米產品中CP值最高的電視將在明年在台灣開賣！",
+   "cities": {
+    "台中市": 9,
+    "台北市": 3,
+    "台南市": 2,
+    "新竹": 2,
+    "新北市": 1
+   },
+   "districts": [],
+   "body_chars": 1332,
+   "image": "https://attach.setn.com/newsimages/2017/11/18/1141287-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2017-11-18",
+   "date_hint_from": "圖片路徑"
+  },
+  "https://www.storm.mg/article/11182682": {
+   "checked_at": "2026-11-22T15:09+08:00",
+   "status": 200,
+   "published_at": "2026-11-21T09:30+08:00",
+   "site_name": null,
+   "description": "新竹除了以科技產業聞名，還擁有豐富的歷史文化與自然景觀，有著存老城風貌的歷史建築和具有特色的藝文空間，想安排旅行去走走看看，都有不少值得探索的去處。根據《交通部觀光署》2026年1-9月的統計資料顯示，旅客最喜歡去的新竹景點第一名為「內灣老街」，有著120萬的觀光人次，第二名為「獅頭山風景區(新竹地區)」，有著99萬的",
+   "cities": {
+    "新竹縣": 21,
+    "苗栗縣": 2,
+    "雲林縣": 2
+   },
+   "districts": [
+    "太平老街商圈（嘉義縣）"
+   ],
+   "body_chars": 2555,
+   "image": "https://images.storm.mg/cloud/e439d8208510ec2b0171a6a0893d4f7f366bb680.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2056316%2Fo5ghzTFlVvSALo1WLkXWJmDCHTdtxHRSE6qwCVIl.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-21",
+   "date_hint_from": "原文時間"
   }
  }
 }
