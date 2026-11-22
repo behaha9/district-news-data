@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T15:09:09+08:00",
+ "updated_at": "2026-11-22T20:50:14+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,33 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "沙拉油何時穩供？經部：11月中旬起逐步到貨 年底前穩定增加供應 | 聯合新聞網",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TM25kRlY1OGdvaENBM3JIV1JRT05pMFNSM0pudGJKNUxBQi10NmxvT2o4cFhvS3QyZDhvRVJBMi1kWElTS09zcmFtR1Fxd00yNi16MEZ3?oc=5",
+     "source": "LINE TODAY",
+     "published_at": "2026-11-22T16:50+08:00",
+     "url": "https://today.line.me/tw/v3/article/GgN7E3L",
+     "resolved": true
+    },
+    {
+     "title": "食用油別囤過量！台南衛生局提醒適量採購 逾期使用最高罰2億元",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92ZGw3S2c2UUE0ancwdjNrX3dXcVFNdTdpNVB2ZFlDQmttWFJLSUswdDZxcGRMcWxfTkhLQzlMamVMTnpNaG1iWlpSTnZZcUpIeU05V2dlcw?oc=5",
+     "source": "焦點時報",
+     "published_at": "2026-11-22T16:41+08:00",
+     "url": "https://focus.586.com.tw/2026/11/22/p412812/",
+     "resolved": true
+    },
+    {
+     "title": "沙拉油何時穩供？經部：11月中旬起逐步到貨 年底前穩定增加供應",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LczhYem1iV2JFaVB4V2gyemUzWTB6NGNNckVLQ3dXbWZZd2hhQ1RMRjVqTUNuNTNVZzh2bjZacTJPRDdEaGJScktGdVNjcDEtUjNfa2FR0gFWQVVfeXFMTUtzOFh6bWJXYkVpUHhXaDJ6ZTNZMHo0Y01yRUtDd1dtZll3aGFDVExGNWpNQ241M1VnOHZuNlpxMk9EN0RoYlJyS0Z1U2NwMS1SM19rYVE?oc=5",
+     "source": "UDN",
+     "published_at": "2026-11-22T16:16+08:00",
+     "url": "https://udn.com/news/amp/story/7238/9894681",
+     "resolved": true
+    },
     {
      "title": "營業用沙拉油均價站上千元 餐飲與家庭尋替代用油、風味與耐高溫成關鍵",
      "kind": "店家相關",

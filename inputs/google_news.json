@@ -1,29 +1,69 @@
 {
- "fetched_at": "2026-11-22T15:09:02+08:00",
+ "fetched_at": "2026-11-22T20:50:07+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 83,
-  "kept": 21,
-  "resolved": 21,
-  "items": 19,
+  "raw": 86,
+  "kept": 25,
+  "resolved": 25,
+  "items": 23,
   "resolve_this_run": {
-   "online": 2
+   "online": 7
   },
   "dropped_old": [
-   "一中商圈被米粉擠爆！小米之家台中店開幕　明星商品一折（原文日期 2017-11-18）",
-   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
+   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
+   "一中商圈被米粉擠爆！小米之家台中店開幕　明星商品一折（原文日期 2017-11-18）"
   ]
  },
  "items": [
   {
-   "title": "老街別只會去淡水、北埔！1超強景點狂吸120萬人次，遊客讚：美食多環境優美、 價位也很親民",
-   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TcUw0ekVDWi1xakh4LUhTUWUya1Fpa2ZFRlg0YXREM0hHcG1TVDhrUmtqbDFibXprSEtNakk2RFlqZEs3RUhGSG1VQkdoZw?oc=5",
-   "source": "風傳媒",
-   "source_site": "https://www.storm.mg",
-   "published_at": "2026-11-22T11:57+08:00",
+   "title": "超級星期天！蔣萬安車掃人潮嗨爆信義商圈、公館 巧遇太座放閃愛的抱抱",
+   "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54QUNveDZqZEgyb0liYm51TnpSUUtvcmlhZHA0MjZIOE90UkRmLUFKQ0E5cklBNTVUd1pTcmpsaVRxTGl6bU1uMzF0TGRjQXhsSEpv0gFYQVVfeXFMTnc4dlptR2NrM09BODhYWFNQSmt4bDJpNjFNWEt6d3QtSHQ4TkozYnVUd3hUazBJUjFzVU5SbXBlT0JQSUtLZ082dnotYk4xVGZubE1hbWgwVA?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
+   "published_at": "2026-11-22T20:33+08:00",
+   "query": "商圈",
+   "url": "https://udn.com/news/story/124652/9895005",
+   "resolved": true
+  },
+  {
+   "title": "江啟臣夜掃逢甲商圈 「最強靠3」與市民共拚臺中未來",
+   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tUTdKTVJRS09iMlhRREs0ZjJ1ejhEN3d1aUZUblgzSkFjT2RSWGs4YVJCV2h4dE1iM0x2bGppS0YwSmRGRTU5cE9wMTM5OGJMY3RyeUY4LWg0UQ?oc=5",
+   "source": "新華報導",
+   "source_site": "https://ccss3172.blogspot.com",
+   "published_at": "2026-11-22T19:47+08:00",
+   "query": "商圈",
+   "url": "https://ccss3172.blogspot.com/2026/11/x-3.html",
+   "resolved": true
+  },
+  {
+   "title": "2026市長盃街舞錦標賽熱力登場 花蓮舞蹈好手齊聚鐵道商圈展現青春活力",
+   "google_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFByUE5yaUxvWVFpY0JhejFfY0NsbktUeWdtRWpINHVaSWtuX0JYcUtLc1c3ZmZJMklRcHpXOXpEbU1YTUNLekE?oc=5",
+   "source": "台灣新聞雲報",
+   "source_site": "https://www.fclnews.com",
+   "published_at": "2026-11-22T18:42+08:00",
+   "query": "商圈",
+   "url": "https://www.fclnews.com/239249/",
+   "resolved": true
+  },
+  {
+   "title": "平溪十分瀑布17人遭虎頭蜂螫！ 蜂窩藏商店街已摘除- 綜合",
+   "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4cUJUSEIwV29GNnJjX1FIUjRjQmF0WWllYWpPQUJjelN5YW5lX2hjanl0dHRIWUpianl1Rl8zT1hqMlVlMnZXaUhybks2Nlpjcl9lT1RTSHdpN2JkYjdaM0YzOWdsRUhrT1V1dzhLSlY?oc=5",
+   "source": "華視新聞網",
+   "source_site": "https://news.cts.com.tw",
+   "published_at": "2026-11-22T17:55+08:00",
+   "query": "商店街",
+   "url": "https://news.cts.com.tw/cts/general/202611/202611223104038.html",
+   "resolved": true
+  },
+  {
+   "title": "斗六太平老街變身夢幻燈海！萬顆燈籠點亮夜空 最後一天別錯過",
+   "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Xb1BCRmhzMG9FUlhDVV9McHFkdmdSOG9EbFJLMlY5MkxSejR4YV92ajF1V3BrRWhfUlhxZGZVX09iYW50T2VwZmZtYnBCTnk2RjNBaE5kb3pSRXZUT2ZBQThpV1BLajJx?oc=5",
+   "source": "元丰傳媒",
+   "source_site": "https://yuanfengmedia.tw",
+   "published_at": "2026-11-22T16:27+08:00",
    "query": "老街",
-   "url": "https://www.storm.mg/article/11182682",
+   "url": "https://yuanfengmedia.tw/detail.php?type=lastest&id=63470",
    "resolved": true
   },
   {
@@ -34,6 +74,16 @@
    "published_at": "2026-11-22T11:53+08:00",
    "query": "老街",
    "url": "https://www.chinatimes.com/realtimenews/20261122001495-260421",
+   "resolved": true
+  },
+  {
+   "title": "宣城郎溪：龍魚燈彩耀古巷 古韻新潮聚老街",
+   "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yN3NTYmhFa0U3ZmsxTDdnR004R0VuMXBPOElCcW40bXBFMGZISnpoVlE3T1VQNDRvRXhweVpJUDNrUERTWUpLeGlrb1FzNDZLeXNvNnY0d0lKVjZ4WlJxMGtuM1JBYUllMFJDTU1JbU4?oc=5",
+   "source": "人民网－安徽频道",
+   "source_site": "http://ah.people.com.cn",
+   "published_at": "2026-11-22T11:42+08:00",
+   "query": "老街",
+   "url": "http://ah.people.com.cn/BIG5/n2/2026/1122/c374164-41757583.html",
    "resolved": true
   },
   {
@@ -128,12 +178,12 @@
   },
   {
    "title": "大阪堺中百舌鳥商店街燈飾11/25點燈 回收炸油發電、規模擴大到200公尺",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZMzFMNG40SWlpbHRBMHJaS09RRk93Ymxaa3FPM2U5UmY1XzJXcHhubnZ1Tm90R3dGWDF5aUVmWlJTU05hRDZrOTR4ekQ1V01oOVE?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
+   "google_url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVVdNdGhKYVMyU1QwYTlNcVd1dmhvU2pmSzR4UW5tQUpGcXVCc3phZ0VhbXBXUzVxUF9UZGhSOTJLNkU1Um9PbEdoZGd1WGQ0aWt5RmFycnM0M2xvZkNORkR2dlViV3MxZ2ppN2xndjZYVUpOeEM0LXZ2QkI1NnFxYmFkNGJoYjJfTS1Pbkk0LXRiMnJ6b3NhNUVlLVVvYzFhdkFfb0d5WGdBTTBEejQ3b1ZzS2pHX3o1VWRTQzYyZGdtRlRrMHNBcmk5VUxiSERTY2NncWRESmVRZFlpbmc0SlBMbmdWb3hJbHJIM1pZaG45WXl1Vkl2eWZKQlRpdjJWc1k4ODkxSkFiaVRkWm9jejNTdlhhX3pMVndIWUtQUUxIR3pLUDh6dkxoRmFZdDlOQUNDQklRN3VnV3JDZkdVZHk0RTZaQVVxVzFjN3dXV2d6Z0VoZkphdjF4TGxEMUhyRFE?oc=5",
+   "source": "報新聞 Mega News",
+   "source_site": "https://www.contentplatform.info",
    "published_at": "2026-11-21T10:54+08:00",
    "query": "商店街",
-   "url": "https://n.yam.com/Article/20261121283518",
+   "url": "https://www.contentplatform.info/articles/585531/%E5%A4%A7%E9%98%AA%E5%A0%BA%E4%B8%AD%E7%99%BE%E8%88%8C%E9%B3%A5%E5%95%86%E5%BA%97%E8%A1%97%E7%87%88%E9%A3%BE11-25%E9%BB%9E%E7%87%88%E3%80%80%E5%9B%9E%E6%94%B6%E7%82%B8%E6%B2%B9%E7%99%BC%E9%9B%BB/",
    "resolved": true
   },
   {
@@ -144,6 +194,16 @@
    "published_at": "2026-11-21T09:30+08:00",
    "query": "老街",
    "url": "https://www.storm.mg/lifestyle/11182682",
+   "resolved": true
+  },
+  {
+   "title": "老街別只會去淡水、北埔！1超強景點狂吸120萬人次，遊客讚：美食多環境優美、 價位也很親民",
+   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TcUw0ekVDWi1xakh4LUhTUWUya1Fpa2ZFRlg0YXREM0hHcG1TVDhrUmtqbDFibXprSEtNakk2RFlqZEs3RUhGSG1VQkdoZw?oc=5",
+   "source": "風傳媒",
+   "source_site": "https://www.storm.mg",
+   "published_at": "2026-11-21T09:30+08:00",
+   "query": "老街",
+   "url": "https://www.storm.mg/article/11182682",
    "resolved": true
   },
   {
@@ -184,26 +244,6 @@
    "published_at": "2026-11-20T21:26+08:00",
    "query": "商圈",
    "url": "https://www.travelnews.tw/news/tag/%E5%AE%9C%E8%98%AD%E5%B8%82%E5%95%86%E5%9C%88/",
-   "resolved": true
-  },
-  {
-   "title": "陽明山山藥季開跑倒數 士林區農會攜手商圈推聯名限定美味",
-   "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NR2s2eHdzcEhTcVdjMU9jYk80OUFaTmhZTjhCRlNXczBaRGtrRE1FVTcyNmNIMWtrNGl3bVg2Zk5aZmYtSnpzeUxR?oc=5",
-   "source": "匯流新聞網",
-   "source_site": "https://cnews.com.tw",
-   "published_at": "2026-11-20T18:36+08:00",
-   "query": "商圈",
-   "url": "https://cnews.com.tw/204261120a04/",
-   "resolved": true
-  },
-  {
-   "title": "大阪鬧區火警！心齋橋商店街旁大樓竄火舌 出動33輛消防車灌救",
-   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wQkRkYTFxOXotSzlLdkdJRnk3MHpQOFYzcHI0V2VpdHU1eUNaUGFIMlBCWF8tNzFVbWJyZ1cxOUptV0xURzZvUk5aa1pBbnc?oc=5",
-   "source": "TVBS新聞網",
-   "source_site": "https://news.tvbs.com.tw",
-   "published_at": "2026-11-20T16:45+08:00",
-   "query": "商店街",
-   "url": "https://news.tvbs.com.tw/world/4053568",
    "resolved": true
   }
  ]
