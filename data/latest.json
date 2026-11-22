@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-22T12:18:43+08:00",
+ "generated_at": "2026-11-22T16:49:46+08:00",
  "items": [
   {
    "id": "20261121-shilin-yam-festival",
@@ -71,6 +71,31 @@
     }
    ],
    "image": "https://ni.yam.com/20261121/Obmpy7lk4DoeqL7slRSk-dfc615c2a0019b44.webp"
+  },
+  {
+   "id": "20261121-mazda-zhouji",
+   "title": "MAZDA北台中旗艦展示暨服務中心啟用，進駐台中洲際商圈",
+   "summary": "台灣馬自達的全新品牌識別據點啟用，落腳台中洲際商圈，報導指為全台首座。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-21T18:33:00+08:00",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    {
+     "name": "洲際商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "SUPERMOTO8",
+     "url": "https://www.supermoto8.com/articles/17394",
+     "published_at": "2026-11-21T18:33:00+08:00"
+    }
+   ],
+   "image": "https://img.supermoto8.com/images/article/7f7eaa15832dc0533bedccc54cf3a0d52.jpg"
   },
   {
    "id": "20261118-mrt-rent-dongqu",
@@ -744,6 +769,11 @@
      "outlet": "臺北旅遊網",
      "url": "https://www.travel.taipei/zh-tw/news/details/68356",
      "published_at": "2026-11-16T09:45:00+08:00"
+    },
+    {
+     "outlet": "臺北旅遊網",
+     "url": "https://funtaipeiasean.travel.taipei/zh-tw/news/details/68356",
+     "published_at": "2026-11-16T01:45:00+08:00"
     },
     {
      "outlet": "臺北市商業處",
