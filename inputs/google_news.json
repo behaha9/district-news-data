@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T20:50:07+08:00",
+ "fetched_at": "2026-11-22T23:29:15+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
@@ -8,22 +8,42 @@
   "resolved": 25,
   "items": 23,
   "resolve_this_run": {
-   "online": 7
+   "online": 4
   },
   "dropped_old": [
-   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
-   "一中商圈被米粉擠爆！小米之家台中店開幕　明星商品一折（原文日期 2017-11-18）"
+   "一中商圈被米粉擠爆！小米之家台中店開幕　明星商品一折（原文日期 2017-11-18）",
+   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
   ]
  },
  "items": [
   {
-   "title": "超級星期天！蔣萬安車掃人潮嗨爆信義商圈、公館 巧遇太座放閃愛的抱抱",
-   "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54QUNveDZqZEgyb0liYm51TnpSUUtvcmlhZHA0MjZIOE90UkRmLUFKQ0E5cklBNTVUd1pTcmpsaVRxTGl6bU1uMzF0TGRjQXhsSEpv0gFYQVVfeXFMTnc4dlptR2NrM09BODhYWFNQSmt4bDJpNjFNWEt6d3QtSHQ4TkozYnVUd3hUazBJUjFzVU5SbXBlT0JQSUtLZ082dnotYk4xVGZubE1hbWgwVA?oc=5",
+   "title": "萬顆燈籠點亮太平老街！ 雲林「斗六燈海節」人潮爆滿 芒果醬熱力開唱嗨翻全場！",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sTGtWS1IwcVlCYlFVXzhnMlZMekR2ZHpLSXB4b25VVXRaQnR0b0lGLWNHMHB1ZjZheEJoRUpQRkNWeDBwa0JUbm51TXJJV0NqSDUzV0I0X0p6bTFyZGZBM3VGbTR3c0NleF9r?oc=5",
+   "source": "台灣華報",
+   "source_site": "https://www.kingtop.com.tw",
+   "published_at": "2026-11-22T23:13+08:00",
+   "query": "老街",
+   "url": "https://www.kingtop.com.tw/detail.php?type=lastest&id=56048",
+   "resolved": true
+  },
+  {
+   "title": "蔣萬安大車掃舉牌「老婆我愛你」 公館商圈擁抱石舫亘掀高潮",
+   "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hTGg0cm9fZEdWTkV5Xzg0Q0djNkppVFZUNU9nUTc0U1hRNVJMUUhUU2hMaFlVc2E2MW1uTnhDWG9aS1ZaU2RudG9Yc2dqQWEyekpGWWxobnpGQ2M4SGVNTWZIZldTU3htUmfSAW9BVV95cUxQWnpzRnNCRXFCUjB4WjA3c2xTTERHVjEwRDMtRlJ0TXJOT3ZaN21FTFNiOWlaUnF4RVhpTE1LRmxjRzM5eGEtbTRqN19VaUpLUURPRjBUdnVuMERwMXNJZGI3ODQtRkJYRXpPVHJSMG8?oc=5",
+   "source": "自由時報",
+   "source_site": "https://news.ltn.com.tw",
+   "published_at": "2026-11-22T20:54+08:00",
+   "query": "商圈",
+   "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649878",
+   "resolved": true
+  },
+  {
+   "title": "超級星期天！蔣萬安車掃人潮嗨爆信義商圈、公館巧遇太座放閃愛的抱抱| 2026九合一選舉",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UNkU4S1JJQndEelA2TjFXRFFlRzRfeWJKSkV1cGFTLU1jTXVhV1lsQWtMRXpKVmkwVUhyQ3VRbHJpeUhYSTZqMUJDS0VLYkQ1aGhIZDBYbDk?oc=5",
    "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-11-22T20:33+08:00",
    "query": "商圈",
-   "url": "https://udn.com/news/story/124652/9895005",
+   "url": "https://udn.com/vote2026/story/124652/9895005",
    "resolved": true
   },
   {
@@ -58,12 +78,12 @@
   },
   {
    "title": "斗六太平老街變身夢幻燈海！萬顆燈籠點亮夜空 最後一天別錯過",
-   "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Xb1BCRmhzMG9FUlhDVV9McHFkdmdSOG9EbFJLMlY5MkxSejR4YV92ajF1V3BrRWhfUlhxZGZVX09iYW50T2VwZmZtYnBCTnk2RjNBaE5kb3pSRXZUT2ZBQThpV1BLajJx?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XcDdUYUNDcGhEdndValBkNmJCbUp0cTJPXzhqTWlUOHhvNXRWYzlJWjUtZmRrcWdFVGdRUmg0azVLM0ZRU2hPdnFIMkltSnZBOWYxX1N5Z2lBdTlKN0FYSW11a2EtUGpB?oc=5",
    "source": "元丰傳媒",
    "source_site": "https://yuanfengmedia.tw",
-   "published_at": "2026-11-22T16:27+08:00",
+   "published_at": "2026-11-22T17:30+08:00",
    "query": "老街",
-   "url": "https://yuanfengmedia.tw/detail.php?type=lastest&id=63470",
+   "url": "https://yuanfengmedia.tw/detail.php?type=gallery&id=63470",
    "resolved": true
   },
   {
@@ -224,26 +244,6 @@
    "published_at": "2026-11-21T03:00+08:00",
    "query": "商圈",
    "url": "https://www.ctee.com.tw/news/20261121700238-439902",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 斗六燈海節11/21登場 燈飾升級.藝人卡司嗨翻老街",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CUVoyb3N3QkY2bm5kM3E5VWVvdTJoNVkzQ1RsWTdNSGs5bm1IdGtkSVZTamUtT0QwNlRVMjBrR296Z1pwY1VUTGJxb2ItY3VQNHpEaE5sLXk3MGVCYmRCUWJQSmo?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-20T21:49+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/nXp7mxJ",
-   "resolved": true
-  },
-  {
-   "title": "宜蘭市商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMUhJNEFlU3FWN0dHN3AtNDlfREpFOXFVWW52SEJIWkFBYk1RZUx3aFh6dG5aRWNxT2d2Z3luTmFJVlZROEZGS1ExdWc5alE5SnpJZGZkLTloTGdkaHAxaW42bVZoaXEzMFBMakRRYmxZWjd3bW1DVjFoeHpSLTd3ZWRxLVAycEpa?oc=5",
-   "source": "宜蘭新聞網",
-   "source_site": "https://www.travelnews.tw",
-   "published_at": "2026-11-20T21:26+08:00",
-   "query": "商圈",
-   "url": "https://www.travelnews.tw/news/tag/%E5%AE%9C%E8%98%AD%E5%B8%82%E5%95%86%E5%9C%88/",
    "resolved": true
   }
  ]
