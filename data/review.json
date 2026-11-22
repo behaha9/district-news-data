@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-22T07:18:26+08:00",
+ "updated_at": "2026-11-22T12:18:43+08:00",
  "reviewed": {
   "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html": {
    "decision": "hidden",
@@ -177,6 +177,11 @@
    "reason": "業配遊記",
    "at": "2026-11-20"
   },
+  "https://more-news.tw/774892/": {
+   "decision": "kept",
+   "item": "20261110-moea-excellent-district-award",
+   "at": "2026-11-22"
+  },
   "https://mypeoplevol.com/2026/life/120122/": {
    "decision": "kept",
    "item": "20261112-banxin-mrt-tod",
@@ -267,6 +272,11 @@
    "reason": "國外",
    "at": "2026-11-17"
   },
+  "https://n.yam.com/Article/20261122366050": {
+   "decision": "kept",
+   "item": "20261110-moea-excellent-district-award",
+   "at": "2026-11-22"
+  },
   "https://new-reporter.com/news/332964/": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -311,6 +321,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-11"
+  },
+  "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5646078": {
+   "decision": "hidden",
+   "reason": "非商圈",
+   "at": "2026-11-22"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5638912": {
    "decision": "kept",
@@ -522,6 +537,11 @@
    "item": "20261107-shalu-monkey",
    "at": "2026-11-12"
   },
+  "https://twline365.com/2026/11/1281562/": {
+   "decision": "kept",
+   "item": "20261110-moea-excellent-district-award",
+   "at": "2026-11-22"
+  },
   "https://udn.com/news/amp/story/124652/9880107": {
    "decision": "hidden",
    "reason": "選舉",
@@ -621,6 +641,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-16"
+  },
+  "https://www.chinatimes.com/realtimenews/20261122001495-260421": {
+   "decision": "hidden",
+   "reason": "非商圈",
+   "at": "2026-11-22"
   },
   "https://www.cmoney.tw/forum/article/188604540": {
    "decision": "hidden",
@@ -882,10 +907,20 @@
    "reason": "治安車禍",
    "at": "2026-11-11"
   },
+  "https://www.travelnews.tw/news/%e7%a5%9e%e8%be%b2%e5%95%86%e5%9c%88%e6%8b%9a%e6%93%b4%e5%8d%80%e3%80%80%e5%bc%b5%e5%8b%9d%e5%be%b7%e6%8f%90%e5%9b%9b%e9%a0%85%e6%9c%83%e5%8b%98%e7%b5%90%e8%ab%96/": {
+   "decision": "kept",
+   "item": "20261120-yilan-shennong-expand",
+   "at": "2026-11-22"
+  },
   "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1972603": {
    "decision": "kept",
    "item": "20261112-taoyuan-biz-transform",
    "at": "2026-11-14"
+  },
+  "https://www.yesmedia.com.tw/%e3%80%8c2026%e5%85%a8%e5%9c%8b%e5%8d%93%e8%b6%8a%e5%95%86%e5%9c%88%e7%8d%8e%e3%80%8d20%e8%99%95%e7%89%b9%e8%89%b2%e5%95%86%e5%9c%88%e8%84%ab%e7%a9%8e%e8%80%8c%e5%87%ba-%e6%a8%b9%e7%ab%8b%e5%8d%93-3/": {
+   "decision": "kept",
+   "item": "20261110-moea-excellent-district-award",
+   "at": "2026-11-22"
   },
   "https://www.yesmedia.com.tw/%e7%be%8e%e8%a1%93%e5%9c%92%e9%81%93%e5%95%86%e5%9c%88%e3%80%8c%e7%be%8e%e5%ad%b8%e6%a3%ae%e6%b4%bb%e7%af%80%e3%80%8d-%e4%b8%b2%e8%81%af%e7%94%a2%e6%a5%ad%e8%a7%80%e5%85%89-%e5%89%b5%e9%80%a0%e8%bf%91/": {
    "decision": "kept",

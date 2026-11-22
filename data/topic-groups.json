@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-22T07:30:00+08:00",
+  "updated_at": "2026-11-22T12:30:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -10,7 +10,8 @@
           "note": "經濟部協調增產、進口並媒合供貨，沙拉油月需求2.41萬噸，補缺口",
           "representative": "https://www.cna.com.tw/news/afe/202611210038.aspx",
           "urls": [
-            "https://www.cna.com.tw/news/afe/202611210038.aspx"
+            "https://www.cna.com.tw/news/afe/202611210038.aspx",
+            "http://udn.com/news/story/7238/9892771?from=udn_ch2_menu_v2_main_cate"
           ]
         },
         {
@@ -427,7 +428,8 @@
           "id": "20261115-taichung-oil-check",
           "representative": "https://more-news.tw/769034/",
           "urls": [
-            "https://more-news.tw/769034/"
+            "https://more-news.tw/769034/",
+            "https://n.yam.com/Article/20261116727391"
           ],
           "note": "台中市府追蹤查察11家經銷商、雜貨商行，未發現異常漲價或囤貨"
         },
@@ -495,7 +497,8 @@
           "note": "議員籲落實食用油平價直供",
           "representative": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8-%E8%AD%B0%E5%93%A1%E7%B1%B2%E8%90%BD%E5%AF%A6%E5%B9%B3%E5%83%B9%E7%9B%B4%E4%BE%9B-123143908.html",
           "urls": [
-            "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8-%E8%AD%B0%E5%93%A1%E7%B1%B2%E8%90%BD%E5%AF%A6%E5%B9%B3%E5%83%B9%E7%9B%B4%E4%BE%9B-123143908.html"
+            "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8-%E8%AD%B0%E5%93%A1%E7%B1%B2%E8%90%BD%E5%AF%A6%E5%B9%B3%E5%83%B9%E7%9B%B4%E4%BE%9B-123143908.html",
+            "https://today.line.me/tw/v3/posts/list/article/Nv50LqP"
           ]
         },
         {
@@ -538,7 +541,8 @@
           "note": "台南市衛生局提醒食用油囤積恐酸敗，按需採購",
           "representative": "https://n.yam.com/Article/20261121172973",
           "urls": [
-            "https://n.yam.com/Article/20261121172973"
+            "https://n.yam.com/Article/20261121172973",
+            "https://n.yam.com/Article/20261122252056"
           ]
         }
       ],
