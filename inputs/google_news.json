@@ -1,20 +1,41 @@
 {
- "fetched_at": "2026-11-23T09:50:56+08:00",
+ "fetched_at": "2026-11-23T12:16:59+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 91,
-  "kept": 25,
-  "resolved": 25,
-  "items": 24,
+  "raw": 82,
+  "kept": 27,
+  "resolved": 27,
+  "items": 25,
   "resolve_this_run": {
-   "online": 2
+   "online": 3
   },
   "dropped_old": [
+   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）",
    "一中商圈被米粉擠爆！小米之家台中店開幕　明星商品一折（原文日期 2017-11-18）"
   ]
  },
  "items": [
+  {
+   "title": "「淘動漫」大師店於師大商圈開幕 推出「師大巷弄尋寶趣」等活動",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LRnNsbWtaT0VoWGpWVXRPUU1mb2Vydm5YUVZ2aEJkZkt4TzB2U3NtN1BaT0xKcmFvV2lycXBUcVZzUUh3UFdwVlVnWFlFYUdjYzB2c3hlbDU?oc=5",
+   "source": "GNN 新聞網",
+   "source_site": "https://gnn.gamer.com.tw",
+   "published_at": "2026-11-23T12:07+08:00",
+   "query": "商圈",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315395",
+   "resolved": true
+  },
+  {
+   "title": "宇方圓大隱於市 信義商圈首見2億打造綜合式當代中菜餐廳 | 熱門亮點 | 商情",
+   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vUkhQZVRiUXY5ZlFyRVR6NHVZdGhFekp6dFZhWUZuNmVUSzE4dFZCZjlnOFlBRDBLNWczYUFDVWdTb0pNeGlIamJkc3hqeVdORURYUURoekNjUQ?oc=5",
+   "source": "經濟日報",
+   "source_site": "https://money.udn.com",
+   "published_at": "2026-11-23T10:03+08:00",
+   "query": "商圈",
+   "url": "https://money.udn.com/money/story/5635/9894441",
+   "resolved": true
+  },
   {
    "title": "萬顆燈籠點亮斗六太平老街！燈海節首日湧人潮 芒果醬熱力開唱掀高潮",
    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qb1ZjTUJCRWcwa1VkZVB3VUI4RFFKbkN2ZjNzcHpXN19aSXY3empLTWw4NWphaGxBYjJpWGY4MWhHRmNhaVhMbzdjQXUta0xaNEE?oc=5",
@@ -37,12 +58,12 @@
   },
   {
    "title": "2026苗栗獅潭仙草花節｜山城慢活賞花之旅！悠哉漫步紫色夢幻仙境，順遊新店老街、鳴鳳古道| 銀髮一起玩",
-   "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84QnJobDZuVE84T0VrbUVndTkxVTgzdEVMZXZlc0VUTU1BYW1IdzhVRjBoRmdtWkdRcGxHckp6Q1JaZlZaM25FOHY4VWxmckhMTGVkQlpfam1TcUcxRG9LcnBrLTkyT0pNMlE4bFg3ZjQ3OFozOVBr?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kdVZWcUNIZHBnV0VBeVEyYlRrN3BqTmhYYWZwLW9uNHUxSkRFMTZqMzM3bjJRclUwVXQzbUFEbGthbGlYcXFoT0hEbWtJWXlqTC1YcVZn?oc=5",
    "source": "LINE TODAY",
    "source_site": "https://today.line.me",
-   "published_at": "2026-11-23T05:39+08:00",
+   "published_at": "2026-11-23T05:29+08:00",
    "query": "老街",
-   "url": "https://today.line.me/tw/v3/article/2D9oPRj?referral=TOPIC-flowering",
+   "url": "https://today.line.me/tw/v3/article/2D9oPRj",
    "resolved": true
   },
   {
@@ -176,13 +197,13 @@
    "resolved": true
   },
   {
-   "title": "推廣在地農產、串聯商圈美食 士林陽明山山藥季邀民眾支持小農",
-   "google_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1lbGdyY01ST0FGcW04WFVWRnZpMUNwWXh3a3Jxa2FxWTJxWGVHS1otS093ZzNlbjNPWDA1OUY5YVJ0R2Fw?oc=5",
-   "source": "天晴報媒體",
-   "source_site": "https://news.fclnews.com",
-   "published_at": "2026-11-21T22:10+08:00",
+   "title": "推廣在地農產、串聯商圈美食士林陽明山山藥季邀民眾支持小農- 生活新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMWRZRnE0NDZCWDMydm80NTZXUmVhclowOVN0Rm00Tzh3M3BsS1RxcnRvVlFQcVVXTXJSNm1jZTNtOGFUdkt3MGZOdkFDWmdobngybEhFb2tJdEt4WXNZSWxZWlVtXzBDQVBjeE5obmplODRKZW4xeHNRY3RwaXRNV09LWlEydW1oSGlRUmdR?oc=5",
+   "source": "PChome Online 新聞",
+   "source_site": "https://news.pchome.com.tw",
+   "published_at": "2026-11-21T22:14+08:00",
    "query": "商圈",
-   "url": "https://news.fclnews.com/60722",
+   "url": "https://news.pchome.com.tw/living/thehubnews/20261121/index-79527046862688306009.html",
    "resolved": true
   },
   {
@@ -243,16 +264,6 @@
    "published_at": "2026-11-21T12:32+08:00",
    "query": "商圈",
    "url": "https://today.line.me/tw/v3/posts/list/article/LXeWQp0",
-   "resolved": true
-  },
-  {
-   "title": "大阪堺中百舌鳥商店街燈飾11/25點燈 回收炸油發電、規模擴大到200公尺",
-   "google_url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVVdNdGhKYVMyU1QwYTlNcVd1dmhvU2pmSzR4UW5tQUpGcXVCc3phZ0VhbXBXUzVxUF9UZGhSOTJLNkU1Um9PbEdoZGd1WGQ0aWt5RmFycnM0M2xvZkNORkR2dlViV3MxZ2ppN2xndjZYVUpOeEM0LXZ2QkI1NnFxYmFkNGJoYjJfTS1Pbkk0LXRiMnJ6b3NhNUVlLVVvYzFhdkFfb0d5WGdBTTBEejQ3b1ZzS2pHX3o1VWRTQzYyZGdtRlRrMHNBcmk5VUxiSERTY2NncWRESmVRZFlpbmc0SlBMbmdWb3hJbHJIM1pZaG45WXl1Vkl2eWZKQlRpdjJWc1k4ODkxSkFiaVRkWm9jejNTdlhhX3pMVndIWUtQUUxIR3pLUDh6dkxoRmFZdDlOQUNDQklRN3VnV3JDZkdVZHk0RTZaQVVxVzFjN3dXV2d6Z0VoZkphdjF4TGxEMUhyRFE?oc=5",
-   "source": "報新聞 Mega News",
-   "source_site": "https://www.contentplatform.info",
-   "published_at": "2026-11-21T10:54+08:00",
-   "query": "商店街",
-   "url": "https://www.contentplatform.info/articles/585531/%E5%A4%A7%E9%98%AA%E5%A0%BA%E4%B8%AD%E7%99%BE%E8%88%8C%E9%B3%A5%E5%95%86%E5%BA%97%E8%A1%97%E7%87%88%E9%A3%BE11-25%E9%BB%9E%E7%87%88%E3%80%80%E5%9B%9E%E6%94%B6%E7%82%B8%E6%B2%B9%E7%99%BC%E9%9B%BB/",
    "resolved": true
   }
  ]

@@ -1,11 +1,6 @@
 {
- "fetched_at": "2026-11-23T09:51:06+08:00",
+ "fetched_at": "2026-11-23T12:17:09+08:00",
  "articles": {
-  "https://www.yesmedia.com.tw/%e4%b8%ad%e5%b8%82%e7%89%a9%e8%aa%bf%e5%88%b8%e4%ba%ba%e6%b0%a3%e5%a0%b4%e5%9f%9f%e6%8f%ad%e6%9b%89%ef%bc%81%e4%b8%80%e4%b8%ad%e5%95%86%e5%9c%88%e5%a5%aa%e5%86%a0%e3%80%81%e9%80%a2%e7%94%b2%e5%a4%9c/": {
-   "checked_at": "2026-11-20T10:26+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
-  },
   "https://www.aoc.gov.tw/showPublic/811": {
    "checked_at": "2026-11-23T07:17+08:00",
    "status": 403,
@@ -33,11 +28,6 @@
   },
   "https://www.yesmedia.com.tw/%e6%a1%83%e5%9c%92%e6%8e%a8%e5%8b%95%e4%b8%80%e5%95%86%e5%9c%88%e4%b8%80%e7%89%b9%e8%89%b2-%e7%88%ad%e5%8f%962300%e8%90%ac%e8%a3%9c%e5%8a%a9%e8%bc%94%e5%b0%8e%e7%87%9f%e9%81%8b/": {
    "checked_at": "2026-11-21T15:27+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  "https://news.pchome.com.tw/public/taipei/20261102/index-79361600023397126016.html": {
-   "checked_at": "2026-11-20T10:26+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
@@ -145,11 +135,6 @@
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
   },
-  "https://news.pchome.com.tw/travel/m00361/20261118/index-79499060064698361015.html": {
-   "checked_at": "2026-11-20T10:26+08:00",
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
-  },
   "https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124495": {
    "checked_at": "2026-11-23T07:17+08:00",
    "status": 403,
@@ -169,156 +154,6 @@
    "checked_at": "2026-11-20T15:31+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://udn.com/news/story/7270/9890620": {
-   "checked_at": "2026-11-20T10:26+08:00",
-   "status": 200,
-   "published_at": "2026-11-20T09:55+08:00",
-   "site_name": "聯合新聞網",
-   "description": "台北西門町商圈指標性地標H&M西門旗艦店，因十年租約期滿不再續約，於11月19日低調結束營業，H&M台灣今早也在官方社群證實發文：「在西門町待了十年，先跟老朋友說聲謝啦」，接下來台灣旗艦店重任將由信義商圈的「台北微風松高店」接棒。",
-   "cities": {
-    "台北市": 10
-   },
-   "districts": [
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 1185,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/20/35535705.png&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-20",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cdns.com.tw/articles/1493063": {
-   "checked_at": "2026-11-20T10:26+08:00",
-   "status": 200,
-   "published_at": "2026-11-19T16:51+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者陳建興／台北報導 台灣壽司郎持續深化數位餐飲布局！繼今年1月首度引進「DIGIRO數位迴轉壽司」後，11月再將數位用餐服務導入北台灣2家既有店鋪。桃園首家DIGIRO「桃園國際路店」將於11月20日（五）改裝開幕，緊接著位於西門町商圈的「台北中華路店」也將於11月21日（六）接力登場，DIGIRO全台店數正式達到7",
-   "cities": {
-    "桃園市": 12,
-    "台北市": 8
-   },
-   "districts": [
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 1000,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/19165054/11-2-1024x765.png",
-   "image_checked": true,
-   "date_hint": "2026-11-19",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ifeng.com/c/8yCVP2afwlh": {
-   "checked_at": "2026-11-20T10:26+08:00",
-   "status": 200,
-   "published_at": "2026-11-20T09:12+08:00",
-   "site_name": "凤凰网",
-   "description": "党的二十届五中全会指出，“深化党建引领基层治理和基层政权建设”，“拓宽基层组织和群众依法有序参与基层治理渠道”。",
-   "cities": {},
-   "districts": [
-    "花蓮市 百年老街商圈（花蓮縣）"
-   ],
-   "body_chars": 348,
-   "image": "https://x0.ifengimg.com/res/2026/EA2900C9FCA00B893C5B09DB35DB0E25DAFF4D07_size2346_w426_h240.gif",
-   "image_checked": true,
-   "date_hint": "2026-11-20",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261120818339": {
-   "checked_at": "2026-11-20T10:26+08:00",
-   "status": 200,
-   "published_at": "2026-11-20T06:30+08:00",
-   "site_name": "蕃新聞",
-   "description": "颱風毀損管線 前山公園男女公共浴室暫停開放照片取自臺北市政府 【聚傳媒特約記者陳欣如報導】薔琵颱風期",
-   "cities": {
-    "台北市": 4
-   },
-   "districts": [],
-   "body_chars": 587,
-   "image": "https://ni.yam.com/20261120/20261120011029078-108c75be8c8c5e21.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-20",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.msn.cn/zh-cn/news/other/%E9%95%BF%E6%B1%9F%E8%A7%82%E5%AF%9F-%E8%8D%86%E5%B7%9E%E5%8E%BF%E5%9F%9F%E5%BE%AE%E6%9B%B4%E6%96%B0%E8%80%81%E8%A1%97%E6%96%87%E8%84%89%E7%84%95%E6%96%B0%E7%94%9F/ar-AA2hOH4l": {
-   "checked_at": "2026-11-20T10:26+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://news.ltn.com.tw/news/society/breakingnews/5647157": {
-   "checked_at": "2026-11-20T10:26+08:00",
-   "status": 200,
-   "published_at": "2026-11-20T09:31+08:00",
-   "site_name": "自由時報電子報",
-   "description": "苗栗縣泰安鄉士林部落昨（19）日晚間8時許發生住宅火警，一處鐵皮建築陷入火海，雖然無人傷亡，但火勢波及現場供電設備，造成泰安士林部落及台中市和平區雪山坑部落同步停電。由於起火前不久部落內才發生酒後肢體衝突，當事人剛到派出所做完筆錄便傳出火警，警方正深入調查起火原因及是否涉及人為縱火。苗栗縣消防局指出，昨晚8時16分接獲",
-   "cities": {
-    "苗栗縣": 7,
-    "台中市": 2
-   },
-   "districts": [],
-   "body_chars": 880,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/20/5647157_3_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-20",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.sohu.com/a/1103906793_362042": {
-   "checked_at": "2026-11-20T10:26+08:00",
-   "status": 200,
-   "published_at": "2026-11-20T08:03+08:00",
-   "site_name": "搜狐网",
-   "description": "按照规划，翠湖老街历史文化旅游区将打造六大主题会客厅：以翠湖公园、九巷十三坡、文林街、黄公东街等为核心的“咖啡厅”，以翠湖博物馆群、西南联大旧址、陆军讲武堂、胜利纪念堂等为核心的“博物馆”，以陆军讲武堂、云南…",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1228,
-   "image": "https://q1.itc.cn/q_70/images03/20261120/9b543d016b1f4183b044e9ba76e2e4bc.jpeg",
-   "image_checked": true,
-   "date_hint": "2026-11-20",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/society/breakingnews/5647160": {
-   "checked_at": "2026-11-20T10:26+08:00",
-   "status": 200,
-   "published_at": "2026-11-20T09:46+08:00",
-   "site_name": "自由時報電子報",
-   "description": "新北市金山區80歲羅姓老翁，未取得醫師資格，竟在所經營的國術館內私自替病患看診20年，遭基隆地檢署依違反醫師法提起公訴。基隆地方法院審理時，考量羅男犯後坦承犯行，且已主動拆除國術館招牌，承諾不再重操舊業，依羅翁犯醫師法判處6月徒刑，得易科罰金18萬元，緩刑2年，並向公庫5萬元。羅翁被控為金山區某國術館負責人，明知自己未",
-   "cities": {
-    "基隆市": 4,
-    "新北市": 3
-   },
-   "districts": [],
-   "body_chars": 673,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/20/5647160_1_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-20",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5647130": {
-   "checked_at": "2026-11-20T10:26+08:00",
-   "status": 200,
-   "published_at": "2026-11-20T08:50+08:00",
-   "site_name": "自由時報電子報",
-   "description": "115年地方公職人員選舉將於11月28日舉行，高雄市工務局為維護選舉期間通訊、電力及道路交通安全，今（20）日宣布將從11月22日至29日實施道路挖掘施工管制，除涉及公共安全或民生需求的緊急搶修外，原則暫停各類道路挖掘施工，避免施工影響交通及市民通行。高雄市工務局表示，已提前通知各管線單位及施工廠商，於11月22日至2",
-   "cities": {
-    "高雄市": 7,
-    "彰化縣": 1
-   },
-   "districts": [
-    "日月潭形象商圈（南投縣）"
-   ],
-   "body_chars": 754,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/20/5647130_1_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-20",
-   "date_hint_from": "原文時間"
   },
   "https://www.ftvnews.com.tw/news/detail/2026B13W0472": {
    "checked_at": "2026-11-23T07:17+08:00",
@@ -10131,6 +9966,221 @@
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
+  },
+  "https://gnn.gamer.com.tw/detail.php?sn=315395": {
+   "checked_at": "2026-11-23T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-23T12:07+08:00",
+   "site_name": "巴哈姆特電玩資訊站",
+   "description": "台灣動漫品牌「淘動漫」繼桃園據點後，正式進駐台北師大商圈打造全新「淘動漫大師店」，於上周六（21 日）下午舉辦開幕茶會，並邀請到台灣漫畫界與學界多位嘉賓到場。 【以下內容為廠商提供資料原文】 開幕茶會現場嘉賓雲集，漫畫界代表包括漫畫家敖幼祥、傑利小子、練任、鄭硯允，以及台北市漫畫工會理事長黃俊維、台灣動漫",
+   "cities": {
+    "台北市": 2,
+    "桃園市": 1
+   },
+   "districts": [],
+   "body_chars": 375,
+   "image": "https://p2.bahamut.com.tw/B/2KU/10/bff01b2298128f119cfa50ab2e217465.JPG",
+   "image_checked": true,
+   "date_hint": "2026-11-23",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pchome.com.tw/living/thehubnews/20261121/index-79527046862688306009.html": {
+   "checked_at": "2026-11-23T12:17+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://udn.com/news/story/7270/9890620": {
+   "checked_at": "2026-11-23T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-20T09:55+08:00",
+   "site_name": "聯合新聞網",
+   "description": "台北西門町商圈指標性地標H&M西門旗艦店，因十年租約期滿不再續約，於11月19日低調結束營業，H&M台灣今早也在官方社群證實發文：「在西門町待了十年，先跟老朋友說聲謝啦」，接下來台灣旗艦店重任將由信義商圈的「台北微風松高店」接棒。",
+   "cities": {
+    "台北市": 7,
+    "新北市": 1
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1555,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/20/35535705.png&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-20",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/5635/9894441": {
+   "checked_at": "2026-11-23T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-23T10:03+08:00",
+   "site_name": "經濟日報",
+   "description": "高級餐廳的天花板不斷往上拉升。最近在台北信義商圈又出現一家集當代中式高級美饌、私密社交會所的新餐廳，體面幽靜地位於微風松高整個地下二樓，賓客們不用到停車場，在門口直接下車瀟灑入內，即可尊榮享受與外界全然隔離的優質用餐環境。 宇方圓 ，就是這麼帶點神秘感，立足於台北最繁華的信義商圈，結合高度私密性與高端精緻餐飲的稀有場域",
+   "cities": {
+    "台北市": 10
+   },
+   "districts": [],
+   "body_chars": 2066,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/22/35541944.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-23",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E6%88%BF%E5%B8%82%E7%9E%AD%E6%9C%9B-%E9%81%A0%E6%9D%B1garden-city%E6%89%93%E5%BC%B7%E5%BF%83%E9%87%9D-%E6%9D%B1%E5%8D%80%E8%A1%97%E9%82%8A%E5%BA%97%E6%B4%BB%E9%81%8E%E4%BE%86-080000180.html": {
+   "checked_at": "2026-11-23T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-22T16:00+08:00",
+   "site_name": "Yahoo News",
+   "description": "隨著位在大巨蛋的遠東Garden City正式啟用，過去一片死寂的東區商圈，終於又嗅到回春氣息。據近1年實價登錄統計，忠孝敦化站、國父紀念館站和忠孝復興站的合計租賃交易量達95件，顯示東區周邊店面空置壓力減少。 據近1年實價登錄統計，以台…",
+   "cities": {
+    "台北市": 7,
+    "高雄市": 7,
+    "新竹市": 6,
+    "新北市": 1,
+    "台中市": 1
+   },
+   "districts": [
+    "中山商圈（台北市）",
+    "永康商圈（台北市）",
+    "東區商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/peoplenews.tw/4988614ca284084b73c88b8c1ab9d4aa.jpg_up.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-22",
+   "date_hint_from": "原文時間"
+  },
+  "https://star.setn.com/news/1940416": {
+   "checked_at": "2026-11-23T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T00:22+08:00",
+   "site_name": "三立娛樂星聞",
+   "description": "中國大陸人氣男神張凌赫憑藉古裝劇《逐玉》人氣攀升，迎來12月30日生日之際，台灣粉絲自發籌辦大型應援活動。自12月24日起連續7天，台北中山商圈的新光三越與捷運中山地下街將播放張凌赫的專屬生日影片，並設有打卡點，讓粉絲在台北街頭也能感受偶像的獨特魅力與浪漫祝福。",
+   "cities": {
+    "台北市": 13
+   },
+   "districts": [
+    "中山商圈（台北市）"
+   ],
+   "body_chars": 952,
+   "image": "https://attach.setn.com/newsimages/2026/08/22/5679870-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.setn.com/news/1922205": {
+   "checked_at": "2026-11-23T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-10-14T18:30+08:00",
+   "site_name": "三立新聞網",
+   "description": "台北市三大零售商圈2026年第三季空置率持穩，忠孝商圈降至8.29%，西門商圈為4.64%，中山南京商圈微升至4.73%。遠東Garden City進駐為東區注入人潮，但專家指出，商圈租金復甦仍受經營成本與消費環境牽制。未來大型商場能否將活動人流轉化為日常消費，並克服電商與缺工挑戰，將是維持商圈與租金長期穩定的關鍵。",
+   "cities": {
+    "台北市": 10,
+    "新北市": 5,
+    "桃園市": 2,
+    "基隆市": 2
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 1423,
+   "image": "https://attach.setn.com/newsimages/2025/06/01/5133943-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-10-14",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.cn/zh-cn/news/other/%E6%88%8F%E9%9F%B5%E4%BC%B4%E5%B0%8F%E9%9B%AA%E8%80%8C%E8%87%B3-%E8%80%81%E8%A1%97%E8%8C%B6%E9%A6%86%E6%BC%94%E7%BB%8E%E9%95%BF%E6%B2%99%E6%B8%A9%E6%9F%94%E6%96%87%E8%89%BA%E6%97%B6%E5%85%89/ar-AA2hZWaB": {
+   "checked_at": "2026-11-23T12:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.cdns.com.tw/articles/1493063": {
+   "checked_at": "2026-11-23T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T16:51+08:00",
+   "site_name": "中華新聞雲 / China Daily News",
+   "description": "記者陳建興／台北報導 台灣壽司郎持續深化數位餐飲布局！繼今年1月首度引進「DIGIRO數位迴轉壽司」後，11月再將數位用餐服務導入北台灣2家既有店鋪。桃園首家DIGIRO「桃園國際路店」將於11月20日（五）改裝開幕，緊接著位於西門町商圈的「台北中華路店」也將於11月21日（六）接力登場，DIGIRO全台店數正式達到7",
+   "cities": {
+    "桃園市": 12,
+    "台北市": 8
+   },
+   "districts": [
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 1000,
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/19165054/11-2-1024x765.png",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ifeng.com/c/8yCVP2afwlh": {
+   "checked_at": "2026-11-23T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-20T09:12+08:00",
+   "site_name": "凤凰网",
+   "description": "党的二十届五中全会指出，“深化党建引领基层治理和基层政权建设”，“拓宽基层组织和群众依法有序参与基层治理渠道”。",
+   "cities": {},
+   "districts": [
+    "花蓮市 百年老街商圈（花蓮縣）"
+   ],
+   "body_chars": 348,
+   "image": "https://x0.ifengimg.com/res/2026/EA2900C9FCA00B893C5B09DB35DB0E25DAFF4D07_size2346_w426_h240.gif",
+   "image_checked": true,
+   "date_hint": "2026-11-20",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ctee.com.tw/news/20261116701982-430503": {
+   "checked_at": "2026-11-23T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-16T20:33+08:00",
+   "site_name": "中時即時",
+   "description": "中聯油脂因致癌油停產，近期食品通路出現沙拉油荒，業者喊苦。經濟部今（16）宣布再推出2大加速供貨措施，包括廠商擴大生產、媒合機制。合計11月、12月，可多生產近50萬桶18公升沙拉油到市面上。 立委鍾佳濱在立法院經濟委員會質詢，台糖說有三管道協助沙拉油供應，包括增加黃豆的採購、外購粗油進行精煉，協助...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 723,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-16/1024/20261116701983.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-16",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5650224": {
+   "checked_at": "2026-11-23T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-23T10:54+08:00",
+   "site_name": "自由時報電子報",
+   "description": "116學年度身心障礙學生升學大專校院甄試明（24）日起開放報名，至12月7日截止，考試訂於明（2027）年3月19日至22日舉行。教育部提醒，明年起四技二專組取消「工程與管理」考試類別，考生應留意類組調整；此外，報名資料一經送出，不得更改考區、學制及類組等重要項目，務必確認資料無誤再送出。教育部學特司科長謝昌運表示，1",
+   "cities": {
+    "新北市": 1,
+    "台中市": 1
+   },
+   "districts": [],
+   "body_chars": 945,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/23/5650224_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-23",
+   "date_hint_from": "原文時間"
+  },
+  "https://finance.sina.com.cn/jjxw/2026-11-23/doc-inizsuwn0671523.shtml": {
+   "checked_at": "2026-11-23T12:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-23T10:26+08:00",
+   "site_name": null,
+   "description": "唐山河头老街李白凭啥火出圈",
+   "cities": {},
+   "districts": [],
+   "body_chars": 495,
+   "image": "https://n.sinaimg.cn/finance/c30320b4/20190809/cj_sinafinance_app2x.png",
+   "image_checked": true,
+   "date_hint": "2026-11-23",
+   "date_hint_from": "原文時間"
   }
  }
 }
