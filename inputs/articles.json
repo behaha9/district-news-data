@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T04:24:07+08:00",
+ "fetched_at": "2026-11-24T07:17:47+08:00",
  "articles": {
   "https://www.aoc.gov.tw/showPublic/811": {
    "checked_at": "2026-11-23T15:55+08:00",
@@ -205,102 +205,6 @@
    "date_hint": "2026-11-10",
    "date_hint_from": "原文時間"
   },
-  "https://www.businesstoday.com.tw/article/category/183032/post/202611050023/": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-05T15:11+08:00",
-   "site_name": "今周刊",
-   "description": "謝金河女兒謝盈盈、阿嬤的家A Ma De Jia 2026首屆藝術博覽會、阿嬤的家時間12/11-12/20在雲林西螺登場，策展人謝盈盈笑道：「藝術品在老房子內很有感覺，很多人告訴我這樣很酷，其實在國外很多人做。」她觀察全台有很多老房子，她也決定延續這次的好評，催生了首屆全新藝術博覽會《阿嬤的家》，將於2026年12月",
-   "cities": {
-    "台北市": 3,
-    "雲林縣": 3,
-    "台中市": 1,
-    "台南市": 1
-   },
-   "districts": [],
-   "body_chars": 2024,
-   "image": "https://doqvf81n9htmm.cloudfront.net/data/petra_284/110500(1).jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-05",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261108449966": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T13:16+08:00",
-   "site_name": "蕃新聞",
-   "description": "報新聞/編輯部台中市政府交通局為行人安全再添科技助力！近來很多到新光三越、大遠百商圈周邊消費、觀光的",
-   "cities": {
-    "台中市": 2
-   },
-   "districts": [],
-   "body_chars": 1310,
-   "image": "https://ni.yam.com/20261108/taichung-cover-261108043217761-7dd2d5bb9b76c17a.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/newspapers/20261112000579-260204": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-12T04:10+08:00",
-   "site_name": "中時新聞網",
-   "description": "臺南市玉秀雙語國小積極整合地方資源，透過雙語教育、跨域課程與社區參與，建立校園與在地商圈合作新模式，10月30日舉辦萬聖節英語與社區踩街活動，串聯鹽水14家商家，將英語學習延伸至真實生活場域，不僅展現雙語教",
-   "cities": {
-    "台南市": 2
-   },
-   "districts": [
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 540,
-   "image": "https://images.chinatimes.com/newsphoto/2026-11-12/656/A40A00_P_03_02.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-12",
-   "date_hint_from": "原文時間"
-  },
-  "https://sunmedia.tw/news/collaborative/bmSlYsvnt9ZoK2uvI0VjRm19SNNTsIK86gdKNKfTQlvbN2GykL2L67tw6yey2nuwQ5Wjxs8eEe9BG5qrB": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-11T10:41+08:00",
-   "site_name": "商傳媒",
-   "description": "桃園3大商圈獲中央肯定 經發局：持續投入振興與轉型資源",
-   "cities": {
-    "桃園市": 17
-   },
-   "districts": [
-    "魅力金三角商圈（桃園市）"
-   ],
-   "body_chars": 965,
-   "image": "https://twline365.com/wp-content/uploads/s__357605385_0_result.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-11",
-   "date_hint_from": "原文時間"
-  },
-  "https://17news.net/archives/345622": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-11T20:10+08:00",
-   "site_name": "17news民生好報",
-   "description": "【記者林文強/台北報導】",
-   "cities": {
-    "台北市": 3,
-    "新北市": 2,
-    "嘉義縣": 2,
-    "台南市": 1,
-    "彰化縣": 1
-   },
-   "districts": [
-    "新北投溫泉商圈（台北市）",
-    "縣府太子商圈（嘉義縣）",
-    "鹽水商圈（台南市）",
-    "小琉球商圈（屏東縣）"
-   ],
-   "body_chars": 614,
-   "image": "https://17news.net/wp-content/uploads/2026/11/25e56216b327c43.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-11",
-   "date_hint_from": "原文時間"
-  },
   "https://www.rti.org.tw/news?uid=3&pid=1050641": {
    "checked_at": "2026-11-22T15:09+08:00",
    "status": 200,
@@ -353,279 +257,6 @@
    "date_hint": "2026-11-09",
    "date_hint_from": "原文時間"
   },
-  "https://taiwanreports.com/archives/1025433": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-11T17:19+08:00",
-   "site_name": "臺灣導報",
-   "description": "【記者徐玉英桃園報導】由經濟部商業發展署主辦的「2026全國卓越商圈獎」日前舉行頒獎典禮，桃園市三大商圈表現亮眼，包括桃園市魅力金三角商圈榮奪「亮點觀光獎 .......繼續閱讀",
-   "cities": {
-    "桃園市": 19,
-    "高雄市": 1
-   },
-   "districts": [
-    "魅力金三角商圈（桃園市）"
-   ],
-   "body_chars": 1000,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-11-11",
-   "date_hint_from": "原文時間"
-  },
-  "https://more-news.tw/765408/": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-11T11:58+08:00",
-   "site_name": "墨新聞 MORE News",
-   "description": "桃園市魅力金三角商圈榮奪「亮點觀光獎」。圖：經發局提供 由經濟部商業發展署主辦的「2026全國卓越商圈獎」昨( […]",
-   "cities": {
-    "桃園市": 17,
-    "嘉義市": 2
-   },
-   "districts": [
-    "魅力金三角商圈（桃園市）"
-   ],
-   "body_chars": 1009,
-   "image": "https://i0.wp.com/twline365.com/wp-content/uploads/s__357605385_0_result.webp?fit=1100%2C983&ssl=1",
-   "image_checked": true,
-   "date_hint": "2026-11-11",
-   "date_hint_from": "原文時間"
-  },
-  "https://more-news.tw/766052/": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-11T19:58+08:00",
-   "site_name": "墨新聞 MORE News",
-   "description": "▲2026全國卓越商圈獎頒獎典禮受邀貴賓、縣市政府代表及獲獎商圈代表共同合影。(圖／中衛發展中心提供) 【焦點 […]",
-   "cities": {
-    "新北市": 4,
-    "嘉義": 4,
-    "台南市": 2,
-    "彰化縣": 2,
-    "屏東縣": 2
-   },
-   "districts": [
-    "新北投溫泉商圈（台北市）",
-    "縣府太子商圈（嘉義縣）",
-    "鹽水商圈（台南市）",
-    "小琉球商圈（屏東縣）"
-   ],
-   "body_chars": 1429,
-   "image": "https://focus.586.com.tw/wp-content/uploads/2026/11/81.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-11",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261108761466": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T21:43+08:00",
-   "site_name": "蕃新聞",
-   "description": "【記者 潘靖茹／臺北報導】臺北市商業處協助台灣新媒體發展協會於11月7日至8日在香堤大道舉辦為期兩天",
-   "cities": {
-    "台北市": 10
-   },
-   "districts": [],
-   "body_chars": 890,
-   "image": "https://ni.yam.com/20261108/taipei-1E977767FABD2BB5-1-25aeb23f14ccfa97.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ctee.com.tw/news/20261112700352-439901": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-12T03:00+08:00",
-   "site_name": "工商時報",
-   "description": "臺南市玉秀雙語國小積極整合地方資源，透過雙語教育、跨域課程與社區參與，建立校園與在地商圈合作新模式，10月30日舉辦萬聖節英語與社區踩街活動，串聯鹽水14家商家，將英語學習延伸至真實生活場域，不僅展現雙語教育生活化成果，更透過學校與地方產業互動，為商圈注入節慶活力，開創教育與地方共榮新契機。 隨著雙...",
-   "cities": {
-    "台南市": 2
-   },
-   "districts": [
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 671,
-   "image": "https://images.ctee.com.tw/newsphoto/2026-11-12/1024/A40AC4_PictureItem_Clipping_03_4.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-12",
-   "date_hint_from": "原文時間"
-  },
-  "https://ocacnews.net/article/433828": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-11T18:00+08:00",
-   "site_name": null,
-   "description": "「2026高雄聖誕生活節」13日在中央公園登場，連5個週末推主題市集，結合特色美食、節慶市集、音樂演出及燈飾，串聯商圈，帶動歲末消費商機。",
-   "cities": {
-    "高雄市": 12
-   },
-   "districts": [
-    "在地商圈（南投縣）",
-    "中央公園商圈（高雄市）"
-   ],
-   "body_chars": 616,
-   "image": "https://ocacnews.net/storage/articleImages/20261110/M2_cmYP5XkcWKLRgQKn3T71lad5AcFpXkX6SIMa6aT3.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-11",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E7%B6%B2%E7%B4%85%E7%AF%80%E7%99%BB%E5%A0%B4-131%E7%B5%84%E5%89%B5%E4%BD%9C%E8%80%85%E8%A7%92%E9%80%90ty-star%E7%B6%B2%E7%B4%85%E7%8D%8E-28%E4%BD%8D%E7%B6%B2%E7%B4%85%E5%B8%B6%E8%B7%AF%E9%80%9B%E5%95%86%E5%9C%88-141817222.html": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T22:18+08:00",
-   "site_name": "Yahoo News",
-   "description": "【互傳媒／記者 謝忠義／台北 報導】為協助推廣網紅產業發展，臺北市商業處輔導台灣新媒體發展協會於11月7日至8",
-   "cities": {
-    "台北市": 26,
-    "桃園市": 4,
-    "高雄市": 4,
-    "台中市": 2
-   },
-   "districts": [
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 4000,
-   "image": "https://media.zenfs.com/ko/hoomedia_675/a66ee8c9f88719f53ec13cdd513e122d.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/realtimenews/20261114002948-260407": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-14T20:40+08:00",
-   "site_name": "中時新聞網",
-   "description": "2026年高雄市長選舉，國民黨柯志恩、民進黨賴瑞隆、司法改革黨張靜、無黨籍王肇民、無黨籍洪方隆等5人競逐。有YouTube頻道針對「高雄市長大對決，你支持哪一方？」進行直播街頭民調，地點在高雄三多商圈、中央公園、",
-   "cities": {
-    "高雄市": 14
-   },
-   "districts": [
-    "新堀江商圈（高雄市）",
-    "中央公園商圈（高雄市）",
-    "三多商圈（高雄市）"
-   ],
-   "body_chars": 868,
-   "image": "https://images.chinatimes.com/newsphoto/2026-11-14/656/20261114002977.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-14",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.tvbs.com.tw/local/4051975": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-17T18:27+08:00",
-   "site_name": "TVBS新聞網",
-   "description": "一組由智利籍人士組成的竊盜集團近日在台北落網，成員包括一對情侶檔及女方的哥哥共3人。該集團專門鎖定台北捷運板南線犯案，利用分工合作方式竊取乘客財物，手法細膩讓被害人難以察覺，3人落網後已遭限制出境。",
-   "cities": {
-    "台北市": 13,
-    "新北市": 4,
-    "桃園市": 1,
-    "彰化縣": 1
-   },
-   "districts": [
-    "永康商圈（台北市）",
-    "九份老街商圈（新北市）"
-   ],
-   "body_chars": 2811,
-   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1e8cd-65b8-722d-8bf4-25d74448e90b.jpg?t=16x9&wp=l,t&c=0,44,1100,663&w=1200&h=675",
-   "image_checked": true,
-   "date_hint": "2026-11-17",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ctwant.com/article/505834/": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T15:25+08:00",
-   "site_name": "CTWANT",
-   "description": "「2026台北國際網紅節暨第七屆TYSTAR網紅獎、永續店家之星頒獎典禮」8日於信義區香堤大道廣場舉行，其中最受矚目的莫過於太陽組獲勝網紅，由「果凍姐姐」楊晨熙、「萌面人」羅衣衣與夢露老師獲獎。對此，...",
-   "cities": {
-    "台北市": 17
-   },
-   "districts": [
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 1588,
-   "image": "https://static.ctwant.com/images/cover/34/505834/lg-44d468a09ceee3dc5b1fe1459609c138.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://tw.news.yahoo.com/%E4%BB%96%E7%99%BC%E6%96%87%E6%80%A8-%E7%AB%B9%E5%8C%97%E9%83%BD%E6%B2%92%E7%99%BC%E5%B1%95%E5%95%86%E5%9C%88-%E7%B6%B2%E6%9B%9D-1%E6%AE%98%E9%85%B7%E7%9C%9F%E7%9B%B8-142220908.html": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-17T22:22+08:00",
-   "site_name": "Yahoo News",
-   "description": "生活中心／林官翔報導竹北高鐵生活圈（高鐵新竹站特區）最大的特色在於結合雙鐵交通樞紐，因此擁有許多科技產業聚落與園區，而近日有網友在PTT房產版上好奇發文，詢問為甚麼「竹北高鐵沒有發展出商圈」並提到雖然附近人流很多，但卻沒發展出熱鬧的商店街，甚至想吃個東西也有困難。對此，網民們也是在底下給予她熱烈的回覆，甚至有人單獨開出",
-   "cities": {
-    "新竹縣": 5,
-    "桃園市": 3,
-    "台中市": 3,
-    "台北市": 2,
-    "嘉義": 1
-   },
-   "districts": [
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 4000,
-   "image": "https://media.zenfs.com/zh-tw/ftvn.com.tw/0fabe23c53f6bb3926a3f4cb46728ec5.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-17",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/newspapers/20261121000374-260204": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-21T04:10+08:00",
-   "site_name": "中時新聞網",
-   "description": "三井Outlet、機場捷運及大型住宅社區陸續到位，林口三井生活圈已成為大台北重要的自住購屋熱區。房地產專家指出，在自住剛性需求支撐下，房價修正幅度有限，預售屋單價約7至8字頭，中古屋三房總價以2,000萬至2,200萬",
-   "cities": {
-    "台北市": 2,
-    "新北市": 2
-   },
-   "districts": [],
-   "body_chars": 456,
-   "image": "https://images.chinatimes.com/newsphoto/2026-11-21/656/ALFA00_P_01_01.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-21",
-   "date_hint_from": "原文時間"
-  },
-  "https://life.tw/article/2026%E9%AB%98%E9%9B%84%E8%81%96%E8%AA%95%E7%94%9F%E6%B4%BB%E7%AF%80-%E7%B4%AB%E8%89%B2%E6%B5%AA%E6%BC%AB%E9%BB%9E%E7%87%88-%E8%80%B6%E8%AA%95%E5%B0%8F%E9%8E%AE-%E9%80%A3%E7%BA%8C5%E5%80%8B%E9%80%B1%E6%9C%AB-3218451": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-14T14:50+08:00",
-   "site_name": "LIFE 生活網",
-   "description": "高雄聖誕生活節於中央公園盛大開幕，點亮年度聖誕主燈「聖誕高雄・閃耀星光」。",
-   "cities": {
-    "高雄市": 22
-   },
-   "districts": [
-    "南華商圈（高雄市）",
-    "中央公園商圈（高雄市）"
-   ],
-   "body_chars": 1830,
-   "image": null,
-   "image_checked": true,
-   "date_hint": "2026-11-14",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ctee.com.tw/news/20261121700238-439902": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-21T03:00+08:00",
-   "site_name": "工商時報",
-   "description": "林口三井Outlet生活圈房價行情熱門社區三井Outlet、機場捷運及大型住宅社區陸續到位，林口三井生活圈已成為大台北重要的自住購屋熱區。房地產專家指出，在自住剛性需求支撐下，房價修正幅度有限，預售屋單價約7至8字頭，中古屋三房總價以2,000萬至2,200萬元為主流。 深耕林口房市17年的永慶不動...",
-   "cities": {
-    "台北市": 2,
-    "新北市": 2,
-    "桃園市": 1
-   },
-   "districts": [],
-   "body_chars": 1261,
-   "image": "https://images.ctee.com.tw/newsphoto/2026-11-21/1024/ALFAC6_PictureItem_Clipping_01_4.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-21",
-   "date_hint_from": "原文時間"
-  },
   "https://news.cts.com.tw/cts/life/202611/202611113099843.html": {
    "checked_at": "2026-11-22T15:09+08:00",
    "status": 200,
@@ -642,25 +273,6 @@
    "date_hint": "2026-11-11",
    "date_hint_from": "原文時間"
   },
-  "https://www.ettoday.net/news/20261110/3269600.htm": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-10T14:17+08:00",
-   "site_name": "ETtoday新聞雲",
-   "description": "「2026東區週年慶，東區Here We Go(購)」即日起至11月22日期間，只要在東區140家以上特約店家單筆消費滿300元，就能兌換摸彩券1張，有機會把256GB iPhone 18 Pro帶回家，千項好禮總獎值更突破100萬元。社區好鄰居「永慶房屋」今年也再度出人出力，力挺東區商圈。",
-   "cities": {
-    "台北市": 11,
-    "高雄市": 5
-   },
-   "districts": [
-    "東區商圈（台北市）"
-   ],
-   "body_chars": 1603,
-   "image": "https://cdn2.ettoday.net/images/9008/e9008883.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-10",
-   "date_hint_from": "原文時間"
-  },
   "https://www.rti.org.tw/news?uid=3&pid=990616": {
    "checked_at": "2026-11-22T15:09+08:00",
    "status": 200,
@@ -675,122 +287,6 @@
    "image": "https://d1qd3zoyy91a2c.cloudfront.net/image/rti/images/listimg/2026/11/large/20261028000031.jpg",
    "image_checked": true,
    "date_hint": "2026-11-09",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/newspapers/20261118000572-260106": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-18T04:10+08:00",
-   "site_name": "中時新聞網",
-   "description": "中聯油脂停工，食品通路出現沙拉油荒，售價貴桑桑。食品業者透露，沙拉油11月已斷貨，別說漲價，現在是有錢還買不到；鄰近竹南科學園區的餐飲業者更透露，沙拉油斷貨，炒菜只好用「耐炸油」，由於市場食用油都缺貨，",
-   "cities": {},
-   "districts": [],
-   "body_chars": 566,
-   "image": "https://images.chinatimes.com/newsphoto/2026-11-18/656/B07A00_P_06_02.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-18",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cdns.com.tw/articles/1490595": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-14T19:39+08:00",
-   "site_name": "中華新聞雲 / China Daily News",
-   "description": "記者陳佳伶∕台南報導 二０二六台南購物節買氣持續升溫，消費登錄金額突破四十億元，經發局宣布，為延續熱潮和文化局合作推出全新的「文化專屬抽」，鼓勵民眾走訪台南文化景點、支持在地文創產業，有機會抽中台南特色文創及工藝好禮。 經發局說，台南購物節希望透過活動串聯百貨量販、在地商圈、特色店家及觀光文化資源，讓購物人潮走進城市各",
-   "cities": {
-    "台南市": 20
-   },
-   "districts": [
-    "在地商圈（南投縣）"
-   ],
-   "body_chars": 555,
-   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/14204652/U91017a-20261114160930441-0-1024x666.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-14",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.businesstoday.com.tw/article/category/183030/post/202611080011/": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T18:30+08:00",
-   "site_name": "今周刊",
-   "description": "油荒！沙拉油缺貨！食用油漲價！食用油漲價了！小吃店用的油，從800、900元，短短一個月內漲到到破千元，讓不少業者苦不堪言。\r\n\r\n綜合媒體報導，先前中聯油被驗出致癌物後遭勒令停工，導致市面上的沙拉油、耐炸油嚴重缺貨，價格也跟著上漲，加上9月開學後團膳需求增加，缺口則慢慢反映至餐飲業。\r\n\r\n面對油荒困境，台南餐飲業者",
-   "cities": {
-    "台南市": 5,
-    "台北市": 1
-   },
-   "districts": [],
-   "body_chars": 1229,
-   "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/194919/222_20261108181903.jpg_600x450.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://edb.tycg.gov.tw/News_Content.aspx?n=3749&s=1969810": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-11T00:00+08:00",
-   "site_name": "桃園市政府經濟發展局",
-   "description": null,
-   "cities": {
-    "桃園市": 19
-   },
-   "districts": [
-    "魅力金三角商圈（桃園市）"
-   ],
-   "body_chars": 1146,
-   "image": "https://ws.tycg.gov.tw/001/Upload/57/relpic/9954/1969810/bf808d5b-63a9-4dbc-b65d-378183856652@710x470.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-11",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.chinatimes.com/realtimenews/20261108002020-260405": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T16:02+08:00",
-   "site_name": "中時新聞網",
-   "description": "中聯油脂因致癌油事件被勒令停工，至今無法復工，由於其市占率高達3成，長期無法開工導致食用沙拉油短缺，一名高雄網友驚呼，原本南部還買得到一片80元的雞排，但因缺油的關係，最近雞排、各種炸物價格蠢蠢欲動，恐",
-   "cities": {
-    "高雄市": 6,
-    "台北市": 1
-   },
-   "districts": [],
-   "body_chars": 807,
-   "image": "https://images.chinatimes.com/newsphoto/2026-07-15/656/20260715003617.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://newsdaily.tw/news/wuqtpu3u7er": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-11T14:49+08:00",
-   "site_name": "記者新聞網",
-   "description": "食用油會不會缺貨、價格會不會上漲，引發民眾關注!台南市政府今天攜手台糖公司宣布擴大沙拉油供應，透過增加黃豆採購、粗油精煉及代工包裝三大措施，每月總供應量可達1,792公噸，其中新增供應約492公噸。市長黃偉哲也提醒，台糖沙拉油不添加防腐劑，不適合長期囤放，呼籲民眾理性採購，市府也將嚴查囤積及哄抬價格行為。",
-   "cities": {
-    "台南市": 9
-   },
-   "districts": [],
-   "body_chars": 1367,
-   "image": "https://media.newsdaily.tw/uploads/2026/11/1794379810274-4fv4jt.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-11",
-   "date_hint_from": "原文時間"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5637183": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-11T15:58+08:00",
-   "site_name": "自由時報電子報",
-   "description": "近期食用油供貨及價格波動引發關注，台南市政府今（11）日與台糖公司宣布擴大沙拉油供應，透過增加黃豆採購、自行壓榨精煉、外購粗油及協助同業代工等方式，預計每月可供應1792公噸沙拉油。市府也已啟動通路訪查，不排除市場有囤貨居奇情形，必要時將結合消保及司法力量查察，防止業者藉機哄抬價格。台南市長黃偉哲表示，國內每月食用油消",
-   "cities": {
-    "台南市": 8
-   },
-   "districts": [],
-   "body_chars": 890,
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/11/5637183_1_1.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-11",
    "date_hint_from": "原文時間"
   },
   "https://www.ftvnews.com.tw/shortvideo/detail/OYVHjNJbrWk": {
@@ -812,212 +308,6 @@
    "image": "https://www.cts.com.tw/data/news/photo/cts/202611/202611083098664.jpg",
    "image_checked": true,
    "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.contentplatform.info/articles/579035/%E8%A5%BF%E6%AD%A6%E5%9C%92%E9%81%8A%E6%A8%82%E5%9C%92%E6%98%AD%E5%92%8C%E5%95%86%E5%BA%97%E8%A1%97%E8%80%B6%E8%AA%95%E6%B4%BB%E5%8B%9511-26%E8%B5%B7%E3%80%80%E7%87%88%E9%A3%BE%E8%88%9E%E8%B9%88/": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-17T10:58+08:00",
-   "site_name": "報新聞 Mega News",
-   "description": "西武園遊樂園「ノスタルジック・クリスマス」11月26日至12月25日商店街燈飾舞蹈秀每天16時30分起，約15分鐘烤雞盤配奶油蘇打為2,900日圓（約新台幣600元），12月3日起販售",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1006,
-   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/17105138/jp-prt-11571-1017-1-261117025136919.jpeg",
-   "image_checked": true,
-   "date_hint": "2026-11-17",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.cna.com.tw/news/ahel/202611110163.aspx": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-11T14:49+08:00",
-   "site_name": "中央社 CNA",
-   "description": "食用油短缺引起價格波動，台糖今天宣布將透過增加採購、精煉與代工等多重管道，預定每月供應1792公噸沙拉油，確保食用油供應穩定，避免造成民生物價波動。",
-   "cities": {
-    "台南市": 2
-   },
-   "districts": [],
-   "body_chars": 663,
-   "image": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20261111/1019x535_20861552186.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-11",
-   "date_hint_from": "原文時間"
-  },
-  "https://n.yam.com/Article/20261108273505": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T15:15+08:00",
-   "site_name": "蕃新聞",
-   "description": "【記者 簡伊伶／臺中報導】因應國內沙拉油供應短缺，臺中市政府採取多項措施，包括協調中央擴大供應、增加",
-   "cities": {
-    "台中市": 8
-   },
-   "districts": [],
-   "body_chars": 930,
-   "image": "https://ni.yam.com/20261108/taichung-3409455-1-378a99c06f596e8f.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/hotspot/xWm69": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "LINE TODAY",
-   "description": "中聯停工致沙拉油缺貨、桶裝破千元難買；全台供應吃緊業者喊苦、尾牙年菜恐調價；不肖業者趁機囤貨哄抬價格，地方政府嚴查；經濟部協調業者增產並擴大...",
-   "cities": {
-    "台南市": 3,
-    "高雄市": 1,
-    "屏東縣": 1
-   },
-   "districts": [],
-   "body_chars": 1080,
-   "image": "https://today-obs.line-scdn.net/0h_4YqgSJiABtkCByMXE5_TDZeA3RXZBMYAD5RLxoJF0MsRwQxBwkHLTRVG1U8UEc2BxJHLR54XVAWWE8mKgVPHCR_G3ssbRsdBw0MFQprGkACSBsdPW8J/w1200",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://finance.biggo.com.tw/news/22214231-b904-4b11-a74d-4fc0cb686ebf": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T17:05+08:00",
-   "site_name": "BigGo 財經",
-   "description": "西班牙強制榨油廠將每月產量的12%、約188,000噸橄欖油移出市場，存放至2027年9月30日。這是馬德里當局首度動用這項工具，主因期初庫存（357,040噸）加上預估產量…",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1163,
-   "image": "https://img.biggo.com/LxCtj3DVX8HKaxmYlQeasuQGh2CS4L3B2iG5j1xTpHE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzIyMjE0MjMxLWI5MDQtNGIxMS1hNzRkLTRmYzBjYjY4NmViZl8xNzk0MTI5MjExX2RlZmF1bHQuanBn.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-08/2519581.html": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-08T14:54+08:00",
-   "site_name": "壹電視",
-   "description": "隨著北方冷空氣南下，入秋以來最強一波東北季風即將報到，接下來台灣氣溫一路溜滑梯，北部、宜蘭降溫幅度超過10度。桶裝沙拉油缺貨，價格飆漲，從半年前的800元飆破千元，台南小吃店、餐飲業者叫苦。",
-   "cities": {
-    "台南市": 7,
-    "宜蘭縣": 2,
-    "雲林縣": 1
-   },
-   "districts": [],
-   "body_chars": 568,
-   "image": "https://image.nexttv.com.tw/material/news/img/2026/11/20261108145319uidp.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-08",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.taichung.gov.tw/3409455/post": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "臺中市政府全球資訊網",
-   "description": "中市府解沙拉油缺口！協調擴產、促進口、加強稽查　嚴格把關合格油品重新上架",
-   "cities": {
-    "台中市": 3
-   },
-   "districts": [],
-   "body_chars": 1207,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://www.setn.com/news/1942480": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-21T05:57+08:00",
-   "site_name": "三立新聞網",
-   "description": "桃園國際機場第二航廈地下二樓，擁有美食區與一些櫃位品牌。今（20）日晚間地下二樓發生水管破裂事件，水一度不斷流出導致地上多處積水，只見維修人員急忙搶修、清潔人員清理地板，現場也放小心地滑標示、維護隔板；約大概有五、六家店面因積水不能營業，現場民眾表示，要去部分區域買東西，但不能過去。",
-   "cities": {
-    "桃園市": 6,
-    "南投縣": 3,
-    "新北市": 2,
-    "彰化縣": 2,
-    "台中市": 1
-   },
-   "districts": [
-    "西門町商圈（台北市）"
-   ],
-   "body_chars": 1262,
-   "image": "https://attach.setn.com/newsimages/2026/11/20/5796518-PH.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-21",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/posts/list/article/Kw7mLrN": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "LINE TODAY",
-   "description": "1則貼文 | 快來參與LINE TODAY討論牆上的討論 | 台糖粗油採購案流標！市場吃緊 沙拉油缺口難補",
-   "cities": {},
-   "districts": [],
-   "body_chars": 116,
-   "image": "https://today-obs.line-scdn.net/0hV88IOlmPCRcFMBWWF3t2QD1mBWY2VhMeJ1cUdXA5UyUhHE8VbFRadCA0Uzt7CBkSJVNPcSE5VyB6AE8SMQ/w1200",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://today.line.me/tw/v3/posts/list/article/QwBWXR0": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "LINE TODAY",
-   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 中聯油脂致癌物超標油外流擴大　晶華、王品等餐飲品牌受影響",
-   "cities": {},
-   "districts": [],
-   "body_chars": 122,
-   "image": "https://today-obs.line-scdn.net/0hRubmi8WODVpfFBF7C61yDWdCAStschdTfXcVaykSAGogOBhcNiZeOXoVVXYhIE5ef3pFaSgTWmonLBpZZw/w1200",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://today.line.me/tw/v3/posts/list/article/1DPngD9": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "LINE TODAY",
-   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 中聯停工掀沙拉油荒！ 恐衝擊「尾牙、年菜」釀價漲",
-   "cities": {},
-   "districts": [],
-   "body_chars": 118,
-   "image": "https://today-obs.line-scdn.net/0hLM--ksIJE2IQVA_j4dNsNSgCHxMjMglrMmZbDGVQGlRoeFZne2VAAWcHTU40Y1Q8MGBeBz1SGlI1Nl1mKw/w1200",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://money.udn.com/money/story/7307/9861923?from=edn_newest_index": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-06T14:14+08:00",
-   "site_name": "經濟日報",
-   "description": "近期部分餐飲業者及傳統市場攤商反映桶裝沙拉油供應不足，台南市政府掌握食用油供需情形，協調上游製造商及供應通路調度貨源。經發局指出，經濟部已協調大統益、長輝及台糖等業者增產，每月合計增加4400噸沙拉油供應量，市府也配合中央供需媒合機制，協助有需求的業者取得貨源，維持市場供應穩定。",
-   "cities": {
-    "台南市": 4
-   },
-   "districts": [],
-   "body_chars": 1185,
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35492385.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600",
-   "image_checked": true,
-   "date_hint": "2026-11-06",
-   "date_hint_from": "原文時間"
-  },
-  "https://finance.sina.cn/2026-11-20/detail-inizkizm0344108.d.html?vt=4": {
-   "checked_at": "2026-11-21T07:17+08:00",
-   "status": 200,
-   "published_at": "2026-11-20T14:47+08:00",
-   "site_name": "手机新浪网",
-   "description": "中新网泰州11月20日电 题：泰州海归青年老街卖早茶：守住老味道 开辟新赛道记者 常慕城清晨时分，泰州市海陵区涵西街烟火渐盛。袅袅热气从沿街的“老泰州”店铺升腾而起，蟹黄包、烫干丝、鱼汤面的鲜香萦绕街巷，氤氲出地道的泰州市井烟火。涵西街因水运繁华而起，是泰州家",
-   "cities": {},
-   "districts": [],
-   "body_chars": 1003,
-   "image": "https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-20",
    "date_hint_from": "原文時間"
   },
   "https://www.msn.com/zh-tw/news/other/%E6%A1%83%E6%A9%9F%E5%82%B3%E7%81%BD%E6%83%85-%E4%BA%8C%E8%88%AA%E6%B0%B4%E7%AE%A1%E7%A0%B4%E8%A3%82-%E7%BE%8E%E9%A3%9F%E8%A1%97-%E4%B8%8B%E7%80%91%E5%B8%83%E9%9B%A8-%E6%85%98%E6%B7%B9%E6%B0%B4/ar-AA2hRq4d": {
@@ -10420,6 +9710,570 @@
    "image": "https://cdn2.ettoday.net/images/9030/e9030503.jpg",
    "image_checked": true,
    "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://sunmedia.tw/news/collaborative/bmSlYsvnt9ZoK2uvI0VjRm19SNNTsIK86gdKNKfTQlvbN2GykL2L67tw6yey2nuwQ5Wjxs8eEe9BG5qrB": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T10:41+08:00",
+   "site_name": "商傳媒",
+   "description": "桃園3大商圈獲中央肯定 經發局：持續投入振興與轉型資源",
+   "cities": {
+    "桃園市": 17
+   },
+   "districts": [
+    "魅力金三角商圈（桃園市）"
+   ],
+   "body_chars": 965,
+   "image": "https://twline365.com/wp-content/uploads/s__357605385_0_result.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.businesstoday.com.tw/article/category/183032/post/202611050023/": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-05T15:11+08:00",
+   "site_name": "今周刊",
+   "description": "謝金河女兒謝盈盈、阿嬤的家A Ma De Jia 2026首屆藝術博覽會、阿嬤的家時間12/11-12/20在雲林西螺登場，策展人謝盈盈笑道：「藝術品在老房子內很有感覺，很多人告訴我這樣很酷，其實在國外很多人做。」她觀察全台有很多老房子，她也決定延續這次的好評，催生了首屆全新藝術博覽會《阿嬤的家》，將於2026年12月",
+   "cities": {
+    "台北市": 3,
+    "雲林縣": 3,
+    "台中市": 1,
+    "台南市": 1
+   },
+   "districts": [],
+   "body_chars": 2024,
+   "image": "https://doqvf81n9htmm.cloudfront.net/data/petra_284/110500(1).jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-05",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261108449966": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T13:16+08:00",
+   "site_name": "蕃新聞",
+   "description": "報新聞/編輯部台中市政府交通局為行人安全再添科技助力！近來很多到新光三越、大遠百商圈周邊消費、觀光的",
+   "cities": {
+    "台中市": 2
+   },
+   "districts": [],
+   "body_chars": 1324,
+   "image": "https://ni.yam.com/20261108/taichung-cover-261108043217761-7dd2d5bb9b76c17a.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/newspapers/20261112000579-260204": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T04:10+08:00",
+   "site_name": "中時新聞網",
+   "description": "臺南市玉秀雙語國小積極整合地方資源，透過雙語教育、跨域課程與社區參與，建立校園與在地商圈合作新模式，10月30日舉辦萬聖節英語與社區踩街活動，串聯鹽水14家商家，將英語學習延伸至真實生活場域，不僅展現雙語教",
+   "cities": {
+    "台南市": 2
+   },
+   "districts": [
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 540,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-12/656/A40A00_P_03_02.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://17news.net/archives/345622": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T20:10+08:00",
+   "site_name": "17news民生好報",
+   "description": "【記者林文強/台北報導】",
+   "cities": {
+    "台北市": 3,
+    "新北市": 2,
+    "嘉義縣": 2,
+    "台南市": 1,
+    "彰化縣": 1
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）",
+    "縣府太子商圈（嘉義縣）",
+    "鹽水商圈（台南市）",
+    "小琉球商圈（屏東縣）"
+   ],
+   "body_chars": 614,
+   "image": "https://17news.net/wp-content/uploads/2026/11/25e56216b327c43.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://more-news.tw/765408/": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T11:58+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "桃園市魅力金三角商圈榮奪「亮點觀光獎」。圖：經發局提供 由經濟部商業發展署主辦的「2026全國卓越商圈獎」昨( […]",
+   "cities": {
+    "桃園市": 17,
+    "嘉義市": 2
+   },
+   "districts": [
+    "魅力金三角商圈（桃園市）"
+   ],
+   "body_chars": 1009,
+   "image": "https://i0.wp.com/twline365.com/wp-content/uploads/s__357605385_0_result.webp?fit=1100%2C983&ssl=1",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://taiwanreports.com/archives/1025433": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T17:19+08:00",
+   "site_name": "臺灣導報",
+   "description": "【記者徐玉英桃園報導】由經濟部商業發展署主辦的「2026全國卓越商圈獎」日前舉行頒獎典禮，桃園市三大商圈表現亮眼，包括桃園市魅力金三角商圈榮奪「亮點觀光獎 .......繼續閱讀",
+   "cities": {
+    "桃園市": 19,
+    "高雄市": 1
+   },
+   "districts": [
+    "魅力金三角商圈（桃園市）"
+   ],
+   "body_chars": 1000,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ctee.com.tw/news/20261112700352-439901": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-12T03:00+08:00",
+   "site_name": "工商時報",
+   "description": "臺南市玉秀雙語國小積極整合地方資源，透過雙語教育、跨域課程與社區參與，建立校園與在地商圈合作新模式，10月30日舉辦萬聖節英語與社區踩街活動，串聯鹽水14家商家，將英語學習延伸至真實生活場域，不僅展現雙語教育生活化成果，更透過學校與地方產業互動，為商圈注入節慶活力，開創教育與地方共榮新契機。 隨著雙...",
+   "cities": {
+    "台南市": 2
+   },
+   "districts": [
+    "在地商圈（南投縣）"
+   ],
+   "body_chars": 671,
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-12/1024/A40AC4_PictureItem_Clipping_03_4.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-12",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.myhousing.com.tw/l/l04/308138/": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.chinatimes.com/newspapers/20261124000287-260210": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-24T04:10+08:00",
+   "site_name": "中時新聞網",
+   "description": "高雄演唱會經濟再攀巔峰。韓國天團BTS於19、21、22日在高雄世運主場館舉辦世界巡迴演唱會，不僅門票秒殺，場內外更累計吸引高達30萬人次湧入港都。根據高雄市觀光局最新統計，BTS三場演唱會即為高雄創造約10億元的龐",
+   "cities": {
+    "高雄市": 12
+   },
+   "districts": [],
+   "body_chars": 476,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-24/656/A06A00_P_04_02.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://more-news.tw/766052/": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T19:58+08:00",
+   "site_name": "墨新聞 MORE News",
+   "description": "▲2026全國卓越商圈獎頒獎典禮受邀貴賓、縣市政府代表及獲獎商圈代表共同合影。(圖／中衛發展中心提供) 【焦點 […]",
+   "cities": {
+    "新北市": 4,
+    "嘉義": 4,
+    "台南市": 2,
+    "彰化縣": 2,
+    "屏東縣": 2
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）",
+    "縣府太子商圈（嘉義縣）",
+    "鹽水商圈（台南市）",
+    "小琉球商圈（屏東縣）"
+   ],
+   "body_chars": 1429,
+   "image": "https://focus.586.com.tw/wp-content/uploads/2026/11/81.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/local/4051975": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-17T18:27+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "一組由智利籍人士組成的竊盜集團近日在台北落網，成員包括一對情侶檔及女方的哥哥共3人。該集團專門鎖定台北捷運板南線犯案，利用分工合作方式竊取乘客財物，手法細膩讓被害人難以察覺，3人落網後已遭限制出境。",
+   "cities": {
+    "台北市": 13,
+    "新北市": 4,
+    "桃園市": 1,
+    "彰化縣": 1
+   },
+   "districts": [
+    "永康商圈（台北市）",
+    "九份老街商圈（新北市）"
+   ],
+   "body_chars": 2811,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1e8cd-65b8-722d-8bf4-25d74448e90b.jpg?t=16x9&wp=l,t&c=0,44,1100,663&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-11-17",
+   "date_hint_from": "原文時間"
+  },
+  "https://ocacnews.net/article/433828": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T18:00+08:00",
+   "site_name": null,
+   "description": "「2026高雄聖誕生活節」13日在中央公園登場，連5個週末推主題市集，結合特色美食、節慶市集、音樂演出及燈飾，串聯商圈，帶動歲末消費商機。",
+   "cities": {
+    "高雄市": 12
+   },
+   "districts": [
+    "在地商圈（南投縣）",
+    "中央公園商圈（高雄市）"
+   ],
+   "body_chars": 616,
+   "image": "https://ocacnews.net/storage/articleImages/20261110/M2_cmYP5XkcWKLRgQKn3T71lad5AcFpXkX6SIMa6aT3.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/newspapers/20261118000572-260106": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-18T04:10+08:00",
+   "site_name": "中時新聞網",
+   "description": "中聯油脂停工，食品通路出現沙拉油荒，售價貴桑桑。食品業者透露，沙拉油11月已斷貨，別說漲價，現在是有錢還買不到；鄰近竹南科學園區的餐飲業者更透露，沙拉油斷貨，炒菜只好用「耐炸油」，由於市場食用油都缺貨，",
+   "cities": {},
+   "districts": [],
+   "body_chars": 566,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-18/656/B07A00_P_06_02.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-18",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.epochtimes.com.tw/n518318/%E4%B8%AD%E8%81%AF%E5%81%9C%E5%B7%A5%E9%87%80%E7%BC%BA%E5%8F%A3-%E5%8F%B0%E7%B3%96%E7%BE%8E%E8%B1%86%E6%B2%B9%E9%96%8B%E8%B3%A3.html": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 502,
+   "error": "HTTP Error 502: Bad Gateway"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/GgN7E3L": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 沙拉油何時穩供？經部：11月中旬起逐步到貨 年底前穩定增加供應",
+   "cities": {},
+   "districts": [],
+   "body_chars": 125,
+   "image": "https://today-obs.line-scdn.net/0haO6nzAbjPmALFyMFqoNBNzNBMhE4cSRpKSEhAioVZlMnO35lNnltAypDZEwvLnxiKyJ2VipEYQUuJyxjYg/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://today.line.me/tw/v3/posts/list/article/5y1mE7y": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 迎節慶旺季！全球最大買家印度食用油進口7至10月將激增",
+   "cities": {},
+   "districts": [],
+   "body_chars": 121,
+   "image": "https://today-obs.line-scdn.net/0hBKsl6l35HWROFQFjzthiM3ZDERV9cwdtbHtXBGhAQVE2OQ03JntOBzkXREgwJQ87bnYGBDxCRwRrdVhlcQ/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.ettoday.net/news/20261110/3269600.htm": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-10T14:17+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "「2026東區週年慶，東區Here We Go(購)」即日起至11月22日期間，只要在東區140家以上特約店家單筆消費滿300元，就能兌換摸彩券1張，有機會把256GB iPhone 18 Pro帶回家，千項好禮總獎值更突破100萬元。社區好鄰居「永慶房屋」今年也再度出人出力，力挺東區商圈。",
+   "cities": {
+    "台北市": 11,
+    "高雄市": 5
+   },
+   "districts": [
+    "東區商圈（台北市）"
+   ],
+   "body_chars": 1566,
+   "image": "https://cdn2.ettoday.net/images/9008/e9008883.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-10",
+   "date_hint_from": "原文時間"
+  },
+  "https://edb.tycg.gov.tw/News_Content.aspx?n=3749&s=1969810": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T00:00+08:00",
+   "site_name": "桃園市政府經濟發展局",
+   "description": null,
+   "cities": {
+    "桃園市": 19
+   },
+   "districts": [
+    "魅力金三角商圈（桃園市）"
+   ],
+   "body_chars": 1146,
+   "image": "https://ws.tycg.gov.tw/001/Upload/57/relpic/9954/1969810/bf808d5b-63a9-4dbc-b65d-378183856652@710x470.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.moneyweekly.com.tw/Home/ChangePage/Article/264316/?Type=3&Line=Home_ArticleSet_103&Page=FCE914305A6531AB6432D7582FBD3210ED807EA1EE4F0EF46B3AD8D7E7A5E9BC32044E43358EF7BE3FFE2B65D95AA3586B10D937329E59C7ED705BACED8B4A93BD912BF951D1FBBCD80C0A736A30F986A1455562434D657A85A3E1709B59167E9BEE9B2534086EF8A781C32F1CBAE04CF19894B679F6BB51E0E34B8F7CFFFA198295EEC1FB7D444C8F2551E36CB45DC08AF81766A7AC59231682F479E9C039DCCB73601AFD9C0D97A5EB944A6539B6E007E1689CC494017F69B44D6D1AAB747B3BC872A619A7694DF665CE68CF39AEAD00E3915FA073F107": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-23T18:15+08:00",
+   "site_name": null,
+   "description": null,
+   "cities": {
+    "新北市": 2,
+    "台北市": 1
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）"
+   ],
+   "body_chars": 1809,
+   "image": null,
+   "image_checked": true,
+   "date_hint": "2026-11-23",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.businesstoday.com.tw/article/category/183030/post/202611080011/": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T18:30+08:00",
+   "site_name": "今周刊",
+   "description": "油荒！沙拉油缺貨！食用油漲價！食用油漲價了！小吃店用的油，從800、900元，短短一個月內漲到到破千元，讓不少業者苦不堪言。\r\n\r\n綜合媒體報導，先前中聯油被驗出致癌物後遭勒令停工，導致市面上的沙拉油、耐炸油嚴重缺貨，價格也跟著上漲，加上9月開學後團膳需求增加，缺口則慢慢反映至餐飲業。\r\n\r\n面對油荒困境，台南餐飲業者",
+   "cities": {
+    "台南市": 5,
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 1229,
+   "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/194919/222_20261108181903.jpg_600x450.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5637183": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T15:58+08:00",
+   "site_name": "自由時報電子報",
+   "description": "近期食用油供貨及價格波動引發關注，台南市政府今（11）日與台糖公司宣布擴大沙拉油供應，透過增加黃豆採購、自行壓榨精煉、外購粗油及協助同業代工等方式，預計每月可供應1792公噸沙拉油。市府也已啟動通路訪查，不排除市場有囤貨居奇情形，必要時將結合消保及司法力量查察，防止業者藉機哄抬價格。台南市長黃偉哲表示，國內每月食用油消",
+   "cities": {
+    "台南市": 8
+   },
+   "districts": [],
+   "body_chars": 890,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/11/5637183_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261108273505": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T15:15+08:00",
+   "site_name": "蕃新聞",
+   "description": "【記者 簡伊伶／臺中報導】因應國內沙拉油供應短缺，臺中市政府採取多項措施，包括協調中央擴大供應、增加",
+   "cities": {
+    "台中市": 8
+   },
+   "districts": [],
+   "body_chars": 938,
+   "image": "https://ni.yam.com/20261108/taichung-3409455-1-378a99c06f596e8f.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.chinatimes.com/realtimenews/20261108002020-260405": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T16:02+08:00",
+   "site_name": "中時新聞網",
+   "description": "中聯油脂因致癌油事件被勒令停工，至今無法復工，由於其市占率高達3成，長期無法開工導致食用沙拉油短缺，一名高雄網友驚呼，原本南部還買得到一片80元的雞排，但因缺油的關係，最近雞排、各種炸物價格蠢蠢欲動，恐",
+   "cities": {
+    "高雄市": 6,
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 807,
+   "image": "https://images.chinatimes.com/newsphoto/2026-07-15/656/20260715003617.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://newsdaily.tw/news/wuqtpu3u7er": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T14:49+08:00",
+   "site_name": "記者新聞網",
+   "description": "食用油會不會缺貨、價格會不會上漲，引發民眾關注!台南市政府今天攜手台糖公司宣布擴大沙拉油供應，透過增加黃豆採購、粗油精煉及代工包裝三大措施，每月總供應量可達1,792公噸，其中新增供應約492公噸。市長黃偉哲也提醒，台糖沙拉油不添加防腐劑，不適合長期囤放，呼籲民眾理性採購，市府也將嚴查囤積及哄抬價格行為。",
+   "cities": {
+    "台南市": 9
+   },
+   "districts": [],
+   "body_chars": 1367,
+   "image": "https://media.newsdaily.tw/uploads/2026/11/1794379810274-4fv4jt.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/hotspot/xWm69": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "中聯停工致沙拉油缺貨、桶裝破千元難買；全台供應吃緊業者喊苦、尾牙年菜恐調價；不肖業者趁機囤貨哄抬價格，地方政府嚴查；經濟部協調業者增產並擴大...",
+   "cities": {
+    "台南市": 3,
+    "高雄市": 1,
+    "屏東縣": 1
+   },
+   "districts": [],
+   "body_chars": 1080,
+   "image": "https://today-obs.line-scdn.net/0h_4YqgSJiABtkCByMXE5_TDZeA3RXZBMYAD5RLxoJF0MsRwQxBwkHLTRVG1U8UEc2BxJHLR54XVAWWE8mKgVPHCR_G3ssbRsdBw0MFQprGkACSBsdPW8J/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://finance.biggo.com.tw/news/22214231-b904-4b11-a74d-4fc0cb686ebf": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T17:05+08:00",
+   "site_name": "BigGo 財經",
+   "description": "西班牙強制榨油廠將每月產量的12%、約188,000噸橄欖油移出市場，存放至2027年9月30日。這是馬德里當局首度動用這項工具，主因期初庫存（357,040噸）加上預估產量…",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1163,
+   "image": "https://img.biggo.com/LxCtj3DVX8HKaxmYlQeasuQGh2CS4L3B2iG5j1xTpHE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzIyMjE0MjMxLWI5MDQtNGIxMS1hNzRkLTRmYzBjYjY4NmViZl8xNzk0MTI5MjExX2RlZmF1bHQuanBn.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/news/ahel/202611110163.aspx": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-11T14:49+08:00",
+   "site_name": "中央社 CNA",
+   "description": "食用油短缺引起價格波動，台糖今天宣布將透過增加採購、精煉與代工等多重管道，預定每月供應1792公噸沙拉油，確保食用油供應穩定，避免造成民生物價波動。",
+   "cities": {
+    "台南市": 2
+   },
+   "districts": [],
+   "body_chars": 663,
+   "image": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20261111/1019x535_20861552186.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-11",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/QwBWXR0": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 中聯油脂致癌物超標油外流擴大　晶華、王品等餐飲品牌受影響",
+   "cities": {},
+   "districts": [],
+   "body_chars": 122,
+   "image": "https://today-obs.line-scdn.net/0hRubmi8WODVpfFBF7C61yDWdCAStschdTfXcVaykSAGogOBhcNiZeOXoVVXYhIE5ef3pFaSgTWmonLBpZZw/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-08/2519581.html": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-08T14:54+08:00",
+   "site_name": "壹電視",
+   "description": "隨著北方冷空氣南下，入秋以來最強一波東北季風即將報到，接下來台灣氣溫一路溜滑梯，北部、宜蘭降溫幅度超過10度。桶裝沙拉油缺貨，價格飆漲，從半年前的800元飆破千元，台南小吃店、餐飲業者叫苦。",
+   "cities": {
+    "台南市": 7,
+    "宜蘭縣": 2,
+    "雲林縣": 1
+   },
+   "districts": [],
+   "body_chars": 568,
+   "image": "https://image.nexttv.com.tw/material/news/img/2026/11/20261108145319uidp.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-08",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.taichung.gov.tw/3409455/post": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "臺中市政府全球資訊網",
+   "description": "中市府解沙拉油缺口！協調擴產、促進口、加強稽查　嚴格把關合格油品重新上架",
+   "cities": {
+    "台中市": 3
+   },
+   "districts": [],
+   "body_chars": 1207,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://today.line.me/tw/v3/posts/list/article/Kw7mLrN": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "1則貼文 | 快來參與LINE TODAY討論牆上的討論 | 台糖粗油採購案流標！市場吃緊 沙拉油缺口難補",
+   "cities": {},
+   "districts": [],
+   "body_chars": 116,
+   "image": "https://today-obs.line-scdn.net/0hV88IOlmPCRcFMBWWF3t2QD1mBWY2VhMeJ1cUdXA5UyUhHE8VbFRadCA0Uzt7CBkSJVNPcSE5VyB6AE8SMQ/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://today.line.me/tw/v3/posts/list/article/1DPngD9": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 中聯停工掀沙拉油荒！ 恐衝擊「尾牙、年菜」釀價漲",
+   "cities": {},
+   "districts": [],
+   "body_chars": 118,
+   "image": "https://today-obs.line-scdn.net/0hLM--ksIJE2IQVA_j4dNsNSgCHxMjMglrMmZbDGVQGlRoeFZne2VAAWcHTU40Y1Q8MGBeBz1SGlI1Nl1mKw/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://money.udn.com/money/story/7307/9861923?from=edn_newest_index": {
+   "checked_at": "2026-11-24T07:17+08:00",
+   "status": 200,
+   "published_at": "2026-11-06T14:14+08:00",
+   "site_name": "經濟日報",
+   "description": "近期部分餐飲業者及傳統市場攤商反映桶裝沙拉油供應不足，台南市政府掌握食用油供需情形，協調上游製造商及供應通路調度貨源。經發局指出，經濟部已協調大統益、長輝及台糖等業者增產，每月合計增加4400噸沙拉油供應量，市府也配合中央供需媒合機制，協助有需求的業者取得貨源，維持市場供應穩定。",
+   "cities": {
+    "台南市": 4
+   },
+   "districts": [],
+   "body_chars": 1272,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35492385.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-06",
    "date_hint_from": "原文時間"
   }
  }

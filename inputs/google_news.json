@@ -1,23 +1,31 @@
 {
- "fetched_at": "2026-11-24T04:23:56+08:00",
+ "fetched_at": "2026-11-24T07:17:36+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 89,
-  "kept": 39,
-  "resolved": 39,
-  "items": 35,
+  "raw": 96,
+  "kept": 38,
+  "resolved": 38,
+  "items": 36,
   "resolve_this_run": {
-   "online": 9
+   "online": 3
   },
   "dropped_old": [
    "台北「淘動漫」大師店開幕 都會商圈卡位與擴大客群（原文日期 2026-07-22）",
-   "信義中繼市場正式動工 謝國樑盼兼顧攤商營運與商圈發展打造市場改建新里程碑（原文日期 2026-10-15）",
-   "宜蘭社大走讀西門老街/串起婚喪喜慶百工與蓪草花藝（原文日期 2026-10-28）",
-   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
+   "宜蘭社大走讀西門老街/串起婚喪喜慶百工與蓪草花藝（原文日期 2026-10-28）"
   ]
  },
  "items": [
+  {
+   "title": "BTS高雄開唱、三天吸10億觀光財旅宿、交通、商圈零售全吃補- 產業特刊- 工商時報",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pbWVWR2Y4RHlpZmpQcW55VFVFQjIySjBSb3AtV05UYzZNOHA0V2xMOXlIMlVDbkNia0VzSFdzdldNN3Z3eDNuMjI0SVVwWkl4aGE1UXZjNEZvWE5ldTVfWDQ0S0hZMlRjQnMw?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-24T04:10+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/newspapers/20261124000287-260210",
+   "resolved": true
+  },
   {
    "title": "東京這條老街有3部影劇足跡！五郎吃鰻魚飯、木村拓哉拍電影都來這",
    "google_url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOYkdRRl96ZjBZek1UMVY0MVZ2cUxuQXplalJEVDJnb0xOX19mY3RmY1lVb1pKSkYxRG9DOVNwdzNFM0JGNnNMaFFuOTVRZjdBcDNWWEJXN2J0eGxUQVVLSnItQmkweF9FNTVXRkg1Zm9uOHJOOGZGRHVaYWVTMWI1SGFHQ3dXUG1pWlVub3o1ZUU4YTRJMmNDUDZMT2w2enhEd0tUaGdKVjFiQXMwRWpNVGZzX0ZUNmtvU3pabG9OaGl0WlNpQ0YtQ2dxdEFyNUE4cmpneHFtVjFDd3VKQnlZTnhGOUZSQVFkZzliQXAyR1o4QlliR2J3OGhiZEFLUXF5NFAxZ1ZMRWRiT2F4VmZUUnlHbkhlLUFLQzVNNHNkbXUzYktXQms1cXV6LW1nUGJaRkdBNDhvc0ZUOXc3ZzgzS2JtenpCaW8ycG15cWlfYlJLZEhJc3NhbjRwTE5yRnMyaXBNNE11OFRaVGxaZnFIOEo1OG9aUm9vQWloWldwZE5uX25CQmlaMlRaNkZRbFFqRlJvbWN3VUJaaUlkbURkLURDWWlhMG8yYUh0MUNGQldUeFpVSjdmMFJvZHU?oc=5",
@@ -90,22 +98,22 @@
   },
   {
    "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
-   "google_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQNmZLVTJyN1I1UlJBYzhpVHdKUWRNejZhTlFxa0ljZHRhbEZSVWIwVjRaUmFCemtfTjU5OWljTVdIMzRSMVIzR05PdllWZWtEQXZ3WHJFWlhfSG9qQXg4REZzbW9xalQzU1dDdC1ITWoxOHZfaUNzZzFCd3Nna0t1NUhSVzM4dU5DSmhLT2xvYXRMd1RpaFFqUThjWVluZnQxMzk1SnZHWmpIVnExTEx4QTR0b0c4TW1EUExhLUgtZ0ZVSm15MF9PdEN6Nk8wa1JBNFRjZU5uQVVWYnFUOW42Z1hYdVc4aUpMUUU4dFFsZlJuSFpmZkxqek44dXliYndGaEYxNGFVMTNhampvQlV6eFUtSjYtV0ROTENXUkM1WW02UTlGa2dTSndwMGk4cDZrRTJCT0NDZEQwa2o5UGZ4VmRvWXdYMDQ?oc=5",
-   "source": "https://www.yesmedia.com.tw/",
-   "source_site": "https://www.yesmedia.com.tw",
-   "published_at": "2026-11-23T18:15+08:00",
+   "google_url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxOdXl5dlQzeTJjLTg4X1lYRXJJdVMtbGtuYmRBT21CR2RnLW5Sbm5kOVlta3g0Sy1HSU1kUlVFUzVXdDZkckhGSXNaaDJ1ZmlEOU5HbUJZRHVnUDVaTHcxMG1kU0xTSU9JM19nVXdHRVAyZ1J0N0p2SFI4MjNvSlNrejhDbm5PVnEtZVJmYk4wTUNMMkdiVTIyZWJBM0ZjV0pndzhra2hob1dZVndFUHJld0JwbVZVM3FydFhyZ2pkemNXX0pKZGwzOHlQTDdfUThsZWZLcl9BWG5xcFp3M2VJYWw5Y3RLQVN3d0FNTnduQnQ0eHJ2MW9EZnVkeFl3QVJHMkc3QjN6VWM4R1BMRmtvQ0haaVg0LVhaYm5FYkp1ZWNCQm9kWUR4RGZ3eEp5dkQ5Mi0wc002ZWZZd3A1c1BRWFdLdEVmZ2xqWmtTQmhIOHFkc3VIMVZyS0dNRldibFJWM2dYSFlFeEdkWEV5T0N4UGxTQU9qLTY2RmtRWFV2cUVhZ3o2cUY5a1JadGJoanhFT1QwU3hNOGp4ZG5VNkQ1VlduODZ1NDE3dDh3RHVhbTQzeGNmTVoyODBFcUdZdVVNUjVXamZHdDVBdTBXNm5MQWMzVUQtQ1h0NGt1MnNZUFgyNWdvS2s0TWljLU4zdlMxa3UwOFdhbm0wQTVjemd2VkIzQnNENjc4TUVqMlVxeEx5NHlsWmo5Y0k3Sm9NSXVBaVRENlRUdTZNOUM2bzJKYnAwWFdMOHplc0tjeDNZbEVILXhZVTk2MFE0dElDNWs5UVp1STNCUGM0MzlHbGlwZkR4TWV6LUxLbGVselRKUExJQXRzR0Q2bnlUOU5jT01ETXFxSUFBN3VEcjVJaF9aaExIb3JvZ1RnQjl0YVNaekxCN3h4Q2o4cFN5Zl9jZGFpd2JxS1htZS04NDRDMWllc1I0dDFKcUYwM21sbHNWaDVxRjdYekFrM1dRdEQwM0tzaVE?oc=5",
+   "source": "理財周刊",
+   "source_site": "https://www.moneyweekly.com.tw",
+   "published_at": "2026-11-23T18:20+08:00",
    "query": "商圈",
-   "url": "https://www.yesmedia.com.tw/2026%E5%95%86%E5%9C%88%E7%8B%82%E6%AD%A1%E7%AF%80%E3%80%8C%E8%90%AC%E5%B8%82%E6%85%B6%E8%B1%90%E5%B9%B4%E3%80%8D%E5%85%A8%E8%87%BA%E7%89%B9%E8%89%B2%E5%95%86%E5%9C%88%E9%BD%8A%E8%81%9A%E5%8C%97-2/",
+   "url": "https://www.moneyweekly.com.tw/Home/ChangePage/Article/264316/?Type=3&Line=Home_ArticleSet_103&Page=FCE914305A6531AB6432D7582FBD3210ED807EA1EE4F0EF46B3AD8D7E7A5E9BC32044E43358EF7BE3FFE2B65D95AA3586B10D937329E59C7ED705BACED8B4A93BD912BF951D1FBBCD80C0A736A30F986A1455562434D657A85A3E1709B59167E9BEE9B2534086EF8A781C32F1CBAE04CF19894B679F6BB51E0E34B8F7CFFFA198295EEC1FB7D444C8F2551E36CB45DC08AF81766A7AC59231682F479E9C039DCCB73601AFD9C0D97A5EB944A6539B6E007E1689CC494017F69B44D6D1AAB747B3BC872A619A7694DF665CE68CF39AEAD00E3915FA073F107",
    "resolved": true
   },
   {
-   "title": "北投散場後，誰會再走進商圈？",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kdTlrRl9USjZTU0NsZjRJdl9qQmZLT0ZWR1pkaEtkOVoxUDluZ3Y3ZzdLd3FkSHUtQWg4dlF2bDlwRjBuY05SRi1ONUxGZzVxU3c?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-23T17:32+08:00",
+   "title": "北投散場後，誰會再走進商圈？｜神奇的傑克 - 方格子",
+   "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9COW5Gcm9FaGhYWm9vQWY4UzZFMW9ZWnFOTzVldENZcW5oNm9YdXNZeG1sR2FZVndSejdOcTFNVmFCMnk4T1JhUzJkMGNIT3NubEF0b0JRTHVNV2ttaWgwaUVySdIBY0FVX3lxTE9COW5Gcm9FaGhYWm9vQWY4UzZFMW9ZWnFOTzVldENZcW5oNm9YdXNZeG1sR2FZVndSejdOcTFNVmFCMnk4T1JhUzJkMGNIT3NubEF0b0JRTHVNV2ttaWgwaUVySQ?oc=5",
+   "source": "vocus",
+   "source_site": "https://vocus.cc",
+   "published_at": "2026-11-23T17:40+08:00",
    "query": "商圈",
-   "url": "https://n.yam.com/Article/20261123458922",
+   "url": "https://vocus.cc/article/amp/6b04050afd8978000140c461",
    "resolved": true
   },
   {
@@ -190,12 +198,22 @@
   },
   {
    "title": "宇方圓大隱於市 信義商圈首見2億打造綜合式當代中菜餐廳 | 熱門亮點 | 商情",
-   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEJiVE9sWFp2S2ZYY3BGYmxuT2s1THNEUjhVRDRFZkxCTGVjNEYzRkVTclJZOXpOZTdDTmw2U1ZiRFl6dzktYkV6Mk9kV04wRmhoZGViOUZWT0xfemtKc1V2dEpSanJpNWJLckQ0dlNGYW1WczJDaGdROWVFa0l0OA?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vUkhQZVRiUXY5ZlFyRVR6NHVZdGhFekp6dFZhWUZuNmVUSzE4dFZCZjlnOFlBRDBLNWczYUFDVWdTb0pNeGlIamJkc3hqeVdORURYUURoekNjUQ?oc=5",
    "source": "經濟日報",
    "source_site": "https://money.udn.com",
    "published_at": "2026-11-23T10:03+08:00",
    "query": "商圈",
-   "url": "https://money.udn.com/money/story/5635/9894441?from=edn_related_storybottom",
+   "url": "https://money.udn.com/money/story/5635/9894441",
+   "resolved": true
+  },
+  {
+   "title": "「2026全國卓越商圈獎」20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
+   "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoRlRYNE8xZEhUZXlYT21XbHNZcEJJcmJGa0pUVnFIQ0wyVXVSeHpRa09TM0xlRWRrUWlUTHA1dzJDQmt6Y2ltU0xOaGl3QWRBVnlHZw?oc=5",
+   "source": "住展雜誌",
+   "source_site": "https://www.myhousing.com.tw",
+   "published_at": "2026-11-23T08:55+08:00",
+   "query": "商圈",
+   "url": "https://www.myhousing.com.tw/l/l04/308138/",
    "resolved": true
   },
   {
@@ -356,16 +374,6 @@
    "published_at": "2026-11-22T08:55+08:00",
    "query": "商圈",
    "url": "https://finance.biggo.com.tw/news/1587148d-bb4d-44d5-89cf-6d3f3240befe",
-   "resolved": true
-  },
-  {
-   "title": "「2026全國卓越商圈獎」20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlci1iQmhTemRpU2ZuUFFvUHhyTkNLelByZXZnTlBuUFdnWjlrMHFyVWJ4eDRxRElyejZQZ2pwR1gtVzd3c1hHdVV4SDEwVW5NekE?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-22T07:04+08:00",
-   "query": "商圈",
-   "url": "https://n.yam.com/Article/20261122366050",
    "resolved": true
   }
  ]

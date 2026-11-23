@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T04:24:04+08:00",
+ "updated_at": "2026-11-24T07:17:44+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,24 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "討論牆 | 沙拉油何時穩供？經部：11月中旬起逐步到貨 年底前穩定增加供應",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SZmVZaXFMY28ySkdDU1dlXzFzRFQ3S3NkRzZVZjN1VkxMb3RhTnIyOW9rRUh0ODlXM19JRDlKVE9zUjZxRjNMaW8ydVl5ZnJWd0o3VVRKS3V0cWVWUEN3NloxZWc?oc=5",
+     "source": "LINE TODAY",
+     "published_at": "2026-11-23T23:25+08:00",
+     "url": "https://today.line.me/tw/v3/posts/list/article/GgN7E3L",
+     "resolved": true
+    },
+    {
+     "title": "討論牆 | 迎節慶旺季！全球最大買家印度食用油進口7至10月將激增",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XQlhHLTZ5bkIzUFhEamppbGhrSlE0WFFHa0h1dHljRy1JaFkzcDdlVjNUbTRSZGRjQnZHcnlJUXRSY0dSOGtIaFByS0hiYkFwdzdwMDlRT2lKLVZVdVBvRUk0MlI?oc=5",
+     "source": "LINE TODAY",
+     "published_at": "2026-11-23T00:40+08:00",
+     "url": "https://today.line.me/tw/v3/posts/list/article/5y1mE7y",
+     "resolved": true
+    },
     {
      "title": "沙拉油何時穩供？經部：11月中旬起逐步到貨 年底前穩定增加供應 | 聯合新聞網",
      "kind": "價格動態",
@@ -150,6 +168,15 @@
      "source": "Yahoo新聞",
      "published_at": "2026-11-19T20:31+08:00",
      "url": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8-%E8%AD%B0%E5%93%A1%E7%B1%B2%E8%90%BD%E5%AF%A6%E5%B9%B3%E5%83%B9%E7%9B%B4%E4%BE%9B-123143908.html",
+     "resolved": true
+    },
+    {
+     "title": "中聯停工釀缺口台糖美豆油開賣| 台糖 | 沙拉油| 苯駢芘",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOX2VjNWRlVFM1NGh4Ylh6X3VXNzc4dkF5V2ZkNFF3TmZpbTd5RVlIei1odmNJREd4bDhuazQ0OGhsR2daZ2ZaNGpfOUZDQTRpZ2tlN2g2bFl0VTNsTlRQbC1JTkl5YWJqTHprcFFIOTRmdVR4b3hKemdBRll1dGtsZGN5MlFYeEZSSXZFSjhIVjFLdVpJOVplX09qZ2dVSEN4TVhtV0Y2bTFWb0xlSnZwUVFvUGEzWGhHaGxHdmRhcGpOUTlsSkFfRlJzSmFiRl8tck9JOXpoeno3SGVmSjgtTnQ3WDFxOUFoR18tSWN5eEdZdWhLZmZ5VnN2VkJaQ1U?oc=5",
+     "source": "台灣大紀元",
+     "published_at": "2026-11-19T16:00+08:00",
+     "url": "https://www.epochtimes.com.tw/n518318/%E4%B8%AD%E8%81%AF%E5%81%9C%E5%B7%A5%E9%87%80%E7%BC%BA%E5%8F%A3-%E5%8F%B0%E7%B3%96%E7%BE%8E%E8%B1%86%E6%B2%B9%E9%96%8B%E8%B3%A3.html",
      "resolved": true
     },
     {
