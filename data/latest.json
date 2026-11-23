@@ -1,7 +1,42 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T12:23:13+08:00",
+ "generated_at": "2026-11-23T16:55:46+08:00",
  "items": [
+  {
+   "id": "20261122-beitou-hanayukata",
+   "title": "2026臺北北投花浴衣節在七星街登場，攜手永樂商圈協會與日本舞團",
+   "summary": "報導指臺北市商業處輔導溫泉發展協會辦理北投花浴衣節，22日於七星街登場，今年邀台北市永樂商圈發展協會參與，以塑造新北投溫泉商圈品牌。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-23T12:45:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "新北投溫泉商圈",
+     "priority": true
+    },
+    {
+     "name": "永樂商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "報新聞",
+     "url": "https://www.contentplatform.info/articles/587569/%e5%8c%97%e6%8a%95%e8%8a%b1%e6%b5%b4%e8%a1%a3%e7%af%8011-22%e7%99%bb%e5%a0%b4%e3%80%80%e6%94%9c%e6%89%8b%e6%b0%b8%e6%a8%82%e5%95%86%e5%9c%88%e3%80%81%e6%97%a5%e6%9c%acyosakoi%e8%88%9e%e5%9c%98/",
+     "published_at": "2026-11-23T12:45:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261122798398",
+     "published_at": "2026-11-22T15:20:00+08:00"
+    }
+   ],
+   "admin_note": "新北投溫泉商圈、永樂商圈皆為115年補助名單，活動已辦理並有跨商圈合作，可作為執行佐證參考。",
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/23120029/taipei-cover-261123040025462.jpeg"
+  },
   {
    "id": "20261123-shida-taodongman",
    "title": "「淘動漫」大師店於師大商圈開幕，推出巷弄尋寶活動",
@@ -51,6 +86,31 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/22/35541944.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
+  },
+  {
+   "id": "20261123-district-carnival-beitou",
+   "title": "2026商圈狂歡節「萬市慶豐年」，全臺特色商圈齊聚北投",
+   "summary": "報導指「2026商圈狂歡節－萬市慶豐年」為促進全臺商圈跨區域交流，邀特色商圈齊聚北投展現在地產業特色。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-23T07:32:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "新北投溫泉商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/2026%E5%95%86%E5%9C%88%E7%8B%82%E6%AD%A1%E7%AF%80-%E8%90%AC%E5%B8%82%E6%85%B6%E8%B1%90%E5%B9%B4-%E5%85%A8%E8%87%BA%E7%89%B9%E8%89%B2%E5%95%86%E5%9C%88%E9%BD%8A%E8%81%9A%E5%8C%97%E6%8A%95-230351083.html",
+     "published_at": "2026-11-23T07:32:00+08:00"
+    }
+   ],
+   "image": "https://media.zenfs.com/ca/vigormedia_tw_168/81e92ed8ec61c446fc45e86f75ce4300.jpg"
   },
   {
    "id": "20261118-wanhua-corridor",
@@ -2180,135 +2240,6 @@
     }
    ],
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/09/5634880_1_1.jpg"
-  },
-  {
-   "id": "20261106-dongqu-anniv",
-   "title": "北市東區周年慶登場，140多家店家推消費滿額抽獎",
-   "summary": "東區周年慶即日起登場，串聯逾140家商圈店家、百貨與餐飲業者，單筆滿300元可獲抽獎券；市長出席啟動儀式並談商圈建設經費。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-09T13:47:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "東區商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "好房網News",
-     "url": "https://news.housefun.com.tw/news/article/135094490873.html",
-     "published_at": "2026-11-09T13:47:00+08:00"
-    },
-    {
-     "outlet": "中央社",
-     "url": "https://www.cna.com.tw/business/chinese/449440",
-     "published_at": "2026-11-09T03:06:00+08:00"
-    },
-    {
-     "outlet": "匯流新聞網",
-     "url": "https://cnews.com.tw/%E6%9D%B1%E5%8D%80%E9%80%B1%E5%B9%B4%E6%85%B6%E7%9B%9B%E5%A4%A7%E9%96%8B%E8%B7%91%E3%80%80%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98%E5%8A%9B%E6%8C%BA%E5%95%86%E5%9C%88%E6%8C%AF%E8%88%88/",
-     "published_at": "2026-11-09T00:00:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261107592163",
-     "published_at": "2026-11-07T19:19:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261107503381",
-     "published_at": "2026-11-07T14:15:00+08:00"
-    },
-    {
-     "outlet": "壹電視",
-     "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-11-07/2518391.html",
-     "published_at": "2026-11-07T12:09:00+08:00"
-    },
-    {
-     "outlet": "中時新聞網",
-     "url": "https://www.chinatimes.com/newspapers/20261107000524-260107",
-     "published_at": "2026-11-07T04:10:00+08:00"
-    },
-    {
-     "outlet": "Yahoo奇摩新聞",
-     "url": "https://tw.news.yahoo.com/%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%B8%B6%E5%8B%95%E6%9D%B1%E5%8D%80%E4%BA%BA%E6%BD%AE-%E8%94%A3%E8%90%AC%E5%AE%89%E6%89%BF%E8%AB%BE%E5%95%86%E5%9C%88%E5%BB%BA%E8%A8%AD%E7%B6%93%E8%B2%BB-%E5%8F%AA%E6%9C%83%E5%A4%9A-%E4%B8%8D%E6%9C%83%E5%B0%91-154707948.html",
-     "published_at": "2026-11-06T23:47:00+08:00"
-    },
-    {
-     "outlet": "墨新聞",
-     "url": "https://more-news.tw/761941/",
-     "published_at": "2026-11-06T22:46:00+08:00"
-    }
-   ],
-   "admin_note": "東區商圈為115年補助名單，商圈聯合促銷活動可作為執行成效與佐證參考。",
-   "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261109/00449440.202611092129510448M.jpg"
-  },
-  {
-   "id": "20261106-moea-district-to-market-design",
-   "title": "商業署以設計加值，從商圈到市場帶動地方創新",
-   "summary": "經濟部商業發展署6日發布消息，說明以設計加值方式，從商圈延伸到市場，帶動地方創新。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-09T12:25:00+08:00",
-   "cities": [],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261109609802",
-     "published_at": "2026-11-09T12:25:00+08:00"
-    },
-    {
-     "outlet": "立報傳媒",
-     "url": "https://www.limedia.tw/comm/75372/",
-     "published_at": "2026-11-09T12:25:00+08:00"
-    },
-    {
-     "outlet": "報新聞",
-     "url": "https://www.contentplatform.info/articles/567498/jaya567498/",
-     "published_at": "2026-11-07T18:57:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261107884916",
-     "published_at": "2026-11-07T18:57:00+08:00"
-    },
-    {
-     "outlet": "PeoPo 公民新聞",
-     "url": "https://www.peopo.org/news/863090",
-     "published_at": "2026-11-07T18:36:00+08:00"
-    },
-    {
-     "outlet": "大人物",
-     "url": "https://www.damanwoo.com/node/98122",
-     "published_at": "2026-11-07T09:10:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261106722077",
-     "published_at": "2026-11-06T16:51:00+08:00"
-    },
-    {
-     "outlet": "經濟部",
-     "url": "https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124495",
-     "published_at": "2026-11-06T16:00:00+08:00"
-    },
-    {
-     "outlet": "經濟部商業發展署",
-     "url": "https://www.aoc.gov.tw/showPublic/811",
-     "published_at": "2026-11-06T00:00:00+08:00"
-    },
-    {
-     "outlet": "LIFE 生活網",
-     "url": "https://life.tw/article/經濟部改造全台四大商圈市場-導入設計改善動線與消費環境-3207568",
-     "published_at": "2026-11-06T00:00:00+08:00"
-    }
-   ],
-   "image": "https://ni.yam.com/20261109/20261109-619513d93ed8a62a.webp"
   }
  ],
  "discussions": []
