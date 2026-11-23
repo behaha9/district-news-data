@@ -1,7 +1,127 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T16:55:46+08:00",
+ "generated_at": "2026-11-23T20:53:16+08:00",
  "items": [
+  {
+   "id": "20261123-district-carnival-beitou",
+   "title": "2026商圈狂歡節「萬市慶豐年」，全臺特色商圈齊聚北投",
+   "summary": "報導指「2026商圈狂歡節－萬市慶豐年」為促進全臺商圈跨區域交流，邀特色商圈齊聚北投展現在地產業特色。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-23T19:14:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "新北投溫泉商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "天天上新聞",
+     "url": "https://mknews.com.tw/2026/11/1022785/",
+     "published_at": "2026-11-23T19:14:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261123780759",
+     "published_at": "2026-11-23T18:15:00+08:00"
+    },
+    {
+     "outlet": "商傳媒",
+     "url": "https://sunmedia.tw/news/collaborative/37PnoorVSa5f1LfRamI1dz8T5RdLr89LmvJUoCXGBJxMqz44iYTF0WMOUc40pjbKjjFeCYZbduXfTkO9hIlx",
+     "published_at": "2026-11-23T16:30:00+08:00"
+    },
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/11799/9896409",
+     "published_at": "2026-11-23T16:02:00+08:00"
+    },
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/2026%E5%95%86%E5%9C%88%E7%8B%82%E6%AD%A1%E7%AF%80-%E8%90%AC%E5%B8%82%E6%85%B6%E8%B1%90%E5%B9%B4-%E5%85%A8%E8%87%BA%E7%89%B9%E8%89%B2%E5%95%86%E5%9C%88%E9%BD%8A%E8%81%9A%E5%8C%97%E6%8A%95-230351083.html",
+     "published_at": "2026-11-23T07:32:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261123/20261123181153_38-8b80da0ad1871eb1.webp"
+  },
+  {
+   "id": "20261123-beitou-after-carnival",
+   "title": "評論：北投商圈嘉年華散場後，人潮能否轉為商圈後續效益",
+   "summary": "評論文章指商圈嘉年華的成效要看活動結束後，人潮是否能為各商圈帶來實際的後續效益。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-23T17:32:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261123458922",
+     "published_at": "2026-11-23T17:32:00+08:00"
+    },
+    {
+     "outlet": "LIFE 生活網",
+     "url": "https://life.tw/article/%E5%8C%97%E6%8A%95%E6%95%A3%E5%A0%B4%E5%BE%8C-%E8%AA%B0%E6%9C%83%E5%86%8D%E8%B5%B0%E9%80%B2%E5%95%86%E5%9C%88-3231054",
+     "published_at": "2026-11-23T17:18:00+08:00"
+    },
+    {
+     "outlet": "創新聞",
+     "url": "https://pronews.tw/2026/11/23/335661/",
+     "published_at": "2026-11-23T00:00:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261123/S__215302417_0-9d1a1f235aa04372.webp"
+  },
+  {
+   "id": "20261123-taipei-rent-peak",
+   "title": "北市一線商圈單坪破萬店租剩零星案例，報導指黃金年代已過",
+   "summary": "報導引用實價登錄，今年前10月北市單坪店租破萬元僅4筆，出現在永康街商圈、東區等地。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-23T15:57:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "自由財經",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5650640",
+     "published_at": "2026-11-23T15:57:00+08:00"
+    }
+   ],
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/23/5650640_1.jpg"
+  },
+  {
+   "id": "20261123-douliu-lantern-crowd",
+   "title": "斗六燈海節兩日人潮爆滿，萬顆燈籠點亮太平老街",
+   "summary": "報導指雲林斗六燈海節在太平老街舉辦，兩日人潮湧入，現場有藝人演出。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-23T14:17:00+08:00",
+   "cities": [
+    "雲林縣"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "桃園電子報",
+     "url": "https://www.tynews.com.tw/index/News/Show/id/198604",
+     "published_at": "2026-11-23T14:17:00+08:00"
+    },
+    {
+     "outlet": "台灣華報",
+     "url": "https://www.kingtop.com.tw/detail.php?type=catalog&catalog_id=14&id=56048",
+     "published_at": "2026-11-23T04:04:00+08:00"
+    }
+   ],
+   "image": "https://www.kingtop.com.tw/uploadfiles/l/20261122231040_69083.jpg"
+  },
   {
    "id": "20261122-beitou-hanayukata",
    "title": "2026臺北北投花浴衣節在七星街登場，攜手永樂商圈協會與日本舞團",
@@ -30,6 +150,11 @@
     },
     {
      "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261123779174",
+     "published_at": "2026-11-23T12:45:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261122798398",
      "published_at": "2026-11-22T15:20:00+08:00"
     }
@@ -43,7 +168,7 @@
    "summary": "報導指動漫品牌淘動漫進駐台北師大商圈，21日舉辦開幕茶會並推出「師大巷弄尋寶趣」等活動。",
    "category": "開店與消費",
    "alert": null,
-   "published_at": "2026-11-23T12:07:00+08:00",
+   "published_at": "2026-11-23T12:23:00+08:00",
    "cities": [
     "台北市"
    ],
@@ -55,12 +180,17 @@
    ],
    "sources": [
     {
+     "outlet": "CMoney",
+     "url": "https://www.cmoney.tw/forum/article/189531765",
+     "published_at": "2026-11-23T12:23:00+08:00"
+    },
+    {
      "outlet": "GNN 新聞網",
      "url": "https://gnn.gamer.com.tw/detail.php?sn=315395",
      "published_at": "2026-11-23T12:07:00+08:00"
     }
    ],
-   "image": "https://p2.bahamut.com.tw/B/2KU/10/bff01b2298128f119cfa50ab2e217465.JPG"
+   "image": "https://p2.bahamut.com.tw/B/2KU/73/64f0a9f15f8821103c4b903e2c217355.JPG"
   },
   {
    "id": "20261123-xinyi-yufangyuan",
@@ -86,31 +216,6 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/22/35541944.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
-  },
-  {
-   "id": "20261123-district-carnival-beitou",
-   "title": "2026商圈狂歡節「萬市慶豐年」，全臺特色商圈齊聚北投",
-   "summary": "報導指「2026商圈狂歡節－萬市慶豐年」為促進全臺商圈跨區域交流，邀特色商圈齊聚北投展現在地產業特色。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-23T07:32:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "新北投溫泉商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "Yahoo新聞",
-     "url": "https://tw.news.yahoo.com/2026%E5%95%86%E5%9C%88%E7%8B%82%E6%AD%A1%E7%AF%80-%E8%90%AC%E5%B8%82%E6%85%B6%E8%B1%90%E5%B9%B4-%E5%85%A8%E8%87%BA%E7%89%B9%E8%89%B2%E5%95%86%E5%9C%88%E9%BD%8A%E8%81%9A%E5%8C%97%E6%8A%95-230351083.html",
-     "published_at": "2026-11-23T07:32:00+08:00"
-    }
-   ],
-   "image": "https://media.zenfs.com/ca/vigormedia_tw_168/81e92ed8ec61c446fc45e86f75ce4300.jpg"
   },
   {
    "id": "20261118-wanhua-corridor",
@@ -2180,66 +2285,6 @@
      "published_at": "2026-11-10T00:00:00+08:00"
     }
    ]
-  },
-  {
-   "id": "20261109-kaohsiung-bts-coupon",
-   "title": "高雄市府為BTS演唱會歌迷推出50元優惠券，可於商圈與特色店家使用",
-   "summary": "高雄市府推出優惠券，歌迷憑指定演唱會門票可兌換，供在高雄商圈及特色店家消費。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-09T20:37:00+08:00",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "Yahoo奇摩新聞",
-     "url": "https://tw.news.yahoo.com/%E8%BF%8E-%E7%B2%89%E7%B5%B2-%E9%AB%98%E5%B8%82%E6%8E%A8%E5%95%86%E5%9C%88%E5%A4%9C%E5%B8%82%E5%84%AA%E6%83%A0-123709154.html",
-     "published_at": "2026-11-09T20:37:00+08:00"
-    },
-    {
-     "outlet": "樂聯網",
-     "url": "https://leho.com.tw/archives/422802",
-     "published_at": "2026-11-09T11:56:00+08:00"
-    },
-    {
-     "outlet": "高雄市政府經濟發展局",
-     "url": "https://edbkcg.kcg.gov.tw/News_Content.aspx?n=FA86438944BB37E5&sms=4773608F226124D4&s=7C224305814F46AB",
-     "published_at": "2026-11-09T00:00:00+08:00"
-    },
-    {
-     "outlet": "華視新聞網",
-     "url": "https://news.cts.com.tw/cts/life/202611/202611093098880.html",
-     "published_at": "2026-11-08T00:00:00+08:00"
-    }
-   ],
-   "image": "https://media.zenfs.com/ko/cdns.com.tw/bff0afdc2280143a398e57ce63769b2b.jpg"
-  },
-  {
-   "id": "20261109-shuishang-xiancao",
-   "title": "水上商圈協會辦仙草料理競賽，結合特產帶動商圈經濟",
-   "summary": "嘉義縣水上商圈文化觀光發展協會舉辦第三屆全國盃水上仙草料理生活美學創意競賽，以特產紅骨仙草串聯產業與商圈。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-09T19:11:00+08:00",
-   "cities": [
-    "嘉義縣"
-   ],
-   "districts": [
-    {
-     "name": "水上商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5634880",
-     "published_at": "2026-11-09T19:11:00+08:00"
-    }
-   ],
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/09/5634880_1_1.jpg"
   }
  ],
  "discussions": []
