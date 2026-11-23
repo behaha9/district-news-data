@@ -1,20 +1,30 @@
 {
- "fetched_at": "2026-11-23T07:17:05+08:00",
+ "fetched_at": "2026-11-23T09:50:56+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 82,
-  "kept": 26,
-  "resolved": 26,
-  "items": 25,
+  "raw": 91,
+  "kept": 25,
+  "resolved": 25,
+  "items": 24,
   "resolve_this_run": {
-   "online": 5
+   "online": 2
   },
   "dropped_old": [
    "一中商圈被米粉擠爆！小米之家台中店開幕　明星商品一折（原文日期 2017-11-18）"
   ]
  },
  "items": [
+  {
+   "title": "萬顆燈籠點亮斗六太平老街！燈海節首日湧人潮 芒果醬熱力開唱掀高潮",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qb1ZjTUJCRWcwa1VkZVB3VUI4RFFKbkN2ZjNzcHpXN19aSXY3empLTWw4NWphaGxBYjJpWGY4MWhHRmNhaVhMbzdjQXUta0xaNEE?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-23T07:52+08:00",
+   "query": "老街",
+   "url": "https://n.yam.com/Article/20261122122163",
+   "resolved": true
+  },
   {
    "title": "從元代村落到百年商圈：走進北京王府井的前世今生",
    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Na1F5N3dMQU9VMWlnSU1VZUtIa2o3aWJOaGlTRnlPdk90a3o0XzNMUVlDZkpWcmdCTVY3LTBiSV9teEsxbldKSg?oc=5",
@@ -27,12 +37,12 @@
   },
   {
    "title": "2026苗栗獅潭仙草花節｜山城慢活賞花之旅！悠哉漫步紫色夢幻仙境，順遊新店老街、鳴鳳古道| 銀髮一起玩",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kdVZWcUNIZHBnV0VBeVEyYlRrN3BqTmhYYWZwLW9uNHUxSkRFMTZqMzM3bjJRclUwVXQzbUFEbGthbGlYcXFoT0hEbWtJWXlqTC1YcVZn?oc=5",
+   "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84QnJobDZuVE84T0VrbUVndTkxVTgzdEVMZXZlc0VUTU1BYW1IdzhVRjBoRmdtWkdRcGxHckp6Q1JaZlZaM25FOHY4VWxmckhMTGVkQlpfam1TcUcxRG9LcnBrLTkyT0pNMlE4bFg3ZjQ3OFozOVBr?oc=5",
    "source": "LINE TODAY",
    "source_site": "https://today.line.me",
-   "published_at": "2026-11-23T05:18+08:00",
+   "published_at": "2026-11-23T05:39+08:00",
    "query": "老街",
-   "url": "https://today.line.me/tw/v3/article/2D9oPRj",
+   "url": "https://today.line.me/tw/v3/article/2D9oPRj?referral=TOPIC-flowering",
    "resolved": true
   },
   {
@@ -76,13 +86,13 @@
    "resolved": true
   },
   {
-   "title": "超級星期天！蔣萬安車掃人潮嗨爆信義商圈、公館巧遇太座放閃愛的抱抱| 2026九合一選舉",
-   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UNkU4S1JJQndEelA2TjFXRFFlRzRfeWJKSkV1cGFTLU1jTXVhV1lsQWtMRXpKVmkwVUhyQ3VRbHJpeUhYSTZqMUJDS0VLYkQ1aGhIZDBYbDk?oc=5",
+   "title": "超級星期天！蔣萬安車掃人潮嗨爆信義商圈、公館 巧遇太座放閃愛的抱抱",
+   "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54QUNveDZqZEgyb0liYm51TnpSUUtvcmlhZHA0MjZIOE90UkRmLUFKQ0E5cklBNTVUd1pTcmpsaVRxTGl6bU1uMzF0TGRjQXhsSEpv0gFYQVVfeXFMTnc4dlptR2NrM09BODhYWFNQSmt4bDJpNjFNWEt6d3QtSHQ4TkozYnVUd3hUazBJUjFzVU5SbXBlT0JQSUtLZ082dnotYk4xVGZubE1hbWgwVA?oc=5",
    "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-11-22T20:33+08:00",
    "query": "商圈",
-   "url": "https://udn.com/vote2026/story/124652/9895005",
+   "url": "https://udn.com/news/story/124652/9895005",
    "resolved": true
   },
   {
@@ -243,26 +253,6 @@
    "published_at": "2026-11-21T10:54+08:00",
    "query": "商店街",
    "url": "https://www.contentplatform.info/articles/585531/%E5%A4%A7%E9%98%AA%E5%A0%BA%E4%B8%AD%E7%99%BE%E8%88%8C%E9%B3%A5%E5%95%86%E5%BA%97%E8%A1%97%E7%87%88%E9%A3%BE11-25%E9%BB%9E%E7%87%88%E3%80%80%E5%9B%9E%E6%94%B6%E7%82%B8%E6%B2%B9%E7%99%BC%E9%9B%BB/",
-   "resolved": true
-  },
-  {
-   "title": "老街別只會去淡水、北埔！1超強景點狂吸120人次，遊客讚：美食多環境優美、 價位也很親民",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ITDA2bWJjMGJPM0Z3emJod1lhNDdfN0xLVW5PRjJzNmNMV29zc1BqV3FaVGdScEN1YTZXM2Qyc2U0QUZreE5PdG5BdkNqWkQt?oc=5",
-   "source": "風傳媒",
-   "source_site": "https://www.storm.mg",
-   "published_at": "2026-11-21T09:30+08:00",
-   "query": "老街",
-   "url": "https://www.storm.mg/lifestyle/11182682",
-   "resolved": true
-  },
-  {
-   "title": "老街別只會去淡水、北埔！1超強景點狂吸120萬人次，遊客讚：美食多環境優美、 價位也很親民",
-   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TcUw0ekVDWi1xakh4LUhTUWUya1Fpa2ZFRlg0YXREM0hHcG1TVDhrUmtqbDFibXprSEtNakk2RFlqZEs3RUhGSG1VQkdoZw?oc=5",
-   "source": "風傳媒",
-   "source_site": "https://www.storm.mg",
-   "published_at": "2026-11-21T09:30+08:00",
-   "query": "老街",
-   "url": "https://www.storm.mg/article/11182682",
    "resolved": true
   }
  ]

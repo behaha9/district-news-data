@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T07:17:15+08:00",
+ "fetched_at": "2026-11-23T09:51:06+08:00",
  "articles": {
   "https://www.yesmedia.com.tw/%e4%b8%ad%e5%b8%82%e7%89%a9%e8%aa%bf%e5%88%b8%e4%ba%ba%e6%b0%a3%e5%a0%b4%e5%9f%9f%e6%8f%ad%e6%9b%89%ef%bc%81%e4%b8%80%e4%b8%ad%e5%95%86%e5%9c%88%e5%a5%aa%e5%86%a0%e3%80%81%e9%80%a2%e7%94%b2%e5%a4%9c/": {
    "checked_at": "2026-11-20T10:26+08:00",
@@ -10047,6 +10047,90 @@
    "checked_at": "2026-11-23T07:17+08:00",
    "status": "error",
    "error": "The read operation timed out"
+  },
+  "https://www.msn.cn/zh-cn/entertainment/%E9%80%9A%E7%94%A8/%E6%88%8F%E9%9F%B5%E4%BC%B4%E5%B0%8F%E9%9B%AA%E8%80%8C%E8%87%B3-%E8%80%81%E8%A1%97%E8%8C%B6%E9%A6%86%E6%BC%94%E7%BB%8E%E9%95%BF%E6%B2%99%E6%B8%A9%E6%9F%94%E6%96%87%E8%89%BA%E6%97%B6%E5%85%89/ar-AA2hZWaB": {
+   "checked_at": "2026-11-23T09:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://n.yam.com/Article/20261122122163": {
+   "checked_at": "2026-11-23T09:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-22T00:00+08:00",
+   "site_name": "蕃新聞",
+   "description": "【台灣新聞網記者李婉愉／雲林報導】雲林歲末節慶活動再掀熱潮！配合雲林縣政府「2026-2027雲林",
+   "cities": {
+    "雲林縣": 4
+   },
+   "districts": [
+    "太平老街商圈（嘉義縣）"
+   ],
+   "body_chars": 202,
+   "image": "https://ni.yam.com/20261122/1795391042133257772-ed2e20f184495fc7.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-22",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/2D9oPRj?referral=TOPIC-flowering": {
+   "checked_at": "2026-11-23T09:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-23T05:00+08:00",
+   "site_name": "LINE TODAY",
+   "description": "2026苗栗獅潭鄉仙草花節｜時間與地點 2026苗栗獅潭鄉仙草花節｜6大地景藝術與紫色花毯 2026苗栗獅潭鄉仙草花節｜週末限定舞台展演與仙...",
+   "cities": {
+    "苗栗縣": 23,
+    "新竹": 1
+   },
+   "districts": [],
+   "body_chars": 2010,
+   "image": "https://today-obs.line-scdn.net/0hZKLjjKk-BWRxExgBs6N6M0lFCRVCdR9tU3BPC1QWCVFZP0VmS3FWBwZEX0gMJkY0UXBIBQcWWl1eK0oyTg/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-23",
+   "date_hint_from": "原文時間"
+  },
+  "https://leho.com.tw/archives/433874": {
+   "checked_at": "2026-11-23T09:51+08:00",
+   "status": 200,
+   "published_at": "2026-11-21T16:00+08:00",
+   "site_name": "樂聯網",
+   "description": "【台灣新聞網記者李婉愉／雲林報導】雲林歲末節慶活動再掀熱潮！配合雲林縣政府「2026-2027雲林Holy  […]",
+   "cities": {
+    "雲林縣": 14
+   },
+   "districts": [
+    "太平老街商圈（嘉義縣）",
+    "花蓮市 百年老街商圈（花蓮縣）"
+   ],
+   "body_chars": 1701,
+   "image": "https://www.5ch.com.tw/data/news/cover/202611/1795391042133257772.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-21",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ttv.com.tw/videocity/video_play.asp?id=956548&sid=5": {
+   "checked_at": "2026-11-23T09:51+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "TTV",
+   "description": "台視影音：提供台視最新的綜藝、專題、節目預告及新聞影音，並有數個完整影音節目，供網友選擇收看。",
+   "cities": {},
+   "districts": [
+    "晴光商圈（台北市）"
+   ],
+   "body_chars": 48,
+   "image": "https://www.ttv.com.tw/group/15/images/TOUCHTTV.png",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   }
  }
 }
