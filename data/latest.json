@@ -1,7 +1,42 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T20:53:16+08:00",
+ "generated_at": "2026-11-24T07:18:39+08:00",
  "items": [
+  {
+   "id": "20261123-douliu-lantern-crowd",
+   "title": "斗六燈海節兩日人潮爆滿，萬顆燈籠點亮太平老街",
+   "summary": "報導指雲林斗六燈海節在太平老街舉辦，兩日人潮湧入，現場有藝人演出。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-23T22:12:00+08:00",
+   "cities": [
+    "雲林縣"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "大宇宙新聞民時新聞",
+     "url": "https://macrocosm.tw/%E8%90%AC%E9%A1%86%E7%87%88%E7%B1%A0%E9%BB%9E%E4%BA%AE%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97%EF%BC%81%E6%96%97%E5%85%AD%E7%87%88%E6%B5%B7%E7%AF%80%E5%85%A9%E6%97%A5%E4%BA%BA%E6%BD%AE%E7%88%86%E6%BB%BF/",
+     "published_at": "2026-11-23T22:12:00+08:00"
+    },
+    {
+     "outlet": "臺灣導報",
+     "url": "https://taiwanreports.com/archives/1028098",
+     "published_at": "2026-11-23T18:26:00+08:00"
+    },
+    {
+     "outlet": "桃園電子報",
+     "url": "https://www.tynews.com.tw/index/News/Show/id/198604",
+     "published_at": "2026-11-23T14:17:00+08:00"
+    },
+    {
+     "outlet": "台灣華報",
+     "url": "https://www.kingtop.com.tw/detail.php?type=catalog&catalog_id=14&id=56048",
+     "published_at": "2026-11-23T04:04:00+08:00"
+    }
+   ],
+   "image": "https://www.kingtop.com.tw/uploadfiles/l/20261122231040_69083.jpg"
+  },
   {
    "id": "20261123-district-carnival-beitou",
    "title": "2026商圈狂歡節「萬市慶豐年」，全臺特色商圈齊聚北投",
@@ -30,6 +65,11 @@
      "published_at": "2026-11-23T18:15:00+08:00"
     },
     {
+     "outlet": "是新聞",
+     "url": "https://www.yesmedia.com.tw/2026%E5%95%86%E5%9C%88%E7%8B%82%E6%AD%A1%E7%AF%80%E3%80%8C%E8%90%AC%E5%B8%82%E6%85%B6%E8%B1%90%E5%B9%B4%E3%80%8D%E5%85%A8%E8%87%BA%E7%89%B9%E8%89%B2%E5%95%86%E5%9C%88%E9%BD%8A%E8%81%9A%E5%8C%97-2/",
+     "published_at": "2026-11-23T18:15:00+08:00"
+    },
+    {
      "outlet": "商傳媒",
      "url": "https://sunmedia.tw/news/collaborative/37PnoorVSa5f1LfRamI1dz8T5RdLr89LmvJUoCXGBJxMqz44iYTF0WMOUc40pjbKjjFeCYZbduXfTkO9hIlx",
      "published_at": "2026-11-23T16:30:00+08:00"
@@ -45,7 +85,62 @@
      "published_at": "2026-11-23T07:32:00+08:00"
     }
    ],
-   "image": "https://ni.yam.com/20261123/20261123181153_38-8b80da0ad1871eb1.webp"
+   "image": "https://mknews.com.tw/wp-content/uploads/2024/04/cropped-%E7%B0%A1%E5%A0%B11-1.jpg"
+  },
+  {
+   "id": "20261113-heimaowu-nanjing",
+   "title": "黑毛屋插旗台北南京復興商圈開慶城店，主打夜經濟營業至晚間11點",
+   "summary": "日式鍋物品牌黑毛屋在南京復興商圈開設慶城店，為全台第21家門市，主打夜經濟並營業至晚間11點。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-23T19:00:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "南京復興商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "Niusnews妞新聞",
+     "url": "https://www.niusnews.com/=P2cyd5e70",
+     "published_at": "2026-11-23T19:00:00+08:00"
+    },
+    {
+     "outlet": "上報",
+     "url": "https://www.upmedia.mg/tw/lifestyle/food/274610",
+     "published_at": "2026-11-18T14:00:00+08:00"
+    },
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/7843/9877384",
+     "published_at": "2026-11-16T10:01:00+08:00"
+    },
+    {
+     "outlet": "ZEEK玩家誌",
+     "url": "https://zeekmagazine.com/archives/266545",
+     "published_at": "2026-11-15T00:00:00+08:00"
+    },
+    {
+     "outlet": "民視新聞網",
+     "url": "https://www.ftvnews.com.tw/news/detail/2026B13W0472",
+     "published_at": "2026-11-13T16:14:00+08:00"
+    },
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261113700662-431401",
+     "published_at": "2026-11-13T10:11:00+08:00"
+    },
+    {
+     "outlet": "中華新聞雲",
+     "url": "https://www.cdns.com.tw/articles/1489888",
+     "published_at": "2026-11-13T08:48:00+08:00"
+    }
+   ],
+   "image": "https://imgs.niusnews.com/upload/posts/posts_image3_142796_1795431629.jpg"
   },
   {
    "id": "20261123-beitou-after-carnival",
@@ -65,6 +160,11 @@
      "published_at": "2026-11-23T17:32:00+08:00"
     },
     {
+     "outlet": "方格子",
+     "url": "https://vocus.cc/article/amp/6b04050afd8978000140c461",
+     "published_at": "2026-11-23T17:27:00+08:00"
+    },
+    {
      "outlet": "LIFE 生活網",
      "url": "https://life.tw/article/%E5%8C%97%E6%8A%95%E6%95%A3%E5%A0%B4%E5%BE%8C-%E8%AA%B0%E6%9C%83%E5%86%8D%E8%B5%B0%E9%80%B2%E5%95%86%E5%9C%88-3231054",
      "published_at": "2026-11-23T17:18:00+08:00"
@@ -76,6 +176,51 @@
     }
    ],
    "image": "https://ni.yam.com/20261123/S__215302417_0-9d1a1f235aa04372.webp"
+  },
+  {
+   "id": "20261122-beitou-hanayukata",
+   "title": "2026臺北北投花浴衣節在七星街登場，攜手永樂商圈協會與日本舞團",
+   "summary": "報導指臺北市商業處輔導溫泉發展協會辦理北投花浴衣節，22日於七星街登場，今年邀台北市永樂商圈發展協會參與，以塑造新北投溫泉商圈品牌。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-23T17:24:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "新北投溫泉商圈",
+     "priority": true
+    },
+    {
+     "name": "永樂商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261123932553",
+     "published_at": "2026-11-23T17:24:00+08:00"
+    },
+    {
+     "outlet": "報新聞",
+     "url": "https://www.contentplatform.info/articles/587569/%e5%8c%97%e6%8a%95%e8%8a%b1%e6%b5%b4%e8%a1%a3%e7%af%8011-22%e7%99%bb%e5%a0%b4%e3%80%80%e6%94%9c%e6%89%8b%e6%b0%b8%e6%a8%82%e5%95%86%e5%9c%88%e3%80%81%e6%97%a5%e6%9c%acyosakoi%e8%88%9e%e5%9c%98/",
+     "published_at": "2026-11-23T12:45:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261123779174",
+     "published_at": "2026-11-23T12:45:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261122798398",
+     "published_at": "2026-11-22T15:20:00+08:00"
+    }
+   ],
+   "admin_note": "新北投溫泉商圈、永樂商圈皆為115年補助名單，活動已辦理並有跨商圈合作，可作為執行佐證參考。",
+   "image": "https://ni.yam.com/20261123/6f59bcbdd52c26f4ed3b0e4595d0a5be-dad1c23cbea30adc.webp"
   },
   {
    "id": "20261123-taipei-rent-peak",
@@ -96,71 +241,6 @@
     }
    ],
    "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/23/5650640_1.jpg"
-  },
-  {
-   "id": "20261123-douliu-lantern-crowd",
-   "title": "斗六燈海節兩日人潮爆滿，萬顆燈籠點亮太平老街",
-   "summary": "報導指雲林斗六燈海節在太平老街舉辦，兩日人潮湧入，現場有藝人演出。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-23T14:17:00+08:00",
-   "cities": [
-    "雲林縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "桃園電子報",
-     "url": "https://www.tynews.com.tw/index/News/Show/id/198604",
-     "published_at": "2026-11-23T14:17:00+08:00"
-    },
-    {
-     "outlet": "台灣華報",
-     "url": "https://www.kingtop.com.tw/detail.php?type=catalog&catalog_id=14&id=56048",
-     "published_at": "2026-11-23T04:04:00+08:00"
-    }
-   ],
-   "image": "https://www.kingtop.com.tw/uploadfiles/l/20261122231040_69083.jpg"
-  },
-  {
-   "id": "20261122-beitou-hanayukata",
-   "title": "2026臺北北投花浴衣節在七星街登場，攜手永樂商圈協會與日本舞團",
-   "summary": "報導指臺北市商業處輔導溫泉發展協會辦理北投花浴衣節，22日於七星街登場，今年邀台北市永樂商圈發展協會參與，以塑造新北投溫泉商圈品牌。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-23T12:45:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "新北投溫泉商圈",
-     "priority": true
-    },
-    {
-     "name": "永樂商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "報新聞",
-     "url": "https://www.contentplatform.info/articles/587569/%e5%8c%97%e6%8a%95%e8%8a%b1%e6%b5%b4%e8%a1%a3%e7%af%8011-22%e7%99%bb%e5%a0%b4%e3%80%80%e6%94%9c%e6%89%8b%e6%b0%b8%e6%a8%82%e5%95%86%e5%9c%88%e3%80%81%e6%97%a5%e6%9c%acyosakoi%e8%88%9e%e5%9c%98/",
-     "published_at": "2026-11-23T12:45:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261123779174",
-     "published_at": "2026-11-23T12:45:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261122798398",
-     "published_at": "2026-11-22T15:20:00+08:00"
-    }
-   ],
-   "admin_note": "新北投溫泉商圈、永樂商圈皆為115年補助名單，活動已辦理並有跨商圈合作，可作為執行佐證參考。",
-   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/23120029/taipei-cover-261123040025462.jpeg"
   },
   {
    "id": "20261123-shida-taodongman",
@@ -193,37 +273,12 @@
    "image": "https://p2.bahamut.com.tw/B/2KU/73/64f0a9f15f8821103c4b903e2c217355.JPG"
   },
   {
-   "id": "20261123-xinyi-yufangyuan",
-   "title": "信義商圈新開2億元中菜餐廳「宇方圓」，進駐微風松高地下二樓",
-   "summary": "報導指信義商圈新增一家主打當代中式餐飲與私密社交會所的餐廳，位於微風松高地下二樓。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-23T10:03:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "信義商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "經濟日報",
-     "url": "https://money.udn.com/money/story/5635/9894441",
-     "published_at": "2026-11-23T10:03:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/22/35541944.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
-  },
-  {
    "id": "20261118-wanhua-corridor",
    "title": "臺北市啟動萬華商圈廊帶環境優化，改善廣州街騎樓與艋舺公園景觀",
    "summary": "報導指北市府結合跨局處與地方團體，從廣州街環境改善、艋舺公園景觀更新及設置文化意象節點，推動萬華商圈廊帶發展。",
    "category": "營運與政策",
    "alert": null,
-   "published_at": "2026-11-23T04:10:00+08:00",
+   "published_at": "2026-11-23T10:24:00+08:00",
    "cities": [
     "台北市"
    ],
@@ -234,6 +289,11 @@
     }
    ],
    "sources": [
+    {
+     "outlet": "華人今日網",
+     "url": "https://www.chinesedaily.com/article/detail-713960.html",
+     "published_at": "2026-11-23T10:24:00+08:00"
+    },
     {
      "outlet": "中時新聞網",
      "url": "https://www.chinatimes.com/newspapers/20261123000577-260107",
@@ -260,7 +320,54 @@
      "published_at": "2026-11-18T00:00:00+08:00"
     }
    ],
-   "image": "https://images.chinatimes.com/newsphoto/2026-11-23/656/B09A00_P_07_02.jpg"
+   "image": "https://www.chinesedaily.com/uploads/article/editor/image/large/2026/11/22/17953921712074.jpg"
+  },
+  {
+   "id": "20261123-xinyi-yufangyuan",
+   "title": "信義商圈新開2億元中菜餐廳「宇方圓」，進駐微風松高地下二樓",
+   "summary": "報導指信義商圈新增一家主打當代中式餐飲與私密社交會所的餐廳，位於微風松高地下二樓。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-23T10:03:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "信義商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/5635/9894441",
+     "published_at": "2026-11-23T10:03:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/22/35541944.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
+  },
+  {
+   "id": "20261122-excellence-award",
+   "title": "2026全國卓越商圈獎20處特色商圈獲選",
+   "summary": "標題指2026全國卓越商圈獎共有20處特色商圈脫穎而出，樹立卓越典範。",
+   "category": "營運與政策",
+   "alert": null,
+   "published_at": "2026-11-23T08:55:00+08:00",
+   "cities": [],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "住展雜誌",
+     "url": "https://www.myhousing.com.tw/l/l04/308138/",
+     "published_at": "2026-11-23T08:55:00+08:00"
+    },
+    {
+     "outlet": "享新聞",
+     "url": "https://i-news.com.tw/2026/11/500012/",
+     "published_at": "2026-11-22T07:04:00+08:00"
+    }
+   ]
   },
   {
    "id": "20261118-douliu-lantern-taiping",
@@ -333,6 +440,11 @@
      "outlet": "台灣新聞雲報",
      "url": "https://www.fclnews.com/239249/",
      "published_at": "2026-11-22T18:42:00+08:00"
+    },
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E5%B8%82%E9%95%B7%E7%9B%83%E8%A1%97%E8%88%9E%E9%8C%A6%E6%A8%99%E8%B3%BD%E7%86%B1%E5%8A%9B%E7%99%BB%E5%A0%B4-%E8%8A%B1%E8%93%AE%E8%88%9E%E8%B9%88%E5%A5%BD%E6%89%8B%E9%BD%8A%E8%81%9A%E9%90%B5%E9%81%93%E5%95%86%E5%9C%88%E5%B1%95%E7%8F%BE%E9%9D%92%E6%98%A5%E6%B4%BB%E5%8A%9B-091008379.html",
+     "published_at": "2026-11-22T17:10:00+08:00"
     }
    ],
    "image": "https://img1.fclnews.com/wp-content/uploads/2026/11/20261122182418_21.jpg"
@@ -412,23 +524,6 @@
     }
    ],
    "image": "https://images.chinatimes.com/newsphoto/2026-11-22/656/20261122001497.jpg"
-  },
-  {
-   "id": "20261122-excellence-award",
-   "title": "2026全國卓越商圈獎20處特色商圈獲選",
-   "summary": "標題指2026全國卓越商圈獎共有20處特色商圈脫穎而出，樹立卓越典範。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-22T07:04:00+08:00",
-   "cities": [],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "享新聞",
-     "url": "https://i-news.com.tw/2026/11/500012/",
-     "published_at": "2026-11-22T07:04:00+08:00"
-    }
-   ]
   },
   {
    "id": "20261121-shilin-yam-festival",
@@ -621,6 +716,37 @@
    ]
   },
   {
+   "id": "20261119-sushiro-ximen",
+   "title": "壽司郎DIGIRO西門町店開幕，北台灣同步新增桃園店",
+   "summary": "報導指壽司郎數位化新品牌DIGIRO在西門町與桃園接力開幕，並推出限時優惠。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-19T16:51:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "西門町商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "中華新聞雲",
+     "url": "https://www.cdns.com.tw/articles/1493063",
+     "published_at": "2026-11-19T16:51:00+08:00"
+    },
+    {
+     "outlet": "鏡新聞",
+     "url": "https://www.mnews.tw/story/20261119nm017",
+     "published_at": "2026-11-19T16:36:00+08:00"
+    }
+   ],
+   "admin_note": "西門町商圈為115年補助名單，新店開幕可留意商圈人潮與店家進駐動態。",
+   "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/19165054/11-2-1024x765.png"
+  },
+  {
    "id": "20261119-xiluo-italian-startup",
    "title": "西螺延平老街周邊吹起義式餐桌與手作甜點的返鄉創業風",
    "summary": "報導指雲林西螺除延平老街的傳統小吃外，近年有返鄉青年開設義式餐廳與手作甜點店，帶來街區新風貌。",
@@ -747,56 +873,6 @@
     }
    ],
    "image": "https://blog.104.com.tw/wp-content/uploads/2026/11/18143221/stust18-0.jpg"
-  },
-  {
-   "id": "20261113-heimaowu-nanjing",
-   "title": "黑毛屋插旗台北南京復興商圈開慶城店，主打夜經濟營業至晚間11點",
-   "summary": "日式鍋物品牌黑毛屋在南京復興商圈開設慶城店，為全台第21家門市，主打夜經濟並營業至晚間11點。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-18T14:00:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "南京復興商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "上報",
-     "url": "https://www.upmedia.mg/tw/lifestyle/food/274610",
-     "published_at": "2026-11-18T14:00:00+08:00"
-    },
-    {
-     "outlet": "經濟日報",
-     "url": "https://money.udn.com/money/story/7843/9877384",
-     "published_at": "2026-11-16T10:01:00+08:00"
-    },
-    {
-     "outlet": "ZEEK玩家誌",
-     "url": "https://zeekmagazine.com/archives/266545",
-     "published_at": "2026-11-15T00:00:00+08:00"
-    },
-    {
-     "outlet": "民視新聞網",
-     "url": "https://www.ftvnews.com.tw/news/detail/2026B13W0472",
-     "published_at": "2026-11-13T16:14:00+08:00"
-    },
-    {
-     "outlet": "工商時報",
-     "url": "https://www.ctee.com.tw/news/20261113700662-431401",
-     "published_at": "2026-11-13T10:11:00+08:00"
-    },
-    {
-     "outlet": "中華新聞雲",
-     "url": "https://www.cdns.com.tw/articles/1489888",
-     "published_at": "2026-11-13T08:48:00+08:00"
-    }
-   ],
-   "image": "https://cdn.upmedia.mg/upfile/img/2026/1118/202611181333581246.webp"
   },
   {
    "id": "20261118-zhonglu-coffee",
@@ -2263,28 +2339,6 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35500653.jpg&M=1&s=Y&x=1&y=409&sw=1107&sh=738&exp=3600"
-  },
-  {
-   "id": "20261110-moea-district-upgrade",
-   "title": "經濟部推商圈與市場改造，以設計加值升級宜居生活圈",
-   "summary": "經濟部推動商圈及傳統市場改造，以設計加值帶動地方創新、提升生活圈機能。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-10T00:00:00+08:00",
-   "cities": [],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "好房網News",
-     "url": "https://news.housefun.com.tw/news/article/126729490872.html",
-     "published_at": "2026-11-10T00:00:00+08:00"
-    },
-    {
-     "outlet": "微笑台灣",
-     "url": "https://smiletaiwan.cw.com.tw/article/9581",
-     "published_at": "2026-11-10T00:00:00+08:00"
-    }
-   ]
   }
  ],
  "discussions": []

@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-23T20:53:16+08:00",
+ "updated_at": "2026-11-24T07:18:39+08:00",
  "reviewed": {
   "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html": {
    "decision": "hidden",
@@ -57,11 +57,6 @@
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-12"
   },
-  "https://focusnews.com.tw/2026/11/729963/": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-09"
-  },
   "https://forum.ettoday.net/news/3269471": {
    "decision": "hidden",
    "reason": "選舉",
@@ -81,11 +76,6 @@
    "decision": "hidden",
    "reason": "房地產",
    "at": "2026-11-12"
-  },
-  "https://house.udn.com/house/story/123590/9862676?list_ch2_index": {
-   "decision": "hidden",
-   "reason": "房地產",
-   "at": "2026-11-09"
   },
   "https://house.udn.com/house/story/123590/9877486": {
    "decision": "hidden",
@@ -121,11 +111,6 @@
    "decision": "kept",
    "item": "20261112-taoyuan-biz-transform",
    "at": "2026-11-14"
-  },
-  "https://mknews.com.tw/2026/11/1014299/": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-09"
   },
   "https://mknews.com.tw/2026/11/1016108/": {
    "decision": "kept",
@@ -257,30 +242,15 @@
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-22"
   },
-  "https://new-reporter.com/news/332964/": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-09"
-  },
   "https://news.cnyes.com/news/id/6656699": {
    "decision": "kept",
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-14"
   },
-  "https://news.cts.com.tw/cna/local/202611/202611063098250.html": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-09"
-  },
   "https://news.cts.com.tw/cts/general/202611/202611223104038.html": {
    "decision": "hidden",
    "reason": "非商圈",
    "at": "2026-11-23"
-  },
-  "https://news.ebc.net.tw/news/society/579726": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-09"
   },
   "https://news.houseprice.tw/12913/": {
    "decision": "kept",
@@ -357,16 +327,6 @@
    "reason": "選舉",
    "at": "2026-11-13"
   },
-  "https://news.twhg.com.tw/re_news_details.php?ojb=61197": {
-   "decision": "hidden",
-   "reason": "房地產",
-   "at": "2026-11-09"
-  },
-  "https://news.twhg.com.tw/re_news_details.php?ojb=61198": {
-   "decision": "hidden",
-   "reason": "房地產",
-   "at": "2026-11-09"
-  },
   "https://news.tycg.gov.tw/News_Content.aspx?n=5016&s=1972603": {
    "decision": "kept",
    "item": "20261112-taoyuan-biz-transform",
@@ -406,11 +366,6 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-12"
-  },
-  "https://today.line.me/tw/v3/article/peppEz6": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-09"
   },
   "https://travel.ettoday.net/amp/3271765": {
    "decision": "kept",
@@ -467,16 +422,6 @@
    "reason": "選舉",
    "at": "2026-11-15"
   },
-  "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E8%B3%8A%E6%BD%9B%E5%BE%8C%E5%8F%B0%E8%A1%8C%E7%AB%8A-30%E7%A7%92%E5%85%A7%E5%81%B7%E5%8C%85%E5%BE%97%E6%89%8B5%E8%90%AC-134700153.html": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-09"
-  },
-  "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E4%B8%AD%E5%95%86%E5%9C%88%E8%B3%8A%E6%BD%9B%E5%BE%8C%E5%8F%B0%E8%A1%8C%E7%AB%8A-30%E7%A7%92%E5%85%A7%E5%81%B7%E5%8C%85%E5%BE%97%E6%89%8B5%E8%90%AC-134700153.html": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-09"
-  },
   "https://tw.news.yahoo.com/%E7%99%BE%E5%84%84%E5%A8%9B%E6%A8%82%E5%9F%8E%E9%9A%B1%E8%BA%AB%E6%98%8C%E5%B9%B3%E5%95%86%E5%9C%88-1%E5%B9%B4%E8%B3%AD%E8%B3%87%E9%80%BE155%E5%84%84-%E9%8F%A1%E6%96%B0%E8%81%9E-091728677.html": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -517,11 +462,6 @@
    "item": "20261119-hm-ximen-closing",
    "at": "2026-11-21"
   },
-  "https://udn.com/news/amp/story/7325/9866142": {
-   "decision": "kept",
-   "item": "20261107-yizhong-illegal-shop",
-   "at": "2026-11-09"
-  },
   "https://udn.com/news/amp/story/7325/9867344": {
    "decision": "kept",
    "item": "20261109-yizhong-illegal-shop",
@@ -556,11 +496,6 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-16"
-  },
-  "https://video.ltn.com.tw/article/SUOr-mu1K4w/PLI7xntdRxhw1gDu9DJwSWvhyraLk-de62": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-09"
   },
   "https://video.udn.com/news/1331984": {
    "decision": "hidden",
@@ -651,6 +586,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-16"
+  },
+  "https://www.ctee.com.tw/news/20261124700108-439901": {
+   "decision": "hidden",
+   "reason": "非商圈",
+   "at": "2026-11-24"
   },
   "https://www.ettoday.net/amp/3271482": {
    "decision": "hidden",
@@ -772,11 +712,6 @@
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-14"
   },
-  "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-11-09/2520165.html": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-09"
-  },
   "https://www.pbs.npa.gov.tw/ch/app/data/view?module=wg183&id=18740&serno=19679e7f-333a-42a1-a495-d8b8b6c177ac": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -821,16 +756,6 @@
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-21"
-  },
-  "https://www.taisounds.com/news/content/83/298719": {
-   "decision": "hidden",
-   "reason": "非商圈",
-   "at": "2026-11-09"
-  },
-  "https://www.taisounds.com/news/content/84/298719": {
-   "decision": "hidden",
-   "reason": "非商圈",
-   "at": "2026-11-09"
   },
   "https://www.tcpttw.com/other/other_local/2026/11/09/328487/": {
    "decision": "hidden",
