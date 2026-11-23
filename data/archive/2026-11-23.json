@@ -202,6 +202,171 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-23T12:23:13+08:00",
+   "added": 2,
+   "merged": 2,
+   "items": [
+    {
+     "id": "20261123-xinyi-yufangyuan",
+     "title": "信義商圈新開2億元中菜餐廳「宇方圓」，進駐微風松高地下二樓",
+     "summary": "報導指信義商圈新增一家主打當代中式餐飲與私密社交會所的餐廳，位於微風松高地下二樓。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-23T10:03:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "信義商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/5635/9894441",
+       "published_at": "2026-11-23T10:03:00+08:00"
+      }
+     ],
+     "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/22/35541944.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
+    },
+    {
+     "id": "20261123-shida-taodongman",
+     "title": "「淘動漫」大師店於師大商圈開幕，推出巷弄尋寶活動",
+     "summary": "報導指動漫品牌淘動漫進駐台北師大商圈，21日舉辦開幕茶會並推出「師大巷弄尋寶趣」等活動。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-23T12:07:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "師大商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "GNN 新聞網",
+       "url": "https://gnn.gamer.com.tw/detail.php?sn=315395",
+       "published_at": "2026-11-23T12:07:00+08:00"
+      }
+     ],
+     "image": "https://p2.bahamut.com.tw/B/2KU/10/bff01b2298128f119cfa50ab2e217465.JPG"
+    },
+    {
+     "id": "20261118-douliu-lantern-taiping",
+     "title": "斗六燈海節11/21登場，太平老街換新裝",
+     "summary": "標題指2026斗六燈海節11月21日登場，太平老街換新裝，卡司陣容齊聚。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-22T23:13:00+08:00",
+     "cities": [
+      "雲林縣"
+     ],
+     "districts": [
+      {
+       "name": "太平老街",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "台灣華報",
+       "url": "https://www.kingtop.com.tw/detail.php?type=lastest&id=56048",
+       "published_at": "2026-11-22T23:13:00+08:00"
+      },
+      {
+       "outlet": "元丰傳媒",
+       "url": "https://yuanfengmedia.tw/detail.php?type=gallery&id=63470",
+       "published_at": "2026-11-22T17:30:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261122122163",
+       "published_at": "2026-11-22T00:00:00+08:00"
+      },
+      {
+       "outlet": "台灣生活新聞（LINE TODAY）",
+       "url": "https://today.line.me/tw/v3/article/nXp7mxJ",
+       "published_at": "2026-11-19T17:50:00+08:00"
+      },
+      {
+       "outlet": "TDN台灣生活新聞",
+       "url": "https://news.st-media.com.tw/news/64416",
+       "published_at": "2026-11-19T00:00:00+08:00"
+      },
+      {
+       "outlet": "中華新聞雲",
+       "url": "https://www.cdns.com.tw/articles/1492401",
+       "published_at": "2026-11-18T16:16:00+08:00"
+      }
+     ],
+     "image": "https://www.kingtop.com.tw/uploadfiles/l/20261122231040_69083.jpg"
+    },
+    {
+     "id": "20261118-mrt-rent-dongqu",
+     "title": "北捷店租統計出爐，東區商圈三站店面租賃熱絡，報導指受大巨蛋外溢帶動",
+     "summary": "永慶房屋統計北捷十大店租站點，東門站每坪月租居冠，報導指東區三站店面租賃熱絡，並提到大巨蛋賽事與演唱會帶來商機。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-22T16:00:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "東區商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "東區商圈為115年補助名單，報導指店面租賃熱絡，可留意商圈人潮與店家營運變化。",
+     "sources": [
+      {
+       "outlet": "民報",
+       "url": "https://www.peoplenews.tw/articles/investment-financialmgmt/68453",
+       "published_at": "2026-11-22T16:00:00+08:00"
+      },
+      {
+       "outlet": "中時新聞網",
+       "url": "https://www.chinatimes.com/newspapers/20261121000463-260110",
+       "published_at": "2026-11-21T04:10:00+08:00"
+      },
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261120701232-430503",
+       "published_at": "2026-11-20T14:17:00+08:00"
+      },
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/5621/9886734",
+       "published_at": "2026-11-18T15:17:00+08:00"
+      },
+      {
+       "outlet": "太報",
+       "url": "https://www.taisounds.com/news/content/75/310474",
+       "published_at": "2026-11-18T15:17:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7241/9886557",
+       "published_at": "2026-11-18T14:04:00+08:00"
+      },
+      {
+       "outlet": "中央社",
+       "url": "https://www.cna.com.tw/business/chinese/450444",
+       "published_at": "2026-11-18T05:32:00+08:00"
+      }
+     ],
+     "image": "https://www.peoplenews.tw/wp-content/uploads/2026/11/pXkVgGUDAh6u.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
