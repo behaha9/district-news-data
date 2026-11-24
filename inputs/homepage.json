@@ -1,20 +1,61 @@
 {
- "fetched_at": "2026-11-24T07:17:30+08:00",
- "generated_at": "2026-11-24T07:17:30+08:00",
+ "fetched_at": "2026-11-24T12:16:50+08:00",
+ "generated_at": "2026-11-24T12:16:50+08:00",
  "window": "7d",
- "event_count": 46,
- "article_count": 78,
+ "event_count": 50,
+ "article_count": 85,
  "items": [
+  {
+   "url": "https://www.cna.com.tw/news/aloc/202611240066.aspx",
+   "title": "北市府推無菸城市 衛生局:3禁菸商圈支持度高",
+   "source": "中央通訊社・地方",
+   "published_at": "2026-11-24T11:24:13+08:00",
+   "event_key": "art:258ff66eaa9b768b7802d4268a48f85229478bf2d264672282ed275f3a193b37",
+   "primary": true,
+   "summary": "(中央社記者楊淑閔台北24日電)台北市政府衛生局今天發布新聞稿表示,「台北無菸城市」已設267處指定吸菸區,其中15處負壓式吸菸區累計使用近88萬人次,3禁菸商圈支持度超過9成5,滿意度超過9成。"
+  },
+  {
+   "url": "https://www.chinatimes.com/newspapers/20261124000287-260210",
+   "title": "BTS高雄開唱、三天吸10億觀光財旅宿、交通、商圈零售全吃補- 產業特刊- 工商時報",
+   "source": "中時新聞網",
+   "published_at": "2026-11-24T04:10:00+08:00",
+   "event_key": "art:6e2a7126e7db5e851f5baabbe59b789bafb2e28bb2c87126d10c5d57112513d2",
+   "primary": true,
+   "cities": [
+    "高雄市"
+   ]
+  },
   {
    "url": "https://www.ctee.com.tw/news/20261124700108-439901",
    "title": "BTS高雄開唱、三天吸10億觀光財 旅宿、交通、商圈零售全吃補",
    "source": "工商時報",
    "published_at": "2026-11-24T00:00:00+08:00",
-   "event_key": "art:5a5794becd3611fc2114a4ca79c54136dbe2cbd76db1622b4aec5e6cc9f1dc0c",
-   "primary": true,
-   "summary": "高市府串聯85大樓等地標點亮代表BTS的浪漫紫色燈海,打造全城應援氛圍,被視為是相當成功的城市品牌行銷。圖/高雄市新聞局提供高雄演唱會經濟再攀巔峰。韓國天團BTS於19、21、22日在高雄世運主場館舉辦世界巡迴演唱會,不僅門票秒殺,場內外更累計吸引高達30萬人次湧入港都。根據高雄市觀光局最新統計,B ...",
+   "event_key": "art:6e2a7126e7db5e851f5baabbe59b789bafb2e28bb2c87126d10c5d57112513d2",
+   "primary": false,
    "cities": [
     "高雄市"
+   ]
+  },
+  {
+   "url": "https://n.yam.com/Article/20261124965859",
+   "title": "2026商圈狂歡節「萬市慶豐年」全臺商圈齊聚、「軍中情人」方季惟驚喜現身",
+   "source": "蕃新聞",
+   "published_at": "2026-11-24T00:00:00+08:00",
+   "event_key": "art:966fa4a2dec9da410d71b220ede92f414fa6c3c86d645d6e75a724044e24677a",
+   "primary": true,
+   "summary": "本次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費與娛樂的年度商圈盛會,邀請民眾走進北投,一次感受臺灣各地商圈的多元魅力,共同迎接熱鬧豐收的秋日嘉年華。",
+   "date_only": true
+  },
+  {
+   "url": "https://life.tw/article/%E8%87%BA%E5%8C%97%E5%B8%82%E6%8E%A8%E5%8B%95%E7%84%A1%E8%8F%B8%E5%9F%8E%E5%B8%82%E6%94%BF%E7%AD%96-%E7%A6%81%E8%8F%B8%E5%95%86%E5%9C%88%E6%94%AF%E6%8C%81%E5%BA%A6%E8%88%87%E6%BB%BF%E6%84%8F%E5%BA%A6%E5%9D%87%E8%B6%85%E9%81%8E9%E6%88%90-3231746",
+   "title": "臺北市推動無菸城市政策 禁菸商圈支持度與滿意度均超過9成",
+   "source": "LIFE 生活網",
+   "published_at": "2026-11-24T00:00:00+08:00",
+   "event_key": "art:0f14dbd24f99877ded9756f828d94b5b6e1f0e03d8a36486a2b70d50deeb6dd7",
+   "primary": true,
+   "summary": "【記者 潘靖茹/臺北報導】臺北市長蔣萬安於今(115)年1月宣布逐步推動「臺北無菸城市」計畫,旨在分流吸菸者與非吸菸者的空間,降低戶外二手菸的暴露風險。目前全市已設置267處指定吸菸區,其中15處為負壓式吸菸區,累計使用人次近88萬。 根據調查,推動無菸城市政策的三大禁菸商圈支持度均超過93.1%,滿意度亦超過93.5",
+   "cities": [
+    "台北市"
    ],
    "date_only": true
   },
@@ -35,28 +76,60 @@
    "primary": true
   },
   {
+   "url": "https://sunmedia.tw/news/collaborative/SjPLoekVCmOMWNZC8Ajui0z8PJ05rZgMz7apeDrT9i9MxGeGpEsSBxCrjGQivkQ",
+   "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
+   "source": "商傳媒",
+   "published_at": "2026-11-23T18:15:00+08:00",
+   "event_key": "art:bbb06b2e352b183c330c60f80a85e75c92616445c37d4e46f1a5c25d2f01f791",
+   "primary": true,
+   "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。此次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
+   "date_only": true
+  },
+  {
    "url": "https://www.yesmedia.com.tw/2026%E5%95%86%E5%9C%88%E7%8B%82%E6%AD%A1%E7%AF%80%E3%80%8C%E8%90%AC%E5%B8%82%E6%85%B6%E8%B1%90%E5%B9%B4%E3%80%8D%E5%85%A8%E8%87%BA%E7%89%B9%E8%89%B2%E5%95%86%E5%9C%88%E9%BD%8A%E8%81%9A%E5%8C%97-2/",
    "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
    "source": "https://www.yesmedia.com.tw/",
    "published_at": "2026-11-23T18:15:00+08:00",
-   "event_key": "art:5adc3b6902156d6c8838431ee13973ee7a5217147a3c0ae453c4765ed68d4052",
-   "primary": true
+   "event_key": "art:bbb06b2e352b183c330c60f80a85e75c92616445c37d4e46f1a5c25d2f01f791",
+   "primary": false,
+   "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。此次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
+   "date_only": true
   },
   {
    "url": "https://vocus.cc/article/amp/6b04050afd8978000140c461",
    "title": "北投散場後,誰會再走進商圈?|神奇的傑克 - 方格子",
    "source": "vocus",
    "published_at": "2026-11-23T17:40:00+08:00",
-   "event_key": "art:083098a1a4c4e6aed9032b9e3e13642cefd3310b42e7c3ee2c981d004586ad37",
-   "primary": false
+   "event_key": "art:a27e1d05d386bba8cd693a08beff260c17ce511c02926bcb3d796d8656750c87",
+   "primary": true
   },
   {
    "url": "https://n.yam.com/Article/20261123458922",
    "title": "北投散場後,誰會再走進商圈?",
    "source": "蕃新聞",
    "published_at": "2026-11-23T17:32:00+08:00",
-   "event_key": "art:083098a1a4c4e6aed9032b9e3e13642cefd3310b42e7c3ee2c981d004586ad37",
-   "primary": true
+   "event_key": "art:a27e1d05d386bba8cd693a08beff260c17ce511c02926bcb3d796d8656750c87",
+   "primary": false
+  },
+  {
+   "url": "https://sunmedia.tw/news/collaborative/37PnoorVSa5f1LfRamI1dz8T5RdLr89LmvJUoCXGBJxMqz44iYTF0WMOUc40pjbKjjFeCYZbduXfTkO9hIlx",
+   "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
+   "source": "商傳媒",
+   "published_at": "2026-11-23T16:30:00+08:00",
+   "event_key": "art:bbb06b2e352b183c330c60f80a85e75c92616445c37d4e46f1a5c25d2f01f791",
+   "primary": false,
+   "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。此次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
+   "date_only": true
+  },
+  {
+   "url": "https://money.udn.com/money/story/11799/9896409",
+   "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
+   "source": "經濟日報",
+   "published_at": "2026-11-23T16:02:00+08:00",
+   "event_key": "art:bbb06b2e352b183c330c60f80a85e75c92616445c37d4e46f1a5c25d2f01f791",
+   "primary": false,
+   "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。此次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
+   "date_only": true
   },
   {
    "url": "https://ec.ltn.com.tw/article/breakingnews/5650640",
@@ -91,6 +164,16 @@
    "primary": true
   },
   {
+   "url": "https://www.yesmedia.com.tw/2026%e5%95%86%e5%9c%88%e7%8b%82%e6%ad%a1%e7%af%80%e3%80%8c%e8%90%ac%e5%b8%82%e6%85%b6%e8%b1%90%e5%b9%b4%e3%80%8d%e5%85%a8%e8%87%ba%e7%89%b9%e8%89%b2%e5%95%86%e5%9c%88%e9%bd%8a%e8%81%9a%e5%8c%97-2/",
+   "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
+   "source": "是新聞",
+   "published_at": "2026-11-23T10:15:00+08:00",
+   "event_key": "art:bbb06b2e352b183c330c60f80a85e75c92616445c37d4e46f1a5c25d2f01f791",
+   "primary": false,
+   "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。此次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
+   "date_only": true
+  },
+  {
    "url": "https://money.udn.com/money/story/5635/9894441",
    "title": "宇方圓大隱於市 信義商圈首見2億打造綜合式當代中菜餐廳 | 熱門亮點 | 商情",
    "source": "經濟日報",
@@ -103,7 +186,7 @@
    "title": "北投散場後,誰會再走進商圈?",
    "source": "pronews",
    "published_at": "2026-11-23T09:18:00+08:00",
-   "event_key": "art:083098a1a4c4e6aed9032b9e3e13642cefd3310b42e7c3ee2c981d004586ad37",
+   "event_key": "art:a27e1d05d386bba8cd693a08beff260c17ce511c02926bcb3d796d8656750c87",
    "primary": false
   },
   {
@@ -111,8 +194,16 @@
    "title": "北投散場後,誰會再走進商圈?",
    "source": "LIFE 生活網",
    "published_at": "2026-11-23T09:18:00+08:00",
-   "event_key": "art:083098a1a4c4e6aed9032b9e3e13642cefd3310b42e7c3ee2c981d004586ad37",
+   "event_key": "art:a27e1d05d386bba8cd693a08beff260c17ce511c02926bcb3d796d8656750c87",
    "primary": false
+  },
+  {
+   "url": "https://www.myhousing.com.tw/l/l04/308138/",
+   "title": "「2026全國卓越商圈獎」20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
+   "source": "住展雜誌",
+   "published_at": "2026-11-23T08:55:00+08:00",
+   "event_key": "art:352f32917b14f2f01a7a7394d17f29aa5e5164d574afff4e8d8475ba44f8115c",
+   "primary": true
   },
   {
    "url": "https://n.yam.com/Article/20261122122163",
@@ -142,36 +233,24 @@
    ]
   },
   {
-   "url": "https://sunmedia.tw/news/collaborative/37PnoorVSa5f1LfRamI1dz8T5RdLr89LmvJUoCXGBJxMqz44iYTF0WMOUc40pjbKjjFeCYZbduXfTkO9hIlx",
-   "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
-   "source": "商傳媒",
-   "published_at": "2026-11-23T02:30:00+08:00",
-   "event_key": "art:5adc3b6902156d6c8838431ee13973ee7a5217147a3c0ae453c4765ed68d4052",
-   "primary": false
-  },
-  {
-   "url": "https://money.udn.com/money/story/11799/9896409",
-   "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
-   "source": "經濟日報",
-   "published_at": "2026-11-23T02:02:00+08:00",
-   "event_key": "art:5adc3b6902156d6c8838431ee13973ee7a5217147a3c0ae453c4765ed68d4052",
-   "primary": false
-  },
-  {
    "url": "https://n.yam.com/Article/20261123780759",
    "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
    "source": "蕃新聞",
    "published_at": "2026-11-23T00:00:00+08:00",
-   "event_key": "art:5adc3b6902156d6c8838431ee13973ee7a5217147a3c0ae453c4765ed68d4052",
-   "primary": false
+   "event_key": "art:bbb06b2e352b183c330c60f80a85e75c92616445c37d4e46f1a5c25d2f01f791",
+   "primary": false,
+   "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。此次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
+   "date_only": true
   },
   {
    "url": "https://mknews.com.tw/2026/11/1022785/",
    "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
    "source": "天天上新聞",
    "published_at": "2026-11-23T00:00:00+08:00",
-   "event_key": "art:5adc3b6902156d6c8838431ee13973ee7a5217147a3c0ae453c4765ed68d4052",
-   "primary": false
+   "event_key": "art:bbb06b2e352b183c330c60f80a85e75c92616445c37d4e46f1a5c25d2f01f791",
+   "primary": false,
+   "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。此次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
+   "date_only": true
   },
   {
    "url": "https://www.kingtop.com.tw/detail.php?type=lastest&id=56048",
@@ -260,7 +339,7 @@
    "title": "「2026全國卓越商圈獎」20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
    "source": "蕃新聞",
    "published_at": "2026-11-22T07:04:00+08:00",
-   "event_key": "art:04a0782c1b10cd660115f6523bd06c72b359aa1e04e0fa1bff132acc4a4375bd",
+   "event_key": "archive:afe768576c5c3884",
    "primary": true
   },
   {
@@ -268,7 +347,7 @@
    "title": "「2026全國卓越商圈獎」20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
    "source": "享新聞",
    "published_at": "2026-11-22T07:04:00+08:00",
-   "event_key": "art:04a0782c1b10cd660115f6523bd06c72b359aa1e04e0fa1bff132acc4a4375bd",
+   "event_key": "archive:afe768576c5c3884",
    "primary": false
   },
   {
@@ -389,7 +468,7 @@
    "title": "當年亞洲最大店H&M西門旗艦店 十年租約到期熄燈戰線轉移信義商圈",
    "source": "聯合新聞網",
    "published_at": "2026-11-20T09:55:00+08:00",
-   "event_key": "art:65dd75a8026bcafc0faf33227077171a62a8c14d1fb26881e657168ef751b7c7",
+   "event_key": "archive:f4f18dff06fd0930",
    "primary": true,
    "summary": "台北西門町商圈指標性地標H&M西門旗艦店,因十年租約期滿不再續約,於11月19日低調結束營業,H&M台灣今早也在官方社群證實發文:「在西門町待了十年,先跟老朋友說聲謝啦」,接下來台灣旗艦店重任將由信義商圈的「台北微風松高店」接棒。",
    "date_only": true
@@ -399,7 +478,7 @@
    "title": "當年亞洲最大店H&M西門旗艦店 十年租約到期熄燈戰線轉移信義商圈",
    "source": "UDN",
    "published_at": "2026-11-20T09:55:00+08:00",
-   "event_key": "art:65dd75a8026bcafc0faf33227077171a62a8c14d1fb26881e657168ef751b7c7",
+   "event_key": "archive:f4f18dff06fd0930",
    "primary": false,
    "summary": "台北西門町商圈指標性地標H&M西門旗艦店,因十年租約期滿不再續約,於11月19日低調結束營業,H&M台灣今早也在官方社群證實發文:「在西門町待了十年,先跟老朋友說聲謝啦」,接下來台灣旗艦店重任將由信義商圈的「台北微風松高店」接棒。",
    "date_only": true
@@ -409,7 +488,7 @@
    "title": "當年亞洲最大店H&M西門旗艦店 十年租約到期熄燈戰線轉移信義商圈",
    "source": "UDN",
    "published_at": "2026-11-20T09:55:00+08:00",
-   "event_key": "art:65dd75a8026bcafc0faf33227077171a62a8c14d1fb26881e657168ef751b7c7",
+   "event_key": "archive:f4f18dff06fd0930",
    "primary": false,
    "summary": "台北西門町商圈指標性地標H&M西門旗艦店,因十年租約期滿不再續約,於11月19日低調結束營業,H&M台灣今早也在官方社群證實發文:「在西門町待了十年,先跟老朋友說聲謝啦」,接下來台灣旗艦店重任將由信義商圈的「台北微風松高店」接棒。",
    "date_only": true
@@ -419,7 +498,7 @@
    "title": "當年亞洲最大旗艦店!H&M西門町十年租約到期熄燈 戰線轉移信義商圈",
    "source": "udnSTYLE",
    "published_at": "2026-11-20T09:55:00+08:00",
-   "event_key": "art:65dd75a8026bcafc0faf33227077171a62a8c14d1fb26881e657168ef751b7c7",
+   "event_key": "archive:f4f18dff06fd0930",
    "primary": false,
    "summary": "台北西門町商圈指標性地標H&M西門旗艦店,因十年租約期滿不再續約,於11月19日低調結束營業,H&M台灣今早也在官方社群證實發文:「在西門町待了十年,先跟老朋友說聲謝啦」,接下來台灣旗艦店重任將由信義商圈的「台北微風松高店」接棒。",
    "date_only": true
@@ -511,12 +590,9 @@
    "title": "台北四平商圈必吃美食!「種福園」手作斤餅越嚼越香 合菜戴帽也不容錯過",
    "source": "travel.udn",
    "published_at": "2026-11-19T16:00:00+08:00",
-   "event_key": "art:a8b764e5f1701eb6a8ece4970477e329d552a653b4d4883063826d98cd61b3e3",
+   "event_key": "archive:b6c4c44abd61b530",
    "primary": true,
    "summary": "捷運松江南京站美食真推薦四平商圈的種福園。喜歡餅類或北方料理的朋友,種福園絕對值得一試!他們家的主打是斤餅,老師傅親手揉麵團烤餅,口感Q彈且越嚼越香又略帶溼潤,搭配菜單上的餡料都很合拍。(文末有種福園影片) ...",
-   "cities": [
-    "台北市"
-   ],
    "date_only": true
   },
   {
