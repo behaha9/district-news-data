@@ -1,0 +1,180 @@
+{
+ "date": "2026-11-25",
+ "runs": [
+  {
+   "at": "2026-11-25T07:18:31+08:00",
+   "added": 2,
+   "merged": 3,
+   "items": [
+    {
+     "id": "20261124-kaohsiung-bts-bizzone",
+     "title": "BTS高雄演唱會三天吸引30萬人次，報導指旅宿、交通與商圈零售受惠",
+     "summary": "工商時報報導高市觀光局統計，BTS三場演唱會累計吸引約30萬人次，帶動旅宿、交通與商圈零售消費。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-24T04:10:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "中時新聞網",
+       "url": "https://www.chinatimes.com/newspapers/20261124000287-260210",
+       "published_at": "2026-11-24T04:10:00+08:00"
+      },
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261124700108-439901",
+       "published_at": "2026-11-24T03:00:00+08:00"
+      }
+     ],
+     "image": "https://images.chinatimes.com/newsphoto/2026-11-24/656/A06A00_P_04_02.jpg"
+    },
+    {
+     "id": "20261124-qishan-oldstreet-collision",
+     "title": "旗山老街轉角店面屢遭遊覽車擦撞，店家掛牌警告仍難避免",
+     "summary": "東森新聞報導旗山老街轉角店面多次遭遊覽車撞擊，標題指已掛牌警告但效果有限（內文未能讀取，依標題整理）。",
+     "category": "商圈動向",
+     "alert": null,
+     "published_at": "2026-11-24T00:00:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "東森新聞",
+       "url": "https://www.msn.com/zh-tw/news/other/%E6%97%97%E5%B1%B1%E8%80%81%E8%A1%97%E6%AF%8F%E5%BD%8E%E5%BF%85%E6%92%9E-%E8%BD%89%E8%A7%92%E5%BA%97%E6%85%98%E6%8C%A8%E6%92%9E14%E6%AC%A1-%E9%81%8A%E8%A6%BD%E8%BB%8A%E7%A1%AC%E9%81%8E%E5%8D%A1%E6%A3%9A-%E6%8E%9B%E7%89%8C%E8%AD%A6%E5%91%8A-%E9%81%8E%E4%B8%8D%E5%8E%BB-%E6%B2%92%E7%94%A8-%E6%B0%91%E6%80%A8%E8%AA%BF%E6%9F%A5%E5%B1%80/vi-AA2i87vp",
+       "published_at": "2026-11-24T00:00:00+08:00"
+      }
+     ]
+    },
+    {
+     "id": "20261124-tainan-magic-xmas",
+     "title": "臺南魔法聖誕節12/5至12/6登場，大東橋商圈與市立圖書館新總館共辦市集",
+     "summary": "活動於大東橋商圈與臺南市立圖書館新總館舉行，報導提到逾200家品牌市集、14公尺聖誕樹與親子DIY。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-24T10:32:00+08:00",
+     "cities": [
+      "台南市"
+     ],
+     "districts": [
+      {
+       "name": "大東橋商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "大東橋商圈為115年補助名單，活動已公開辦理資訊，可作為執行佐證參考。",
+     "sources": [
+      {
+       "outlet": "喚月部落格",
+       "url": "https://moonvoke.com/posts/tainan-magic-christmas-festival-2026/",
+       "published_at": "2026-11-24T10:32:00+08:00"
+      },
+      {
+       "outlet": "天天上新聞",
+       "url": "https://mknews.com.tw/2026/11/1023015/",
+       "published_at": "2026-11-24T09:49:00+08:00"
+      },
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/776404/",
+       "published_at": "2026-11-24T09:26:00+08:00"
+      }
+     ],
+     "image": "https://moonvoke.com/images/news/tainan-magic-christmas-festival-2026.webp?v=913480fd"
+    },
+    {
+     "id": "20261122-beitou-hanayukata",
+     "title": "2026臺北北投花浴衣節在七星街登場，攜手永樂商圈協會與日本舞團",
+     "summary": "報導指臺北市商業處輔導溫泉發展協會辦理北投花浴衣節，22日於七星街登場，今年邀台北市永樂商圈發展協會參與，以塑造新北投溫泉商圈品牌。",
+     "category": "活動與街區",
+     "alert": null,
+     "published_at": "2026-11-24T00:00:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "新北投溫泉商圈",
+       "priority": true
+      },
+      {
+       "name": "永樂商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "臺北旅遊網",
+       "url": "https://www.travel.taipei/zh-tw/news/details/68394",
+       "published_at": "2026-11-24T00:00:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261123932553",
+       "published_at": "2026-11-23T17:24:00+08:00"
+      },
+      {
+       "outlet": "報新聞",
+       "url": "https://www.contentplatform.info/articles/587569/%e5%8c%97%e6%8a%95%e8%8a%b1%e6%b5%b4%e8%a1%a3%e7%af%8011-22%e7%99%bb%e5%a0%b4%e3%80%80%e6%94%9c%e6%89%8b%e6%b0%b8%e6%a8%82%e5%95%86%e5%9c%88%e3%80%81%e6%97%a5%e6%9c%acyosakoi%e8%88%9e%e5%9c%98/",
+       "published_at": "2026-11-23T12:45:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261123779174",
+       "published_at": "2026-11-23T12:45:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261122798398",
+       "published_at": "2026-11-22T15:20:00+08:00"
+      }
+     ],
+     "admin_note": "新北投溫泉商圈、永樂商圈皆為115年補助名單，活動已辦理並有跨商圈合作，可作為執行佐證參考。",
+     "image": "https://www.travel.taipei/content/images/articles/585151/1024x768_articles-image-tetheobmhus52du1cdhluw.jpg"
+    },
+    {
+     "id": "20261115-kaohsiung-bts-guide",
+     "title": "高雄市府推「紫愛你應援指南」，BTS演唱會前串聯商圈店家與數位券",
+     "summary": "報導指高雄市府針對BTS高雄演唱會推出應援指南，結合隨播活動、店家串聯與百元數位券，帶動中央公園周邊商圈消費。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-21T00:00:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [
+      {
+       "name": "中央公園商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "allnews",
+       "url": "https://allnews.tw/news/97277",
+       "published_at": "2026-11-21T00:00:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261115929572",
+       "published_at": "2026-11-15T16:06:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261115193513",
+       "published_at": "2026-11-15T16:01:00+08:00"
+      }
+     ],
+     "admin_note": "中央公園商圈為115年補助名單，演唱會期間店家串聯活動可留意作為執行佐證或成效參考。",
+     "image": "https://allnewstp.s3.ap-east-2.amazonaws.com/img/news/aFlkOVsmGqvpLif9zyIQ1QcC0SFSb2qVkPOOcTBA.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
+  }
+ ]
+}

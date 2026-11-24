@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-24T20:52:09+08:00",
+ "updated_at": "2026-11-25T07:18:32+08:00",
  "reviewed": {
   "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html": {
    "decision": "hidden",
@@ -26,6 +26,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-22"
+  },
+  "https://ctinews.com/news/items/BexXQ7Vrnb": {
+   "decision": "kept",
+   "item": "20261124-taipei-smokefree-districts",
+   "at": "2026-11-25"
   },
   "https://demo.52salon.com/uninews_view.php?new_sn=150115": {
    "decision": "kept",
@@ -91,11 +96,6 @@
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-15"
-  },
-  "https://life.tw/article/%E5%AA%92%E8%A7%92%E4%B8%89%E9%B6%AF%E6%96%87%E5%89%B5-%E5%9C%9F%E6%A8%B9%E5%B7%A5%E6%A5%AD%E5%9C%92%E5%8D%80-%E5%91%82%E5%AE%B6%E6%84%B7-%E4%BF%83%E9%80%B2%E6%96%B0%E5%8C%9728%E5%95%86%E5%9C%88%E5%A4%9C%E7%B6%93%E6%BF%9F-3208126": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-10"
   },
   "https://life.tw/article/%E6%A1%83%E5%9C%92%E5%95%86%E6%A5%AD%E8%BD%89%E5%9E%8B%E4%B8%AD%E5%BF%83%E4%B8%89%E5%B9%B4%E6%9C%89%E6%88%90-%E8%98%87%E4%BF%8A%E8%B3%93%E7%9B%BC%E5%95%86%E5%9C%88%E9%81%8B%E7%94%A8%E7%A7%91%E6%8A%80%E5%89%B5%E6%96%B0%E5%BC%B7%E5%8C%96%E7%AB%B6%E7%88%AD%E5%8A%9B-3216266": {
    "decision": "kept",
@@ -171,11 +171,6 @@
    "decision": "kept",
    "item": "20261112-banxin-mrt-tod",
    "at": "2026-11-14"
-  },
-  "https://n.yam.com/Article/20261109355042": {
-   "decision": "kept",
-   "item": "20261106-dongqu-anniv",
-   "at": "2026-11-10"
   },
   "https://n.yam.com/Article/20261110352167": {
    "decision": "kept",
@@ -337,15 +332,15 @@
    "reason": "治安車禍",
    "at": "2026-11-11"
   },
-  "https://storystudio.tw/article/gushi/the-story-of-nanfang-ao": {
-   "decision": "hidden",
-   "reason": "業配遊記",
-   "at": "2026-11-10"
-  },
   "https://sunmedia.tw/news/collaborative/1i4pc1MpcXmZHD8KvBPi05uC9hZiCbYotnU4fsG6wR03x47yoHh0yXIe": {
    "decision": "kept",
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-12"
+  },
+  "https://sunmedia.tw/news/collaborative/66CvdNfgDPQ01qa296sQ65f26c0lcUb5z1OKckTnupdJGyqV8FtLldhkq2B3r": {
+   "decision": "kept",
+   "item": "20261123-district-carnival-beitou",
+   "at": "2026-11-25"
   },
   "https://taidaily.com/2026/11/19/585808/": {
    "decision": "hidden",
@@ -437,11 +432,6 @@
    "item": "20261112-rongcho-streetdance",
    "at": "2026-11-14"
   },
-  "https://tw.news.yahoo.com/%E8%AC%9D%E5%9C%8B%E6%A8%91%E7%B6%93%E6%BF%9F%E7%99%BC%E5%B1%95%E6%96%B0%E8%97%8D%E5%9C%96-%E4%BA%94%E5%A0%B5%E6%99%BA%E6%85%A7%E7%A7%91%E6%8A%80%E5%9C%92%E5%8D%80-ai%E7%94%A2%E6%A5%AD%E5%8F%8A%E6%9D%B1%E5%B2%B8%E5%95%86%E5%9C%88%E5%B8%B6%E5%8B%95%E5%9F%BA%E9%9A%86%E8%BD%89%E5%9E%8B-111254487.html": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-10"
-  },
   "https://tw.sports.yahoo.com/tv/tv-partners/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92-%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E-114753534.html": {
    "decision": "kept",
    "item": "20261107-shalu-monkey",
@@ -466,11 +456,6 @@
    "decision": "kept",
    "item": "20261119-hm-ximen-closing",
    "at": "2026-11-21"
-  },
-  "https://udn.com/news/amp/story/7325/9867344": {
-   "decision": "kept",
-   "item": "20261109-yizhong-illegal-shop",
-   "at": "2026-11-10"
   },
   "https://udn.com/news/story/124652/9872283": {
    "decision": "hidden",
@@ -502,6 +487,11 @@
    "item": "20261112-gimme-xinyi",
    "at": "2026-11-12"
   },
+  "https://udn.com/news/story/7323/9899777": {
+   "decision": "kept",
+   "item": "20261124-taipei-smokefree-districts",
+   "at": "2026-11-25"
+  },
   "https://udn.com/vote2026/story/124652/9880107": {
    "decision": "hidden",
    "reason": "選舉",
@@ -512,6 +502,16 @@
    "reason": "選舉",
    "at": "2026-11-12"
   },
+  "https://www.atanews.net/?Wirenews=H20261124142911": {
+   "decision": "kept",
+   "item": "20261123-district-carnival-beitou",
+   "at": "2026-11-25"
+  },
+  "https://www.cdns.com.tw/articles/1495917": {
+   "decision": "kept",
+   "item": "20261124-taipei-smokefree-districts",
+   "at": "2026-11-25"
+  },
   "https://www.chinatimes.com/newspapers/20261113000682-260107": {
    "decision": "kept",
    "item": "20261112-taoyuan-biz-transform",
@@ -521,16 +521,6 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-16"
-  },
-  "https://www.chinatimes.com/newspapers/20261124000287-260210": {
-   "decision": "hidden",
-   "reason": "非商圈",
-   "at": "2026-11-24"
-  },
-  "https://www.chinatimes.com/realtimenews/20261110000009-260409": {
-   "decision": "hidden",
-   "reason": "國外",
-   "at": "2026-11-10"
   },
   "https://www.chinatimes.com/realtimenews/20261110003364-260405": {
    "decision": "hidden",
@@ -587,11 +577,6 @@
    "reason": "選舉",
    "at": "2026-11-16"
   },
-  "https://www.ctee.com.tw/news/20261109701492-431206": {
-   "decision": "hidden",
-   "reason": "房地產",
-   "at": "2026-11-10"
-  },
   "https://www.ctee.com.tw/news/20261112700407-431207": {
    "decision": "kept",
    "item": "20261110-moea-excellent-district-award",
@@ -601,11 +586,6 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-16"
-  },
-  "https://www.ctee.com.tw/news/20261124700108-439901": {
-   "decision": "hidden",
-   "reason": "非商圈",
-   "at": "2026-11-24"
   },
   "https://www.ettoday.net/amp/3271482": {
    "decision": "hidden",
@@ -626,16 +606,6 @@
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-13"
-  },
-  "https://www.fbs168.com/news/11311-kaohsiung-ji-20-urban-renewal-breaks-ground-1741-homes": {
-   "decision": "hidden",
-   "reason": "房地產",
-   "at": "2026-11-10"
-  },
-  "https://www.ftnn.com.tw/news/594542": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-10"
   },
   "https://www.ftvnews.com.tw/news/detail/2026B19W0403": {
    "decision": "hidden",
@@ -717,11 +687,6 @@
    "reason": "治安車禍",
    "at": "2026-11-13"
   },
-  "https://www.msn.com/zh-tw/news/other/%E6%9C%89%E7%8C%B4%E5%87%BA%E6%B2%92%E5%8F%B0%E4%B8%AD%E9%B9%BF%E5%AF%AE%E6%88%90%E8%A1%A3%E5%95%86%E5%9C%88-%E9%9B%84%E7%8C%B4%E4%BA%82%E7%AB%84%E5%B1%85%E6%B0%91%E9%A9%9A%E6%85%8C-%E9%8F%A1%E6%96%B0%E8%81%9E/vi-AA2gXe6B": {
-   "decision": "kept",
-   "item": "20261107-shalu-monkey",
-   "at": "2026-11-10"
-  },
   "https://www.msn.com/zh-tw/news/other/%E7%8D%A8-%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E5%87%BA%E7%8F%BE-%E7%A2%B0%E7%93%B7%E5%B9%AB-%E5%AD%B8%E7%94%9F%E9%81%87%E7%94%B7%E5%AD%90%E7%B4%A2%E8%B3%A0%E4%B8%8A%E5%8D%83%E5%85%83/ar-AA2i5Wos": {
    "decision": "hidden",
    "reason": "治安車禍",
@@ -741,6 +706,11 @@
    "decision": "kept",
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-14"
+  },
+  "https://www.nownews.com/amp/news/6895189": {
+   "decision": "kept",
+   "item": "20261124-taipei-smokefree-districts",
+   "at": "2026-11-25"
   },
   "https://www.pbs.npa.gov.tw/ch/app/data/view?module=wg183&id=18740&serno=19679e7f-333a-42a1-a495-d8b8b6c177ac": {
    "decision": "hidden",
@@ -791,6 +761,11 @@
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-21"
+  },
+  "https://www.tcpttw.com/entertainment/2026/11/24/334129/": {
+   "decision": "kept",
+   "item": "20261123-district-carnival-beitou",
+   "at": "2026-11-25"
   },
   "https://www.tcpttw.com/other/other_local/2026/11/09/328487/": {
    "decision": "hidden",
