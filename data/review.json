@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-24T16:52:09+08:00",
+ "updated_at": "2026-11-24T20:52:09+08:00",
  "reviewed": {
   "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html": {
    "decision": "hidden",
@@ -367,6 +367,11 @@
    "reason": "選舉",
    "at": "2026-11-12"
   },
+  "https://today.line.me/tw/v3/article/nXpnNRy": {
+   "decision": "hidden",
+   "reason": "非商圈",
+   "at": "2026-11-24"
+  },
   "https://travel.ettoday.net/amp/3271765": {
    "decision": "kept",
    "item": "20261113-zhongyuan-mickey-steak",
@@ -481,6 +486,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-19"
+  },
+  "https://udn.com/news/story/124652/9898358": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-24"
   },
   "https://udn.com/news/story/7205/9875791": {
    "decision": "kept",
@@ -672,6 +682,11 @@
    "item": "20261110-kaohsiung-xmas-fest",
    "at": "2026-11-12"
   },
+  "https://www.msn.com/zh-tw/health/mindandbody/%E8%94%A3%E8%90%AC%E5%AE%89%E7%84%A1%E8%8F%B8%E5%9F%8E%E5%B8%82%E6%88%90%E6%95%88%E6%9B%9D-3%E5%A4%A7%E5%95%86%E5%9C%88%E6%BB%BF%E6%84%8F%E5%BA%A6%E9%A3%869%E6%88%90/ar-AA2i7vLC": {
+   "decision": "kept",
+   "item": "20261124-taipei-smokefree-districts",
+   "at": "2026-11-24"
+  },
   "https://www.msn.com/zh-tw/news/living/%E4%B8%AD%E5%8E%9F%E5%95%86%E5%9C%88%E7%9F%A5%E5%90%8D%E7%89%9B%E6%8E%92%E9%A4%A8%E5%B0%87%E7%86%84%E7%87%88%E5%9C%A8%E5%9C%B0%E7%B6%93%E7%87%9F30%E5%B9%B4-%E6%A5%AD%E8%80%85%E7%99%BC%E9%81%93%E5%88%A5%E6%96%87-%E8%80%81%E9%A1%A7%E5%AE%A2%E4%B8%8D%E6%8D%A8/ar-AA2hpcHy": {
    "decision": "kept",
    "item": "20261113-zhongyuan-mickey-steak",
@@ -756,6 +771,11 @@
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-13"
+  },
+  "https://www.sjtv.com.tw/articles/126623": {
+   "decision": "kept",
+   "item": "20261124-taipei-smokefree-districts",
+   "at": "2026-11-24"
   },
   "https://www.storm.mg/article/11182682": {
    "decision": "hidden",
