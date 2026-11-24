@@ -1,23 +1,51 @@
 {
- "fetched_at": "2026-11-24T18:08:45+08:00",
+ "fetched_at": "2026-11-24T20:51:12+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 106,
-  "kept": 53,
-  "resolved": 50,
-  "items": 49,
+  "raw": 105,
+  "kept": 52,
+  "resolved": 49,
+  "items": 50,
   "resolve_this_run": {
    "online": 5
   },
   "dropped_old": [
-   "復古美學新風貌！學甲市場15面特色招牌亮麗登場（原文日期 2022-05-25）",
    "台北「淘動漫」大師店開幕 都會商圈卡位與擴大客群（原文日期 2026-07-22）",
-   "宜蘭社大走讀西門老街/串起婚喪喜慶百工與蓪草花藝（原文日期 2026-10-28）",
-   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
+   "宜蘭社大走讀西門老街/串起婚喪喜慶百工與蓪草花藝（原文日期 2026-10-28）"
   ]
  },
  "items": [
+  {
+   "title": "台中民俗文化走入校園！學童踏查南屯老街、環山舊部落 認識百年傳統",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UeUJic0NBU1Nmc2dBSll1SEJLOHJ5eEQxMklzeURkeF9TYnBEcVRBd2NLdXc3TVJzN2FFUzRUeFVybkFXYXh0VVJLM3ZXaUttV1E?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-24T20:14+08:00",
+   "query": "老街",
+   "url": "https://n.yam.com/Article/20261124661450",
+   "resolved": true
+  },
+  {
+   "title": "北市3大商圈禁菸支持度破95％ 15處負壓吸菸區使用近88萬人次",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iTEcyNVphNEU5Rm9FOXh3LV9QdjVrZ1hMeS1oQ0o5OWoyV2FlQmZGemp0LTBOVmFDNHFFd3pmRGQ1SnZrLTBValNRTXpweTQ3bW93ajJ5ZlRPcEdET2FXTlVseHc3ZjEtbmN0TmRn?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-24T18:32+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/realtimenews/20261124004505-260405",
+   "resolved": true
+  },
+  {
+   "title": "蔣萬安力推「無菸城市」驚人成效出爐！3大商圈滿意度皆飆破9成",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xa0Q4czkzcUNBRS1jcDByS3dBcjZXUHRLd0JocEdwenV5N3RORUF6ZWRQREltd09yXzgzVGhPYWlUZ1ZiUnNLQi04RkJNdmE3bXfSAVJBVV95cUxNcWtEOHM5M3FDQUUtY3Awckt3QXI2V1B0S3dCaHBHcHp1eTd0TkVBemVkUERJbXdPcl84M1RoT2FpVGdWYlJzS0ItOEZCTXZhN213?oc=5",
+   "source": "NOWnews今日新聞",
+   "source_site": "https://www.nownews.com",
+   "published_at": "2026-11-24T18:05+08:00",
+   "query": "商圈",
+   "url": "https://www.nownews.com/amp/news/6895189",
+   "resolved": true
+  },
   {
    "title": "臺北逐步打造無菸城市 3大禁菸商圈支持度均突破9成",
    "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUtKRWtlM09KclhjTXAxal8xR054MmFVV2JrNkFFZThtS1pUZXdzY2lTaGRvM2JPRFdkdExPTl9ydUVLeEtHQVRiUjdIOFZ0UlA4RXdxODhzQUh3UFVBbDEyNUdlcHlaZUQ3dHpRNEVCTkQ5YWdGVm4yR05PenY3R21naw?oc=5",
@@ -79,7 +107,7 @@
    "resolved": true
   },
   {
-   "title": "獨！一中商圈出現\"碰瓷幫\" 學生遇男子索賠上千元",
+   "title": "獨／故意相撞？一中商圈碰瓷幫盯上學生 藉故碰撞索賠千元",
    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZWVRDbUJsei1VWC1OZlRxQjVhYlliZnBUbEluV0Y2dDIxb2dBczduUEU3N0N5NWwxaUxqLUFJeVIxN3RFdkJmSWNRUGM3Zi1jQzA2aU9OMTI4S1pXNVJFeQ?oc=5",
    "source": "民視新聞網",
    "source_site": "https://www.ftvnews.com.tw",
@@ -87,6 +115,16 @@
    "query": "商圈",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZWVRDbUJsei1VWC1OZlRxQjVhYlliZnBUbEluV0Y2dDIxb2dBczduUEU3N0N5NWwxaUxqLUFJeVIxN3RFdkJmSWNRUGM3Zi1jQzA2aU9OMTI4S1pXNVJFeQ?oc=5",
    "resolved": false
+  },
+  {
+   "title": "復古美學新風貌！學甲市場15面特色招牌亮麗登場",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SNl9IT2w0eGxPMXVuRkhmbW9qX1J4Q3U4SlpkZW1SQnoxd1J4b1UwVWdSTE5ZV3l5NUxkVlhSQVFaX2hOdkJCUUJGZmZfUkk3QnZsVkxRZGpNNUFYVlh0OFFkU0djeno1cEl4S293?oc=5",
+   "source": "臺南市政府全球資訊網",
+   "source_site": "https://www.tainan.gov.tw",
+   "published_at": "2026-11-24T14:09+08:00",
+   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
+   "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848474",
+   "resolved": true
   },
   {
    "title": "台北無菸城市漸成形 3大禁菸商圈支持、滿意度均破9成",
@@ -349,16 +387,6 @@
    "resolved": true
   },
   {
-   "title": "紐約第五大道租金年飆35% 重登全球最貴精品商圈寶座",
-   "google_url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxORkUzb0JHQU1FU2Jwel9mZDdXdC1jeFN2QTRIVUM3U3pJLTRncFlyTEM4WVJCQzZwTkhtNnRBZkVuMVRicnNhWjNCbndlVDVGMlF4dU4xb2oxR29yNEw5Z1hYVVRpemI3aVk0RnExMWVycy1LMW1GSXNFUkhHZkozWDFzU1Npa2ZhTmRtbnZ1WjltSEVta3dabTNaM1g4dm5iNHYyTWJfd25JSm5CNjZfcVQwb0pZSkJjaTlBZzFEVWFlWDc1RHNHdzV1RGk5blVmRjhTQTdUcHlIVG1HcnJBZ2lLLXBxNUotUWFIeHlJOGZSb1JTQkdZdEdyMjI2S3dMRVExZ2g5dnI4WWx3cHJwaUFMZkZSQlJ0YS1vVjJQWU0tRzhzV1hKckNPQ05wOXcxbUd2emwzQmtxMy00VmItS0pESW00MHZqbFRzOEtBRlJIQjZIdG9mVzdkTnRVS1lhOURqbUhrLU9WcWxscU9LNVhXdDJYQQ?oc=5",
-   "source": "商傳媒",
-   "source_site": "https://sunmedia.tw",
-   "published_at": "2026-11-23T13:22+08:00",
-   "query": "商圈",
-   "url": "https://sunmedia.tw/news/realestate/1795387200-%E7%B4%90%E7%B4%84%E7%AC%AC%E4%BA%94%E5%A4%A7%E9%81%93%E7%A7%9F%E9%87%91%E5%B9%B4%E9%A3%8635%25%E3%80%80%E9%87%8D%E7%99%BB%E5%85%A8%E7%90%83%E6%9C%80%E8%B2%B4%E7%B2%BE%E5%93%81%E5%95%86%E5%9C%88%E5%AF%B6%E5%BA%A7",
-   "resolved": true
-  },
-  {
    "title": "北投花浴衣節11/22登場 攜手永樂商圈、日本Yosakoi舞團獻藝",
    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNk1rSm9QX1ZmQ0JRbWFLWUV2c05nb1VRSnF1MmxJUGhJcWRFbksyamNRSmFYdlEwblkwMnB5VjJEYkhsdFRfRFEyZUNScEVxYkE?oc=5",
    "source": "蕃新聞",
@@ -469,6 +497,16 @@
    "resolved": true
   },
   {
+   "title": "超級星期天 蔣萬安車掃人潮嗨爆信義商圈公館 巧遇太座還放閃愛的抱抱",
+   "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNb2ZHVlprWWM5cXgxekRHMTJkZEFKS1MtOUlGMElYcjFYVDVBWWZSQlRzVFZUUG9BUnVCd2xzOUswX0xqSmxLY2VUSFpkMGJRTkYwbmNXajBNb2PSAWBBVV95cUxOMDlESVpESjFiV2FJX0dQM2xUWFpaQ2F1el9YcV9pTTBmTEp1QkQ0V29faWpTYXo3cEFPTnc3M3JGbGFXRnAwZDFXX1U3VURGcHZjUGR4amVnVXcwVkc2UHc?oc=5",
+   "source": "經濟日報",
+   "source_site": "https://money.udn.com",
+   "published_at": "2026-11-22T22:15+08:00",
+   "query": "商圈",
+   "url": "https://money.udn.com/money/story/12622/9895005",
+   "resolved": true
+  },
+  {
    "title": "蔣萬安大車掃舉牌「老婆我愛你」 公館商圈擁抱石舫亘掀高潮",
    "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hTGg0cm9fZEdWTkV5Xzg0Q0djNkppVFZUNU9nUTc0U1hRNVJMUUhUU2hMaFlVc2E2MW1uTnhDWG9aS1ZaU2RudG9Yc2dqQWEyekpGWWxobnpGQ2M4SGVNTWZIZldTU3htUmfSAW9BVV95cUxQWnpzRnNCRXFCUjB4WjA3c2xTTERHVjEwRDMtRlJ0TXJOT3ZaN21FTFNiOWlaUnF4RVhpTE1LRmxjRzM5eGEtbTRqN19VaUpLUURPRjBUdnVuMERwMXNJZGI3ODQtRkJYRXpPVHJSMG8?oc=5",
    "source": "自由時報",
@@ -476,36 +514,6 @@
    "published_at": "2026-11-22T20:54+08:00",
    "query": "商圈",
    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649878",
-   "resolved": true
-  },
-  {
-   "title": "超級星期天！蔣萬安車掃人潮嗨爆信義商圈、公館 巧遇太座放閃愛的抱抱 | 2026九合一選舉",
-   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UNkU4S1JJQndEelA2TjFXRFFlRzRfeWJKSkV1cGFTLU1jTXVhV1lsQWtMRXpKVmkwVUhyQ3VRbHJpeUhYSTZqMUJDS0VLYkQ1aGhIZDBYbDk?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
-   "published_at": "2026-11-22T20:33+08:00",
-   "query": "商圈",
-   "url": "https://udn.com/vote2026/story/124652/9895005",
-   "resolved": true
-  },
-  {
-   "title": "江啟臣夜掃逢甲商圈 「最強靠3」與市民共拚臺中未來",
-   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tUTdKTVJRS09iMlhRREs0ZjJ1ejhEN3d1aUZUblgzSkFjT2RSWGs4YVJCV2h4dE1iM0x2bGppS0YwSmRGRTU5cE9wMTM5OGJMY3RyeUY4LWg0UQ?oc=5",
-   "source": "新華報導",
-   "source_site": "https://ccss3172.blogspot.com",
-   "published_at": "2026-11-22T19:47+08:00",
-   "query": "商圈",
-   "url": "https://ccss3172.blogspot.com/2026/11/x-3.html",
-   "resolved": true
-  },
-  {
-   "title": "平溪十分瀑布17人遭虎頭蜂螫！ 蜂窩藏商店街已摘除 | 華視新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vbnBsRnkwOURfLXBpajVodXhzQUczUk5PVGNFQ202bTMzaW56SnBwTzRsd0Y5N1V0eHBHanRwUUdfRlVZVXNFXy04YWFzMkUtRkFtVVBR?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-22T18:09+08:00",
-   "query": "商店街",
-   "url": "https://today.line.me/tw/v3/article/nXpnNRy",
    "resolved": true
   }
  ]
