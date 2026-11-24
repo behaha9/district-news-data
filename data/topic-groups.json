@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-24T07:40:00+08:00",
+  "updated_at": "2026-11-24T17:05:00+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -572,6 +572,16 @@
           "urls": [
             "https://n.yam.com/Article/20261119105314",
             "https://www.epochtimes.com.tw/n518318/%E4%B8%AD%E8%81%AF%E5%81%9C%E5%B7%A5%E9%87%80%E7%BC%BA%E5%8F%A3-%E5%8F%B0%E7%B3%96%E7%BE%8E%E8%B1%86%E6%B2%B9%E9%96%8B%E8%B3%A3.html"
+          ]
+        },
+        {
+          "id": "20261124-yunlin-oil-shortage-dec",
+          "note": "沙拉油短缺餐飲業喊苦，雲林縣衛生局請命，食藥署表示12月逐步復供、年前無虞",
+          "representative": "https://news.ltn.com.tw/news/Yunlin/breakingnews/5651859",
+          "urls": [
+            "https://news.ltn.com.tw/news/Yunlin/breakingnews/5651859",
+            "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iSGdMbmViYklweF9OR1pNajFndmZmR1lJTTI5VVVKVmVpR1NWUlFaMEl0UEVFZ1NmN3ZLUWlFZDRwVTZ1OUtpZFdQU3FCQ0xo0gFWQVVfeXFMTU5meXpHSGtoU3MtTGtDUTBmb1luOWRTMld3ZG1qdEY3NWhXNHJGUFJyNlJldW12amgtalo4LU9NazVhWk5oMF9wMXdLNDRoMm90VHhCRVE?oc=5",
+            "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoYUxPRmJoR3VUb0tRMzJtY25tUTNVU05VNTlTaWpfWk5XN2FGM054VEZjeFRQTTNSN3R3SG1HUlVYN0Vjbm1DQUQ3N3RVU0t0SC1QOTU5RFo3RWtWZmE2T1RIc0FyOWh6ZERSYTNB?oc=5"
           ]
         }
       ],

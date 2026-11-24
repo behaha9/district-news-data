@@ -1,19 +1,129 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T12:17:56+08:00",
+ "generated_at": "2026-11-24T16:52:09+08:00",
  "items": [
+  {
+   "id": "20261124-graniph-xinyi",
+   "title": "日本品牌graniph台灣二號店12/23進駐信義商圈ATT 4 FUN",
+   "summary": "報導指graniph繼南港LaLaport後，台灣二號店將於12月23日在台北信義區ATT 4 FUN開幕，並推出聯名限定商品。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-24T16:35:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "信義商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7270/9899067",
+     "published_at": "2026-11-24T16:35:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35549109.jpg&M=1&s=Y&x=77&y=0&sw=1008&sh=672&exp=3600"
+  },
+  {
+   "id": "20261123-district-carnival-beitou",
+   "title": "2026商圈狂歡節「萬市慶豐年」，全臺特色商圈齊聚北投",
+   "summary": "報導指「2026商圈狂歡節－萬市慶豐年」為促進全臺商圈跨區域交流，邀特色商圈齊聚北投展現在地產業特色。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-24T14:29:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "新北投溫泉商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261124172521",
+     "published_at": "2026-11-24T14:29:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261124965859",
+     "published_at": "2026-11-24T00:00:00+08:00"
+    },
+    {
+     "outlet": "天天上新聞",
+     "url": "https://mknews.com.tw/2026/11/1022785/",
+     "published_at": "2026-11-23T19:14:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261123780759",
+     "published_at": "2026-11-23T18:15:00+08:00"
+    },
+    {
+     "outlet": "是新聞",
+     "url": "https://www.yesmedia.com.tw/2026%E5%95%86%E5%9C%88%E7%8B%82%E6%AD%A1%E7%AF%80%E3%80%8C%E8%90%AC%E5%B8%82%E6%85%B6%E8%B1%90%E5%B9%B4%E3%80%8D%E5%85%A8%E8%87%BA%E7%89%B9%E8%89%B2%E5%95%86%E5%9C%88%E9%BD%8A%E8%81%9A%E5%8C%97-2/",
+     "published_at": "2026-11-23T18:15:00+08:00"
+    },
+    {
+     "outlet": "商傳媒",
+     "url": "https://sunmedia.tw/news/collaborative/SjPLoekVCmOMWNZC8Ajui0z8PJ05rZgMz7apeDrT9i9MxGeGpEsSBxCrjGQivkQ",
+     "published_at": "2026-11-23T18:15:00+08:00"
+    },
+    {
+     "outlet": "商傳媒",
+     "url": "https://sunmedia.tw/news/collaborative/37PnoorVSa5f1LfRamI1dz8T5RdLr89LmvJUoCXGBJxMqz44iYTF0WMOUc40pjbKjjFeCYZbduXfTkO9hIlx",
+     "published_at": "2026-11-23T16:30:00+08:00"
+    },
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/11799/9896409",
+     "published_at": "2026-11-23T16:02:00+08:00"
+    },
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/2026%E5%95%86%E5%9C%88%E7%8B%82%E6%AD%A1%E7%AF%80-%E8%90%AC%E5%B8%82%E6%85%B6%E8%B1%90%E5%B9%B4-%E5%85%A8%E8%87%BA%E7%89%B9%E8%89%B2%E5%95%86%E5%9C%88%E9%BD%8A%E8%81%9A%E5%8C%97%E6%8A%95-230351083.html",
+     "published_at": "2026-11-23T07:32:00+08:00"
+    },
+    {
+     "outlet": "PChome Online新聞",
+     "url": "https://news.pchome.com.tw/living/thehubnews/20261123/index-79542771358958306009.html",
+     "published_at": "2026-11-23T00:00:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261124/153024-74dd98f472db1fd7.webp"
+  },
   {
    "id": "20261124-taipei-smokefree-districts",
    "title": "北市衛生局：臺北無菸城市三處禁菸商圈支持度逾9成5、滿意度逾9成",
    "summary": "北市衛生局表示無菸城市已設267處指定吸菸區，三處禁菸商圈的支持度超過95%，滿意度超過9成。",
    "category": "營運與政策",
    "alert": null,
-   "published_at": "2026-11-24T11:24:00+08:00",
+   "published_at": "2026-11-24T13:56:00+08:00",
    "cities": [
     "台北市"
    ],
    "districts": [],
    "sources": [
+    {
+     "outlet": "Yahoo新聞",
+     "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E7%84%A1%E8%8F%B8%E5%9F%8E%E5%B8%82%E6%BC%B8%E6%88%90%E5%BD%A2-3%E5%A4%A7%E7%A6%81%E8%8F%B8%E5%95%86%E5%9C%88%E6%94%AF%E6%8C%81-%E6%BB%BF%E6%84%8F%E5%BA%A6%E5%9D%87%E7%A0%B49%E6%88%90-055621315.html",
+     "published_at": "2026-11-24T13:56:00+08:00"
+    },
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/12622/9898536",
+     "published_at": "2026-11-24T13:29:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7323/9898187",
+     "published_at": "2026-11-24T11:38:00+08:00"
+    },
     {
      "outlet": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611240066.aspx",
@@ -25,12 +135,74 @@
      "published_at": "2026-11-24T10:37:00+08:00"
     },
     {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261124851336",
+     "published_at": "2026-11-24T08:45:00+08:00"
+    },
+    {
      "outlet": "LIFE 生活網",
      "url": "https://life.tw/article/%E8%87%BA%E5%8C%97%E5%B8%82%E6%8E%A8%E5%8B%95%E7%84%A1%E8%8F%B8%E5%9F%8E%E5%B8%82%E6%94%BF%E7%AD%96-%E7%A6%81%E8%8F%B8%E5%95%86%E5%9C%88%E6%94%AF%E6%8C%81%E5%BA%A6%E8%88%87%E6%BB%BF%E6%84%8F%E5%BA%A6%E5%9D%87%E8%B6%85%E9%81%8E9%E6%88%90-3231746",
      "published_at": "2026-11-24T08:38:00+08:00"
     }
    ],
-   "image": "https://static.ctwant.com/images/cover/15/508215/lg-d57b09c0bc6e1f61d1a9e62336adace9.jpg"
+   "image": "https://media.zenfs.com/ko/gotv_ctitv_com_tw_678/47d152d7196eb17066bdf23be661d671.jpg"
+  },
+  {
+   "id": "20261124-jiufen-crowd",
+   "title": "九份老街假日人潮擠爆，網友貼文引發討論",
+   "summary": "報導指有網友分享九份老街假日人潮，現場擠得水洩不通，畫面引發討論。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-24T12:21:00+08:00",
+   "cities": [
+    "新北市"
+   ],
+   "districts": [
+    {
+     "name": "九份老街商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "九份老街商圈為115年補助名單，報導指假日人潮擁擠，可留意活動成效與KPI達成。",
+   "sources": [
+    {
+     "outlet": "ETtoday新聞雲",
+     "url": "https://www.ettoday.net/news/20261124/3277544.htm",
+     "published_at": "2026-11-24T12:21:00+08:00"
+    }
+   ],
+   "image": "https://cdn2.ettoday.net/images/9031/e9031025.jpg"
+  },
+  {
+   "id": "20261124-taoyuan-pokemon-tree",
+   "title": "新光三越桃園站前店推寶可夢雪地耶誕樹，結合心願卡活動",
+   "summary": "報導指新光三越桃園站前店以「星願啟程」為主題，推出寶可夢雪地耶誕樹與夢幻造景。",
+   "category": "活動與街區",
+   "alert": null,
+   "published_at": "2026-11-24T11:09:00+08:00",
+   "cities": [
+    "桃園市"
+   ],
+   "districts": [
+    {
+     "name": "桃園站前商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "桃園站前商圈為115年補助名單，商圈周邊百貨耶誕檔期活動可留意帶動人潮情形。",
+   "sources": [
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261124700833-431207",
+     "published_at": "2026-11-24T11:09:00+08:00"
+    },
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/5637/9896968",
+     "published_at": "2026-11-24T10:00:00+08:00"
+    }
+   ],
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-24/1024/20261124700839.jpg"
   },
   {
    "id": "20261123-taipei-rent-peak",
@@ -47,6 +219,11 @@
     {
      "outlet": "591新聞",
      "url": "https://news.591.com.tw/news/13124",
+     "published_at": "2026-11-24T10:55:00+08:00"
+    },
+    {
+     "outlet": "591新聞",
+     "url": "https://news.591.com.tw/news/13124/amp",
      "published_at": "2026-11-24T10:55:00+08:00"
     },
     {
@@ -89,64 +266,34 @@
    "image": "https://moonvoke.com/images/news/tainan-magic-christmas-festival-2026.webp?v=913480fd"
   },
   {
-   "id": "20261123-district-carnival-beitou",
-   "title": "2026商圈狂歡節「萬市慶豐年」，全臺特色商圈齊聚北投",
-   "summary": "報導指「2026商圈狂歡節－萬市慶豐年」為促進全臺商圈跨區域交流，邀特色商圈齊聚北投展現在地產業特色。",
-   "category": "活動與街區",
+   "id": "20261123-xinyi-yufangyuan",
+   "title": "信義商圈新開2億元中菜餐廳「宇方圓」，進駐微風松高地下二樓",
+   "summary": "報導指信義商圈新增一家主打當代中式餐飲與私密社交會所的餐廳，位於微風松高地下二樓。",
+   "category": "開店與消費",
    "alert": null,
-   "published_at": "2026-11-24T00:00:00+08:00",
+   "published_at": "2026-11-24T08:00:00+08:00",
    "cities": [
     "台北市"
    ],
    "districts": [
     {
-     "name": "新北投溫泉商圈",
-     "priority": true
+     "name": "信義商圈",
+     "priority": false
     }
    ],
    "sources": [
     {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261124965859",
-     "published_at": "2026-11-24T00:00:00+08:00"
-    },
-    {
-     "outlet": "天天上新聞",
-     "url": "https://mknews.com.tw/2026/11/1022785/",
-     "published_at": "2026-11-23T19:14:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261123780759",
-     "published_at": "2026-11-23T18:15:00+08:00"
-    },
-    {
-     "outlet": "是新聞",
-     "url": "https://www.yesmedia.com.tw/2026%E5%95%86%E5%9C%88%E7%8B%82%E6%AD%A1%E7%AF%80%E3%80%8C%E8%90%AC%E5%B8%82%E6%85%B6%E8%B1%90%E5%B9%B4%E3%80%8D%E5%85%A8%E8%87%BA%E7%89%B9%E8%89%B2%E5%95%86%E5%9C%88%E9%BD%8A%E8%81%9A%E5%8C%97-2/",
-     "published_at": "2026-11-23T18:15:00+08:00"
-    },
-    {
-     "outlet": "商傳媒",
-     "url": "https://sunmedia.tw/news/collaborative/SjPLoekVCmOMWNZC8Ajui0z8PJ05rZgMz7apeDrT9i9MxGeGpEsSBxCrjGQivkQ",
-     "published_at": "2026-11-23T18:15:00+08:00"
-    },
-    {
-     "outlet": "商傳媒",
-     "url": "https://sunmedia.tw/news/collaborative/37PnoorVSa5f1LfRamI1dz8T5RdLr89LmvJUoCXGBJxMqz44iYTF0WMOUc40pjbKjjFeCYZbduXfTkO9hIlx",
-     "published_at": "2026-11-23T16:30:00+08:00"
+     "outlet": "壹蘋新聞網",
+     "url": "https://news.nextapple.com/eattravel/20261124/CC6EDFEC72DE9C469933C208B643E627",
+     "published_at": "2026-11-24T08:00:00+08:00"
     },
     {
      "outlet": "經濟日報",
-     "url": "https://money.udn.com/money/story/11799/9896409",
-     "published_at": "2026-11-23T16:02:00+08:00"
-    },
-    {
-     "outlet": "Yahoo新聞",
-     "url": "https://tw.news.yahoo.com/2026%E5%95%86%E5%9C%88%E7%8B%82%E6%AD%A1%E7%AF%80-%E8%90%AC%E5%B8%82%E6%85%B6%E8%B1%90%E5%B9%B4-%E5%85%A8%E8%87%BA%E7%89%B9%E8%89%B2%E5%95%86%E5%9C%88%E9%BD%8A%E8%81%9A%E5%8C%97%E6%8A%95-230351083.html",
-     "published_at": "2026-11-23T07:32:00+08:00"
+     "url": "https://money.udn.com/money/story/5635/9894441",
+     "published_at": "2026-11-23T10:03:00+08:00"
     }
    ],
-   "image": "https://ni.yam.com/20261124/13-1-1024x683-12dec312818d15dd.webp"
+   "image": "https://static-cdn.nextapple.tw/prod/2026-11/CC6EDFEC72DE9C469933C208B643E627/af900b2456f22887ac02d04457b7f4ea_1280.jpeg"
   },
   {
    "id": "20261123-douliu-lantern-crowd",
@@ -179,6 +326,16 @@
      "outlet": "台灣華報",
      "url": "https://www.kingtop.com.tw/detail.php?type=catalog&catalog_id=14&id=56048",
      "published_at": "2026-11-23T04:04:00+08:00"
+    },
+    {
+     "outlet": "元丰傳媒",
+     "url": "https://yuanfengmedia.tw/detail.php?type=gallery&id=63470",
+     "published_at": "2026-11-22T17:30:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261122122163",
+     "published_at": "2026-11-22T00:00:00+08:00"
     }
    ],
    "image": "https://www.kingtop.com.tw/uploadfiles/l/20261122231040_69083.jpg"
@@ -397,31 +554,6 @@
     }
    ],
    "image": "https://www.chinesedaily.com/uploads/article/editor/image/large/2026/11/22/17953921712074.jpg"
-  },
-  {
-   "id": "20261123-xinyi-yufangyuan",
-   "title": "信義商圈新開2億元中菜餐廳「宇方圓」，進駐微風松高地下二樓",
-   "summary": "報導指信義商圈新增一家主打當代中式餐飲與私密社交會所的餐廳，位於微風松高地下二樓。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-23T10:03:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "信義商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "經濟日報",
-     "url": "https://money.udn.com/money/story/5635/9894441",
-     "published_at": "2026-11-23T10:03:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/22/35541944.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=960&sl=W&fw=1050&exp=3600"
   },
   {
    "id": "20261122-excellence-award",
@@ -2289,92 +2421,6 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/10/35504322.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600"
-  },
-  {
-   "id": "20261110-matsu-tianwo-oldstreet",
-   "title": "西莒田沃老街推走讀、手作與在地美食活動，邀旅客吃遍島嶼好滋味",
-   "summary": "台灣新聞雲報導，連江縣西莒田沃老街推出走讀、手作與美食體驗，邀請民眾認識島上風味。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-10T16:35:00+08:00",
-   "cities": [
-    "連江縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "台灣新聞雲",
-     "url": "https://886.news/archives/372827",
-     "published_at": "2026-11-10T16:35:00+08:00"
-    }
-   ],
-   "image": "https://i0.wp.com/886.news/wp-content/uploads/2026/11/1794299648315-1.jpg"
-  },
-  {
-   "id": "20261110-taichung-port-imported",
-   "title": "臺中港舶來品商圈推出「拾光補帖」白露茶席活動，結合漢方食補",
-   "summary": "臺中港舶來品商圈持續辦年度特色活動，今年推出白露節氣的「拾光補帖」茶席，邀民眾品味秋日時光。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-10T15:06:00+08:00",
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    {
-     "name": "臺中港舶來品商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261110582544",
-     "published_at": "2026-11-10T15:06:00+08:00"
-    },
-    {
-     "outlet": "17news民生好報",
-     "url": "https://17news.net/archives/345474",
-     "published_at": "2026-11-10T15:02:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261110138610",
-     "published_at": "2026-11-10T11:29:00+08:00"
-    }
-   ],
-   "image": "https://ni.yam.com/20261110/b5dd7b6a42309b6-85d1d93da675336c.webp"
-  },
-  {
-   "id": "20261110-east-anniv",
-   "title": "台北東區商圈週年慶登場，消費滿額可參加抽獎",
-   "summary": "台北東區商圈週年慶開跑，消費滿額可參加抽獎活動。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-10T14:17:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "東區商圈",
-     "priority": true
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "ETtoday新聞雲",
-     "url": "https://www.ettoday.net/news/20261110/3269600.htm",
-     "published_at": "2026-11-10T14:17:00+08:00"
-    },
-    {
-     "outlet": "上報",
-     "url": "https://www.upmedia.mg/tw/lifestyle/spotlight/273720",
-     "published_at": "2026-11-09T16:37:00+08:00"
-    }
-   ],
-   "admin_note": "東區商圈為115年補助名單，週年慶活動可作為執行佐證參考。",
-   "image": "https://cdn2.ettoday.net/images/9008/e9008883.jpg"
   }
  ],
  "discussions": []
