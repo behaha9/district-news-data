@@ -1,21 +1,62 @@
 {
- "fetched_at": "2026-11-24T20:51:12+08:00",
+ "fetched_at": "2026-11-25T07:17:03+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 105,
-  "kept": 52,
-  "resolved": 49,
-  "items": 50,
+  "raw": 94,
+  "kept": 50,
+  "resolved": 50,
+  "items": 47,
   "resolve_this_run": {
-   "online": 5
+   "online": 9
   },
   "dropped_old": [
+   "高雄三多商圈沒落　店家爆出走潮！他精闢分析主因（原文日期 2018-07-08）",
    "台北「淘動漫」大師店開幕 都會商圈卡位與擴大客群（原文日期 2026-07-22）",
    "宜蘭社大走讀西門老街/串起婚喪喜慶百工與蓪草花藝（原文日期 2026-10-28）"
   ]
  },
  "items": [
+  {
+   "title": "支持度逾95%！蔣萬安推無菸城市 禁菸商圈力挺",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TLUd6UFZncjFhZ1d6Nm9fR0VYaF8yVkJYMHNDNERXSzBuanVaX0FZUTY1djhWYVFWWXV4R0Y4Sm5FUU4tZDFDWFo4d3R1aUty0gFWQVVfeXFMTncxX0FQdXdHcktNb3ZOSEh0bjBicjF0a0thcWpFeWh3ZEVHelZad19sMDA4bHd6OUlzLXlNQXEzQXpfWkVqbGFsTGhrTGxDUzFtLTZMT1E?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
+   "published_at": "2026-11-25T00:00+08:00",
+   "query": "商圈",
+   "url": "https://udn.com/news/story/7323/9899777",
+   "resolved": true
+  },
+  {
+   "title": "何欣純、陳其邁北北屯合體車掃！邁邁送BTS同款奶酥麵包讚何欣純將是「Nice棒」的市長何欣純請益演唱會經濟盼人潮帶旺商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TZkhqdFhfdmY1d0ZyMzNTT1hBY1phZEY4UnlDVWhITkloakh5Zjh3S3FkTlp2STQ5XzFudXlIR3lPUnFZelZWX3g0VFZZM0xqemc?oc=5",
+   "source": "放言Fount Media",
+   "source_site": "https://www.fountmedia.io",
+   "published_at": "2026-11-24T21:51+08:00",
+   "query": "商圈",
+   "url": "https://www.fountmedia.io/article/448076",
+   "resolved": true
+  },
+  {
+   "title": "3大禁菸商圈 支持與滿意度破9成",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XRlZCc1hmdk5XSGE4dVEtNXRDQ2pyd2ZWYjBEMkNTZlNtQ1dtbXRadGRURlpveE9wRXJPdlNJZXpHb3RZX3hJbTRCWnVaSXhHd3c?oc=5",
+   "source": "中華新聞雲／中華日報",
+   "source_site": "https://www.cdns.com.tw",
+   "published_at": "2026-11-24T20:58+08:00",
+   "query": "商圈",
+   "url": "https://www.cdns.com.tw/articles/1495917",
+   "resolved": true
+  },
+  {
+   "title": "何欣純、陳其邁北屯北區合體車掃 談高雄演唱會經濟如何帶動台中商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16dG9lT2hiTGU1TzgydG5ZcDQzWTIxdlFVYnNLOEtDMGhMWVBWcldqaHhVY2NkY1VUc0lCMnJxTVEtOXl1a3J4SC1ZeG02dw?oc=5",
+   "source": "記者爆料網",
+   "source_site": "https://new-reporter.com",
+   "published_at": "2026-11-24T20:41+08:00",
+   "query": "商圈",
+   "url": "https://new-reporter.com/news/334646/",
+   "resolved": true
+  },
   {
    "title": "台中民俗文化走入校園！學童踏查南屯老街、環山舊部落 認識百年傳統",
    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UeUJic0NBU1Nmc2dBSll1SEJLOHJ5eEQxMklzeURkeF9TYnBEcVRBd2NLdXc3TVJzN2FFUzRUeFVybkFXYXh0VVJLM3ZXaUttV1E?oc=5",
@@ -77,14 +118,14 @@
    "resolved": true
   },
   {
-   "title": "graniph台灣二號店前進信義商圈搶先開賣西村優志聯名開幕限定搶先看| 品味生活",
-   "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83TjRpd2hZYk1RU2ZxcUNvNDNlY3lVMnNxeWw3eVRJT1FMQVRiYmdPME5weFRla0hWQ3Y4TjItWG5RblhtRC01LTNEeWxlbjAzT3FPY2NvLUNZUkFMck5yTXhoNl9vYVd3dHNQaENHeUVBVU1uR2xiZ0Y4dHU?oc=5",
-   "source": "udnSTYLE",
-   "source_site": "https://style.udn.com",
-   "published_at": "2026-11-24T16:35+08:00",
+   "title": "graniph台灣二號店前進信義商圈 搶先開賣西村優志聯名開幕限定搶先看",
+   "google_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qZHJjWUMyLWRHa1YzRURYTEpLakhCSXZqZzVYWVp2QjRrUkdPaFQ3MEZTNDU4Y2ViLWlMSUZTUkU4RVVfbXp4R0tpTXQtVXo1TGMtTWNLZzJ4WlFzcnM3TTFmM1NZcUdBbXh4dDdwN1lmQlVTUzdKWUJseHhaUdIBYkFVX3lxTE1iNWN3dzE1a3k2SkRyQUxPQzFPdFdyc3ZMbHNGd193b2hFLWY2TmU0VGZ2dDV6REhGUWNJcnhTSkFZcnRXMXFfR09FVW1SWE9peEtHTU83QWtvRXJrS1E3U1lB?oc=5",
+   "source": "經濟日報",
+   "source_site": "https://money.udn.com",
+   "published_at": "2026-11-24T16:52+08:00",
    "query": "商圈",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83TjRpd2hZYk1RU2ZxcUNvNDNlY3lVMnNxeWw3eVRJT1FMQVRiYmdPME5weFRla0hWQ3Y4TjItWG5RblhtRC01LTNEeWxlbjAzT3FPY2NvLUNZUkFMck5yTXhoNl9vYVd3dHNQaENHeUVBVU1uR2xiZ0Y4dHU?oc=5",
-   "resolved": false
+   "url": "https://money.udn.com/money/story/122328/9899067?from=edn_newestlist_rank",
+   "resolved": true
   },
   {
    "title": "【九份老街擠爆「放眼都人頭」！她逛到以為人在國外 大票有感】 九份老街hen不錯 （#嘴邊肉）",
@@ -93,17 +134,7 @@
    "source_site": "https://www.facebook.com",
    "published_at": "2026-11-24T15:00+08:00",
    "query": "老街",
-   "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPV1hkbjN2aU1hVGk4bVR1YlFHWkJvaU9iSDB5T1RMWnRyV05Wa1FmVzFlc19fRGhSLVpMYi15YnpDZDF5eWo1R1dTUGJlU2hFaHFFVlFMX0FROERMLWdfZWhhWVltUGpUMmYySkh2bm9jSDdmcU5kTVIyWlUtRGRzTGNEbVFVN1BpamRQVWswM3poVnE5NmVFTVNmRjdPRDE1ZTlIaGZlYjJNcEdCYmZoYktiX1k3WFRpcnhub1BZTm1fMmVDbUxFSW9ydWNKbDhoOXJkWFh6aUNlaVJmTllIenJhYW5lNGR4RUxNVWpjSXlVS1AxX0xxQmR5alZ1MkJFNmRjUmR1UXdwTXZ3ZGlZcVFubWRmeUdPWGRtRUswS1ZpRVo4bmJiUWNFVk8ycGlvT3BxS293cXJCbExmSFFkd21RN3BlUHFZRXpqT1ZfVmVBcG9FcjVXc1NtVWtFOTUwRFRoanQ5UDFFZ1Vnenh3QTJ3WGU4QXhNZ08xaUpqMV9sRzFKamVtckRhbEZCQ2Nrd3pXeUppUHFnTDJFTWdTUmpVVVB3Y01zTjQ2aDBwUUZBQmxPaTlFRW9ORmQxZnpJSnBYWVNLSmI4cE4wTnVVQnpxN3RVY1NObGlSSGpMWGhmZF9rX2I4YktHbHJSX2VUNEQxZDJ0RnVpcms?oc=5",
-   "resolved": false
-  },
-  {
-   "title": "學甲市場推出15面特色招牌 復古風格設計提升市集美學",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85Qm82dGJhbEJNWGRYTVVYb3FCSWRrdFYyV09pSDZiM1AyYnQ3cmZSV1VXclR4VkpJZ2NzeWlkMWd1bGdrNGNwRnBrQU1HMGhxVXc?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-24T14:39+08:00",
-   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
-   "url": "https://n.yam.com/Article/20261124464597",
+   "url": "https://www.facebook.com/ETtoday/posts/%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97%E6%93%A0%E7%88%86%E6%94%BE%E7%9C%BC%E9%83%BD%E4%BA%BA%E9%A0%AD%E5%A5%B9%E9%80%9B%E5%88%B0%E4%BB%A5%E7%82%BA%E4%BA%BA%E5%9C%A8%E5%9C%8B%E5%A4%96-%E5%A4%A7%E7%A5%A8%E6%9C%89%E6%84%9F%E4%B9%9D%E4%BB%BD%E8%80%81%E8%A1%97hen%E4%B8%8D%E9%8C%AF-%E5%98%B4%E9%82%8A%E8%82%89/1642459084579837/",
    "resolved": true
   },
   {
@@ -113,8 +144,8 @@
    "source_site": "https://www.ftvnews.com.tw",
    "published_at": "2026-11-24T14:28+08:00",
    "query": "商圈",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZWVRDbUJsei1VWC1OZlRxQjVhYlliZnBUbEluV0Y2dDIxb2dBczduUEU3N0N5NWwxaUxqLUFJeVIxN3RFdkJmSWNRUGM3Zi1jQzA2aU9OMTI4S1pXNVJFeQ?oc=5",
-   "resolved": false
+   "url": "https://www.ftvnews.com.tw/news/detail/2026B24C05M1",
+   "resolved": true
   },
   {
    "title": "復古美學新風貌！學甲市場15面特色招牌亮麗登場",
@@ -177,13 +208,13 @@
    "resolved": true
   },
   {
-   "title": "北市府推無菸城市 衛生局：3禁菸商圈支持度高",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBdHdZX09oWmgtZ2V3a3lBa3lvUW9LbzhqbXl2RjhiWFlnR3VpMTZvN2x3b0JoRlN4N3UwMF9hOXBGS1poTmJLTUdrbHl5RFVo?oc=5",
-   "source": "信吉衛視+",
-   "source_site": "https://www.sjtv.com.tw",
+   "title": "北市府推無菸城市衛生局：3禁菸商圈支持度高| 地方",
+   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xR0xLNlc1MlZSWnI4aC13bWs0bko3WjBWY2tWdmY4cGp4ZUlhVEgxRDMwUXNmRnd2QjZzVlEyLUNpcTJRUzBONmVwWXRpb2ZQVmhubWhzT0V0ZkE2MVNv?oc=5",
+   "source": "中央社 CNA",
+   "source_site": "https://www.cna.com.tw",
    "published_at": "2026-11-24T11:24+08:00",
    "query": "商圈",
-   "url": "https://www.sjtv.com.tw/articles/126623",
+   "url": "https://www.cna.com.tw/news/aloc/202611240066.aspx",
    "resolved": true
   },
   {
@@ -197,7 +228,7 @@
    "resolved": true
   },
   {
-   "title": "2026臺南魔法聖誕節12/5至12/6登場！大東橋商圈逾200家市集與14公尺聖誕樹點燈｜喚月部落格",
+   "title": "2026臺南魔法聖誕節12/5至12/6登場！大東橋商圈逾200家市集與14公尺聖誕樹點燈",
    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yeXRjWU92ejdzUjFnVVo4T1ZkNWUzOVJqb3Rmd00xTUxHVkx4S0tMOXlRYWtvdmRwRzhCakhOcVB1dVB0c2ozbzBlWUhYV3RkQzBoeXNpb0NNdzlYdmpBZm43OGZ6dkU1VWFJYmFvWmI4dw?oc=5",
    "source": "moonvoke.com",
    "source_site": "https://moonvoke.com",
@@ -287,16 +318,6 @@
    "resolved": true
   },
   {
-   "title": "討論牆 | 平溪十分瀑布17人遭虎頭蜂螫！ 蜂窩藏商店街已摘除",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JSC1ocjhNVk9yZEY4cDdHLWMxNG9BMFBhT1dFOWhsTkI1NGdzWkFGZU9XVmVvTFM3VWZLLThCWFFmeS1mc1NDVmV3R0hzTUVRdTcza3ZOYlEzWDJwQkVremlzSXo?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-23T21:44+08:00",
-   "query": "商店街",
-   "url": "https://today.line.me/tw/v3/posts/list/article/zNME9gg",
-   "resolved": true
-  },
-  {
    "title": "討論牆 | 復刻記憶場域！ 8坪狹長老街屋「萬味福利社」串聯過去與現在重現台式食堂的溫暖日常",
    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HRmx2NVlaOVRnOFpwSGhoTjY3akJUTzhGc0pBNWpVYk0yMjR1Ri1oTDZBTnJOandTZnYybzBkRkk3ckVYeVZ6bW1IVDRwT09CbElITU9URzgtYXVYa0RWeGl2N0c?oc=5",
    "source": "LINE TODAY",
@@ -344,6 +365,16 @@
    "published_at": "2026-11-23T18:20+08:00",
    "query": "商圈",
    "url": "https://www.moneyweekly.com.tw/Home/ChangePage/Article/264316/?Type=3&Line=Home_ArticleSet_103&Page=FCE914305A6531AB6432D7582FBD3210ED807EA1EE4F0EF46B3AD8D7E7A5E9BC32044E43358EF7BE3FFE2B65D95AA3586B10D937329E59C7ED705BACED8B4A93BD912BF951D1FBBCD80C0A736A30F986A1455562434D657A85A3E1709B59167E9BEE9B2534086EF8A781C32F1CBAE04CF19894B679F6BB51E0E34B8F7CFFFA198295EEC1FB7D444C8F2551E36CB45DC08AF81766A7AC59231682F479E9C039DCCB73601AFD9C0D97A5EB944A6539B6E007E1689CC494017F69B44D6D1AAB747B3BC872A619A7694DF665CE68CF39AEAD00E3915FA073F107",
+   "resolved": true
+  },
+  {
+   "title": "北投散場後，誰會再走進商圈？｜神奇的傑克 - 方格子",
+   "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9COW5Gcm9FaGhYWm9vQWY4UzZFMW9ZWnFOTzVldENZcW5oNm9YdXNZeG1sR2FZVndSejdOcTFNVmFCMnk4T1JhUzJkMGNIT3NubEF0b0JRTHVNV2ttaWgwaUVySdIBY0FVX3lxTE9COW5Gcm9FaGhYWm9vQWY4UzZFMW9ZWnFOTzVldENZcW5oNm9YdXNZeG1sR2FZVndSejdOcTFNVmFCMnk4T1JhUzJkMGNIT3NubEF0b0JRTHVNV2ttaWgwaUVySQ?oc=5",
+   "source": "vocus",
+   "source_site": "https://vocus.cc",
+   "published_at": "2026-11-23T17:40+08:00",
+   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
+   "url": "https://vocus.cc/article/amp/6b04050afd8978000140c461",
    "resolved": true
   },
   {
@@ -417,13 +448,13 @@
    "resolved": true
   },
   {
-   "title": "【獨家專訪】中英街歷史博物館創館館長孫霄：從商貿鼎盛到文化轉型，百年老街的融合與破局",
-   "google_url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxQZTRySE44QkdfZWFOeEQyU3Y1MUFteHhzMk9QN0RycTRkRmZvb1dRRFZ0ZDBQTm9zV2FreVVURVBRQVdMZ0dPYmVOcjJDaTBXQUYzX3FCUlhOaFV1XzVqTlExXzZPUUpuVTlTLVJsNW4wT0ZvRkZFdjU5a0txN2QzZWFJbXN0THg4ZFlkSWpfYnoyWTVSai1fcW1lWXJvZTNkbmp1UEtPU19yTU15eFBkTXhZVWFLX3JKN3JnbzI1TEJPaDNPRlJRYzNiSzc1N1VFb3FEaHdOS2VQcy1Gb1VFNzctMnluRllxQ0liQzIxVGNpTW9YRmVvTFlFdU1XOFZUM2NqVjFQZ1VnTGF6WHZYc1FDT2xjNUJEOG9SV0ZlN3Azb2p0d2hqTFQ5ZmNaU18wQVVNOTliRTF0bkZDZkkzX3JQZmpFaGZ2dHZNb2ZCVkRmcTczSlFnd3lLWkFSb3R1V3RPV2k2VnNaSkdpbVVRQ2NvdmE2RTJyQnA3a2pRZWZCNWdVSnZzWGVOMTg2M2hLN0lVN08tWDJiWi15UTA2X2xrX0QxTGp6OEpkWGRMMFpVNDAza0laZkROQWJnYU5tVzduN2pnRHNna29kMGZjVFF2UFkxYV9rdmhpcnpsNHVwT2RvM2g4X3RidmhjRjV5ajNGbURNV1VFamFOTEpwNkpxeHoyeE15NG5CS3gyUVZoRHpCT3V6NVNqcVYzakYxdEUtbndGM2xzV3laWWRJTXJRVmJfTk14X0k2ZWZ1ckFPY2JBWU1WLWZ3dXI2aVY1N210VDY5MU9sZWlYcERnQ2h3eVp6WnJRY3JSajJuOXBOUWFUMXdudE44MGZOVmQy?oc=5",
-   "source": "輕新聞",
-   "source_site": "https://www.litenews.hk",
-   "published_at": "2026-11-23T10:55+08:00",
+   "title": "2026苗栗獅潭仙草花節｜山城慢活賞花之旅！悠哉漫步紫色夢幻仙境，順遊新店老街、鳴鳳古道| 銀髮一起玩",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kdVZWcUNIZHBnV0VBeVEyYlRrN3BqTmhYYWZwLW9uNHUxSkRFMTZqMzM3bjJRclUwVXQzbUFEbGthbGlYcXFoT0hEbWtJWXlqTC1YcVZn?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-23T11:29+08:00",
    "query": "老街",
-   "url": "https://www.litenews.hk/news/18286-%E3%80%90%E7%8D%A8%E5%AE%B6%E5%B0%88%E8%A8%AA%E3%80%91%E5%BE%9E%E3%80%8C%E7%89%B9%E5%8D%80%E4%B8%AD%E7%9A%84%E7%89%B9%E5%8D%80%E3%80%8D%E5%88%B0%E3%80%8C%E9%BB%83%E9%87%91%E4%B8%80%E6%A2%9D%E8%A1%97%E3%80%8D%E4%B8%80%E5%BA%A7%E5%8D%9A%E7%89%A9%E9%A4%A8%E7%9A%84%E8%A8%98%E6%86%B6-%E5%B0%88%E8%A8%AA%E4%B8%AD%E8%8B%B1%E8%A1%97%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%89%B5%E9%A4%A8%E9%A4%A8%E9%95%B7%E5%AD%AB%E9%9C%84",
+   "url": "https://today.line.me/tw/v3/article/2D9oPRj",
    "resolved": true
   },
   {
@@ -454,66 +485,6 @@
    "published_at": "2026-11-23T07:52+08:00",
    "query": "老街",
    "url": "https://n.yam.com/Article/20261122122163",
-   "resolved": true
-  },
-  {
-   "title": "從元代村落到百年商圈：走進北京王府井的前世今生",
-   "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Na1F5N3dMQU9VMWlnSU1VZUtIa2o3aWJOaGlTRnlPdk90a3o0XzNMUVlDZkpWcmdCTVY3LTBiSV9teEsxbldKSg?oc=5",
-   "source": "PeoPo 公民新聞",
-   "source_site": "https://www.peopo.org",
-   "published_at": "2026-11-23T07:00+08:00",
-   "query": "商圈",
-   "url": "https://www.peopo.org/news/859557",
-   "resolved": true
-  },
-  {
-   "title": "2026苗栗獅潭仙草花節｜山城慢活賞花之旅！悠哉漫步紫色夢幻仙境，順遊新店老街、鳴鳳古道| 銀髮一起玩",
-   "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84QnJobDZuVE84T0VrbUVndTkxVTgzdEVMZXZlc0VUTU1BYW1IdzhVRjBoRmdtWkdRcGxHckp6Q1JaZlZaM25FOHY4VWxmckhMTGVkQlpfam1TcUcxRG9LcnBrLTkyT0pNMlE4bFg3ZjQ3OFozOVBr?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-23T05:39+08:00",
-   "query": "老街",
-   "url": "https://today.line.me/tw/v3/article/2D9oPRj?referral=TOPIC-flowering",
-   "resolved": true
-  },
-  {
-   "title": "萬華商圈廊帶翻新 5主題路線漫步艋舺",
-   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUT2xGSF9IQ3ZadWJvYjdYRXM0dHpjOGM0Rk1xdDBGblIyRjNrd0FwSWVHc2VuQTlYV0FlNG05T2hUbVhaeWR3S3pjMHh4dWxlN21WN3lqYndFSmRNVkRaZTE4cElIRWlpejNz?oc=5",
-   "source": "中時新聞網",
-   "source_site": "https://www.chinatimes.com",
-   "published_at": "2026-11-23T04:10+08:00",
-   "query": "商圈",
-   "url": "https://www.chinatimes.com/newspapers/20261123000577-260107",
-   "resolved": true
-  },
-  {
-   "title": "萬顆燈籠點亮太平老街！ 雲林「斗六燈海節」人潮爆滿 芒果醬熱力開唱嗨翻全場！",
-   "google_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FZi1ZQUFoRDktZEFMMUFud2trbWJaM3diSHUzOW0tUXN0ZFgybk5QcDRuWGZNRXJpcEQ5NGpmSy1YMWpZMy1keXc3dkY0cGNKQ3lfVUtEd0p2Qm9Yd1ptdlhPV2tFOE80TW0xZi1zZ0J3RUllMERhRkNDcnFGUQ?oc=5",
-   "source": "台灣華報",
-   "source_site": "https://www.kingtop.com.tw",
-   "published_at": "2026-11-23T04:04+08:00",
-   "query": "老街",
-   "url": "https://www.kingtop.com.tw/detail.php?type=catalog&catalog_id=14&id=56048",
-   "resolved": true
-  },
-  {
-   "title": "超級星期天 蔣萬安車掃人潮嗨爆信義商圈公館 巧遇太座還放閃愛的抱抱",
-   "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNb2ZHVlprWWM5cXgxekRHMTJkZEFKS1MtOUlGMElYcjFYVDVBWWZSQlRzVFZUUG9BUnVCd2xzOUswX0xqSmxLY2VUSFpkMGJRTkYwbmNXajBNb2PSAWBBVV95cUxOMDlESVpESjFiV2FJX0dQM2xUWFpaQ2F1el9YcV9pTTBmTEp1QkQ0V29faWpTYXo3cEFPTnc3M3JGbGFXRnAwZDFXX1U3VURGcHZjUGR4amVnVXcwVkc2UHc?oc=5",
-   "source": "經濟日報",
-   "source_site": "https://money.udn.com",
-   "published_at": "2026-11-22T22:15+08:00",
-   "query": "商圈",
-   "url": "https://money.udn.com/money/story/12622/9895005",
-   "resolved": true
-  },
-  {
-   "title": "蔣萬安大車掃舉牌「老婆我愛你」 公館商圈擁抱石舫亘掀高潮",
-   "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hTGg0cm9fZEdWTkV5Xzg0Q0djNkppVFZUNU9nUTc0U1hRNVJMUUhUU2hMaFlVc2E2MW1uTnhDWG9aS1ZaU2RudG9Yc2dqQWEyekpGWWxobnpGQ2M4SGVNTWZIZldTU3htUmfSAW9BVV95cUxQWnpzRnNCRXFCUjB4WjA3c2xTTERHVjEwRDMtRlJ0TXJOT3ZaN21FTFNiOWlaUnF4RVhpTE1LRmxjRzM5eGEtbTRqN19VaUpLUURPRjBUdnVuMERwMXNJZGI3ODQtRkJYRXpPVHJSMG8?oc=5",
-   "source": "自由時報",
-   "source_site": "https://news.ltn.com.tw",
-   "published_at": "2026-11-22T20:54+08:00",
-   "query": "商圈",
-   "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649878",
    "resolved": true
   }
  ]

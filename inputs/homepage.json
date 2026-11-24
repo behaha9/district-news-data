@@ -1,10 +1,26 @@
 {
- "fetched_at": "2026-11-24T20:51:05+08:00",
- "generated_at": "2026-11-24T20:51:05+08:00",
+ "fetched_at": "2026-11-25T07:16:58+08:00",
+ "generated_at": "2026-11-25T07:16:57+08:00",
  "window": "7d",
- "event_count": 61,
- "article_count": 105,
+ "event_count": 57,
+ "article_count": 102,
  "items": [
+  {
+   "url": "https://www.chinatimes.com/realtimenews/20261124004505-260405",
+   "title": "北市3大商圈禁菸支持度破95% 15處負壓吸菸區使用近88萬人次",
+   "source": "中時新聞網",
+   "published_at": "2026-11-24T18:32:00+08:00",
+   "event_key": "art:ea6ad18f389c97fcebb43715c5bb5ceefef1fd334e3cf891a8bf179decbeb030",
+   "primary": true
+  },
+  {
+   "url": "https://www.nownews.com/amp/news/6895189",
+   "title": "蔣萬安力推「無菸城市」驚人成效出爐!3大商圈滿意度皆飆破9成",
+   "source": "NOWnews今日新聞",
+   "published_at": "2026-11-24T18:05:00+08:00",
+   "event_key": "art:711f361afa1ab61668b06ffe23a08e694563461438fac3eaf75ad941db38b13c",
+   "primary": true
+  },
   {
    "url": "https://www.cmoney.tw/forum/article/189713362",
    "title": "graniph台灣二號店前進信義商圈搶先開賣西村優志聯名開幕限定搶先看- 股市爆料同學會",
@@ -14,12 +30,65 @@
    "primary": true
   },
   {
+   "url": "https://money.udn.com/money/story/122328/9899067",
+   "title": "graniph台灣二號店前進信義商圈 搶先開賣西村優志聯名開幕限定搶先看",
+   "source": "經濟日報",
+   "published_at": "2026-11-24T16:52:00+08:00",
+   "event_key": "art:7917a8c79481e9e72813971965a71834e8f0e94da1dab28edd228db6827f02b5",
+   "primary": false
+  },
+  {
+   "url": "https://www.atanews.net/?Wirenews=H20261124142911",
+   "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
+   "source": "atanews",
+   "published_at": "2026-11-24T14:29:00+08:00",
+   "event_key": "art:f76f878c7e098bcc691541716ddc0fc82e9c08ed78c6d034c70ff5464f2bba04",
+   "primary": true,
+   "summary": "【警政時報 ...",
+   "date_only": true
+  },
+  {
+   "url": "https://ctinews.com/news/items/BexXQ7Vrnb",
+   "title": "台北無菸城市漸成形 3大禁菸商圈支持、滿意度均破9成",
+   "source": "中天新聞網",
+   "published_at": "2026-11-24T13:56:00+08:00",
+   "event_key": "art:cd00c49df0ed7aa29a4eeb97509e4fe5d66485d7d18f721057a0e9ffbbbb357d",
+   "primary": true,
+   "summary": "為了守護市民健康,台北市長蔣萬安於2026年1月宣布逐步打造「台北無菸城市」,推動吸菸者與非吸菸者空間分流,降低戶外二手菸暴露。台北市政府衛生局表示,目前全市已設置267處指定吸菸區,其中15處負壓式吸菸區累計使用近88萬人次。推動無菸城市政策3大禁菸商圈的支持度超過9成5,滿意度超過9成。",
+   "cities": [
+    "台北市"
+   ],
+   "date_only": true
+  },
+  {
+   "url": "https://money.udn.com/money/story/12622/9898536",
+   "title": "蔣萬安「無菸城市」禁菸商圈支持度破9成 民眾反映曝光",
+   "source": "經濟日報",
+   "published_at": "2026-11-24T13:30:00+08:00",
+   "event_key": "art:44ea9bcbc153fc8a81cd55441dad2ff8a60ae3b7c45b1edf7730c240b5747848",
+   "primary": true,
+   "summary": "台北市長蔣萬安今年初喊出打造「無菸城市」,推動吸菸者與非吸菸者空間分流,降低戶外二手菸暴露。目前全市已設267處指定吸菸區,其中15處負壓式吸菸區累計使用近88萬人次;3大禁菸商圈的支持度超過9成5,滿意度超過9成。",
+   "date_only": true
+  },
+  {
    "url": "https://udn.com/news/story/6656/9898536",
    "title": "蔣萬安推「無菸城市」禁菸商圈支持度破9成 民眾反映曝光",
    "source": "UDN",
    "published_at": "2026-11-24T13:28:00+08:00",
-   "event_key": "art:a597a20dd04f42c277b51dcc5f148b776d91b2f9727b256d682c867ecdafdb92",
-   "primary": true
+   "event_key": "art:44ea9bcbc153fc8a81cd55441dad2ff8a60ae3b7c45b1edf7730c240b5747848",
+   "primary": false,
+   "summary": "台北市長蔣萬安今年初喊出打造「無菸城市」,推動吸菸者與非吸菸者空間分流,降低戶外二手菸暴露。目前全市已設267處指定吸菸區,其中15處負壓式吸菸區累計使用近88萬人次;3大禁菸商圈的支持度超過9成5,滿意度超過9成。",
+   "date_only": true
+  },
+  {
+   "url": "https://www.cdns.com.tw/articles/1495917",
+   "title": "3大禁菸商圈 支持與滿意度破9成",
+   "source": "中華新聞雲",
+   "published_at": "2026-11-24T12:51:00+08:00",
+   "event_key": "art:57370e43adaaf8a766d492c45fbdca01d071d192f4348aabd05a7e1e3972c8f0",
+   "primary": true,
+   "summary": "記者孫曜樟∕台北報導 台北市政府二十四日公布無菸城市政策推動成果。根據統計台北市目前已設置二百六十七處指定吸菸區,其中十五處負壓式吸菸區累計使用近八十八萬人次。衛生局委外對西門町、迪化街及心中山線形公園周邊三大禁菸商圈進行調查,政策支持度都超過九成五,滿意度也都超過九成。 台北市長蔣萬安在今年一月宣布逐步打造「台北無菸",
+   "date_only": true
   },
   {
    "url": "https://udn.com/news/story/124652/9898358",
@@ -33,12 +102,22 @@
    ]
   },
   {
+   "url": "https://www.cna.com.tw/news/aloc/202611240066.aspx",
+   "title": "北市府推無菸城市 衛生局:3禁菸商圈支持度高",
+   "source": "中央通訊社・地方",
+   "published_at": "2026-11-24T11:24:13+08:00",
+   "event_key": "art:258ff66eaa9b768b7802d4268a48f85229478bf2d264672282ed275f3a193b37",
+   "primary": true,
+   "summary": "(中央社記者楊淑閔台北24日電)台北市政府衛生局今天發布新聞稿表示,「台北無菸城市」已設267處指定吸菸區,其中15處負壓式吸菸區累計使用近88萬人次,3禁菸商圈支持度超過9成5,滿意度超過9成。"
+  },
+  {
    "url": "https://www.sjtv.com.tw/articles/126623",
    "title": "北市府推無菸城市 衛生局:3禁菸商圈支持度高",
    "source": "信吉衛視+",
    "published_at": "2026-11-24T11:24:00+08:00",
-   "event_key": "art:ae8d0fcaf7c9c38aa13dc4bb044ee74f98d6e4721931f304ae1e8cc1394627ad",
-   "primary": true
+   "event_key": "art:258ff66eaa9b768b7802d4268a48f85229478bf2d264672282ed275f3a193b37",
+   "primary": false,
+   "summary": "(中央社記者楊淑閔台北24日電)台北市政府衛生局今天發布新聞稿表示,「台北無菸城市」已設267處指定吸菸區,其中15處負壓式吸菸區累計使用近88萬人次,3禁菸商圈支持度超過9成5,滿意度超過9成。"
   },
   {
    "url": "https://news.591.com.tw/news/13124",
@@ -89,6 +168,16 @@
    "event_key": "art:5dd73f4389e252cf036276fd15061f1679d05aa43a61ef7bca80a88960c24f73",
    "primary": true,
    "summary": "[NOWNEWS今日新聞]為降低市民遭受戶外二手菸危害,台北市長蔣萬安今年1月宣布推動「台北無菸城市」政策,透過吸菸者與非吸菸者空間分流,逐步擴大公共場所禁菸範圍。台北市政府目前已設置267處指定吸菸 ...",
+   "date_only": true
+  },
+  {
+   "url": "https://udn.com/news/story/7323/9899777",
+   "title": "支持度逾95%!蔣萬安推無菸城市 禁菸商圈力挺",
+   "source": "聯合新聞網",
+   "published_at": "2026-11-24T10:00:00+08:00",
+   "event_key": "art:4297499c2e63f2ec43d0cd5f9961a8c9fff5b65f010d93c5ee9a2ad476175511",
+   "primary": true,
+   "summary": "台北市長 蔣萬安 今年打造「無菸城市」,推動吸菸者與非吸菸者空間分流,降低戶外二手菸暴露,全市已設二六七處指定 吸菸區 ,其中十五處負壓式吸菸區累計使用近八十八萬人次; 禁菸 商圈支持度超過九成五,滿意度超過九成。",
    "date_only": true
   },
   {
@@ -157,20 +246,50 @@
    ]
   },
   {
-   "url": "https://money.udn.com/money/story/122328/9899067",
-   "title": "graniph台灣二號店前進信義商圈 搶先開賣西村優志聯名開幕限定搶先看",
-   "source": "經濟日報",
-   "published_at": "2026-11-24T02:52:00+08:00",
-   "event_key": "art:7917a8c79481e9e72813971965a71834e8f0e94da1dab28edd228db6827f02b5",
-   "primary": false
-  },
-  {
    "url": "https://udn.com/news/story/7270/9899067",
    "title": "graniph台灣二號店前進信義商圈 搶先開賣西村優志聯名開幕限定搶先看",
    "source": "聯合新聞網",
    "published_at": "2026-11-24T02:35:00+08:00",
    "event_key": "art:7917a8c79481e9e72813971965a71834e8f0e94da1dab28edd228db6827f02b5",
    "primary": false
+  },
+  {
+   "url": "https://sunmedia.tw/news/collaborative/66CvdNfgDPQ01qa296sQ65f26c0lcUb5z1OKckTnupdJGyqV8FtLldhkq2B3r",
+   "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
+   "source": "商傳媒",
+   "published_at": "2026-11-24T00:30:00+08:00",
+   "event_key": "art:f76f878c7e098bcc691541716ddc0fc82e9c08ed78c6d034c70ff5464f2bba04",
+   "primary": false,
+   "summary": "【警政時報 ...",
+   "date_only": true
+  },
+  {
+   "url": "https://www.ctee.com.tw/news/20261124701881-431401",
+   "title": "北市3大商圈禁菸支持度破95% 15處負壓吸菸區使用近88萬人次",
+   "source": "工商時報",
+   "published_at": "2026-11-24T00:00:00+08:00",
+   "event_key": "art:ea6ad18f389c97fcebb43715c5bb5ceefef1fd334e3cf891a8bf179decbeb030",
+   "primary": false
+  },
+  {
+   "url": "https://www.tcpttw.com/entertainment/2026/11/24/334129/",
+   "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
+   "source": "tcpttw",
+   "published_at": "2026-11-24T00:00:00+08:00",
+   "event_key": "art:f76f878c7e098bcc691541716ddc0fc82e9c08ed78c6d034c70ff5464f2bba04",
+   "primary": false,
+   "summary": "【警政時報 ...",
+   "date_only": true
+  },
+  {
+   "url": "https://n.yam.com/Article/20261124172521",
+   "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
+   "source": "蕃新聞",
+   "published_at": "2026-11-24T00:00:00+08:00",
+   "event_key": "art:f76f878c7e098bcc691541716ddc0fc82e9c08ed78c6d034c70ff5464f2bba04",
+   "primary": false,
+   "summary": "【警政時報 ...",
+   "date_only": true
   },
   {
    "url": "https://life.tw/article/%E8%87%BA%E5%8C%97%E5%B8%82%E6%8E%A8%E5%8B%95%E7%84%A1%E8%8F%B8%E5%9F%8E%E5%B8%82%E6%94%BF%E7%AD%96-%E7%A6%81%E8%8F%B8%E5%95%86%E5%9C%88%E6%94%AF%E6%8C%81%E5%BA%A6%E8%88%87%E6%BB%BF%E6%84%8F%E5%BA%A6%E5%9D%87%E8%B6%85%E9%81%8E9%E6%88%90-3231746",
@@ -184,53 +303,13 @@
    ]
   },
   {
-   "url": "https://www.ctee.com.tw/news/20261124701881-431401",
-   "title": "北市3大商圈禁菸支持度破95% 15處負壓吸菸區使用近88萬人次",
-   "source": "工商時報",
-   "published_at": "2026-11-24T00:00:00+08:00",
-   "event_key": "art:8d17ac75e6174b013daf91cf31c0ff3e2dc909b9a610088a61d0cba4f72e718f",
-   "primary": true,
-   "summary": "為守護市民健康,台北市長蔣萬安今年1月宣布逐步打造「台北無菸城市」,推動吸菸者與非吸菸者空間分流,降低戶外二手菸暴露;台北市衛生局表示,目前全市已設置267處指定吸菸區,其中15處負壓式吸菸區累計使用近88萬人次,而推動無菸城市政策3大禁菸商圈之支持度超過9成5,滿意度超過9成。",
-   "date_only": true
-  },
-  {
-   "url": "https://www.chinatimes.com/realtimenews/20261124004505-260405",
-   "title": "北市3大商圈禁菸支持度破95% 15處負壓吸菸區使用近88萬人次",
-   "source": "中時新聞網",
-   "published_at": "2026-11-24T00:00:00+08:00",
-   "event_key": "art:8d17ac75e6174b013daf91cf31c0ff3e2dc909b9a610088a61d0cba4f72e718f",
-   "primary": false,
-   "summary": "為守護市民健康,台北市長蔣萬安今年1月宣布逐步打造「台北無菸城市」,推動吸菸者與非吸菸者空間分流,降低戶外二手菸暴露;台北市衛生局表示,目前全市已設置267處指定吸菸區,其中15處負壓式吸菸區累計使用近88萬人次,而推動無菸城市政策3大禁菸商圈之支持度超過9成5,滿意度超過9成。",
-   "date_only": true
-  },
-  {
    "url": "https://n.yam.com/Article/20261124965859",
    "title": "2026商圈狂歡節「萬市慶豐年」全臺商圈齊聚、「軍中情人」方季惟驚喜現身",
    "source": "蕃新聞",
    "published_at": "2026-11-24T00:00:00+08:00",
-   "event_key": "archive:4b9ed1d69dc215cc",
+   "event_key": "art:966fa4a2dec9da410d71b220ede92f414fa6c3c86d645d6e75a724044e24677a",
    "primary": true,
    "summary": "本次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費與娛樂的年度商圈盛會,邀請民眾走進北投,一次感受臺灣各地商圈的多元魅力,共同迎接熱鬧豐收的秋日嘉年華。",
-   "date_only": true
-  },
-  {
-   "url": "https://n.yam.com/Article/20261124172521",
-   "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
-   "source": "蕃新聞",
-   "published_at": "2026-11-24T00:00:00+08:00",
-   "event_key": "archive:35052db4355515d4",
-   "primary": true,
-   "summary": "【警政時報 司徒/臺北報導】為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。本次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內",
-   "date_only": true
-  },
-  {
-   "url": "https://money.udn.com/money/story/12622/9898536",
-   "title": "蔣萬安「無菸城市」禁菸商圈支持度破9成 民眾反映曝光",
-   "source": "經濟日報",
-   "published_at": "2026-11-23T23:29:00+08:00",
-   "event_key": "art:44ea9bcbc153fc8a81cd55441dad2ff8a60ae3b7c45b1edf7730c240b5747848",
-   "primary": true,
-   "summary": "台北市長蔣萬安今年初喊出打造「無菸城市」,推動吸菸者與非吸菸者空間分流,降低戶外二手菸暴露。目前全市已設267處指定吸菸區,其中15處負壓式吸菸區累計使用近88萬人次;3大禁菸商圈的支持度超過9成5,滿意度超過9成。",
    "date_only": true
   },
   {
@@ -252,16 +331,6 @@
    "date_only": true
   },
   {
-   "url": "https://www.cna.com.tw/news/aloc/202611240066.aspx",
-   "title": "北市府推無菸城市 衛生局:3禁菸商圈支持度高",
-   "source": "中央社",
-   "published_at": "2026-11-23T21:24:00+08:00",
-   "event_key": "archive:5e158f34b6f58fd1",
-   "primary": false,
-   "summary": "台北市政府 衛生局 今天發布新聞稿表示,「台北無菸城市」已設267處指定吸菸區,其中15處負壓式吸菸區累計使用近88萬人次,3 禁菸 商圈支持度超過9成5,滿意度超過9成。",
-   "date_only": true
-  },
-  {
    "url": "https://www.niusnews.com/=P2cyd5e70",
    "title": "晚下班也能吃好鍋!黑毛屋插旗南京復興商圈 四大經典鍋物380元起,和牛火山壽喜燒480元就能上桌",
    "source": "Niusnews 妞新聞",
@@ -274,8 +343,8 @@
    "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
    "source": "https://www.yesmedia.com.tw/",
    "published_at": "2026-11-23T18:15:00+08:00",
-   "event_key": "archive:665fcd5a7497ffdb",
-   "primary": true,
+   "event_key": "art:e6e13dcdec6b57d23b211aaacd312272195355fc77c1d3885facb2e889e39694",
+   "primary": false,
    "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。本次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
    "date_only": true
   },
@@ -284,7 +353,7 @@
    "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
    "source": "商傳媒",
    "published_at": "2026-11-23T18:15:00+08:00",
-   "event_key": "archive:665fcd5a7497ffdb",
+   "event_key": "art:e6e13dcdec6b57d23b211aaacd312272195355fc77c1d3885facb2e889e39694",
    "primary": false,
    "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。本次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
    "date_only": true
@@ -310,7 +379,7 @@
    "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
    "source": "商傳媒",
    "published_at": "2026-11-23T16:30:00+08:00",
-   "event_key": "archive:665fcd5a7497ffdb",
+   "event_key": "art:e6e13dcdec6b57d23b211aaacd312272195355fc77c1d3885facb2e889e39694",
    "primary": false,
    "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。本次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
    "date_only": true
@@ -320,8 +389,8 @@
    "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
    "source": "經濟日報",
    "published_at": "2026-11-23T16:02:00+08:00",
-   "event_key": "archive:665fcd5a7497ffdb",
-   "primary": false,
+   "event_key": "art:e6e13dcdec6b57d23b211aaacd312272195355fc77c1d3885facb2e889e39694",
+   "primary": true,
    "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。本次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
    "date_only": true
   },
@@ -370,7 +439,7 @@
    "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
    "source": "是新聞",
    "published_at": "2026-11-23T10:15:00+08:00",
-   "event_key": "archive:665fcd5a7497ffdb",
+   "event_key": "art:e6e13dcdec6b57d23b211aaacd312272195355fc77c1d3885facb2e889e39694",
    "primary": false,
    "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。本次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
    "date_only": true
@@ -439,7 +508,7 @@
    "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
    "source": "蕃新聞",
    "published_at": "2026-11-23T00:00:00+08:00",
-   "event_key": "archive:665fcd5a7497ffdb",
+   "event_key": "art:e6e13dcdec6b57d23b211aaacd312272195355fc77c1d3885facb2e889e39694",
    "primary": false,
    "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。本次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
    "date_only": true
@@ -449,7 +518,7 @@
    "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
    "source": "天天上新聞",
    "published_at": "2026-11-23T00:00:00+08:00",
-   "event_key": "archive:665fcd5a7497ffdb",
+   "event_key": "art:e6e13dcdec6b57d23b211aaacd312272195355fc77c1d3885facb2e889e39694",
    "primary": false,
    "summary": "為促進全臺商圈跨區域交流合作,展現臺灣在地產業特色與商圈創新發展成果,「2026商圈狂歡節-萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。本次活動以「秋收年豐、商圈共榮」為核心精神,規劃串聯全臺各地特色商圈,結合商圈聯展、地方美食、文化展演、互動體驗、公益活動及數位集章等豐富內容,打造兼具文化、觀光、消費",
    "date_only": true
@@ -461,20 +530,6 @@
    "published_at": "2026-11-22T23:13:00+08:00",
    "event_key": "archive:33cffdbc144bef26",
    "primary": true
-  },
-  {
-   "url": "https://ccss3172.blogspot.com/2026/11/x-3.html",
-   "title": "江啟臣夜掃逢甲商圈 「最強靠3」與市民共拚臺中未來",
-   "source": "新華報導",
-   "published_at": "2026-11-22T19:47:00+08:00",
-   "event_key": "art:21c9a4e9fb354fd5c74849a76c2b8a7d7ce5dd17275987046e5b7c4ae06fde81",
-   "primary": true,
-   "cities": [
-    "台中市"
-   ],
-   "districts": [
-    "逢甲商圈"
-   ]
   },
   {
    "url": "https://www.fclnews.com/239249/",
@@ -494,7 +549,7 @@
    "title": "平溪十分瀑布17人遭虎頭蜂螫! 蜂窩藏商店街已摘除 | 華視新聞",
    "source": "LINE TODAY",
    "published_at": "2026-11-22T18:09:00+08:00",
-   "event_key": "art:5dcf344daf65811c6bbd893d7b4bb929384f974f55e3452e51bba72294814f94",
+   "event_key": "archive:13edbe569392900c",
    "primary": true
   },
   {
@@ -502,7 +557,7 @@
    "title": "平溪十分瀑布17人遭虎頭蜂螫! 蜂窩藏商店街已摘除- 綜合",
    "source": "華視新聞網",
    "published_at": "2026-11-22T17:55:00+08:00",
-   "event_key": "art:5dcf344daf65811c6bbd893d7b4bb929384f974f55e3452e51bba72294814f94",
+   "event_key": "archive:13edbe569392900c",
    "primary": false
   },
   {
@@ -536,6 +591,22 @@
    "summary": "動感音樂響徹花蓮鐵道行人徒步區,舞者隨著節奏輪番上陣,以充滿力量與創意的舞步展現街舞魅力。「2026市長盃街舞錦標賽暨花蓮」昨(21)日下午熱鬧登場,吸引熱愛街舞的青年及舞蹈好手齊聚花蓮,透過精彩對決交流舞藝,為市區注入青春活力。 活動由花蓮市公所指導、花蓮市青年公共事務促進會主辦。花蓮市公所社會及勞工課課長蕭子蔚、花",
    "cities": [
     "花蓮縣"
+   ],
+   "date_only": true
+  },
+  {
+   "url": "https://ccss3172.blogspot.com/2026/11/x-3.html",
+   "title": "江啟臣夜掃逢甲商圈 「最強靠3」與市民共拚臺中未來",
+   "source": "新華報導",
+   "published_at": "2026-11-22T07:47:00+08:00",
+   "event_key": "art:21c9a4e9fb354fd5c74849a76c2b8a7d7ce5dd17275987046e5b7c4ae06fde81",
+   "primary": true,
+   "summary": "台中市北屯區市議員選舉進入最後衝刺,13名候選人競逐7席,從傳統市場、主要路口到地方餐會,幾乎都成了候選人爭取曝光的競技場。相較上屆6席,本屆北屯因人口成長增加1席,卻未讓選戰降溫,反而吸引更多不同政黨與無黨籍人選投入,形成藍、綠、白及無黨籍候選人同場競逐的複合戰局。",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    "逢甲商圈"
    ],
    "date_only": true
   },
@@ -614,8 +685,8 @@
    "title": "老街別只會去淡水、北埔!1超強景點狂吸120萬人次,遊客讚:美食多環境優美、 價位也很親民",
    "source": "風傳媒",
    "published_at": "2026-11-21T09:30:00+08:00",
-   "event_key": "archive:3bf74c33ce12f57f",
-   "primary": true,
+   "event_key": "art:cc4d4aff3b6f3bf45003954958c73dea6cee01a7f4f8ec717c53376c13c5ee88",
+   "primary": false,
    "summary": "新竹除了以科技產業聞名,還擁有豐富的歷史文化與自然景觀,有著存老城風貌的歷史建築和具有特色的藝文空間,想安排旅行去走走看看,都有不少值得探索的去處。根據《交通部觀光署》2026年1-9月的統計資料顯示,旅客最喜歡去的新竹景點第一名為「內灣老街」,有著120萬的觀光人次,第二名為「獅頭山風景區(新竹地區)」,有著99萬的",
    "date_only": true
   },
@@ -632,8 +703,8 @@
    "title": "老街別只會去淡水、北埔!1超強景點狂吸120人次,遊客讚:美食多環境優美、價位也很親民",
    "source": "風傳媒",
    "published_at": "2026-11-21T00:00:00+08:00",
-   "event_key": "archive:3bf74c33ce12f57f",
-   "primary": false,
+   "event_key": "art:cc4d4aff3b6f3bf45003954958c73dea6cee01a7f4f8ec717c53376c13c5ee88",
+   "primary": true,
    "summary": "新竹除了以科技產業聞名,還擁有豐富的歷史文化與自然景觀,有著存老城風貌的歷史建築和具有特色的藝文空間,想安排旅行去走走看看,都有不少值得探索的去處。根據《交通部觀光署》2026年1-9月的統計資料顯示,旅客最喜歡去的新竹景點第一名為「內灣老街」,有著120萬的觀光人次,第二名為「獅頭山風景區(新竹地區)」,有著99萬的",
    "date_only": true
   },
@@ -723,7 +794,7 @@
    "title": "党建引领“微改造” 老街焕新机",
    "source": "凤凰网资讯频道",
    "published_at": "2026-11-20T09:12:00+08:00",
-   "event_key": "archive:5424281281aa48f8",
+   "event_key": "art:4e7311be769ccd563d5d2a9f1af7ae833e581d885764ef8cfd6b6a546d172502",
    "primary": true,
    "summary": "党的二十届五中全会指出,“深化党建引领基层治理和基层政权建设”,“拓宽基层组织和群众依法有序参与基层治理渠道”。五一路的实践,就是把支部建在项目上,把治理服务送到街区一线。当地坚持党建引领,在城市更新项目启动之初即成立临时党支部,街道、社区、运营方、施工方四方联动,党员在一线协调堵点,并将商户、居民的多条建议写入改造方",
    "date_only": true
@@ -795,9 +866,12 @@
    "title": "台北四平商圈必吃美食!「種福園」手作斤餅越嚼越香 合菜戴帽也不容錯過",
    "source": "travel.udn",
    "published_at": "2026-11-19T16:00:00+08:00",
-   "event_key": "archive:b6c4c44abd61b530",
+   "event_key": "art:a8b764e5f1701eb6a8ece4970477e329d552a653b4d4883063826d98cd61b3e3",
    "primary": true,
    "summary": "捷運松江南京站美食真推薦四平商圈的種福園。喜歡餅類或北方料理的朋友,種福園絕對值得一試!他們家的主打是斤餅,老師傅親手揉麵團烤餅,口感Q彈且越嚼越香又略帶溼潤,搭配菜單上的餡料都很合拍。(文末有種福園影片) ...",
+   "cities": [
+    "台北市"
+   ],
    "date_only": true
   },
   {
@@ -805,19 +879,12 @@
    "title": "運動中心不只運動!中和第二運動中心開工 串聯捷運商圈與綠地",
    "source": "民視新聞網",
    "published_at": "2026-11-19T14:35:00+08:00",
-   "event_key": "archive:7676b5d9d7e3e48f",
-   "primary": true,
-   "summary": "為推廣全民運動,新北市政府結合民間資源,規劃興建中和第二國民運動中心,今天(19日)舉行開工祈福典禮,除了擴充中和地區運動服務量能,更結合交通、商業、綠地及公共服務機能,為市民打造兼具健康、休閒與生活品質的嶄新城市空間,園區預計2034年完工。新北市長侯友宜表示,目前新北市已有20座國民運動中心,市府持續針對人口及運動",
-   "date_only": true
-  },
-  {
-   "url": "https://news.ltn.com.tw/news/life/breakingnews/5646078",
-   "title": "新北中和第二運動中心開工 串聯捷運商圈與綠地",
-   "source": "自由時報電子報",
-   "published_at": "2026-11-19T12:35:00+08:00",
-   "event_key": "archive:7676b5d9d7e3e48f",
+   "event_key": "art:db87b7121a85fabb7737b4f8bc6e03e69a777abf43b9be3f0dd5f6b43aa915d7",
    "primary": false,
    "summary": "為推廣全民運動,新北市政府結合民間資源,規劃興建中和第二國民運動中心,今天(19日)舉行開工祈福典禮,除了擴充中和地區運動服務量能,更結合交通、商業、綠地及公共服務機能,為市民打造兼具健康、休閒與生活品質的嶄新城市空間,園區預計2034年完工。新北市長侯友宜表示,目前新北市已有20座國民運動中心,市府持續針對人口及運動",
+   "cities": [
+    "新北市"
+   ],
    "date_only": true
   },
   {
@@ -825,9 +892,25 @@
    "title": "新北中和第二運動中心開工 串聯捷運商圈與綠地",
    "source": "自由時報電子報",
    "published_at": "2026-11-19T12:35:00+08:00",
-   "event_key": "archive:7676b5d9d7e3e48f",
+   "event_key": "art:db87b7121a85fabb7737b4f8bc6e03e69a777abf43b9be3f0dd5f6b43aa915d7",
+   "primary": true,
+   "summary": "為推廣全民運動,新北市政府結合民間資源,規劃興建中和第二國民運動中心,今天(19日)舉行開工祈福典禮,除了擴充中和地區運動服務量能,更結合交通、商業、綠地及公共服務機能,為市民打造兼具健康、休閒與生活品質的嶄新城市空間,園區預計2034年完工。新北市長侯友宜表示,目前新北市已有20座國民運動中心,市府持續針對人口及運動",
+   "cities": [
+    "新北市"
+   ],
+   "date_only": true
+  },
+  {
+   "url": "https://news.ltn.com.tw/news/life/breakingnews/5646078",
+   "title": "新北中和第二運動中心開工 串聯捷運商圈與綠地",
+   "source": "自由時報電子報",
+   "published_at": "2026-11-19T12:35:00+08:00",
+   "event_key": "art:db87b7121a85fabb7737b4f8bc6e03e69a777abf43b9be3f0dd5f6b43aa915d7",
    "primary": false,
    "summary": "為推廣全民運動,新北市政府結合民間資源,規劃興建中和第二國民運動中心,今天(19日)舉行開工祈福典禮,除了擴充中和地區運動服務量能,更結合交通、商業、綠地及公共服務機能,為市民打造兼具健康、休閒與生活品質的嶄新城市空間,園區預計2034年完工。新北市長侯友宜表示,目前新北市已有20座國民運動中心,市府持續針對人口及運動",
+   "cities": [
+    "新北市"
+   ],
    "date_only": true
   },
   {
@@ -853,7 +936,7 @@
    "title": "柯文哲豐原徒步闖關!連小華拋「藍寶石珍珠項鍊」拚商圈復甦",
    "source": "TVBS新聞網",
    "published_at": "2026-11-19T09:53:00+08:00",
-   "event_key": "archive:d120879652247539",
+   "event_key": "art:58f6f47f382b1c85607fad8bbc13e76552d0243198f60dcba726a60abd6bec00",
    "primary": true,
    "summary": "九合一選戰進入最後倒數,台灣民眾黨創黨主席柯文哲(17)日晚間現身台中豐原,陪同市議員候選人連小華徒步走訪地方商圈,首度在《來接你下班》直播節目挑戰全程步行,從豐原火車站出發,沿著水岸花都一路走進廟東商圈,以八站闖關方式介紹連小華提出的「豐原藍寶石珍珠項鍊計畫」。面對徒步行程,柯文哲笑稱,過去當兵曾接受負重行軍訓練,走",
    "date_only": true
@@ -905,109 +988,13 @@
    "date_only": true
   },
   {
-   "url": "https://demo.52salon.com/uninews_view.php?new_sn=150115",
-   "title": "廣州街騎樓、艋舺公園大變身!「鏈機能+鏈文化」雙軸改造萬華商圈展新貌打造行人友善觀光廊帶- 預約系統",
-   "source": "demo.52salon.com",
-   "published_at": "2026-11-18T22:44:00+08:00",
-   "event_key": "archive:61d88a80d0327e39",
-   "primary": true
-  },
-  {
-   "url": "https://www.contentplatform.info/articles/580827/%E5%8F%B0%E5%8C%97%E8%90%AC%E8%8F%AF%E5%95%86%E5%9C%88%E5%BB%8A%E5%B8%B6%E9%9B%99%E8%BB%B8%E4%B8%B2%E8%81%AF-%E5%BB%A3%E5%B7%9E%E8%A1%97%E8%88%87%E8%89%8B%E8%88%BA%E5%85%AC%E5%9C%92%E7%92%B0%E5%A2%83/",
-   "title": "台北萬華商圈廊帶雙軸串聯 廣州街與艋舺公園環境優化",
-   "source": "報新聞 Mega News",
-   "published_at": "2026-11-18T14:41:00+08:00",
-   "event_key": "archive:93f7dc4c74e2a592",
-   "primary": true
-  },
-  {
-   "url": "https://www.upmedia.mg/tw/lifestyle/food/274610",
-   "title": "黑毛屋「慶城店」插旗南京復興商圈!營業至晚間 11 點 A5 和牛鍋 480 元開吃",
-   "source": "上報Up Media",
-   "published_at": "2026-11-18T14:00:00+08:00",
-   "event_key": "archive:f49f400ec9f89c6c",
-   "primary": true
-  },
-  {
-   "url": "https://n.yam.com/Article/20261118544382",
-   "title": "萬華商圈廊帶環境優化計畫啟動",
-   "source": "蕃新聞",
-   "published_at": "2026-11-18T11:57:00+08:00",
-   "event_key": "art:50b2809ab504a220914a1461dbbe83fded983c114b654e2d9d940ad4bd318f43",
-   "primary": false,
-   "summary": "【記者 潘靖茹/臺北報導】臺北市政府持續推動萬華商圈廊帶發展,從廣州街的環境改善與艋舺公園的景觀更新開始,並設置老松國小「萬華故事牆」及3處新的文化意象節點,展現百年艋舺的城市新風貌。市府自112年起,將萬華作為首個商圈廊帶示範區,秉持「攜舊扶新」的理念,結合跨局處專業及地方團體、商圈店家共同參與,推進公共環境、文化景",
-   "date_only": true
-  },
-  {
-   "url": "https://today.line.me/tw/v3/article/2D9aWaO?view=topic",
-   "title": "葉忠倫角逐竹南鎮長提6規劃 補足大埔機能、活化中港老街 | 自由電子報",
-   "source": "LINE TODAY",
-   "published_at": "2026-11-18T10:39:00+08:00",
-   "event_key": "archive:3b5e506d27c98fa4",
-   "primary": true
-  },
-  {
-   "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644546",
-   "title": "葉忠倫角逐竹南鎮長提6規劃 補足大埔機能、活化中港老街",
-   "source": "自由時報",
-   "published_at": "2026-11-18T10:37:00+08:00",
-   "event_key": "archive:3b5e506d27c98fa4",
-   "primary": false
-  },
-  {
-   "url": "https://tyenews.com/2026/11/1431187/",
-   "title": "投書/中路商圈的咖啡香與人情味 桃園「小天母」逐漸成形",
-   "source": "桃園電子報",
-   "published_at": "2026-11-18T10:13:00+08:00",
-   "event_key": "art:8f2d5ac78e44e910399231d23687920ce9580055685c5c5f6b75e54ccbe5f409",
+   "url": "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html",
+   "title": "五中全会精神在基层丨党建引领“微改造” 老街焕新机",
+   "source": "法治网",
+   "published_at": "2026-11-19T00:01:00+08:00",
+   "event_key": "art:ad1ce980c49f729f7f11b0b638fc6e74b43106fc3bd0c0027249d61a4a959a89",
    "primary": true,
-   "summary": "2025年10月18日親子咖啡節。桃園中路商圈透過節慶活動與現場音樂演出,邀請民眾走進街區,感受地方商圈的活力與人情味。圖:林華庭提供 文/林華庭 筆者與桃園市中路商圈發展協會理事長都淑玲談起地方經營,話題很快回到一間間小店。中路特區有向陽、風禾與水秀公園,住宅街道間逐漸聚集咖啡館、甜點與特色餐飲。公園讓人願意散步,小",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [
-    "中路商圈"
-   ],
-   "date_only": true
-  },
-  {
-   "url": "https://life.tw/article/%E8%90%AC%E8%8F%AF%E5%95%86%E5%9C%88%E5%BB%8A%E5%B8%B6%E7%92%B0%E5%A2%83%E5%84%AA%E5%8C%96%E8%A8%88%E7%95%AB%E5%95%9F%E5%8B%95-3223425",
-   "title": "萬華商圈廊帶環境優化計畫啟動",
-   "source": "LIFE 生活網",
-   "published_at": "2026-11-18T00:00:00+08:00",
-   "event_key": "art:50b2809ab504a220914a1461dbbe83fded983c114b654e2d9d940ad4bd318f43",
-   "primary": true,
-   "summary": "【記者 潘靖茹/臺北報導】臺北市政府持續推動萬華商圈廊帶發展,從廣州街的環境改善與艋舺公園的景觀更新開始,並設置老松國小「萬華故事牆」及3處新的文化意象節點,展現百年艋舺的城市新風貌。市府自112年起,將萬華作為首個商圈廊帶示範區,秉持「攜舊扶新」的理念,結合跨局處專業及地方團體、商圈店家共同參與,推進公共環境、文化景",
-   "date_only": true
-  },
-  {
-   "url": "https://n.yam.com/Article/20261118895404",
-   "title": "陽明山山藥季開跑 攜手士林商圈推出聯名限定美味",
-   "source": "蕃新聞",
-   "published_at": "2026-11-18T00:00:00+08:00",
-   "event_key": "archive:1d563e95d881ec91",
-   "primary": true,
-   "summary": "秋意漸濃、氣溫轉涼,陽明山上的山藥進入最肥美的季節,一年一度的山藥季即將開始,由臺北市政府輔導,士林區農會與財團法人七星農業發展基金會共同主辦的『2026士林陽明山山藥季-山藥秋收,都會慢活』將於11月21日(六)至11月22日(日)於臺北假日建國花市農業櫥窗正式登場! 士林陽明山山藥深受廣大民眾喜愛,擁有得天獨厚的天",
-   "date_only": true
-  },
-  {
-   "url": "https://more-news.tw/771481/",
-   "title": "陽明山山藥季開跑 攜手士林商圈推出聯名限定美味",
-   "source": "more-news",
-   "published_at": "2026-11-18T00:00:00+08:00",
-   "event_key": "archive:1d563e95d881ec91",
-   "primary": false,
-   "summary": "秋意漸濃、氣溫轉涼,陽明山上的山藥進入最肥美的季節,一年一度的山藥季即將開始,由臺北市政府輔導,士林區農會與財團法人七星農業發展基金會共同主辦的『2026士林陽明山山藥季-山藥秋收,都會慢活』將於11月21日(六)至11月22日(日)於臺北假日建國花市農業櫥窗正式登場! 士林陽明山山藥深受廣大民眾喜愛,擁有得天獨厚的天",
-   "date_only": true
-  },
-  {
-   "url": "https://n.yam.com/Article/20261118893364",
-   "title": "百年艋舺展新貌!北市「鏈機能、鏈文化」雙軸改造萬華商圈 公園景觀與故事牆成新亮點",
-   "source": "蕃新聞",
-   "published_at": "2026-11-18T00:00:00+08:00",
-   "event_key": "archive:d86fe1c86c11c148",
-   "primary": true,
-   "summary": "百年艋舺展現城市新風景!從廣州街騎樓與街道環境改善、艋舺公園景觀更新,到老松國小「萬華故事牆」及3處新設文化意象節點,臺北市政府持續推動萬華商圈廊帶發展,讓歷史街區展現嶄新活力。市府自112年以萬華作為首例商圈廊帶示範區域,秉持「攜舊扶新」理念,以「鏈機能、鏈文化」雙軸串聯街區資源,結合跨局處專業及地方團體、商圈店家共",
+   "summary": "夜幕降临,湖北省荆州市沙市区五一路霓虹闪烁、游人如织。这条百年老街曾是无序的“三无街区”。 党的二十届五中全会指出,“深化党建引领基层治理和基层政权建设”,“拓宽基层组织和群众依法有序参与基层治理渠道”。五一路的实践,就是把支部建在项目上,把治理服务送到街区一线。当地坚持党建引领,在城市更新项目启动之初即成立临时党支部",
    "date_only": true
   }
  ]
