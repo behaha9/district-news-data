@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T16:51:00+08:00",
+ "fetched_at": "2026-11-24T18:08:56+08:00",
  "articles": {
   "https://www.aoc.gov.tw/showPublic/811": {
    "checked_at": "2026-11-23T15:55+08:00",
@@ -10794,6 +10794,148 @@
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
+  },
+  "https://udn.com/news/story/6656/9898536": {
+   "checked_at": "2026-11-24T18:08+08:00",
+   "status": 200,
+   "published_at": "2026-11-24T13:28+08:00",
+   "site_name": "聯合新聞網",
+   "description": "台北市長蔣萬安今年初喊出打造「無菸城市」，推動吸菸者與非吸菸者空間分流，降低戶外二手菸暴露。目前全市已設267處指定吸菸區，其中15處負壓式吸菸區累計使用近88萬人次；3大禁菸商圈的支持度超過9成5，滿意度超過9成。",
+   "cities": {
+    "台北市": 5,
+    "彰化縣": 2,
+    "新竹縣": 2,
+    "新北市": 1,
+    "台中市": 1
+   },
+   "districts": [
+    "迪化街商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 2285,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35548216.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://money.udn.com/money/story/122328/9899067": {
+   "checked_at": "2026-11-24T18:08+08:00",
+   "status": 200,
+   "published_at": "2026-11-24T16:52+08:00",
+   "site_name": "經濟日報",
+   "description": "日本人氣流行文化品牌graniph宣布，繼在南港LaLaport開出海外首家直營店後，台灣二號店將於12月23日正式插旗台北信義區ATT 4 FUN。為慶祝二號店開幕，除了推出結合台灣小籠包、珍珠奶茶元素的限定商品外，更將搶先日本先行發售西村優志（NishimuraYuji）聯名系列。",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [],
+   "body_chars": 1673,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35549106.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=1280&sl=W&fw=1050&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.nextapple.com/politics/20261124/C2C168850E9D4DC01A4DADC3CC3B389E": {
+   "checked_at": "2026-11-24T18:08+08:00",
+   "status": 200,
+   "published_at": "2026-11-24T17:43+08:00",
+   "site_name": "壹蘋新聞網",
+   "description": "為守護市民健康，臺北市長蔣萬安於今（115）年1月宣布逐步打造「臺北無菸城市」，推動吸菸者與非吸菸者空間分流，降低戶外二手菸暴露。目前全市已設置267處指定吸菸區，其中15處負壓式吸菸區累計使用近88萬人次。",
+   "cities": {
+    "台北市": 21,
+    "新竹縣": 11,
+    "台中市": 6,
+    "新北市": 3,
+    "高雄市": 2
+   },
+   "districts": [
+    "迪化街商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 3468,
+   "image": "https://static-cdn.nextapple.tw/prod/2026-11/C2C168850E9D4DC01A4DADC3CC3B389E/248adaea4bc9e74627d670bfbf421db4_1280.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/nXpnNRy": {
+   "checked_at": "2026-11-24T18:08+08:00",
+   "status": 200,
+   "published_at": "2026-11-22T17:55+08:00",
+   "site_name": "LINE TODAY",
+   "description": "新北市平溪區十分瀑布，今(22)日中午傳出有17人遭虎頭蜂螫傷！其中有分別來自印尼、日本、希臘、加拿大的外籍遊客，大部分為輕傷，少數人頭部遭...",
+   "cities": {
+    "新北市": 4
+   },
+   "districts": [],
+   "body_chars": 892,
+   "image": "https://today-obs.line-scdn.net/0hFhiXRhqFGUdUIQQinUBmEGx3FTZnRwNOdhQFInUlE3d4DVYXPUNKJHEjFGspGAxEdEAFJHUlFyUsRgoVYQ/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-22",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cmoney.tw/forum/article/189713362": {
+   "checked_at": "2026-11-24T18:08+08:00",
+   "status": 200,
+   "published_at": "2026-11-24T16:54+08:00",
+   "site_name": "CMoney 股市爆料同學會",
+   "description": "日本人氣流行文化品牌graniph宣布，繼在南港LaLaport開出海外首家直營店後，台灣二號店將於12月23日正式插旗台北信義區ATT4FUN。為慶祝二號店開",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 277,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35549106.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=1280&sl=W&fw=800&exp=3600&w=800",
+   "image_checked": true,
+   "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/postwrite/chi/451053": {
+   "checked_at": "2026-11-24T18:08+08:00",
+   "status": 200,
+   "published_at": "2026-11-24T05:28+08:00",
+   "site_name": null,
+   "description": "公會、協會與工會規劃會員活動時，可將鶯歌陶瓷老街與鶯歌光點美學館排進同一趟行程。從走訪老街、認識在地陶瓷工藝，到走進光點藝術中心欣賞展覽，再留一段時間自由逛店，讓會員在半天內體驗鶯歌的街區文化、當代藝術與工藝選品。",
+   "cities": {
+    "新北市": 3
+   },
+   "districts": [],
+   "body_chars": 1322,
+   "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261124/00451052.20261124392460370M.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.cna.com.tw/news/aloc/202611240213.aspx": {
+   "checked_at": "2026-11-24T18:08+08:00",
+   "status": 200,
+   "published_at": "2026-11-24T17:03+08:00",
+   "site_name": "中央社 CNA",
+   "description": "彰化縣政府今天舉行「彰化縣旅遊中心立體停車場暨雨水逕流分擔設施興建工程」動土典禮，期盼改善鹿港鎮停車與淹水問題，提升在地觀光服務品質，預計118年完工。",
+   "cities": {
+    "彰化縣": 9
+   },
+   "districts": [],
+   "body_chars": 682,
+   "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261124/1152x768_wmkn_0_C20261124000147.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261124262858": {
+   "checked_at": "2026-11-24T18:08+08:00",
+   "status": 200,
+   "published_at": "2026-11-24T17:28+08:00",
+   "site_name": "蕃新聞",
+   "description": "(中央社訊息服務20261124 17:29:05)公會、協會與工會規劃會員活動時，可將",
+   "cities": {
+    "新北市": 2
+   },
+   "districts": [],
+   "body_chars": 856,
+   "image": "https://ni.yam.com/20261124/00451052.20261124392460370m-bbaa7cb794140d50.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
   }
  }
 }

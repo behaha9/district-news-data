@@ -1,28 +1,53 @@
 {
- "fetched_at": "2026-11-24T16:50:49+08:00",
+ "fetched_at": "2026-11-24T18:08:45+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 101,
-  "kept": 50,
-  "resolved": 46,
-  "items": 47,
+  "raw": 106,
+  "kept": 53,
+  "resolved": 50,
+  "items": 49,
   "resolve_this_run": {
-   "online": 7,
-   "error": 4,
-   "examples": [
-    "error:429",
-    "error:429",
-    "error:429"
-   ]
+   "online": 5
   },
   "dropped_old": [
    "復古美學新風貌！學甲市場15面特色招牌亮麗登場（原文日期 2022-05-25）",
    "台北「淘動漫」大師店開幕 都會商圈卡位與擴大客群（原文日期 2026-07-22）",
-   "宜蘭社大走讀西門老街/串起婚喪喜慶百工與蓪草花藝（原文日期 2026-10-28）"
+   "宜蘭社大走讀西門老街/串起婚喪喜慶百工與蓪草花藝（原文日期 2026-10-28）",
+   "台北商圈空置率走低！劉佩真：遠東Garden City將考驗東區消費力（原文日期 2026-10-14）"
   ]
  },
  "items": [
+  {
+   "title": "臺北逐步打造無菸城市 3大禁菸商圈支持度均突破9成",
+   "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUtKRWtlM09KclhjTXAxal8xR054MmFVV2JrNkFFZThtS1pUZXdzY2lTaGRvM2JPRFdkdExPTl9ydUVLeEtHQVRiUjdIOFZ0UlA4RXdxODhzQUh3UFVBbDEyNUdlcHlaZUQ3dHpRNEVCTkQ5YWdGVm4yR05PenY3R21naw?oc=5",
+   "source": "壹蘋新聞網",
+   "source_site": "https://news.nextapple.com",
+   "published_at": "2026-11-24T17:43+08:00",
+   "query": "商圈",
+   "url": "https://news.nextapple.com/politics/20261124/C2C168850E9D4DC01A4DADC3CC3B389E",
+   "resolved": true
+  },
+  {
+   "title": "鶯歌光點邀公協會、工會走訪陶都 老街、看展串成半日會員行程",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tZEtTMG5feEFoejVMbE4xLXl1ZWFpN0hpX1NGeHc4VEtkQnZNLTAwU0kxV1diUjNtZFVubzQyMmNEQkF2MW1ySE1seEp0RXVPNnc?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-24T17:28+08:00",
+   "query": "老街",
+   "url": "https://n.yam.com/Article/20261124262858",
+   "resolved": true
+  },
+  {
+   "title": "graniph台灣二號店前進信義商圈搶先開賣西村優志聯名開幕限定搶先看- 股市爆料同學會",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jVzZCelhBWkkwbV9ZOVg1RHNkU2gwRDNGS2VtM3Q1MDlDYmhvT1pHbkFPMW5oQTNkdV9rcTlCelVNaVNmTVgzeHRCVUV2aE9SRWVGRWhnWEk?oc=5",
+   "source": "CMoney",
+   "source_site": "https://www.cmoney.tw",
+   "published_at": "2026-11-24T16:54+08:00",
+   "query": "商圈",
+   "url": "https://www.cmoney.tw/forum/article/189713362",
+   "resolved": true
+  },
   {
    "title": "graniph台灣二號店前進信義商圈搶先開賣西村優志聯名開幕限定搶先看| 品味生活",
    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83TjRpd2hZYk1RU2ZxcUNvNDNlY3lVMnNxeWw3eVRJT1FMQVRiYmdPME5weFRla0hWQ3Y4TjItWG5RblhtRC01LTNEeWxlbjAzT3FPY2NvLUNZUkFMck5yTXhoNl9vYVd3dHNQaENHeUVBVU1uR2xiZ0Y4dHU?oc=5",
@@ -84,14 +109,14 @@
    "resolved": true
   },
   {
-   "title": "蔣萬安「無菸城市」禁菸商圈支持度破9成 民眾反映曝光",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FUUNyazh2c1dCQ1QzcHNCTVA1aDFENTJsdGN5UktsLWFoQVpKNVA3NVZYV2xmYnhPeVdwRXRla1B5Rkc5emc3a2ZRSUFQWDRvTkVJSVRB0gFWQVVfeXFMTkVRQ3JrOHZzV0JDVDNwc0JNUDVoMUQ1Mmx0Y3lSS2wtYWhBWko1UDc1VlhXbGZieE95V3BFdGVrUHlGRzl6ZzdrZlFJQVBYNG9ORUlJVEE?oc=5",
+   "title": "蔣萬安推「無菸城市」禁菸商圈支持度破9成 民眾反映曝光",
+   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NdXhlMUpJdGtfMkdyTHdWYkprVDRLa1hEc1VOOHFfNWJzZHE0bGFVZS1RTnZhNHB4bHhBOTYtNEtLbnY2TlVQMkpIODFGeDcw0gFWQVVfeXFMTkVRQ3JrOHZzV0JDVDNwc0JNUDVoMUQ1Mmx0Y3lSS2wtYWhBWko1UDc1VlhXbGZieE95V3BFdGVrUHlGRzl6ZzdrZlFJQVBYNG9ORUlJVEE?oc=5",
    "source": "UDN",
    "source_site": "https://udn.com",
    "published_at": "2026-11-24T13:28+08:00",
    "query": "商圈",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FUUNyazh2c1dCQ1QzcHNCTVA1aDFENTJsdGN5UktsLWFoQVpKNVA3NVZYV2xmYnhPeVdwRXRla1B5Rkc5emc3a2ZRSUFQWDRvTkVJSVRB0gFWQVVfeXFMTkVRQ3JrOHZzV0JDVDNwc0JNUDVoMUQ1Mmx0Y3lSS2wtYWhBWko1UDc1VlhXbGZieE95V3BFdGVrUHlGRzl6ZzdrZlFJQVBYNG9ORUlJVEE?oc=5",
-   "resolved": false
+   "url": "https://udn.com/news/story/6656/9898536",
+   "resolved": true
   },
   {
    "title": "九份老街擠爆「放眼都人頭」！她逛到以為人在國外　大票有感",
@@ -474,23 +499,13 @@
    "resolved": true
   },
   {
-   "title": "平溪十分瀑布17人遭虎頭蜂螫！ 蜂窩藏商店街已摘除- 綜合",
-   "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4cUJUSEIwV29GNnJjX1FIUjRjQmF0WWllYWpPQUJjelN5YW5lX2hjanl0dHRIWUpianl1Rl8zT1hqMlVlMnZXaUhybks2Nlpjcl9lT1RTSHdpN2JkYjdaM0YzOWdsRUhrT1V1dzhLSlY?oc=5",
-   "source": "華視新聞網",
-   "source_site": "https://news.cts.com.tw",
-   "published_at": "2026-11-22T17:55+08:00",
+   "title": "平溪十分瀑布17人遭虎頭蜂螫！ 蜂窩藏商店街已摘除 | 華視新聞",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vbnBsRnkwOURfLXBpajVodXhzQUczUk5PVGNFQ202bTMzaW56SnBwTzRsd0Y5N1V0eHBHanRwUUdfRlVZVXNFXy04YWFzMkUtRkFtVVBR?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-22T18:09+08:00",
    "query": "商店街",
-   "url": "https://news.cts.com.tw/cts/general/202611/202611223104038.html",
-   "resolved": true
-  },
-  {
-   "title": "斗六太平老街變身夢幻燈海！萬顆燈籠點亮夜空 最後一天別錯過",
-   "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XcDdUYUNDcGhEdndValBkNmJCbUp0cTJPXzhqTWlUOHhvNXRWYzlJWjUtZmRrcWdFVGdRUmg0azVLM0ZRU2hPdnFIMkltSnZBOWYxX1N5Z2lBdTlKN0FYSW11a2EtUGpB?oc=5",
-   "source": "元丰傳媒",
-   "source_site": "https://yuanfengmedia.tw",
-   "published_at": "2026-11-22T17:30+08:00",
-   "query": "老街",
-   "url": "https://yuanfengmedia.tw/detail.php?type=gallery&id=63470",
+   "url": "https://today.line.me/tw/v3/article/nXpnNRy",
    "resolved": true
   }
  ]
