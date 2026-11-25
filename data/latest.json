@@ -1,7 +1,88 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T12:18:39+08:00",
+ "generated_at": "2026-11-25T16:56:59+08:00",
  "items": [
+  {
+   "id": "20261125-tainan-guohua-gas-blast",
+   "title": "台南國華街商圈附近麻辣燙店疑似瓦斯氣爆起火，無人傷亡",
+   "summary": "台南市中西區西門路一段麻辣燙店25日中午疑因桶裝瓦斯操作不慎氣爆起火，消防撲滅火勢，現場無人傷亡。",
+   "category": "商圈動向",
+   "alert": "商圈受災",
+   "published_at": "2026-11-25T16:01:00+08:00",
+   "cities": [
+    "台南市"
+   ],
+   "districts": [
+    {
+     "name": "國華街商圈",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "Newtalk新聞",
+     "url": "https://newtalk.tw/news/view/2026-11-25/1073697",
+     "published_at": "2026-11-25T16:01:00+08:00"
+    },
+    {
+     "outlet": "中天新聞網",
+     "url": "https://ctinews.com/news/items/4OaZ6Gd4a6",
+     "published_at": "2026-11-25T14:50:00+08:00"
+    },
+    {
+     "outlet": "太報",
+     "url": "https://www.taisounds.com/news/content/96/311755",
+     "published_at": "2026-11-25T14:36:00+08:00"
+    },
+    {
+     "outlet": "ETtoday新聞雲",
+     "url": "https://www.ettoday.net/news/20261125/3278265.htm",
+     "published_at": "2026-11-25T14:16:00+08:00"
+    }
+   ],
+   "image": "https://s.newtalk.tw/album/news/1074/6b0694c1c82cb.jpg"
+  },
+  {
+   "id": "20261125-itri-smart-golf",
+   "title": "工研院與資策會推AI智慧高球，進駐商圈拓展運動商機",
+   "summary": "經濟部產業技術司支持工研院、資策會與喬思齊科技打造智慧高球實驗室，讓民眾在城市商圈以AI分析揮桿動作。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-25T16:01:00+08:00",
+   "cities": [],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/5720/9901217",
+     "published_at": "2026-11-25T16:01:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7240/9901375",
+     "published_at": "2026-11-25T15:43:00+08:00"
+    }
+   ],
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/25/35552320.jpg&M=1&s=Y&x=0&y=0&sw=850&sh=567&sl=W&fw=1050&exp=3600"
+  },
+  {
+   "id": "20261125-oldstreet-visitor-rank",
+   "title": "觀光署今年1至9月統計：熱門老街人次排名出爐，榜首吸引1995萬人次",
+   "summary": "風傳媒引述交通部觀光署2026年1至9月統計報導台灣老街人氣排名，指第一名老街吸引1995萬人次。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-25T15:00:00+08:00",
+   "cities": [],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "風傳媒",
+     "url": "https://www.storm.mg/lifestyle/11184317",
+     "published_at": "2026-11-25T15:00:00+08:00"
+    }
+   ],
+   "image": "https://images.storm.mg/cloud/aa4b35a41534599e87440e648288f3121450c25f.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1895096%2F20240417-064142_U20715_M947454_3ba8.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
+  },
   {
    "id": "20261125-motc-invest-station-district",
    "title": "交通部招商大會將釋出2895億商機，含高雄車站周邊開發案",
@@ -28,6 +109,41 @@
     }
    ],
    "image": "https://static.kmedia.com.tw/prd/2025/1201/photo/be5e672a2e10f5c008cb8f52c2029808.webp"
+  },
+  {
+   "id": "20261124-hualien-xincheng-oldstreet",
+   "title": "花蓮地方創生輔導團走訪新城老街，推廣太魯閣風味",
+   "summary": "花蓮縣政府透過地方創生輔導團走訪新城老街與山下村，了解地方產業發展並以故事佐餐推廣太魯閣風味。",
+   "category": "商圈動向",
+   "alert": null,
+   "published_at": "2026-11-25T09:09:00+08:00",
+   "cities": [
+    "花蓮縣"
+   ],
+   "districts": [
+    {
+     "name": "新城老街",
+     "priority": false
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "住展雜誌",
+     "url": "https://www.myhousing.com.tw/all-news/309626/",
+     "published_at": "2026-11-25T09:09:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261124921093",
+     "published_at": "2026-11-24T15:49:00+08:00"
+    },
+    {
+     "outlet": "睿傳媒",
+     "url": "https://www.right-media.news/archives/246795",
+     "published_at": "2026-11-24T10:14:00+08:00"
+    }
+   ],
+   "image": "https://ni.yam.com/20261124/hualien-cover-261124052157689-df5136cf96defccf.webp"
   },
   {
    "id": "20261125-taoyuan-global-district-oped",
@@ -153,36 +269,6 @@
     }
    ],
    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35549106.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=1280&sl=W&fw=800&exp=3600&w=800"
-  },
-  {
-   "id": "20261124-hualien-xincheng-oldstreet",
-   "title": "花蓮地方創生輔導團走訪新城老街，推廣太魯閣風味",
-   "summary": "花蓮縣政府透過地方創生輔導團走訪新城老街與山下村，了解地方產業發展並以故事佐餐推廣太魯閣風味。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-11-24T15:49:00+08:00",
-   "cities": [
-    "花蓮縣"
-   ],
-   "districts": [
-    {
-     "name": "新城老街",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261124921093",
-     "published_at": "2026-11-24T15:49:00+08:00"
-    },
-    {
-     "outlet": "睿傳媒",
-     "url": "https://www.right-media.news/archives/246795",
-     "published_at": "2026-11-24T10:14:00+08:00"
-    }
-   ],
-   "image": "https://ni.yam.com/20261124/hualien-cover-261124052157689-df5136cf96defccf.webp"
   },
   {
    "id": "20261123-district-carnival-beitou",
