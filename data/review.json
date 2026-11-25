@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-25T16:56:59+08:00",
+ "updated_at": "2026-11-25T16:57:13+08:00",
  "reviewed": {
   "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html": {
    "decision": "hidden",
@@ -242,6 +242,11 @@
    "item": "20261110-moea-excellent-district-award",
    "at": "2026-11-22"
   },
+  "https://n.yam.com/Article/20261123151396": {
+   "decision": "kept",
+   "item": "20261123-district-carnival-beitou",
+   "at": "2026-11-25"
+  },
   "https://news.cnyes.com/news/id/6656699": {
    "decision": "kept",
    "item": "20261110-moea-excellent-district-award",
@@ -261,6 +266,11 @@
    "decision": "hidden",
    "reason": "國外",
    "at": "2026-11-20"
+  },
+  "https://news.ltn.com.tw/amp/news/politics/breakingnews/5652816": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-25"
   },
   "https://news.ltn.com.tw/amp/news/society/breakingnews/5639189": {
    "decision": "hidden",
@@ -621,6 +631,11 @@
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-13"
+  },
+  "https://www.fclnews.com/239140/": {
+   "decision": "kept",
+   "item": "20261110-moea-excellent-district-award",
+   "at": "2026-11-25"
   },
   "https://www.ftvnews.com.tw/news/detail/2026B19W0403": {
    "decision": "hidden",
