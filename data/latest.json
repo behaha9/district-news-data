@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T20:52:39+08:00",
+ "generated_at": "2026-11-26T07:24:05+08:00",
  "items": [
   {
    "id": "20261125-itri-smart-golf",
@@ -8,10 +8,15 @@
    "summary": "經濟部產業技術司支持工研院、資策會與喬思齊科技打造智慧高球實驗室，讓民眾在城市商圈以AI分析揮桿動作。",
    "category": "開店與消費",
    "alert": null,
-   "published_at": "2026-11-25T18:11:00+08:00",
+   "published_at": "2026-11-26T06:45:00+08:00",
    "cities": [],
    "districts": [],
    "sources": [
+    {
+     "outlet": "天天上新聞",
+     "url": "https://mknews.com.tw/2026/11/1024169/",
+     "published_at": "2026-11-26T06:45:00+08:00"
+    },
     {
      "outlet": "工商時報",
      "url": "https://www.ctee.com.tw/news/20261125701892-430502",
@@ -1499,7 +1504,7 @@
      "published_at": "2026-11-03T21:13:00+08:00"
     }
    ],
-   "image": "https://media.vogue.com.tw/photos/6afbbe0e757e552f4f7d60c0/16:9/w_1280,c_limit/FotoJet%20(31).jpg"
+   "image": "https://doqvf81n9htmm.cloudfront.net/data/petra_284/110500(1).jpg"
   },
   {
    "id": "20261112-gimme-xinyi",
@@ -1569,7 +1574,7 @@
      "published_at": "2026-11-12T09:34:00+08:00"
     }
    ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35513194.jpg&M=1&s=Y&x=0&y=0&sw=729&sh=486&exp=3600"
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35512419.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=1049&sl=W&fw=1050&exp=3600"
   },
   {
    "id": "20261116-meishu-yuandao-fest",
@@ -2604,56 +2609,6 @@
     }
    ],
    "image": "https://ni.yam.com/20261112/bf808d5b-63a9-4dbc-b65d-378183856652-2b3e9c28596b6e72.webp"
-  },
-  {
-   "id": "20261112-yingge-light-oldstreet",
-   "title": "鶯歌光點雙展13日登場，從台北藝博延伸到鶯歌老街",
-   "summary": "鶯歌光點首度參展台北國際藝術博覽會，並邀民眾走進鶯歌老街，13日起展出雙展。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-12T05:12:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "中央社",
-     "url": "https://www.cna.com.tw/postwrite/chi/449836",
-     "published_at": "2026-11-12T05:12:00+08:00"
-    }
-   ],
-   "image": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261112/00449836.20261112601993034M.jpg"
-  },
-  {
-   "id": "20261112-yuxiu-yanshui-district",
-   "title": "臺南玉秀雙語國小串聯鹽水商圈商家，辦萬聖節英語踩街",
-   "summary": "臺南市玉秀雙語國小整合地方資源，10月30日舉辦萬聖節英語與社區踩街活動，串聯鹽水14家商家，建立校園與在地商圈合作模式。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-12T04:10:00+08:00",
-   "cities": [
-    "台南市"
-   ],
-   "districts": [
-    {
-     "name": "鹽水商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "中時新聞網",
-     "url": "https://www.chinatimes.com/newspapers/20261112000579-260204",
-     "published_at": "2026-11-12T04:10:00+08:00"
-    },
-    {
-     "outlet": "工商時報",
-     "url": "https://www.ctee.com.tw/news/20261112700352-439901",
-     "published_at": "2026-11-12T03:00:00+08:00"
-    }
-   ],
-   "image": "https://images.chinatimes.com/newsphoto/2026-11-12/656/A40A00_P_03_02.jpg"
   }
  ],
  "discussions": []
