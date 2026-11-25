@@ -1,15 +1,13 @@
 {
- "fetched_at": "2026-11-25T12:17:18+08:00",
+ "fetched_at": "2026-11-25T12:21:28+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 116,
-  "kept": 57,
-  "resolved": 57,
-  "items": 55,
-  "resolve_this_run": {
-   "online": 17
-  },
+  "raw": 114,
+  "kept": 58,
+  "resolved": 58,
+  "items": 56,
+  "resolve_this_run": {},
   "dropped_old": [
    "台北「淘動漫」大師店開幕 都會商圈卡位與擴大客群（原文日期 2026-07-22）",
    "宜蘭社大走讀西門老街/串起婚喪喜慶百工與蓪草花藝（原文日期 2026-10-28）"
@@ -514,6 +512,16 @@
    "published_at": "2026-11-23T17:40+08:00",
    "query": "商圈",
    "url": "https://vocus.cc/article/amp/6b04050afd8978000140c461",
+   "resolved": true
+  },
+  {
+   "title": "北投散場後，誰會再走進商圈？",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kdTlrRl9USjZTU0NsZjRJdl9qQmZLT0ZWR1pkaEtkOVoxUDluZ3Y3ZzdLd3FkSHUtQWg4dlF2bDlwRjBuY05SRi1ONUxGZzVxU3c?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-23T17:32+08:00",
+   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
+   "url": "https://n.yam.com/Article/20261123458922",
    "resolved": true
   },
   {
