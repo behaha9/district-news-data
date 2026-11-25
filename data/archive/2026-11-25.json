@@ -426,6 +426,225 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-25T20:52:18+08:00",
+   "added": 1,
+   "merged": 3,
+   "items": [
+    {
+     "id": "20261125-tainan-guohua-gas-blast",
+     "title": "台南國華街商圈附近麻辣燙店疑似瓦斯氣爆起火，無人傷亡",
+     "summary": "台南市中西區西門路一段麻辣燙店25日中午疑因桶裝瓦斯操作不慎氣爆起火，消防撲滅火勢，現場無人傷亡。",
+     "category": "商圈動向",
+     "alert": "商圈受災",
+     "published_at": "2026-11-25T16:01:00+08:00",
+     "cities": [
+      "台南市"
+     ],
+     "districts": [
+      {
+       "name": "國華街商圈",
+       "priority": false
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "Newtalk新聞",
+       "url": "https://newtalk.tw/news/view/2026-11-25/1073697",
+       "published_at": "2026-11-25T16:01:00+08:00"
+      },
+      {
+       "outlet": "LINE TODAY",
+       "url": "https://today.line.me/tw/v3/article/x26XVYG",
+       "published_at": "2026-11-25T15:08:00+08:00"
+      },
+      {
+       "outlet": "中天新聞網",
+       "url": "https://ctinews.com/news/items/4OaZ6Gd4a6",
+       "published_at": "2026-11-25T14:50:00+08:00"
+      },
+      {
+       "outlet": "太報",
+       "url": "https://www.taisounds.com/news/content/96/311755",
+       "published_at": "2026-11-25T14:36:00+08:00"
+      },
+      {
+       "outlet": "ETtoday新聞雲",
+       "url": "https://www.ettoday.net/news/20261125/3278265.htm",
+       "published_at": "2026-11-25T14:16:00+08:00"
+      }
+     ],
+     "image": "https://s.newtalk.tw/album/news/1074/6b0694c1c82cb.jpg"
+    },
+    {
+     "id": "20261125-itri-smart-golf",
+     "title": "工研院與資策會推AI智慧高球，進駐商圈拓展運動商機",
+     "summary": "經濟部產業技術司支持工研院、資策會與喬思齊科技打造智慧高球實驗室，讓民眾在城市商圈以AI分析揮桿動作。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-25T18:11:00+08:00",
+     "cities": [],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261125701892-430502",
+       "published_at": "2026-11-25T18:11:00+08:00"
+      },
+      {
+       "outlet": "經濟日報",
+       "url": "https://money.udn.com/money/story/5720/9901217",
+       "published_at": "2026-11-25T16:01:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7240/9901375",
+       "published_at": "2026-11-25T15:43:00+08:00"
+      }
+     ],
+     "image": "https://images.ctee.com.tw/newsphoto/2026-11-25/1024/20261125701893.jpg"
+    },
+    {
+     "id": "20261119-hm-ximen-closing",
+     "title": "西門町H&M旗艦店19日熄燈，報導指租約到期不續租",
+     "summary": "報導指西門町H&M西門旗艦店19日為最後營業日，中天新聞網提到房東租金由1200萬元調漲至1700萬元，松高店將接手。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-25T17:06:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "西門町商圈",
+       "priority": true
+      }
+     ],
+     "admin_note": "西門町商圈為115年補助名單，地標店家撤出可能影響人潮，可留意商圈營運與KPI變化。",
+     "sources": [
+      {
+       "outlet": "工商時報",
+       "url": "https://www.ctee.com.tw/news/20261125701473-430602",
+       "published_at": "2026-11-25T17:06:00+08:00"
+      },
+      {
+       "outlet": "NOWnews今日新聞",
+       "url": "https://www.nownews.com/news/6894024",
+       "published_at": "2026-11-20T12:47:00+08:00"
+      },
+      {
+       "outlet": "聯合新聞網",
+       "url": "https://udn.com/news/story/7270/9890620",
+       "published_at": "2026-11-20T09:55:00+08:00"
+      },
+      {
+       "outlet": "udnSTYLE",
+       "url": "https://style.udn.com/style/story/11350/9890620",
+       "published_at": "2026-11-20T09:55:00+08:00"
+      },
+      {
+       "outlet": "中天新聞網",
+       "url": "https://ctinews.com/news/items/14a1woj0nk",
+       "published_at": "2026-11-19T16:09:00+08:00"
+      },
+      {
+       "outlet": "FTNN 新聞網",
+       "url": "https://www.ftnn.com.tw/news/597237",
+       "published_at": "2026-11-19T13:07:00+08:00"
+      }
+     ],
+     "image": "https://images.ctee.com.tw/newsphoto/2026-11-25/1024/20261125701482.jpg"
+    },
+    {
+     "id": "20261125-diesel-zhongshan",
+     "title": "義大利品牌DIESEL進駐台北中山商圈，新櫃位於新光三越南西店",
+     "summary": "報導指DIESEL進駐新光三越台北南西店三館，販售秋冬男女裝、丹寧與配件，並推出全台獨家包款。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-25T00:00:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "中山商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "JUKSY 街星",
+       "url": "https://www.juksy.com/article/155723",
+       "published_at": "2026-11-25T00:00:00+08:00"
+      }
+     ]
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-25T20:52:39+08:00",
+   "added": 0,
+   "merged": 1,
+   "items": [
+    {
+     "id": "20261122-excellence-award",
+     "title": "2026全國卓越商圈獎20處特色商圈獲選",
+     "summary": "標題指2026全國卓越商圈獎共有20處特色商圈脫穎而出，樹立卓越典範。",
+     "category": "營運與政策",
+     "alert": null,
+     "published_at": "2026-11-23T08:55:00+08:00",
+     "cities": [],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "住展雜誌",
+       "url": "https://www.myhousing.com.tw/l/l04/308138/",
+       "published_at": "2026-11-23T08:55:00+08:00"
+      },
+      {
+       "outlet": "台灣線報",
+       "url": "https://twline365.com/2026/11/1281562/",
+       "published_at": "2026-11-22T07:23:00+08:00"
+      },
+      {
+       "outlet": "享新聞",
+       "url": "https://i-news.com.tw/2026/11/500012/",
+       "published_at": "2026-11-22T07:04:00+08:00"
+      },
+      {
+       "outlet": "蕃新聞",
+       "url": "https://n.yam.com/Article/20261122366050",
+       "published_at": "2026-11-22T07:04:00+08:00"
+      },
+      {
+       "outlet": "墨新聞",
+       "url": "https://more-news.tw/774892/",
+       "published_at": "2026-11-21T23:59:00+08:00"
+      },
+      {
+       "outlet": "是新聞",
+       "url": "https://www.yesmedia.com.tw/%e3%80%8c2026%e5%85%a8%e5%9c%8b%e5%8d%93%e8%b6%8a%e5%95%86%e5%9c%88%e7%8d%8e%e3%80%8d20%e8%99%95%e7%89%b9%e8%89%b2%e5%95%86%e5%9c%88%e8%84%ab%e7%a9%8e%e8%80%8c%e5%87%ba-%e6%a8%b9%e7%ab%8b%e5%8d%93-9/",
+       "published_at": "2026-11-21T23:04:00+08:00"
+      },
+      {
+       "outlet": "是新聞",
+       "url": "https://www.yesmedia.com.tw/%e3%80%8c2026%e5%85%a8%e5%9c%8b%e5%8d%93%e8%b6%8a%e5%95%86%e5%9c%88%e7%8d%8e%e3%80%8d20%e8%99%95%e7%89%b9%e8%89%b2%e5%95%86%e5%9c%88%e8%84%ab%e7%a9%8e%e8%80%8c%e5%87%ba-%e6%a8%b9%e7%ab%8b%e5%8d%93-3/",
+       "published_at": "2026-11-21T23:04:00+08:00"
+      },
+      {
+       "outlet": "是新聞",
+       "url": "https://www.yesmedia.com.tw/%e3%80%8c2026%e5%85%a8%e5%9c%8b%e5%8d%93%e8%b6%8a%e5%95%86%e5%9c%88%e7%8d%8e%e3%80%8d20%e8%99%95%e7%89%b9%e8%89%b2%e5%95%86%e5%9c%88%e8%84%ab%e7%a9%8e%e8%80%8c%e5%87%ba-%e6%a8%b9%e7%ab%8b%e5%8d%93-10/",
+       "published_at": "2026-11-21T23:04:00+08:00"
+      }
+     ],
+     "image": "https://i0.wp.com/twline365.com/wp-content/uploads/img_1794443520_5712.jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }

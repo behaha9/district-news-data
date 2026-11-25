@@ -1,7 +1,86 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T16:56:59+08:00",
+ "generated_at": "2026-11-25T20:52:39+08:00",
  "items": [
+  {
+   "id": "20261125-itri-smart-golf",
+   "title": "工研院與資策會推AI智慧高球，進駐商圈拓展運動商機",
+   "summary": "經濟部產業技術司支持工研院、資策會與喬思齊科技打造智慧高球實驗室，讓民眾在城市商圈以AI分析揮桿動作。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-25T18:11:00+08:00",
+   "cities": [],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261125701892-430502",
+     "published_at": "2026-11-25T18:11:00+08:00"
+    },
+    {
+     "outlet": "經濟日報",
+     "url": "https://money.udn.com/money/story/5720/9901217",
+     "published_at": "2026-11-25T16:01:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7240/9901375",
+     "published_at": "2026-11-25T15:43:00+08:00"
+    }
+   ],
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-25/1024/20261125701893.jpg"
+  },
+  {
+   "id": "20261119-hm-ximen-closing",
+   "title": "西門町H&M旗艦店19日熄燈，報導指租約到期不續租",
+   "summary": "報導指西門町H&M西門旗艦店19日為最後營業日，中天新聞網提到房東租金由1200萬元調漲至1700萬元，松高店將接手。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-25T17:06:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "西門町商圈",
+     "priority": true
+    }
+   ],
+   "admin_note": "西門町商圈為115年補助名單，地標店家撤出可能影響人潮，可留意商圈營運與KPI變化。",
+   "sources": [
+    {
+     "outlet": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261125701473-430602",
+     "published_at": "2026-11-25T17:06:00+08:00"
+    },
+    {
+     "outlet": "NOWnews今日新聞",
+     "url": "https://www.nownews.com/news/6894024",
+     "published_at": "2026-11-20T12:47:00+08:00"
+    },
+    {
+     "outlet": "聯合新聞網",
+     "url": "https://udn.com/news/story/7270/9890620",
+     "published_at": "2026-11-20T09:55:00+08:00"
+    },
+    {
+     "outlet": "udnSTYLE",
+     "url": "https://style.udn.com/style/story/11350/9890620",
+     "published_at": "2026-11-20T09:55:00+08:00"
+    },
+    {
+     "outlet": "中天新聞網",
+     "url": "https://ctinews.com/news/items/14a1woj0nk",
+     "published_at": "2026-11-19T16:09:00+08:00"
+    },
+    {
+     "outlet": "FTNN 新聞網",
+     "url": "https://www.ftnn.com.tw/news/597237",
+     "published_at": "2026-11-19T13:07:00+08:00"
+    }
+   ],
+   "image": "https://images.ctee.com.tw/newsphoto/2026-11-25/1024/20261125701482.jpg"
+  },
   {
    "id": "20261125-tainan-guohua-gas-blast",
    "title": "台南國華街商圈附近麻辣燙店疑似瓦斯氣爆起火，無人傷亡",
@@ -25,6 +104,11 @@
      "published_at": "2026-11-25T16:01:00+08:00"
     },
     {
+     "outlet": "LINE TODAY",
+     "url": "https://today.line.me/tw/v3/article/x26XVYG",
+     "published_at": "2026-11-25T15:08:00+08:00"
+    },
+    {
      "outlet": "中天新聞網",
      "url": "https://ctinews.com/news/items/4OaZ6Gd4a6",
      "published_at": "2026-11-25T14:50:00+08:00"
@@ -41,29 +125,6 @@
     }
    ],
    "image": "https://s.newtalk.tw/album/news/1074/6b0694c1c82cb.jpg"
-  },
-  {
-   "id": "20261125-itri-smart-golf",
-   "title": "工研院與資策會推AI智慧高球，進駐商圈拓展運動商機",
-   "summary": "經濟部產業技術司支持工研院、資策會與喬思齊科技打造智慧高球實驗室，讓民眾在城市商圈以AI分析揮桿動作。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-25T16:01:00+08:00",
-   "cities": [],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "經濟日報",
-     "url": "https://money.udn.com/money/story/5720/9901217",
-     "published_at": "2026-11-25T16:01:00+08:00"
-    },
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7240/9901375",
-     "published_at": "2026-11-25T15:43:00+08:00"
-    }
-   ],
-   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/25/35552320.jpg&M=1&s=Y&x=0&y=0&sw=850&sh=567&sl=W&fw=1050&exp=3600"
   },
   {
    "id": "20261125-oldstreet-visitor-rank",
@@ -164,6 +225,30 @@
     }
    ],
    "image": "https://i0.wp.com/tyenews.com/wp-content/uploads/2024/04/AAAAAAA.webp"
+  },
+  {
+   "id": "20261125-diesel-zhongshan",
+   "title": "義大利品牌DIESEL進駐台北中山商圈，新櫃位於新光三越南西店",
+   "summary": "報導指DIESEL進駐新光三越台北南西店三館，販售秋冬男女裝、丹寧與配件，並推出全台獨家包款。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-25T00:00:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "中山商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "JUKSY 街星",
+     "url": "https://www.juksy.com/article/155723",
+     "published_at": "2026-11-25T00:00:00+08:00"
+    }
+   ]
   },
   {
    "id": "20261124-taipei-smokefree-districts",
@@ -818,11 +903,42 @@
      "published_at": "2026-11-23T08:55:00+08:00"
     },
     {
+     "outlet": "台灣線報",
+     "url": "https://twline365.com/2026/11/1281562/",
+     "published_at": "2026-11-22T07:23:00+08:00"
+    },
+    {
      "outlet": "享新聞",
      "url": "https://i-news.com.tw/2026/11/500012/",
      "published_at": "2026-11-22T07:04:00+08:00"
+    },
+    {
+     "outlet": "蕃新聞",
+     "url": "https://n.yam.com/Article/20261122366050",
+     "published_at": "2026-11-22T07:04:00+08:00"
+    },
+    {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/774892/",
+     "published_at": "2026-11-21T23:59:00+08:00"
+    },
+    {
+     "outlet": "是新聞",
+     "url": "https://www.yesmedia.com.tw/%e3%80%8c2026%e5%85%a8%e5%9c%8b%e5%8d%93%e8%b6%8a%e5%95%86%e5%9c%88%e7%8d%8e%e3%80%8d20%e8%99%95%e7%89%b9%e8%89%b2%e5%95%86%e5%9c%88%e8%84%ab%e7%a9%8e%e8%80%8c%e5%87%ba-%e6%a8%b9%e7%ab%8b%e5%8d%93-9/",
+     "published_at": "2026-11-21T23:04:00+08:00"
+    },
+    {
+     "outlet": "是新聞",
+     "url": "https://www.yesmedia.com.tw/%e3%80%8c2026%e5%85%a8%e5%9c%8b%e5%8d%93%e8%b6%8a%e5%95%86%e5%9c%88%e7%8d%8e%e3%80%8d20%e8%99%95%e7%89%b9%e8%89%b2%e5%95%86%e5%9c%88%e8%84%ab%e7%a9%8e%e8%80%8c%e5%87%ba-%e6%a8%b9%e7%ab%8b%e5%8d%93-3/",
+     "published_at": "2026-11-21T23:04:00+08:00"
+    },
+    {
+     "outlet": "是新聞",
+     "url": "https://www.yesmedia.com.tw/%e3%80%8c2026%e5%85%a8%e5%9c%8b%e5%8d%93%e8%b6%8a%e5%95%86%e5%9c%88%e7%8d%8e%e3%80%8d20%e8%99%95%e7%89%b9%e8%89%b2%e5%95%86%e5%9c%88%e8%84%ab%e7%a9%8e%e8%80%8c%e5%87%ba-%e6%a8%b9%e7%ab%8b%e5%8d%93-10/",
+     "published_at": "2026-11-21T23:04:00+08:00"
     }
-   ]
+   ],
+   "image": "https://i0.wp.com/twline365.com/wp-content/uploads/img_1794443520_5712.jpg"
   },
   {
    "id": "20261118-douliu-lantern-taiping",
@@ -1110,52 +1226,6 @@
    ],
    "admin_note": "中央公園商圈為115年補助名單，演唱會期間店家串聯活動可留意作為執行佐證或成效參考。",
    "image": "https://allnewstp.s3.ap-east-2.amazonaws.com/img/news/aFlkOVsmGqvpLif9zyIQ1QcC0SFSb2qVkPOOcTBA.jpg"
-  },
-  {
-   "id": "20261119-hm-ximen-closing",
-   "title": "西門町H&M旗艦店19日熄燈，報導指租約到期不續租",
-   "summary": "報導指西門町H&M西門旗艦店19日為最後營業日，中天新聞網提到房東租金由1200萬元調漲至1700萬元，松高店將接手。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-20T12:47:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "西門町商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "西門町商圈為115年補助名單，地標店家撤出可能影響人潮，可留意商圈營運與KPI變化。",
-   "sources": [
-    {
-     "outlet": "NOWnews今日新聞",
-     "url": "https://www.nownews.com/news/6894024",
-     "published_at": "2026-11-20T12:47:00+08:00"
-    },
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7270/9890620",
-     "published_at": "2026-11-20T09:55:00+08:00"
-    },
-    {
-     "outlet": "udnSTYLE",
-     "url": "https://style.udn.com/style/story/11350/9890620",
-     "published_at": "2026-11-20T09:55:00+08:00"
-    },
-    {
-     "outlet": "中天新聞網",
-     "url": "https://ctinews.com/news/items/14a1woj0nk",
-     "published_at": "2026-11-19T16:09:00+08:00"
-    },
-    {
-     "outlet": "FTNN 新聞網",
-     "url": "https://www.ftnn.com.tw/news/597237",
-     "published_at": "2026-11-19T13:07:00+08:00"
-    }
-   ],
-   "image": "https://media.nownews.com/nn_media/thumbnail/2026/07/1783069236914-1cb5f241793f477b92851a94ec60be2c-1047x880.webp?unShow=false"
   },
   {
    "id": "20261120-chiayi-chuiyang-pokemon-tree",
@@ -2584,69 +2654,6 @@
     }
    ],
    "image": "https://images.chinatimes.com/newsphoto/2026-11-12/656/A40A00_P_03_02.jpg"
-  },
-  {
-   "id": "20261110-moea-excellent-district-award",
-   "title": "全國卓越商圈獎頒獎，經濟部宣布明年起每年加碼25.5億輔導商圈",
-   "summary": "經濟部長在全國卓越商圈獎頒獎典禮表揚20個商圈，並宣布116年起每年再加碼投入25.5億元支持商圈發展。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-11T20:10:00+08:00",
-   "cities": [],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "17news民生好報",
-     "url": "https://17news.net/archives/345622",
-     "published_at": "2026-11-11T20:10:00+08:00"
-    },
-    {
-     "outlet": "墨新聞",
-     "url": "https://more-news.tw/766052/",
-     "published_at": "2026-11-11T19:58:00+08:00"
-    },
-    {
-     "outlet": "經濟日報",
-     "url": "https://money.udn.com/money/story/11799/9870234",
-     "published_at": "2026-11-11T10:09:00+08:00"
-    },
-    {
-     "outlet": "Yahoo奇摩新聞",
-     "url": "https://tw.news.yahoo.com/20%E8%99%95%E5%95%86%E5%9C%88%E7%8D%B2%E9%A0%92%E5%85%A8%E5%9C%8B%E5%8D%93%E8%B6%8A%E5%95%86%E5%9C%88%E7%8D%8E-134613696.html",
-     "published_at": "2026-11-10T21:46:00+08:00"
-    },
-    {
-     "outlet": "墨新聞",
-     "url": "https://more-news.tw/765073/",
-     "published_at": "2026-11-10T20:55:00+08:00"
-    },
-    {
-     "outlet": "鉅亨網",
-     "url": "https://m.cnyes.com/news/id/6656699",
-     "published_at": "2026-11-10T20:15:00+08:00"
-    },
-    {
-     "outlet": "經濟日報",
-     "url": "https://money.udn.com/money/story/5612/9869899",
-     "published_at": "2026-11-10T18:02:00+08:00"
-    },
-    {
-     "outlet": "中央社",
-     "url": "https://www.cna.com.tw/news/afe/202611100280.aspx",
-     "published_at": "2026-11-10T17:55:00+08:00"
-    },
-    {
-     "outlet": "經濟部",
-     "url": "https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124528",
-     "published_at": "2026-11-10T17:20:00+08:00"
-    },
-    {
-     "outlet": "中央廣播電臺",
-     "url": "https://www.rti.org.tw/news?uid=3&pid=1050641",
-     "published_at": "2026-11-10T17:19:00+08:00"
-    }
-   ],
-   "image": "https://17news.net/wp-content/uploads/2026/11/25e56216b327c43.webp"
   }
  ],
  "discussions": []
