@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-25T16:50:46+08:00",
+ "fetched_at": "2026-11-25T16:54:01+08:00",
  "articles": {
   "https://www.aoc.gov.tw/showPublic/811": {
    "checked_at": "2026-11-23T15:55+08:00",
@@ -11020,6 +11020,183 @@
    "image_checked": true,
    "date_hint": "2026-11-25",
    "date_hint_from": "原文時間"
+  },
+  "https://www.fclnews.com/239140/": {
+   "checked_at": "2026-11-25T16:54+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://news.pchome.com.tw/public/pronews/20261123/index-79542552473288353016.html": {
+   "checked_at": "2026-11-25T16:54+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://www.setn.com/news/1944613": {
+   "checked_at": "2026-11-25T16:54+08:00",
+   "status": 200,
+   "published_at": "2026-11-25T20:55+08:00",
+   "site_name": "三立新聞網",
+   "description": "民進黨台北市長候選人沈伯洋競選經費有限且起步較晚，看板宣傳面臨極大挑戰。總幹事吳思瑤透露，天母商圈大型看板因合約撤下讓她大感懊惱。所幸她每日四處尋找，最終在上班途中幸運租下福林橋兵家必爭之地的看板點位，讓沈伯洋順利在天母街頭亮相。",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [
+    "天母商圈（台北市）"
+   ],
+   "body_chars": 1286,
+   "image": "https://attach.setn.com/newsimages/2026/11/25/5801950-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-25",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E5%B7%A5%E7%A0%94%E9%99%A2%E5%A5%AA3%E9%A0%85%E7%99%BE%E5%A4%A7%E7%A0%94%E7%99%BC%E7%8D%8E-ai%E6%99%BA%E6%85%A7%E9%AB%98%E7%90%83%E9%80%B2%E9%A7%90%E5%95%86%E5%9C%88-084432743.html": {
+   "checked_at": "2026-11-25T16:54+08:00",
+   "status": 200,
+   "published_at": "2026-11-25T16:44+08:00",
+   "site_name": "Yahoo News",
+   "description": "產業中心/綜合報導 在經濟部產業技術司科技專案支持下，臺灣科技研發成果正加速從前瞻實驗室走向國際舞台與日常生活。工研院日前於素有「研發界奧斯卡獎」美譽的 2026 年全球百大科技研發獎（R&D […]",
+   "cities": {
+    "台北市": 8
+   },
+   "districts": [],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/lifetoutiao_news_333/59c023e0df6ddff1bed1e554e2e54e38.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-25",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261123151396": {
+   "checked_at": "2026-11-25T16:54+08:00",
+   "status": 200,
+   "published_at": "2026-11-23T18:15+08:00",
+   "site_name": "蕃新聞",
+   "description": "圖:永遠的「軍中情人」方季惟出席2026商圈狂歡節「萬市慶豐年」活動。(圖/臺灣商圈文化觀光產業聯合",
+   "cities": {
+    "新北市": 2,
+    "台北市": 1
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）"
+   ],
+   "body_chars": 1950,
+   "image": "https://ni.yam.com/20261123/20261123181153_38-8b80da0ad1871eb1.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-23",
+   "date_hint_from": "原文時間"
+  },
+  "https://newstaiwan.net/2026/11/25/505234/": {
+   "checked_at": "2026-11-25T16:54+08:00",
+   "status": 403,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "https://udn.com/news/story/6656/9898536?from=udn-catebreaknews_ch2": {
+   "checked_at": "2026-11-25T16:54+08:00",
+   "status": 200,
+   "published_at": "2026-11-24T13:28+08:00",
+   "site_name": "聯合新聞網",
+   "description": "台北市長蔣萬安今年初喊出打造「無菸城市」，推動吸菸者與非吸菸者空間分流，降低戶外二手菸暴露。目前全市已設267處指定吸菸區，其中15處負壓式吸菸區累計使用近88萬人次；3大禁菸商圈的支持度超過9成5，滿意度超過9成。",
+   "cities": {
+    "台北市": 5,
+    "台中市": 2,
+    "基隆市": 1
+   },
+   "districts": [
+    "迪化街商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 2132,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35548216.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.setn.com/news/1904722": {
+   "checked_at": "2026-11-25T16:54+08:00",
+   "status": 200,
+   "published_at": "2026-09-10T19:15+08:00",
+   "site_name": "三立新聞網",
+   "description": "桃園市政府為活絡中壢站前商圈，將於9月12日舉辦「中壢嗨！南洋奶茶生活節」，結合在地深厚的東南亞多元文化，打造專屬品牌特色。活動集結泰、越、印等七國特色奶茶與異國美食，並推出沉浸式市集、DIY文化體驗及跨國歌舞表演，帶領民眾秒飛南洋。本次更祭出黃金摸彩與滿額現金抵用券，串聯24間合作店家，邀請民眾親臨中壢體驗南洋風情，",
+   "cities": {
+    "桃園市": 6,
+    "屏東縣": 2,
+    "台東縣": 2
+   },
+   "districts": [
+    "中平商圈（桃園市）"
+   ],
+   "body_chars": 1596,
+   "image": "https://attach.setn.com/newsimages/2026/09/10/5704240-PH.jpg",
+   "image_checked": true,
+   "date_hint": "2026-09-10",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/Taipei/breakingnews/5653033": {
+   "checked_at": "2026-11-25T16:54+08:00",
+   "status": 200,
+   "published_at": "2026-11-25T16:21+08:00",
+   "site_name": "自由時報電子報",
+   "description": "台北市長蔣萬安週六（28日）將在信義區市府路舉行開票活動，台北市政府警察局信義分局24日已公告「市政府周邊道路舉辦集會活動實施交通管制說明」，公共運輸處今提醒，市府路（松高路至松壽路間）週五（27日）晚間10點至週日（29日）下午4點交管，南環幹線、承德幹線15條公車路線配合取消停靠「市政府（市府）」等共4站，請至前、",
+   "cities": {
+    "台北市": 7
+   },
+   "districts": [],
+   "body_chars": 784,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/25/5653033_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-25",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/story/7325/9900283": {
+   "checked_at": "2026-11-25T16:54+08:00",
+   "status": 200,
+   "published_at": "2026-11-25T09:37+08:00",
+   "site_name": "聯合新聞網",
+   "description": "115年地方公職人員選舉九合一選舉本周六辦理，根據「勞動基準法」為中央主管機關指定應放假日，豐原監理站提醒，本周六該站及所轄汽車代檢廠暫停受理汽車檢驗服務。",
+   "cities": {
+    "台中市": 5,
+    "彰化縣": 4
+   },
+   "districts": [],
+   "body_chars": 1638,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/25/35550652.jpg&M=1&s=Y&x=0&y=0&sw=753&sh=502&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-25",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/x26XVYG": {
+   "checked_at": "2026-11-25T16:54+08:00",
+   "status": 200,
+   "published_at": "2026-11-25T14:36+08:00",
+   "site_name": "LINE TODAY",
+   "description": "古城驚傳氣爆！台南市中西區知名的國華商圈，附近都是美食店家，人潮絡繹不絕。消防表示，中西區西門路一段703巷一處麻辣燙店，中午時間疑似使用桶...",
+   "cities": {
+    "台南市": 4
+   },
+   "districts": [],
+   "body_chars": 358,
+   "image": "https://today-obs.line-scdn.net/0hKBddOqa0FG1ZHQkM3nBrOmFLGBxqew5keyxTA3saSwgjMVQzZX1HDnocTUEkeAQ4eS9dCHgYQw1yKQE7NQ/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-25",
+   "date_hint_from": "原文時間"
+  },
+  "https://allnews.tw/news/97444": {
+   "checked_at": "2026-11-25T16:54+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": "台灣民眾電子報 | 【本報記者楊雅晴高雄報導】繼上週韓國天團在高雄掀起紫色旋風，港都追星熱潮持續延燒，多場音樂盛事將接力登場，陪伴樂迷一路從11月底嗨唱到年末。11月29日，集結少女時代小分隊「孝利秀」、TWICE「MI...",
+   "cities": {
+    "高雄市": 12
+   },
+   "districts": [
+    "在地商圈（南投縣）",
+    "三多商圈（高雄市）"
+   ],
+   "body_chars": 1203,
+   "image": "https://allnewstp.s3.ap-east-2.amazonaws.com/img/news/uWAFNqBgq2Hf7bLC9GQBPd3chN1yQKuTucx6TQBC.jpg",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
   }
  }
 }
