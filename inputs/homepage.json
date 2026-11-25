@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-25T16:53:47+08:00",
- "generated_at": "2026-11-25T16:53:46+08:00",
+ "fetched_at": "2026-11-25T20:51:09+08:00",
+ "generated_at": "2026-11-25T20:51:09+08:00",
  "window": "7d",
- "event_count": 69,
- "article_count": 121,
+ "event_count": 70,
+ "article_count": 125,
  "items": [
   {
    "url": "https://udn.com/news/story/7240/9901375",
@@ -14,13 +14,26 @@
    "primary": true
   },
   {
+   "url": "https://today.line.me/tw/v3/article/x26XVYG",
+   "title": "台南國華街商圈驚傳氣爆! 麻辣燙店「瓦斯操作不慎」竄火延燒| 太報",
+   "source": "LINE TODAY",
+   "published_at": "2026-11-25T15:08:00+08:00",
+   "event_key": "art:376047cf7f0d5d0ba2593a43bb14037a2785fbbe3b8895112b9802fb34e6963d",
+   "primary": true,
+   "cities": [
+    "台南市"
+   ],
+   "districts": [
+    "國華友愛新商圈"
+   ]
+  },
+  {
    "url": "https://www.ettoday.net/news/20261125/3278265.htm",
    "title": "快訊/鄰近國華街商圈!台南麻辣燙店氣爆 一片焦黑畫面曝",
-   "source": "ETtoday新聞雲・社會",
+   "source": "ETtoday新聞雲",
    "published_at": "2026-11-25T14:16:00+08:00",
    "event_key": "art:d532060903c04fa176528f67f2a650c260848ddc8eda2b472d10caa4f2f2438b",
    "primary": true,
-   "summary": "台南市中西區今(25日)驚傳氣爆!一間鄰近國華街商圈與新天地商圈、位於西門路的麻辣燙店,今中午疑似民眾使用桶裝瓦斯操作不慎引燃,廚房雜物瞬間起火燃燒,濃煙狂竄。警消於12時13分受理報案,共出動15車38人,現場為6樓建物,1樓起火燃燒,火勢於12時29分撲滅,現場一片焦黑,燃燒面積約10平方公尺,所幸無人傷亡。詳細起",
    "cities": [
     "台南市"
    ],
@@ -33,7 +46,7 @@
    "title": "盼改善板橋通學路與老舊人行道 陳俊諺也推商圈活化政見",
    "source": "自由時報",
    "published_at": "2026-11-25T14:13:00+08:00",
-   "event_key": "art:33bc9d9f0f8d8bc4b5545c6eec553c05b781e62d24d30420c8246d95ec982869",
+   "event_key": "archive:3dc8b8b4f3df2523",
    "primary": true
   },
   {
@@ -41,11 +54,8 @@
    "title": "臺北推動無菸城市 規劃AI巡查與負壓吸菸設施 3大商圈支持度逾95% | 熱門亮點 | 商情",
    "source": "經濟日報",
    "published_at": "2026-11-25T10:42:00+08:00",
-   "event_key": "art:6e5f89a8ffbd2836929002a6420da5fd3fb398922347311c961a7c2ebb9f9265",
-   "primary": true,
-   "cities": [
-    "台北市"
-   ]
+   "event_key": "archive:8e2959e4b7e89ec1",
+   "primary": true
   },
   {
    "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-11-25/2536803.html",
@@ -81,6 +91,22 @@
    "cities": [
     "桃園市"
    ]
+  },
+  {
+   "url": "https://www.juksy.com/article/155723",
+   "title": "DIESEL 正式進駐台北中山商圈!全台獨家 D-ONE 秀款包、話題金屬鍊飾耳機一次看!",
+   "source": "JUKSY 街星",
+   "published_at": "2026-11-25T05:50:00+08:00",
+   "event_key": "art:dfa91d000c0f39fbb6bc1fae37d273b04a1d8f4ad4278049dc00541a5cfa7210",
+   "primary": true,
+   "summary": "台北中山商圈又迎來重量級時尚品牌!近年在創意總監 Glenn Martens 帶領下,憑藉前衛剪裁、破壞丹寧與 Y2K 美學重新成為年輕世代關注焦點的義大利時尚品牌 DIESEL,正式進駐新光三越台北南西店三館。全新店櫃以招牌紅色搭配銀灰金屬打造工業風空間,除了帶來秋冬男女裝、經典丹寧與各式配件,更祭出全台獨家販售的 ",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    "中山商圈"
+   ],
+   "date_only": true
   },
   {
    "url": "https://money.udn.com/money/story/5720/9901217",
@@ -126,24 +152,40 @@
    "title": "台南國華街商圈驚傳氣爆! 麻辣燙店「瓦斯操作不慎」竄火延燒",
    "source": "太報 TaiSounds",
    "published_at": "2026-11-25T00:36:00+08:00",
-   "event_key": "art:980ac19f9f6e11d01351c379efa952730e02beca99650f1f8bd3697cd30bd3f2",
-   "primary": true,
-   "summary": "台南國華街商圈驚傳氣爆火警。讀者提供 古城驚傳氣爆!台南市中西區知名的國華商圈,附近都是美食店家,人潮絡繹不絕。消防表示,中西區西門路一段703巷一處麻辣燙店,中午時間疑似使用桶裝瓦斯操作不慎引燃,燃燒廚房部分面積,幸好無人受傷,火勢也立刻在20分鐘內撲滅。 根據了解,這一間麻辣燙店家,鄰近國華街商圈與新天地商圈、位於",
+   "event_key": "art:376047cf7f0d5d0ba2593a43bb14037a2785fbbe3b8895112b9802fb34e6963d",
+   "primary": false,
    "cities": [
     "台南市"
    ],
    "districts": [
     "國華友愛新商圈"
-   ],
-   "date_only": true
+   ]
+  },
+  {
+   "url": "https://www.ctee.com.tw/news/20261125701892-430502",
+   "title": "工研院攜手資策會、喬思齊科技 讓AI智慧高球進駐商圈",
+   "source": "工商時報",
+   "published_at": "2026-11-25T00:00:00+08:00",
+   "event_key": "art:9be9762ffb64deca6c2587d30a4124e3bf999461e345c9472c2237eef9601a5c",
+   "primary": false
   },
   {
    "url": "https://udn.com/news/story/7323/9899777",
    "title": "支持度逾95%...蔣萬安推無菸城市 禁菸商圈力挺",
-   "source": "聯合新聞網・地方",
+   "source": "udn",
    "published_at": "2026-11-25T00:00:00+08:00",
    "event_key": "art:4297499c2e63f2ec43d0cd5f9961a8c9fff5b65f010d93c5ee9a2ad476175511",
    "primary": true
+  },
+  {
+   "url": "https://www.ctee.com.tw/news/20261125701473-430602",
+   "title": "一年租金2億!H&M告別西門町 揭開快時尚與黃金商圈的生意經",
+   "source": "工商時報",
+   "published_at": "2026-11-25T00:00:00+08:00",
+   "event_key": "art:0c9662d936a28af12e2c18cbed27286ab769f15131994bf95bd99dc9ff214e0a",
+   "primary": true,
+   "summary": "西門町屹立10年的H&M旗艦店正式熄燈,原址傳出月租金喊價高達1,700萬元,換算一年光是租金就要付出2.04億元,究竟什麼樣的品牌才租得起?又要創造多少營收才能賺錢?國際快時尚巨頭撤出黃金店面,背後究竟是租金壓力、消費型態改變,還是全球營運策略轉向?更耐人尋味的是,同樣位處西門町,有些店面租金水漲 ...",
+   "date_only": true
   },
   {
    "url": "https://www.cdns.com.tw/articles/1495917",
@@ -162,19 +204,19 @@
    "primary": true
   },
   {
-   "url": "https://www.nownews.com/news/6895189",
-   "title": "蔣萬安力推「無菸城市」驚人成效出爐!3大商圈滿意度皆飆破9成",
-   "source": "NOWnews今日新聞",
-   "published_at": "2026-11-24T18:05:00+08:00",
-   "event_key": "art:21832b28f4562682895f8d3a9b401b2a5deb6b9c624e5d83d91bcca7a44f2aa7",
-   "primary": true
-  },
-  {
    "url": "https://www.nownews.com/amp/news/6895189",
    "title": "蔣萬安力推「無菸城市」驚人成效出爐!3大商圈滿意度皆飆破9成",
    "source": "NOWnews今日新聞",
    "published_at": "2026-11-24T18:05:00+08:00",
-   "event_key": "art:21832b28f4562682895f8d3a9b401b2a5deb6b9c624e5d83d91bcca7a44f2aa7",
+   "event_key": "art:711f361afa1ab61668b06ffe23a08e694563461438fac3eaf75ad941db38b13c",
+   "primary": true
+  },
+  {
+   "url": "https://www.nownews.com/news/6895189",
+   "title": "蔣萬安力推「無菸城市」驚人成效出爐!3大商圈滿意度皆飆破9成",
+   "source": "NOWnews今日新聞",
+   "published_at": "2026-11-24T18:05:00+08:00",
+   "event_key": "art:711f361afa1ab61668b06ffe23a08e694563461438fac3eaf75ad941db38b13c",
    "primary": false
   },
   {
@@ -230,28 +272,41 @@
    "title": "一中商圈出現「碰瓷幫」 學生遇男子索賠上千元-民視新聞- 民視新聞網",
    "source": "民視新聞網",
    "published_at": "2026-11-24T14:14:00+08:00",
-   "event_key": "art:9f16e7e9e7e5ad4fa630bb79044f1e54fa9bb788108bbd444a8f605aa2ba5b91",
-   "primary": true,
+   "event_key": "art:34d5340dadae8b3fb776fffdeb3c32313148f43d3fc93966d8bd0465698be321",
+   "primary": false,
+   "summary": "中部中心/黃毓倫、林韋志 台中報導 一中商圈出現碰瓷幫!最近頻傳,有學生遇到陌生人假借碰撞要求賠償!就有好幾位臺中一中學生在校外商圈,遇到一名戴口罩的男子,故意靠近碰撞,之後再假借東西被撞壞,受害的不只一人,索賠金額從數百元到上千元,校方證實確有此事,已經加強宣導。而警方獲報後,已經掌握特定對象追查!來看民視獨家報導。",
    "cities": [
     "台中市"
    ],
    "districts": [
     "一中街商圈"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://ctinews.com/news/items/BexXQ7Vrnb",
    "title": "台北無菸城市漸成形 3大禁菸商圈支持、滿意度均破9成",
    "source": "中天新聞網",
    "published_at": "2026-11-24T13:56:00+08:00",
-   "event_key": "archive:bbb826751887fc4b",
+   "event_key": "art:cd00c49df0ed7aa29a4eeb97509e4fe5d66485d7d18f721057a0e9ffbbbb357d",
    "primary": true,
    "summary": "為了守護市民健康,台北市長蔣萬安於2026年1月宣布逐步打造「台北無菸城市」,推動吸菸者與非吸菸者空間分流,降低戶外二手菸暴露。台北市政府衛生局表示,目前全市已設置267處指定吸菸區,其中15處負壓式吸菸區累計使用近88萬人次。推動無菸城市政策3大禁菸商圈的支持度超過9成5,滿意度超過9成。",
+   "cities": [
+    "台北市"
+   ],
    "date_only": true
   },
   {
+   "url": "https://news.591.com.tw/news/13124",
+   "title": "北市破萬元店租快絕跡!觀光商圈仍有支撐",
+   "source": "591新聞",
+   "published_at": "2026-11-24T13:44:00+08:00",
+   "event_key": "art:078d4cfadb04a4411a85d47815219d04a01f28a4c21cca790d622a6541b89be8",
+   "primary": true
+  },
+  {
    "url": "https://udn.com/news/story/6656/9898536",
-   "title": "蔣萬安推「無菸城市」禁菸商圈支持度破9成 民眾反映曝光",
+   "title": "蔣萬安「無菸城市」禁菸商圈支持度破9成民眾反映曝光| 政治 | 要聞",
    "source": "UDN",
    "published_at": "2026-11-24T13:28:00+08:00",
    "event_key": "art:a597a20dd04f42c277b51dcc5f148b776d91b2f9727b256d682c867ecdafdb92",
@@ -286,14 +341,6 @@
   },
   {
    "url": "https://news.591.com.tw/news/13124/amp",
-   "title": "北市破萬元店租快絕跡!觀光商圈仍有支撐",
-   "source": "591新聞",
-   "published_at": "2026-11-24T10:55:00+08:00",
-   "event_key": "art:078d4cfadb04a4411a85d47815219d04a01f28a4c21cca790d622a6541b89be8",
-   "primary": true
-  },
-  {
-   "url": "https://news.591.com.tw/news/13124",
    "title": "北市破萬元店租快絕跡!觀光商圈仍有支撐",
    "source": "591新聞",
    "published_at": "2026-11-24T10:55:00+08:00",
@@ -351,28 +398,32 @@
    "title": "獨!一中商圈出現「碰瓷幫」學生遇男子索賠上千元",
    "source": "民視新聞網",
    "published_at": "2026-11-24T06:28:52+08:00",
-   "event_key": "art:9f16e7e9e7e5ad4fa630bb79044f1e54fa9bb788108bbd444a8f605aa2ba5b91",
-   "primary": false,
+   "event_key": "art:34d5340dadae8b3fb776fffdeb3c32313148f43d3fc93966d8bd0465698be321",
+   "primary": true,
+   "summary": "中部中心/黃毓倫、林韋志 台中報導 一中商圈出現碰瓷幫!最近頻傳,有學生遇到陌生人假借碰撞要求賠償!就有好幾位臺中一中學生在校外商圈,遇到一名戴口罩的男子,故意靠近碰撞,之後再假借東西被撞壞,受害的不只一人,索賠金額從數百元到上千元,校方證實確有此事,已經加強宣導。而警方獲報後,已經掌握特定對象追查!來看民視獨家報導。",
    "cities": [
     "台中市"
    ],
    "districts": [
     "一中街商圈"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://www.msn.com/zh-tw/news/other/%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E5%87%BA%E7%8F%BE-%E7%A2%B0%E7%93%B7%E5%B9%AB-%E5%AD%B8%E7%94%9F%E9%81%87%E7%94%B7%E5%AD%90%E7%B4%A2%E8%B3%A0%E4%B8%8A%E5%8D%83%E5%85%83-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2i621R",
    "title": "一中商圈出現「碰瓷幫」學生遇男子索賠上千元-民視新聞",
    "source": "FTV 民視新聞",
    "published_at": "2026-11-24T06:16:53+08:00",
-   "event_key": "art:9f16e7e9e7e5ad4fa630bb79044f1e54fa9bb788108bbd444a8f605aa2ba5b91",
+   "event_key": "art:34d5340dadae8b3fb776fffdeb3c32313148f43d3fc93966d8bd0465698be321",
    "primary": false,
+   "summary": "中部中心/黃毓倫、林韋志 台中報導 一中商圈出現碰瓷幫!最近頻傳,有學生遇到陌生人假借碰撞要求賠償!就有好幾位臺中一中學生在校外商圈,遇到一名戴口罩的男子,故意靠近碰撞,之後再假借東西被撞壞,受害的不只一人,索賠金額從數百元到上千元,校方證實確有此事,已經加強宣導。而警方獲報後,已經掌握特定對象追查!來看民視獨家報導。",
    "cities": [
     "台中市"
    ],
    "districts": [
     "一中街商圈"
-   ]
+   ],
+   "date_only": true
   },
   {
    "url": "https://www.chinatimes.com/newspapers/20261124000287-260210",
@@ -468,7 +519,7 @@
    "title": "蔣萬安「無菸城市」禁菸商圈支持度破9成 民眾反映曝光",
    "source": "經濟日報",
    "published_at": "2026-11-23T23:29:00+08:00",
-   "event_key": "art:44ea9bcbc153fc8a81cd55441dad2ff8a60ae3b7c45b1edf7730c240b5747848",
+   "event_key": "archive:6677fb81bf7b7722",
    "primary": true,
    "summary": "台北市長蔣萬安今年初喊出打造「無菸城市」,推動吸菸者與非吸菸者空間分流,降低戶外二手菸暴露。目前全市已設267處指定吸菸區,其中15處負壓式吸菸區累計使用近88萬人次;3大禁菸商圈的支持度超過9成5,滿意度超過9成。",
    "date_only": true
@@ -560,8 +611,10 @@
    "title": "北市一線商圈店面黃金年代已過 單坪破萬店租只剩零星火花",
    "source": "自由財經",
    "published_at": "2026-11-23T15:57:00+08:00",
-   "event_key": "archive:f6e3dcac7b9cf8ef",
-   "primary": true
+   "event_key": "art:39cd4d7781a9ba5b34bb6bdcd109a6c2e0405ff4fd6ed139781037da01a78de7",
+   "primary": true,
+   "summary": "〔記者徐義平/台北報導〕台北市單坪店租破1萬元越來越稀有。根據內政部實價網揭露資訊,今年前10月,台北市店租揭露實價、單坪突破1萬元的記錄只有4筆,分別出現在永康街商圈、東區以及西門町,對比去年全年有9筆破萬元店租實價,有著明顯落差。",
+   "date_only": true
   },
   {
    "url": "https://www.tynews.com.tw/index/News/Show/id/198604",
@@ -630,14 +683,6 @@
    "primary": false
   },
   {
-   "url": "https://www.myhousing.com.tw/l/l04/308138/",
-   "title": "「2026全國卓越商圈獎」20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
-   "source": "住展雜誌",
-   "published_at": "2026-11-23T08:55:00+08:00",
-   "event_key": "archive:ba506f052b097413",
-   "primary": true
-  },
-  {
    "url": "https://n.yam.com/Article/20261122122163",
    "title": "萬顆燈籠點亮斗六太平老街!燈海節首日湧人潮 芒果醬熱力開唱掀高潮",
    "source": "蕃新聞",
@@ -700,19 +745,6 @@
    "primary": true
   },
   {
-   "url": "https://www.fclnews.com/239249/",
-   "title": "2026市長盃街舞錦標賽熱力登場 花蓮舞蹈好手齊聚鐵道商圈展現青春活力",
-   "source": "台灣新聞雲報",
-   "published_at": "2026-11-22T18:42:00+08:00",
-   "event_key": "art:a64e7def6828412a9bcf143ad7db97bdbfd735c0f91e025a087d05bfe7101143",
-   "primary": false,
-   "summary": "動感音樂響徹花蓮鐵道行人徒步區,舞者隨著節奏輪番上陣,以充滿力量與創意的舞步展現街舞魅力。「2026市長盃街舞錦標賽暨花蓮」昨(21)日下午熱鬧登場,吸引熱愛街舞的青年及舞蹈好手齊聚花蓮,透過精彩對決交流舞藝,為市區注入青春活力。 活動由花蓮市公所指導、花蓮市青年公共事務促進會主辦。花蓮市公所社會及勞工課課長蕭子蔚、花",
-   "cities": [
-    "花蓮縣"
-   ],
-   "date_only": true
-  },
-  {
    "url": "https://today.line.me/tw/v3/article/nXpnNRy",
    "title": "平溪十分瀑布17人遭虎頭蜂螫! 蜂窩藏商店街已摘除 | 華視新聞",
    "source": "LINE TODAY",
@@ -763,13 +795,32 @@
    "date_only": true
   },
   {
+   "url": "https://www.fclnews.com/239249/",
+   "title": "2026市長盃街舞錦標賽熱力登場 花蓮舞蹈好手齊聚鐵道商圈展現青春活力",
+   "source": "fclnews",
+   "published_at": "2026-11-22T10:24:00+08:00",
+   "event_key": "art:a64e7def6828412a9bcf143ad7db97bdbfd735c0f91e025a087d05bfe7101143",
+   "primary": false,
+   "summary": "動感音樂響徹花蓮鐵道行人徒步區,舞者隨著節奏輪番上陣,以充滿力量與創意的舞步展現街舞魅力。「2026市長盃街舞錦標賽暨花蓮」昨(21)日下午熱鬧登場,吸引熱愛街舞的青年及舞蹈好手齊聚花蓮,透過精彩對決交流舞藝,為市區注入青春活力。 活動由花蓮市公所指導、花蓮市青年公共事務促進會主辦。花蓮市公所社會及勞工課課長蕭子蔚、花",
+   "cities": [
+    "花蓮縣"
+   ],
+   "date_only": true
+  },
+  {
    "url": "https://ccss3172.blogspot.com/2026/11/x-3.html",
    "title": "江啟臣夜掃逢甲商圈 「最強靠3」與市民共拚臺中未來",
    "source": "新華報導",
    "published_at": "2026-11-22T07:47:00+08:00",
-   "event_key": "archive:95e54b9f17826670",
+   "event_key": "art:21c9a4e9fb354fd5c74849a76c2b8a7d7ce5dd17275987046e5b7c4ae06fde81",
    "primary": true,
    "summary": "台中市北屯區市議員選舉進入最後衝刺,13名候選人競逐7席,從傳統市場、主要路口到地方餐會,幾乎都成了候選人爭取曝光的競技場。相較上屆6席,本屆北屯因人口成長增加1席,卻未讓選戰降溫,反而吸引更多不同政黨與無黨籍人選投入,形成藍、綠、白及無黨籍候選人同場競逐的複合戰局。",
+   "cities": [
+    "台中市"
+   ],
+   "districts": [
+    "逢甲商圈"
+   ],
    "date_only": true
   },
   {
@@ -875,6 +926,16 @@
    "published_at": "2026-11-21T18:33:00+08:00",
    "event_key": "archive:b8684f8506f4313d",
    "primary": true
+  },
+  {
+   "url": "https://www.myhousing.com.tw/l/l04/308138/",
+   "title": "「2026全國卓越商圈獎」20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力",
+   "source": "住展房屋網",
+   "published_at": "2026-11-21T15:04:00+08:00",
+   "event_key": "art:e6e9d1e3586bd78a39107342a795ac8c4dc4d1af7fc8966880d8a5d1267c1607",
+   "primary": false,
+   "summary": "-台灣新聞雲報提供台灣最中立最公正最即時的各類型新聞報導,包括政治新聞、焦點新聞、社會新聞、國際新聞、地方新聞、娛樂新聞、科技新聞、專訪新聞、政黨新聞、藝文活動、美食推廣、體育賽事等相關新聞報導。歡迎各界好友踴躍贊助推廣。",
+   "date_only": true
   },
   {
    "url": "https://www.storm.mg/article/11182682",
