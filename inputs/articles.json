@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-26T07:17:47+08:00",
+ "fetched_at": "2026-11-26T11:39:52+08:00",
  "articles": {
   "https://www.aoc.gov.tw/showPublic/811": {
    "checked_at": "2026-11-23T15:55+08:00",
@@ -189,90 +189,6 @@
    "checked_at": "2026-11-26T07:17+08:00",
    "status": 403,
    "error": "HTTP Error 403: Forbidden"
-  },
-  "https://www.msn.cn/zh-cn/entertainment/%E9%80%9A%E7%94%A8/%E6%88%8F%E9%9F%B5%E4%BC%B4%E5%B0%8F%E9%9B%AA%E8%80%8C%E8%87%B3-%E8%80%81%E8%A1%97%E8%8C%B6%E9%A6%86%E6%BC%94%E7%BB%8E%E9%95%BF%E6%B2%99%E6%B8%A9%E6%9F%94%E6%96%87%E8%89%BA%E6%97%B6%E5%85%89/ar-AA2hZWaB": {
-   "checked_at": "2026-11-23T09:51+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": null,
-   "description": null,
-   "cities": {},
-   "districts": [],
-   "body_chars": 1,
-   "image": null,
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
-  },
-  "https://n.yam.com/Article/20261122122163": {
-   "checked_at": "2026-11-23T09:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-22T00:00+08:00",
-   "site_name": "蕃新聞",
-   "description": "【台灣新聞網記者李婉愉／雲林報導】雲林歲末節慶活動再掀熱潮！配合雲林縣政府「2026-2027雲林",
-   "cities": {
-    "雲林縣": 4
-   },
-   "districts": [
-    "太平老街商圈（嘉義縣）"
-   ],
-   "body_chars": 202,
-   "image": "https://ni.yam.com/20261122/1795391042133257772-ed2e20f184495fc7.webp",
-   "image_checked": true,
-   "date_hint": "2026-11-22",
-   "date_hint_from": "原文時間"
-  },
-  "https://today.line.me/tw/v3/article/2D9oPRj?referral=TOPIC-flowering": {
-   "checked_at": "2026-11-23T09:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-23T05:00+08:00",
-   "site_name": "LINE TODAY",
-   "description": "2026苗栗獅潭鄉仙草花節｜時間與地點 2026苗栗獅潭鄉仙草花節｜6大地景藝術與紫色花毯 2026苗栗獅潭鄉仙草花節｜週末限定舞台展演與仙...",
-   "cities": {
-    "苗栗縣": 23,
-    "新竹": 1
-   },
-   "districts": [],
-   "body_chars": 2010,
-   "image": "https://today-obs.line-scdn.net/0hZKLjjKk-BWRxExgBs6N6M0lFCRVCdR9tU3BPC1QWCVFZP0VmS3FWBwZEX0gMJkY0UXBIBQcWWl1eK0oyTg/w1200",
-   "image_checked": true,
-   "date_hint": "2026-11-23",
-   "date_hint_from": "原文時間"
-  },
-  "https://leho.com.tw/archives/433874": {
-   "checked_at": "2026-11-23T09:51+08:00",
-   "status": 200,
-   "published_at": "2026-11-21T16:00+08:00",
-   "site_name": "樂聯網",
-   "description": "【台灣新聞網記者李婉愉／雲林報導】雲林歲末節慶活動再掀熱潮！配合雲林縣政府「2026-2027雲林Holy  […]",
-   "cities": {
-    "雲林縣": 14
-   },
-   "districts": [
-    "太平老街商圈（嘉義縣）",
-    "花蓮市 百年老街商圈（花蓮縣）"
-   ],
-   "body_chars": 1701,
-   "image": "https://www.5ch.com.tw/data/news/cover/202611/1795391042133257772.jpg",
-   "image_checked": true,
-   "date_hint": "2026-11-21",
-   "date_hint_from": "原文時間"
-  },
-  "https://www.ttv.com.tw/videocity/video_play.asp?id=956548&sid=5": {
-   "checked_at": "2026-11-23T09:51+08:00",
-   "status": 200,
-   "published_at": null,
-   "site_name": "TTV",
-   "description": "台視影音：提供台視最新的綜藝、專題、節目預告及新聞影音，並有數個完整影音節目，供網友選擇收看。",
-   "cities": {},
-   "districts": [
-    "晴光商圈（台北市）"
-   ],
-   "body_chars": 48,
-   "image": "https://www.ttv.com.tw/group/15/images/TOUCHTTV.png",
-   "image_checked": true,
-   "date_hint": null,
-   "date_hint_from": null
   },
   "https://gnn.gamer.com.tw/detail.php?sn=315395": {
    "checked_at": "2026-11-23T12:17+08:00",
@@ -10538,6 +10454,439 @@
    "image_checked": true,
    "date_hint": "2026-11-26",
    "date_hint_from": "原文時間"
+  },
+  "https://www.msn.com/zh-tw/news/other/%E5%85%85%E9%9B%BB%E6%A8%81%E9%9C%B8%E4%B8%BB%E6%8F%92%E6%97%97%E7%99%BE%E8%B2%A8-%E5%A4%A7%E7%9B%B4-%E8%8F%AF%E5%9F%8E%E5%8C%AF-%E6%98%8E%E5%B9%B410%E6%9C%88%E9%96%8B%E5%B9%95-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2ich6I": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://www.worldjournal.com/wj/story/121472/9902725": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T09:28+08:00",
+   "site_name": "世界新聞網",
+   "description": "舊金山市中心商圈復甦再傳好消息。科技巨頭Google計畫於2027年在聯合廣場（Union Square）開設其在舊金山的首家實體零售門店，選址位於士德頓街（Stockton Street）222號，與蘋果公司旗艦店相距不遠。隨著越來越多科技企業及國際零售品牌進駐，經歷疫情後商家撤離潮的聯合廣場，正逐步迎來新的商業活力",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1588,
+   "image": "https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/26/35554738.jpg&M=1&s=Y&x=0&y=0&sw=1206&sh=804&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://house.chinatimes.com/20261126002255-264401": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T10:58+08:00",
+   "site_name": "中時新聞網",
+   "description": "捷運站能夠帶來人流，人流等於商機，因此附近租金自然水漲船高。近日北捷店面租金最新排行榜出爐，出來就是西門町的西門站並未如預期奪冠，而是由東門站坐上第一名寶座，對此專家也分析並揭露2大主因。",
+   "cities": {},
+   "districts": [
+    "永康商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 594,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-25/1024/20261125000170.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.thehubnews.net/archives/687912": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-23T17:55+08:00",
+   "site_name": "新頭條-TheHubNews",
+   "description": "記者張辰卿/台北報導 為促進全臺商圈跨區域交流合作，展現臺灣在地產業特色與商圈創新發展成果，「2026商圈狂歡節－萬市慶豐年」在臺北市新北投溫泉商圈七星街及周邊區域熱鬧登場。此次活動以「秋收年豐、商圈共榮」為核心精神，規劃串聯全臺各地特色商...",
+   "cities": {
+    "台北市": 4,
+    "新北市": 3
+   },
+   "districts": [
+    "新北投溫泉商圈（台北市）"
+   ],
+   "body_chars": 1720,
+   "image": "https://www.thehubnews.net/wp-content/uploads/2026/11/njGqduxgw0tsJruhTtea.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-23",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261122122163": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-22T00:00+08:00",
+   "site_name": "蕃新聞",
+   "description": "【台灣新聞網記者李婉愉／雲林報導】雲林歲末節慶活動再掀熱潮！配合雲林縣政府「2026-2027雲林",
+   "cities": {
+    "雲林縣": 8
+   },
+   "districts": [
+    "太平老街商圈（嘉義縣）"
+   ],
+   "body_chars": 238,
+   "image": "https://ni.yam.com/20261122/1795391042133257772-ed2e20f184495fc7.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-22",
+   "date_hint_from": "原文時間"
+  },
+  "https://artouch.com/artco-kids/content-272402.html": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T07:20+08:00",
+   "site_name": "典藏ARTouch.com",
+   "description": "最初選這兩本，不難發現它們都以貓為主角；而在寫文章時，我猛然意識到，它們也都刻畫了家人間的細膩情感。",
+   "cities": {
+    "桃園市": 1
+   },
+   "districts": [],
+   "body_chars": 3475,
+   "image": "https://artouch.com/wp-content/uploads/2026/11/272402-1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://udn.com/news/amp/story/7270/9899067": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-24T16:35+08:00",
+   "site_name": "聯合新聞網",
+   "description": "日本人氣流行文化品牌graniph宣布，繼在南港LaLaport開出海外首家直營店後，台灣二號店將於12月23日正式插旗台北信義區ATT 4 FUN。為慶祝二號店開幕，除了推出結合台灣小籠包、珍珠奶茶元素的限定商品外，更將搶先日本先行發售西村優志（NishimuraYuji）聯名系列。",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 765,
+   "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35549109.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=672&sl=W&fw=800&exp=3600",
+   "image_checked": true,
+   "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E7%84%A1%E8%8F%B8%E5%9F%8E%E5%B8%82%E6%88%90%E6%95%88%E6%9B%9D-3%E5%A4%A7%E5%95%86%E5%9C%88%E6%BB%BF%E6%84%8F%E5%BA%A6%E9%A3%869%E6%88%90-100510912.html": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-24T21:55+08:00",
+   "site_name": "Yahoo News",
+   "description": "[NOWNEWS今日新聞]為降低市民遭受戶外二手菸危害，台北市長蔣萬安今年1月宣布推動「台北無菸城市」政策，透過吸菸者與非吸菸者空間分流，逐步擴大公共場所禁菸範圍。台北市政府目前已設置267處指定吸菸...",
+   "cities": {
+    "台北市": 31,
+    "彰化縣": 1
+   },
+   "districts": [
+    "迪化街商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/nownews.com/3f9012f642d567d00239baf81cf9d8e6.jpg_up.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261125208672": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-25T21:50+08:00",
+   "site_name": "蕃新聞",
+   "description": "▲工研院今日舉辦「智慧高球成果發表會暨運動科技交流」，攜手資策會及喬思齊科技打造「JustGolf智",
+   "cities": {},
+   "districts": [],
+   "body_chars": 1516,
+   "image": "https://ni.yam.com/20261125/20261125_65_--1b996105c22147f7.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-25",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/world/4056339": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T11:30+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "不拚量產拚極致 63家在地品牌搶進世界500強",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 1488,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a215e6-ce3a-7231-9c8f-0c3af225d6ae.jpg?t=16x9&wp=l,t&c=0,262,5120,3142&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://tw.news.yahoo.com/3%E5%A4%A7%E7%A6%81%E8%8F%B8%E5%95%86%E5%9C%88-%E6%94%AF%E6%8C%81%E8%88%87%E6%BB%BF%E6%84%8F%E5%BA%A6%E7%A0%B49%E6%88%90-125151033.html": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-24T20:51+08:00",
+   "site_name": "Yahoo News",
+   "description": "記者孫曜樟∕台北報導 台北市政府二十四日公布無菸城市政策推動成果。根據統計台北市目前…",
+   "cities": {
+    "台北市": 32,
+    "彰化縣": 2
+   },
+   "districts": [
+    "迪化街商圈（台北市）",
+    "西門町商圈（台北市）"
+   ],
+   "body_chars": 4000,
+   "image": "https://media.zenfs.com/ko/cdns.com.tw/0966128a3eb8568b1627230136722aba.jpg_up.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pts.org.tw/article/837439": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T08:10+08:00",
+   "site_name": "公視新聞 PNN",
+   "description": "民進黨台北市長候選人沈伯洋，原定週五（27日）晚間在國父紀念館旁，仁愛路四段舉辦「市民之夜」，不過沈伯洋昨（25）日深夜宣布，取消市民之夜，並表示他一直強調希望交通順暢，所以要把舞台拆掉，不辦選前之夜。國民黨蔣萬安陣營競選辦公室回應，如果沈伯洋願意，願將已申請的27日市府路路權讓給沈陣營。",
+   "cities": {
+    "台北市": 5
+   },
+   "districts": [],
+   "body_chars": 859,
+   "image": "https://news-data.pts.org.tw/media/302859/conversions/rOiMpB5NBQvjDfOdeIGJQSoNSXwZu8c3GdZYPJVP-og_jpg.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/Taipei/breakingnews/5653949": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T11:24+08:00",
+   "site_name": "自由時報電子報",
+   "description": "訂閱【自由追新聞】",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 314,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/phpiMzqu3.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/posts/list/article/zNmXg9j": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": "LINE TODAY",
+   "description": "0則貼文 | 快來參與LINE TODAY討論牆上的討論 | 旗山秀明豬心冬粉、吉美麵包、鮮緹香蕉蛋捲、月亮香蕉、旗山常美冰店、【 興旺檸檬...",
+   "cities": {},
+   "districts": [],
+   "body_chars": 136,
+   "image": "https://today-obs.line-scdn.net/0hy5hkPNphJhpVEjt736BZTW1EKmtmdDwTdyM-eSRFe39_PjVPbiN1eSQVfDYrIWBJdSFveHQXf3p4dTIYPA/w1200",
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://news.ltn.com.tw/news/Taipei/breakingnews/5653653": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T08:11+08:00",
+   "site_name": "自由時報電子報",
+   "description": "民進黨台北市長候選人沈伯洋原訂週五在台北市議會前仁愛路舉辦選前市民之夜，卻因場地及交通管制問題，昨（25）日深夜宣布取消實體活動。陸委會副主委梁文傑今日發文直指，「選舉不是只看輸贏，還可以看出格局和氣度」。沈伯洋拍片指出，這次舉辦選前之夜，凱道、市府路都被借走，市民廣場市府不給借，北平東路也被借走，所以最後選定仁愛路，",
+   "cities": {
+    "台北市": 8
+   },
+   "districts": [],
+   "body_chars": 803,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/phpkAfnTb.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://today.line.me/tw/v3/article/8nMQ9jz": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-19T11:25+08:00",
+   "site_name": "LINE TODAY",
+   "description": "【勁報記者杜忠聰/臺南報導】油炸專用油缺貨及價格飆漲問題持續延燒，臺南餐飲業者營運壓力日益沉重。臺南市議員李宗霖19日指出，全臺重要油脂生產...",
+   "cities": {
+    "台南市": 20
+   },
+   "districts": [],
+   "body_chars": 1161,
+   "image": "https://today-obs.line-scdn.net/0hGCxO6N1hGGxFNgT1Jc5nO31gFB12UAJlZ1kHDmhlR1U9Gl06cANLDzBmTkBgBgg-ZQMEAmM2FgloUlc7cA/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-19",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/Taipei/breakingnews/5653589": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T06:53+08:00",
+   "site_name": "自由時報電子報",
+   "description": "首次上稿 11-26 01:20更新時間 11-26 06:53民進黨台北市長候選人沈伯洋預計週五在台北市議會前仁愛路舉辦「選前市民之夜」，25日開始搭舞台交通管制，引發用路人批評。沈伯洋深夜發布市民之夜停辦。他說，凱道、市府路都被借走，市民廣場市府不給借，北平東路也被借走，最後選定仁愛路，但市民廣場上不能用，要往光復",
+   "cities": {
+    "台北市": 5
+   },
+   "districts": [],
+   "body_chars": 794,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/5653589_7_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/Taipei/breakingnews/5653569": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T08:01+08:00",
+   "site_name": "自由時報電子報",
+   "description": "首次上稿 11-26 00:17更新時間 11-26 08:01（原貼文已無法讀取）民進黨台北市長候選人沈伯洋原訂本週五（27日）在台北市議會前仁愛路舉辦選前「市民之夜」大造勢，昨天（25日）晚間10點多突然無奈宣布取消，震撼各界。知名主持人蔡康永深夜在Threads發文「把桌上的菜都收走以為不吃屎的人會去吃屎」，讓大",
+   "cities": {
+    "台北市": 5
+   },
+   "districts": [],
+   "body_chars": 1329,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/25/phpEUromJ.png",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.contentplatform.info/articles/588905/%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%9C%B0%E6%96%B9%E5%89%B5%E7%94%9F%E8%BC%94%E5%B0%8E%E5%9C%98%E8%A8%AA%E6%96%B0%E5%9F%8E%E8%80%81%E8%A1%97%E5%B1%B1%E4%B8%8B%E6%9D%91%E3%80%80%E6%8E%A8%E5%BB%A3%E5%A4%AA/": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-24T15:49+08:00",
+   "site_name": "報新聞 Mega News",
+   "description": "花蓮縣政府持續推動地方創生，透過「花蓮縣地方創生輔導團」深入各鄉鎮市，瞭解地方產業發展現況及實際需求，協助地方團隊盤點資源、研議發展方向，並串聯中央相關計畫資源。日前訪視新城鄉老街風味餐空間「山下村」，交流特色產品開發與文化體驗深化等議題，協助在地產業發展及永續經營。",
+   "cities": {
+    "花蓮縣": 11
+   },
+   "districts": [
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 888,
+   "image": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/11/24132202/hualien-cover-261124052157689.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-24",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/Taipei/breakingnews/5653539": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T06:35+08:00",
+   "site_name": "自由時報電子報",
+   "description": "首次上稿 11-25 23:10更新時間 11-26 06:35民進黨台北市長候選人沈伯洋預計週五晚間在市議會前仁愛路辦選前「市民之夜」，昨（25）日開始搭舞台，道路交通也配合管制，卻引發用路人批評。沈伯洋深夜親自宣布決定停辦實體活動。前總統蔡英文隨後也連夜安慰支持者「大家不要難過」，並透露26日晚間要上沈伯洋直播。",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [],
+   "body_chars": 641,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/25/5653539_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://n.yam.com/Article/20261126241234": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T10:17+08:00",
+   "site_name": "蕃新聞",
+   "description": "施工提醒-改道示意圖。(圖／台北市政府提供)為優化河濱公園自行車道及汽機車道，北市水利處將於11/3",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 553,
+   "image": "https://ni.yam.com/20261126/sd-2-1e0cc81544f99daa.webp",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/Taipei/paper/1779956": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T05:30+08:00",
+   "site_name": "自由時報電子報",
+   "description": "沈︰凱道、市府路、北平東路都被借走 市府廣場北市府不給借台北市長蔣萬安週六（廿八日）將於台北市政府前廣場舉行開票活動，並提前借走週五（廿七日）至週日（廿九日）市府路路權，導致民進黨籍台北市長候選人沈伯洋借不到，退而求其次選擇僅數步之遙的國父紀念館側仁愛路，昨早上（廿五日）九點半起連續四天交管、公車改道行駛，然而核定路權",
+   "cities": {
+    "台北市": 11
+   },
+   "districts": [],
+   "body_chars": 1371,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/110.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/Taipei/breakingnews/5653557": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T06:06+08:00",
+   "site_name": "自由時報電子報",
+   "description": "首次上稿 11-25 23:38更新時間 11-26 06:06民進黨台北市長候選人沈伯洋原訂週五在台北市議會前仁愛路舉辦選前市民之夜，卻因場地及交通管制問題，昨（25）日深夜宣布取消實體活動，改以其他形式舉辦，搭建中的舞台立刻拆除。消息曝光後，對手台北市長蔣萬安的臉書意外成為網友留言戰場，不少網友湧入留言，質疑蔣團隊",
+   "cities": {
+    "台北市": 7
+   },
+   "districts": [],
+   "body_chars": 1042,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/25/php4ikfoe.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5653722": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T09:46+08:00",
+   "site_name": "自由時報電子報",
+   "description": "民進黨台北市長候選人沈伯洋決定取消「市民之夜」，宜蘭縣文化協會理事長郭稟翰說，這讓我們想起上週，也差點因場地問題取消的溪北場台派市集，他被宜蘭市長陳美玲刁難！原本要在新開通的10號道路舉辦，最後卻因為「上級不同意」，只能被迫緊急更換場地。陳美玲電話未接；市公所則表示，因有交通安全等考量才未出借。上週六的台派市集原本敲定",
+   "cities": {
+    "宜蘭縣": 13,
+    "台北市": 3
+   },
+   "districts": [],
+   "body_chars": 1168,
+   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/5653722_1_1.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261126/3278694.htm": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T09:42+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "屋頂踏穿、施工平台倒塌及開口護欄不牢，都可能造成嚴重墜落事故。台南市勞工局提醒，雇主切勿因工程規模小、作業時間短，就省略安全防護，應落實屋頂防踏穿、平台穩固、開口防護及承攬管理，守護勞工平安返家。",
+   "cities": {
+    "台南市": 5,
+    "台北市": 2,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 1103,
+   "image": "https://cdn2.ettoday.net/images/9033/e9033959.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.ettoday.net/news/20261126/3278675.htm": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T09:53+08:00",
+   "site_name": "ETtoday新聞雲",
+   "description": "民進黨台北市長候選人沈伯洋原訂27日在仁愛路舉辦「市民之夜」，卻因提前搭設舞台、實施交通管制，引發路人抱怨，最終決定取消活動，並連夜拆除舞台。蔣萬安競選辦公室總幹事、立委羅智強今（26）日凌晨突然宣布，蔣萬安願意將路權讓給沈伯洋，遭大批網友狂轟，「現在承認是你們全部搶走的囉。」",
+   "cities": {
+    "台北市": 7,
+    "高雄市": 1
+   },
+   "districts": [],
+   "body_chars": 1155,
+   "image": "https://cdn2.ettoday.net/images/9033/e9033605.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.pinview.com.tw/News/65149.html": {
+   "checked_at": "2026-11-26T11:39+08:00",
+   "status": "error",
+   "error": "The read operation timed out"
   }
  }
 }

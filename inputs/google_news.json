@@ -1,21 +1,40 @@
 {
- "fetched_at": "2026-11-26T07:17:36+08:00",
+ "fetched_at": "2026-11-26T11:39:41+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 142,
-  "kept": 65,
-  "resolved": 65,
-  "items": 63,
+  "raw": 111,
+  "kept": 55,
+  "resolved": 55,
+  "items": 54,
   "resolve_this_run": {
-   "online": 14
+   "online": 9
   },
   "dropped_old": [
-   "【台灣百廟】大溪老街赫赫有名的關帝廟 大溪普濟堂（原文日期 2021-02-05）",
    "中壢站前商圈轉型！「中壢嗨！南洋奶茶生活節」9/12熱鬧登場（原文日期 2026-09-10）"
   ]
  },
  "items": [
+  {
+   "title": "谷歌將在舊金山開設首家門店 聯合廣場商圈復甦再添利好",
+   "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WMkQ4ekl1TC1xRENBV01ncHNESVpoLU01WGxCTW92R0lGdjYtZW5rOXFna3JTZ0RYa21mNzY3Y09CT1ZMNlpscDBZWlpLdTl0UWw4emdFMldBdml5S0NZSWhB0gFnQVVfeXFMTmRuUTFZUExCQmVDUnpuTXdDd1RwUmwyd2RHM3VUemhRbmN2Zk4yeG1tSzRQR2VrRUcxODQ2SHZBbVBzMGFPYjlBbXlfSUNDeEgzeHA2aVNSdzF1dkM3QmdaZE1abkU5VQ?oc=5",
+   "source": "世界新聞網",
+   "source_site": "https://www.worldjournal.com",
+   "published_at": "2026-11-26T09:28+08:00",
+   "query": "商圈",
+   "url": "https://www.worldjournal.com/wj/story/121472/9902725",
+   "resolved": true
+  },
+  {
+   "title": "喵喵喵，貓咪去哪裡？──吳欣芷的書店小貓與老街上的貓",
+   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83UVlzNi1XUm5xdUhaZ1dkZVc1X2htODNUdXZreEwtMmNxanhMbTh2cUt6YTFXd3lSNERXWDlReUdpVzc1aHZfZU1vbTV2QVU0VWpTV0daZ3RpejlmbHc4?oc=5",
+   "source": "典藏ARTouch.com",
+   "source_site": "https://artouch.com",
+   "published_at": "2026-11-26T08:01+08:00",
+   "query": "老街",
+   "url": "https://artouch.com/artco-kids/content-272402.html",
+   "resolved": true
+  },
   {
    "title": "陳俊諺推板橋商圈活化 改善通學路",
    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HRzVZNmtyNTVIZkdTOUxiUmt6Q3NGY1doUjZXdkRFaUFrbG9HeE1GVDZRc2c5TFdlWjlnajlTd3ZTYlJFZUFZcF9PVFkyaUJqOFoxUkhQSXRmR2tmdXkyS9IBZkFVX3lxTE1XVS1tOG1EQlNGM0U1M2V5OFpWWTAzbjhTWHozdU5kYVgyUDNZYTMwdjBPWHpQbU1MaDJRSU9kcWVZNVRzSDRzS0ZMa2EzQklfQ0N4cGNfb3kwR2NJbHdJNHZXLXIwdw?oc=5",
@@ -37,16 +56,6 @@
    "resolved": true
   },
   {
-   "title": "【台北商圈交鋒】市民大道該不該縫合？ 專家指「陰陽面」亟需接軌 | 上報",
-   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ybE5kejJ0dE4ydjlJaTBNd1k4bnhCbWhrTDJRV08xYjU0bml6ZnpUM3N0S3pULVlqLWRqVDJDc2tfeFJlSUZRS1NkcDRCdHB1VXUxaTR3?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-25T22:55+08:00",
-   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
-   "url": "https://today.line.me/tw/v3/article/WBOajGQ",
-   "resolved": true
-  },
-  {
    "title": "【台北商圈交鋒】市民大道該不該縫合？ 專家指「陰陽面」亟需接軌",
    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYZW9qX3VpWm5PTGVHVmp3RDhMdHBwQllPa2RCMEpvMl9kV0NhZkZyNVYwRzRkdjdfaXBOUHZOR1lFS09pLWhNa3h4a3BkOWo1a09YR3p4UzVBNHhRRnZjdFhWTEdaZDQySWE1Mw?oc=5",
    "source": "上報Up Media",
@@ -54,6 +63,16 @@
    "published_at": "2026-11-25T22:01+08:00",
    "query": "商圈",
    "url": "https://www.upmedia.mg/tw/investigation/policy-debate/275349",
+   "resolved": true
+  },
+  {
+   "title": "工研院x資策會x喬思齊科技 AI智慧高球進駐商圈拓展運動科技商機",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TWGtqUEtaWEFad3Z1WW96UUpxWjlwVEwyb0lWT0VqWGdDQlY2QnVWd2Y2aXRvS3FfbmN5Y2dwX2JkMVJJdHd2cFdYZ0l0Qm52N3c?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
+   "published_at": "2026-11-25T21:50+08:00",
+   "query": "商圈",
+   "url": "https://n.yam.com/Article/20261125208672",
    "resolved": true
   },
   {
@@ -74,6 +93,16 @@
    "published_at": "2026-11-25T19:01+08:00",
    "query": "商圈",
    "url": "https://n.yam.com/Article/20261125848208",
+   "resolved": true
+  },
+  {
+   "title": "討論牆| 旗山秀明豬心冬粉、吉美麵包、鮮緹香蕉蛋捲、月亮香蕉、旗山常美冰店、【 興旺檸檬汁】旗山老街",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mRG5IcE51SHpxcVlNQ3hHRFlqVUpwUGJzeHhHTE9WRWtRQ0pXdDNITmtlYnBhNWpmLU00S0lzSWE2M1IzZkxMdUZEZ0c2NjFPTXYtVXZoQ1IzOFB3WVBYNWZacWk?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-25T18:58+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/zNmXg9j",
    "resolved": true
   },
   {
@@ -107,16 +136,6 @@
    "resolved": true
   },
   {
-   "title": "台南國華商圈餐廳氣爆！店內桌椅噴飛無人傷亡疑瓦斯操作不慎釀禍| 社會",
-   "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaM2FPRnlMOUk2bzlIRlFKM0RFbjgyekFlak1MV2w2eGYxa0FfNUloN1QtQ01uRUxQZHI4NjkyNG1BS2cySnlLM3pzdHBfUnI3SXZvWl96OWdyOTg?oc=5",
-   "source": "Newtalk新聞",
-   "source_site": "https://newtalk.tw",
-   "published_at": "2026-11-25T16:01+08:00",
-   "query": "商圈 延期 OR 取消 OR 停辦 OR 改期 OR 順延",
-   "url": "https://newtalk.tw/news/view/2026-11-25/1073697",
-   "resolved": true
-  },
-  {
    "title": "AI智慧高球進駐商圈！工研院攜手資策會、喬思齊科技 拓展運動科技商機",
    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TQWtjR0lKSGtaazZvOUhEdS0wUmVjaTdZaXJTMmVyZ0pfdHAyTVVOV2paVS14Y0JZS1dDSXZoOTNsSEtKV1REd0xEQUQzWHVY0gFWQVVfeXFMTldpci12S3VpcnE0ZVhLQk0wZENaS0FTZHBZS0pHT1lJendjeXBFeWFuQjRtZjVaU3ZiRjVuZUc2d0k2d3E2NEdjUEJ0dmNYbUE0WkVhc1E?oc=5",
    "source": "UDN",
@@ -127,13 +146,13 @@
    "resolved": true
   },
   {
-   "title": "工研院攜手資策會、喬思齊科技 AI智慧高球進駐商圈 拓展運動科技商機",
-   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hdW9SZmdPLUNTVHdyZS1MMng5VmV2eHpjSTkxTjZOZWpwQ0hmMVl1ZHpVS1dhanp1a3U2dzVWVFgxUDFIdjBLTjJpd0ZLQUprSTJ4OVFfMmVjR05zaWhz0gFfQVVfeXFMTWF1b1JmZ08tQ1NUd3JlLUwyeDlWZXZ4emNJOTFONk5lanBDSGYxWXVkelVLV2FqenVrdTZ3NVZUWDFQMUh2MEtOMml3RktBSmtJMng5UV8yZWNHTnNpaHM?oc=5",
-   "source": "經濟日報",
-   "source_site": "https://money.udn.com",
-   "published_at": "2026-11-25T15:43+08:00",
+   "title": "台南國華街商圈麻辣燙店「瓦斯桶氣爆」 轟一聲烈焰狂燃",
+   "google_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNUll5WkpKc0dxMS1nTzhCSUduRWNpc3hHa2QwWEFac0lobWFwekNVUnpoSzVfaG5mX1FHTEpwVXJRekFGMGpvVnhNWEZsYUVYWlktczRqdVRGdEJ5WWxtTHpBRXI2ZVgtb25HcFUtSGx0TUlscjdQbXFRNGlRTWZQQXRnUDV0N0NXcUFxMmRwSnllTUhIR09FTUxUdkN6TEJwMkhYeV9JcDdkN2JVNEFnYThhcDFMZlp6dHJJRmpjTEtvZjJKZ21nVnlDaWljTjF3RWRLTWMtYVFkWjhWckp3MnFqMTZyVVlwQ1U2aVp4SFBadlhwWlMyQU9VNWJQYV9pcVByVzdxLU9Yd3UtR3JkUGxUWnFwNmxYMHdYa08tNG9BM1U1RVQxcmtCMmJTRTFPd045V1d3dGNDVG5JWEMtNzhpcDBZQWRFVFdSVXVpR210VWI5ZUNUaEhGQ21fS2M?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-25T15:02+08:00",
    "query": "商圈",
-   "url": "https://money.udn.com/money/amp/story/7307/9901375",
+   "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%9C%8B%E8%8F%AF%E8%A1%97%E5%95%86%E5%9C%88%E9%BA%BB%E8%BE%A3%E7%87%99%E5%BA%97-%E7%93%A6%E6%96%AF%E6%A1%B6%E6%B0%A3%E7%88%86-%E8%BD%9F-%E8%81%B2%E7%83%88%E7%84%B0%E7%8B%82%E7%87%83-065046170.html",
    "resolved": true
   },
   {
@@ -144,16 +163,6 @@
    "published_at": "2026-11-25T15:00+08:00",
    "query": "老街",
    "url": "https://www.storm.mg/lifestyle/11184317",
-   "resolved": true
-  },
-  {
-   "title": "台南國華街商圈麻辣燙店「瓦斯桶氣爆」 轟一聲烈焰狂燃",
-   "google_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNUll5WkpKc0dxMS1nTzhCSUduRWNpc3hHa2QwWEFac0lobWFwekNVUnpoSzVfaG5mX1FHTEpwVXJRekFGMGpvVnhNWEZsYUVYWlktczRqdVRGdEJ5WWxtTHpBRXI2ZVgtb25HcFUtSGx0TUlscjdQbXFRNGlRTWZQQXRnUDV0N0NXcUFxMmRwSnllTUhIR09FTUxUdkN6TEJwMkhYeV9JcDdkN2JVNEFnYThhcDFMZlp6dHJJRmpjTEtvZjJKZ21nVnlDaWljTjF3RWRLTWMtYVFkWjhWckp3MnFqMTZyVVlwQ1U2aVp4SFBadlhwWlMyQU9VNWJQYV9pcVByVzdxLU9Yd3UtR3JkUGxUWnFwNmxYMHdYa08tNG9BM1U1RVQxcmtCMmJTRTFPd045V1d3dGNDVG5JWEMtNzhpcDBZQWRFVFdSVXVpR210VWI5ZUNUaEhGQ21fS2M?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-25T14:50+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%9C%8B%E8%8F%AF%E8%A1%97%E5%95%86%E5%9C%88%E9%BA%BB%E8%BE%A3%E7%87%99%E5%BA%97-%E7%93%A6%E6%96%AF%E6%A1%B6%E6%B0%A3%E7%88%86-%E8%BD%9F-%E8%81%B2%E7%83%88%E7%84%B0%E7%8B%82%E7%87%83-065046170.html",
    "resolved": true
   },
   {
@@ -184,16 +193,6 @@
    "published_at": "2026-11-25T14:13+08:00",
    "query": "商圈",
    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5652816",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 天母捷運重啟規劃 冷清圓環商圈迎解套契機",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHZGZyQXB5aklRdkREZzQwWkx0eTZUU29yTWpsQ2pTckNKU1d2aVZ1dERZVmZPZzFxQ0Z4UmxiZlROVEY0clJIUE1mWFFNT3RGVzVxSVVnQmpCU3ZMQTFzbVVqRjM?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-25T12:46+08:00",
-   "query": "商圈",
-   "url": "https://today.line.me/tw/v3/posts/list/article/Nvyp5yO",
    "resolved": true
   },
   {
@@ -234,16 +233,6 @@
    "published_at": "2026-11-25T10:51+08:00",
    "query": "商店街",
    "url": "https://n.yam.com/Article/20261125123303",
-   "resolved": true
-  },
-  {
-   "title": "臺北推動無菸城市 規劃AI巡查與負壓吸菸設施 3大商圈支持度逾95％ | 熱門亮點 | 商情",
-   "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTV6M3QtVmV1NFlCa2JCamlnWTFaM1JNT3FrV0g0RmM0bW1sR1BaTU11SUZzTFdnVGU0N2dYOUthSDE3VENrSzFVX0g3RUl0bkFtSWVHdVMtWDJYT2l5X3JXc3Nncy05bHc0XzlFYUk1V2wxRndVTno3Y0NIN01vOQ?oc=5",
-   "source": "經濟日報",
-   "source_site": "https://money.udn.com",
-   "published_at": "2026-11-25T10:42+08:00",
-   "query": "商圈",
-   "url": "https://money.udn.com/money/story/5635/9898609?from=edn_related_storybottom",
    "resolved": true
   },
   {
@@ -307,16 +296,6 @@
    "resolved": true
   },
   {
-   "title": "討論牆 | 獨！一中商圈出現\"碰瓷幫\" 學生遇男子索賠上千元",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGejNnZkZMOGxSVUlkS1VPNlRLUlZxZTNNVXN3blB5cWV0dlFUR0JaMmo4VUg3cGZxZUFDblFGVFhFa1FvYllxaWNVNWZTSTVYeXhUWG1OMWw3amZqa19SbWhDQl8?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-25T01:22+08:00",
-   "query": "商圈",
-   "url": "https://today.line.me/tw/v3/posts/list/article/MLBynO0",
-   "resolved": true
-  },
-  {
    "title": "支持度逾95%…蔣萬安推無菸城市 禁菸商圈力挺",
    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TLUd6UFZncjFhZ1d6Nm9fR0VYaF8yVkJYMHNDNERXSzBuanVaX0FZUTY1djhWYVFWWXV4R0Y4Sm5FUU4tZDFDWFo4d3R1aUty0gFWQVVfeXFMTncxX0FQdXdHcktNb3ZOSEh0bjBicjF0a0thcWpFeWh3ZEVHelZad19sMDA4bHd6OUlzLXlNQXEzQXpfWkVqbGFsTGhrTGxDUzFtLTZMT1E?oc=5",
    "source": "UDN",
@@ -324,26 +303,6 @@
    "published_at": "2026-11-25T00:00+08:00",
    "query": "商圈",
    "url": "https://udn.com/news/story/7323/9899777",
-   "resolved": true
-  },
-  {
-   "title": "支持度逾95%！蔣萬安推無菸城市禁菸商圈力挺| 大台北| 地方",
-   "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LeHdrTURONUhnU0hudnNRZWtCSUhyNFVVWHZaRXpSN1MzNk85UFlJQWEteFRfMlFndmFfdDNTZ282VFNLdFJNVzFURm5rT0Rzd0hWeGhVWGVxMlJZLUYzaW9mTVR6QjJ2ZEtXVEt3Rkg4ZjE4?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
-   "published_at": "2026-11-25T00:00+08:00",
-   "query": "商圈",
-   "url": "https://udn.com/news/story/7323/9899777?from=udn-catebreaknews_ch2",
-   "resolved": true
-  },
-  {
-   "title": "廣府中醫文化惠商圈，文創岐黃市集登陸美林天地",
-   "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjR1VLc1NrUjhlYUJTZEM1SnRIMHAyWW1GSnl0amZna0w5eEFIQ3hFQ2puMFVQZ0ZseXQtSlBGNzFYMjViczJvUHdNT3E4VWprMVBLd2F1Y2NyMTI0MUJ6bjV3?oc=5",
-   "source": "觀點網",
-   "source_site": "https://www.guandian.hk",
-   "published_at": "2026-11-24T23:23+08:00",
-   "query": "商圈",
-   "url": "https://www.guandian.hk/article/20261124/632602.html",
    "resolved": true
   },
   {
@@ -367,6 +326,16 @@
    "resolved": true
   },
   {
+   "title": "蔣萬安無菸城市成效曝！3大商圈滿意度飆9成",
+   "google_url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxONkRiX1pKbS1Tank0OVdQVFh4UklGR1ZndGVneXoxMjUzeFZDSHRXcWtNbjZtbk5HWlhjRzhVVWpLWFN6bUxwSkctTUtZNERmQkRwUjR1UENuR081NXMtY0c4OThyb1RYMzFlTm9hXzJUSF9EVzYwbC1DVkpERFRGRzYycmcxcG1wYjZoeXc3Q3ZYLU9pNUhvNWM2Z1FBWEZCb1VNVHZubGZueXA5dml0Zm1yVDYxN1N1MFpZQ0p2UWFKeUVxMWlBYnd1OW14algwRUNpQU11SHphZDJuRkNmYmV5V1g0LUwxRm9jcDhGb3hHbEZUYmljVWFhU1d3S1BtVnZqTHRyd2VOOXhGeHgxaktNbFFROVVYOGh2R1B0bEswVkstLURXOWhfZnA2Snc?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-24T21:55+08:00",
+   "query": "商圈",
+   "url": "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E7%84%A1%E8%8F%B8%E5%9F%8E%E5%B8%82%E6%88%90%E6%95%88%E6%9B%9D-3%E5%A4%A7%E5%95%86%E5%9C%88%E6%BB%BF%E6%84%8F%E5%BA%A6%E9%A3%869%E6%88%90-100510912.html",
+   "resolved": true
+  },
+  {
    "title": "何欣純、陳其邁北北屯合體車掃！邁邁送BTS同款奶酥麵包讚何欣純將是「Nice棒」的市長何欣純請益演唱會經濟盼人潮帶旺商圈",
    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TZkhqdFhfdmY1d0ZyMzNTT1hBY1phZEY4UnlDVWhITkloakh5Zjh3S3FkTlp2STQ5XzFudXlIR3lPUnFZelZWX3g0VFZZM0xqemc?oc=5",
    "source": "放言Fount Media",
@@ -378,12 +347,12 @@
   },
   {
    "title": "3大禁菸商圈 支持與滿意度破9成",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XRlZCc1hmdk5XSGE4dVEtNXRDQ2pyd2ZWYjBEMkNTZlNtQ1dtbXRadGRURlpveE9wRXJPdlNJZXpHb3RZX3hJbTRCWnVaSXhHd3c?oc=5",
-   "source": "中華新聞雲／中華日報",
-   "source_site": "https://www.cdns.com.tw",
-   "published_at": "2026-11-24T20:58+08:00",
+   "google_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdFl0dndZNHVPRFF2aVlodDlBZWxBdkx3LWRLdlczQ2o5UzVkQ0FMMnNQdF9kUzE5NUd1YjhqVEM3eUpReWpFMm5DdlE1bFBNbDkzNkN2bWw4QWx3SmFpTFRnemluR1ZyU3FDTUxEb3NiVkxDazE5TC11WUotcUNTamlqdDBrT0tYUktnY3EwcjViUzJhZnZmOVQ4c1JrQ1M5TFlJWDlaczRXUjN5MEg4VmNaclJrbjNnRmpNUnc4VjF1SnlZb1R5dklXa1lnVnJMQnZvNGhaOWNRRXRhSTU5YXFVeXhuQzVCV0hxcXlYNjlCWFk?oc=5",
+   "source": "Yahoo新聞",
+   "source_site": "https://tw.news.yahoo.com",
+   "published_at": "2026-11-24T20:51+08:00",
    "query": "商圈",
-   "url": "https://www.cdns.com.tw/articles/1495917",
+   "url": "https://tw.news.yahoo.com/3%E5%A4%A7%E7%A6%81%E8%8F%B8%E5%95%86%E5%9C%88-%E6%94%AF%E6%8C%81%E8%88%87%E6%BB%BF%E6%84%8F%E5%BA%A6%E7%A0%B49%E6%88%90-125151033.html",
    "resolved": true
   },
   {
@@ -394,16 +363,6 @@
    "published_at": "2026-11-24T20:41+08:00",
    "query": "商圈",
    "url": "https://new-reporter.com/news/334646/",
-   "resolved": true
-  },
-  {
-   "title": "芎林美食｜新美珍布丁蛋糕專賣店｜不只是布丁蛋糕！藏身紅磚老街的古早味零食餅乾寶庫",
-   "google_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9ja1JJb0t3SDhfTWxqUHhqaGNERmU1ZkhBU3RhbGFweThOSjFveEx0YjZ0QlprWlhKQTRBMWs0RTN4ZjA?oc=5",
-   "source": "潔妮食旅生活",
-   "source_site": "https://janice.life",
-   "published_at": "2026-11-24T20:34+08:00",
-   "query": "老街",
-   "url": "https://janice.life/smj-cake/",
    "resolved": true
   },
   {
@@ -424,16 +383,6 @@
    "published_at": "2026-11-24T18:32+08:00",
    "query": "商圈",
    "url": "https://www.chinatimes.com/realtimenews/20261124004505-260405",
-   "resolved": true
-  },
-  {
-   "title": "蔣萬安力推「無菸城市」驚人成效出爐！3大商圈滿意度皆飆破9成",
-   "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HX0xCdXEyZ1IzMGNtbWxIZXh5eGt0V3R4SVU0dnczaXN6SXVfY2tDeXVwblZUY0tSZUZJUjV4cjhURWJ6QUwxbG1MMUbSAVJBVV95cUxNcWtEOHM5M3FDQUUtY3Awckt3QXI2V1B0S3dCaHBHcHp1eTd0TkVBemVkUERJbXdPcl84M1RoT2FpVGdWYlJzS0ItOEZCTXZhN213?oc=5",
-   "source": "NOWnews今日新聞",
-   "source_site": "https://www.nownews.com",
-   "published_at": "2026-11-24T18:05+08:00",
-   "query": "商圈",
-   "url": "https://www.nownews.com/news/6895189",
    "resolved": true
   },
   {
@@ -468,22 +417,22 @@
   },
   {
    "title": "graniph台灣二號店前進信義商圈 搶先開賣西村優志聯名開幕限定搶先看",
-   "google_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qZHJjWUMyLWRHa1YzRURYTEpLakhCSXZqZzVYWVp2QjRrUkdPaFQ3MEZTNDU4Y2ViLWlMSUZTUkU4RVVfbXp4R0tpTXQtVXo1TGMtTWNLZzJ4WlFzcnM3TTFmM1NZcUdBbXh4dDdwN1lmQlVTUzdKWUJseHhaUdIBYkFVX3lxTE1iNWN3dzE1a3k2SkRyQUxPQzFPdFdyc3ZMbHNGd193b2hFLWY2TmU0VGZ2dDV6REhGUWNJcnhTSkFZcnRXMXFfR09FVW1SWE9peEtHTU83QWtvRXJrS1E3U1lB?oc=5",
-   "source": "經濟日報",
-   "source_site": "https://money.udn.com",
-   "published_at": "2026-11-24T16:52+08:00",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92TDJUWkFZRVYzeW1pUGlnTFlCQVBnbERDQUNkR0NSeXFmaXhXZG1BSG5PLUl6S1FTeE9CcmgyazBDbjZ3UENNUmIweFdYSkFQNG1WWHl30gFWQVVfeXFMT3ZMMlRaQVlFVjN5bWlQaWdMWUJBUGdsRENBQ2RHQ1J5cWZpeFdkbUFIbk8tSXpLUVN4T0JyaDJrMENuNndQQ01SYjB4V1hKQVA0bVZYeXc?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
+   "published_at": "2026-11-24T16:35+08:00",
    "query": "商圈",
-   "url": "https://money.udn.com/money/story/122328/9899067?from=edn_newestlist_rank",
+   "url": "https://udn.com/news/amp/story/7270/9899067",
    "resolved": true
   },
   {
-   "title": "graniph台灣二號店前進信義商圈搶先開賣西村優志聯名開幕限定搶先看| 品味生活",
-   "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xYm9pS3hzaTFDNk01aFlsbF9YZUxmelhvVzI0eWF1d1RXcThKN1AzWUd6VDV2Nkd1WmN2SjZKX0lRWTlma1VCZU1YMmI1WUFfRU9XRTVjUm1FZw?oc=5",
-   "source": "udnSTYLE",
-   "source_site": "https://style.udn.com",
-   "published_at": "2026-11-24T16:35+08:00",
-   "query": "商圈",
-   "url": "https://style.udn.com/style/story/8077/9899067",
+   "title": "花蓮縣地方創生輔導團訪新城老街山下村 推廣太魯閣風味",
+   "google_url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOWmRHSVhwQ0lldmJ0cWlRcmhXV2FEaWZyUzdzWkQ1X3hXcUJXNzQwSnYzcXhCRVdncmxqY0IwRWluQmExQ0RKdWdsNzJILU5vYlY4QWNZM3d3cnczWmJaWnduenNuSk9JWnBfRkJDOUQ2ZXg4X3ZNOUF5a2h0bDdCWlBIdlJ4ZmJ2RTd1SG9lNkQxTjd1UlVxX002XzRXd3dOaTltT2htVVpvTmlYRFozbUtHUVRBM3psdzZNSVcyMExIeDNpci1jQThvWnRuSlFfa0RlT0cxTm02emdiTXRYbzBVbEtzYUpaYURyRXpJYTBaVDNaTnFVeV85cHU1N3V6OFpGa05iOEtoT0lMYlByeXNnWXlZVmt0V3hwQktndWRhTDBqRl93NkFiR1g3SzhNYWlkYWoyVjJuaGVibHBXOHR2MFkwVWZOeXZNSS1pdDlTSWVSdnlHUmRJRzNreW1IS1RMNFp0Yw?oc=5",
+   "source": "報新聞 Mega News",
+   "source_site": "https://www.contentplatform.info",
+   "published_at": "2026-11-24T15:49+08:00",
+   "query": "老街",
+   "url": "https://www.contentplatform.info/articles/588905/%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%9C%B0%E6%96%B9%E5%89%B5%E7%94%9F%E8%BC%94%E5%B0%8E%E5%9C%98%E8%A8%AA%E6%96%B0%E5%9F%8E%E8%80%81%E8%A1%97%E5%B1%B1%E4%B8%8B%E6%9D%91%E3%80%80%E6%8E%A8%E5%BB%A3%E5%A4%AA/",
    "resolved": true
   },
   {
@@ -498,12 +447,12 @@
   },
   {
    "title": "2026商圈狂歡節「萬市慶豐年」全臺特色商圈齊聚北投",
-   "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFRi15V2FhdUJvUjhaVUIyTGZOWVdSVFpMMnhPVzVERlhEVkNjYXBFQXBoTmZ0NHpVV1BYbkZhOW93UG5SZGdVZE9Mc1VDbmh6WTh0UzNwczJzYkNHV0xBRm54eUtKQQ?oc=5",
-   "source": "警政時報",
-   "source_site": "https://www.tcpttw.com",
+   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ibml2MXowellhdGF2UVZ6Y1d6YmhRajNkNGhFYjk1RVhZdjhaak5JTEFqRkNZbEZvMWd2Y21jcnBzTDB1WWtLZTNfNFFhZmNtSEE?oc=5",
+   "source": "蕃新聞",
+   "source_site": "https://n.yam.com",
    "published_at": "2026-11-24T14:29+08:00",
    "query": "商圈",
-   "url": "https://www.tcpttw.com/entertainment/2026/11/24/334129/",
+   "url": "https://n.yam.com/Article/20261124172521",
    "resolved": true
   },
   {
@@ -514,16 +463,6 @@
    "published_at": "2026-11-24T14:28+08:00",
    "query": "商圈",
    "url": "https://www.ftvnews.com.tw/news/detail/2026B24C05M1",
-   "resolved": true
-  },
-  {
-   "title": "一中商圈出現「碰瓷幫」 學生遇男子索賠上千元－民視新聞- 民視新聞網",
-   "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpUFRGMFNaUFdtdnRIUFlJdkhSV1lMWXVqeDVlQlY3QzE1WWJRUnBMeDhydndlX3ZueGdaM3o2ZW5TOFZxUjc0R2V3bWhvdTJWWGxxQ1k2djJKZFZHNGlTNWtKQUszMXM?oc=5",
-   "source": "民視新聞網",
-   "source_site": "https://www.ftvnews.com.tw",
-   "published_at": "2026-11-24T14:14+08:00",
-   "query": "商圈",
-   "url": "https://www.ftvnews.com.tw/shortvideo/detail/PT07v2eySo0",
    "resolved": true
   },
   {
@@ -547,6 +486,26 @@
    "resolved": true
   },
   {
+   "title": "北市破萬元店租快絕跡！觀光商圈仍有支撐",
+   "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9HTTZ6Z3BsOFE1ZmVaMzlQRmducFpHeGtEOGg3UjQwNEU3NkZncjhBTkRfN0ctSWx4YS1qYnJSQ0ZJVG5uUXJtZkpn0gFPQVVfeXFMT1hxTjJwN21Zay00b3JUSHZFN2ZDUV96cEFOakRMTUNHbmhZTzVoa2MwTVRjTWhCLV9JWFlBOTFzRVcwR2lrNDZkQUQ3OXBoZw?oc=5",
+   "source": "591新聞",
+   "source_site": "https://news.591.com.tw",
+   "published_at": "2026-11-24T13:44+08:00",
+   "query": "商圈",
+   "url": "https://news.591.com.tw/news/13124",
+   "resolved": true
+  },
+  {
+   "title": "蔣萬安「無菸城市」禁菸商圈支持度破9成 民眾反映曝光 | 選舉 | 要聞",
+   "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mbmdKUWJzZEZ0c3FzdG4wX0RRYWlLMGlZRkI5NU1rQV8zVTVfZnpsRlFidFJXb2V6dHVQRjRjOUhqOHB4aTVnVWJ4SEFwc2ZzS25TQ2R3SnYyYkhXekNjWkxiUjhTQjZfT2J5Z2hHWWdWa1IxdXlmNg?oc=5",
+   "source": "經濟日報",
+   "source_site": "https://money.udn.com",
+   "published_at": "2026-11-24T13:29+08:00",
+   "query": "商圈",
+   "url": "https://money.udn.com/money/story/12622/9898536?from=edn_newest_index",
+   "resolved": true
+  },
+  {
    "title": "蔣萬安推「無菸城市」禁菸商圈支持度破9成 民眾反映曝光",
    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NdXhlMUpJdGtfMkdyTHdWYkprVDRLa1hEc1VOOHFfNWJzZHE0bGFVZS1RTnZhNHB4bHhBOTYtNEtLbnY2TlVQMkpIODFGeDcw0gFWQVVfeXFMTkVRQ3JrOHZzV0JDVDNwc0JNUDVoMUQ1Mmx0Y3lSS2wtYWhBWko1UDc1VlhXbGZieE95V3BFdGVrUHlGRzl6ZzdrZlFJQVBYNG9ORUlJVEE?oc=5",
    "source": "UDN",
@@ -554,6 +513,16 @@
    "published_at": "2026-11-24T13:28+08:00",
    "query": "商圈",
    "url": "https://udn.com/news/story/6656/9898536",
+   "resolved": true
+  },
+  {
+   "title": "蔣萬安「無菸城市」禁菸商圈支持度破9成民眾反映曝光| 政治 | 要聞",
+   "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBncFNRbjA4UkF1Y0xDdFJGcjVJTEFqci1lb1lmNjlkb3MwRS1mRldHY1hWWF8yM2phM3ZZYzhsaGJVWWJTOGNrRElnUmc1SC1HMHVvenJyRnRZenpRejFLMEpBVzBMWDJPei1ZcXVfY3RJcTdX?oc=5",
+   "source": "UDN",
+   "source_site": "https://udn.com",
+   "published_at": "2026-11-24T13:28+08:00",
+   "query": "商圈",
+   "url": "https://udn.com/news/story/6656/9898536?from=udn-catebreaknews_ch2",
    "resolved": true
   },
   {
@@ -584,66 +553,6 @@
    "published_at": "2026-11-24T12:00+08:00",
    "query": "老街",
    "url": "https://supertaste.tvbs.com.tw/travel/362579",
-   "resolved": true
-  },
-  {
-   "title": "北市府推無菸城市 衛生局：3禁菸商圈支持度高",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBdHdZX09oWmgtZ2V3a3lBa3lvUW9LbzhqbXl2RjhiWFlnR3VpMTZvN2x3b0JoRlN4N3UwMF9hOXBGS1poTmJLTUdrbHl5RFVo?oc=5",
-   "source": "信吉衛視+",
-   "source_site": "https://www.sjtv.com.tw",
-   "published_at": "2026-11-24T11:24+08:00",
-   "query": "商圈",
-   "url": "https://www.sjtv.com.tw/articles/126623",
-   "resolved": true
-  },
-  {
-   "title": "北市破萬元店租快絕跡！觀光商圈仍有支撐",
-   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YcU4ycDdtWWstNG9yVEh2RTdmQ1FfenBBTmpETE1DR25oWU81aGtjME1UY01oQi1fSVhZQTkxc0VXMEdpazQ2ZEFENzlwaGfSAU9BVV95cUxPWHFOMnA3bVlrLTRvclRIdkU3ZkNRX3pwQU5qRExNQ0duaFlPNWhrYzBNVGNNaEItX0lYWUE5MXNFVzBHaWs0NmRBRDc5cGhn?oc=5",
-   "source": "591新聞",
-   "source_site": "https://news.591.com.tw",
-   "published_at": "2026-11-24T10:55+08:00",
-   "query": "商圈",
-   "url": "https://news.591.com.tw/news/13124/amp",
-   "resolved": true
-  },
-  {
-   "title": "2026臺南魔法聖誕節12/5至12/6登場！大東橋商圈逾200家市集與14公尺聖誕樹點燈",
-   "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yeXRjWU92ejdzUjFnVVo4T1ZkNWUzOVJqb3Rmd00xTUxHVkx4S0tMOXlRYWtvdmRwRzhCakhOcVB1dVB0c2ozbzBlWUhYV3RkQzBoeXNpb0NNdzlYdmpBZm43OGZ6dkU1VWFJYmFvWmI4dw?oc=5",
-   "source": "moonvoke.com",
-   "source_site": "https://moonvoke.com",
-   "published_at": "2026-11-24T10:39+08:00",
-   "query": "商店街",
-   "url": "https://moonvoke.com/posts/tainan-magic-christmas-festival-2026/",
-   "resolved": true
-  },
-  {
-   "title": "臺北無菸城市三大禁菸商圈　北市衛生局：支持度逾9成5、滿意度逾9成 | 政治 | CTWANT",
-   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUenM4VFlYdDdfNkRVZUtKeVc3OTJjcmk1d3ppMDI0bi15d2Nad2ZKRVR6WDdBSGRxWWtFSUdnanhSTkU5X0dnR3FmMDFHS0XSAVRBVV95cUxPbXNNeVFxSWFWVFZTZ1pIcE9lT0M0OGpxYWlHNk9GaU81ZXM0ekxmU0kwbDBkckxyM0NFQWpQZDRvS2N2WHd6YTU0UzZLR1lWNlp6RUE?oc=5",
-   "source": "CTWANT",
-   "source_site": "https://www.ctwant.com",
-   "published_at": "2026-11-24T10:37+08:00",
-   "query": "商圈",
-   "url": "https://www.ctwant.com/article/508215/",
-   "resolved": true
-  },
-  {
-   "title": "臺北市推動無菸城市政策 禁菸商圈支持度與滿意度均超過9成",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yMkZKSjZkNzBYak5EQl84ZGkwSzVqZFdsQXNqSnBISkQtZkgycWp5Q0o2eHU3MGRyOXpkd3phdmplTm5oUTRQSkd2dDRvbERGeEE?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-24T08:45+08:00",
-   "query": "商圈",
-   "url": "https://n.yam.com/Article/20261124851336",
-   "resolved": true
-  },
-  {
-   "title": "斥資2億打造信義商圈頂級會所！宇方圓13間全包廂開創中菜新體驗",
-   "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9tTTJMR2hyUk5tUWh2UDk5QUNpcFNqb0RhUmJuMTEydzk1cG4tY3ZBUDVGZUU5NFpSUVVuOUtyUnRhRTFsSkk0d0ZUa2pmTTJKRFo2X3ExT2c1ZGxxZnNYNEROTDIwZGxxWTd5RkRrWGlFb3Q4eU1XcFV1OGRVRU5vcW0?oc=5",
-   "source": "壹蘋新聞網",
-   "source_site": "https://news.nextapple.com",
-   "published_at": "2026-11-24T08:00+08:00",
-   "query": "商圈",
-   "url": "https://news.nextapple.com/eattravel/20261124/CC6EDFEC72DE9C469933C208B643E627",
    "resolved": true
   }
  ]
