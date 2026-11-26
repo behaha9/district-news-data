@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-26T07:24:05+08:00",
+ "updated_at": "2026-11-26T12:22:29+08:00",
  "reviewed": {
   "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html": {
    "decision": "hidden",
@@ -116,6 +116,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-20"
+  },
+  "https://money.udn.com/money/amp/story/7307/9901375": {
+   "decision": "kept",
+   "item": "20261125-itri-smart-golf",
+   "at": "2026-11-26"
   },
   "https://money.udn.com/money/story/11799/9875161": {
    "decision": "kept",
@@ -282,6 +287,11 @@
    "reason": "選舉",
    "at": "2026-11-18"
   },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5652816": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-26"
+  },
   "https://news.ltn.com.tw/news/politics/paper/1779972": {
    "decision": "hidden",
    "reason": "選舉",
@@ -356,6 +366,11 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-12"
+  },
+  "https://today.line.me/tw/v3/article/WBOajGQ": {
+   "decision": "hidden",
+   "reason": "選舉",
+   "at": "2026-11-26"
   },
   "https://today.line.me/tw/v3/article/nXpnNRy": {
    "decision": "hidden",

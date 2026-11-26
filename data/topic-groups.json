@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-25T07:40:00+08:00",
+  "updated_at": "2026-11-26T12:22:28+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -499,7 +499,8 @@
           "representative": "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8-%E8%AD%B0%E5%93%A1%E7%B1%B2%E8%90%BD%E5%AF%A6%E5%B9%B3%E5%83%B9%E7%9B%B4%E4%BE%9B-123143908.html",
           "urls": [
             "https://tw.news.yahoo.com/%E9%A3%9F%E7%94%A8%E6%B2%B9%E7%BC%BA%E8%B2%A8-%E8%AD%B0%E5%93%A1%E7%B1%B2%E8%90%BD%E5%AF%A6%E5%B9%B3%E5%83%B9%E7%9B%B4%E4%BE%9B-123143908.html",
-            "https://today.line.me/tw/v3/posts/list/article/Nv50LqP"
+            "https://today.line.me/tw/v3/posts/list/article/Nv50LqP",
+            "https://today.line.me/tw/v3/article/8nMQ9jz"
           ]
         },
         {
@@ -645,6 +646,10 @@
         {
           "url": "https://today.line.me/tw/v3/posts/list/article/5y1mE7y",
           "reason": "國外新聞（印度食用油進口），與臺灣缺貨議題無直接關聯"
+        },
+        {
+          "url": "https://news.tvbs.com.tw/world/4056339",
+          "reason": "橄欖油得獎與選購報導，與本次食用油缺貨議題無關"
         }
       ]
     }
