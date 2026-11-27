@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T07:17:07+08:00",
+ "fetched_at": "2026-11-27T11:41:09+08:00",
  "articles": {
   "https://news.pchome.com.tw/society/thehubnews/20261105/index-79384856854895306009.html": {
    "checked_at": "2026-11-27T07:17+08:00",
@@ -10399,6 +10399,167 @@
    "image_checked": true,
    "date_hint": null,
    "date_hint_from": null
+  },
+  "https://www.chinatimes.com/realtimenews/20261127001093-260402": {
+   "checked_at": "2026-11-27T11:41+08:00",
+   "status": 200,
+   "published_at": "2026-11-27T08:10+08:00",
+   "site_name": "中時新聞網",
+   "description": "台北捷運北車、中山商圈去（114）年發生張文恐怖事件，未料一名當時任職地下街監控設備的男子，自稱以「念力」協助張文自我了解，保護乘客安全有功，向公司申請3500元獎勵金，甚至要求公司向捷運局討獎狀。後來男子",
+   "cities": {
+    "台北市": 3
+   },
+   "districts": [
+    "中山商圈（台北市）"
+   ],
+   "body_chars": 945,
+   "image": "https://images.chinatimes.com/newsphoto/2026-11-27/656/20261127001159.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.pts.org.tw/article/837594": {
+   "checked_at": "2026-11-27T11:41+08:00",
+   "status": 200,
+   "published_at": "2026-11-27T07:33+08:00",
+   "site_name": "公視新聞 PNN",
+   "description": "美國感恩節假期，東西兩岸遭到惡劣天氣夾擊，造成近80萬戶停電，超過400架航班取消，全美超過8千萬名返鄉與出遊旅客，交通受到影響。就連具指標性的第100屆梅西百貨感恩節大遊行，也因強風被迫順延到28日。",
+   "cities": {},
+   "districts": [],
+   "body_chars": 692,
+   "image": "https://news-data.pts.org.tw/media/303059/conversions/ExikG5ZmEGk95isZP6MjU7kBRoMrA7j7TTka6bsw-og_jpg.jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.msn.cn/zh-cn/news/other/%E5%8D%97%E4%BA%AC%E8%80%81%E8%A1%97%E5%B7%B7%E5%8F%A3%E8%BF%8E%E6%9D%A5%E6%88%90%E7%BE%A4%E7%81%B0%E6%A4%8B%E9%B8%9F-%E6%AF%8F%E5%A4%A9%E9%A3%9E%E4%B8%89%E7%99%BE%E8%B6%9F%E7%9A%84%E8%83%8C%E5%90%8E%E8%97%8F%E7%9D%80%E4%BB%80%E4%B9%88%E7%A7%98%E5%AF%86/ar-AA2ikx9m": {
+   "checked_at": "2026-11-27T11:41+08:00",
+   "status": 200,
+   "published_at": null,
+   "site_name": null,
+   "description": null,
+   "cities": {},
+   "districts": [],
+   "body_chars": 1,
+   "image": null,
+   "image_checked": true,
+   "date_hint": null,
+   "date_hint_from": null
+  },
+  "https://today.line.me/tw/v3/article/zNmNGg5?view=topic": {
+   "checked_at": "2026-11-27T11:41+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T22:24+08:00",
+   "site_name": "LINE TODAY",
+   "description": "九合一大選投票將至，無黨籍花蓮縣長候選人張峻規劃連2天「做伙拚！咱會贏」大遊行，今（26日）晚間先在金三角商圈掃街，拜票，找來和碩集團董事長...",
+   "cities": {
+    "花蓮縣": 17
+   },
+   "districts": [
+    "花蓮市形象商圈（花蓮縣）"
+   ],
+   "body_chars": 987,
+   "image": "https://today-obs.line-scdn.net/0h2FH9PpOtbWl1QHAGPBESPk0WYRhGJndgVyRxWFNEN1oPbHg8THM-ClkSMUVRdi5sVXN3XFdBOl5ccH84HQ/w1200",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.nextapple.com/local/20261127/41EFF29CC60D36D5C8DC4CDC11D82712": {
+   "checked_at": "2026-11-27T11:41+08:00",
+   "status": 200,
+   "published_at": "2026-11-27T10:38+08:00",
+   "site_name": "壹蘋新聞網",
+   "description": "台北捷運北車站及中山商圈去（2025）年底發生男子張文無差別殺人的恐怖事件，事後一兼職地下街監控設備的牟姓男子，自稱當時以「念力」引導張文輕生自我了結，因保護乘客安全有功，向公司申請3500元獎金及，還要求公司向捷運局頒發獎狀，以及勞資調解…",
+   "cities": {
+    "台北市": 10,
+    "新北市": 4,
+    "新竹市": 3,
+    "嘉義市": 3,
+    "南投縣": 2
+   },
+   "districts": [
+    "中山商圈（台北市）"
+   ],
+   "body_chars": 2535,
+   "image": "https://static-cdn.nextapple.tw/prod/2026-11/41EFF29CC60D36D5C8DC4CDC11D82712/387aa85f5660186584e42279bd765b73_1280.jpeg",
+   "image_checked": true,
+   "date_hint": "2026-11-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.nownews.com/news/6895748": {
+   "checked_at": "2026-11-27T11:41+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T14:33+08:00",
+   "site_name": "NOWnews今日新聞",
+   "description": "主持人蔡康永近日接連在社群發表「吃屎文」，先稱「沒道理特地矇眼去吃屎」，昨（25）日晚間又在沈伯洋宣布取消選前之夜後，寫道有人把整桌菜連同桌子收走，以為不吃屎...",
+   "cities": {
+    "台北市": 1
+   },
+   "districts": [],
+   "body_chars": 669,
+   "image": "https://media.nownews.com/nn_media/thumbnail/2025/10/1761732482600-8354df49426348e694d4c8af2f02173c-1200x820.webp?unShow=false",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://news.tvbs.com.tw/local/4056576": {
+   "checked_at": "2026-11-27T11:41+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T18:43+08:00",
+   "site_name": "TVBS新聞網",
+   "description": "台北市一名女子日前透過第三方平台預約組裝家具服務，卻意外捲入疑似跟蹤騷擾事件。當事人指控，該名工作人員在服務結束後頻繁傳送私人訊息，即便遭封鎖仍不斷更換帳號聯繫，更在將近半年後深夜現身租屋處樓下狂按電鈴，令她飽受驚嚇。",
+   "cities": {
+    "台北市": 6,
+    "高雄市": 6,
+    "桃園市": 3,
+    "台中市": 2,
+    "新北市": 1
+   },
+   "districts": [
+    "永康商圈（台北市）"
+   ],
+   "body_chars": 2788,
+   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a21717-08f3-7370-b9ab-908194040924.jpg?t=16x9&wp=r,b&c=0,20,474,287&w=1200&h=675",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.nownews.com/news/6895989": {
+   "checked_at": "2026-11-27T11:41+08:00",
+   "status": 200,
+   "published_at": "2026-11-27T11:12+08:00",
+   "site_name": "NOWnews今日新聞",
+   "description": "民進黨台北市長候選人沈伯洋日前深夜宣布取消「市民之夜」，前總統陳水扁、陳的陳致中也相繼發文替沈加油。對此，沈伯洋今（27）日表示，感謝前輩一直給予他鼓勵，這一...",
+   "cities": {
+    "台北市": 2
+   },
+   "districts": [],
+   "body_chars": 677,
+   "image": "https://media.nownews.com/nn_media/thumbnail/2026/11/1795748215107-d7e84b628da9440f8cd044fc4b5c2b03-1200x801.webp?unShow=false",
+   "image_checked": true,
+   "date_hint": "2026-11-27",
+   "date_hint_from": "原文時間"
+  },
+  "https://www.storm.mg/lifestyle/11185123": {
+   "checked_at": "2026-11-27T11:41+08:00",
+   "status": 200,
+   "published_at": "2026-11-26T11:41+08:00",
+   "site_name": null,
+   "description": "台北大直商圈將迎來全新百貨商場！重電廠華城電機跨足零售市場，接手原ATT大直商場，斥資約8億至10億元改造，打造結合購物、餐飲、電動車展示及能源服務的智慧商場「華城匯」，預計2027年10月開幕。全館樓地板面積約1.3萬坪，規劃零售、餐飲、親子及科技體驗等業態，並將設置約40座電動車充電樁，導入AI智能客服Elena，",
+   "cities": {
+    "台北市": 9,
+    "台中市": 3,
+    "高雄市": 3,
+    "桃園市": 2
+   },
+   "districts": [
+    "大直商圈（台北市）"
+   ],
+   "body_chars": 3434,
+   "image": "https://images.storm.mg/cloud/c7d5dbc2e124d58b0a4c606836dfb346a971d549.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2085188%2F88hJ4OtgYgDkOzbKIITWDp9p6IJTs6sbYEBd23ip.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "image_checked": true,
+   "date_hint": "2026-11-26",
+   "date_hint_from": "原文時間"
   }
  }
 }
