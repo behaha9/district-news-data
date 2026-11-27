@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T07:18:32+08:00",
+ "generated_at": "2026-11-27T12:22:56+08:00",
  "items": [
   {
    "id": "20261126-yunlin-excellence-award",
@@ -30,6 +30,11 @@
      "published_at": "2026-11-26T19:01:00+08:00"
     },
     {
+     "outlet": "新頭條",
+     "url": "https://www.thehubnews.net/archives/689296",
+     "published_at": "2026-11-26T19:01:00+08:00"
+    },
+    {
      "outlet": "天天上新聞",
      "url": "https://mknews.com.tw/2026/11/1024527/",
      "published_at": "2026-11-26T18:49:00+08:00"
@@ -50,8 +55,18 @@
      "published_at": "2026-11-26T17:53:00+08:00"
     },
     {
+     "outlet": "墨新聞",
+     "url": "https://more-news.tw/779048/",
+     "published_at": "2026-11-26T17:53:00+08:00"
+    },
+    {
      "outlet": "Yahoo奇摩新聞",
      "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%9C%8B%E5%8D%93%E8%B6%8A%E5%95%86%E5%9C%88%E8%A9%95%E9%81%B8%E5%82%B3%E6%8D%B7%E5%A0%B1-%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE-%E6%96%97%E5%8D%97%E5%85%A9%E5%95%86%E5%9C%88%E9%9B%99%E9%9B%99%E7%8D%B2%E7%8D%8E-092043513.html",
+     "published_at": "2026-11-26T17:20:00+08:00"
+    },
+    {
+     "outlet": "中華日報",
+     "url": "https://www.cdns.com.tw/articles/1496853",
      "published_at": "2026-11-26T17:20:00+08:00"
     }
    ],
@@ -129,6 +144,11 @@
      "outlet": "民報",
      "url": "https://www.peoplenews.tw/articles/investment-financialmgmt/68453",
      "published_at": "2026-11-22T16:00:00+08:00"
+    },
+    {
+     "outlet": "ETtoday房產雲",
+     "url": "https://house.ettoday.net/news/3274937",
+     "published_at": "2026-11-22T11:00:00+08:00"
     },
     {
      "outlet": "中時新聞網",
@@ -282,6 +302,11 @@
     {
      "outlet": "中天新聞網",
      "url": "https://ctinews.com/news/items/4OaZ6Gd4a6",
+     "published_at": "2026-11-25T14:50:00+08:00"
+    },
+    {
+     "outlet": "Yahoo奇摩新聞",
+     "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%9C%8B%E8%8F%AF%E8%A1%97%E5%95%86%E5%9C%88%E9%BA%BB%E8%BE%A3%E7%87%99%E5%BA%97-%E7%93%A6%E6%96%AF%E6%A1%B6%E6%B0%A3%E7%88%86-%E8%BD%9F-%E8%81%B2%E7%83%88%E7%84%B0%E7%8B%82%E7%87%83-065046170.html",
      "published_at": "2026-11-25T14:50:00+08:00"
     },
     {
@@ -2325,76 +2350,6 @@
     }
    ],
    "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/13/5639484_1_1.jpg"
-  },
-  {
-   "id": "20261112-banxin-mrt-tod",
-   "title": "新北環狀線板新站捷運開發案開工，市府期盼帶動板新商圈商業動能",
-   "summary": "新北市府指板橋區規模最大的捷運開發案板新站12日開工，投資逾60億元，預計2030年完工，期望帶動板新商圈發展。",
-   "category": "商圈動向",
-   "alert": null,
-   "published_at": "2026-11-13T10:32:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [
-    {
-     "name": "板新商圈",
-     "priority": false
-    }
-   ],
-   "sources": [
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261113345041",
-     "published_at": "2026-11-13T10:32:00+08:00"
-    },
-    {
-     "outlet": "新頭條",
-     "url": "https://www.thehubnews.net/archives/684194",
-     "published_at": "2026-11-13T10:32:00+08:00"
-    },
-    {
-     "outlet": "工商時報",
-     "url": "https://www.ctee.com.tw/news/20261112702012-431206",
-     "published_at": "2026-11-12T19:12:00+08:00"
-    },
-    {
-     "outlet": "ETtoday新聞雲",
-     "url": "https://www.ettoday.net/news/20261112/3271025.htm",
-     "published_at": "2026-11-12T15:48:00+08:00"
-    },
-    {
-     "outlet": "中華日報",
-     "url": "https://www.cdns.com.tw/articles/1489171",
-     "published_at": "2026-11-12T14:42:00+08:00"
-    },
-    {
-     "outlet": "報新聞",
-     "url": "https://www.contentplatform.info/articles/573840/%e6%9d%bf%e6%96%b0%e5%95%86%e5%9c%88%e6%96%b0%e5%9c%b0%e6%a8%99%ef%bc%81-%e6%9d%bf%e6%a9%8b%e6%9c%80%e5%a4%a7%e6%8d%b7%e9%81%8b%e9%96%8b%e7%99%bc%e6%a1%88%e5%8b%95%e5%9c%9f2030%e5%b9%b4%e5%ae%8c/",
-     "published_at": "2026-11-12T13:34:00+08:00"
-    },
-    {
-     "outlet": "Yahoo新聞",
-     "url": "https://tw.news.yahoo.com/%E6%9D%BF%E6%96%B0%E5%95%86%E5%9C%88%E6%96%B0%E5%9C%B0%E6%A8%99-%E6%9D%BF%E6%A9%8B%E6%9C%80%E5%A4%A7%E6%8D%B7%E9%81%8B%E9%96%8B%E7%99%BC%E6%A1%88%E5%8B%95%E5%9C%9F2030%E5%B9%B4%E5%AE%8C%E5%B7%A5-052514634.html",
-     "published_at": "2026-11-12T13:25:00+08:00"
-    },
-    {
-     "outlet": "商傳媒",
-     "url": "https://sunmedia.tw/news/collaborative/37PnoorVSa5f1LfRamI1dz8T5RdLr89LmvJUoCXGBJxMqz44iYTF0WMOUc40pjbKjjFeCYZbduXfTkEJHNTx",
-     "published_at": "2026-11-12T13:25:00+08:00"
-    },
-    {
-     "outlet": "聯合新聞網",
-     "url": "https://udn.com/news/story/7323/9873968",
-     "published_at": "2026-11-12T12:23:00+08:00"
-    },
-    {
-     "outlet": "中央社",
-     "url": "https://www.cna.com.tw/postwrite/chi/449790",
-     "published_at": "2026-11-12T11:51:00+08:00"
-    }
-   ],
-   "image": "https://ni.yam.com/20261113/HyIEAj37TED3Bld9ZHjf-0ba7931dc2040f90.webp"
   }
  ],
  "discussions": []
