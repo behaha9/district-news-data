@@ -1,16 +1,11 @@
 {
  "schema_version": 1,
- "updated_at": "2026-11-27T20:52:01+08:00",
+ "updated_at": "2026-11-28T07:24:26+08:00",
  "reviewed": {
   "http://www.legaldaily.com.cn/index_article/content/2026-11/19/content_9493731.html": {
    "decision": "hidden",
    "reason": "國外",
    "at": "2026-11-19"
-  },
-  "https://art.ltn.com.tw/article/breakingnews/5638955": {
-   "decision": "kept",
-   "item": "20261112-gimme-xinyi",
-   "at": "2026-11-13"
   },
   "https://ccss3172.blogspot.com/2026/11/15.html": {
    "decision": "hidden",
@@ -62,11 +57,6 @@
    "reason": "房地產",
    "at": "2026-11-14"
   },
-  "https://jdonline.com.hk/content_110132.html": {
-   "decision": "hidden",
-   "reason": "國外",
-   "at": "2026-11-13"
-  },
   "https://life.tw/article/%E5%88%A5%E5%8F%AA%E9%80%9B%E8%80%81%E8%A1%97-%E6%B7%A1%E6%B0%B4%E7%AC%AC%E4%B8%80%E6%BC%81%E6%B8%AF%E9%9A%B1%E8%97%8F%E7%89%88%E7%8E%A9%E6%B3%95-%E8%B5%B0%E8%AE%80%E6%AD%B7%E5%8F%B2-%E8%B3%9E%E6%BC%81%E6%B8%AF%E5%A0%A4%E5%BD%B1-3213600": {
    "decision": "hidden",
    "reason": "業配遊記",
@@ -76,11 +66,6 @@
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-27"
-  },
-  "https://life.tw/article/%E6%A1%83%E5%9C%92%E5%95%86%E6%A5%AD%E8%BD%89%E5%9E%8B%E4%B8%AD%E5%BF%83%E4%B8%89%E5%B9%B4%E6%9C%89%E6%88%90-%E8%98%87%E4%BF%8A%E8%B3%93%E7%9B%BC%E5%95%86%E5%9C%88%E9%81%8B%E7%94%A8%E7%A7%91%E6%8A%80%E5%89%B5%E6%96%B0%E5%BC%B7%E5%8C%96%E7%AB%B6%E7%88%AD%E5%8A%9B-3216266": {
-   "decision": "kept",
-   "item": "20261112-taoyuan-biz-transform",
-   "at": "2026-11-13"
   },
   "https://life.tw/article/%E6%A1%83%E5%B8%82%E5%95%86%E6%A5%AD%E8%BD%89%E5%9E%8B%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E6%9A%A8%E6%A1%83%E9%87%91%E5%A5%BD%E7%A6%AE%E5%A5%BD%E5%BA%97%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E6%9C%83-%E5%8A%A9%E5%8A%9B%E5%95%86%E5%9C%88%E8%BD%89%E5%9E%8B%E5%8D%87-3217776": {
    "decision": "kept",
@@ -102,11 +87,6 @@
    "item": "20261125-itri-smart-golf",
    "at": "2026-11-26"
   },
-  "https://money.udn.com/money/story/11799/9875161": {
-   "decision": "kept",
-   "item": "20261112-taoyuan-biz-transform",
-   "at": "2026-11-13"
-  },
   "https://money.udn.com/money/story/12622/9889662": {
    "decision": "hidden",
    "reason": "選舉",
@@ -121,11 +101,6 @@
    "decision": "kept",
    "item": "20261124-taipei-smokefree-districts",
    "at": "2026-11-25"
-  },
-  "https://money.udn.com/money/story/5636/9877059": {
-   "decision": "hidden",
-   "reason": "業配遊記",
-   "at": "2026-11-13"
   },
   "https://money.udn.com/money/story/5930/9877486": {
    "decision": "hidden",
@@ -147,25 +122,10 @@
    "item": "20261110-kaohsiung-xmas-fest",
    "at": "2026-11-14"
   },
-  "https://n.yam.com/Article/20261111637518": {
-   "decision": "kept",
-   "item": "20261110-moea-excellent-district-award",
-   "at": "2026-11-13"
-  },
-  "https://n.yam.com/Article/20261112283891": {
-   "decision": "kept",
-   "item": "20261110-moea-excellent-district-award",
-   "at": "2026-11-13"
-  },
   "https://n.yam.com/Article/20261112814969": {
    "decision": "kept",
    "item": "20261112-gimme-xinyi",
    "at": "2026-11-17"
-  },
-  "https://n.yam.com/Article/20261112971220": {
-   "decision": "kept",
-   "item": "20261112-taoyuan-biz-transform",
-   "at": "2026-11-13"
   },
   "https://n.yam.com/Article/20261116165221": {
    "decision": "hidden",
@@ -192,10 +152,20 @@
    "item": "20261123-district-carnival-beitou",
    "at": "2026-11-25"
   },
+  "https://n.yam.com/Article/20261123270892": {
+   "decision": "kept",
+   "item": "20261123-district-carnival-beitou",
+   "at": "2026-11-28"
+  },
   "https://n.yam.com/Article/20261125848208": {
    "decision": "hidden",
    "reason": "業配遊記",
    "at": "2026-11-26"
+  },
+  "https://n.yam.com/Article/20261126763894": {
+   "decision": "hidden",
+   "reason": "業配遊記",
+   "at": "2026-11-28"
   },
   "https://new-reporter.com/news/334608/": {
    "decision": "kept",
@@ -237,11 +207,6 @@
    "reason": "非商圈",
    "at": "2026-11-22"
   },
-  "https://news.ltn.com.tw/news/life/breakingnews/5638912": {
-   "decision": "kept",
-   "item": "20261112-chiayi-chongwen-parking",
-   "at": "2026-11-13"
-  },
   "https://news.ltn.com.tw/news/life/breakingnews/5646078": {
    "decision": "hidden",
    "reason": "非商圈",
@@ -261,11 +226,6 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-26"
-  },
-  "https://news.ltn.com.tw/news/society/breakingnews/5639189": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-13"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5652422": {
    "decision": "hidden",
@@ -291,11 +251,6 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-19"
-  },
-  "https://news.tvbs.com.tw/videos/d1o9D3wtqU4": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-13"
   },
   "https://news.tycg.gov.tw/News_Content.aspx?n=5016&s=1972603": {
    "decision": "kept",
@@ -357,16 +312,6 @@
    "reason": "業配遊記",
    "at": "2026-11-20"
   },
-  "https://truemii.chinatimes.com/content/20261113000005-265001": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-13"
-  },
-  "https://turnnewsapp.com/love-tw/422315.html": {
-   "decision": "kept",
-   "item": "20261112-banxin-mrt-tod",
-   "at": "2026-11-13"
-  },
   "https://tw.news.yahoo.com/%E4%BB%96%E7%99%BC%E6%96%87%E6%80%A8-%E7%AB%B9%E5%8C%97%E9%83%BD%E6%B2%92%E7%99%BC%E5%B1%95%E5%95%86%E5%9C%88-%E7%B6%B2%E6%9B%9D-1%E6%AE%98%E9%85%B7%E7%9C%9F%E7%9B%B8-142220908.html": {
    "decision": "hidden",
    "reason": "非商圈",
@@ -411,11 +356,6 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-17"
-  },
-  "https://udn.com/news/amp/story/7241/9874375": {
-   "decision": "kept",
-   "item": "20261112-gimme-xinyi",
-   "at": "2026-11-13"
   },
   "https://udn.com/news/amp/story/7270/9890620": {
    "decision": "kept",
@@ -467,30 +407,15 @@
    "item": "20261124-taipei-smokefree-districts",
    "at": "2026-11-25"
   },
-  "https://www.chinatimes.com/newspapers/20261113000682-260107": {
-   "decision": "kept",
-   "item": "20261112-taoyuan-biz-transform",
-   "at": "2026-11-13"
-  },
   "https://www.chinatimes.com/newspapers/20261116000499-260118": {
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-16"
   },
-  "https://www.chinatimes.com/realtimenews/20261113002494-260402": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-13"
-  },
   "https://www.chinatimes.com/realtimenews/20261115002173-260407": {
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-16"
-  },
-  "https://www.cmoney.tw/forum/article/188604540": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-13"
   },
   "https://www.cmoney.tw/forum/article/188733206": {
    "decision": "hidden",
@@ -537,16 +462,6 @@
    "reason": "治安車禍",
    "at": "2026-11-15"
   },
-  "https://www.ettoday.net/news/20261112/3271243.htm": {
-   "decision": "hidden",
-   "reason": "選舉",
-   "at": "2026-11-13"
-  },
-  "https://www.ettoday.net/news/20261113/3271482.htm": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-13"
-  },
   "https://www.fclnews.com/239140/": {
    "decision": "kept",
    "item": "20261122-excellence-award",
@@ -582,16 +497,6 @@
    "reason": "選舉",
    "at": "2026-11-16"
   },
-  "https://www.mirrormedia.mg/external/amp/setn_1938259": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-13"
-  },
-  "https://www.mirrormedia.mg/external/setn_1938259": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-13"
-  },
   "https://www.msn.com/zh-tw/health/mindandbody/%E8%94%A3%E8%90%AC%E5%AE%89%E7%84%A1%E8%8F%B8%E5%9F%8E%E5%B8%82%E6%88%90%E6%95%88%E6%9B%9D-3%E5%A4%A7%E5%95%86%E5%9C%88%E6%BB%BF%E6%84%8F%E5%BA%A6%E9%A3%869%E6%88%90/ar-AA2i7vLC": {
    "decision": "kept",
    "item": "20261124-taipei-smokefree-districts",
@@ -602,11 +507,6 @@
    "item": "20261113-zhongyuan-mickey-steak",
    "at": "2026-11-14"
   },
-  "https://www.msn.com/zh-tw/news/national/%E6%8E%92%E9%9A%8A%E7%88%86%E8%82%A2%E9%AB%94%E8%A1%9D%E7%AA%81-%E5%AE%9C%E8%98%AD%E5%95%86%E5%9C%88%E6%BB%B7%E5%91%B3%E6%94%A4%E5%89%8D%E5%A4%A7%E4%BA%82%E9%AC%A5-%E7%94%B7%E9%81%AD%E7%95%B6%E8%A1%97%E5%9C%8D%E6%AF%86-1%E9%80%9A%E7%B7%9D%E7%8A%AF%E5%9C%A8%E9%80%83/ar-AA2hkzrH": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-13"
-  },
   "https://www.msn.com/zh-tw/news/national/%E9%AB%98%E9%9B%84%E8%81%96%E8%AA%95%E7%94%9F%E6%B4%BB%E7%AF%80-13%E6%97%A5%E7%99%BB%E5%A0%B4-%E5%B8%82%E9%9B%86-%E9%9F%B3%E6%A8%82%E9%BB%9E%E4%BA%AE%E5%95%86%E5%9C%88/ar-AA2h7abz": {
    "decision": "kept",
    "item": "20261110-kaohsiung-xmas-fest",
@@ -616,11 +516,6 @@
    "decision": "hidden",
    "reason": "治安車禍",
    "at": "2026-11-24"
-  },
-  "https://www.msn.com/zh-tw/news/other/%E6%8E%92%E9%9A%8A%E7%88%86%E8%82%A2%E9%AB%94%E8%A1%9D%E7%AA%81-%E5%AE%9C%E8%98%AD%E5%95%86%E5%9C%88%E6%BB%B7%E5%91%B3%E6%94%A4%E5%89%8D%E5%A4%A7%E4%BA%82%E9%AC%A5-%E7%94%B7%E9%81%AD%E7%95%B6%E8%A1%97%E5%9C%8D%E6%AF%86-1%E9%80%9A%E7%B7%9D%E7%8A%AF%E5%9C%A8%E9%80%83/ar-AA2hkzrH": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-13"
   },
   "https://www.msn.com/zh-tw/news/other/%E7%8D%A8-%E4%B8%80%E4%B8%AD%E5%95%86%E5%9C%88%E5%87%BA%E7%8F%BE-%E7%A2%B0%E7%93%B7%E5%B9%AB-%E5%AD%B8%E7%94%9F%E9%81%87%E7%94%B7%E5%AD%90%E7%B4%A2%E8%B3%A0%E4%B8%8A%E5%8D%83%E5%85%83/ar-AA2i5Wos": {
    "decision": "hidden",
@@ -681,11 +576,6 @@
    "decision": "hidden",
    "reason": "選舉",
    "at": "2026-11-16"
-  },
-  "https://www.setn.com/news/1938259": {
-   "decision": "hidden",
-   "reason": "治安車禍",
-   "at": "2026-11-13"
   },
   "https://www.sjtv.com.tw/articles/126623": {
    "decision": "kept",
