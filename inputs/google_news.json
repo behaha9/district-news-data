@@ -1,23 +1,90 @@
 {
- "fetched_at": "2026-11-27T20:50:53+08:00",
+ "fetched_at": "2026-11-28T07:17:37+08:00",
  "stats": {
-  "queries": 4,
-  "query_errors": [
-   "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業: 429"
-  ],
-  "raw": 68,
-  "kept": 24,
-  "resolved": 24,
-  "items": 22,
+  "queries": 5,
+  "query_errors": [],
+  "raw": 89,
+  "kept": 30,
+  "resolved": 30,
+  "items": 29,
   "resolve_this_run": {
-   "online": 2
+   "online": 11
   },
   "dropped_old": [
-   "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）",
-   "快訊／彰化永樂商圈民宅大火！頂加燒成火球…屋主兒受困火場慘死（原文日期 2026-07-19）"
+   "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）"
   ]
  },
  "items": [
+  {
+   "title": "太麻里商圈｜全台商圈｜旅遊｜口碑聲量排行",
+   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oM202ZWs0Y3dmc3ZjUGs4LUhxNUhMT3JDaEF3MHFxaFZ2U1R0TlBqbk51M0hrY1RueVVJX3B2Q3lHWS1qMGM1d2Q5Mkx2RGc?oc=5",
+   "source": "網路溫度計 DailyView",
+   "source_site": "https://dailyview.tw",
+   "published_at": "2026-11-28T06:23+08:00",
+   "query": "商圈",
+   "url": "https://dailyview.tw/top100/item/27923",
+   "resolved": true
+  },
+  {
+   "title": "台日商圈深化交流開啟新篇章- 產業特刊- 工商時報",
+   "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pYVpmdnNCOGhnZUpjZVRlVE5qZjJZamEzbWFFb0dKdG9QeEI5OEZVMVdaOTQtUWRUNi1zWWotQlFrYzYwOVhhNWNIdzcxaW1HRXIwQnkxN1ZmaG5kak5NbVEtSFExSE16ZFdj?oc=5",
+   "source": "中時新聞網",
+   "source_site": "https://www.chinatimes.com",
+   "published_at": "2026-11-28T04:10+08:00",
+   "query": "商圈",
+   "url": "https://www.chinatimes.com/newspapers/20261128000215-260210",
+   "resolved": true
+  },
+  {
+   "title": "台中太平商圈性價比高| 區域觀測站",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGSTk1RXIwMHJaUVMzVFhIdW8xMFloamRHUm1JZlUzY0xXMnBoLTNDSC1vOWZMXzM5VWRzZmt2UGwzRTJDX25UWV9YLW5GNFctandSZlZFd00yRTYt?oc=5",
+   "source": "udn房地產",
+   "source_site": "https://house.udn.com",
+   "published_at": "2026-11-28T02:05+08:00",
+   "query": "商圈",
+   "url": "https://house.udn.com/house/story/123590/9906704",
+   "resolved": true
+  },
+  {
+   "title": "箭鎮百年老街散步：從白金漢街走進紐西蘭淘金時代",
+   "google_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FNkFqa3gtZTRMMmN1M1NBUFI4WGcwcjRGMkZ5OVJNWlNROV9zNjBtbFVBY01Pa1NZNmhKNjVwR2lNNjEzZHBN?oc=5",
+   "source": "輕旅行",
+   "source_site": "https://travel.yam.com",
+   "published_at": "2026-11-28T01:25+08:00",
+   "query": "老街",
+   "url": "https://travel.yam.com/post/2436",
+   "resolved": true
+  },
+  {
+   "title": "箭鎮不只有老街！從英式木屋走進華人礦工的淘金歲月",
+   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRcTlROFBCRG1TemhBaFdJX2czNnlwN09aVDNrWDRvaEVHVVZuWmMtNHpfT05TeEhCZm50eldsYWROUUNocXR4djR2SDNLV0tQQWJXZUlLdDZINDda0gFiQVVfeXFMT2hkTWtGYkdyX0pRMHNqcV9iVjk4czlZYXlRRWJLNUlzWHBkdWhTRFo4SWxwYllJd0JUcHZ2cnk4Y3B5a2RrYUlfZFdwdHU2UG9LZ016SmlUaEVsb1N4S1BEYnc?oc=5",
+   "source": "udn 女子漾",
+   "source_site": "https://woman.udn.com",
+   "published_at": "2026-11-27T22:28+08:00",
+   "query": "老街",
+   "url": "https://woman.udn.com/woman/story/123162/9906664",
+   "resolved": true
+  },
+  {
+   "title": "全台最早燈會開跑！老街萬顆「彩繪燈籠海」點燈，周邊小吃、免費景點一次看",
+   "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RUW5mNnB1TXhSRU9uVGdSbU1qa1VVOENDN2VldWZkbWNQQlJqdHhRNHJVVHFOZWtjTFZGYVJoVnd5R0RJaHo0cTJrR2FnUFF4dU1nbGFmYw?oc=5",
+   "source": "食尚玩家",
+   "source_site": "https://supertaste.tvbs.com.tw",
+   "published_at": "2026-11-27T19:00+08:00",
+   "query": "老街",
+   "url": "https://supertaste.tvbs.com.tw/travel/362675",
+   "resolved": true
+  },
+  {
+   "title": "楷書換黑體、中文變英文 第二市場新招牌被批「太粗暴」？",
+   "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONHdIOC1BUGVpQ0Exc2lqVzd1czNzaURZM0xfbVd5U0R2alBjZ0FkdElrRXRqQlBaeXBRZXJUTV9jU1UzeEtocml6dWxXa3pjWTR1bmhCR2dyR29oWHJ0TlI3dXhRT29nY19ZWnBsRGM2UUMzR0pHLV9EaVBqdlpoU1VLWHlNWVVyeDdMTXk5dw?oc=5",
+   "source": "富比士地產王",
+   "source_site": "https://www.fbs168.com",
+   "published_at": "2026-11-27T18:23+08:00",
+   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
+   "url": "https://www.fbs168.com/news/11379-secondary-market-rebranding-criticized-as-too-abrupt",
+   "resolved": true
+  },
   {
    "title": "永慶房屋：沿線9站漲逾5成！青埔漲幅突出 老街溪仍見2字頭",
    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hQzU1OWV2bjI5NHB1M2p0SncyZ041Z0lsVEdETjRxUDBzZFpKemlETDNGd0FsbDVyNkdINnpKblVFRFdJdGxwaHBKZGMwWnJ4Vm43LUlWVmcyQQ?oc=5",
@@ -39,13 +106,13 @@
    "resolved": true
   },
   {
-   "title": "三井重押高雄！6.2萬坪LaLaport明年3月開幕 263店引爆商圈大洗牌",
-   "google_url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE90WWxhQmtRQmltYjhkTTRrVTZWTDZBSnZweWFoeDJEbUstdzR4a1dOSDVpNGh0cXZxd0JEODNn?oc=5",
-   "source": "3kingtw.com",
-   "source_site": "https://3kingtw.com",
-   "published_at": "2026-11-27T14:46+08:00",
+   "title": "討論牆 | 臺北無菸城市三大禁菸商圈 北市衛生局：支持度逾9成5、滿意度逾9成",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QU24ybDFFcVFkMkFNbjVJQ2I4bmhVZV92NzFpS21acmZzaF83SW54VUVoV2FJU1pEdWNfN1g4ZmdSQnZTbUtQVjAzM0ZFUTdLMHVvTG1LdTFleUs2YTVFdG1WWk0?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-27T13:05+08:00",
    "query": "商圈",
-   "url": "https://3kingtw.com/5108/",
+   "url": "https://today.line.me/tw/v3/posts/list/article/gzp0L7g",
    "resolved": true
   },
   {
@@ -56,6 +123,36 @@
    "published_at": "2026-11-27T13:04+08:00",
    "query": "老街",
    "url": "https://today.line.me/tw/v3/posts/list/article/8nLPOmR",
+   "resolved": true
+  },
+  {
+   "title": "討論牆 | 一中商圈臭豆腐店老鼠出沒! 食安處要派人稽查",
+   "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80SFhHaEpIcDZmSFdEX0MyNzhqU19tUy1HLWlHLXFNOEphNnlROXJQM09HRDBqRmtZVkxTM1Q2aW5kQUtVZDdYamNvbW9LMU9UOUgwYmRGWFc5SFVsNVIwa25ORDZHRWNjM2RwQ2d1V1lYTGJMVE5Ccg?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-27T11:17+08:00",
+   "query": "商圈",
+   "url": "https://today.line.me/tw/v3/posts/list/article/Za682Xg?utm_source=amp",
+   "resolved": true
+  },
+  {
+   "title": "復古美學新風貌！學甲市場15面特色招牌亮麗登場",
+   "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SNl9IT2w0eGxPMXVuRkhmbW9qX1J4Q3U4SlpkZW1SQnoxd1J4b1UwVWdSTE5ZV3l5NUxkVlhSQVFaX2hOdkJCUUJGZmZfUkk3QnZsVkxRZGpNNUFYVlh0OFFkU0djeno1cEl4S293?oc=5",
+   "source": "臺南市政府全球資訊網",
+   "source_site": "https://www.tainan.gov.tw",
+   "published_at": "2026-11-27T07:06+08:00",
+   "query": "商圈 淹水 OR 積水 OR 停電 OR 受損 OR 招牌 OR 停業",
+   "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848474",
+   "resolved": true
+  },
+  {
+   "title": "討論牆 | 全國卓越商圈評選傳捷報！雲林虎尾、斗南兩商圈雙雙獲獎",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4UEw2V2R6Si1YMTd6R1oxb2R0M3B3NlZacU5wOTNVTkcxeTFaRXZicjRIS1JmSjdXNkhfek1mNHlLdTRSc2Rma3F6TFhTVzdTbk5MMmdXekFTV2JmOXlIREJ5UGQ?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-27T01:14+08:00",
+   "query": "商圈",
+   "url": "https://today.line.me/tw/v3/posts/list/article/MLGLrRy",
    "resolved": true
   },
   {
@@ -76,6 +173,16 @@
    "published_at": "2026-11-26T22:22+08:00",
    "query": "老街",
    "url": "https://www.weekendhk.com/%E7%9F%9A%E7%9B%AE%E8%A9%B1%E9%A1%8C/%E4%BA%9E%E7%9A%86%E8%80%81%E8%A1%97175%E8%99%9F%E9%99%84%E8%BF%91%E7%88%AD%E5%9F%B7-%E6%B3%B0%E7%B1%8D%E7%94%B7%E5%AD%90%E6%B6%89%E6%8C%81%E5%88%80%E6%8C%87%E5%9A%87%E5%A5%B3%E5%AD%90%E8%A2%AB-3550776/",
+   "resolved": true
+  },
+  {
+   "title": "討論牆 | 【台北商圈交鋒】市民大道該不該縫合？ 專家指「陰陽面」亟需接軌",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MVy1vdV9vV0FxT1lMME13WHhtSjh3bDZCcmtRVFRDdWxya2p0V3B0QkZXYU1Mb082eEctcm91cTlyS042VmxrVnBHZEhBSXhjLVp2MXQxcElXM21aYmhoSjRiNG8?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-26T19:39+08:00",
+   "query": "商圈",
+   "url": "https://today.line.me/tw/v3/posts/list/article/WBOajGQ",
    "resolved": true
   },
   {
@@ -129,16 +236,6 @@
    "resolved": true
   },
   {
-   "title": "​珠光集團攜手中國移動 打造首個雙萬兆商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPY3dWZjdLMTV3UmdpTGhCUVlPaGpJR09WcHgtNlBXOVlSS1pmSU43NTliTWw5OWY0aHRSQmVkMEFLcURialNBcy1HNkZLUWRhcHZoVWRQQVRkdm5IY2RReg?oc=5",
-   "source": "濠江日報",
-   "source_site": "https://www.houkongdailynews.com",
-   "published_at": "2026-11-26T16:12+08:00",
-   "query": "商圈",
-   "url": "https://www.houkongdailynews.com/instantNews/161947",
-   "resolved": true
-  },
-  {
    "title": "「116年度商圈環境與友善服務設施改善計畫」，請符合資格之商圈組織踴躍提出申請。",
    "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX29qeUJOUmRBSEJfNDFoUE1aeklINENDWHRlVzR6WjhVWnhtcmpFWnZUZ1g1NFJTM1RPYm9zcUNNS2FTQTFiMGZUZ0dSNVVKT2Y4alpab0JUM2owX3ZSS0N4bjJDRE95dmJoY1h2dm9TczhmOHBsQlBCRXcxREFyMGNn?oc=5",
    "source": "臺南市政府全球資訊網",
@@ -179,6 +276,16 @@
    "resolved": true
   },
   {
+   "title": "【台北商圈交鋒】市民大道該不該縫合？ 專家指「陰陽面」亟需接軌 | 上報",
+   "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ybE5kejJ0dE4ydjlJaTBNd1k4bnhCbWhrTDJRV08xYjU0bml6ZnpUM3N0S3pULVlqLWRqVDJDc2tfeFJlSUZRS1NkcDRCdHB1VXUxaTR3?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-26T10:10+08:00",
+   "query": "商圈",
+   "url": "https://today.line.me/tw/v3/article/WBOajGQ",
+   "resolved": true
+  },
+  {
    "title": "喵喵喵，貓咪去哪裡？──吳欣芷的書店小貓與老街上的貓",
    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83UVlzNi1XUm5xdUhaZ1dkZVc1X2htODNUdXZreEwtMmNxanhMbTh2cUt6YTFXd3lSNERXWDlReUdpVzc1aHZfZU1vbTV2QVU0VWpTV0daZ3RpejlmbHc4?oc=5",
    "source": "典藏ARTouch.com",
@@ -196,46 +303,6 @@
    "published_at": "2026-11-26T08:00+08:00",
    "query": "商圈",
    "url": "https://n.yam.com/Article/20261126763894",
-   "resolved": true
-  },
-  {
-   "title": "陳俊諺推板橋商圈活化 改善通學路",
-   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HRzVZNmtyNTVIZkdTOUxiUmt6Q3NGY1doUjZXdkRFaUFrbG9HeE1GVDZRc2c5TFdlWjlnajlTd3ZTYlJFZUFZcF9PVFkyaUJqOFoxUkhQSXRmR2tmdXkyS9IBZkFVX3lxTE1XVS1tOG1EQlNGM0U1M2V5OFpWWTAzbjhTWHozdU5kYVgyUDNZYTMwdjBPWHpQbU1MaDJRSU9kcWVZNVRzSDRzS0ZMa2EzQklfQ0N4cGNfb3kwR2NJbHdJNHZXLXIwdw?oc=5",
-   "source": "自由時報",
-   "source_site": "https://news.ltn.com.tw",
-   "published_at": "2026-11-26T05:30+08:00",
-   "query": "商圈",
-   "url": "https://news.ltn.com.tw/news/politics/paper/1779972",
-   "resolved": true
-  },
-  {
-   "title": "【台北商圈交鋒】市民大道該不該縫合？ 專家指「陰陽面」亟需接軌",
-   "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYZW9qX3VpWm5PTGVHVmp3RDhMdHBwQllPa2RCMEpvMl9kV0NhZkZyNVYwRzRkdjdfaXBOUHZOR1lFS09pLWhNa3h4a3BkOWo1a09YR3p4UzVBNHhRRnZjdFhWTEdaZDQySWE1Mw?oc=5",
-   "source": "上報Up Media",
-   "source_site": "https://www.upmedia.mg",
-   "published_at": "2026-11-25T22:01+08:00",
-   "query": "商圈",
-   "url": "https://www.upmedia.mg/tw/investigation/policy-debate/275349",
-   "resolved": true
-  },
-  {
-   "title": "工研院x資策會x喬思齊科技 AI智慧高球進駐商圈拓展運動科技商機",
-   "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TWGtqUEtaWEFad3Z1WW96UUpxWjlwVEwyb0lWT0VqWGdDQlY2QnVWd2Y2aXRvS3FfbmN5Y2dwX2JkMVJJdHd2cFdYZ0l0Qm52N3c?oc=5",
-   "source": "蕃新聞",
-   "source_site": "https://n.yam.com",
-   "published_at": "2026-11-25T21:50+08:00",
-   "query": "商圈",
-   "url": "https://n.yam.com/Article/20261125208672",
-   "resolved": true
-  },
-  {
-   "title": "討論牆 | 盼改善板橋通學路與老舊人行道 陳俊諺也推商圈活化政見",
-   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pQ1pERERtNjRCbkpqY09sbm1rWHg5MDdyai1MRzJtUTJETjJkbkJ1UmdHRm4xU2l1V3c0bHFwY3l1QkZsRTdnbjBBb0xvV3ZhSWs5bTV3d01KSUtVR09PVXN2Qkg?oc=5",
-   "source": "LINE TODAY",
-   "source_site": "https://today.line.me",
-   "published_at": "2026-11-25T20:57+08:00",
-   "query": "商圈",
-   "url": "https://today.line.me/tw/v3/posts/list/article/EXWgMPR",
    "resolved": true
   }
  ]
