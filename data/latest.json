@@ -1,7 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T12:22:56+08:00",
+ "generated_at": "2026-11-27T16:56:53+08:00",
  "items": [
+  {
+   "id": "20261127-ipassmoney-kaohsiung-voucher",
+   "title": "一卡通協助高雄發放數位券，5天發出4萬張引導人潮至商圈",
+   "summary": "報導指一卡通 iPASS MONEY 配合大型演唱會協助高市府發放數位券，引導人流至周邊商圈消費，5天發出4萬張。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-27T16:19:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "自由時報",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5655443",
+     "published_at": "2026-11-27T16:19:00+08:00"
+    }
+   ],
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/27/5655443_1.jpg"
+  },
+  {
+   "id": "20261127-lalaport-kaohsiung",
+   "title": "三井 LaLaport 高雄預定2027年3月開幕，報導指將牽動商圈版圖",
+   "summary": "台灣三井不動產宣布南臺灣首座 LaLaport 預定2027年3月4日開幕，規模約6.2萬坪、263店，報導指將引發商圈洗牌。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-27T14:46:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "鑫台灣財經網",
+     "url": "https://3kingtw.com/5108/",
+     "published_at": "2026-11-27T14:46:00+08:00"
+    }
+   ],
+   "image": "https://3kingtw.com/wp-content/uploads/2026/11/649213c65e9a397.webp"
+  },
   {
    "id": "20261126-yunlin-excellence-award",
    "title": "雲林虎尾魅力商圈、斗南青創商圈獲全國卓越商圈評選肯定",
@@ -2330,26 +2370,6 @@
     }
    ],
    "image": "https://imgs.tsna.com/article/2026N1794564892_0ebfabccfc224dd581256f92f2a49016.jpg"
-  },
-  {
-   "id": "20261113-lukang-transfer-station",
-   "title": "鹿港轉運站落成，縣府指有助緩解老街一帶塞車",
-   "summary": "彰化縣政府13日舉辦鹿港轉運站落成典禮，報導指鹿港年吸引逾2484萬旅遊人次，轉運站可望紓解老街塞車問題。",
-   "category": "營運與政策",
-   "alert": null,
-   "published_at": "2026-11-13T12:59:00+08:00",
-   "cities": [
-    "彰化縣"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5639484",
-     "published_at": "2026-11-13T12:59:00+08:00"
-    }
-   ],
-   "image": "https://img.ltn.com.tw/Upload/news/600/2026/11/13/5639484_1_1.jpg"
   }
  ],
  "discussions": []
