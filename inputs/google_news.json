@@ -1,17 +1,61 @@
 {
- "fetched_at": "2026-11-27T11:41:00+08:00",
+ "fetched_at": "2026-11-27T16:50:31+08:00",
  "stats": {
   "queries": 5,
   "query_errors": [],
-  "raw": 95,
-  "kept": 29,
-  "resolved": 29,
+  "raw": 106,
+  "kept": 31,
+  "resolved": 31,
   "items": 29,
   "resolve_this_run": {
-   "online": 1
-  }
+   "online": 8
+  },
+  "dropped_old": [
+   "8月新制上路！中山、迪化街商圈「做1事」最高罰1萬　一圖看懂禁止區（原文日期 2026-08-01）",
+   "快訊／彰化永樂商圈民宅大火！頂加燒成火球…屋主兒受困火場慘死（原文日期 2026-07-19）"
+  ]
  },
  "items": [
+  {
+   "title": "一卡通力助高雄商圈 iPASS MONEY APP5天發出４萬張數位券",
+   "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByaDlLRkJYUXhBeEJhUEFMaXZKRUN1ZWhueTJjU2RBS1dvRmg4bFFza3hZRnBXQXJTVGNRWWxnN3NDNDctaXFUTWJoMjc1NnlSM2xNOGZVUUY?oc=5",
+   "source": "自由時報",
+   "source_site": "https://stock.ltn.com.tw",
+   "published_at": "2026-11-27T16:19+08:00",
+   "query": "商圈",
+   "url": "https://stock.ltn.com.tw/article/1l7860txncze",
+   "resolved": true
+  },
+  {
+   "title": "機捷沿線9站房價漲逾五成！青埔漲幅突出老街溪仍有2字頭| 區域觀測站",
+   "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXVlhKdHVEX0paOHJtRDR5dGRnc29tSS1kTEdMdElFYVdGVnZSN09HdFRwa2JULWMtdG5IUlVKNEZRUWJSZTdFSnp3LXVNU3BPOEw0ZmFKT2p1UnlHeVE2d1VOOU4wb21zakJOQkJReTF5UzlxbThvRkd1RW5rVjg?oc=5",
+   "source": "udn房地產",
+   "source_site": "https://house.udn.com",
+   "published_at": "2026-11-27T15:59+08:00",
+   "query": "老街",
+   "url": "https://house.udn.com/house/story/123590/9906040?form=udn_ch2_common3_cate",
+   "resolved": true
+  },
+  {
+   "title": "三井重押高雄！6.2萬坪LaLaport明年3月開幕 263店引爆商圈大洗牌",
+   "google_url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE90WWxhQmtRQmltYjhkTTRrVTZWTDZBSnZweWFoeDJEbUstdzR4a1dOSDVpNGh0cXZxd0JEODNn?oc=5",
+   "source": "3kingtw.com",
+   "source_site": "https://3kingtw.com",
+   "published_at": "2026-11-27T14:46+08:00",
+   "query": "商圈",
+   "url": "https://3kingtw.com/5108/",
+   "resolved": true
+  },
+  {
+   "title": "討論牆 | 台中清水老街名店遭砸爛！老闆「還在備料」3醉男暴走 警噴辣椒水伺候",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xVUpDaG9lek9lbkZSVnlJVDAtNk5STUxRRUJUWVF1SEZ2RFhLWld1Nkt3NUEyV2FGdmJQcVJuYU5CNW9CUE9IUXFWOWRkTWFHdDN4d2h6NldXcDFuZDFFRFRZUUU?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-27T13:04+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/8nLPOmR",
+   "resolved": true
+  },
   {
    "title": "復古美學新風貌！學甲市場15面特色招牌亮麗登場",
    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SNl9IT2w0eGxPMXVuRkhmbW9qX1J4Q3U4SlpkZW1SQnoxd1J4b1UwVWdSTE5ZV3l5NUxkVlhSQVFaX2hOdkJCUUJGZmZfUkk3QnZsVkxRZGpNNUFYVlh0OFFkU0djeno1cEl4S293?oc=5",
@@ -103,6 +147,16 @@
    "resolved": true
   },
   {
+   "title": "​珠光集團攜手中國移動 打造首個雙萬兆商圈",
+   "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPY3dWZjdLMTV3UmdpTGhCUVlPaGpJR09WcHgtNlBXOVlSS1pmSU43NTliTWw5OWY0aHRSQmVkMEFLcURialNBcy1HNkZLUWRhcHZoVWRQQVRkdm5IY2RReg?oc=5",
+   "source": "濠江日報",
+   "source_site": "https://www.houkongdailynews.com",
+   "published_at": "2026-11-26T16:12+08:00",
+   "query": "商圈",
+   "url": "https://www.houkongdailynews.com/instantNews/161947",
+   "resolved": true
+  },
+  {
    "title": "「116年度商圈環境與友善服務設施改善計畫」，請符合資格之商圈組織踴躍提出申請。",
    "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX29qeUJOUmRBSEJfNDFoUE1aeklINENDWHRlVzR6WjhVWnhtcmpFWnZUZ1g1NFJTM1RPYm9zcUNNS2FTQTFiMGZUZ0dSNVVKT2Y4alpab0JUM2owX3ZSS0N4bjJDRE95dmJoY1h2dm9TczhmOHBsQlBCRXcxREFyMGNn?oc=5",
    "source": "臺南市政府全球資訊網",
@@ -153,16 +207,6 @@
    "resolved": true
   },
   {
-   "title": "工研院x資策會x喬思齊科技 AI智慧高球進駐商圈拓展運動科技商機",
-   "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wZnNVZ1lHWHF4VEo1NDQxQlFTd2tpV1JhRUsxOEdyNGdNeTFvOHozb0p3WVpsVVMwLWlZYVl4NUtNV3ZiczR4dFpnV0l5elk?oc=5",
-   "source": "天天上新聞",
-   "source_site": "https://mknews.com.tw",
-   "published_at": "2026-11-26T06:46+08:00",
-   "query": "商圈",
-   "url": "https://mknews.com.tw/2026/11/1024169/",
-   "resolved": true
-  },
-  {
    "title": "陳俊諺推板橋商圈活化 改善通學路",
    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HRzVZNmtyNTVIZkdTOUxiUmt6Q3NGY1doUjZXdkRFaUFrbG9HeE1GVDZRc2c5TFdlWjlnajlTd3ZTYlJFZUFZcF9PVFkyaUJqOFoxUkhQSXRmR2tmdXkyS9IBZkFVX3lxTE1XVS1tOG1EQlNGM0U1M2V5OFpWWTAzbjhTWHozdU5kYVgyUDNZYTMwdjBPWHpQbU1MaDJRSU9kcWVZNVRzSDRzS0ZMa2EzQklfQ0N4cGNfb3kwR2NJbHdJNHZXLXIwdw?oc=5",
    "source": "自由時報",
@@ -180,6 +224,16 @@
    "published_at": "2026-11-25T22:01+08:00",
    "query": "商圈",
    "url": "https://www.upmedia.mg/tw/investigation/policy-debate/275349",
+   "resolved": true
+  },
+  {
+   "title": "討論牆 | 盼改善板橋通學路與老舊人行道 陳俊諺也推商圈活化政見",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pQ1pERERtNjRCbkpqY09sbm1rWHg5MDdyai1MRzJtUTJETjJkbkJ1UmdHRm4xU2l1V3c0bHFwY3l1QkZsRTdnbjBBb0xvV3ZhSWs5bTV3d01KSUtVR09PVXN2Qkg?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-25T20:57+08:00",
+   "query": "商圈",
+   "url": "https://today.line.me/tw/v3/posts/list/article/EXWgMPR",
    "resolved": true
   },
   {
@@ -203,6 +257,36 @@
    "resolved": true
   },
   {
+   "title": "討論牆| 旗山秀明豬心冬粉、吉美麵包、鮮緹香蕉蛋捲、月亮香蕉、旗山常美冰店、【 興旺檸檬汁】旗山老街",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mRG5IcE51SHpxcVlNQ3hHRFlqVUpwUGJzeHhHTE9WRWtRQ0pXdDNITmtlYnBhNWpmLU00S0lzSWE2M1IzZkxMdUZEZ0c2NjFPTXYtVXZoQ1IzOFB3WVBYNWZacWk?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-25T18:58+08:00",
+   "query": "老街",
+   "url": "https://today.line.me/tw/v3/posts/list/article/zNmXg9j",
+   "resolved": true
+  },
+  {
+   "title": "工研院奪3項百大研發獎AI智慧高球進駐商圈- 最懂妳的女性風格誌",
+   "google_url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQSlVqTm4zWW43ZzlBbE93SXlfSC02ZkVrWVJ5V2ZwZ2t0ODRfNUIxN1NZWWRpR2JSVVJTZ0hvcEZLNlVLdFpubVRnb2pBQlVxQVRTU1h1VUNNLTlGYl9jUXRDWlYtMUZCOG9iTHBZTXZReG1RZGU4YVJQVTVzdGFST2Y3bzBuRENYMDYtektkTE9KNng5aHQwZFhhdEhrYjk5N1RKeTZPMkZjX1A0YXlQaFZ1Qi12b2ZuQUViZlZtREFMcFNWQnBUSHVUSnp0NDFJX29SaDhaSGszZ2lmam5ZY0FHWEZxaEl4UlpOZ1lVZkp4S2ZVYXMxcHd6d0tOQ2h1bnBGdjZYOUNDV2pCN0NvR01jckJVMFd6SXFwMHlIOUFiUnVVdHhfdnBNYkY5a0pCY1E?oc=5",
+   "source": "www.twjinmedia.com",
+   "source_site": "https://www.twjinmedia.com",
+   "published_at": "2026-11-25T18:49+08:00",
+   "query": "商圈",
+   "url": "https://www.twjinmedia.com/uncategorized/%E5%B7%A5%E7%A0%94%E9%99%A2%E5%A5%AA3%E9%A0%85%E7%99%BE%E5%A4%A7%E7%A0%94%E7%99%BC%E7%8D%8E-ai%E6%99%BA%E6%85%A7%E9%AB%98%E7%90%83%E9%80%B2%E9%A7%90%E5%95%86%E5%9C%88/",
+   "resolved": true
+  },
+  {
+   "title": "工研院攜手資策會、喬思齊科技讓AI智慧高球進駐商圈- 產業",
+   "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xcGNUbElkNDJXRkFqeEJ4bTZDTVc2Y21Uc3NwYVlUMkotMDZtcGg4U214QXM3RVVyYlRab1hOZXpNRlFUQVQ1RXNWemdHOENqM0p5aFBGVTRNWnVvckpZ?oc=5",
+   "source": "工商時報",
+   "source_site": "https://www.ctee.com.tw",
+   "published_at": "2026-11-25T18:11+08:00",
+   "query": "商圈",
+   "url": "https://www.ctee.com.tw/news/20261125701892-430502",
+   "resolved": true
+  },
+  {
    "title": "一年租金2億！H＆M告別西門町揭開快時尚與黃金商圈的生意經- 房市",
    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RHJrdUNLZ1Bta2NpXzFmSlkyVlpNdTdiNVpGb19EOGhRMFFjZ3RDRkY2azFzU0xoSlRKODkycnlCTjJteHkxMGpQbzluU2xYVW9Kclc2anUxZGlmaGtF?oc=5",
    "source": "工商時報",
@@ -213,93 +297,13 @@
    "resolved": true
   },
   {
-   "title": "工研院奪3項百大研發獎 AI智慧高球進駐商圈",
-   "google_url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQc21KZDh0bUpQNXFITzF3aWRhRUlibDdnSTdfcXE5NFBmQkFPdnV3YmVkSzhDc1Rfcm5vOFNnT3JKZWhmMnVNSkVmNks4VTBsQWh1ajFLN1EyZ3QyVEVmV2x4YWlxYW5scXp0MUNQUkJsRC1vV2QtdG5RX1B6amxIQzJucVhMcVNnaHc0bUNLNjl0YTVUV1FySld0Nk45MHdZaUpPYjNJX0NUb3d1SDl6Z0N2clRuaDhLVEN2cUlZYlpvYzdHNTRNX0E4alR3dlhVUGw1aEpwZzJ5YXRaM3Vuek80bkdwT2hKVkFWZU5Wd3JmRUNSV2xSNlBVUGtnVEJlbkVBV3lQcW9udGQxYzg3bmdhNzBLWkZzSENMQ2FWc1FmWWI2d2xXVEo4Z2d2ZEw1?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-25T16:44+08:00",
+   "title": "討論牆 | 台南國華街商圈驚傳氣爆！ 麻辣燙店「瓦斯操作不慎」竄火延燒",
+   "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kWE1lcEVLNXE1M3lkczBpU19xRUVzTHpIU3pmS0pjVWVSUnRzYUxCY2lkb2ZmWDZuNHVXZENmWEF5VjBlcHhVRndEZDRmejc4RmhxTnFlaVRBeVFhWHJjMkl6VG8?oc=5",
+   "source": "LINE TODAY",
+   "source_site": "https://today.line.me",
+   "published_at": "2026-11-25T16:59+08:00",
    "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E5%B7%A5%E7%A0%94%E9%99%A2%E5%A5%AA3%E9%A0%85%E7%99%BE%E5%A4%A7%E7%A0%94%E7%99%BC%E7%8D%8E-ai%E6%99%BA%E6%85%A7%E9%AB%98%E7%90%83%E9%80%B2%E9%A7%90%E5%95%86%E5%9C%88-084432743.html",
-   "resolved": true
-  },
-  {
-   "title": "台南國華商圈餐廳氣爆！店內桌椅噴飛無人傷亡疑瓦斯操作不慎釀禍| 社會",
-   "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaM2FPRnlMOUk2bzlIRlFKM0RFbjgyekFlak1MV2w2eGYxa0FfNUloN1QtQ01uRUxQZHI4NjkyNG1BS2cySnlLM3pzdHBfUnI3SXZvWl96OWdyOTg?oc=5",
-   "source": "Newtalk新聞",
-   "source_site": "https://newtalk.tw",
-   "published_at": "2026-11-25T16:01+08:00",
-   "query": "商圈",
-   "url": "https://newtalk.tw/news/view/2026-11-25/1073697",
-   "resolved": true
-  },
-  {
-   "title": "AI智慧高球進駐商圈！工研院攜手資策會、喬思齊科技 拓展運動科技商機",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TQWtjR0lKSGtaazZvOUhEdS0wUmVjaTdZaXJTMmVyZ0pfdHAyTVVOV2paVS14Y0JZS1dDSXZoOTNsSEtKV1REd0xEQUQzWHVY0gFWQVVfeXFMTldpci12S3VpcnE0ZVhLQk0wZENaS0FTZHBZS0pHT1lJendjeXBFeWFuQjRtZjVaU3ZiRjVuZUc2d0k2d3E2NEdjUEJ0dmNYbUE0WkVhc1E?oc=5",
-   "source": "UDN",
-   "source_site": "https://udn.com",
-   "published_at": "2026-11-25T15:43+08:00",
-   "query": "商圈",
-   "url": "https://udn.com/news/story/7240/9901375",
-   "resolved": true
-  },
-  {
-   "title": "台南國華街商圈麻辣燙店「瓦斯桶氣爆」 轟一聲烈焰狂燃",
-   "google_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNUll5WkpKc0dxMS1nTzhCSUduRWNpc3hHa2QwWEFac0lobWFwekNVUnpoSzVfaG5mX1FHTEpwVXJRekFGMGpvVnhNWEZsYUVYWlktczRqdVRGdEJ5WWxtTHpBRXI2ZVgtb25HcFUtSGx0TUlscjdQbXFRNGlRTWZQQXRnUDV0N0NXcUFxMmRwSnllTUhIR09FTUxUdkN6TEJwMkhYeV9JcDdkN2JVNEFnYThhcDFMZlp6dHJJRmpjTEtvZjJKZ21nVnlDaWljTjF3RWRLTWMtYVFkWjhWckp3MnFqMTZyVVlwQ1U2aVp4SFBadlhwWlMyQU9VNWJQYV9pcVByVzdxLU9Yd3UtR3JkUGxUWnFwNmxYMHdYa08tNG9BM1U1RVQxcmtCMmJTRTFPd045V1d3dGNDVG5JWEMtNzhpcDBZQWRFVFdSVXVpR210VWI5ZUNUaEhGQ21fS2M?oc=5",
-   "source": "Yahoo新聞",
-   "source_site": "https://tw.news.yahoo.com",
-   "published_at": "2026-11-25T15:02+08:00",
-   "query": "商圈",
-   "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%9C%8B%E8%8F%AF%E8%A1%97%E5%95%86%E5%9C%88%E9%BA%BB%E8%BE%A3%E7%87%99%E5%BA%97-%E7%93%A6%E6%96%AF%E6%A1%B6%E6%B0%A3%E7%88%86-%E8%BD%9F-%E8%81%B2%E7%83%88%E7%84%B0%E7%8B%82%E7%87%83-065046170.html",
-   "resolved": true
-  },
-  {
-   "title": "三峽、鶯歌老街輸了！台灣最強老街吸1995萬人，遊客讚古厝好拍美食多、 逛整天不膩",
-   "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UZDF2dXh0VEZmQjc1elZUSXR2ZDdELXZOVDVUUmN4alpQZlFPdTdFUV96RkpHWGVHUTFTb21na1pBam5VS0lTckNvVnJaMGwy?oc=5",
-   "source": "風傳媒",
-   "source_site": "https://www.storm.mg",
-   "published_at": "2026-11-25T15:00+08:00",
-   "query": "老街",
-   "url": "https://www.storm.mg/lifestyle/11184317",
-   "resolved": true
-  },
-  {
-   "title": "台南國華街商圈驚傳氣爆！ 麻辣燙店「瓦斯操作不慎」竄火延燒| 社會焦點",
-   "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PU2VZSnVSb3c3bGZsOWpUMWZIY3V2VjRiNWx5UnpCUXh6UXFDVVp4Z21UckpURjRJMER5RVZmLXBkdmJ1Z05DT3NJX2g5T0w1ZkZZVG9Zb0E4UnA4?oc=5",
-   "source": "太報 TaiSounds",
-   "source_site": "https://www.taisounds.com",
-   "published_at": "2026-11-25T14:36+08:00",
-   "query": "商圈",
-   "url": "https://www.taisounds.com/news/content/96/311755",
-   "resolved": true
-  },
-  {
-   "title": "快訊／鄰近國華街商圈！台南麻辣燙店氣爆　一片焦黑畫面曝",
-   "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14SWJ1bTV3RU01WHhmS3h4TFVsckljU3V3SkhDN0pEVVZtc1RoVUZWYlVLa01EdllrZWlINmtpRGJ0c3BfMEZfS2pIektfV202ZjNxTzQxQ1FHVDVMNXfSAUtBVV95cUxPR05tS1pybTVHdmVEcmRlOVJ0cmNidkxZT2FGQk5zN0w1Y1VwQXVnNml5cHlEWG1zeUp2aUN6WEZueGk3Umw5anlYSDQ?oc=5",
-   "source": "ETtoday新聞雲",
-   "source_site": "https://www.ettoday.net",
-   "published_at": "2026-11-25T14:16+08:00",
-   "query": "商圈",
-   "url": "https://www.ettoday.net/news/20261125/3278265.htm",
-   "resolved": true
-  },
-  {
-   "title": "福岡天神「新天町商店街」2027年春前結業！約100間店配合大型重建 聖誕點燈成現址絕響",
-   "google_url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPNWtub2pwUnVxV3R4bmpmd3pCOFhqa0lxV1NySnlrcWc2MmF6V1RvTFFlZW1sZUItUXZXWmJVREZtWk5sRVlCNUFwZGlINFlnN0w2Y29uZFMtdzF1UFpWSHQtRVlVM3I4UHNCdjY0Tmw0MjhDMWVNR05fOGMzNVY3ZTNQNkxzTDFzOVZxUGF5VmhSNERFQTZFZklRYi1JWExpRTF5Z0RzRTI3QjkwRzVtaWhtNm81UlVycFI4MDlObDFmUTd5eWhmdFh2cUppbDN0TTc5b1Zzb0JfVmlzY2lyaWJqUzhrTnJNb3JRNnhhdkZTcU5hZnVENENzMGVDNGZnd0l4cGVaQ2l1WmlZdGVvclI3eEVlSDA5MTVkT2ZtUzVKNkZ2MVFOcU5nN2xleHV3cGlSYU1PTGFERGk2N0xoRGRIY2xIeUEzTWh5am9VV3NEZVlUR19ZSW1icUtZTzhtRWpZUU5EelQwY2x3NWp6S29ZMUhLU1JZQjZuMXBuelgxd2FTNDFPbWVaVG1EWVRIdHBDNnViUW9sZjlNSGJTZVdNajhiMm1KRXJ4ZGJYc2hPbDNxdXdkU2FSSTdCbGd5RXlxd0dfOFVmRGFLVWJLOEdGQ3ZsRUpCTlE5VjNwN2lTU1hET1ktS2tn?oc=5",
-   "source": "U Travel",
-   "source_site": "https://utravel.com.hk",
-   "published_at": "2026-11-25T12:45+08:00",
-   "query": "商店街",
-   "url": "https://utravel.com.hk/news/detail/20120594/%E7%A6%8F%E5%B2%A1%E5%A4%A9%E7%A5%9E-%E6%96%B0%E5%A4%A9%E7%94%BA%E5%95%86%E5%BA%97%E8%A1%97-%E5%B9%B4%E6%98%A5%E5%89%8D%E7%B5%90%E6%A5%AD-%E7%B4%84-%E9%96%93%E5%BA%97%E9%85%8D%E5%90%88%E5%A4%A7%E5%9E%8B%E9%87%8D%E5%BB%BA-%E8%81%96%E8%AA%95%E9%BB%9E%E7%87%88%E6%88%90%E7%8F%BE%E5%9D%80%E7%B5%95%E9%9F%BF",
-   "resolved": true
-  },
-  {
-   "title": "一吃就上癮！大里老街隱藏版「蜂咖啡」 SGS 認證健康貝果搭配甘甜咖啡成最佳精神夥伴- 財經新聞",
-   "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMjNqd09yeTAzajAwTEdyR3lva21DMHpaRFU5a1pnRE5ZaFAwNmRZVmJuaGlxTXc2SHFRZENzNVVMRWNWRU1qRWpXOW1RWmphcGJIdmdrZDkzTUxER1V2RUZZTUp4VGNUTGlhOGVSZk1PT2E1TUU5QnpvQlplM2F0b0JyVF9HRnRIRW5QTQ?oc=5",
-   "source": "PChome Online 新聞",
-   "source_site": "https://news.pchome.com.tw",
-   "published_at": "2026-11-25T12:20+08:00",
-   "query": "老街",
-   "url": "https://news.pchome.com.tw/finance/sunmedia/20261125/index-79558040538423329003.html",
+   "url": "https://today.line.me/tw/v3/posts/list/article/x26XVYG",
    "resolved": true
   }
  ]
