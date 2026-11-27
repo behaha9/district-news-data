@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T16:56:53+08:00",
+ "generated_at": "2026-11-27T20:52:01+08:00",
  "items": [
   {
    "id": "20261127-ipassmoney-kaohsiung-voucher",
@@ -17,6 +17,11 @@
     {
      "outlet": "自由時報",
      "url": "https://ec.ltn.com.tw/article/breakingnews/5655443",
+     "published_at": "2026-11-27T16:19:00+08:00"
+    },
+    {
+     "outlet": "自由時報",
+     "url": "https://stock.ltn.com.tw/article/1l7860txncze",
      "published_at": "2026-11-27T16:19:00+08:00"
     }
    ],
@@ -156,6 +161,37 @@
     }
    ],
    "image": "https://images.chinatimes.com/newsphoto/2026-11-26/656/20261126003429.jpg"
+  },
+  {
+   "id": "20261125-huacheng-dazhi-mall",
+   "title": "華城電機接手原ATT大直商場，打造智慧商場「華城匯」進駐大直商圈",
+   "summary": "報導指華城電機斥資約8億至10億元改造原ATT大直商場，結合購物、餐飲與電動車展示，預計明年10月開幕。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-26T11:41:00+08:00",
+   "cities": [
+    "台北市"
+   ],
+   "districts": [
+    {
+     "name": "大直商圈",
+     "priority": true
+    }
+   ],
+   "sources": [
+    {
+     "outlet": "風傳媒",
+     "url": "https://www.storm.mg/lifestyle/11185123",
+     "published_at": "2026-11-26T11:41:00+08:00"
+    },
+    {
+     "outlet": "民視新聞（MSN）",
+     "url": "https://www.msn.com/zh-tw/news/other/%E5%85%85%E9%9B%BB%E6%A8%81%E9%9C%B8%E4%B8%BB%E6%8F%92%E6%97%97%E7%99%BE%E8%B2%A8-%E5%A4%A7%E7%9B%B4-%E8%8F%AF%E5%9F%8E%E5%8C%AF-%E6%98%8E%E5%B9%B410%E6%9C%88%E9%96%8B%E5%B9%95-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2ich6I",
+     "published_at": "2026-11-25T00:00:00+08:00"
+    }
+   ],
+   "admin_note": "大直商圈為115年補助名單，大型商場進駐可能影響商圈人潮與店家結構，可留意。",
+   "image": "https://images.storm.mg/cloud/c7d5dbc2e124d58b0a4c606836dfb346a971d549.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2085188%2F88hJ4OtgYgDkOzbKIITWDp9p6IJTs6sbYEBd23ip.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
   },
   {
    "id": "20261118-mrt-rent-dongqu",
@@ -2329,47 +2365,6 @@
     }
    ],
    "image": "https://ni.yam.com/20261113/image004-689340016eb64fed.webp"
-  },
-  {
-   "id": "20261112-rongcho-streetdance",
-   "title": "總統盃街舞大賽14日決賽，臺北榮町商圈23家店家推集點送禮",
-   "summary": "2026總統盃街舞大賽全國總決賽14日在凱道登場，臺北榮町商圈23家特色店家響應，民眾逛商圈集點可換好禮。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-13T18:20:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "榮町商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "榮町商圈為115年補助名單，報導指店家串聯賽事集點，可作為活動辦理與執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "TSNA體育新聞團隊",
-     "url": "https://tsna.com/article/205698",
-     "published_at": "2026-11-13T18:20:00+08:00"
-    },
-    {
-     "outlet": "LINE TODAY",
-     "url": "https://today.line.me/tw/v3/article/kEpVPVL",
-     "published_at": "2026-11-13T18:20:00+08:00"
-    },
-    {
-     "outlet": "Yahoo奇摩運動",
-     "url": "https://tw.sports.yahoo.com/news/%E7%B8%BD%E7%B5%B1%E7%9B%83%E8%A1%97%E8%88%9E%E5%A4%A7%E8%B3%BD11-14%E6%B1%BA%E6%88%B0%E5%87%B1%E9%81%93-%E4%B8%B2%E8%81%AF%E8%87%BA%E5%8C%97%E6%A6%AE%E7%94%BA%E5%95%86%E5%9C%88-%E9%9B%86%E9%BB%9E%E9%80%81%E7%A6%AE-300%E4%BB%BD%E5%A5%BD%E7%A6%AE%E7%AD%89%E4%BD%A0%E6%8B%BF-102047970.html",
-     "published_at": "2026-11-13T18:20:00+08:00"
-    },
-    {
-     "outlet": "民視新聞網",
-     "url": "https://www.ftvnews.com.tw/news/detail/2026B12W0675",
-     "published_at": "2026-11-12T17:51:00+08:00"
-    }
-   ],
-   "image": "https://imgs.tsna.com/article/2026N1794564892_0ebfabccfc224dd581256f92f2a49016.jpg"
   }
  ],
  "discussions": []

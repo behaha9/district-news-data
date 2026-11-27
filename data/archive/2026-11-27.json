@@ -391,6 +391,71 @@
    ],
    "discussions_added": 0,
    "discussions_updated": 0
+  },
+  {
+   "at": "2026-11-27T20:52:01+08:00",
+   "added": 1,
+   "merged": 1,
+   "items": [
+    {
+     "id": "20261127-ipassmoney-kaohsiung-voucher",
+     "title": "一卡通協助高雄發放數位券，5天發出4萬張引導人潮至商圈",
+     "summary": "報導指一卡通 iPASS MONEY 配合大型演唱會協助高市府發放數位券，引導人流至周邊商圈消費，5天發出4萬張。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-27T16:19:00+08:00",
+     "cities": [
+      "高雄市"
+     ],
+     "districts": [],
+     "sources": [
+      {
+       "outlet": "自由時報",
+       "url": "https://ec.ltn.com.tw/article/breakingnews/5655443",
+       "published_at": "2026-11-27T16:19:00+08:00"
+      },
+      {
+       "outlet": "自由時報",
+       "url": "https://stock.ltn.com.tw/article/1l7860txncze",
+       "published_at": "2026-11-27T16:19:00+08:00"
+      }
+     ],
+     "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/27/5655443_1.jpg"
+    },
+    {
+     "id": "20261125-huacheng-dazhi-mall",
+     "title": "華城電機接手原ATT大直商場，打造智慧商場「華城匯」進駐大直商圈",
+     "summary": "報導指華城電機斥資約8億至10億元改造原ATT大直商場，結合購物、餐飲與電動車展示，預計明年10月開幕。",
+     "category": "開店與消費",
+     "alert": null,
+     "published_at": "2026-11-26T11:41:00+08:00",
+     "cities": [
+      "台北市"
+     ],
+     "districts": [
+      {
+       "name": "大直商圈",
+       "priority": true
+      }
+     ],
+     "sources": [
+      {
+       "outlet": "風傳媒",
+       "url": "https://www.storm.mg/lifestyle/11185123",
+       "published_at": "2026-11-26T11:41:00+08:00"
+      },
+      {
+       "outlet": "民視新聞（MSN）",
+       "url": "https://www.msn.com/zh-tw/news/other/%E5%85%85%E9%9B%BB%E6%A8%81%E9%9C%B8%E4%B8%BB%E6%8F%92%E6%97%97%E7%99%BE%E8%B2%A8-%E5%A4%A7%E7%9B%B4-%E8%8F%AF%E5%9F%8E%E5%8C%AF-%E6%98%8E%E5%B9%B410%E6%9C%88%E9%96%8B%E5%B9%95-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E/vi-AA2ich6I",
+       "published_at": "2026-11-25T00:00:00+08:00"
+      }
+     ],
+     "admin_note": "大直商圈為115年補助名單，大型商場進駐可能影響商圈人潮與店家結構，可留意。",
+     "image": "https://images.storm.mg/cloud/c7d5dbc2e124d58b0a4c606836dfb346a971d549.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2085188%2F88hJ4OtgYgDkOzbKIITWDp9p6IJTs6sbYEBd23ip.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg"
+    }
+   ],
+   "discussions_added": 0,
+   "discussions_updated": 0
   }
  ]
 }
