@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T11:22:58+08:00",
+ "updated_at": "2026-11-28T16:08:56+08:00",
  "topics": [
   {
    "id": "cooking-oil",
@@ -8,6 +8,15 @@
    "until": "2026-12-31",
    "rules": "{\"also\": [{\"label\": \"價格動態\", \"query\": \"(食用油 OR 沙拉油 OR 大豆油 OR 油荒 OR 中聯油脂) (漲價 OR 調漲 OR 缺貨 OR 限購 OR 停工 OR 供應 OR 價格)\", \"require\": [[\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"油荒\", \"中聯油脂\"], [\"漲\", \"價格\", \"價錢\", \"缺貨\", \"搶購\", \"荒\", \"缺\", \"限購\", \"供應\", \"停工\", \"斷貨\", \"囤\", \"擴量\", \"進口\"]]}], \"exclude_words\": [\"國際\", \"美國\", \"美股\", \"歐盟\", \"中東\", \"期貨\", \"匯市\", \"基金\", \"股市\", \"港股\", \"石油\", \"汽油\", \"柴油\", \"中油\", \"台塑化\", \"峇里島\", \"印尼\", \"加油站\", \"瘦瘦針\", \"減肥\", \"醫師\", \"韓國\"], \"keywords\": [\"食用油\", \"沙拉油\", \"大豆油\", \"芥花油\", \"葵花油\", \"調和油\", \"橄欖油\", \"豬油\", \"炸油\", \"棕櫚油\", \"油品漲價\", \"油價漲\", \"油荒\", \"中聯油脂\", \"沙拉油荒\", \"食用油荒\"], \"merchant_words\": [\"店家\", \"攤商\", \"攤販\", \"小吃\", \"早餐\", \"炸物\", \"雞排\", \"鹹酥雞\", \"炸雞\", \"餐飲\", \"餐廳\", \"業者\", \"便當\", \"自助餐\", \"商家\", \"老闆\", \"麵包\", \"烘焙\", \"傳統市場\", \"菜市場\", \"商圈\"], \"since\": \"2026-10-17\"}",
    "items": [
+    {
+     "title": "自由說新聞》烏克蘭「地獄」狂攻直搗俄地下命脈 俄再鬧油荒掀民怨：實在誇張",
+     "kind": "價格動態",
+     "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PWEZ5ZUtOWkVGallidUk5WTB4RTR5Nll5cjRxSzU3NGROZGpzQU5yQjU3bDM2U29TXzdGSV82dTAxcVoxdTlZWHhDbHIwTlozS0tLck9XNi1fc0NnWjd5NUQ5Q1FTZ9IBa0FVX3lxTE5JUHdMUFlHRkM3Q2VJS2xkZkEzYmpiaDJQZUMyR3dnWmdqeTMyM2VuT3NvRlpsdGFvejBjRGtUb19ZV3N5SDQ4TzlLVHJNRXExSVh6SDBxWEYxbUFVN3VfM2did1c2b1pZTi1V?oc=5",
+     "source": "自由時報",
+     "published_at": "2026-11-28T11:24+08:00",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5656150",
+     "resolved": true
+    },
     {
      "title": "伊斯特拉橄欖油十度奪冠！早採冷壓搶鮮 業者公開「頂級好油」4大辨別關鍵 | TVBS",
      "kind": "店家相關",
