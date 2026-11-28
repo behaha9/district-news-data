@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "_說明": "關注議題「同一件事合併」對照表。網站以原文網址（inputs/topics.json 的 url）比對：同組多篇合成一則，代表原文的標題、日期、分類、照片為主；exclude 不顯示；不在表內的新文章各自成一則並標「新進」。由每次整理新聞時依 CURATION.md「四之一」維護，修改後須執行 python3 scripts/topic_groups.py 驗證。",
-  "updated_at": "2026-11-28T16:50:11+08:00",
+  "updated_at": "2026-11-28T20:50:55+08:00",
   "topics": {
     "cooking-oil": {
       "groups": [
@@ -590,7 +590,8 @@
           "note": "沙拉油配給制下餐飲業吃不消、考慮漲價",
           "representative": "https://www.chinatimes.com/newspapers/20261125000563-260114",
           "urls": [
-            "https://www.chinatimes.com/newspapers/20261125000563-260114"
+            "https://www.chinatimes.com/newspapers/20261125000563-260114",
+            "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qWWdNNWF5bjBpV2d0WmoxdEtqOHpBRGNkTl9JeTJ2SnlzTGl1RVpNb2tOZk1YVVJzOFdyQ1c3alN6b09MTHFPU0RKeWRVS3FpcF9zM0xzeVR6c3Z5NnQw?oc=5"
           ]
         }
       ],

@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-28T16:50:11+08:00",
+ "generated_at": "2026-11-28T20:50:55+08:00",
  "items": [
   {
    "id": "20261128-taiwan-japan-district-exchange",
@@ -24,6 +24,36 @@
     }
    ],
    "image": "https://images.chinatimes.com/newsphoto/2026-11-28/656/A11A00_P_01_01.jpg"
+  },
+  {
+   "id": "20261127-ipassmoney-kaohsiung-voucher",
+   "title": "一卡通協助高雄發放數位券，5天發出4萬張引導人潮至商圈",
+   "summary": "報導指一卡通 iPASS MONEY 配合大型演唱會協助高市府發放數位券，引導人流至周邊商圈消費，5天發出4萬張。",
+   "category": "開店與消費",
+   "alert": null,
+   "published_at": "2026-11-28T00:00:00+08:00",
+   "cities": [
+    "高雄市"
+   ],
+   "districts": [],
+   "sources": [
+    {
+     "outlet": "今傳媒 JNEWS",
+     "url": "https://focusnews.com.tw/2026/11/736606/",
+     "published_at": "2026-11-28T00:00:00+08:00"
+    },
+    {
+     "outlet": "自由時報",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5655443",
+     "published_at": "2026-11-27T16:19:00+08:00"
+    },
+    {
+     "outlet": "自由時報",
+     "url": "https://stock.ltn.com.tw/article/1l7860txncze",
+     "published_at": "2026-11-27T16:19:00+08:00"
+    }
+   ],
+   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/27/5655443_1.jpg"
   },
   {
    "id": "20261118-douliu-lantern-taiping",
@@ -105,31 +135,6 @@
     }
    ],
    "image": "https://d1j71ui15yt4f9.cloudfront.net/wp-content/uploads/2026/11/27164129/3-15-1024x599.jpg"
-  },
-  {
-   "id": "20261127-ipassmoney-kaohsiung-voucher",
-   "title": "一卡通協助高雄發放數位券，5天發出4萬張引導人潮至商圈",
-   "summary": "報導指一卡通 iPASS MONEY 配合大型演唱會協助高市府發放數位券，引導人流至周邊商圈消費，5天發出4萬張。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-27T16:19:00+08:00",
-   "cities": [
-    "高雄市"
-   ],
-   "districts": [],
-   "sources": [
-    {
-     "outlet": "自由時報",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5655443",
-     "published_at": "2026-11-27T16:19:00+08:00"
-    },
-    {
-     "outlet": "自由時報",
-     "url": "https://stock.ltn.com.tw/article/1l7860txncze",
-     "published_at": "2026-11-27T16:19:00+08:00"
-    }
-   ],
-   "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/27/5655443_1.jpg"
   },
   {
    "id": "20261127-lalaport-kaohsiung",
@@ -2186,67 +2191,6 @@
     }
    ],
    "image": "https://secure.gravatar.com/avatar/1d376d4c5e0c105211d0995b2087c627be58097e649e78748f3571367e4399c0?s=96&d=mm&r=g"
-  },
-  {
-   "id": "20261111-songshan-rice-fest",
-   "title": "松山商圈發展協會與宜蘭縣政府推「新米祭」，宜蘭好米進駐微風超市",
-   "summary": "臺北市松山商圈發展協會與宜蘭縣政府共同推廣2026新米祭，讓宜蘭嚴選米進駐微風超市。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-14T18:12:00+08:00",
-   "cities": [
-    "台北市"
-   ],
-   "districts": [
-    {
-     "name": "松山商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "松山商圈為115年補助名單，協會與縣市合作推廣活動，可作為執行佐證參考。",
-   "sources": [
-    {
-     "outlet": "墨新聞",
-     "url": "https://more-news.tw/768619/",
-     "published_at": "2026-11-14T18:12:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261114882149",
-     "published_at": "2026-11-14T18:12:00+08:00"
-    },
-    {
-     "outlet": "記者爆料網",
-     "url": "https://new-reporter.com/news/333449/",
-     "published_at": "2026-11-13T20:55:00+08:00"
-    },
-    {
-     "outlet": "蕃新聞",
-     "url": "https://n.yam.com/Article/20261113738382",
-     "published_at": "2026-11-13T15:49:00+08:00"
-    },
-    {
-     "outlet": "Yahoo新聞",
-     "url": "https://tw.news.yahoo.com/%E6%9D%BE%E5%B1%B1%E5%95%86%E5%9C%88%E8%BF%8E%E5%AE%9C%E8%98%AD%E5%A5%BD%E7%B1%B3-2026%E6%96%B0%E7%B1%B3%E7%A5%AD-13%E6%97%A5%E8%87%B315%E6%97%A5%E5%BE%AE%E9%A2%A8%E8%B6%85%E5%B8%82%E5%85%8D%E8%B2%BB%E8%A9%A6%E5%90%83-054243611.html",
-     "published_at": "2026-11-13T13:42:00+08:00"
-    },
-    {
-     "outlet": "警政時報",
-     "url": "https://www.tcpttw.com/local/2026/11/13/330213/",
-     "published_at": "2026-11-13T13:42:00+08:00"
-    },
-    {
-     "outlet": "警政時報",
-     "url": "https://www.tcpttw.com/life/2026/11/11/329449/",
-     "published_at": "2026-11-11T16:19:00+08:00"
-    },
-    {
-     "outlet": "觀傳媒",
-     "url": "https://www.watchmedia01.com/archives/568607",
-     "published_at": "2026-11-11T00:00:00+08:00"
-    }
-   ],
-   "image": "https://more-news.tw/more-news-media/2026/11/IMG_7438.jpeg"
   }
  ],
  "discussions": []
