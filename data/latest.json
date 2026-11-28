@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-28T12:22:53+08:00",
+ "generated_at": "2026-11-28T16:50:11+08:00",
  "items": [
   {
    "id": "20261128-taiwan-japan-district-exchange",
@@ -167,6 +167,11 @@
      "outlet": "蕃新聞",
      "url": "https://n.yam.com/Article/20261127774449",
      "published_at": "2026-11-27T11:18:00+08:00"
+    },
+    {
+     "outlet": "LIFE 生活網",
+     "url": "https://life.tw/article/%E6%96%B0%E7%AB%B9%E5%B8%82%E8%88%89%E8%BE%A6-%E9%A2%A8%E6%BC%AB%E9%81%8A-%E5%9F%8E%E6%9C%89%E5%91%B3-%E6%88%90%E6%9E%9C%E5%B8%82%E9%9B%86-12%E6%9C%886%E6%97%A5%E7%99%BB%E5%A0%B4-3237541",
+     "published_at": "2026-11-27T10:59:00+08:00"
     },
     {
      "outlet": "聯合新聞網",
@@ -1723,7 +1728,7 @@
      "published_at": "2026-11-17T17:05:00+08:00"
     }
    ],
-   "image": "https://news.st-media.com.tw/UserFiles/resource/n_37f7586b864da621e9c3db841133d587/file/111702.jpg"
+   "image": "https://www.cts.com.tw/data/news/photo/cts/202611/202611183102529.jpg"
   },
   {
    "id": "20261118-tainan-shennong-light",
@@ -2242,73 +2247,6 @@
     }
    ],
    "image": "https://more-news.tw/more-news-media/2026/11/IMG_7438.jpeg"
-  },
-  {
-   "id": "20261113-zhongyuan-mickey-steak",
-   "title": "中原商圈30年老店「米老鼠牛排館」11月15日結束營業",
-   "summary": "位於桃園中壢中原大學商圈的米老鼠牛排館開業逾30年，因老闆年事已高、無人接班，宣布11月15日熄燈。",
-   "category": "開店與消費",
-   "alert": null,
-   "published_at": "2026-11-14T15:09:00+08:00",
-   "cities": [
-    "桃園市"
-   ],
-   "districts": [
-    {
-     "name": "中原商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "中原商圈為115年補助名單，老店歇業可能影響商圈特色，可留意商圈店家變動。",
-   "sources": [
-    {
-     "outlet": "三立新聞網",
-     "url": "https://www.setn.com/news/1938755",
-     "published_at": "2026-11-14T15:09:00+08:00"
-    },
-    {
-     "outlet": "Yahoo奇摩新聞",
-     "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%8E%9F%E5%95%86%E5%9C%88%E7%9F%A5%E5%90%8D%E7%89%9B%E6%8E%92%E9%A4%A8%E5%B0%87%E7%86%84%E7%87%88-%E5%9C%A8%E5%9C%B0%E7%B6%93%E7%87%9F30%E5%B9%B4-%E6%A5%AD%E8%80%85%E7%99%BC%E9%81%93%E5%88%A5%E6%96%87-%E8%80%81%E9%A1%A7%E5%AE%A2%E4%B8%8D%E6%8D%A8-231400289.html",
-     "published_at": "2026-11-14T07:14:00+08:00"
-    },
-    {
-     "outlet": "TVBS新聞網",
-     "url": "https://news.tvbs.com.tw/life/4050252",
-     "published_at": "2026-11-13T18:42:00+08:00"
-    },
-    {
-     "outlet": "ETtoday旅遊雲",
-     "url": "https://travel.ettoday.net/article/3271765.htm",
-     "published_at": "2026-11-13T17:23:00+08:00"
-    }
-   ],
-   "image": "https://attach.setn.com/newsimages/2026/11/14/5787540-PH.jpg"
-  },
-  {
-   "id": "20261114-tamsui-xmas-lights",
-   "title": "淡水耶誕點燈，10公尺聖誕樹串聯老街等三大燈區展至12/27",
-   "summary": "新北市淡水區公所舉辦「2026淡水耶誕 逐光旅程」，13日晚點燈，規劃淡水老街、馬偕銅像三角公園及觀潮廣場三大燈區，展期至12月27日。",
-   "category": "活動與街區",
-   "alert": null,
-   "published_at": "2026-11-14T13:52:00+08:00",
-   "cities": [
-    "新北市"
-   ],
-   "districts": [
-    {
-     "name": "淡水老街商圈",
-     "priority": true
-    }
-   ],
-   "admin_note": "淡水老街商圈為115年補助名單，耶誕燈區串聯老街，可留意與計畫活動的銜接。",
-   "sources": [
-    {
-     "outlet": "TVBS新聞網",
-     "url": "https://news.tvbs.com.tw/local/4050357",
-     "published_at": "2026-11-14T13:52:00+08:00"
-    }
-   ],
-   "image": "https://news-images.tvbs.com.tw/api/v1/image/01a1d7a9-28e5-7018-8b2f-c0d2da2e9861.png?t=16x9&wp=r,b&c=63,0,886,463&w=1200&h=675"
   }
  ],
  "discussions": []
